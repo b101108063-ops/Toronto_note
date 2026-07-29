@@ -1,4445 +1,1613 @@
-RH6 Rheumatology
-
-Table 9. Signs and Symptoms of OA
-
-Signs. ‘Symptoms,
-Joint line tendemess; stress pain  ointeffusion Joint pain with motion; relieved withrest
-Bony enlargement at affected joints Gelling
-
-Malalignmentideformit (angulation)
-Limited ROM
-
-repituson passive ROM
-[nflammation (mili present)
-Perirticular muscle atrophy
-
-Joint instabiltybuckling (often due to ligamentous instability)
-Joint locking due to “joint mouse” bone or cartilage fragment)
-Loss of function (eg. meniscal tear or other internal derangements)
-Insidious onset of pain, localized toaffectedjoints
-
-Fatigue, poor sleep, impacton mood
-
-Table 10. Radiographic Hallmarks of OA
-
-Radiographic Hallmarks of Osteoarthritis
-
-Radiographic Hallmarks of Inflammatory Arthritis
-
-Joint space narrowing ~ typically non-uniform
-Subchondrial sclerosis
-
-Subchondrial cyst formation
-
-Osteophytes
-
-Knee hip, DIP ints
-
-Older, overused joint
-
-Joint space narrowing — typically uniform
-Softtissue swelling
-
-Erosions
-
-Periartcular osteopenia
-
-Rheumatoid: -spne, carpus, MCP joints, MTP joints
-Often younger
-
-New bone formation (ve. psoriatic arthritis)
-
-Joint Involvement
-+ generalized OA: 3+ joint groups
-* asymmetric (knees usually affected bilaterally)
-+ hand
-= DIP (Heberden’s nodes = osteophytes > enlargement of joints)
-= PIP (Bouchard’s nodes)
-* CMC (usually thumb squaring)
-nt Ist MCP (other MCPs are usually spared)
-+ hi
-? usually presents as groin pain + dull or sharp pain in the trochanteric area, internal rotation and
-abduction are lost first
-QC pain can radiate to the anterior thigh but generally does not go below the knee
-+ knee
-= initial narrowing of one compartment, medial > lateral, seen on standing x-rays, often patellofemoral
-joint involved
-+ foot
-= common in Ist MTP and midfoot
-lumbar spine
-= very common, especially L4-L5, L5-S1
-= degeneration of intervertebral discs and facet joints
-= reactive bone growth can contribute to neurological impingement (e.g. sciatica, neurogenic
-claudication) or spondylolisthesis (forward or backward movement of one vertebra over another)
-cervical spine
-= commonly presents with neck pain that radiates to scapula, especially in mid-lower cervical area (C5-C6)
-
-Investigations
-+ blood work
-= normal CBC, ESR, and CRP
-= negative RF and ANA
-+ radiology: 4 hallmark findings, see sidebar
-+ synovial fluid: non-inflammatory (see Table 8, RH4)
-
-Treatment
-+ presently, no treatment alters the natural history of OA
-+ prevention: prevent injury, weight management, physical activity (maintenance of muscle strength)
-+ non-pharmacological therapy
-= weight loss (minimum 5-10 Ib loss) if overweight
-exercise: more effective if supervised, often by physiotherapists or in a class setting; Tai chiis strongly
-recommended for hip/knee OA
-self-efficacy and self-management programs (goal-setting, positive thinking, education on the disease)
-thermal intervention: heat or cold
-occupational therapy: aids, splints, cane, walker, bracing
-+ pharmacological therapy (see Table 35, RH31)
-= stepped approach to therapy (local > systemic therapy)
-= local therapy:
-* topical NSAIDs, topical capsaicin (knee, hand OA)
-* injections: IA glucocorticoids (knee, hip OA)
-= systemic therapy:
-‘* acetaminophen, oral NSAIDs
-centrally acting agents (e.g. duloxetine)
-= the following are not recommended based on lack of high-quality evidence: opioids and medical
-cannabinoids (for pain), hyaluronates, platelet-rich plasma, stem cell injections, chondroitin, and
-glucosamine
-+ surgical treatment
-= total and/or partial joint replacement, joint debridement (not shown to be effective), osteotomy, fusion
-
-Toronto Notes 2025
-
-\fa
-ca
-
-1. Thumb squaring
-2. Heberden’s nodes
-3. Bouchard’s nodes
-
-Figure 4. Hand findings in OA
-
-Differential Diagnosis of Elevated ESR
-‘Systemic inflammatory diseases
-Localized inflammatory diseases
-Malignancy
-
-Trauma
-
-Infection
-
-Tissue injuryischemia
-
-‘The Radiographic Hallmarks of OA
-
-Loss
-Loss of oint space
-Osteophytes
-Subchondral cysts
-Subchondral sclerosis
-
-Exercise for Osteoathits ofthe Knee:
-
-‘Cochrane Systematic Review
-
-Sports Med 2015491954 1557
-
-Purpose: To determine ifland-based therapeutic
-
-cnr cise is beneficial for people with knee OA in
-reducing pan, improving physica function, and
-improving quality off.
-
-Methods: Five databases searched for randomized
-clincalvials comparing therapeuticerercise witha
-on-ecise conto.
-
-Results 54stutesidentifed, Results from 44 rials
-indicate that exercise significant reduced pin (12
-pint/100, 95% C1 10to 18) and improved physical
-function (10 points 100; 95% C1 8o 13) after treatment.
-ditionally, 1stuties showed proved quality of fe
-wit ners. 12 studies showed reduced kneepain
-(Gpoint/100, 95% C13 119 and 10 studies showed
-function (point 10; 95% C1105)
-mo after treatment
-
-Conclusion: n people with nee OA, land-based
-therapeutic exercise provide shot-tem benef thatis
-sustained afew mo afer treatment
-
-OARS! quelines forthe non-surgical management
-cofknee, hip, and polyarticular osteoarthritis
-Osteorthits and cartdage 201,271; 1578-89
-Purpose: To develop patient focused treatment
-recommendations forknee, ip, and polyarticular
-
-«ste ort (On order to update and expand prot
-Osteoarthts Research Society International (OASR)
-guidelines.
-
-Methods: Asystematicreview was competed to
-craluate 60 unique interventions. Core treatments
-were voted on in succesive rounds by Panel members
-Result. Core treatments forknee, hp, and
-polyarticular Ok were arthritis education and structured
-land-based exercise programs. Nor-<ore treatment
-options are alse discussed and graded foreach OA
-subtype.
-
-Conclusions: These updated guidelines ofera
-treatment algorithm that wil faitateindividualzed
-and patient-centered treatment decisions fr OA.
-
--e 
-
-## Page 1501
-
-RH7 Rheumatology Toronto Notes 2025
-
-Seropositive Rheumatic Disease
-
-+ diagnosis vs. classification in rheumatology
-«= diagnostic criteria are selected for sensitivity as opposed to specificity and thus may misdiagnose some
-cases
-= classification criteria are developed for specificity so well-defined cases can be studied in clinical trials
-= modern classification criteria are more sensitive and specific for diagnostic use in studies of earlier
-disease
-«+ seropositive arthropathies are characterized by the presence of a serologic marker such as positive RF or
-ANA
-+ asmall subset of the vasculitides (i.e. the small vessel ANCA-associated vasculitides) has a measurable
-serological component, but they are often considered a separate entity from seropositive disease by experts
-
-Table 11. Autoantibodies and Their Prevalence in Rheumatic Diseases
-
-Autoantibody Disease Healthy Controls Comments
-RF RABO% 5.25% Serologic hallmark of RA
-550% ‘Autoantibodies directed against Fc domain ofgG
-SLE20% Sensitivein RA (can be negative early in disease course)
-
-“RF isassociated with more aggressive joint disease and extra-articuar
-features (e.g. nodules)
-
-May bepresentin ANA-posiive diseases, often in lower titre
-Nonspecific; maybe present in, TB, hepatitis C, silicosis, sarcoidosis
-
-Anti-cCP RABO% Specific for RA(94-98%)
-May be useful in early disease and to predict persistent anderosive disease; can
-occur before inical disease becomes apparent
-Associated with increased extra-articular RA mantestations
-
-ANA SLESB% Hightitres :640<5% Ab against nuclear components (DNA, RNA, histones, centromere)
-MCTD 100% Lowtitres 140 Sensitive but not specific for SLE
-$540-70% Upto 30% Given high alse posiiverate- only measure when high pre-test probability
-
-CREST syndrome 60-80% Prevalence of non-disease- of CID
-(Often seen inother CTDs) related ANArises with age Given its high sensitivity, a negative ANA can help to rule out SLE
-
-‘Anti-dsDNA SLE5O-70% O% Specific for SLE (95%)
-Levels can correlate with disease activity (ve. SLE flare)
-Anti-Sm SLE<30% % Specific butnot sensitivefor SLE
-
-Doesnot correlate withSLE disease activity
-I positive, willremainpostive through disease course
-
-Anti-Ro (5A) $540.95% 0.5% Senin
-$s 21% ‘Nso seen insubacute cutaneous SLE (74%)
-SUE32% May bethe only Ab presentin ANA negative SLE
-AMIS Presence in pregnancy inreasesrisk of having achildwith neonatal pus
-syndrome and congenital heart block
-Anti-La (658) 540% 0% Usually occurs withant-Ro
-SLETO Specific for Sand SLE when anti-Ro is also positive
-Increases risk of having a child with neonatal lupus syndrome
-Antiphospholipid (LAC, APS 100% 5% By definition, present inAPS
-aCLA, aB26P) SLE3T-40% Onl smal subset of SLE patients develop clinical syndrome of APS
-
-Ht positive, will oftengeta false positive VORL test
-
-Anti-Histone Drug-induced SLE95% 0% Highly specific for drug-induced SLE
-SLE30-80% %
-Ant-RNP- CTD 20% High titres presentin MCTD; presentin many other CTDs (especially SLE)
-SLE
-‘Anti-Centromere Limited SSe(CREST)>80% 0% Specific for CREST, limited cutaneous variant systemic sclerosis
-‘Anti-Topoisomerase! —_Difluse SSc26-76% 0% Specific tor SSe
-(ormertyScl-70) ‘Associated with diffuse cutaneous SSc
-Increased risk for interstitial ung disease inSSc
-Anti-Jot PM DMM. % Less frequent for DMM
-‘Associated with interstitial lung disease and anti-synthetase syndrome
-ANCA Active GPA 90% % Specific 80-95% for GPA
-MPA25% Sensitivity can vary between moderate to high depending on technique and
-EGPAKS% timing of sample. Enzyme-linked immunosorbent assay (ELISA) method (ant-
-R3)is more specific than immunofluorescent technique (IF)
-p-ANCA GPA10% 0% Nonspecific and poor sensitivity (found in erative clits, PAN, microscopic
-MPA60-80% polyangitis, GPA, rapidly progressive gomerulonepritis. ELISA method
-EGPA30-40% (enti-MPO)ismore specific than IF
-Anti-Mi2 DMM15.20% Specific butnot sensitive (not available in all centres)
-‘AbAgainst RBCs, WBCs, SLE Perform DAT, test Hb reticulocyte leukocyte, platelet count, andantiplatelet
-orPlatelets Bs
-‘Anti-Mitochondria Primary biliary cholangitis 0% Sensitiveand spectic
-
-Note: some individualsin the normal population test positive for RF andlor ANA, but donot have the concition iste above
--e 
-
-## Page 1502
-
-RH8 Rheumatology
-
-Connective Tissue Disorde
-
-Table 12. Features of Seropositive Arthropathies
-
-RA SUE Scleroderma MM
-‘CLINICAL FEATURES
-History ‘Symmetical polyarthritis Multiystemdisease: rash, _Skintightness, stiffness offingers, Heliotrope rash (periorbital),
-{smalljoint involvement) mouth ulcers, photosensitty, Raynaud's, heartburn, dysphagia, Gottron’s papules (violaceous
-Morning sttiness(>1h) Raynaud's, alopecia, cardiac SOBonexertion due to pulmonary papules over knucklesand IPs) +
-Dyspnea on exertion ILD) andpulmonaryserositis, CNS HINorILD,renalcrsiswithnew —_poikiloderma
-in 30% symptoms, gomerulonephritis onsetHTN orhypertensive ugency/ Shawisign: photosensivity, macular
-emergency erythema ver chest and shoulder
-Proximal musde weakness > pain,
-dyspnea onexertion
-Physical Examination —farly:effused joints, ‘Check BP rash, mouth Skintightness on dorsum of Heliotrope rash, Gottron's papules,
-tenosynovitis, ulcers, alopecia, Raynaud's hand, facial skin tightening, shave sign, proximal muscle
-subcutaneous nodules, phenomenon, serosits, © telangiectasia, calcinosis, non- weakness (usually painless),
-other extra-articular ceffused typically smal) joints effused joints, inspiratory crackles, inspiratory crackles
-manifestations (canbe minimal, ook forsoft features of right sided heart failure
-Late:oint deformities, tissue swelling
-bone-on-bone repitus in
-advanced disease, inspiratory
-crackles
-LABORATORY
-Nonspecific + ESRin 50-60% +ER +H +P
-+ CRP 4+ Platelets autoimmune) Normal WBC +H
-* Platelets 4+ Hb (autoimmune) Possibly ¢ Cr, proteinuria Normal WBC
-4+ Hb (chronic disease) + WBC (leukopenia, 1K
-4+ WBC neutropenia rare) lymphopenia)
-+ Cr, proteinuria, RBC casts
-Specific RF-postvein “80% ANA postivein 98%, ANA positive in>90% (CKelevated in 80%
-Ant-CCP-positivein “80% Ant-dsDNApositivein 50-70%, — Anti-topoisomerase 1 (diffuse) ‘ANA positivein 33%
-Anti-Sm-postve in 30%, ‘Anti-centromere (usualy inCREST, Anti-Jo-,ant-Mi-2
-+3, total See Sidebar, CREST Syndrome, RHT4) Muscle biopsy
-hemolyticcomplement, EG
-false positive VOR (inSLE RI
-subtypes)
-wp
-Radiographs Very early: normal Non-eresive +10 + Esophageal dysmotiity
-Early:periartcular osteopenia + Osteopenia ophageal dysmotility No
-Later:jointspace narrowing + Softtissue swelling lcinosis + Calcifications
-
-Erosions
-‘Symmetriciconcentric
-+ IkOilung nodules
-
-Rheumatoid Arthritis
-
-Definition
-
-+ chronic, symmetric, erosive synovitis of peripheral joints (e.g. wrists, MCPs, MTPs)
-+ characterized by inflammatory joint disease + a number of extra-articular features
-+ 1 joint with definite clinical synovitis (swelling) not explained by another disease
-
-Table 13. 2010 ACR/EULAR Classification Criteria for RA
-sed algorithm: add score of categories A-D; a score of 6/10 for definite RA)
-
-Score Comments
-A Joint involvement swollen o ender)
-‘age joint shoulders, elbows hips, knees, and ankles) 0
-240 arge joints 1
-413.maloints (MCPs, PPs, wrist, 2nd-Sth MTP) 2
-440 smal joints 3
->10joints at least smal jit) 5
-Sel Total scoreot 26: definite RA
-WegatveRF and negative At CP 0 Must have 21 jointwith definite clinical swelling, not better explained
-Low-positiveRF orlow-positive Anti-CCP (<3x ULN) 2 byanother
-High-positiveRF or high-positive Ant-CCP(-3x ULN) 3
-Acute phase reactants
-Normal CRP and normal ESR 0
-Abnormal CRP and abnormalESR 1
-D. Duration ofsymptoms
-<6wk 0
-26k 1
-
-‘Arthritis Rheum 2010;62:2569-2581
-
-Toronto Notes 2025
-
-Ris an independent risk factor for
-atherosclerosis and CV disease. RA is
-associated with increased overall mortality/
-‘morbidity from all causes: CV disease,
-‘neoplasm (especially lymphoma), infection
-
-‘Common Presentation
-‘Morning stiffness >1h, improves with use
-‘Symmetric joint involvement
-
-Initially involves small joints of hands
-andfeet
-
-Constitutional symptoms
--e 
-
-## Page 1503
-
-RH9 Rheumatology
-
-Pathophysiology
-+ autoimmune disorder, unknown etiology; may have genetic and environmental component
-+ complex genetic and environment interactions lead to disruption of immune tolerance, ultimately resulting
-in synovial inflammation
-= genetic predisposition: HLA-DR4/DR1 association (93% of patients have either HLA type), cytokine
-promoters, T cell signaling
-= environmental predisposition: induction of enzymes that convert arginine to citrulline caused by
-environmental stress (cigarette smoking), propensity for immune reactivity to neoepitopes created by
-protein citrullination
-+ inflammatory process causes transformation of synovium into an invasive pannus tissue that degrades
-cartilage and bone with absence of repair
-= elevated TNF level increases osteoclasts and decreases osteoblasts at the site of inflammation (results in
-periarticular osteopenia)
-= upregulation of RANK ligand increases osteoclast-mediated destruction
-
-Epidemiology
-
-+ most common inflammatory arthritis: prevalent in 1% of population
-+ M:F=13
-
-+ age of onset commonly between 20-40 yr
-
-Clinical Presentation
-+ variable course of exacerbations and remissions
-+ morning stiffness >1 h, improves with use, worsens with rest
-+ polyarthritis: symmetric joint involvement (tender, swollen), small joints affected, most commonly in
-ands and feet (MCP, PIP, MTP)
-constitutional symptoms: profound fatigue, depression, myalgia, weight loss
-extra-articular features
-functional limitation and decrease in global functional status
-complications of chronic synovitis
-= signs of mechanical joint damage: loss of motion, instability, deformity, crepitus, joint deformities
-swan neck deformity, boutonniére deformity, Bowstring sign
-¢ ulnar deviation and subluxation of MCP, radial deviation of wrist joint
-+ hammer toe, mallet toe, claw toe
-+ flexion contractures
-= atlanto-axial and subaxial subluxation
-¢ C-spine instability
-— neurological impingement (long tract signs)
-— difficult/dangerous intubation: risk of worsening subluxation and damage to spinal cord
-limited shoulder mobility, spontaneous tears of the rotator cuff leading to chronic spasm
-tenosynovitis > may cause rupture of tendons
-carpal tunnel syndrome
-ruptured Baker's cyst (outpouching of synovium behind the knee); presentation similar to acute deep vein
-thrombosis (DVT)
-* poor prognostic factors include: young age of onset, high RF titre, elevated ESR, activity of >20 joints, and
-presence of extra-articular features
-
-Table 14. Extra-Articular Features of RA Classified by Underlying Pathophysiology
-
-‘System Vasculitic Lymphocytic Infiltrate
-Skin Periungual infarction, ctaneousulcers, palpable ‘Rheumatoid nodules (may havevasculticcomponent)
-purpura
-Ocular Episcleitis,sclerts Keratoconjunctivts sic
-Head and Neck Xerostomia, Hashimoto's thyroiditis (see
-Endocrinology, E31)
-Cardiac Perismyocarditis, valvular disease, conduction defects
-Pulmonary Pulmonary fibrosis, pleural effusion, plewitis,
-pulmonary nodules
-Neurologic Peripheral neuropathy: sensory stocking-glove,
-mononeurts multiplex
-Hematologic Splenomegaly, neutropenia (Felty’s syndrome)
-Renal ‘Amyloidosis - caused by accumulation of abnormal
-proteins
-Classification of Global Functional Status in RA
-
-+ Class: able to perform usual activities of daily living (self-care, vocational, avocational)
-
-+ Class II: able to perform self-care and vocational activities, restriction of avocational activities
-+ Class III: able to perform self-care, restriction of vocational and avocational activities
-
-+ Class IV: limited ability to perform self-care, vocational, and avocational activities
-
-Toronto Notes 2025
-
-+ PP
-
-+ MCP
-
-+ Wrist, not 1st CMC
-Ebow
-
-5
-Olina Cl
-
-Figure 5. Common sites of joint
-involvement in RA
-
-Boutonniére Deformity
-
-‘Swan Neck Deformity
-
-Claw Toe
-
-© Jennifer Gu 2022
-
-Ki
-
-Hammer Toe
-
-(© Biisheva Marcus and Gloria Situ
-
-Mallet Toe
-
-Figure 6. Joint deformities
-
-‘Syndromes in RA
-SS (common): keratoconjunctivtis sicca
-and xerostomia (dry eyes and mouth)
-Caplan’s syndrome (very rare):
-combination of RA + pneumoconiosis that
-‘manifests as multiple intrapulmonary
-nodules
-
-Fety's syndrome (rare: arthritis,
-splenomegaly, neutropenia
--e 
-
-## Page 1504
-
-RH1O Rheumatology
-
-Investigations
-+ blood work
-= RF: 80% sensitivity but non-specific; may not be present at onset of symptoms; levels do not correlate
-with disease activity
-can be associated with more erosions, more extra-articular manifestations, and worse function
-= anti-CCP: 80% sensitivity but more specific (94-98%); may precede onset of symptoms
-+ increased disease activity is associated with decreased Hb (anemia of chronic disease) and increased
-platelets, ESR, and CRP
-+ imaging
-bilateral hands/wrists, ankles/feet x-ray
-« first change is periarticular osteopenia, followed by erosions
-C-spine x-ray (may be normal at onset, required for preoperative assessment in long-standing disease)
-U/S (with power Doppler) - often changes of synovitis/erosion noted in advance of those seen on plain
-xray
-= MRI may be used to image hands to detect early synovitis and erosions
-= on MRI, inflamed synovium is hypointense on T1 and hyperintense on T2; bone marrow edema can be
-seen as well as areas of increased uptake gadolinium contrast
-
-Treatment
-+ goals of therapy: remission or lowest possible disease activity
-= key is early diagnosis and early intervention with DMARDs
-= “window of opportunity” = early treatment within first 3 mo of disease may allow for better control/
-remission
-= assess poor prognostic factors at baseline (RF-positive, functional limitations, and extra-articular
-features)
-+ behavioural
-= exercise program: active, gentle ROM and isometric exercise during flares; aquatic/aerobic/
-strengthening exercise between flares
-= job modification, assistive devices as necessary
-= interventions to reduce cardiovascular disease, smoking cessation, lipid control
-+ pharmacologic: alter disease progression
-= DMARDs and biologics (not analgesics or NSAIDs) can alter the course of RA
-= DMARDs
-treatment with DMARDs should be started as soon as RA diagnosis is made and should be aimed at
-reaching sustained remission
-¢ MTX is the gold standard and is first-line unless contraindicated
-— prior to MTX therapy: CBC profile liver enzymes (ALT), Cr (Cr clearance), hepatitis B
-— and C serology, and a CXR should be done
-— monitor and if inadequate response (3-6 mo) > combine or switch
-— consider combination therapy with MTX if patients have poor prognostic features or
-— high disease activity
-— therapy includes: hydroxychloroquine, SSZ, leflunomide, biologics
-- contraindications include liver disease, significant alcohol intake, pregnancy, and
-lactation
-— If methotrexate (MTX) is contraindicated, hydroxychloroquine, sulfasalazine (SSZ),
-and/or leflunomide can be considered. Hydroxychloroquine is a weaker agent, while
-leflunomide is more potent but is also contraindicated in pregnancy and has very long
-washout periods if and when the drug is discontinued
-¢ JAK inhibitors (including tofacitinib and upadacitinib) are oral small molecule synthetic DMARDs;
-considered if other DMARDs fail
-= biologics (bDMARDs)
-+ should be used if inadequate response to DMARDs
-should be combined with DMARD therapy (initiating with combination therapy is associated with
-faster response rates and longer duration of effect)
-first-line (anti-TNF) options: infliximab, etanercept, adalimumab, golimumab, and certolizumab
-non-anti-TNF biologic agents include anakinra (almost never used for RA), abatacept, rituximab,
-and tocilizumab
-reassess every 3-6 mo and monitor disease activity (predominantly via assessing swollen joint
-count)
-+ pharmacologic: supportive to reduce inflammation and pain
-= NSAIDs
-+ individualize according to efficacy, tolerability, and comorbidities
-* contraindicated/cautioned in some patients (e.g. PUD, ischemic cardiac disease, pregnancy, CKD,
-anticoagulant use)
-+ add acetaminophen for synergistic pain control
-= corticosteroids
-+ local: injections to control symptoms in a specific joint
-+ systemic (oral prednisone) or IM
-— low dose (5-10 mg/d) useful for short-term to improve symptoms if NSAIDs are ineffective
-and to bridge gap until DMARDs take effect
-
-.
-
-oe
-
-.
-
-Toronto Notes 2025
-
-Poor prognostic features of RA include:
-young age of onset, high RF titre, elevated
-ESR, activity of >20 joints, and presence of
-extra-articular features
-
-Side Effects of Steroids
-
-Cataracts, glaucoma
-PuD
-
-‘Susceptibility to infection
-Easy bruising
-
-Acne
-
-HIN
-
-Hyperlipidemia
-Hypokalemia, hyperglycemia
-Mood swings
-
-DMARDs, prednisone, and biologics
-{PDMARDs) but not analgesics or NSAIDs,
-alter the course of RA
--e 
-
-## Page 1505
-
-RHIL Rheumatology Toronto Notes 2025
-
-— do baseline DEXA bone density scan and consider bone supportive pharmacologic therapy
-(e.g. bisphosphonates) if using corticosteroids 7.5 mg/d >3 mo, particularly in those with
-other risk factors
-— cautions/contraindications: active infection, TB, osteoporosis, HTN, gastric ulcer, DM
-+ surgical
-« indicated for structural joint damage
-= surgical options include: synovectomy, joint replacement, joint fusion, reconstruction/tendon repair
-
-Follow-Up Management and Clinical Outcomes (@)
-
-+ clinical reassessment every mo initially, then 3-6 mo if still ongoing activity, then 6-12 mo after Q meoppreayes
-inflammation has been suppressed Aizcemat Reo oldest Maregog
-
-+ examine joints for active inflammation - if active, consider adjusting medications, physical therapy/ BMC Rheumatol 2019;3:42
-occupational therapy (PT/OT) Speed parcial eeepeeet
-
-+ RA patients should be screened and managed for cardiovascular disease given increased risk SS eee
-
-+ if assessment reveals joint damage - consider analgesia, referral to PT/OT, surgical options diagnosis
-
-* outcome depends on disease activity, joint damage, physical functional status, psychological health, and The estintialteatmentis MIX
-comorbidities Wait disease activity egulrly
-
-+ functional capacity isa useful tool for determining therapeutic effectiveness; many tools for evaluation ties
-
-)gics should be initiated in patients with
-
-have been validated persstely active disease despite MDK treatment
-
-+ patients with RA have an increased prevalence of other serious illnesses: infection (e.g. pulmonary, ISPS Pr Oe
-skin, joint), osteoporosis, mental health disorders, renal impairment, lymphoproliferative disorders, ext remission
-
-cardiovascular disease (correlates with disease activity and duration)
-+ risk of premature mortality, decreased life expectancy (most mortality not directly caused by RA)
-
-Systemic Lupus Erythematosus
-
-+ see Nephlog.NP26 @
-see Nephrology, NP2 O<oemcen
-Definition (MD SOAP BRAIN
-+ chronic autoimmune disease of unknown etiology resulting in multi-system inflammation Malar rash
-+ characterized by production of autoantibodies and diverse clinical manifestations pee
-Table 15. Classification Criteria of SLE* oe
-Entry criterion: ANAat a titre of=1:80 and Additive Criteria Photosensitvity
-4. Donot count criterion i there isa more likely explanation than SLE Blood
-2. Occurence of acritrionon atleast one occasion is sufficient Renal
-3. Withineachdomain only the highest weighted criterion is countedtowards the total score Arthritis
-Clinical Domains and Criteria Score iene
-Constitutional Fever 2 ES
-Hematologic Leukopenia 3
-Thrombocytopenia 4 @
-‘Autoimmune hemolysis 4 Systemic Lupus Erythematosus: AReview
-Neuropsychiatric Delirium 2 Moe, 202433117: 1480-1491
-peyehasis 3 Purpose: To review and summarize curentevidence-
-ye based recommendations regarding the diagnosis and
-Seizue 5 treatment of SLE.
-Methods: Sjstematireview using ey wordsin
-Mucocutaneous Non scarring alopecia 2 Paled led 0 udes at wre added nthe
-Oral ulcers 2 corent review.
-‘Subacute cutaneous or discoid lupus 4 ResultslCondusions: Diagnostic criteria presented
-bythe 2019 European Alianc of Associations for
-Acute cutaneous lupus 6 Rheumatology American Colege of Rheumatology was
-Serosal Pleural or pericardial effusion 5 ‘endorsed, which inchdes iri
-and immunoogicmeasires
-Acute pericarditis G Iydrryclroquie, wil
-Musculoskeletal Joint involvement 6 moray, dunt treatments shoul beiniviuazed
-Renal Proteinuria (0.5 9/24 hy 4 — Inmumosuppressive or
-Renal biopsy lass lor Viupus nephritis 8
-Renal biopsy Gass Ir V lupus nephritis 10
-Immunology Domains and Criteria Score Environment
-Antiphospholipid antibodies Anti-cardiolipin antibodies or Anti-B2P61 antibodies or lupus anticoagulant 2 Stress, viruses, sun
-Pies ™ mesons Genetic Hormonal
-Complement proteins Low ¢3orlow C4 3 HLA
-Low 3 andlow C4 4 Teells Drugs
-SLE specific antibodies Anti-dsDNAor Anti-Smantibodies 6
-
-*Ciassification of SLE requires total score of with clinica criterion
-Sindhu. Johnson, Tomas Dérner, Ray Kaden, eal. Arthritis & Rheumatology (7, 9), p. 1400, copyright © 2020, Modified by Permission of John Wieyand Sons
-Formation of
-
-Auto-Ab
-
-Cytotoxic Ab Immune complexes
-
-Cell damage/death Inflammation
-
-Figure 7. Multifactorial etiology of
-SLE
--e 
-
-## Page 1506
-
-RH12 Rheumatology Toronto Notes 2025
-
-Etiology and Pathophysiology
-+ production of cytotoxic autoantibodies and immune complex formation
-+ multi-factorial etiology
-genetics
-= common association with HLA-B8/DR3; ~10% have positive family history
-= strong association with defects in apoptotic clearance > fragments of nuclear particles captured by
-antigen-presenting cells > develop ANAs
-= cytokines involved in inflammatory process and tissue injury: BlyS, IL-6, IL-17, IL-18, TNF-a
-+ environment
-= UVradiation, cigarette smoking, infection, vitamin D deficiency, silica dust
-+ estrogen
-= increased incidence after puberty, decreased incidence after menopause
-= men with SLE have higher concentration of estrogenic metabolites
-«= increased risk of SLE associated with use of combined oral contraceptive pills and hormone
-replacement therapy
-+ infection
-
-= viral (non-specific stimulant of immune response) (ie)
-+ drug-induced
-= antihypertensives (hydralazine), anticonvulsants (phenytoin), antiarrhythmics (procainamide), Drug-Induced SLE
-isoniazid, biologics, antibiotics (e.g. minocycline) Osten reser Sey PRCany ee oar
-S - features and serositis; usually associated
-= anti-histone Abs are commonly seen in drug-induced SLE Ss
-= symptoms resolve with discontinuation of offending drug
-Epidemiology
-+ prevalence: 0.05% overall
-+ M:F=1:10
-+ age of onset in reproductive yr (15-45)
-* more common and severe in Hispanic and Asian individuals, and individuals of African descent
-+ bimodal mortality pattern
-= early (within 2 yr)
-+ active SLE, active nephritis, infection secondary to steroid use
-« late
-* inactive SLE, inactive nephritis, atherosclerosis likely due to chronic inflammation
-Clinical Presentation
-+ characterized by periods of flares and remission
-Table 16. Signs and Symptoms of SLE
-System ‘Symptoms e})
-Systemic Fatigue, malaise, weightloss, fever, lymphadenopathy Raynaud's Phenomenon
-Hematologic ‘Anemia of chronic disease, hemolytic anemia, leukopenia, neutropenia, thrombocytopenia, pancytopenia, thrombosis, splenomegaly \Vasospastic disorder characteristically
-‘causing discolouration of fingers and toes
-Renal Hematuria, proteinuria (ghmerulonephitis), HTN, peripheral edema, renal failure {white blue» red)
-Dermatologic Photosensitivty, malar rash, discoid rash, ora ulcers, alopecia (hai loss), purpura, panniculitis (inflammation of subcutaneous fatand Classic triggers: cold and emotional stress
-muscle tissue, urtia
-Musculoskeletal Polyarthralgias, polyarthritis, myalgias, AVN, reducible deformities of hand (Jaccoud's arthritis)
-Ophthalmic Keratoconjunctiitis sicca,epscits, sles, cyoid bodies (cotton wool exudates on fundoscopy=inarctionof nerve celllyer of retina)
-Cardiac Pericarditis, CAD, non-bactrial endocarditis (Libman-Sacks), myocarditis
-Vascular Raynaud's phenomenon, livedo reticularis (mottled discolouration ofskindueto narrowing ofbloodvessels, characteristic lacy or netike
-appearance) vasculitis
-Note:SLEis anindependentrisk actor fr atherosclerosis and CAD
-Respiratory Peurits ILD, pulmonary HTN PE, ateolar hemorrhage
-Gastrointestinal Pancreat, SLE enteropathy, hepatitis, hepatomegaly, dysphagia, esophagitis, intestinal pseudo-obstruction, peritonitis, mesenteric
-vasculitis
-Neurologic/Psychiatric Seizures, stroke delirium, psychosis
-Life/Organ-Threatening Cardiac: coronary vascults, malignant HTN, tamponade
-Hematologic: hemolytic anemia, neutropenia thrombocytopenia TTP, thrombasis
-Newologi: seizures, CVA, stroke
-Respiratory: pulmonary HT, pulmonary hemorrhage, emboli
-Investigations
-+ ANA (98% sensitivity, but poor specificity> used as a screening test; ANA titres are not useful to follow
-disease course, see Choosing Wisely Recommendations, RH5)
-+ anti-dsDNA and anti-Sm are specific (95-99%) (ie)
-
-+ anti-dsDNA titre and serum complement (C3, C4) are useful to monitor treatment response in patients
-who are clinically and serologically concordant (anti-dsDNA increases, C3 and C4 decrease with disease
-activity)
-
-+ APLA (anti-cardiolipin Ab, lupus anticoagulant, anti-B2 glycoprotein-I Ab), may cause increased risk of
-clotting and increased aPTT
-
-Consider SLE in a patient who has
-involvement of 2 or more organ systems
--e 
-
-## Page 1507
-
-RHI3 Rheumatology
-
-Treatment
-
-goals of therapy
-= aim for remission, prevention of flares
-= hydroxychloroquine + glucocorticoid
-= treat early and avoid long-term steroid use, if unavoidable see Endocrinology, E47 for osteoporosis
-management
-= if high doses of steroids are necessary for long-term control, taper when possible and add
-immunosuppressive therapies (MTX, azathioprine, mycophenolate)
-«= treatment is tailored to organ system involved and severity of disease
-= moderate refractory disease can be treated with belimumab
-«= all medications used to treat SLE require periodic monitoring for potential toxicity
-dermatologic
-= sunscreen, avoid UV light and estrogens
-= topical steroids, hydroxychloroquine
-musculoskeletal
-= NSAIDs + gastroprotective agent for arthritis (also beneficial for pleuritis and pericarditis)
-= hydroxychloroquine improves long-term control and prevents flares
-«= bisphosphonates, calcium, vitamin D to combat osteoporosis
-other considerations
-= smoking cessation
-= immunizations (influenza); live vaccines are generally not recommended
-= for women with APLA, avoid estrogen-containing contraceptives because of increased risk of
-thrombosis
-organ-threatening disease
-# high-dose oral prednisone or methylprednisolone IV in severe disease
-= steroid-sparing agen azathioprine, MTX, mycophenolate (can use mofetil or sodium)
-+ cyclophosphamide IV for serious organ involvement (e.g. cerebritis or lupus nephritis)
-
-low-dose cyclophosphamide IV or mycophenolate mofetil can be used for induction treatment in active
-
-lupus nephritis
-= refractory disease can be treated with rituximab or anifrolumab (a monoclonal antibody that blocks
-the action of a group of proteins called Type I Interferons)
-
-ipid Antibody Syndrome
-
-Antiphospho
-
-Definition
-
-multi-system vasculopathy manifested by recurrent thromboembolic events, spontaneous abortions, and
-thrombocytopenia
-
-circulating antiphospholipid autoantibodies interfere with coagulation
-
-primary APS: occurs in the absence of other disease
-
-secondary APS: occurs in the setting of a connective tissue disease (including SLE), malignancy, drugs
-(hydralazine, procainamide, phenytoin, interferon, quinidine) and infections (HIV, TB, hepatitis C,
-infectious mononucleosis)
-
-catastrophic APS: development within 1 wk of small vessel thrombotic occlusion in 23 organ systems with
-
-positive APLA (high mortality)
-
-Table 17. Classification Criteria of APS*
-
-Criteria Description
-CLINICAL
-Vascular thrombosis, ‘One ormoreclincal episodes of arterial, venous, or smal vessel thrombosis inany tissue or organ
-Mustbe confirmed by imaging or histopathology
-Pregnancy morbidity 21 death of morphologically normal fetus (confirmed by U/S or fetal exam) at 210 wk gestation; OR
-1 premature birth of morphologically normal neonate before 34 wk gestation due toeclampsia, preeclampsia, or placental
-insufficiency; OR
-23 consecutive spontaneous abortions <10 wk gestation (excluding matemal anatomic andhormonal abnormalities or paternal!
-maternal chromosomal causes)
-LABORATORY Labs must be positive on2 occasions, atleast T2wk apart
-Lupus anticoagulant Present in plasma, detected according othe guidelines ofthe International Society on Thrombosis and Haemostasis
-Anti-cardiolipin Ab IgG andlor IgM, plasma or serum, presentin medium-high ttre (.e.>40 GPL or MPL, or >99th percentile), measured by ELISA
-‘Anti-82 glycoprotein Ab IgG andlor IgM, plasmaor serum, presentin high tite (.e.>99th percentile), measured by ELISA
-1 linia and aboratory criteria mustbe present
-
-‘Thromb Haemost 2006;4:295-306
-
-Clinical Presenta
-
-see clinical criteria (Table 17)
-hematologic
-= thrombocytopenia, hemolytic anemia, neutropenia
-dermatologic
-= livedo reticularis, Raynaud’s phenomenon, purpura, leg ulcers, gangrene
-
-Toronto Notes 2025
-
-The arthritis of SLE can be deforming but it,
-isnon-erosive and is reducible (in contrast
-to RA) — called Jaccoud's arthritis
-
-Manifestations of APLA
-Thromboembolic events
-Spontaneous abortions
-Thrombocytopenia
-
-Associated with livedo reticularis, migraine
-HA
-
-Arterial and venous thrombosis are usually
-mutually exclusive
-
-@
-
-See Landmark Rheumatology Trials, for
-‘more information on the TULIP-2 tral. It
-examined the efficacy of anifrolumab for
-the treatment of SLE
--e 
-
-## Page 1508
-
-RHI4 Rheumatology
-
-Treatment
-+ thrombosis
-« lifelong anticoagulation with warfarin
-= target INR 2.0-3.0 for first venous event, >3.0 for recurrent event, target INR 2-3 or 3-4 (recurrent
-events) for arterial event, or target INR 2.0-3.0 + ASA may be considered
-+ obstetric APS
-= heparin/low molecular weight heparin + ASA during pregnancy
-
-= continuation of heparin at prophylactic dose for 6 wk after delivery should be considered to reduce the
-
-risk of maternal thrombosis
-* catastrophic APS
-= high-dose steroids, anticoagulation, cyclophosphamide, plasmapheresis
-= any triggering factor (e.g. infections, malignancy) should be treated accordingly
-« refractory cases: B cell depletion (e.g. rituximab) or complement inhibition (e.g. eculizamab) may be
-considered
-
-Scleroderma (i.e. Systemic Sclerosis)
-
-Definition
-+ anon-inflammatory autoimmune disorder characterized by widespread small vessel vasculopathy,
-production of autoantibodies, and fibroblast dysfunction causing fibrosis
-
-Scleroderma
-(ie. systemic sclerosis)
-t 1
-Localized Generalized
-
-{no involvement of internal organs)
-
-+ Mostly children and young adults
-
-y v Limited systemic sclerosis. Dittuse systemic sclerosis
-Morphea Linear + Skin sclerosis restricted to + Widespread skin disease
-«Hard oval patches _- Line of thickened skin hands, face, neck (proximal to wrist, can
-‘on the skin + 3rd to 4th decade involve trunk), tendons
-
-+ Pulmonary HTN common + Early visceral involvement
-+ CREST (renal, pulmonary fibrosis)
-
-Figure 8. Forms of scleroderma
-
-Etiology and Pathophysiology
-+ idiopathic vasculopathy (not vasculitis) leading to atrophy and fibrosis of tissues
-« characterized by several hallmark pathogenic features: small vessel vasculopathy resulting in tissue
-hypoxia, production of autoantibodies, and fibroblast dysfunction leading to increased deposition of
-extracellular matrix
-= resembles malignant HTN
-= lung disease is the most common cause of morbidity and mortality
-
-Table 18. The American College of Rheumatology (ACR)/European League Against Rheumatism
-(EULAR) Criteria for the Classification of Scleroderma”
-
-Hem Sub-item Score
-
-1. Skin thickening of fingersof both hands extending proximal to the MCP 9
-(suffcentcriterion)
-
-2. Skinthickening of the fingers Putty fingers 2
-Sclerodactyly
-3. Fingertip lesions Digtal tip ulcers 4
-
-Fingertip piting scars
-
-4. Telangiectasia 2
-
-5. Abnormal nalfold capillaries 3
-
-6, Pulmonary arterial HTN sILD (max score2) Pulmonary arterial HIM 2
-i)
-
-T.Raynavd’s phenomenon 2
-
-8. Scleroderma-related Ab Anti-centromere 2
-
-‘Ant-topoisomerase!
-Ant-RNApolymeraselll
-
-* Score of is suficent to classify a patient as having definite scleroderma senstvty0.95, specificity 0.93)
-
-Epidemiology
-
-+ M:F=1:3-4, peaking in 5th decade
-
-+ associated with HLA-DR1 and environmental exposures (silica, epoxy resins, toxic oil, aromatic
-hydrocarbons, polyvinyl chloride)
-
-+ limited systemic sclerosis has a higher survival prognosis (>70% at 10 yr) than diffuse systemic sclerosis
-(40-60% at 10 yr)
-
-Toronto Notes 2025
-
-CREST Syndrome
-Calcinosis
-
-Raynaud's phenomenon
-Esophageal dysmotiity
-Sclerodactyly
-Telangiectasia
-
-Sderodermais the most common cause of
-secondary Raynaud's phenomenon
-
-)
-
-Cydophosphamide vs. Mycophenolate Mofetiin
-Scleroderma Lung Disease
-
-Lancet Respir Med 2016 4708-719
-
-Study Double bind, randomize, paral goup ia.
-Purpose: To compare the toxicity and eficacy of
-‘cyclophosphamide vs. mycophenolate mofetion lung
-function.
-
-Results: In both treatment groups, the adjusted
-percent predicted FCimproved ftombaselne to 24
-‘mo, Mycophenolate mofetil was associated with ess
-toxicityand was better tolerated.
-
-Condusion: Treatment of SSc1LO with mycophenolate
-‘mofeti for2yr or cyclophosphamide for lyr both result
-inimproved ling function, However, mycophen olate
-mofetil isthe current preference for treatment of SSc-
-[LD due to ts better tolerability.
-
-Raynaud's Phenomenon DDx
-COLD HAND
-CryoglobulinsiCryofibrinogens
-Obstruction/Occupational
-
-Lupus erythematosus, other connective
-tissue disease
-
-DM/Drugs
-
-Hematologic problems (polycythemia,
-leukemia, etc.)
-
-Arterial problems (atherosclerosis)/
-Anorexia nervosa
-
-Neurologic problems (vascular tone)
-Disease of unknown origin (idiopathic)
--e 
-
-## Page 1509
-
-RHIS Rheumatology
-Clinical Presentation
-
-Table 19. Clinical Manifestations of Scleroderma
-
-System Features
-
-Dermatologic Painless non pitting edema » skintightening
-Ucerations, calcinosis, periungualerythema, hypo-hyperpigmentation, pruritus, tlangiectasias
-‘Characteristic face: mask-lkefacies with ight lps, beak nose, radial perioral furrows
-
-Vascular Raynaud's phenomenon + digital pits, gangrene
-
-Thrombosis
-
-Distal esophageal hy pomotly = dysphagia
-
-Loss of lower esophageal sphincter function » gastroesophageal reflux disease (GERD), ulceration, strictures
-‘Small bowel hypomotiity > bacterial overgrowth, diarthea, bloating, cramps, malabsorption, weightloss
-Large bowel hypomotilty + wide mouth diverticulaare pathognomonic radiographic finding onbarium study
-
-Renal Mild proteinuria, Cr elevation, HTN
-"Scleroderma renal crisis” (10-15%) may lead to malignant arterial HTN, oliguia, and microangiopathic hemolytic anemia
-
-Gastrointestinal (-90%)
-
-Pulmonary (-80%) Interstitial fibrosis, pulmonary HTN, pleurisy, pleural effusions
-Cardiac Left ventricular dysfunction, pericarditis, pericardial effusion, arrhythmias
-Musculoskeletal Polyarthralgias
-“Resorption of distal tufts” (radiological finding)
-Proximal weakness 2°to disuse, atrophy, low grade myopathy, tendon friction rubs.
-Endocrine Hypothyroidism
-Investigations
-
-+ blood work
-= CBC, Cr, ANA
-= anti-topoisomerase 1/anti-Scl-70 antibody: specific but not sensitive for diffuse systemic sclerosis
-= anti-centromere antibody: favours diagnosis of CREST (limited systemic sclerosis)
-= anti-RNA polymerase III antibody: associated with severe skin involvement, increased risk of renal
-crisis
-
-+ PFT
-= assess and monitor for ILD
-+ echocardiogram
-= screen for pulmonary HTN
-+ imaging
-= baseline CXR to rule out ILD
-« high-resolution CT of the lungs where appropriate (e.g. diffuse cutaneous SSc)
-
-Treatment
-+ dermatologic
-
-= good skin hygiene
-
-= low-dose prednisone (>20 mg may provoke renal crisis if susceptible), MTX (limited evidence)
-+ vascular
-
-= Raynaud’s: keep hands and core body warm, smoking cessation
-
-= vasodilators (CCBs, local nitroglycerine cream, systemic PGE2 inhibitors, PDES5 inhibitors), fluoxetine
-* gastrointestinal
-
-= GERD: PPls are first-line, followed by H2-receptor antagonists
-
-= small bowel bacterial overgrowth: broad spectrum antibiotics (tetracycline, metronidazole)
-
-= motility disturbances: prokinetics
-+ renal disease
-
-= ACE inhibitor for hypertensive crisis
-
-= see Nephrology, NP36 for scleroderma renal crisis
-+ pulmonary
-
-= interstitial lung disease:
-
-+ immunosuppression: mycophenolate mofetil (less toxicity) or cyclophosphamide; other options:
-tocilizumab, rituximab
-+ anti-fibrotic therapy: nintedanib
-
-= pulmonary HTN: vasodilators (e.g. bosentan, epoprostenol, and PDES inhibitors)
-
-= rapidly progressive disease at risk of organ failure: consider hematopoietic stem cell transplantation
-+ cardiac
-
-= pericarditis: systemic steroids
-+ musculoskeletal
-
-« arthritis: NSAIDs
-
-= myositis: systemic steroids
-
-screen for nutritional deficiencies if malabsorption is present or suspected due to severe Gl involvement
-
-Toronto Notes 2025
-
-6 patients with SSc have
-prevalent digital ulcers, complicated digital
-ulcers ever, inflammatory arthritis, myositis,
-‘or myopathy, sicca symptoms, or Sjogren's
-syndrome
-
-Features of Pathologic Raynaud's
-Syndrome
-
-New onset
-
-Asymmetric
-
-Precipitated by stimuli other than cold or
-emotion
-
-Associated with distal pulp pitting or tissue
-reabsorption
-
-Digitischemia
-
-Capillary dilatation by capillaroscopy
-
-Treatment Agorthmsfor Systemic Sderosis
-According to Experts
-
-Authtis Rheumatology 2018 No 7011) 1820-8
-Purpose: Toresove disagreement in management
-uideines of systemic sclerosis (Scand developa
-treatment algorithm endorsed by S& exerts
-Methods: 110 experts rom the SkerodermaCinical
-Trials Consortium andthe Canadian Scleroderma
-Research Group evaluated ther agreement with
-20125Sc algorithms; two consensus rounds refined
-agreement
-
-Results! Concusions: Total agreement forthe updated
-and revised SScalorithm was consierable and may
-ude an approach oteatment going forward
--e 
-
-## Page 1510
-
-RHI6 Rheumatology
-
-Idiopathic Inflammatory Myopathies
-
-D ition
-
-+ autoimmune diseases characterized by proximal muscle weakness + pain
-
-+ muscle becomes damaged by a non-suppurative lymphocytic inflammatory process
-
-+ associated with malignancy
-
-= increased risk of malignancy: age >50, DMM > PM, elevated CK, peak incidence of malignancy at onset
-
-of myositis or within Ist yr, dysphagia, ulcerative skin lesions, cutaneous vasculitis, anti-P155/140
-antibody
-
-+ associated ‘with other CTDs, Raynaud’s phenomenon, autoimmune disorders
-
-Classification
-+ includes DMM, PM, NAM, and IBM
-+ adult and juvenile forms
-+ newly characterized subgroups:
-« immune-mediated necrotizing myopathy
-anti-synthetase syndrome
-anti-MDA5 DM
-cancer-associated myositis
-overlap myositis
-Note: The definition of PM has become controversial. Many patients previously classified as having PM fall
-into these new subgroups, resulting in a decreasing number of patients included in the PM subgroup.
-
-Inclusion Body Myositis
-
-+ age >50, M>F, slowly progressive, vacuoles in cells on biopsy
-+ patient unresponsive to treatment
-
-+ predominantly distal over proximal muscle weakness
-
-+ muscle biopsy positive for inclusion bodies
-
-POLYMYOSITIS/DERMATOMYOSITIS
-
-Definition
-
-+ PMand DMM are idiopathic inflammatory myopathies characterized by inflammation and proximal
-skeletal muscle weakness
-
-+ notably, DMM often presents with characteristic skin manifestations
-
-Etiology and Pathophysiology
-
-+ PMisa T cell-mediated process with myocytes being the primary target, characterized by focal endomysial
-infiltrates (CD8+ T cells) surrounding muscle fibres, found in adults
-
-+ DMM isa complement mediated process with perivascular inflammatory infiltrates (CD4+ T cells > CD8+
-T cells) leading to perifascicular atrophy of muscle fibres
-
-Clinical Presentation
-+ progressive symmetrical proximal muscle weakness (shoulder and hip) developing over wk to mo; difficulty
-lifting head off pillow, arising from chair, climbing stairs
-+ dermatological
-= DMM has characteristic dermatological features (F>M, children and adults)
-+ Gottron’s papules
-— pink-violaceous, flat-topped papules overlying the dorsal surface of the MCP and IP
-+ Gottron’s sign
-— erythematous, smooth or scaly patches over the extensor surface of elbows, knees, or
-medial malleoli
-
-heliotrope rash: violaceous rash over the eyelids; usually with edema
-shawl sign: poikilodermatous, erythematous rash over neck, upper chest, and shoulders
-mechanic’s hands: dry, crackled lesions on palmar and lateral surfaces of digits, especially over the
-pulp space, also seen in a subtype of myositis called anti-synthetase syndrome
-periungual erythema
-calcinosis
-
-eee
-
-oe
-
-+ cardiac
-
-= arrhythmias, congestive heart failure, conduction defect, ventricular hypertrophy, pericarditis
-+ gastrointestinal
-
-= oropharyngeal and lower esophageal dysphagia, esophageal reflux
-+ pulmonary
-
-= weakness of respiratory muscles, ILD, aspiration pneumonia
-
-Investigations
-general lab tests: CK, CBC, ESR and/or CRP, TSH
-
-serologic tests: ANA, anti-Jo-1 (DMM), anti-Mi-2, anti-SRP (usually not available at commercial labs)
-imaging: MRI may be used to localize biopsy site
-
-EMG: characteristic findings of muscle inflammation and damage
-
-muscle biopsy can aid in diagnosis, however not needed in those with classic skin findings and muscle
-weakness
-
-Toronto Notes 2025
-
-Signs of DMM
-Gottron’s papules and Gottron’s sign are
-pathognomonic of DMM (occur in 70% of
-patients)
--e 
-
-## Page 1511
-
-RHI7 Rheumatology
-
-Treatment
-+ non-pharmacological treatment
-= PT and OT, speech-language therapy for esophageal dysfunction
-+ pharmacological treatment
-= high-dose glucocorticoid (e.g. prednisone 1 mg/kg/d) usually not exceeding 80 mg daily and slow taper
-after patient improvement (~6 wk)
-«= add immunosuppressive agents (azathioprine, MTX)
-= IVIGif severe or refractory muscle weakness, particularly when accompanied by dysphagia and/or
-dyspnea
-+ consider rituximab for severe or refractory muscle disease or ILD
-= hydroxychloroquine for DMM rash
-+ malignancy surveillance
-= detailed history and physical (breast, pelvic, and rectal exams)
-= CXR, abdominal and pelvic U/S, fecal occult blood, Pap test, mammogram + CT scan (thoracic,
-abdominal, pelvic)
-
-Sjégren’s Syndrome
-
-Definition
-
-+ autoimmune condition characterized by dry eyes (keratoconjunctivitis sicca/xerophthalmia) and dry
-mouth (xerostomia), caused by lymphocytic infiltration of salivary and lacrimal glands
-
-+ exists on a spectrum and may evolve into a systemic disorder (20%) with diminished exocrine gland
-activity and extraglandular features
-
-+ primary and secondary forms (associated with RA, SLE, DMM, and HIV)
-
-+ prevalence 0.5%, F>>M at 10:1, 40-60 yr
-
-+ increased risk of non-Hodgkin's lymphoma (lifetime incidence 6-7%)
-
-Table 20. The American College of Rheumatology
-
-(ACRy European League Against Rheumatism (EULAR) Classification Criteria for Primary Sjogren's Syndrome (at least 1 inclusion criteria, no condition in exclusion criteria,
-score 24)
-
-Giteria Score Comments
-
-Labia salivary gland biopsy with focal lymphocytic 3 Focus scores are histopathologic grading systems
-
-sioladenitswithfocs score =1focus4mm? Strongly associated with phenotypic ocular and serological components of
-Sjogren's
-
-Anti-SSA- or Ro-positive 3
-
-Ocular staining score>S or vanBisterveldscore=4on 1 Ocular staining core based on fuoresceindye examination of conjunctiva
-
-atleast one eye) and comea to determine clinicalchanges
-
-Schirmer’s test s5 mmi/S min onat leastone eye 1
-
-Unstimulated whole saliva flow rte<0.1mLinin 1
-
-Inclusion criteria(positive response to at last one question} Haveyou had daly, persistent, troublesome dy eyes for moe than3 ma? 2)Do you havea recurrent
-sensation of sand or grave in the eyes? 3 Do you use tear substitutes more than 3times ad? 4 Have you hada daly feeling of dy mouthfor more than 3mo?§}Doyou
-‘frequently drink liquids to aid inswallowing dry food?
-
-{Exclusion ceria indude prior diagnosis of any ofthe following conditions) History of head and neck radiation treatment, 2} Active hepatitis infection (with
-confirmation by polymerase chain reaction, 3) ADS, 4 Sarcoidosis, 5) Amyloidess, 6) Graft-versus-host disease, 7)IgG4-related disease
-
-‘Arthritis Rheumatol. 2017;69:35-45,
-
-Clinical Presentation
-
-+ “sicca complex”: dry eyes (keratoconjunctivitis sicca/xerophthalmia), dry mouth (xerostomia), complicated
-by staphylococcal blepharitis
-
-+ dental caries, oral candidiasis, angular cheilitis (inflammation and fissuring at the labial commissures of
-the mouth)
-
-+ extraglandular manifestations
-
-= fatigue, low-grade fever
-
-autoimmune thyroid dysfunction
-
-arthralgias, arthritis
-
-subclinical diffuse ILD, xerotrachea leading to chronic dry cough
-
-renal disease, glomerulonephritis
-
-palpable purpura, vasculitis
-
-peripheral neuropathy
-
-lymphoma risk greatly increased
-
-Treatment
-+ ocular
-= artificial tears/tear gel if severe, moisture retaining eyewear, humidifiers, or surgical punctal occlusion
-for dry eyes
-+ oral
-= good dental hygiene, hydration
-= avoid alcohol and tobacco
-= parasympathomimetic agents that stimulate salivary flow (e.g. pilocarpine)
-= topical nystatin or clotrimazole x4-6 wk for oral candidiasis
-+ systemic treatments (e.g. hydroxychloroquine, corticosteroids) are ineffective, rituximab can be used in
-severe organ-threatening disease (e.g. vasculitis)
-
-Toronto Notes 2025
-
-Classic Triad (identifies 93% of Sjégren’s
-patients)
-
-Dry eyes
-
-Dry mouth (xerostomia) + dysphagia
-Arthritis {small joint, asymmetrical,
-‘non-erosive) but may be associated with
-rheumatoid arthritis, in which case the
-arthritis is erosive and symmetric
--e 
-
-## Page 1512
-
-RHI8 Rheumatology
-
-Mixed Connective Tissue Disease
-
-Definition
-
-+ syndrome with features of 3 different CTDs (e.g. SLE, scleroderma, myositis)
-+ common symptoms: Raynaud’s phenomenon, swollen fingers
-
-Investigations
-
-+ blood work: anti-RNP (see Table 12, RH8)
-
-Treatment
-
-«+ treatment is generally guided by the severity of symptoms and organ system involvement
-
-Prognosis
-
-+ prognosis is variable: some individuals go into remission, others develop a distinct connective tissue
-disease (e.g. SLE, SSc), and others develop a severe disease course
-= pulmonary arterial HTN is a major cause of death
-
-Overlap Syndrome
-
-Definition
-
-+ syndrome with sufficient diagnostic features of 2+ different CTDs
-
-+ inflammation and subsequent necrosis of blood vessels leading to tissue ischemia or infarction of any organ
-
-system
-+ diagnosis
-
-= dinical suspicion: suspect in cases of unexplained multiple organ ischemia or systemic illness with
-no evidence of malignancy or infection; constitutional symptoms such as fever, weight loss, anorexia,
-
-fatigue
-
-« labs non-specific: anemia, increased WBC and CRP, abnormal U/A
-= investigations: biopsy if tissue accessible; angiography if tissue inaccessible
-+ treatment generally involves corticosteroids and/or immunosuppressive agents
-
-Table 21. Classification of Vasculitis and Characteristic Features
-
-Classification Characteristic Features
-‘SMALLVESSEL
-Non-ANCA-associated Immune complex-mediated (mostcommon mechanism)
-
-Ant-GBM (Goodpasture’s disease)
-
-Anti-Ctq vasculitis hypocomplementemic urticarial vasculitis
-syndrome)
-
-Predominantly cutaneous vasculitis
-
-Ighvascultis formerly Henoch-Schénlein purpura (HSP})
-(see Pediatrics, P98)
-
-Cryoglobulinemic vasculitis (CV)
-
-ANCA-associated (i.e. PR3-ANCA)
-Granulomatosis with polyangitis (GPA, formerly Wegener's)
-R3 (-ANCA)> MPO (p-ANCA)
-
-EGPA, formerly Churg-Strauss syndrome (50% ANCA positive)
-
-‘Autoantibodies targeting type Vcollagen in both glomerular basement membraneand alveot
-«causing glomerulonephritis and/or pulnonary findings
-
-Spectc autoimmune disorder wth atleast 6 moot uticaria with1q complement deficiency with
-various systemic findings
-
-‘Also known ashypersensitvityleukocytocastc vascultis
-
-Vascular deposition of IgAcausing systemic vasculitis (skin, Gl renal), usualy set-limiting; most
-‘common in childhood
-
-Systemic vasculitis caused by circulating c yoproteins forming immune completes; 60-80%
-‘ofcases are due to hepatitis C, 510% are dueto aCTD SLE,RA, SS) 5-10% are due toa
-Iymphoproliferative disorder, andthe remaining 510% are idiopathic or “essential.” CV maybe
-associated with undedying infection (e.g. hepatitis Q or CTD
-
-Granulomatous inflammation of vessels of respiratory tract and kidneys eading to pulmonary
-hemorrhageand lomerulonephrts; initially may have upper respiratory tractinfection (URTI)
-symptoms (sinusitis); mostcommonin middle age
-
-Granulomatous inflammation of vessels with hypereosinophilia and eosinophiic tissue
-infiltration, requent lng involvement asthma, allergic hints), associated with MPD-ANCA in
-40-50% of cases. Other manifestations include peripheral neuropathy (70%), Glinvolvement,
-iyocardtis, and rarely coronary arteritis; average age 40s
-
-Microangiopathic polyangiitis (MPA) Pauci-immune necrotizing vasculitis, affects kidneys (necrotizing glomeruloneplvitis) lungs
-(7O%ANCA positive, usually MPO) (capillartis and alveolar hemorrhage), andskin; most comonin older age
-
-MEDIUM VESSEL
-
-PAN Segmental, non-granulomatous necrotizing inflammation
-
-Kawasaki disease (see Pediatrics, P99)
-
-Unknown etiology in most cases, any age (average 40-50s), MDF
-Arteritis and mucocutaneous Iymphnode syndrome
-
-LARGE VESSEL
-GCAMTemporal arteritis
-
-Takayasu's arteritis
-
-Inflammation predominantly of the aorta and itsbranches
-
-‘Ages >50, PL
-
-Temporal HA, jaw claudication, scalp tenderness, vision loss
-
-“Puiseless disease,” unequal peripheral pulses chronic inflammation, mostoften the aorta and
-itsbranches
-
-Most commonin young adults of Asian descent, ages 10-40, PM, risk of aortic aneurysm
-
-Toronto Notes 2025
-
-Features of Small Vessel Vasculitis
-Palpable purpura
-
-Vesicles
-
-Chronic urticaria
-
-‘Superficial ulcers (erosions)
-
-ANCA (e.g, PR3-ANCA): cytoplasmic
-anti-neutrophil cytoplasmic Ab associated
-with anti-PR3
-
-ANCA (e.g. MPO-ANCA): perinuclear
-antineutrophil ctoplasmic Ab associated
-with muitiple antigens, eg. MPO,
-lactoferrin (IBD), cathepsin, elastase, etc
-Of these, only antibodies to MPO have
-been associated with the development of
-vasculitis:
-
-EGPA Triad
-
-Allergic rhinitis and asthma (often quiescent
-at ime of vasculitis)
-
-Eosinophilic infiltrative disease resembling
-pneumonia
-
-‘Systemic vasculitis often mononeuritis
-‘multiplex/peripheral neuropathy and
-peripheral eosinophilia
-
-Features of Medium Vessel Vasculitis
-livedo reticularis
-
-Erythema nodosum
-
-Raynaud's phenomenon,
-
-Nodulles
-
-Digital infarcts
-
-Ulcers
--e 
-
-## Page 1513
-
-RHI9 Rheumatology
-
-Table 21. Classification of Vasculitis and Characteristic Features
-
-Classification Characteristic Features
-‘OTHERVASCULITIDES
-
-Buerger’s disease Inflammation and clotting of smal and medium-sized arteries and veins of distal ext
-(“Thromboangiits Obiterans”) may lead dsl daudaton and gangrene, hemostinptat etologc ctor cigaeie
-
-smoking. Most commonin young Asian males, M>F
-
-Behcet's disease Multisystem disorder presenting with ocular involvement (uveitis, recurrent oral and genital
-ulceration, venous thrombosis, skin and joint involvement
-Most common in Mediterranean and Asian populations, average age 30 ylo, M>F
-
-Vasculitis mimicry (i.e. pseudovasculits) Cholesterol embob, atrial myxoma, subacute bacterial endocarditis (SBE), APS
-
-Large Vessel Vasculitis GCA
-Takayasu's ateritis
-
-Large artery
-
-Medium Vessel Vasculitis PAN
-Kawasaki disease
-
-Medium artery
-
-‘Small Vessel Vasculitis ANCA-Associated Vasculitis
-GPA
-MPA
-
-Small artery Hepa
-
-Non-ANCA-Associated Vasculitis
-Cryoglobutinemic vasculitis
-
-IgA vasulitis .gAV)
-Hypocomplementemic urticarial vasculitis
-
-Capillary vessel
-
-willow Yang 2021
-
-Figure 9. Classification of vasculitides by vessel size
-J.C Jeanette, Ral PA, Bacon, etal, Arthritis & Rheumatology (65, 1p, copyright ©2020, Modified by Permission of John Wiky and Sons
-
-Small Vessel Non-ANCA-Associated Vasculitis
-
-CUTANEOUS VASCULITIS
-+ subdivided into:
-= drug-induced vasculitis
-= vasculitis associated with other underlying primary diseases (CTD, IBD, infections, malignancies -
-hematologic > solid tumours)
-«= idiopathic
-
-Etiology and Pathophysiology
-+ cutaneous vasculitis following:
-= drug exposure (allopurinol, gold, sulfonamides, penicillin, phenytoin)
-« viral or bacterial infection
-= idiopathic causes
-+ small vessels involved (post-capillary venules most frequently)
-+ usually causes a leukocytoclastic vasculitis: debris from neutrophils around vessels
-+ sometimes due to cryoglobulins which precipitate in cold temperatures
-
-Clinical Presentation
-+ palpable purpura (usually on lower extremities) + vesicles and ulceration, urticaria, macules, papules,
-bullae, subcutaneous nodules
-= renal or joint involvement may occur, especially in children
-
-Investigations
-+ vascular involvement (both arteriole and venule) established by skin biopsy
-
-Treatment
-«+ stop possible offending drug; treat underlying primary disease
-+ NSAIDs, low-dose corticosteroids
-= immunosuppressive agents in resistant cases
-+ usually self-limiting, but in % of cases, it may recur
-
-Toronto Notes 2025
-
--e 
-
-## Page 1514
-
-RH20 Rheumatology
-
-Small Vessel ANCA-Associated Vasculitis
-
-GRANULOMATOSIS WITH POLYANGIITIS
-(GPA, formerly known as Wegener's Granulomatosis)
-
-Definition
-
-granulomatous inflammation of vessels that may affect the upper airways (rhinitis, sinusitis), lungs
-(pulmonary nodules, infiltrates caused by pulmonary hemorrhage), and kidneys (glomerulonephritis, renal
-failure)
-
-highly associated with c-ANCA by indirect immunofluorescence (IIF) and PR3-ANCA by ELISA; however,
-changes in ANCA levels do not predict remission or relapse
-
-incidence: 2-3 in 100000; more common in Northern latitudes
-
-Table 22. Classification Criteria for GPA*
-
-Clinical Criteria Score
-Description
-
-Crustng, ulcers, epistaxis, congestion, blockage, or septal defect/perforation 3
-
-Criteria
-Nasal involvement
-
-Cartilaginous involvement Eatinose cartiage inflammation, hoarseness or stridor, endobronchial involvement, or +2
-
-saddlenose deformity
-
-Hearing loss Conductive or sensorineural 4
-Laboratory, Imaging and Biopsy Criteria
-
-CANCAor anti-PR3-positive oT
-Pulmonary nodules, mass, or cavitationon chest imaging a
-Granuloma, extravascular granulomatous inflammation, or giant cells on biopsy 2
-Inflammation, consolidation, or effusion of nasalparanasa sinuses, or mastoidtis on imaging 4
-Paucl-immune glomerdlonephritis on biopsy 4
-pANCA or anti-MPO- positive 4
-Blood eosinophilcount 1x10" 4
-“Diagnosedit=5
-
-American College of Rheumatology, 2022
-
-Etiology and Pathophysiology
-
-+ pathogenesis depends on genetic susceptibility and environmental triggers (e.g. infection)
-«= dysregulated immune response due to loss of B and T cell tolerance
-= acute vascular injury mediated by neutrophils and monocytes
-
-Clinical Presentation
-+ systemic
-= malaise, fever, weakness, weight loss
-+ head, eyes, ears, nose, and throat (HEENT)
-« sinusitis or rhinitis, nasal crusting and bloody nasal discharge, nasoseptal perforation, saddle nose
-deformity
-= proptosis due to: inflammation/vasculitis involving extraocular muscles, granulomatous retrobulbar
-space-occupying lesions or direct extension of masses from the upper respiratory tract
-«= hearing loss due to involvement of cranial nerve (CN) VIII
-+ pulmonary
-= cough, hemoptysis, granulomatous upper respiratory tract masses, tracheal and bronchial stenosis,
-+ renal
-= hematuria, proteinuria, elevated Cr, glomerulonephritis
-+ other
-= joint, skin, eye complaints-iritis, vasculitic neuropathy
-
-Investigations
-+ blood work: anemia (normocytic), increased WBC, increased Cr, increased CRP, elevated platelet count,
-ANCA (PR3 > MPO)
-urinalysis: proteinuria, hematuria, RBC casts
-+ CXR/CT: pneumonitis, lung nodules, infiltrations, cavitary lesions
-biopsy for confirmation of disease: skin, renal (segmental necrotizing pauci-immune glomerulonephritis),
-lung (vasculitis, necrosis)
-+ CRP may be used to monitor response to treatment in some patients
-
-Treatment
-
-+ severe, life or organ-threatening disease
-
-induction therapy: IV glucocorticoids + either IV/oral cyclophosphamide OR rituximab
-
-= glucocorticoid: methylprednisolone 0.5-1.0 g/d IV x1-3 d followed by prednisone 1 mg/kg/d PO x2-4 wk
-and then gradual taper
-
-cyclophosphamide: 2 mg/kg/d (max 200 mg/d) PO for maximum of 3-6 mo OR 15 mg/kg IV (max 1200
-mg) every 2 wk for 3 doses, then every 3 wk for 3-6 doses (dose adjust for older age and renal failure)
-rituximab: 375 mg/m? x4 weekly infusions or 1 g IV x 2 doses 14d apart
-
-Toronto Notes 2025
-
-Classic Features of GPA
-
-Necrotizing granulomatous vasculitis of
-lower and upper respiratory tract
-
-Focal segmental glomerulonephritis
-
-‘See Landmark Rheumatology Trials for
-‘more information on the RAVE tial. It
-‘examined the efficacy of rituximab for the
-induction and maintenance of remission in
-patients with ANCA-associated Vasculitides.
-
-‘See Landmark Rheumatology Trials for
-‘more information on the MAINRITSAN3
-trial. It examined the efficacy of extended
-‘maintenance rituximab in patients with
-ANCA-associated Vasculitides
--e 
-
-## Page 1515
-
-RH21 Rheumatology Toronto Notes 2025
-
-= maintenance therapy: initiated once remission is achieved, consider corticosteroid-sparing agents
-such as rituximab (1st line) for maintenance, azathioprine, MTX, and mycophenolate are reasonable
-alternatives
-= avacopan may be considered to aid with rate of steroid taper
-urgent plasma exchange is not recommended as part of initial induction therapy for most adult patients
-with severe GPA or MPA
-non-organ-threatening disease
-= prednisone 0.5-1 mg/kg/d PO and MTX 15-25 mg PO/SC weekly OR azathioprine 2 mg/kg/d
-screening and prophylaxis
-« all patients should receive screening and prophylaxis for corticosteroid-induced osteoporosis, PUD
-prevention, and Pneumocystis jirovecii prophylaxis (trimethoprim/sulfamethoxazole 160/800 mg PO
-3x/wk)
-
-Medium Vessel Vasculitis
-POLYARTERITIS NODOSA
-
-Definition
-+ systemic, necrotizing vasculitis of medium-sized vessels, defined as visceral arteries and their branches
-+ ANCA-negative, classically lung-sparing
-
-+ 5-10% associated with hepatitis B positivity
-
-+ incidence: 0.7 in 100000; affects individuals between 40-60 yr;
-
-Table 23. Classification Criteria for PAN*
-
-Giteria Description
-4. Weight bss 24g, notdue to dieting or other factors
-
-2. Myzgias, weakness, or egtenderness Difiuse myalgias oc muscle weakness
-
-3.Livedoreticularis Mottled, reticular patternover skin
-
-4 Neuropathy Mononeuropathy, mononeuropathy multiples or polyneuropathy
-
-5. Testicular pain o tenderness Not dueto infection, trauma, or other causes
-
-6.d8P>90mmig Development of HTH with BP >$0 mnilg
-
-Elevated Cr or BUN 1-130 mol (1.5 mg/dl), BUN >14.3 mmol (40 mgldl)
-
-B.Hepatts B positive Presence othepatitisB surface antigen or Ab
-
-4. Arteriograpic abnormality Commonly aneurysms
-
-10. Biopsy of artery Presence of granulocytes and/or mononuclear leukocytes inthe artery wal
-
-“Diagnosed it 30r more o the above 10 criteria present
-American Collegeof Rheum ology, 1880
-
-Etiology and Pathophysiology
-
-+ focal pan-mural necrotizing vasculitis in small and medium-sized arteries
-
-+ thrombosis, aneurysm, or dilatation at lesion site may occur
-
-+ healed lesions show proliferation of fibrous tissue and endothelial cells that may lead to luminal occlusion
-
-Clinical Presentation
-
-+ systemic: fatigue, weight loss, weakness, fever, arthralgias
-
-+ dermatologic: livedo reticularis, nodules, purpura, eruptions
-
-+ renal: renal insufficiency leading to HTN
-
-+ neurologic: mononeuropathy multiplex in both motor and sensory nerves
-
-+ abdominal: abdominal pain, mesenteric arteritis
-
-Investigations
-
-+ blood work: CBC, CRP, Cr, BUN, urinalysis, liver enzymes, p-ANCA, hepatitis B and C serology
-
-+ imaging: CT or MRI angiography shows beading appearance of blood vessels
-
-+ biopsy of affected organ (e.g. skin, nerve); biopsy of highly vascular tissues (e.g. liver) not recommended due
-to risk of aneurysm rupture
-
-Treatment
-+ guided by the five-factor score (FFS), a survival prognostic score for patients with PAN and EGPA
-«= the FFS includes: (1) cardiomyopathy due to vasculitis (2) CNS involvement due to vasculitis (3) severe
-Gl involvement due to vasculitis (4) serum creatinine >140 umol/L (5) proteinuria >1 g/day
-+ PAN with no major organ manifestations (FFS = 0)
-= glucocorticoids + azathioprine
-+ PAN with major organ manifestations (CNS, cardiac, GI, renal; FFS = 1 or more)
-= induction therapy with high-dose glucocorticoids + cyclophosphamide for 3-6 mo followed by
-maintenance therapy with low-dose prednisone and either azathioprine, MTX, or leflunomide
-= treatment should bea minimum of 18 mo
-+ hepatitis B virus-associated vasculitis
-= prednisone 1 mg/kg/d PO x7 d (then taper and withdraw by 14 d) + methylprednisolone 15 mg/kg/d IV
-x13d
-«= after corticosteroid therapy, treat with plasma exchange + antiviral therapy
--e 
-
-## Page 1516
-
-RH22 Rheumatology
-
-Large Vessel Vasculitis
-GIANT CELL ARTERITIS/TEMPORAL ARTERITIS
-
-Table 24. Classification Criteria for GCA*
-
-‘Absolute Requirement
-Ageat onset250
-
-‘Additional Clinical Criteria Score
-Morning titinessinshoulders/neck 2
-Suddenvisual loss 3
-Jawor tongue claudication 2
-New temporal headache 2
-Scalp tenderness 2
-Abnormal examinationof the temporal artery 2
-Laboratory, Imaging, and Biopsy Criteria
-
-Maximum ESR 50 mm/hor maximum CRP =10 mg/liter 3
-Positive temporal artery biopsy or hal sign ontemporal artery ultrasound 5
-Bilateral axillary involvement 2
-FDG-PET activity throughout aorta 2
-
-"Sumthe scores for 10items, i present. Ascor of 26 pints's needed for the classification of GCA. American Colege of fueumatology, 2022
-
-Epidemiology
-* most common vasculitis in North America
-patients >50 yr; peak incidence 70-80 yr
-
-22
-
-north-south gradient (predominance in Northern Europe and US)
-affects extracranial arteries
-
-Clinical Presentation
-
-* new onset temporal H/A + scalp tenderness overlying temporal artery
-
-+ sudden, painless loss of vision and/or diplopia due to narrowing of the ophthalmic or posterior ciliary
-arteries (PCA more common); can affect both eyes
-
-+ tongue and jaw claudication (pain in muscles of mastication on prolonged chewing)
-
-+ PMR (proximal shoulder/pelvic girdle pain and stiffness, constitutional symptoms, elevated ESR) is the
-
-most common extracranial symptom
-
-aortic arch syndrome (involvement of subclavian and brachial branches of aorta resulting in pulseless
-
-disease), aortic aneurysm + rupture are late complications
-
-constitutional symptoms (e.g. fever of unknown origin in patients >65 yr)
-
-Investigations
-
-+ diagnosis made by clinical suspicion, increased ESR, or CRP, and either imaging (colour Doppler U/S
-of temporal + axillary arteries (+ halo sign), MRI of temporal vessel, PET scan showing inflammation
-throughout aorta) or a positive temporal artery biopsy
-
-Treatment
-
-blindness and other vascular complications
-consider low-dose ASA if there is critical involvement of the vertebral or carotid arteries
-
-prednisone I mg/kg/d PO in divided doses with taper
-
-treat GCA (new or relapsing)
-
-Prognosis
-+ increased risk of thoracic aortic aneurysm and aortic dissection
-+ yearly CXR + abdominal U/S as screening
-
-if suspect GCA, immediately start high-dose prednisone 1 mg/kg PO in divided doses for 2-4 wk, and then
-taper prednisone by 10 mg per 1-2 wk as symptoms resolve; highly effective in treatment and prevention of
-
-if presenting with vision loss at diagnosis, methylprednisolone 1000 mg/d IV for 3 d followed by high-dose
-
-tocilizumab, an IL-6 receptor monoclonal Ab, has also been used in combination with glucocorticoids to
-
-Toronto Notes 2025
-
-GCA Gri
-Cumulative score of 26 points yields
-sensitivity of 87%, specificity of 95%
-
-Medical Emergency
-f untreated, GCA can lead to permanent
-blindness in 20-25% of patients
-
-Treat on clinical suspicion
--e 
-
-## Page 1517
-
-RH23 Rheumatology
-
-Seronegative Spondyloarthropathies
-
-Table 25. A Comparison of the Spondyloarthropathies
-
-Feature aS PsA ReA EA
-
-MF 34 1 81 "
-
-Age of Onset 20s 3545 20s ny
-
-Peripheral Arthritis 2% 96% 90% Common
-
-Distribution ‘Axial, large joints ny ue &
-
-Sactoiltis 100% 40% 80% 20%
-
-Dactylitis Uncommon Common Occasional Uncommon
-
-Enthesitis Common Common Common LessCommon
-
-‘Skin Lesions Rare 100% Eventually psoriasis, 70% Occasional Occasional Pyoderma,
-atonset of arthritis Keratodermablennorthagica _erythemanodosum
-
-Uveitis Common Occasional 20% Rare
-
-Urethritis Rare Uncommon Common Rare
-
-HUAB27 90-95% 40% 80% 30%
-
-“LE=lowerextremities
-
-Ankylosing Spondylitis
-
-Definition
-
-+ chronic inflammatory arthritis involving the SI joints and vertebrae
-+ enthesitis is a major feature (e.g. Achilles tendinitis, plantar fasciitis)
-+ prototypical spondyloarthropathy
-
-Table 26. ASAS Classification Criteria for Axial Spondyloarthritis*
-
-Sactoiltis on Imaging
-
-HLA-B27 postive ‘Active (acute) inflammation on MI highly suggestive of sacrlits associated wit AS
-Inflammatory back pain oR
-
-Artis Definite radiographic sacroiitis rade 2ilatraly or grade 3-4 unilaterally
-Enthesits (heel)
-
-Uveitis
-
-Dactylitis
-
-Psoriasis
-
-Crohn's diseaselcolitis,
-
-Goodresponseto NSAIDs
-
-FI of Sp
-
-Elevated CRP
-
-*Spondyarthropatty: inflammatory int seas ofthe vertebral column
-
-Etiology and Pathophysiology
-+ inflammation > osteopenia > erosion > ossification > osteoproliferation (syndesmophytes)
-
-Epidemiology
-
-+ M:F=3:1; females have milder disease (may be under-diagnosed), more peripheral arthritis, and upper spine
-
-spondylitis
-+ 90-95% of patients are HLA-B27 positive (9% of the general population is HLA-B27 positive)
-
-Toronto Notes 2025
-
-Figure 10. Spondyloarthropathy
-subsets
-
-AS shares some features with the
-other three types of seronegative
-spondyloarthropathies such as ReA, EA,
-PsA, and U-sPA
-
-Non-radiographic axial spondylartiitis
-{nr-axSpA) isa subset of axial SpA that
-shares several features of AS but lacks
-radiographic evidence of structural
-changes
-
-Consider AS in the differential for causes of
-aortic regurgitation
-
-Rule of 2s
-AS occurs in:
-
-2% of HLA-B27 positive individuals
-
-20% of HLA-B27 positive individuals with
-affected family member
-
-+S
-+ Spondylitis
-+ Hip
-
-+ Shoulder
-
-Linda Colati
-
-Figure 11. Common sites of
-involvement of AS
-
-The Bath Ankylosing Spondylitis Disease
-Activity Index (BASDAN)
-
-Self-reported scoring system that focuses
-‘on fatigue, axial pain, peripheral pain,
-enthesitis, and morning stiffness
-
--e 
-
-## Page 1518
-
-RH24 Rheumatology
-
-Table 27. Types of Back Pain
-
-Parameter Mechanical Inflammatory
-Past History + ”
-Family History - +
-Onset Acute Insidious
-‘Age B-90yr <Syr
-Sleep Disturbance + +++ (worse during 2nd half of night)
-Morning Stiffness. 30min oth
-Involvement of Other Systems - +
-Exercise Worse Better
-Rest Better Worse
-NSAID Responsiveness. + ”
-Radiation of Pain ‘Anatomic (L5-S1) Diffuse (thoracic, buttock)
-Sensory Symptoms. . -
-Motor Symptoms + -
-Clinical Presentation
-+ axial
-= mid and lower back stiffness, morning stiffness >1 h, night pain, alternating buttock pain, painful SI
-joint (+ FABER test)
-
-spinal restriction (decreased ROM): lumbar (decreased Schéber), thoracic (decreased chest wall
-expansion, normal >5 cm at T4), cervical (global decrease, often extension first)
-postural changes: decreased lumbar lordosis + increased thoracic kyphosis + increased cervical flexion
-= increased occiput to wall distance (>5 cm)
-+ peripheral
-= peripheral arthritis occurs in about 25-30% of patients with ankylosing spondylitis
-= asymmetrical large joint arthritis, most often involving lower limb
-= enthesitis: tenderness over tibial tuberosity, or Achilles tendon and plantar fascia insertions into the
-calcaneus
-= dactylitis: toes or fingers
-+ extra-articular manifestations
-ophthalmic: acute anterior uveitis is common (25-30% patients)
-gastrointestinal: IBD
-renal: IgA nephropathy, amyloidosis (late and rare)
-cardiac: aortitis, aortic regurgitation, pericarditis, conduction disturbances, heart failure (rare)
-respiratory: apical fibrosis (rare)
-neurologic: cauda equina syndrome (rare)
-skin: psoriasis
-
-Investigations
-
-+ x-ray of SIjoint: spscudowidening” of joint due to erosion with joint sclerosis > bony fusion (late),
-symmetric sacroiliitis
-
-x-ray of spine: “squaring of edges” from erosion and sclerosis on corners of vertebral bodies (shiny corner
-
-sign) leading to ossification of outer fibres of annulus fibrosus (bridging syndesmophytes) > “bamboo
-
-spine” radiographically
-
-MRI of spine: assess activity in early disease; detection of cartilage changes, bone marrow edema, bone
-
-erosions, and subchondral bone changes. Best seen on T2 short tau inversion recovery (STIR) images
-
-(suppress fat and see bone edema)
-
-DEXA scan: reduced BMD
-
-labs: CBC, elevated ESR/CRP, ALP, Ca**, HLA-B27, serum protein electrophoresis (SPEP)
-
-Treatment
-+ non-pharmacological therapy
-
-= prevent fusion from poor posture and disability through: exercise (e.g. swimming), postural and deep
-
-breathing exercises, outpatient PT, and smoking cessation
-
-+ pharmacological therapy
-
-= NSAIDs (first line of treatment for peripheral and axial disease)
-
-= glucocorticoids (topical eye drops, local injections, occasionally require systemic steroids prior to other
-effective Rx)
-conventional DMARDs only for peripheral arthritis (SSZ, MTX) and are not effective for axial disease
-if inadequate response to two NSAIDs (or DMARD for peripheral arthritis only), consider anti-TNF
-agents or anti-IL-17 inhibitors for axial and peripheral involvement
-manage extra-articular manifestations
-+ surgical therapy
-
-= hip replacement and vertebral osteotomy for marked deformity (latter rarely performed)
-
-Prognosis
-* spontaneous remissions and relapses are common and can occur at any age
-
-+ function may be excellent despite spinal deformity
-
-+ favourable prognosis if female and age of onset >40 yr
-
-+ early onset with hip disease may lead to severe disability; may require arthroplasty
-
-Toronto Notes 2025
-
-NORMAL POSTURE
-
-Cervical lordosis,
-
-Thoracic kyphosis
-Lumbar lordosis,
-
-Sacral kyphosis
-
-ANKYLOSING SPONDYLITIS
-
-Increased occiput
-towal distance
-
-Increased cervical
-flexion
-
-Increased thoracic.
-kyphosis
-
-Decreased lumbar
-lordosis
-
-© Cassandra Cetlin
-
-Figure 12. AS postural change
-
-FABER (Flexion, ABduction, and External
-Rotation) Test
-
-Passively flex, abduct, then gently
-externally rotate the leg. If pain is elicited
-during this movement, the location of the
-pain may help determine the location of the
-patient's pathology (e.g. hip joint, SI join),
-However, itis poorly reproducible and
-inaccurate in discerning inflammatory vs.
-‘mechanical back pain
-
-Modified Schdber Test
-
-Patient must be standing erect with normal
-posture
-
-Mark an imaginary horizontal line
-connecting both posterior superior iliac
-spines (dose to the dimples of Venus)
-‘Amarkis placed 10 cm above this
-horizontal line, and another 5 cm below
-‘The patient bends forward maximally:
-measure the difference between these
-two points
-
-Reportthe increase (in cm to the nearest
-O4cm)
-
-The better of two tries is recorded
-
-Extra-Articular Manifestations of AS
-
-5As
-Anterior uveitis
-
-Apical lung fibrosis
-
-Aortic incompetence
-
-Amyloidosis (kidneys)
-
-Autoimmune bowel disease (ulcerative
-colitis)
--e 
-
-## Page 1519
-
--e 
-
-## Page 1520
-
-RH26 Rheumatology Toronto Notes 2025
-
-Table 29. CASPAR Criteria for PsA*
-
-Criterion Description
-1. Evidence of psoriasis Current (2 points), past (1 point) or family history (1 point)
-
-2. Psoriatic nail dystrophy (1 point) Onycholyis, pitting, hyperkeratosis
-
-‘3. Negative results for RF(1 point) Preferably by ELISA, nephelometry
-
-4. Dactylitis (1 point) Current or past history
-
-5. Radiological evidence (1 point) Juta-articular bone formation on hand ot foot xrays
-
-“Tomeet the CASPAR (CUSsiication criteria for Psoriatic AR citra, patent musthave inflammatory articular disease (int, spine, orenthesead with points fromthe above 5
-categories.
-
-Arthritis Rheum 2006 Aug54{8):2665-2673. Classification citeria for PsA development
-
-Treatment
-+ treat skin lesions (e.g. steroid cream, salicylic and/or retinoic acid, tar, UV light)
-+ NSAIDs and/or IA steroids (as an adjuvant), benefit should be seen within a few wk, should not be the sole
-therapy >3 mo
-+ DMARDs to minimize erosive disease (use early in peripheral joint involvement)
-= non-biologic DMARDs (MTX, SSZ, or leflunomide)
-« biologic therapies include anti-TNF agents, anti-IL-17 (secukinumab, ixekizumab, bimekizumab), anti-
-IL-23 (guselkumab, risankizumab), and anti-IL-12/23 (ustekinumab), JAK inhibitors
-
-Reactive Arthritis
-Definition ©
-+ seronegative spondyloarthropathy in which patients have a peripheral arthritis and one or more extra- Peretti
-articular manifestations that appears shortly after certain infections of the GI or GU tract Conjunetivitshvets
-+ this term should not be confused with rheumatic fever or viral arthritides Urethritis/cervicitis
-Etiology
-+ onset following an infectious episode either involving the GI or GU tract
-= Gl: Shigella, Salmonella, Campylobacter, Yersinia, C. difficile species ie)
-= GU: Chlamydia (isolated in 16-44% of ReA cases), Mycoplasma species
-+ acute clinical course STH EERE aed Tree”
-iad of conjunctivitis, urethritis, an
-. paset 1 wk post-infection arthritis is 99% specific but 51% sensitive)
-. for ReA
-
-= often recurring
-= spinal involvement persists
-
-Epidemiology
-
-* more common in ages 20-40
-
-+ MF if GU associated, M=F if Gl associated
-
-+ in HLA-B27 positive patients, axial > peripheral involvement
-
-Clinical Presentation
-+ musculoskeletal
-= asymmetric peripheral arthritis, spondylitis/sacroiliitis, enthesitis (Achilles tendinitis, plantar
-fasciitis), dactylitis
-+ ophthalmic
-« iritis (anterior uveitis), conjunctivitis
-+ dermatologic
-= keratoderma blennorrhagicum (hyperkeratotic skin lesions on palms and soles) and balanitis circinata
-(small, shallow, painless ulcers of glans penis and urethral meatus) are diagnostic
-+ gastrointestinal
-«= oral ulcers, diarrhea
-+ genitourinary
-= urethritis, prostatitis, cervicitis, cystitis, sterile pyuria; presence not related to site of initiating
-infection
-
-Investigations
-+ diagnosis is clinical plus laboratory
-
-+ evidence of antecedent or concomitant infection (stool culture, urine, and genital swab testing)
-+ blood work: normocytic, normochromic anemia, and leukocytosis
-
-sterile cultures
-
-serology: HLA-B27 positive, elevated ESR/CRP
-
-Treatment
-+ antibiotics for non-articular infections
-+ NSAIDs (naproxen 500 mg PO BID/TID, diclofenac 50 mg PO TID, indomethacin 50 mg PO TID/QID), PT,
-exercise
-+ local therapy
-« IA steroid injection (triamcinolone acetonide)
-« topical steroid for ocular involvement
--e 
-
-## Page 1521
-
-RH27 Rheumatology Toronto Notes 2025
-
-+ systemic therapy
-= corticosteroids (starting dose 20 mg/d)
-= DMARDs (for refractory ReA with peripheral joint involvement only) (SSZ, MTX)
-= TNF-a inhibitors for spinal inflammation (for disease refractory to NSAIDs, DMARDs)
-
-Prognosis
-
-+ self-limited, typically 3-5 mo, varies based on pathogen and patient’s genetic background
-+ chronic in 15-20% of cases
-
-Crystal-Induced Arthropathies
-
-Table 30. Gout vs. Pseudogout
-
-Parameter Gout Pseudogout
-Gender WF MF
-Age Middle-aged males Usually elderly
-Post-menopausal females
-Onset of Disease Acute ate
-Can become chronic ifhigh wc acd untreated, peoplewith _Chondrocalcinsisis asymptomatic bt the clinical feature
-renal failure, kidney transplant isgenerallyacite
-(Crystal Type Monosodium urate cP
-Negative birefringence yeLLow when paraLLel to compensator Positive birefringence (blue when parallel, rhomboid-
-filter), needle-shaped shaped
-Distribution First MTP classically; also midfoot ankle, knee, or Knee, wrist; monoar ticular, or plyarticuar if chronic
-polyarticular
-Radiology (note findings are Erosions “ove-hanging edges” Chondrocalcinosis
-nonspecific) OA(knee, wrist, 2nd and3rd MCP)
-Treatment Acute: NSAIDs, corticosteroids, colchicine NSAIDs, corticosteroids
-Chronic: allopurinol, febuxostat
-Gout ) 7
-Definition
-+ derangement in purine metabolism resulting in hyperuricemia; monosodium urate crystal deposits in
-tissues (tophi) and synovium (microtophi) (te
-Gy y
-Etiology and Pathophysiology M @
-+ uric acid can be obtained from the diet or made endogenously by xanthine oxidase, which converts
-xanthine to uric acid i
-+ an excess of uric acid results in hyperuricemia 3
-+ uricacid can deposit in the skin/subcutaneous tissues (tophi), synovium (microtophi), and kidney, where it 4
-can crystalize to form monosodium urate crystals that lead to gout + Hip s
-+ Lateral wrist 2
-Risk Factors = fang Pr OP) g
-+ non-modifiable risk factors include: genetic mutations, male gender, and advanced age + Ankle F
-+ modifiable risk factors include: diet (alcohol, purine rich foods such as meats and seafoods, fructose/sugar + Foot (Ist MTP= podagra) >
-sweetened foods; see list of precipitants below)
-+ other risk factors: renal failure, metabolic syndrome, dehydration (e.g. diuretics) Figure 13. Common sites of
-involvement of gout (asymmetric
-Clinical Presentation jointinvolvement)
-+ single episode progressing to recurrent episodes of acute inflammatory arthritis
-+ acute gouty arthritis
-= severe pain, erythema, joint swelling, usually involving lower extremities
-= joint mobility may be limited
-= attack will subside spontaneously within d to wk (5-10 d); may recur An acute gout attack may mimic cellultis;
-+ tophi however, joint mobilty is usually preserved
-
-= urate deposits on cartilage, tendons, bursae, soft tissues, and synovial membranes ach aor aen aaa
-
-= common sites: first MTP, ear helix, olecranon bursae, tendon insertions (common in Achilles tendon)
-
-+ kidney
-= gouty nephropathy
-= uric acid nephrolithiasis
-oe Precipitants of Gout
-Investigations
-+ joint aspirate: >90% of joint aspirates show crystals of monosodium urate (negatively birefringent, needle- a are FACT
-shaped) if done early in course of presentation Furosemide
-. . "i Bae, . . oh «, spirin® (low-dose)/Alcohol
-+ X-rays may show tophi as soft tissue swelling, bone/joints - punched-out lesions, erosion with “over- Cyclosporine
-hanging” edge Thiazide diuretics
-= UjS shows double-contour sign
-Foods are SALT
-Seafood
-Alcohol (beer and spirits)
-Liver and kidney
-
-Turkey (meat)
--e 
-
-## Page 1522
-
-RH28 Rheumatology
-
-Treatment
-+ acute gout
-= NSAIDs: high-dose, then taper as symptoms improve
-= ice, rest and elevation of the affected limb
-= corticosteroids: IA (preferred), PO, or IM (if renal, cardiovascular, or GI disease and/or if NSAIDs
-contraindicated or failed). IV for patients with multiple joints flaring, unable to take oral medication,
-and already have IV line
-«= colchicine: greatest benefit if used within the first 12-24 h. 1.2 mg at the first signs of an attack followed
-by 0.6 mg 1 h later and 0.6 mg BID on subsequent days until the attack has resolved. Caution in renal
-failure and/or older adults
-+ chronic gout
-= conservative
-+ avoid foods with high purine content (e.g. visceral meats, sardines, shellfish, beans, peas)
-« avoid drugs with hyperuricemic effects (e.g. pyrazinamide, ethambutol, thiazide, low dose ASA,
-cyclosporine)
-additional management of lifestyle factors: limiting alcohol intake, limiting high-fructose corn
-syrup, for overweight/obese patients weight loss is recommended (regardless of activity level)
-= medical
- antihyperuricemic drugs first line: allopurinol (not nephrotoxic), second line: febuxostat. Both
-decrease uric acid production by inhibiting xanthine oxidase. Start low and titrate up. Do not use
-febuxostat if history of cardiovascular disease
-* uricosuric drugs (probenecid, sulfinpyrazone): very rarely used in combination with allopurinol or
-febuxostat in patients in whom hyperuricemia is not controlled with the latter
-. few-dose NSAID/colchicine should be started with urate-lowering therapy for 3-6 mo to avoid an acute
-are
-= inrenal disease secondary to hyperuricemia, use low-dose allopurinol and monitor Cr
-+ indications for treatment with uric acid lowering therapy (ULT) include
-= attacks (22/yr), tophi, bone erosions/arthritis
-
-.
-
-Definition
-+ joint inflammation caused by calcium pyrophosphate (CPP) crystal deposition in connective tissue
-
-Etiology and Pathophysiology
-
-* acute inflammatory arthritis due to phagocytosis of IgG-coated CPP crystals by neutrophils and subsequent
-release of inflammatory mediators within joint space
-
-usually monoarticular
-
-slower onset in comparison to gout, lasts up to 2-3 wk but is self-limited
-
-Risk Factors
-
-+ old age, advanced OA, neuropathic joints
-
-+ other associated conditions: hyperparathyroidism, hypothyroidism, hypomagnesemia, hypophosphatasia
-(low ALP), hemochromatosis
-
-Clinical Presentation
-
-+ affects knees, wrists, MCPs, hips, shoulders; less likely elbows, ankles, big toe, spine
-
-asymptomatic crystal deposition (seen on radiograph only)
-
-acute crystal arthritis (self-limited flares of acute inflammatory arthritis resembling gout)
-pseudo-OA (progressive joint degeneration, sometimes with episodes of acute inflammatory arthritis)
-pseudo-RA (symmetrical polyarticular pattern with morning stiffness and constitutional symptoms)
-frequently triggered by dehydration, acute illness, surgery, trauma
-
-Investigations
-+ joint aspirate: rule out septic arthritis and gout
-
-+ CPP crystals: present in 60% of patients, often only a few crystals, positive birefringence (blue) and
-rhomboid shaped
-
-x-rays show chondrocalcinosis in 75%: radiodensities in fibrocartilaginous structures (e.g. knee menisci) or
-linear radiodensities in hyaline articular cartilage
-
-Treatment
-
-+ acute CPPD: joint aspiration, IA steroid injection, NSAIDs, cool packs, rest, and splinting
-
-+ chronic CPPD: NSAIDs with gastroprotection and/or low-dose prophylactic colchicine 0.6-1.2 mg/d PO
-(controversial)
-
-Toronto Notes 2025
-
-Ce)
-
-2020AmericanCollege of Rheumatology Guideline
-
-forthe Management of Gout
-
-Atti Rheumatol 2020;72:879.95
-
-Inte urate lowering therapy (ULT fr patients with
-2ASCtophi
-Radiographic damage atiutableto gout
-Frequent got fares (22/)
-
-‘Alopurnols prefered overallothe ULI.
-
-agent fora patients fndudng CKD tage 23)
-
-hnite concomitant ant-nflammatory prophylaxis
-
-{€9. colchicine, NSAIDs, prednisoneprednisolne)
-
-for3-6mo
-
-Continue ULT to target and maintain serum urate
-
-<émgidl
-
-‘npatens with equent gout fares ornomreslvng SC
-
-tophi who have failed to achieve serum uate <6 mg
-
-nuricosurics, xanthine oxidase inhibitors, and other
-
-intervention, pegoticae shouldbe initiated andthe
-
-‘arent ULT shouldbe discontinued
-
-Gout fares shoul be managed with NSAIDs, low-dose
-
-Cobchicine, or glucocorticoid as is-ne agents
-
-fist-ne
-
-+ Hip
-
-+ Polyarticular wrist 3
-+ Hand (MCP) 8
-+ knee £
-+ Foot (Ist MTP = podagra) >
-
-Figure 14. Common sites of
-involvement of CPPD
-
-e.. forthe Management
-
-of (PPD
-
-Aan Rheum Dis 2014705715
-
-Pharmacological and non-pharmacological
-
-treatment should both be used to manage.
-
-Treating acat CP erst oe
-packs, res, joint asp injection of
-
-Tong: acting ect beside
-
-for many patients
-
-Acute CP crystal athitiscan be treated
-
-systemically with NSAIDs and low-dose orl
-
-Colchicine although theiruse may bed in
-
-der patients by torcty and comorbidity
-
-Avi tapering course of oalor parenteral GCS
-
-or ACTH maybe effective foracte CP crystal
-
-‘rophyaxs against frequent recurrent acute CPP
-caystalartrts.
-
-Forpatints wth and CPPD, management goals
-and options are the same as those for Okalone.
-
-The order of pharmacological preference for chronic
-(PP crystal infammatory artis MSAD and!
-
-x colchicine, low-dose corticosteroid MT, and
-
-hydroxychloroquine.
-
-Associated conditions shouldbe treated detected.
-There reno dsease-modiying treatments for CPP
-caystalartrts and no treatmentisindicated for
-
-asymptomatic chondrocalcinsis
-
-sos
-
-es
-
--e 
-
-## Page 1523
-
-RH29 Rheumatology
-
-Non-Articular Rheumatis
-
-Definition
-+ disorders that primarily affect soft tissues or periarticular structures
-+ includes bursitis, tendinitis, tenosynovitis, fibromyalgia, and PMR
-
-Polymyalgia Rheumatica
-
-Definition
-
-+ characterized by pain and stiffness of the proximal extremities (girdle area)
-* common association to GCA
-
-+ no muscle weakness
-
-Table 31. PMR Classification Criteria Scoring Algorithm*
-Required criteria: age>50yr, bilateral shoulder aching, and abnormal ESRICRP
-
-Points without US (0-6) Points with Abnormal W/S**(0-8)
-Morning stiffness duration>45 min 2 2
-hip pain or limited ROM 1 1
-Absence of RFor ACPA 2 2
-Absence of other jointinvolvement 1 1
-Atleast one shoulder with subdeltoid andor biceps tenosynovitis and/or glenohumeral synovitis N/A 1
-
-(either posterior or axillary) and at least one hip with synovitis and/or trochanteric busitison
-ws
-
-Both shoulders with subdeltoid bursitis, bicepstenosynovitis, or gleno-humeralsynovitison WS _W/A 1
-
-“Ascore of ormores categorized as PMRin the algorithm without US and a score of Sor more categorized as PMRin the agorthmwith WS
-Optional WS criteria
-‘nn Rheum Dis 2012,71:484-492.
-
-Epidemiology
-+ incidence: 50 in 100000 per wa those >50 yr
-+ age of onset typically >50 yr, M:F=1:2
-
-Clinical Presentation
-
-+ constitutional symptoms prominent (fever, weight loss, malaise)
-
-+ pain and stiffness of symmetrical proximal muscles (neck, shoulder and hip girdles, thighs)
-+ prolonged morning stiffness
-
-+ physical exam reveals tender muscles, but no true weakness or atrophy
-
-Investigations
-+ blood work: often shows anemia of chronic disease, elevated platelets, elevated ESR and CRP, and normal
-CK; up to 5% of PMR reported with normal inflammatory markers
-
-Treatment
-
-goal of therapy: symptom relief
-
-start with prednisone 12.5-25 mg PO once daily, reconsider diagnosis if no response within several days
-taper slowly with improvement over 1 yr period with close monitoring, if in remission taper until
-discontinued
-
-relapses should be diagnosed and treated on clinical basis; do not treat a rise in ESR as a relapse
-
-treat relapses aggressively (50% relapse rate)
-
-monitor for steroid side effects, glucocorticoid-induced osteoporosis prevention, and follow for symptoms
-of GCA (H/A, jaw claudication, scalp tenderness)
-
-Fibromyalgia
-
-Definition
-+ chronic (>3 mo), widespread (axial, left- and right-sided, upper and lower segment), non-articular pain with
-characteristic tender points
-
-Toronto Notes 2025
--e 
-
-## Page 1524
-
-RH30 Rheumatology
-Diagnosis
-
-Table 32. 2010 ACR Preliminary Diagnostic Criteria for Fibromyalgia
-
-Criteria Comments
-
-Widespread Pain Index= number of areas in which the patient had pain over the ast Apatientsatsfies diagnostic citeria for fibromyalgia ifthe following 3 conditions
-wk (max score=19}: are met:
-Land R: shoulder girdle, upper arm, lower arm, hip, ypperleg, bwer leg, jaw ‘L Widespread Pain Index (WPl)27 and SS score>5 or WPI3-6 and SSscore 29
-‘One Area: chest, abdomen, upper back, lower back, neck 2.Symptoms havebeen presentat asimilar level for atleast 3mo
-
-Symptom Severity) Score= sum of 3 Thepatient doesnothavea disorder that would otherwise explainthe pain
-
-a) severity of fatigue
-) wakingunrefreshed
-«cognitive symptoms over the past wk
-4) extentof somatic symptoms (1B, H/A, abdominal pain/cramps, dry mouth,
-‘eve, hives ringing in eas, vomiting, heartburn, dry ees, OB, loss of
-appetite, rash, hairloss, easy bruising, etc)
-
-Ail(a-d) rated on 0-3 scale: 0= noproblem, 1= mild, = moderate,
-
-3=severe
-
-‘Arti Care and Res 2010;62(5):600-610
-
-Epidemiology
-
-« M:F=1:3
-
-+ primarily ages 25-45, some adolescents
-
-+ prevalence of 2-5% in general population
-
-+ overlaps with chronic fatigue syndrome and myofascial pain syndrome
-+ strong association with psychiatric illness
-
-Clinical Presentation
-
-+ widespread aching, stiffness
-
-+ easy fatigability
-
-+ sleep disturbance: non-restorative sleep, difficulty falling asleep, and frequent wakening
-
-+ symptoms aggravated by physical activity, poor sleep, emotional stress
-
-+ neurologic symptoms of hyperalgesia, paresthesias, allodynia
-
-* associated with irritable bowel or bladder syndrome, migraines, tension H/As, restless leg syndrome,
-obesity, depression, and anxiety
-
-+ physical exam should reveal only tenderness with palpation of soft tissues, with no specificity for trigger/
-tender points
-
-Investigations
-
-+ blood work: includes TSH; all typically normal unless unrelated, underlying illness present
-
-+ serology: do not order ANA or RF unless there is clinical suspicion for a CTD or inflammatory arthritis
-+ laboratory sleep assessment
-
-Treatment
-+ non-pharmacological therapy
-= counseling on self-management strategies
-= graded exercise programs including aerobic (>20 min/d, 2-3 d/wk) and resistance training (>8
-repetitions per exercise, 2-3 d/wk)
-
-= other therapies with some evidence: acupuncture, CBT, hydrotherapy, meditative movement (yoga, Tai
-
-chi)
-+ pharmacological therapy (to help with symptoms, not curative)
-= low-dose tricyclic antidepressants (e.g. amitriptyline)
-+ for sleep restoration
-select those with lower anticholinergic side effects
-= SNRIs: duloxetine, milnacipran
-= anticonvulsants: pregabalin, gabapentin
-
-= for analgesic treatment, opioids are not encouraged. NSAIDs are no longer encouraged (controversial)
-
-Prognosis
-+ variable; usually chronic, waxes and wanes, with some pain and fatigue that usually persists
-
-Table 33. Clinical Features of Inflammatory Myopathy vs. Polymyalgia Rheumatica vs. Fibromyalgia
-
-Inflammatory Myositis PMR Fibromyalgia
-Epidemiology PM, 40-50yr PM, >50yr PM, 25-45 yr
-Musclelnvolvement Proximal muscle None; periartculafarticular structures None
-only
-Weakness Yes No No
-Pain Painless Painful (shoulderhip girdle) Painful (fuse)
-Stitfness Present Significant moming stiffness and geling May have morning stifiness
-(shoulders, neck, hips)
-Investigations Muscle biopsy, CK, EMG, rule out ESRICRP, rule out CA Sleep assessment, ISH
-malignancy
-ESRICRP. Usually normal Markedy elevated Normal
-Treatment High-dosesteroids, Low-dosesteroids Exerdse, slep restoration
-
-immunosuppressants
-
-Toronto Notes 2025
-
-Ce)
-
-2012 Canadian Guidelines forthe Diagnosis and
-Management of Fitrom alga Syndrome: Executive
-‘Summary
-
-Pain es Manag, 2013 1819-26
-
-Purpose: To develop evidence-based guidelines for
-the diagnosis, management, and patient trajectory of
-individuals with fb romy aha,
-
-Nethods: Flowing consitaton with healthcare
-ditions, aneedsassessment was conducted,
-Ateratresearch wassubsequent!yprformed
-toidenty evidence addressing these questions.
-dent exdence was graded and recommendations
-weredrafted and appraised by an advisory panel
-Rests Fis characeie, clinica, by fc tuatig,
-<tfse body pain and frequent symptoms sleep
-disturbance, etigue, mood and cognitive changes.
-Inthe absence ofa cause of are, treatment goals
-shouldbe patient pectic and sympton-tased. The
-cornerstone of care isa heathy hfestyleand active
-patient participation in care, Multimodal mana gement
-may so indde pharmacological treatment, though
-they oly provide modest benefit
-
-Conclusions: These updated guidelines forthe
-management of FMshould support heathcare
-practitioner's confidence in caring forFM patients and
-‘improving clinical outcomes.
-
--e 
-
-## Page 1525
-
-RH31 Rheumatology
-
-Common Medica
-
-ns
-
-Table 34. Common Medications for Osteoarthritis
-
-Class GenericDrug ‘TradeName Dosing (PO) Indications Contraindications ‘Adverse Effects
-Name
-Analgesics ‘acetaminophen Tylenol® 000mgTIDgsh —Astline Severe iver disease! Hepatotoxicity, overdose,
-Gg daily max) impairment potentiates warfarin
-NSAIDs ibuprofen Advil? 200-600 mgTID nde Glbleed,renalimpairment, Nausea, tinnitus, vertigo,
-diclofenac Voltaren® 25.50 mg TID allergytoASA,NSAIDs, rash dyspepsia, GI bleed,
-diclofenac! Arthrotec® 50-75/200 mg TD pregnancy (13, PUD, hepatitis, renal
-misoprostol Naprosyn® 125-500mg BID anticoagulants failure, HTN, nephrotic
-naproxen Aleve® 1545 mg once daily syndrome
-mmeloxicam Mobicox®
-COX Inhibitors celecoxib Celebrex® 200mg oncedaily _Dyspepsia/GERD —_Renalimpairment, Same as NSAIDsabove
-cardiovascular dsease,
-61Bleed
-Other Treatments Comments
-
-‘Combination analgesics (acetaminophen + codeine,
-acetaminophen + NSNDs)
-
-corticosteroid injection
-
-Topical NSAIDs
-
-Capsaicin cream
-Glucosamine sulfate + chondroitin
-
-Enhanced short term effect compared to acetaminophen alone, can limit dosage of each tominimize
-adverseetfects increased range of adverseetfects: sedation, constipation, nausea, Gl upset
-
-Short-term (wk-m), joint spectictreatment
-manages Ikinlammatory process when infection has been ruled out
-
-Theoretical riskof cartilage damage and tendon weakening # used more frequently than q3 mo
-Topical didofenac (Pennsaid®, Voltaren Emulge!®)
-
-May use for patients who fail acetaminophen treatment and who wish toavoid systemic therapy, better
-‘onsmalloints
-
-Mild decreasein pain
-
-Limited evidence of benefit in OA knee. No egulationby Health Canada
-
-Table 35. DMARDs
-Generic Drug Name TradeName Dosing Contraindications ‘Adverse Effects
-TRADITIONAL DMARDs-COMMON
-hydroxychloroquine Plaquenil® 4400 mg PO once daily Retinal disease Glsymptoms, skin rash, macular damage,
-$ initially ‘neuromyopathy
-200-400 mg PO once daily Requires annual ophthalmological screening to
-maintenance monitor for retinopathy
-(Gmafkgideal body weight
-per dto amaximumof
-400 mid)
-sulfasalazine Salazopyrim® 1000 mg POBID-TID SalfalASA allergy Glsymptoms, skin rash, H/A, leukopenia,
-$ Aculfidne® (US)
-methotrexate Rheumatrex® 15:25 mg POISC Bone marrow suppression, Oral ulcers, Gl symptoms, cirrhosis,
-$ Folex/Mexate® weekly ver disease, signficantlung myelosuppression, peumontis, tubular necrosis,
-‘dsease,immunodeficency, fatigue
-pregnancy, t0H use,
-moderate tosevere kidney
-disease
-azathioprine Imuran® 2mg/kgld POonce daily —_Kidneyhiver disease Skinrash, pancytopenia especially leukopenia),
-$ thiopurine stasis, vomiting, diarthea
-S-methyltransferase (TPMT)
-Aefciency
-nnycophenolate mofetil’ Celkept® 500-1500 mg PO BID Pregnancy orbreasteeding, Glsymptoms,cytopenias iA, skinrashes,
-sodium Nyfortic® severe immunodeficiency
-$$
-leflunomide Arava® 10-20mgPOonce daily _—_Liverdisease, ung disease, Alopecia Glsymptoms, liver dysfunction,
-%$ pregnancy interstitial pulmonary fibrosis, HTN
-TRADITIONAL DMARDs- UNCOMMON
-cyclosporine Neoral® 25-3mg/kg/d divided and Kidneyfiver disease, HIN, decreased renal function, hair growth,
-siven in 2 dosesPO infection, HTM tremors, bleeding
-gold injectable) Solganal® 50mgIMweekly after IBD, kideylver disease ash, mouthsoreness/cer, proteinuria,
-5 Myochrysine® ‘gradual introduction marrow suppression
-«cyclophosphamide Cytoran® ‘1 gim2imo Was per Kidneylver dsease, Cardiotoxcty, 6lsymptoms, hemorrhagic cys
-s protocol neutropenia nephrotoxicity, bone marrow suppression,
-
-sterility, bladder cancer
-
-“Of not, biosimilars are increasingly becoming available for selec biologics.
-
-Biosnilars” are crugs nearly identical to previously approved biologics which are allowed to enter markets,
-
-following the expiry of patents belonging tothe original biologic. Bisimiars ae currently available for aéalimumab, etanercept and iturimab in Canada
-
-Toronto Notes 2025
--e 
-
-## Page 1526
-
-RH32 Rheumatology
-
-Table 35. DMARDs
-
-Generic Drug Name Trade Name Dosing Mechanismof Acton
-
-NEWER DMARDs (Biologics and JAKs)
-
-adalimumab Humira® 40mg SC g2wk Monodonal anti-TNF
-
-$85
-
-infliximab Remicade® 3-5 malig WV g8 wk Chimeric mouse human monoclonal anti-TNF
-
-$$
-
-etanercept Enbrel® 25 gC biweekly or50 Fusion protein of TMF receptor and F portion ofg6
-$55 ing weetly
-
-certolizumab Gimzia® 400 mg SC q2 wx PE6ylated monodonal ant-THF
-
-$98, ‘then 200 mg SC q4 wk
-
-golimumab Simponi? 50 mg ¢ ql moor Monodonal anti-TNF
-
-$88 2mglkgq8 wk
-
-secukinumab Cosentyx® 150mg SC monthly Blocks ILA
-
-$95
-
-abatacept Orencia® 500-1000mgIW infusion ql Costimulation modulator of Tel activation
-
-$56 mmo or 125 mgSC qtwk
-
-toilizumab Actemra® 48mg qdwkor ——_—L-6receptor antagonist
-
-$85 162mgSC qt2wk
-
-rituximab Rituxan® 1gx2IVintusions,2wk Causes Bell depletion, binds toCO20
-
-$9 apartgé mo
-
-aptemilast Oterla® Day 1:10mg (AM) PO, titrate PDE4inhibitor which reduces production of THF-
-$98 up 1030 mg BID by day 6
-
-tofacitinb Yelonz® Sg POBID Selective JAK V3 inhibitor and thus interferes with JAK STAT signaling pathway
-$$
-
-upadactinib Rinvog® ‘5 igPO once daily Selective JAK1inhibitorandthusinterferes with JAK STAT signaling pathway
-$$
-
-“Of not,biosinilars are increasingly becoming avaliable forsee biologics. "Biosimilars” are drugs nearly identical to previously approved biologi which are alowed to enter markets,
-‘olowing the expiry of patents belonging to the original biologi. Bisimilrs are curently avalable for adalimumab, etanercept andrituximabin Canada
-
-Landmark Rheumatology Trials
-
-Clinica! Trial Details
-
-Trial Name Reference
-
-RHEUMATOID ARTHRITIS
-
-COMET Lancet
-2008;372:375-82
-
-ERA NEM
-2000;343:1586-93
-
-Best ‘thritis Rheum
-2005;52:3381.90
-
-Title: Comparisonof Methotrexate Monotherapy witha Combination of Methotrexate and Etanercep in Active, Early,
-Moderate to Severe Rheumatoid &thrts(COMET):A Randomised, Double-Blind, Parale Treatment Trial
-
-Purpose: Tocomparetheefficacy of MX monotherapy orMTX pis etanercept for remission and radiographic non-
-progression in RApatients.
-
-Methods: 542 RAMTS-nave outpatients with moderate-o-severe disease or 3-4 mo were randomly assigned to MTX
-‘lone (tated trom 7.5-20 maw) or MTX same titration) pls etanercept 50 mg/wk.
-
-Results: Clinical remission wasachievedin 50% of patients on combined treatment vs. 28% taking MTXalone
-(difference, 22.05%; P<0.0001). 80% and 59%, respectively, achieved radiographic non-progression (difference,
-20.98%; P0.0001). Both groups experienced similar adverse events.
-Discussion: 1 yr of treatment with etanercept plus MTX can achieve clini
-progression in early severe RA.
-
-Title: AComparison of Etanercept and Methotrexate in Patients with Early Rheumatoid Arthritis
-Purpose: Toinvestigate the efficacy of etanerceptin reducing disease activity and joint damage inpatients with early
-and active RA.
-
-Methods: 632 patientsreceived either SC etanercept (10 or 25 malwk) twice weekly or oral MTX(19 mgiwk) for 12 mo,
-Clinical response was defined by criteria of the American Colege of Rheumatology.
-
-Results: Patients on 25 mgetanercept improved quicker than those on MTX, with significantly more improvementsin
-disease activity within 6 mo (P<0.05) Duting thefirst 6 and 12 mo, there were significantly greater increases in mean
-‘erosion scores inthe MTX group (?=0.007). Fewer adverse events (P=0.02) and infections (P=0.006) were seen in25,
-tng etanercept.
-
-Conclusion: Inpatients with early active RA, etanercept morerapidy reduced symptomsand sowed joint damageas
-‘compared to MTK.
-
-Title: Cinical and Radiographic Outcomes of Four Different Treatment Strateg
-‘Arthritis (the BeSt Study: ARandomized, Controled Trial
-
-Purpose: Toidentity the optimal therapeutic strategy for preventing long-term joint damage and functional decine
-inRA.
-
-Methods: 508 patients were randomly assigned to lof 4therapeuticstrategies: sequential disease-modifying
-‘antirheumatic drugmonotherapy, (2) step-up combination therapy, (3 initial combinationtherapy with tapered high
-dase prednisone, o (4 initial combination therapy with infliximab.
-
-Results: At 3 mo, groups 3 and 4 showed signfcanty greater functional improvement (as defined by the Dutchversion
-‘ofthe HealthAssessment Questionnaire (D-HAQ)) with mean scores of 06, as compared to mean scores of 10 in
-‘groups  and2 (P-0,001). At Tyr, mean D-HAO scores ingroups 3 and 4 were 05, ascompared 00. 7ingroups 1 and 2
-(P-0.00
-Conclusion: As compared to sequential monotherapy r step-up combination therapy, intial combination therapy with
-prednisone or infliximab led toearler functional improvements and less radiographic damagein patients with early
-RA.
-
-ir
-
-and radiographicnon-
-
-Patients with Early Rheumatoid
-
-Toronto Notes 2025
--e 
-
-## Page 1527
-
-RH33 Rheumatology
-
-Trial Mame
-
-Reference
-
-Clinical Trial Details
-
-Infliximab and MTX.
-
-Treatment of Active
-Rheumatoid Arthritis
-with Leflunomide
-Compared with Placebo
-and Methotrexate.
-Leflunomide Rheumatoid
-Arthritis Investigators
-‘Group Strand et al. 1999
-
-PREMIER
-
-NEM
-2000;343:1594-602
-
-‘Arch Intern Med
-1999;159:2542.50
-
-Arthritis Rheum
-2006;5426-37
-
-Title: nfximab and Methotrexatein the Treatment of Rheumatoid Arthtis. Ant-Tumor Necrosis Factor Trial in
-Rheumatoid Arthritis with Concomitant Therapy Study Group
-
-Purpose: To assess infiximab for potential sustained benefits andeffects on joint damage in RA
-
-Methods: 428 patients who had active RAdespite MTX therapy were treated with IV infliximab (3or 10 mg/kg every 4
-‘or8 wk plus oral MTX for 54 wk) or placebo.
-
-Results: As compared to MTX alone, infliximab pls MTX significantly reduced signs andsymptomsof RA (clinical
-response, 51.8% vs. 120%; P<0,001), There was geater evidence of joint damage on MTX alone butnot on infliximab
-plus MTX (mean change in radiographic score, 7.0.0.6, 0.009.
-
-Conclusion: Repeated doses ofinfiximab plus MTX in persistently active RA was dinicallyeffectiveandslowed the
-progression of oint damage.
-
-Title: Treatment of Active Rheumatoid Arthritis withLeflunomide Compared with Placebo and Methotrexate.
-Leflunomide Rheumatoid Arthritis Investigators Group
-
-Purpose: To compare the safety and efficacy of leflunomide vs. MTXn patients with active RA.
-
-Methods: 482 patients with active RAwere randomly assigned to receive leflunomide (20 mg/d), MTX (7.5-15 mgiwk),
-or placebo.
-
-Results: Clinical response and success rates on leflunomide (52% and 41%) and MTX (46% and35%) were significantly
-‘greater than those on placebo (26% and 19%) (P-0. 001) On leflunomide, common adverse events induded
-{gastrointestinal complaints, skinrash, and reversible alopecia.
-Conclusion: In patients withactive RA leflunomide was assoc
-had similar eficacies as MTX.
-
-Title: The PREMIER Study: a Multicenter, Randomized, Double-Blind Clinical Trial of Combination Therapy with
-‘Adalimumab plus Methotrexate versus Methotrexate Alone or Adaimumab Alone in Patients with Early, Aggressive
-Rheumatoid Arthritis Who Had Not Had Previous Methotrexate Treatment
-
-Purpose: To compare the efficacy and safety of adalimumab plus MTX versus MTX alone or adalimumab alone in
-patients with early, aggressive RA who were MTY-naive.
-
-Methods: 799 patients with active disease <3 yr weerandomly assigned to adalimumab 40.mg SC ever other wk pls
-‘oral MTX, adalimumab 40 mg SC every other wk, or oral MTX weeli.
-
-Results: American Clleg of Rheumatology 50% improvement was achieved insignficanty more patients on
-‘combinationtherapy (62%) than MTX or adakmumab (46% and 4% respectively; both P0001), Patients on
-‘combinationtherapy had significantly es radiographic progression (0,002) than those on ether monotherapy 49%
-‘of patients on combination therapy achieved remssionat 2
-
-Conclusion: Adalimuma plus MTX was significantly superior to either MIX or adalimumab alone in early aggressive
-RAL
-
-4 with better clinical responses thanplacebo and
-
-OSTEOARTHRITIS
-Hyaluronan
-
-‘Ann Rheum Dis
-2010;69:1097-1102
-
-‘SYSTEMIC LUPUS ERYTHEMATOSUS
-
-Belimumab
-
-Mycophenolate
-Nofeti or Intravenous
-
-Cyclophosphamide for
-
-Lupus Nephrtis.Ginaer
-etal. 2005
-
-Lancet 2011;377:721-
-3
-
-NEM
-2005;353:2219-28
-
-Title: Inta-Aticular Hyaluronan is without Clinical Eectin Knee Osteoarthrt
-Controlled, Double-Blind Stuy of 337 Patients Followed fr 1 Year
-
-Purpose: To assess the lng-termsafetyandeficacy of 5hyaluronantAinjectionsin knee osteoarthritis.
-Methods: 337 peters thle esteourtrisando eqs alunconal inde sco eceined I
-hyaluronan produc (sodium hyaluronate; Hyalgan®) orsalie weekly for Sw.
-
-Results: Treatment had no signfcanteffect on imeto recurrence or baseline changein LF or walking ain. There
-‘were aso o significant dferencesin paracetamol consumption, patients glaba assessment, responderrates, or
-adverse events.
-
-Conclusion: Hyaluronan injections were not clinically effectivein patients with osteoarthritis of the knee with
-mmoderate-severe disease (LFs10)
-
-Multicentre, Randomised, Placebo-
-
-Title Efcacy and Safety of Belimumab inPatients with Active Systemic LupusEythematosus: a Randomised, Placebo-
-Controlled, Phase 3 Trial
-
-Purpose: To assess the efficacy and safety of belimumab inpatients with active SLE.
-
-Methods: 867 patients aged 218 yr) who were seropositive with scores of 26 on SELENA-SLEDAI were randomly
-‘assigned to belimumab 1 mg/kg or 10 mg/kg, or placebo plus standard of care based on disease manifestationand
-local guidelines).
-
-Results: Significantly higher SRI SLE Responder Index) rates occurred with belmumab mg/kg (51%, OR 1.55;
-P=0,0129) and 10 mafkg (58%, 1.83; 0.0006) than placebo (4%). There wasa greater frequency of SELENA SLEDAL
-reductionby 24 pointswith belimumab 1 majkg (53%, 151; P=0.0189) and 10 mg/g (58%, 1.71;P-0.0024 than
-placebo (46%).
-
-Conclusion: Belimumab may be the first targeted biologic that is specifically approved for SLE.
-
-Title: Mycophenolate Mofetil or Intravenous Cyclophosphamide or Lupus Nephitis
-
-Purpose: To investigateif mycophenolate mofetiliseffectve for treating lupus nephritis.
-
-Methods: 140 patients with active lupus nephritis were randomly assigned to oral mycophenolate mofetil (1000 mgd
-increased to 3000 mai) or monthly IW cyclophosphamide 0.5 gim2 increased to 10 g/m2).
-
-Results: 22.5% of patients on mycophenolate mofetil and 5.8% of those on cyclophosphamide experienced complete
-remission (absolut difference, 16.7%; 95% CI,5.6-27.5%;P=0.005), thus demonstrating that mycophenolate mofetlis
-more efficacious than cyclophosphamide.
-
-Conclusion: In active lupus nephiitis, mycophenolate mofetil was more effective than V cydophosphamide in inducing
-remission andhad abetter safety profile.
-
-Toronto Notes 2025
--e 
-
-## Page 1528
-
-RH34 Rheumatology
-
-Trial Name
-
-Reference
-
-Clinical Trial Details
-
-‘CONNECTIVETISSUE DISORDERS
-
-Azathioprine or
-Methotrexate
-Maintenance for ANCA
-Associated Vasculitis.
-Pagnouxetal. 2008
-
-cycLOPS
-
-Cyclophosphamidevs.
-Placebo in Scleroderma
-Lung Disease. Tashkin et
-a, 2006
-
-weer
-
-IMPROVE
-
-RAVE
-
-MAINRITSANG,
-
-NEM
-2008;359:2790-803,
-
-‘an Intern Med
-2009;150:670-80
-
-NEM
-2006;354:2655-66
-
-NEJM 2005;352:351-
-361
-
-JAMA 2010;304:2381-
-88
-
-NEM 2010;363:221-
-2
-
-‘nn Intern Med
-2020;173:119-187
-
-Title: Azathioprine or Methotrexate Maintenance for ANCA Associated Vasculitis
-Purpose: To compareazathioprine(AZA) and MTX for safety and efficacy in Wegener's granulomatosis and microscopic
-
-Methods: 159 patients who achieved remissionwith WV cyclophosphamide and corticosteroids were randomly assigned
-to receive oral AZA or MTX for T2mo.
-
-Results: The ratesof adverse events (requiring discontinuation of the study drug or causing death were not
-significant different between groups. Event free survival wasalsonot significantly different between groups.
-Conclusion: Inpatients with Wegener's granulomatosis and microscopic polyangitis, AZA and MTXare similar
-alternatives for maintenance therapy after intial remission.
-
-Title: Puise versus Daily OralCyclophosphamide for Induction of Remission in Antineutrophil Cytoplasmic Antibody-
-Associated Vascultis:a Randomized Trial
-
-Purpose: To compare the efficacy of pulse cyclophosphamide vs. daily oral cydophosphamide for inducing remission
-imANCl-associated vasculitis.
-
-Methods: 49 patients with newly dagnosed generalized ANCK associated vascultiswith renal involvement received
-‘cyclophosphamide 15 mg/kg every 2-3 wk pulse), or daily cyclophosphamide 2 ma/kg oral, plus prednisolone.
-Results: There was no significant difference intimeto remission P-0.59) or percentage of patients who went into
-remission at 9 mo (881% in pulse vs. 87.7%in oral) The oral group had higher cumulative cyclophosphamide doses
-(P0.001. Lower rates ofleukopenia wereseen in the pulse group (hazard ratio, 0.41; 95% CI, 0.23to 0.7)
-Conclusion: InANCA-associated vasculitis, pulse cyclophosphamide inducedremission as effectively asthe daily oral
-regimen, required less cumulative cyclophosphamide, and caused fewer cases of leukopenia,
-
-Title: Cyclophosphamide versus Placebo in Scleroderma Lung Disease
-
-Purpose: To determine the efficacy of oral cyclophosphamide in patients with active alveolitis and scleroderma-
-related ID.
-
-Methods: 158 patients with scleroderma, restctivelungphysiology, dyspnea, andevidence of inflammatory LD
-received ora cyclophosphamide (<2 mg/kg/ or placebo forty.
-
-Results: The mean absolute diference in 12-moadjusted FC between cydophosphamide and placebowas 2.53%
-(95% Cl, 0.28 04.79%), indicating great efficacy of cytlophosphamide (?<0,03), The difference inF VC between groups
-wassustined at 24 mo,
-
-Concusion: Inpatients with symptomatic sderoderma-related ILD, orl cyclophosphamide had significant dnical
-benefit
-
-Title: Etnercep plusStandad Therapy for Wegener's Granulomatosis
-
-Purpose: Toinvestgate the safety andeficacy of etanercept for remission mantenancein GPA.
-
-Methods: 180 patients with GPAwere randomly assigned to receive either etanercept oplaceb, in addition to
-standard treatment (glucocorticoids plus cyclophosphamide or MTX)
-
-Results: No significant dferences were observed between the etanercept and contro groups in the rates of table
-periodsof low-level disease activ (86.5% vs. 90.6%, P-0.32), sustained remission (68.7bvs 75.3%, 0.38), or
-the te necessary o reach hase outcomes. Diseaseflaresand adverse events were common in both groups butnot
-significantly diferent,
-
-Conclusion: Etanercept is not effective for remission maintenance in GPA.
-
-Title: Mycophenolate Moftil versus Azathioprine for Remission Maintenance in Antinevtrophil (ytoplasmic Antibody-
-AssociatedVesculits (AAV: aRandomized Controlled Tri
-
-Purpose: To compare the efficacy of mycophenolate mofetil vs. azathioprine (AZA) preventing relapses in patients with
-A,
-
-Methods: Following remissioninductionwith cyclophosphamide and prednisolone,156 patients withnewly diagnosed
-‘AAV were randomly assigned to AZA (initiated at 2 mg/kg/d) or mycophenolate mofetil (initiated at 2000 mg/d),
-Results: The mycophenolate mofetil group experienced significantly more relapses (55%) as compared to AZA 37.5%)
-(hazard ratiofor mycophenolate mofetil, 1.68, 95%, 1.06-2.70;P-0.03). There was no significant difference inthe
-ratesof severe adverse events between groups.
-
-Conclusion: Mycophenolate moet was les effective than AZA for m
-
-Title: Rituximab versus Cyophosphamide for ANCA-Associated
-Purpose: Toinvestigateifritiximab is more effective and/or safer
-Methods: 997 ANCA positive patients randomly assigned to receive
-«cyclophosphamide 2 mg/kg/d).
-
-Results: 64% ofthe rituximab group reached the primary endpoint (remission of disease without te use of
-prednisoneat 6 mo), as compared withS3% of contrals (noninferiority, P<0.001).Rtuximabwas more effective than
-‘cyclophosphamide for inducing remission of relapsing disease; 67%s.42% reachedthe primary endpoint (P=0.0).
-‘Conclusion: Insevere AAV, rituximab was noninferor to cyclophosphamide for remission induction and may be
-superior in relapsing disease.
-
-Title: Long-Term Rituximab Useto Maintain Remission of Antnevtrophil Cytoplasmic Antibody-Associated Vascultis:
-
-‘a Rendomized Trial
-
-Purpose: Toassess the efficacy of prolonged rituximab therapy inreducing AAV relapses inpatientsin complete
-remission following aninital phase of maintenance therapy.
-
-Methods: 68 atientswere randomized to rece sion of rituximab or placebo every 6 mo for 18 mo.
-Results: At 28 mo, estimates of relapse-free survival were 96% and74%bin the rituximab and placebo groups,
-respectively representing anabsolute difference of 22% (I, -36%) anda hazard ratio of75 (I, 1.67-33.7) P-0.008)
-Conclusion: Prolonged rituximab therapy resulted in lower rates of AAV relapse than standard maintenance therapy.
-
-lophosphamide for treating AAV
-b (375 mg/m2 for 4 wk) or
-
-our
-
-Febuxostat Compared
-with Alopurinal
-in Patients with
-
-Hyperuricemia and Gout.
-
-Becker etal. 2005
-
-NEJM
-2005;353:2450-61
-
-Title: Febuxostat Compared with Allpurino in Patients with Hyperuricemia and Gout
-Purpose: Toinvestigat the use of febuxostatas a potential alternative toallopurinol for patients with hyperuricemia
-and gout.
-
-Methods: 762 patientswith gout and with serum urate 28.0 mg/dL were randomly assigned to receiveeither daily
-febuxostat (80 or 120 mg) or day allopurinol (300 mg for 52 wk.
-
-Results: Primary endpoint (serum urate 6.0 mg/dL atthe last 3 monthly measurements) occurred in 53% of patients
-‘onfebuxostat 80 mg, 62% onfebuxostat120 mg, and 21% on allopurinol (P<0,001 for both febuxestat groups vs.
-allopurinol). The oerallincidence of gout flares during wk 9-52 was similar all groups and decreased with continued
-treatment.
-
-Conclusion: Inpatients with hyperuricemia and gout, febuxostat was more effective than allopurinol at lowering
-serumurate.
-
-Toronto Notes 2025
--e 
-
-## Page 1529
-
-RH35 Rheumatology Toronto Notes 2025
-
-Trial Name Reference Clinical Trial Details
-‘ANKYLOSING SPONDYLITIS
-ATLAS ArthritisRheum Title: Efficacy and Safety of Adalimumab in Patients with Ankylosing Spondylitis: Results ofa Multicenter, Randomized,
-
-2006;54:2136-46 Double-Blind, Placebo-ControlledTral
-Purpose: To assess the saety andefficacy of adalimumabin patients withactiveAS.
-Methods: 208 AS patientswere randomly assigned toSC injection of adalimumab (40 mg every other wk) or placebo
-{for 24wk. Primary outcome wasa 20% response accordingto the Assessment in AS International Working Group
-(asa20).
-Results: 58.2% of adalimumab-treatedpatients reached an ASAS20 response at wk 12¥s. 20.6% of placebo-treated
-patients (P<0.001).Adalimumab also demonstrated significantly greater ASAS40 and ASASSI6 responses atwk12 and
-24 <0.009, Significantly moreadverse eventswere seenwith adalimumab,
-Conclusion: Adalimumab was well-tolerated and clinically effective in teatingactiveAS.
-
-ASSERT ArthritisRheum —_Titl: Efficacy and Safety of Infiximab in Patients with Ankylosing Spondylitis: Resuts ofa Randomized, Placebo-
-2005;52:582-91 Controlled Trial (ASSERT)
-
-Purpose: To evaluate the efficacy and safety of infliximab in AS.
-Methods: 279 patients wererandomly assigned to receive5 mg/kg nflximab infusions at wk O, 2, 6,12, and18,
-‘or placebo. Primary outcome was a 20% response according tothe Assessment in AS International Working Group
-(asa20).
-Results: As compared with placebo, significantly more patients on infliximab achieved the primary outcome (61.2%ys.
-19.2%(P-0,001. Infiximab produced dinical benefits beginning at wk 2 that were sustained over the 24 wk. Adverse
-‘events were common in both groups but generally mild-moderate in severity
-‘Conclusion: In patients with AS, infliximab was clinically effective and welltolerated over 24 wk.
-
-SPINE ‘Ann Rheum Dis Title: Efficacy of Etanercept on Rheumatic Sigs and Pulmonary Function Tests in Advanced Ankylosing Spondylt
-201%;10799-804__Resuts ofa Randomized Double-Blind Placebo-Controlled Study (SPINE)
-
-Purpose: To assess the efficacy of etanercept (ETN) in advanced AS.
-Methods: 82 patents withsevere, active AS that were refractory to NSAIDs and anti-TNF nai
-50 mg weekly or placebo.
-Results: Over 12k, there were significantly greater improvements in the Bath AS Disease Activity Index (ASDA in
-the ETN group vs. placebo group (19.816 5 vs.-11.s16 4, P-0.019).ETNalsoimproved CRP levels (P<0.001), total
-back pain (P-0,010), and FYC (?=0.006)
-‘Conclusion: In advanced AS ET has short-term efficacy for improving pain, CRP, spinal mobility and pulmonary
-function
-
-Sulfasalazine ArtritisRheum Tile: Sufasalazine inthe Treatment of Spondylrthropathy: ARandomized, Multicenter, Double-Bin, Placebo-
-1995;38618-27 Controlled Study
-
-Purpose: To evaluate the safety andetcacy of sulfasalazine (S52) in treating spondyarthropathy.
-Methods: 351 patients with active disease despite treatment with NSAIDsreceved SZ (3g or placebo. Primary
-ceficacy outcomes included the patient's and physician's overall assessments, pai, and morning tities
-Result: 60% of patients taking SSZ improved by atleast V5 point on patient assessment of diseaseactty, in
-<contrastto 44% taking placebo (only significant ference among primary outcomes). SSZ had greater dinical
-ceficacy in asubgroup of patients with psoriatic arthritis, as measured by primary efcacy vriables and joint
-inflammation.
-Conclusion: SZ was moreeffective thanplacebo intreating active spondylrthropahy, particulary in patients with
-psoriaticarthitis.
-
-References
-
-ACR Subcommittee on Rheumatoid Art hts Guidelines, 2002. Guidelines forthe management of rheumatoigarthrts, 2002 Update. Arthrits eum 2002:46:328-346.
-
-ACR. Guidelines for eerral and management of systemic lupus erythematosusinaduRs, Artis Rheum 198,42 :1785-196.
-
-Agca  Hesinga SC, Roletstad, etal. EUAR recommendation for cardiovascular disease risk management inpatients wit heumatod arthritis and other forms of inflammatory jin disorders: 2015/2016 update nn Rheum Dis 2017,76:17-28
-A-Hashimi 1, KhuderS,HaghighatW tal. Frequency and preictive value tthe cinical manifestations in igen’ syndrome Oral Pathol Med 200130216.
-
-Aetaha 0, Neogi, SimanAJ, eta, 2010 Rheumatoid arthritis classification criteria, Athrits eum 2010:62:2568-2581.
-
-American Collegeof Rheumatology Subcommittee on Rheumatoid Artis Guidelines. Guidelines forthe management of rheumatoid arthritis: 2002 Update. Arthritis Rheum 2002:46:228-246.
-
-Amussen , Anderson, Benditen Get al. Anew mode for assiication of isease manitestations in primary Sjogren's syndrome: evaluation na retrospective long-term study J Intern Med 1996,239(6):475-482
-‘Anger M,Costenbade K, Dah, et al European League Against Rheumatism/mercan College ot Rheumatology clasiication criteria for systemic lupus erythematosus. Arthritis Rheum 2018,71:1400-412
-Arnett F, EdworthySM, Bloch DA etal The American Rheumatism Assocation 1987 revised criteria forthe dassiction of rheumatoid arth. Arthrts Rreum 1988;3t 315-324
-
-Baer AN, Sankar. Treatment of éry mouth and other non-oclarsicca symptoms in jgren’s syndrome. In: UptoDate, Post Tw (4), UpToDate Waham, MA. (Accessed Apil24, 2020)
-
-Bajwa SF, Mohammed RHA ype I hypersenstvty reaction In: SttPear.StatPears Publishing, Treasure Island FL (Acessed Apr 17 2021)
-
-Bathon JM, Martin RW, Fleischmann RM, etal. Acomparson of etanercept and methotrexate in patients with ary rheumatoid arth. NEJM 2000;243:1586-1593.
-
-Bohan A, Peter JB Polymyosts and dermatomyositis (second of two parts). NEM 1975:282:403-407.
-
-Bombardier C Laine L, RicinA, etal Comparison of upper gastrointestinal toxicity of rofecoxib and naproxen in patients with eumatoid arthritis. The VIGOR Study Group. NEIM 2000;343:1520-1528
-Brady OH, MariBA, GarbuzS, eta. Joint replacement ofthe hip and knee - when to refer and what to expect. CMAJ 2000;163:1285-1291.
-
-Brater DC, HartisC, RedfernJS, etal. Renal eectsofCOX-2seletve inhibitors. Amer JNephrol2001;21115.
-
-Braun J, Botlow M,Remlinger 6, tal. Prevalence of spondylarthropathies in HA-B27 positive and negative blood donors. rtrits Rheum 1898:411; 58-67.
-
-Brouwer R, HengsimanG, Vee J etal. Autoantibodies inthe ea of European patients with myst. Ann Rheum Dis 2001;60(2): 116-123.
-
-Burns CM, Wortmann RL. Latest evidence on gout management: what the cinician needs to know. Ther Adv Chronic Ds 2012;36}: 271-86.
-
-Bykrek VP, Aknavan, Hazlewood 6S, etal Canadian rheumatology association recommendations for pharmacological management of rheumatoid arthritis with trational and biologic cisease-moditying antirheumatic drugs. J Rheumatol 201;38:1559-
-1382
-
-‘Carter, BarrS6, Clarke AE. The global burden of SLE: prevalence, heath disparities and socioeconomic impact. Nat Rev Rheumatol 2016;12605-620.
-
-‘arterJ0 Reactive arthritis defined etiologies, emerging pathophysiology, and unresolved treatment. nec Dis in Worth Am 2006;20:827-47.
-
-‘Catanoso ,Pipitone N,Salvarani. Epidemiology of psoriatic arthritis. Reumatismo 2012:64(2)66-70.
-
-CiereJ Acute monoarthritis, CMAJ 2000;162:15771583,
-
-‘ClarkBM. Physical and occupational therapyin the management ot arthritis, CMAJ 2000-163:998-1005,
-
-Daiakas MC, HotifeldR Polymyosts and dermatomyositis. Lancet 2003;362(9388)371-982.
-
-Dejaco, Singh YP Peel, eta. 2015 Recommendations for the management of plymylgiarheumatica: a aropean League Against Mheumatism/American Collegeof Rheumatology collaborative initiative, Ann Rheum is 2015,74:1799-1807,
-Denton CP Pathogenesis of systemic sclerosis (scleroderma). In: UptoDate, Post Tw (Ed), UpToDate, Waltham, MA. (Acessed June 10,2020)
-
-EnsworthS. Isitathitis? CMAJ 2000-62:101110%6
-
-Falk RJ, MerkePA, King TE. Granuomatoss with olyanits and microscopic poangitis:Cical manifestations and Giagnesis. In: Uptate, Pst Tw (Ed), UpToDate, Waltham, MA. Accessed April 24,2020)
-Fanouriaks A, KostopolouM, Alunno A etal. 2079 update ofthe EULAR recommendations forthe management of systemic upus erythematosus. Ann Rheum Dis 2018,78:736-185.
-
-FeméndezSA,Atijé-Lana M, Isenberg DA eta. Drug-induced pus: Inuding ant-tumour necrosis factor and interferon induced. Lupus 2012:73(9;545-553.
-
-Finkelman J, Merkel PA, Schroeder , eta. Atiproteinase 3 antineutrophil jtopasmic antibodies and disease actin wegener granulomatosis. Ann Intern Med 2007147611618,
-
-Fitzerait JD, DlbethN, MikulsT, eta 2020 American College of Rheumatology guideline forthe management of gout. Arthritis Cae Res (Hoboken) 2020,72(6}744760.
-
-‘Gerginakil, Bortluz A, Berti 6 Update onthe eptemilogy risk actors and disease ostcomes of systemic pes erythematosus. Best Pract Res C1Rh 2018;32:18-205.
-GullevinL., Pagnoue C Karras, etal. Rtuximab versus azathioprine fr maintenance in ANCA-associatedvascuftis. New Engl Med 204;31719-1714780.
-
-aja, SzodorayPNakken Beta. Cnical course, prognosis, and causes of death in mixed connective issue ease. J Rheumatol 20130. 1134-142.
-
-Harison M. Erythrocite sedimentation rat and Creactve protein, Aust Prescr 2015;38(3):$3-94
-
-Hayreh SS, Biousse\. Treatment of acite visual losin giant cellarterts: should we prescribe high-dose intravenous steroids or just oral steroids? Meuroophthalmo!2012;32:278 287.
-
-HealeyLA. Long tern follow-up of polynyalgiarheumatca: evidence forsynowtis. Semin Arthritis Rheum 1984-3:322-328.
-
-HelfgottSM. Monoartrts in adults: etiology and evaluation. In: UptoDate, Post Tw (E), UpToDate, Waltham, MA. (Accessed June 10,2020)
-
-Hewitt EW. The MC class antigen presentation pathway strategies for viralimmune evasion. Immunology 2003, 10:162-168
-
-Hochberg MC, Altman RD, Brant KT, eta. Guidelines forthe medical management of osteoarthritis ofthe hip. AericanColege of Rheumatology. Atrts eum 1995;38-1525-1540,
-
-were treated with ETN
-
--e 
-
-## Page 1530
-
-RH36 Rheumatology Toronto Notes 2025
-
-Hochberg MC, Altman RD, Brant KT, eta. Guietnes forthe medical management of osteoarthritis ofthe kne. American Colege of Rheumatology. Arthritis Rheum 1995;38-1541-1536,
-
-Hochberg MC, Graallese EM, Siman A, etal. Rheumatology. 7thed. Phlae'phia (PA): Esevier; 2023.
-
-Horowitz DL, Horowitz Barila-LaBarca M. Approach o septic arthritis. Am Fam Physician
-
-Huang SHK. Basics of therapy. CMAJ 2000;163:47-423.
-
-Jayne DRW, MerkelPh, Scale al Avacopan forthe Treatment of ANCA-Asociated Vases. NEJM2021;384:598-609,
-
-‘enetteC Falk, Bacon PA etal. 20t2 Revised Intemational Chapel Hill Consensus Conference nomenclature of vascultides. Atti Rheum 201265: 11.
-
-Ainkhot A. Diagnosis and management of infiammatorypolarthitis. CMAJ 2000, 162:1833-838,
-
-Appel JH, Weyand CM, Wortmann Rl. Primer on rheumatic diseases. ithed. Arthritis Foundation, 1987.
-
-KolasinskiS,NeogiT, Hochberg MC, eal. 2019 American ColegeofRheumatlogyArthrts Foundation guidetne forthe management of osteoarthritis of the hand, hip, and knee. Arthritis Care Res 20
-
-Kowal Bileck 0, Fransn J Avowac J, etal. Update of ULAR recommendations forte treatment of systemic sclresis. Ann Rheum Dis 2017.76 1327-1338,
-
-Kremer JM Rationaluse ofnew and existing dsease-modityng agents in rheumatoid artrts, Ann Inter Med 2001-134:695-706.
-
-LacaileD. Advanced therapy. CMAJ 2000;163:721728.
-
-Legaut KJ Miler, AdachiJD, etal. ystemiclupus erythematosus (SLE). McMaster Textbook of Interna Medicine. Krkow: Me ycyna raktyna
-
-Lightfoot RW, MichelBA, Bloc DA etal. The American Collegeof Rheumatology 1990 citeria forthe dassiication of polyarterits nodosa, Arthritis Rheum 199033 1088-1093.
-
-Lundberg E, jin, Botai, etal 2017 European League Against RheumatisnvAmercan Collegeof Rheumatology classication criteria for adult and juvenile iiopathic inflammatory myopathies and their major subgroups. Ann Rheum Dis
-
-2017,761955-196.
-
-Mactrlane GJ, Kronisch, Dean E, etal. EULAR revised recommen dations forthe management of fibromyalgia. Ann Rheum Dis 2017.76:318-328.
-
-Massaott EM. Gastrointestinal manifestations of systemic lupus erythematosus. n: Upto Date ost Tw (Et), UpToDate, Wattham, MA (Accessed Apil24, 2020)
-
-Mathew AJ, Ravindran. Infections and arthritis. Best Pract es Cin Rheumatol 201:28:935-958,
-
-McAindon TE, Bannuru RR, Sulivan MC, etal, OARS guidelines fr the nonsurgicalmanagement of knee osteoarthritis. Osteoarth Cartilage 2014 22:363-388.
-
-McGeoch Tit M,FamocaL tal. Canascrecommen dations forthe management of antineutrophil cycloplasm antibody associated vascultides. Rheumatol 2016:43() 97-120
-
-iter ML. intial treatment of dematonyosits and polymyositis in adults: Uptoate, Post Tw Ed, UpToDate, Watham, MA. Accessed April24, 2020)
-
-WiyokisS, Lockshin MD, AtsumiT, eta Internationa consensus statement on an update ofthe dassification tra for de ite antiphospholipid syndrome (APS). Thromb Haemost 2006;4:295:306,
-
-Wolly, €,Granulomatosis wth polyangitis, BMY Best Practice. Jun 2018. ttps./Ibest practice. bi comvtopcsen-gh/3Z7, Last accessed 28 Apri 2020.
-
-MuikhtyarC, Guilevin |, Cid MC, etal ULAR recommendations forthe management of primary small and medium vessel vascultis. Ann Rheum Dis 2008; 68(2);310-317
-
-National stitute for Heath and Care Excelence (NICE). Quality Standard on Spondyarthits: Spondyoarthritisin over 6s: iagness and Management Inter, London (UK). 2017 updated 2018 Jun 2) Avaliable rom: Mtps/wwv.nice.og. uk)
-uidancelgst70
-
-Higoursari yon, t.Pewlte, carates ond dled ants oR payee nse ts sect aa ll salou. Att es Ter 20 22,
-
-Paxks6, Santos, Barbhaya Met al. Understanding the role of environmental actors inthe development of Systemic Lupus Erythematosus. est Pract Res Cl Rh 2017, 31:306-320,
-
-PelsoR, MangusoF, iil M, tal. Management of arthropathy in inflammatory bowel eases. Ther Adv Chronic Dis 2015;6(265-77
-
-PomaresB, FunckT, Fir NA eta Histological underpinnings of rey mater changes in irom vestigated using multimodal brain imaging, J Newosc2017;37:1090-1101
-
-PonteC, Grayson PC, Robson JC etal. 2022 American Coleg of Rheumalogy/BULAR Classification Criteria for Gian Ce Artes Ann Rbeum Dis 2028112: 168753.
-
-Pultick WPE valuation ofthe patent with pon allover CMA 2001; 164:223-227,
-
-Reid, Esdile JM. Getting the most out of radology, CMA) 2000; 162:1318-1325.
-
-RichetteP DoertyM, Pascual, etal, 2016 updated EULAR evidence-based recommendations forthe management of gout. Ana Rheum is 2017.76:29-42.
-
-Robson JC, Grayson PC, Ponte, etal, 2022 American Collegeof Rheumatobgy/European Alliance of Associations for Rheumatology casstication criteria for granulomatosis with polangits Artrits Rheum 2022;74 393-399,
-
-Russe JP, Gibson LE, Primary cutaneous smal vessel vasculitis: approach to clagnosis and treat ment. Int J Dermatol 2006;45:+13,
-
-‘SaadounD Terie B, Semoun O etal. Hepatitis virus-associated poyartertis nodosa, Arthritis Cae Res Hoboken) 201;:63:427-435.
-
-‘hibosk CH, Shibasi SC ero, ea. 2016ACR-EULAR classification criteria fo primary Sfgren'synrome: A consensus and data-iven methodology involving tree international patient cohorts, Arthritis Rheum 2071 69:35-45,
-
-‘hojanaK, Whatlaboratry tests are needed? CMA) 2000;162:11571163.
-
-‘Siper J, Rudwalet M,BaraliakosX, etal, The assessment of Spondylotrthritis International Society (ASA) handbook: A guide to asses spondyfoarthrits, Ana Rheum Dis 2009;68:1-48,
-
-‘Singh 4A, Saag 6, Bridges SLi, etal, 2015 American College of Rheumatology guideline forthe treatment of rheumatoid ath Artrts Rheum 2018;68:1-26,
-
-‘SiveraF, Andres M, Carmona L, etal, Recommendation: Muna tional evidence-based recommendations forthe dagness and management of gout: integrating systematic Herature review and expert opinion of abroad panelot rheumatologist inthe 3e
-
-initiative Ann of RheumDis 2013.73: 328-335,
-
-Slater CA, Davis RB, Shmerling RH. Antnuclear antibody testing: a study of clinica tty, Arch Intem Med 1996;156:121-1425.
-
-‘Smetana GW, Shmeting RH, Does tis patient have temporalarteritis? JAMA 2002:267:82-101,
-
-‘mith, Jones R, Guery MJ etal Rtuximabfor remission maintenance in relapsing antinetrophil cytoplasmic antibody associated vascltis. rts Rheum 2012; 6437603679
-
-Solomon 0, Kavanaugh J, Schur PH. Evidence-based guidelines for the us ot immunologic tests: antinuclear antibody testing. Athi rheum 2002:474): 434-444,
-
-‘Smolen 4S, Aletaha, Barton, eal. Rheumatoid arthritis, Nat Re Dis Primers 201838: 12001,
-
-‘Smolen, Landewé Risa J, etal. EULARrecommencations for the management of eumatoi arthritis with synthetic an biological dsease-modiying antieumatic drugs: 2016 update, Ann Rheum Dis 2077:76:960-977
-
-‘tone JH, Tuckwel K, DinonacoS, etal, Trialfteciizumad ngiantcel arteritis. WEngld Med 20173714} 317328.
-
-‘Stevens Schirmer’ test Community Eye Health 2011;2476}45,
-
-‘Specks U, Merel PA, Seo Petal. ficac of remission induction regimens for ANCA-asocitedvasclitis. NEM 2013;368(5):17-427.
-
-‘Subcommitee for Scleroderma Criteria of the American Rheumatism Associaton Diagnostic and Terapectic Criteria Commitee, Preliminary criteria for the clasication of systemic sclerosis (scleroderma) Athi Rheum 1980,23:581-580
-
-‘Supplah R, Robson J LigmaniR, PoWarterts nodosa. BMY Best Practice. Sep 2021. https:estpractc. bi comvtopksen-gh 35. Last accessed 30 October 202,
-
-Tashi DP, ElashotfR, Clemens PJ etal. Cyclophosphamide vs. placeboin scleroderma ung disease, NEJM 2006, 35425):2655-2666.
-
-Taunton J, Wilkinson, Diagnosis and management of anterior knee pain. CMAJ 200 164:1595-1601.
-
-Terkeltaub RA FurstDE, Bennet, ta High versus low dosing of ral colchicine for erly acute gout fare: Twenty four-hour outcome of the ist multicenter, randomized, double-blind, placebo-ontoled, parallel group dse-comparson colchicine
-
-study. Athi Rheum 2010;62(): 1060-8
-
-Tiniolou , Mammen AL. Idiopathic inflammatory myopathies and malignancy: a comprehensive review. Cn RevANerg mu 201752:20-33.
-
-Tiwari, Jandu JS, Bergman W, Rheumatoit Factor. [Updated 2020 July27). In: Stat Pearls Internet) Treasure Ilan F):StatPearsPubEshing: 2021 Jan. Avaliable from: htps/wnrw.ncb.nim. ih gov/booksNBKS32898)
-
-Tsangl Paininthe neck. CWA) 200%, 164 182-17,
-
-‘an der Linden, Valkenburg HA, Cats A Evaluation of dagnostc criteria for ankyosing spondylitis. proposal for modification ofthe New Yorkcriteria Arthritis Rheum 198427:361
-
-‘Varga J Cinica manifestations and diagnos of systemic Sclerosis (scleroderma) in adults. In: UptoDate, Post Tw (Ee, UpToDate, Waltham, MA. (Accessed Api 24,2020.)
-
-Vita C, Bombardier, Jonsson, etal. Classicatonrtria for Sjgrens syndrome: a revised version ofthe European citeta proposed by the American-European Consensus Group, Ann Rheum is 2002;6:554 5S,
-
-Wade J. Osteoporess. CMA 2001; 165:4550,
-
-Watace J, Gladman DD. Clinical manifestations and iagnos of systemic upuserythematosusin adults. In: UptDate, Pst T(E), UpToDate, Waltham, MA. (Accessed April 24,2020.)
-
-Walace J, Overview of the management and prognosis of systemic lupus erythematosus in adult. In: UptoDate, Post Tw (Ed), UpToDate, Waltham, MA (AcessedApil24, 2020)
-
-Wing. Minimizing dsabitty inpatients with ow-Dack pain, CMAJ 2001;164-1459-1468,
-
-WoteF,CauwD, Ftzcharles MA, tal. The American College of Rheumatology preminary agnostic criteria for foronyalgia and measurement of symptom severity. Artis Care Res (Hoboken) 2010;62:600-610
-
-WoteF,Snythe HA Yunus MB, etal. The American Collegeof Rheumatology 1990 criteria for the casication of fbromy alg report ofthe miticenter ceria committe. Arthritis Rheum 1990;331604172
-
-Yates M, Warts RA, Bajema iM, etal. EULARERA-EDTA recommendations forthe management of ANCK-associted vasculitis. Ann Rheum Ds 2016,75:1583-1594,
-
-‘Thang W, Doherty, Pascual E, eal, EULARrecommen dations fr calcium pyrophosphate depestion. Part I: management. Ann Rieum Dé 2017044; 571575.
-
-5): 653-660.
-
-149-462
-
--e 
-
-## Page 1531
-
-U
-
-‘ology
-
-Shavez Khan, Neil Lin, Keiran Pace, and Zwetlana Rajesh, chapter editors
-Wafa Baqri, Meera Chopra, and Audrey Jong, associate editors
-
-Jonathan Chung and Martin Profant, EBM editors
-
-Dr. Yonah Krakowsky, Dr. Girish Kulkarni, Dr. Michael Ordon, and Dr. Kenneth Pace, staff editors
-
-Acronyms... 0... ee eee eee eee eee eee eee u2
-Basic Anatomy RevieW..... 02.00.0002. cece ee u2
-Urologic History... 6. eee eee eee eee ee us
-Hematuria... 6... cee eee ee eee eee us
-
-Macroscopic (Gross) Hematuria
-Microscopic Hematuria
-
-Lower Urinary Tract Dysfunction ............0205 us
-Urinary Incontinence
-
-Lower Urinary Tract Symptoms ..... 2.0... 000005 u7
-Urinary Retention
-
-Benign Prostatic Hyperplasia
-
-Urethral Stricture
-
-Neurogenic Bladder
-
-Dysuria
-
-Hydronephrosis
-
-Post-Obstructive Diuresis
-
-Overactive Bladder... 2... eee ee ee eee eee u12
-
-Infectious and Inflammatory Diseases. ............ u13
-Urinary Tract Infection
-
-Recurrent/Chronic Cystitis
-
-Interstitial Cystitis (Painful Bladder or Bladder Pain Syndrome)
-Acute Pyelonephritis
-
-Prostatitis/Prostatodynia
-
-Epididymitis and Orchitis
-
-Urethritis
-
-Stone Disease... 2.6... eee eee eee eee eee eee us
-Approach to Renal Stones
-
-Urological Neoplasms .... 2.2... eee eee eee eee U21
-Approach to Renal Mass
-
-Benign Renal Neoplasms
-
-Malignant Renal Neoplasms
-
-Carcinoma of the Renal Pelvis and Ureter
-
-Bladder Carcinoma
-
-Prostate Cancer
-
-PSA Screening
-
-Testicular Tumours
-
-Penile Tumours
-
-Scrotal Masses.
-
-Penile Complaints.
-Erectile Dysfunction
-
-.U32
-.U33
-
-Trauma . .U35
-Renal Trauma
-Bladder Trauma
-
-Urethral Injuries
-
-Infertility and Andrology... 0... 66.22 eee eee eee 37
-Female Factors
-Male Factors
-
-.U39
-.U39
-
-Testosterone Deficiency .
-
-Pediatric Urology .
-Congenital Abnormalities
-Wilms’ Tumour (Nephroblastoma)
-Cryptorchidism/Ectopic Testes
-Disorders of Sexual Differentiation
-Enuresis
-
-Bladder and Bowel Dysfunction
-
-Selected Urological Procedures...........02. 005 u44
-Bladder Catheterization
-
-Circumcision
-
-Vasectomy
-
-Cystoscopy
-
-Radical Prostatectomy
-
-Transurethral Resection of the Prostate
-
-Extracorporeal Shock Wave Lithotripsy
-
-Transition-Related Surgeries
-
-Common Medications... 0.2... c eee ee eee eee ua7
-Landmark Urology Trials... 02... cee eee ee eee u4s
-References... 0... eee cece ee cee eee e eens u49
-
-UL
-
-Urology
-
-Toronto Notes 2025
--e 
-
-## Page 1532
-
-U2 Urology
-
-Toronto Notes 2025
-
-ADT —_ androgen deprivation therapy
-
-AFP alpha-fetoprotein
-
-RPL androgen receptor pathway
-inhibitor
-
-ART —_ assisted reproductive technologies
-
-ASA acetylsalicylic acid
-
-‘AUA American Urological Association
-
-BBD _ bladder and bowel dysfunction
-
-BCG _Bacillus Calmeatte-Guérin
-
-BPH _benignprostatic hyperplasia
-
-BPKVP _ bipolar plasma kinetic vaporization
-of the prostate
-
-CAH congenital adrenal hyperplasia
-
-CaP cancer of the prostate
-
-CBI continuous bladder irrigation
-
-CF cystic fibrosis
-
-CFU colony-forming unit
-
-CHF congestiveheart failure
-
-CIC clean intermittent catheterization
-
-Cis carcinoma insitu
-
-CMG —_cystometrogram
-
-CRPC _castrate-resistant prostate cancer
-
-CTU CTurography
-
-CUA Canadian Urological Association
-
-CVA —_costovertebral angle
-
-dic discharge
-
-DHT —_dilhydrotestosterone
-
-DMSA — dimercaptosuccinicacid
-
-DRE digitalrectal exam
-
-DsD detrusor sphincter dyssynergia
-
-EBRT —_externalbeam radiation therapy
-
-ED erectile dysfunction
-
-FDP fibrinogen degradation product
-
-EPS expressed prostatic secretions
-
-FNA _ fineneedie aspiration
-
-GA__general anesthesia
-
-GAG —_glycosaminoglycan
-
-HIFU high-intensity focused ultrasound
-
-HPF high power field
-
-HPTA —_hypothalamic-pituitary-testicular
-axis
-
-HRR homologous recombination repair
-
-ICSI _ intracytoplasmic sperm injection
-
-IFN-a interferon-alpha
-
-IL2_interleukin-2
-
-IPSS International Prostate Symptom
-Score
-
-IsD _intrinsicsphincter deficiency
-
-i] intrauterine insemination
-
-IVF _invitrofertilization
-
-IVP. _intravenous pyelogram
-
-KUB _ kidneys, ureters, bladder
-
-LFT __liverfunction test
-
-LMN lower motor neuron
-
-LUTS lower urinary tract symptoms
-
-MET —_ medicalexpulsive therapy
-
-MS multiple sclerosis
-
-MVC motor vehicle collisions
-
-NMIBC —non-muscle invasive bladder cancer
-
-NSGCT _non-seminomatous germ cell
-tumour
-
-OAB __ overactive bladder
-
-OPQRSTUonset, position, quality, radiation,
-
-severity, temporality, déja vu
-Pca__prostate cancer
-PCKD _polycystickidney disease
-PCNL percutaneous nephrolithotomy
-PDE —_phosphodiesterase
-
-P/E physical exam
-
-PFMT —_pelvicfloor muscle training
-
-PGEI prostaglandin E1
-
-PID _pelvicinflammatory disease
-
-PLND __ pelviclymphnode dissection
-
-PMC pontine micturition centre
-
-PMN polymorphonuclear neutrophils
-
-POD _post-obstructive diuresis,
-
-PSA _ prostate specific antigen
-
-PUV posterior urethral valve
-
-PVD _ peripheral vascular disease
-
-PVP _photoselective vaporization of the
-prostate (GreenLightTM Laser)
-
-PVR —_post-void residual
-
-QOL quality of life
-
-RCC renal cell carcinoma
-
-RCT —_randomizedcontrolted trial
-
-RFA radio-frequency ablation
-
-RP radical prostatectomy
-
-RPLND _etroperitoneallymphnode
-dissection
-
-RR respiratoryrate
-
-RTA —_ renal tubular acidosis
-
-RUG retrograde urethrogram
-
-SA semen analysis
-
-SCC squamous cell carcinoma
-
-SEEKPP  Stophylococcus saprophyticus,
-E.coli, Enterococcus, Klebsiella,
-Proteus, Pseudomonas
-
-SFU Societyof Fetal Urology
-
-SLN sentinel lymph node
-
-SUI stress urinary incontinence
-
-SWL (extracorporeal) shockwave
-lithotripsy
-
-TNM tumour node metastasis
-‘TMPISMX trimethoprim/sulfamethoxazole
-
-TRUS transrectalultrasound
-
-TUIP transurethral incision of the
-prostate
-
-TUMT transurethral microwave therapy
-
-TURBT transurethral resection of bladder
-tumour
-
-TURP transurethral resection of the
-prostate
-
-WA urinalysis
-
-WO urine output
-
-uc urothelial carcinoma
-
-UMN upper motor neuron
-
-UPJ __ ureteropelvic junction
-
-UPOINT urinary, psychosocial, organ-
-specific, infection, neurologic!
-systemic, tendemess
-
-URS —_ureterorenoscopy
-
-UTD urinary tractdilation
-
-UTI urinary tractinfection
-
-UV) —_ureterovesical junction
-
-VB1_ voided bladder, intial (urethra)
-
-VB2 —_ voided bladder, midstream
-(bladder)
-
-VB3 _ voided bladder, post-massage/
-digital rectal exam
-
-VCUG voiding cystourethrogram
-
-ViU-_visualintemal urethrotomy
-
-VUR _vesicoureteral reflux
-
-WHO — World Health Organization
-
-Basic Anatomy Review
-
-recall that the anatomical position of the penis is erect; therefore, the terms “dorsal” and “ventral” are defined based on this erect position, where
-the dorsal side faces upwards and the ventral side faces downwards
-
-skin
-i Superticial fascia
-i External oblique
-7 Internal oblique
-y—
-
-Transversus abdominis
-7 Transversal fascia
-a
-
-Above arcuate line
-
-Testicular
-
-Extraperitoneal fat artery
-
--—— Peritoneum Vas Extemal
-Inferior epigastric artery Deferens spermatic fascia
-Below arcuate line Pampiniform remaster
-plexus muscle
-— Internal
-e spermatic fascia g
-Transversus abdominis = 3 Testis Tunica vaginalis 3
-|—_—— Transversalis fascia g Ss
-Extraperitoneal fat & skin /~  Dartos fascia 2
-—_—— Peritoneum a e
-Figure 1. Midline cross-section of abdominal wall Figure 2. Anatomy of scrotum
-‘Minor calyx {x
-Major calyx. —
-Reral vein pararena at 9
-Renal artery Renal sis
-Renal pelvis —y/
-\ Abdominal aorta Ureter —-
-
-Inferior vena cava
-Ureter
-
-Gonadal artery and vein
-
-Internaliliac artery and vein
-Extemaliliac artery and vein
-
-Intemal pudenal artery
-
-Prostate
-phincter, smooth muscle) az
-Common pene artery Petvehalsratedmade PRE Neneroua iva Poster urea
-5 Thabdosphncter extemal 3 Bularurettva ¢
-3 sphincter, stiated muscle) ese urethra 5
-& ‘Spongy (penile) urethra £
-& Corpus cavernosum 2
-3 Corpus spongiosum 8
-‘Meatus ©
-
-Figure 3. Essential male genitourinary tract anatomy
--e 
-
-## Page 1533
-
-U3 Urology
-
-Toronto Notes 2025
-
-‘Superficial dorsal vein
-Deep dorsal vein
-Dorsal artery
-
-Transverse Sections of Penis
-
-skin
-
-Loose areolar tissue
-Deep fascia
-
-Tunica albuginea
-
-Dorsal nerve
-Corpus cavernosum
-Deep artery
-
-Superficial
-dorsal vein
-Deep
-
-dorsal vein
-
-Corpus spongiosum
-skin
-
-Glans penis
-
-Dorsal vein
-
-Corpus cavernosum
-Corpus spongiosum
-Urethra
-
-OTobiLam
-
-Figure 4. Cross section of the penis
-
-Ductus deferens,
-
-‘Seminal vesicle
-
-JF ampuna ot
-ductus deterens
-
-Pubic symphsis.
-
-Prostate
-Urethra
-
-We
-
-wo
-
-Rectum
-
-Bulbourethral gland
-
-Ductus
-deferens
-
-Testis
-
-© Jerusha Enis
-
-Figure 5. Median sagittal section of the male pelvis and perineum
-
-‘sympathetic (T10-12) ON Parasympathetic (52-4) OFF
-
-Hypogastric nerve
-‘peas Intemal urethral sphincter
-
-‘Somatic (S2-S4) ON
-
-Pudendal nerve
-Ach
-
-Extemal urethral sphincter
-
-‘Sympathetic (T10-L2)
-+ Hypogastric nerve
-+ NE adrenergic receptors
-+ at receptor ~ internal urethral
-sphincter contraction
-+ 3 receptor > detrusor relaxation
-
-Somatic (S2-S4)
-
-+ Pudendal nerve
-
-+ ACh > nicotinic receptors > external
-urethral sphincter contraction
-
-Parasympathetic (S2-S4) Off
-
-© Sarah Crawley 2019
-
-Figure 6. Bladder innervation during storage phase
-
--e 
-
-## Page 1534
-
-U4 Urology Toronto Notes 2025
-
-‘Sympathetic (T10-L2) OFF Parasympathetic (S2-S4) ON
-
-Pelvic nerve ‘Sympathetic (T10-L2) Off
-ACh A .
-+ Internal urethral sphincter relaxation
-Somatic (S2-S4) Off
-+ External urethral sphincter relaxation
-
-Parasympathetic (S2-S4)
-
-+ Pelvic nerve
-
-+ ACh > muscarinic receptors >
-detrusor contraction
-
-st
-Hypogastric nerve Internal urethral sphincter
-
-‘Somatic (S2-S4) OFF
-
-Pudendal nerve
-Ach
-
-Figure 7. Bladder innervation during voiding phase
-
-Urologic History
-
-+ follow OPQRSTU approach
-
-= note that pain may not be limited to the genital region (e.g. lower abdomen, CVA)
-
-= assess the behavioural and psychological impact of symptoms on patient quality of life
-urinary habits
-
-= LUTS (see Lower Urinary Tract Symptoms, U7)
-
-= storage symptoms: frequency, urgency (rush to toilet), nocturia (FUN)
-
-= voiding symptoms: stream changes/straining, hesitancy, incomplete emptying, post-void dribbling
-
-(SHED)
-
-« dysuria: burning, pain on voiding
-
-= hematuria: blood clots, red/pink tinged urine (see Hematuria, U4)
-
-= incontinence: stress, urgency, mixed, overflow (see Urinary Incontinence, U6)
-
-External urethral sphincter
-
-Sarah Crawley 2019
-
-+ sexual function
-
-= scrotal mass (see Scrotal Masses, U32)
-
-» ED (see Erectile Dysfunction, U33) ©
-
-= female sexual dysfunction (dyspareunia, low desire, arousal disorder, orgasmic dysfunction) P ae
-
-= infertili ; I lways ask about sexual function in
-
-infertility (see Infertility, U37) acer Chore Werectbe Encanon
-
-+ associated symptoms be one ofthe fist symptoms that there is
-
-= NIV concomitant vascular disease. If there is
-
-= bowel dysfunction ‘new onset ED, consider screening for DM
-+ constitutional symptoms COE TaD
-
-= fever, chills, unintentional weight loss, night sweats, fatigue, malaise, bone pain
-risk factors: past urologic disease (e.g. UTI, stones, STI, cancers, anatomic abnormalities), FMHx,
-medications, lifestyle factors (e.g. smoking, alcohol, inactivity), trauma, previous surgical procedure
-
-Macroscopic (Gross) Hematuria
-
-Definition
-« blood in the urine that can be seen with the naked eye Ve)
-Classification Gross, painless hematuria in adults is
-
-bladder cancer until proven otherwise
-
-+ see Nephrology, NP24
-
-Etiology
-
-Table 1. Etiology by Age Group
-
-Age (yt) Biology
-
-020 UM, glomerulonephits, congenital abnormalities
-
-20-40 UT, stones, bladder tumour, exercise
-
-40-60 Male: bladder tumour, stones, UTI, prostate cancer, RCC Female: UTI, stones, bladder tumour, RCC
-
->60 Male: BPH, bladder tumour, UTI, RCC, prostate cancer Female: bladder tumour, UTl, RCC
-
--e 
-
-## Page 1535
-
-US Urology Toronto Notes 2025
-
-Table 2. Etiology by Type
-
-Pseudohematuria Infectious/inftammatory Malignancy Benign Structural Hematologic
-Vaginal bleeding Pyelonephritis RCC (mainly adits) BPH Stones Anticoagulants
-Dyes (beets, thodamine Bin candy and Cystitis Urothelial cancer Polyps Trauma Coagulationdetects
-juices) Urethitis Wiins’ tumour (mainly pediatriq Exercise-induced Foreign body Sickle cell disease
-Hemoglobin (hemolytic anemia) ‘lomerulonephriis Prostatecancer Urethral stricture Thromboembolism
-Myoglobin (rhabdomyolysis) Intersttalnepbitis Leukemia Polycystic kidneys
-
-Drugs (rifampin, phenazopyridine, Tuberculosis, ‘Arteriovenous malformation
-
-phenytoin) Infarct
-
-Porphyria Hydronephrosis
-
-Laxatives (phenolphthalen) Fistula
-
-History
-
-+ timing of hematuria in urinary stream
-«= beginning of micturition: anterior urethra
-= end of micturition: bladder neck, prostatic urethra
-
-= entire duration of micturition: bladder and above Common Urologic Causes of Hematuria
-+ presence of blood clots eee
-+ LUTS and associated symptoms Taira nee Tein
-
-= pyuria, dysuria, urgency: UTI Infection/Inflammatory
-
-= flank pain, radiation to groin: ureteral obstruction Calcul/Cysts
-+ last menstrual period, history of kidney stones, UTI, or previous urologic surgery Surgery/Sicke cel and other
-
-= recent UTI, post-infectious glomerulonephritis, IgA nephropathy hematological causes
-
-medications (anticoagulants, rifampin, phenazopyridine, phenytoin)
-risk factors for malignancy (smoking, chemical exposures, Hx of cyclophosphamide therapy, pelvic
-
-radiation)
-Investigations
-+ U/A, urine C&S, urine cytology
-+ imaging
-= Tower tract: cystoscopy Tach 0
-= upper tract: Cru ( ad standard), U/S eee OP te the renal
-+ CBC (rule out anemia, leukocytosis), electrolytes, creatinine (Cr), blood urea nitrogen (BUN), INR, partial parenchyma and collecting system.
-thromboplastin time (PTT), PSA (in men) Involves exposure to radiation and IV
-contrast (assess renal function and
-all
-Acute Management of Severe Bladder Hemorrhage US. Superior t1VP fr evaluation of
-+ ifclots present, manual irrigation via catheter with normal saline to remove clots renal parenchyma and renal cysts; limited
-+ CBI using large (20-24 French) 3-way Foley to help prevent clot formation Suh y SSeS EE El
-= should be done after manual irrigation of all clots fete uD
-+ cystoscopy ‘Magnetic Resonance (MR) Urography:
-= identify tumours or other source(s) Evaluation of renal parenchyma, collecting
-= coagulate obvious sites of bleeding or transurethral resection of tumours (under general or regional system and congenital anomalies;
-anesthesia) beneficial in pediatric or pregnant
-patients or when ionizing radiation has
-= = = to be avoided (assess renal function and
-Microscopic Hematuria C13)
-Definition
-
-+ blood in the urine that is not visible to the naked eye
-+ >2RBCs/HPF on urinalysis of at least two separate samples
-
-Figure 8. Workup of asymptomatic microscopic hematuria
-Based on CUAGuielnes.Ateraivey, he AUA recommends cstscopy and TU oralpatiens wth confimednicscopc hema; foFow-ufor negative workup wrinais year for
-two, ith repeat anatomic evaluation micoscopic hematuria persists
+# RH11 - 風濕病學（Rheumatology）
+
+## 章節導讀
+
+- 風濕病涵蓋多種自體免疫疾病，主要影響關節、軟組織及結締組織
+- 診斷需結合臨床表現、實驗室檢查（自體抗體）與影像學發現
+- 治療目標為控制發炎、緩解症狀、預防器官損傷；DMARDs 可改變疾病病程
+- 血清陽性疾病（如 RA、SLE）以特定自體抗體（RF、ANA、anti-CCP）為特徵
+- 血管炎依侵犯血管大小分類，對預後與治療方式有重要影響
+
+---
+
+## 退化性關節炎（Osteoarthritis, OA）
+
+### 定義
+
+- 退化性關節疾病，以軟骨磨損、軟骨下骨重塑、骨刺（osteophyte）形成為特徵
+- 非系統性發炎疾病，但可能伴隨區域性發炎
+
+### Table 9. OA 的徵候與症狀
+
+| 徵候 | 症狀 |
+|------|------|
+| 關節線壓痛、活動時疼痛、休息時緩解 | 關節積液 |
+| 受影響關節的骨質增大 | 凝膠化（geing） |
+| 關節排列不良/變形（成角） | 活動範圍受限 |
+| 活動範圍受限 | 被動活動時關節彈響（crepitus） |
+| 被動活動時關節彈響 | 發炎（輕度，可能存在） |
+| 關節周圍肌肉萎縮 | 關節不穩定/脫臼（常因韌帶不穩定） |
+| 關節鎖住（因「關節鼠」骨或軟骨碎片） | 功能喪失（如半月板破裂或其他內部損傷） |
+| 功能障礙 | 潛伏性發作疼痛，局部於受影響關節 |
+| 疲勞、睡眠不佳、情緒影響 | |
+
+### Table 10. OA 的 X 光特徵
+
+| 退化性關節炎（Osteoarthritis）X光特徵 | 發炎性關節炎（Inflammatory Arthritis）X光特徵 |
+|----------------------------------------|---------------------------------------------|
+| 關節腔狹窄——通常不均勻 | 關節腔狹窄——通常均勻 |
+| 軟骨下骨質硬化（Subchondral sclerosis） | 軟組織腫脹 |
+| 軟骨下囊腫（Subchondral cyst formation） | 侵蝕（Erosions） |
+| 骨刺（Osteophytes） | 關節周圍骨質疏鬆（Periarticular osteopenia） |
+| 常見於膝蓋、髖關節、DIP 關節 | 類風濕性關節炎：腕關節、腕骨、MCP、MTP |
+| 老年、過度使用的關節 | 通常較年輕 |
+
+### 關節侵犯
+
+- **全身性退化性關節炎**：≥3 個關節群
+- **不對稱分布**（膝蓋通常雙側受影響）
+- **手部**
+  - DIP（Heberden's nodes = 骨刺導致關節增大）
+  - PIP（Bouchard's nodes）
+  - CMC（通常拇指方形變）
+  - 第一 MCP（其他 MCP 通常不受影響）
+- **髖關節**
+  - 通常以鼠蹊部疼痛表現，為鈍痛或尖銳痛，位於轉子區
+  - 疼痛可能放射至大腿前側，但通常不會放射至膝蓋以下
+- **膝蓋**
+  - 初始單一腔室狹窄，內側 > 外側，於站立 X 光可見，常涉及髕股關節
+- **足部**
+  - 常見於第一 MTP 和中足
+- **腰椎**
+  - 非常常見，尤其 L4-L5、L5-S1
+  - 椎間盤及小面關節退化
+  - 反應性骨質增生可導致神經壓迫（如坐骨神經痛、神經性間歇性跛行）或脊椎滑脫（一椎骨向前或向後移動超過另一椎骨）
+- **頸椎**
+  - 通常表現為頸部疼痛，放射至肩胛區，尤其常見於中下頸椎（C5-C6）
+
+### 檢查
+
+- **血液檢查**
+  - CBC、ESR、CRP 正常
+  - RF 和 ANA 陰性
+- **影像學**：4 個典型 X 光特徵（見側邊欄）
+- **關節液**：非發炎性（見 Table 8, RH4）
+
+### 治療
+
+- **目前無治療可改變 OA 的自然病程**
+- **預防**：預防傷害、體重管理、體能活動（維持肌肉力量）
+- **非藥物治療**
+  - 減重（如過重，至少減 5-10 磅）
+  - 運動：如有監督更有效（常由物理治療師或課程指導）；太極拳強烈推薦用於髖/膝 OA
+  - 自我效能與自我管理計劃（目標設定、正向思考、疾病教育）
+  - 溫度療法：熱敷或冷敷
+  - 職能治療：輔具、副木、拐杖、助行器、支架
+- **藥物治療**（見 Table 35, RH31）
+  - 階梯式治療方法（局部 > 全身治療）
+  - 局部治療：局部 NSAID、局部辣椒素（knee, hand OA）；關節內注射 glucocorticoids（膝蓋、髖 OA）
+  - 全身治療：acetaminophen、口服 NSAIDs；中樞作用藥物（如 duloxetine）
+  - **不建議使用**（基於缺乏高品質證據）：鴉片類藥物及醫用大麻（用於疼痛）、玻尿酸、血小板豐富血漿、幹細胞注射、軟骨素及葡萄糖胺
+- **手術治療**
+  - 全關節置換和/或部分關節置換、關節清除術（未顯示有效）、切骨術、關節融合術
+
+> **臨床焦點：退化性膝關節炎的運動**
+> Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療性運動可顯著減少疼痛（12 分/100，95% CI: 10-18）及改善身體功能（10 分/100，95% CI: 8-13）。
+
+---
+
+## 血清陽性風濕病（Seropositive Rheumatic Disease）
+
+### 診斷 vs. 分類
+
+- **診斷標準**：選擇敏感性高於特異性的標準，因此可能誤診某些病例
+- **分類標準**：為特異性而開發，以便在臨床試驗中研究定義明確的病例
+- 現代分類標準在早期疾病的診斷研究中具有更高的敏感性和特異性
+- 血清陽性關節病變的特徵是存在血清學標記，如 positive RF 或 ANA
+- 少部分血管炎（小血管 ANCA 相關血管炎）有可測量的血清學成分，但專家通常將其視為獨立於血清陽性疾病的類別
+
+### Table 11. 自體抗體及其在風濕性疾病中的盛行率
+
+| 自體抗體 | 疾病 | 盛行率 | 健康對照組 | 備註 |
+|----------|------|--------|------------|------|
+| **RF** | RA | 80% | 5-25% | RA 的血清學標誌；對 RA 敏感（疾病早期可能為陰性） |
+| | | | | 抗體針對 IgG 的 Fc 結構域 |
+| | | | | RF 與更具侵襲性的關節疾病及關節外特徵（如結節）相關 |
+| | | | | 可能存在於 ANA 陽性疾病中，通常滴度較低 |
+| | | | | 非特異性；可見於 TB、C 型肝炎、矽肺、結節病 |
+| **Anti-CCP** | RA | 80% | 特異性 94-98% | 對 RA 特異；可用於早期疾病及預測持續性侵蝕性疾病；可在臨床症狀出現前發生 |
+| | | | | 與增加的關節外 RA 表現相關 |
+| **ANA** | SLE | 98% | <5% | 高滴度 ≥1:160 具特異性 |
+| | MCTD | 100% | 低滴度 1:40 | 對 SLE 敏感但非特異 |
+| | | 40-70% | 達 30% | 因高偽陽性率——僅在高預測概率時檢測 |
+| | CREST | 60-80% | 非疾病相關 ANA 隨年齡增加 | 陰性 ANA 可幫助排除 SLE |
+| **Anti-dsDNA** | SLE | 50-70% | 0% | 對 SLE 特異（95%）；濃度與疾病活動度相關 |
+| **Anti-Sm** | SLE | <30% | 0% | 對 SLE 特異但不敏感 |
+| | | | | 陽性後通常持續為陽性 |
+| **Anti-Ro (SSA)** | SLE | 40-95% | 0.5% | 敏感 |
+| | | | | 也見於亞急性皮膚紅斑狼瘡（74%）|
+| | | | | 可為 ANA 陰性 SLE 的唯一抗體 |
+| | | | | 懷孕時存在會增加新生兒狼瘡症候群及先天性心臟傳導阻滯的風險 |
+| **Anti-La (SSB)** | SLE | <40% | 0% | 通常與 anti-Ro 同時出現 |
+| | | | | 對乾燥症候群和 SLE（當 anti-Ro 也陽性時）特異 |
+| | | | | 增加新生兒狼瘡症候群風險 |
+| **抗磷脂抗體（LAC, aCLA, aB2GPI）** | APS | 100% | 5% | 根據定義，存在於 APS |
+| | SLE | 37-40% | | APS 臨床症狀僅見於 SLE 的小部分患者 |
+| | | | | 陽性常導致 VDRL 偽陽性 |
+| **Anti-Histone** | 藥物引發 SLE | 95% | 0% | 對藥物引發 SLE 高度特異 |
+| | SLE | 30-80% | | |
+| **Anti-RNP** | CTD | 20% | | 高滴度存在於 MCTD；也存在於許多其他 CTD（尤其 SLE） |
+| | SLE | | | |
+| **Anti-Centromere** | 侷限性 SSc (CREST) | >80% | 0% | 對 CREST、侷限性全身性硬化症特異 |
+| **Anti-Topoisomerase I (Scl-70)** | 瀰漫性 SSc | 26-76% | 0% | 對 SSc 特異 |
+| | | | | 與瀰漫性皮膚 SSc 相關 |
+| | | | | SSc 中間質性肺病風險增加 |
+| **Anti-Jo-1** | PM/DM | <% | | 與間質性肺病及抗合成酶症候群相關 |
+| **ANCA** | GPA | 90% | | 對 GPA 特異性 80-95% |
+| | MPA | 25% | | 敏感性可因技術及採樣時間而變異。ELISA 方法（anti-PR3）比免疫螢光法（IF）更具特異性 |
+| | EGPA | 50% | | |
+| **p-ANCA** | GPA | 10% | 0% | 非特異且敏感性差（見於 Churg-Strauss、 PAN、顯微多血管炎、快速進行性腎絲球腎炎）。ELISA 方法（anti-MPO）比 IF 更具特異性 |
+| | MPA | 60-80% | | |
+| | EGPA | 30-40% | | |
+| **Anti-Mi2** | DM | 15-20% | | 特異但敏感性不足（並非所有中心都有） |
+| **抗紅血球/WBC/血小板抗體** | SLE | | | 進行 DAT，檢測 Hb、網狀球、嗜中性球、血小板計數及抗血小板抗體 |
+| **抗粒線體抗體** | 原發性膽道膽管炎 | 0% | | 敏感且特異 |
+
+> **注意**：部分正常人可測得 RF 和/或 ANA，但並無相關疾病（如上所述）。
+
+---
+
+## 結締組織疾病（Connective Tissue Disorders）
+
+### Table 12. 血清陽性關節病變的特徵
+
+| | **RA** | **SLE** | **硬皮症（Scleroderma）** | **發炎性肌病變（IM）** |
+|---|---|---|---|---|
+| **臨床特徵** | | | | |
+| 病史 | 對稱性多關節炎（小關節侵犯）、早晨僵硬（>1h）、休息時無力 | 多系統疾病：紅疹、口腔潰瘍、光敏感、Raynaud's、脫髮、活動時呼吸困難 | 皮膚緊繃、手指僵硬、Raynaud's、胸口灼熱、吞嚥困難 | 眼瞼紅疹（periorbital）、Gottron丘疹（指節 IP 上紫紅色丘疹）+ 發燒或 ILD、腎危機（新發 HTN 或高血壓緊急情況） |
+| | | | | 近端肌肉無力 > 疼痛、呼吸困難 |
+| 理學檢查 | 早期：關節積液、腱鞘炎、皮下結節 | 紅疹、口腔潰瘍、Raynaud's、漿膜炎 | 手背皮膚緊繃、面部皮膚緊縮、shave sign、telangiectasia、calcinosis | Heliotrope rash、Gottron's papules、shave sign、近端肌肉無力（通常無痛）、吸氣爆裂音 |
+| | 晚期：關節變形、骨對骨彈響（晚期）、吸氣爆裂音 | | 非典型，通常小關節積液 | 右側心衰竭的軟特徵 |
+| **實驗室** | 非特異性：ESR 50-60%、CRP、Hb 下降（自體免疫）、血小板上升、WBC 下降（嗜中性球減少症罕見） | + ESR, + CRP, + Platelets（自體免疫） | 正常 WBC | 正常 WBC |
+| | | Hb 下降（自體免疫）、WBC 上升（白血球減少、嗜中性球減少） | + Cr、蛋白尿 | + Cr、蛋白尿、RBC 圓柱 |
+| | | + Cr、蛋白尿、RBC 圓柱 | | |
+| | RF 陽性 80%、Anti-CCP 陽性 80% | ANA 陽性 98%、Anti-dsDNA 陽性 50-70%、Anti-Sm 陽性 30%、偽陽性 VDRL（SLE 子類型） | Anti-topoisomerase I（瀰漫性）、Anti-centromere（通常 CREST）、Anti-Jo-1、Anti-Mi-2 | ANA 陽性 33%（CK 80% 上升） |
+| | | | | 肌肉切片 |
+| **X 光** | 非常早期：正常 | 非侵蝕性 | 早期：食道蠕動異常 | 晚期：骨質疏鬆 |
+| | 早期：關節周圍骨質疏鬆 | 骨質疏鬆、軟組織腫脹 | 食道蠕動異常 | 軟骨鈣化、鈣化 |
+| | 晚期：關節腔狹窄、侵蝕、對稱同心模式 | | | 無 |
+| | + 骨質疏鬆 | | | |
+| | + 膝蓋、肺結節 | | | |
+
+---
+
+## 類風濕性關節炎（Rheumatoid Arthritis, RA）
+
+### 定義
+
+- 慢性、對稱性、侵蝕性周邊關節滑膜炎（如手腕、MCP、MTP）
+- 特徵為發炎性關節疾病 + 多種關節外特徵
+- ≥1 個關節有明確臨床滑膜炎（腫脹）且無其他疾病解釋
+
+### Table 13. 2010 ACR/EULAR RA 分類標準
+
+（採計分演算法：將 A-D 類別分數相加；確診 RA 需總分 ≥6/10）
+
+| 類別 | 評分 | 備註 |
+|------|------|------|
+| **A. 關節侵犯**（腫脹或壓痛） | | |
+| 1 個大關節（肩膀、肘、髖、膝、踝） | 0 | 總分 ≥6 確診 RA |
+| 2-10 個大關節 | 1 | |
+| 1-3 個小關節（MCP、PIP、腕、第二至第五 MTP） | 2 | |
+| 4-10 個小關節 | 3 | |
+| >10 個關節（至少 1 個小關節） | 5 | |
+| **B. 血清學** | | |
+| RF 和 Anti-CCP 均陰性 | 0 | 必須有 ≥1 個關節有明確臨床腫脹，且無其他疾病可解釋 |
+| RF 或 Anti-CCP 低陽牲（<3x ULN） | 2 | |
+| RF 或 Anti-CCP 高陽牲（≥3x ULN） | 3 | |
+| **C. 急性期反應物** | | |
+| CRP 正常且 ESR 正常 | 0 | |
+| CRP 異常或 ESR 異常 | 1 | |
+| **D. 症狀持續時間** | | |
+| <6 週 | 0 | |
+| ≥6 週 | 1 | |
+
+> *Arthritis Rheum 2010;62:2569-2581*
+
+### 共同表現
+
+- 早晨僵硬 >1 小時，使用時改善
+- 對稱性關節侵犯
+- 初始侵犯手腳小關節
+- 全身性症狀
+
+### 病理生理學
+
+- 自體免疫疾病，病因不明；可能與遺傳和環境因素相關
+- 複雜的遺傳與環境交互作用導致免疫耐受破壞，最終引起滑膜發炎
+  - 遺傳易感性：HLA-DR4/DR1 相關（93% 患者有此 HLA 型）、細胞激素啟動子、T 細胞訊號
+  - 環境誘發：環境壓力（如吸菸）誘導將精胺酸轉化為瓜胺酸的酶，導致對蛋白質瓜胺酸化產生的新表位之免疫反應
+- 發炎過程導致滑膜轉化為侵入性血管翳組織，降解軟骨和骨頭，且無修復能力
+  - TNF 上升增加發炎部位的蝕骨細胞、減少造骨細胞（導致關節周圍骨質疏鬆）
+  - RANK 配體上調增加蝕骨細胞介導的破壞
+
+### 流行病學
+
+- 最常見的發炎性關節炎：盛行率 1%
+- M:F = 1:3
+- 發病年齡通常 20-40 歲
+
+### 臨床表現
+
+- 病情起伏波動（加劇與緩解交替）
+- 早晨僵硬 >1 小時，使用時改善，休息時惡化
+- 多關節炎：對稱性關節侵犯（壓痛、腫脹），小關節受影響，最常見於手腳（MCP、PIP、MTP）
+- 全身性症狀：明顯疲勞、憂鬱、肌肉疼痛、體重減輕
+- 關節外特徵
+- 功能受限及整體功能狀態下降
+- 慢性滑膜炎的併發症
+  - 機械性關節損傷徵象：活動度喪失、不穩定、變形、彈響、關節變形
+    - 天鵝頸變形（swan neck deformity）、鈕扣孔變形（boutonniére deformity）、弓弦徵（Bowstring sign）
+    - MCP 的尺側偏移和半脫位、腕關節橈側偏移
+    - 錘狀趾、槌狀趾、爪形趾
+    - 屈曲攣縮
+    - 寰椎和下椎體半脫位
+    - 頸椎不穩定
+    - 神經壓迫（長徑路徵）
+    - 插管困難/危險：半脫位惡化和脊髓損傷風險
+  - 肩膀活動度受限、旋轉肌袖自發性斷裂導致慢性痙攣
+  - 腱鞘炎 > 可能導致肌腱斷裂
+  - 腕隧道症候群
+  - 貝克囊腫（滑膜在膝蓋後方的囊狀突出）破裂；表現類似急性深靜脈血栓（DVT）
+- **不良預後因素**：發病年齡輕、RF 高滴度、ESR 升高、>20 個關節活動、關節外特徵存在
+
+### Table 14. RA 關節外特徵（按潛在病理生理分類）
+
+| 系統 | 血管炎性 | 淋巴球浸潤 |
+|------|----------|------------|
+| **皮膚** | 指甲周圍梗塞、皮膚潰瘍、觸摸性紫斑 | 類風濕結節（可能有血管炎成分） |
+| **眼部** | 表層炎、鞏膜炎 | 乾性角膜結膜炎（Keratoconjunctivitis sicca） |
+| **頭頸部** | 口乾、Hashimoto 甲狀腺炎（見內分泌學 E31） | |
+| **心臟** | 心包心肌炎、瓣膜疾病、傳導缺陷 | |
+| **肺臟** | 肺纖維化、肋膜積液、肋膜炎、肺結節 | |
+| **神經** | 週邊神經病變：感覺襪/手套型、單神經炎多重 | |
+| **血液** | 脾腫大、嗜中性球減少（Felty 症候群） | |
+| **腎臟** | 類澱粉沉着症——由異常蛋白質積聚引起 | |
+
+### 功能狀態分類
+
+- **Class I**：可執行日常活動（自我照護、職業、業餘活動）
+- **Class II**：可執行自我照護和職業活動，業餘活動受限
+- **Class III**：可執行自我照護，職業和業餘活動受限
+- **Class IV**：自我照護、職業和業餘活動能力受限
+
+### 檢查
+
+- **血液檢查**
+  - RF：80% 敏感性但非特異性；症狀開始時可能不存在；濃度與疾病活動度無關
+    - 可能與更多侵蝕、更多關節外表現及更差功能相關
+  - Anti-CCP：80% 敏感性但更具特異性（94-98%）；可能在症狀出現前已存在
+  - 疾病活動度增加與 Hb 下降（慢性疾病貧血）及血小板、ESR、CRP 上升相關
+- **影像學**
+  - 雙手/手腕、踝/腳 X 光
+  - 首個變化為關節周圍骨質疏鬆，繼以侵蝕
+  - 頸椎 X 光（發病時可能正常，需長期疾病術前評估）
+  - 超音波（配合 power Doppler）——常可在普通 X 光之前發現滑膜炎/侵蝕的變化
+  - MRI 可用於成像手部以偵測早期滑膜炎和侵蝕
+  - MRI 上，發炎滑膜在 T1 為低信號、T2 為高信號；可見骨髓水腫以及注射 gadolinium 對比劑時的信號增加
+
+### 治療
+
+- **治療目標**：緩解或最低可能的疾病活動度
+  - 早期診斷和早期介入 DMARDs 是關鍵
+  - 「治療機會之窗」= 發病前 3 個月內早期治療可能達到更好的控制/緩解
+  - 基準線評估不良預後因素（RF 陽牲、功能受限、關節外特徵）
+- **行為治療**
+  - 運動計劃：發作期間主動、溫和的 ROM 和等長運動；發作間期進行水中/有氧/阻力訓練
+  - 工作調整、必要時使用輔具
+  - 介入以降低心血管疾病、戒菸、血脂控制
+- **藥物治療**：改變疾病進展
+  - DMARDs 和生物製劑（非止痛藥或 NSAIDs）可改變 RA 的病程
+  - **DMARDs**
+    - 一旦 RA 確診應立即開始 DMARDs，目標為達到持續緩解
+    - **MTX 是黃金標準，除非有禁忌，否則為一線治療**
+    - MTX 治療前：CBC、肝酶（ALT）、Cr（Cr 清除率）、B 型和 C 型肝炎血清學、CXR
+    - 監測，如 3-6 個月反應不足 > 聯合或切換
+    - 如患者有不良預後特徵或高疾病活動度，考慮 MTX 聯合治療
+    - 療法包括：hydroxychloroquine、SSZ、leflunomide、生物製劑
+    - 禁忌：肝病、顯著酒精攝取、懷孕、哺乳
+    - 如 MTX 禁忌，可考慮 hydroxychloroquine、sulfasalazine（SSZ）和/或 leflunomide。Hydroxychloroquine 較弱，leflunomide 較強但懷孕時禁忌，且停藥後 washout 期很長
+    - **JAK 抑制劑**（包括 tofacitinib 和 upadacitinib）是口服小分子合成 DMARDs；如其他 DMARDs 失敗則考慮
+  - **生物製劑（bDMARDs）**
+    - 如對 DMARDs 反應不足應使用
+    - 應與 DMARD 治療聯合（初始聯合治療與更快反應率和更長效果持續時間相關）
+    - 一線（anti-TNF）選項：infliximab、etanercept、adalimumab、golimumab、certolizumab
+    - 非 anti-TNF 生物製劑包括：anakinra（幾乎不用於 RA）、abatacept、rituximab、tocilizumab
+    - 每 3-6 個月重新評估並監測疾病活動度（主要透過評估腫脹關節計數）
+- **藥物治療**：支持性以減少發炎和疼痛
+  - **NSAIDs**
+    - 根據療效、耐受性和共病症個人化
+    - 部分患者禁忌/需謹慎（如 PUD、缺血性心臟病、懷孕、CKD、抗凝血劑使用）
+    - 添加 acetaminophen 以協同止痛
+  - **Corticosteroids**
+    - 局部：注射至特定關節以控制症狀
+    - 全身性（口服 prednisone）或肌肉注射
+    - 低劑量（5-10 mg/d）短期有用——如 NSAIDs 無效且作為 DMARDs 生效前的橋梁
+    - 如使用 ≥7.5 mg/d > 3 個月，尤其對於有其他風險因素者，應進行基準線 DEXA 骨密度掃描並考慮骨質支持藥物治療（如 bisphosphonates）
+    - 禁忌/注意：活躍感染、TB、骨質疏鬆、HTN、胃潰�、DM
+- **手術**
+  - 有結構性關節損傷時的適應症
+  - 手術選項：滑膜切除術、關節置換、關節融合術、重建/肌腱修復
+
+### 追蹤管理與臨床預後
+
+- 最初每月臨床重新評估，如持續活動則每 3-6 個月一次，發炎抑制後每 6-12 個月一次
+- 檢查關節是否有活躍發炎——如有，考慮調整藥物、物理/職能治療
+- RA 患者應篩檢和管理心血管疾病（考量增加的風險）
+- 如評估顯示關節損傷——考慮止痛、轉介 PT/OT、手術選項
+- 預後取決於疾病活動度、關節損傷、身體功能狀態、心理健康的整體健康及共病症
+- 功能能力是確定治療效果的有用工具；已驗證多種評估工具
+- RA 患者其他嚴重疾病的盛行率增加：感染（如肺臟、皮膚、關節）、骨質疏鬆、精神健康障礙、腎功能受損、淋巴增生性疾病、心血管疾病（與疾病活動度和持續時間相關）
+- 過早死亡風險增加、預期壽命減少（大部死亡非直接由 RA 引起）
+
+> **注意**：RA 是動脈粥狀硬化和心血管疾病的獨立風險因素。RA 與所有原因的整體死亡率/發病率增加相關：心血管疾病、腫瘤（尤其淋巴瘤）、感染。
+
+---
+
+## 全身性紅斑狼瘡（Systemic Lupus Erythematosus, SLE）
+
+### 定義（見 Nephrology, NP26）
+
+- 病因不明的慢性自體免疫疾病，導致多系統發炎
+- 特徵為自體抗體產生和多樣化臨床表現
+
+### Table 15. SLE 分類標準*
+
+**門檻標準**：ANA 滴度 ≥1:80 且…
+1. 如有比 SLE 更可能的解釋，則不計入該標準
+2. 單一次出現任一標準即可
+3. 每個 domain 內僅計算最高加權標準至總分
+
+| 臨床 Domain 和標準 | 分數 |
+|--------------------|------|
+| **全身性**：發燒 | 2 |
+| **血液學**：白血球減少症 | 3 |
+| 血小板減少症 | 4 |
+| 自體免疫溶血性貧血 | 4 |
+| **神經精神**：譫妄 | 2 |
+| 精神病 | 3 |
+| 癲癇 | 5 |
+| **黏膜皮膚**：非疤痕性脫髮 | 2 |
+| 口腔潰瘍 | 2 |
+| 亞急性皮膚或圓盤狀狼瘡 | 4 |
+| 急性皮膚狼瘡 | 6 |
+| **漿膜炎**：肋膜或心包積液 | 5 |
+| 急性心包炎 | 6 |
+| **肌肉骨骼**：關節侵犯 | 6 |
+| **腎臟**：蛋白尿（0.5 g/24h） | 4 |
+| 腎切片 Class III 或 IV Lupus 腎炎 | 8 |
+| 腎切片 Class V Lupus 腎炎 | 10 |
+| **免疫學**：抗磷脂抗體 | 2 |
+| 低補體（C3 或 C4 低） | 3 |
+| 低 C3 和低 C4 | 4 |
+| SLE 特異抗體（Anti-dsDNA 或 Anti-Sm） | 6 |
+
+*分類 SLE 需要臨床標準總分 ≥10 分。*
+
+### 病因學與病理生理學
+
+- 細胞毒性自體抗體和免疫複合體形成
+- 多因素病因
+  - **遺傳**
+    - 與 HLA-B8/DR3 常見關聯；約 10% 有陽性家族史
+    - 與凋亡清除缺陷強烈相關——核粒片段被抗原呈現細胞捕獲 > 產生 ANA
+    - 涉及發炎過程和組織損傷的細胞激素：BlyS、IL-6、IL-17、IL-18、TNF-α
+  - **環境**
+    - UV 輻射、吸菸、感染、維生素 D 缺乏、矽土粉塵
+  - **雌激素**
+    - 青春期後發病率增加，停經後下降
+    - SLE 男性有較高濃度的雌激素代謝物
+    - 混合口服避孕藥和荷爾蒙替代療法與 SLE 風險增加相關
+  - **感染**
+    - 病毒（非特異性免疫反應刺激物）
+  - **藥物引發**
+    - 抗高血壓藥（hydralazine）、抗癲癇藥（phenytoin）、抗心律不整藥（procainamide）、isoniazid、生物製劑、抗生素（如 minocycline）
+    - 藥物引發 SLE 常見 anti-histone Ab
+    - 停用致病藥物後症狀消退
+
+### 流行病學
+
+- 盛行率：0.05%
+- M:F = 1:10
+- 發病年齡在生育年齡（15-45 歲）
+- 在西班牙裔和亞洲個人及非裔後代中更常見且更嚴重
+- 雙峰死亡模式
+  - 早期（2 年內）：活躍 SLE、活躍腎炎、類固醇使用相關感染
+  - 晚期：非活躍 SLE、非活躍腎炎、可能是慢性發炎的粥狀硬化
+
+### 臨床表現
+
+- 特徵為發作和緩解交替
+
+### Table 16. SLE 的徵候與症狀
+
+| 系統 | 症狀 |
+|------|------|
+| **全身性** | 疲勞、不適、體重減輕、發燒、淋巴結病變 |
+| **血液學** | 慢性疾病貧血、溶血性貧血、白血球減少、嗜中性球減少、血小板減少、全血球減少、血栓、脾腫大 |
+| **腎臟** | 血尿、蛋白尿（腎絲球腎炎）、HTN、周邊水腫、腎衰竭 |
+| **皮膚** | 光敏感、蝴蝶紅疹、圓盤狀紅疹、口腔潰瘡、脫髮、紫斑、脂肪織炎（皮下脂肪和肌肉組織發炎） |
+| **肌肉骨骼** | 多關節痛、多關節炎、肌肉疼痛、AVN、手部可復位的變形（Jaccoud's 關節炎） |
+| **眼科** | 乾性角膜結膜炎、葡萄膜炎、鞏膜炎、睫狀體炎（眼底棉絮樣滲出=視網膜神經細胞層梗塞） |
+| **心臟** | 心包炎、CAD、非細菌性心內膜炎（Libman-Sacks）、心肌炎 |
+| **血管** | Raynaud's 現象、網狀青斑（因血管收縮導致皮膚斑駁變色，特徵為蕾絲或網狀外觀）、血管炎 |
+| **呼吸** | 肋膜炎、ILD、肺高壓、PE、肺泡出血 |
+| **腸胃** | 胰臟炎、SLE 腸胃病變、肝炎、肝腫大、吞嚥困難、食道炎、腸道假性阻塞、腹膜炎、腸繫膜血管炎 |
+| **神經/精神** | 癲癇、中風、譫妄、精神病 |
+| **危及生命/器官** | 心臟：冠狀血管炎、惡性 HTN、心包填塞；血液：溶血性貧血、嗜中性球減少、血小板減少、TTP、血栓；神經：癲癇、CVA、中風；呼吸：肺高壓、肺出血、血栓 |
+
+### 檢查
+
+- ANA（98% 敏感性，但特異性差——作為篩檢試驗；ANA 滴度對追蹤疾病過程無用）
+- Anti-dsDNA 和 anti-Sm 特異（95-99%）
+- Anti-dsDNA 滴度和血清補體（C3、C4）可用於監測臨床和血清學一致的患者之治療反應（anti-dsDNA 上升、C3 和 C4 下降與疾病活動度相關）
+- APLA（抗心磷脂抗體、狼瘡抗凝血劑、抗 B2 醣蛋白 I 抗體），可能導致血栓風險增加和 aPTT 延長
+
+> **臨床考慮**：對侵犯 ≥2 個器官系統的患者應考慮 SLE。
+
+### 治療
+
+- **治療目標**
+  - 緩解、預防發作
+  - Hydroxychloroquine + glucocorticoid
+  - 早期治療並避免長期使用類固醇——如不可避免，見內分泌學 E47 骨質疏鬆管理
+  - 如需要高劑量類固醇長期控制，一旦可能則減量並添加免疫抑制劑（MTX、azathioprine、mycophenolate）
+  - 治療根據受影響器官系統和疾病嚴重程度量身定制
+  - 中度頑固性疾病可用 belimumab 治療
+  - 所有用於治療 SLE 的藥物都需要定期監測潛在毒性
+- **皮膚**
+  - 防曬、避免 UV 光和雌激素
+  - 局部類固醇、hydroxychloroquine
+- **肌肉骨骼**
+  - NSAIDs + 胃腸保護劑（對關節炎也有益，也可用於肋膜炎和心包炎）
+  - Hydroxychloroquine 改善長期控制並預防發作
+  - 給予 bisphosphonates、鈣、維生素 D 以對抗骨質疏鬆
+- **其他考量**
+  - 戒菸
+  - 免疫接种（流感）；通常不建議使用活性疫苗
+  - 對有 APLA 的女性，避免使用含雌激素避孕藥（因血栓風險增加）
+- **器官威脅性疾病**
+  - 高劑量口服 prednisone 或嚴重疾病時 methylprednisolone IV
+  - 類固醇替代劑：azathioprine、MTX、mycophenolate（mofetil 或 sodium）
+  - 嚴重器官侵犯（如腦炎或狼瘡腎炎）使用 cyclophosphamide IV
+  - 活性狼瘡腎炎的誘導治療可用低劑量 cyclophosphamide IV 或 mycophenolate mofetil
+  - 頑固性疾病可用 rituximab 或 anifrolumab（一種阻断 I 型干擾素作用的單株抗體）
+
+> **參見 Landmark Rheumatology Trials**：TULIP-2 試驗——研究 anifrolumab 治療 SLE 的療效。
+
+---
+
+## 抗磷脂症候群（Antiphospholipid Syndrome, APS）
+
+### 定義
+
+- 多系統血管病變，表現為復發性血栓事件、自發性流產和血小板減少
+- 循環抗磷脂自體抗體干擾凝血
+- **原發性 APS**：無其他疾病時發生
+- **繼發性 APS**：發生於結締組織疾病背景下（包括 SLE）、惡性腫瘤、藥物（hydralazine、procainamide、phenytoin、干擾素、quinidine）和感染（HIV、TB、C 型肝炎、傳染性單核球增多症）
+- **災難性 APS**：1 週內在 ≥3 個器官系統發生小血管血栓性閉塞，APLA 陽性（高死亡率）
+
+### Table 17. APS 分類標準*
+
+| 標準 | 描述 |
+|------|------|
+| **臨床** | |
+| 血管血栓 | 任何組織或器官發生一次或多次臨床血栓事件（动脉、靜脈或小血管）需由影像或組織病理學確認 |
+| 懷孕併發症 | ≥1 次形態正常胎兒死亡（於 ≥10 週由 U/S 或胎兒檢查確認）；或 ≥1 次形態正常新生兒早產（<34 週）因子癇前期、子癇或胎盤功能不全；或 ≥3 次連續自發性流產（<10 週），排除母體解剖和荷爾蒙異常或父母染色體原因 |
+| **實驗室** | 實驗室需在 ≥12 週後再次陽性 |
+| 狼瘡抗凝血劑 | 存在於血漿中，根據國際血栓和止血學會指南檢測 |
+| 抗心磷脂抗體 IgG 和/或 IgM | 中-高滴度存在（>40 GPL 或 MPL，或 >99 百分位），由 ELISA 測量 |
+| 抗 B2 醣蛋白抗體 IgG 和/或 IgM | 高滴度存在（>99 百分位），由 ELISA 測量 |
+
+*必須存在至少一個臨床和一個實驗室標準。*
+
+*Thromb Haemost 2006;4:295-306*
+
+### 臨床表現
+
+- 見臨床標準（Table 17）
+- **血液**：血小板減少、溶血性貧血、嗜中性球減少
+- **皮膚**：網狀青斑、Raynaud's 現象、紫斑、腿部潰瘡、壞疽
+
+### APLA 表現
+
+- 血栓栓塞事件
+- 自發性流產
+- 血小板減少
+
+> **相關**：網狀青斑、偏頭痛
+> 动脉和靜脈血栓通常互斥。
+
+### 治療
+
+- **血栓**
+  - 終身抗凝血治療（warfarin）
+  - 第一次靜脈事件目標 INR 2.0-3.0，復發事件 >3.0；动脉事件目標 INR 2-3 或 3-4（復發事件）；或可考慮 INR 2.0-3.0 + ASA
+- **產科 APS**
+  - 懷孕期間給予 heparin/LMWH + ASA
+  - 產後應考慮繼續預防性劑量 heparin 6 週以降低母體血栓風險
+- **災難性 APS**
+  - 高劑量類固醇、抗凝血、cyclophosphamide、血漿置換
+  - 任何觸發因素（如感染、惡性腫瘤）應相應治療
+  - 頑固病例：B 細胞去除（如 rituximab）或補體抑制（如 eculizumab）可考慮
+
+---
+
+## 硬皮症（Systemic Sclerosis, Scleroderma）
+
+### 定義
+
+- 非發炎性自體免疫疾病，特徵為廣泛性小血管血管病變、自體抗體產生，以及導致纖維化的纖維母細胞功能障礙
+
+### 疾病分類
+
+```
+硬皮症（Systemic sclerosis）
+├── 侷限性（Limited）/ 全身性（Diffuse）
+│   ├── 侷限性全身性硬化症（CREST：腎、肺纖維化）
+│   └── 瀰漫性全身性硬化症（早期內臟侵犯）
+├── 局部性（Morphea）：皮膚橢圓形硬斑
+└── 線狀（Linear）：沿線狀分布的增厚皮膚
+```
+
+### 病因學與病理生理學
+
+- 特發性血管病變（非血管炎），導致組織萎縮和纖維化
+- 特徵為數個關鍵致病特徵：小血管血管病變導致組織缺氧、自體抗體產生，以及纖維母細胞功能障礙導致細胞外基質沉積增加
+- 類似惡性 HTN
+- 肺病是發病率和死亡率的最常見原因
+
+### Table 18. ACR/EULAR 硬皮症分類標準*
+
+| 項目 | 子項目 | 分數 |
+|------|--------|------|
+| 1. 兩手手指皮膚增厚延伸近端至 MCP | | 9 |
+| 2. 手指皮膚增厚 | Putty fingers | 2 |
+| | 手指硬化（Sclerodactyly） | |
+| 3. 指尖病灶 | 指尖潰瘡 | 4 |
+| | 指尖凹窩疤痕 | |
+| 4. 毛細血管擴張 | | 2 |
+| 5. 指甲皺褶異常 | | 3 |
+| 6. 肺動脈高壓或 ILD（最高 2 分） | 肺動脈高壓 | 2 |
+| | ILD | |
+| 7. Raynaud's 現象 | | 2 |
+| 8. 硬皮症相關抗體 | Anti-centromere | 3 |
+| | Anti-topoisomerase I | |
+| | Anti-RNA polymerase III | |
+
+*總分 ≥9 可分類為明確硬皮症（敏感性 0.95，特異性 0.93）。*
+
+### 流行病學
+
+- M:F = 1:3-4，�峰在 50 歲
+- 與 HLA-DR1 和環境暴露相關（矽土、環氧樹酯、毒油、芳香烴、聚氯乙烯）
+- 侷限性全身性硬化症預後較好（10 年存活率 >70%），瀰漫性全身性硬化症較差（10 年存活率 40-60%）
+
+### CREST 症候群
+
+- **C**alcinosis（鈣化）
+- **R**aynaud's phenomenon（雷諾現象）
+- **E**sophageal dysmotility（食道蠕動不良）
+- **S**clerodactyly（指端硬化）
+- **T**elangiectasia（毛細血管擴張）
+
+### Table 19. 硬皮症的臨床表現
+
+| 系統 | 特徵 |
+|------|------|
+| **皮膚** | 無痛性非凹陷性水腫 > 皮膚緊繃；潰瘡、鈣化、指（趾）甲周圍紅斑、黑白素沉著異常、搔癢、毛細血管擴張；特徵性面容：面具樣面容、嘴唇變薄、鷹鉤鼻、放射狀口周皺褶 |
+| **血管** | Raynaud's 現象 + 指尖凹陷、壞疽；血栓 |
+| **胃腸道（~90%）** | 遠端食道蠕動減少 > 吞嚥困難；下食道括約肌功能喪失 > GERD、潰瘡、狹窄；小腸蠕動減少 > 細菌過度生長、腹瀉、腹脹、痙攣、吸收不良、體重減輕；大腸蠕動減少 + 寬口憩室為鋇餐檢查的特異性 X 光發現 |
+| **腎臟** | 輕度蛋白尿、Cr 上升、HTN；10-15% 發生「硬皮症腎危機」可導致惡性动脉 HTN、寡尿和微血管病性溶血性貧血 |
+| **肺部（~80%）** | 間質纖維化、肺高壓、肋膜炎、肋膜積液 |
+| **心臟** | 左心室功能障礙、心包炎、心包積液、心律不整 |
+| **肌肉骨骼** | 多關節痛；「遠端指節吸收」（X 光發現）；近端無力 2° 為不使用、萎縮、低度肌病、肌腱摩擦音 |
+| **內分泌** | 甲狀腺功能減退 |
+
+### 檢查
+
+- **血液**：CBC、Cr、ANA；anti-topoisomerase I/anti-Scl-70 抗體：對瀰漫性全身性硬化症特異但不敏感；anti-centromere 抗體：支持 CREST（侷限性全身性硬化症）；anti-RNA polymerase III 抗體：與嚴重皮膚侵犯和腎危機風險增加相關
+- **肺功能測試**：評估和監測 ILD
+- **超聲心動圖**：篩檢肺高壓
+- **影像**：基準線 CXR 排除 ILD；必要時進行肺部高解析 CT（如瀰漫性皮膚 SSc）
+
+### 治療
+
+- **皮膚**：良好皮膚衛生；低劑量 prednisone（>20 mg 可能使易感者引發腎危機）、MTX（證據有限）
+- **血管**：Raynaud's：保持手和核心體溫暖、戒菸；血管擴張劑（CCBs、局部 nitroglycerine 乳膏、全身性 PGE2 抑制劑、PDE5 抑制劑）、fluoxetine
+- **胃腸道**：GERD：PPIs 一線，繼以 H2 受體拮抗劑；小腸細菌過度生長：廣效抗生素（四環素、metronidazole）；蠕動障礙：促動力藥
+- **腎臟**：高血壓危機使用 ACE 抑制劑；見腎臟學 NP36 硬皮症腎危機
+- **肺臟**
+  - 間質性肺病：免疫抑制——mycophenolate mofetil（毒性較低）或 cyclophosphamide；其他選項：tocilizumab、rituximab；抗纖維化治療：nintedanib
+  - 肺高壓：血管擴張劑（如 bosentan、epoprostenol、PDE5 抑制劑）
+  - 快速進展性疾病有器官衰竭風險：考慮造血幹細胞移植
+- **心臟**：心包炎使用全身性類固醇
+- **肌肉骨骼**：關節炎使用 NSAIDs；肌炎使用全身性類固醇
+- 如因嚴重胃腸道侵犯懷疑或確認吸收不良，應篩檢營養缺乏
+
+> **硬皮症是最常見的次發性 Raynaud's 現象原因。**
+
+---
+
+## 特發性發炎性肌病變（Idiopathic Inflammatory Myopathies）
+
+### 定義
+
+- 自體免疫疾病，特徵為近端肌肉無力 + 疼痛
+- 肌肉因非化膿性淋巴球發炎過程而受損
+- 與惡性腫瘤相關
+- 與其他 CTD、Raynaud's 現象、自體免疫疾病相關
+
+### 分類
+
+- 包括 DMM、PM、IBM 和其他
+- 成人和青少年形式
+- 新確定的亞組：
+  - 免疫媒介壞死性肌病變
+  - 抗合成酶症候群
+  - 抗 MDA5 DM
+  - 癌症相關肌炎
+  - 重疊肌炎
+
+### 包含體肌炎（Inclusion Body Myositis, IBM）
+
+- 年齡 >50 歲，M>F，緩慢進行性，切片可見細胞內空泡
+- 患者對治療無反應
+- 遠端無力為主（非近端）
+- 肌肉切片有空泡體陽性
+
+### 皮肌炎（Dermatomyositis, DM）/ 多發性肌炎（Polymyositis, PM）
+
+#### 定義
+
+- PM 和 DM 是特發性發炎性肌病變，特徵為發炎和近端骨骼肌無力
+- DM 常有特徵性皮膚表現
+
+#### 病因學與病理生理學
+
+- PM 是 T 細胞介導的過程，肌細胞是主要目標，特徵為局灶性肌膜周圍浸潤（CD8+ T 細胞）包圍肌纖維（見於成人）
+- DM 是補體介導的過程，血管周圍發炎浸潤（CD4+ T 細胞 > CD8+ T 細胞）導致肌纖維束周圍萎縮
+
+#### 臨床表現
+
+- 進行性對稱近端肌肉無力（肩膀和髖部）在數週至數月內發展；難以將頭部抬離枕頭、從椅子上站起、爬樓梯
+- **皮膚**
+  - DM 有特徵性皮膚表現（F>M，兒童和成人）
+    - **Gottron's papules**：粉紫色平面丘疹，位於 MCP 和 IP 背面
+    - **Gottron's sign**：位於肘部、膝蓋或內踝伸肌表面的紅斑、光滑或鱗屑斑塊
+    - **Heliotrope rash**：眼瞼上的紫紅色紅疹；通常伴隨水腫
+    - **Shawl sign**：頸部、上胸部和肩膀區域的慢性的、紅斑疹
+    - **Mechanic's hands**：手指掌面和側面乾燥、裂開的病灶，尤其在 pulp space，也見於抗合成酶症候群亞型
+    - 指（趾）甲周圍紅斑
+    - 鈣化
+- **心臟**：心律不整、充血性心臟衰竭、傳導缺陷、心室肥大、心包炎
+- **胃腸道**：口咽和食道遠端吞嚥困難、食道逆流
+- **肺部**：呼吸肌無力、ILD、吸入性肺炎
+
+#### 檢查
+
+- 一般實驗室：CK、CBC、ESR 和/或 CRP、TSH
+- 血清學：ANA、anti-Jo-1（DM）、anti-Mi-2、anti-SRP（通常商業實驗室無此檢測）
+- 影像：MRI 可用於定位切片部位
+- EMG：肌肉發炎和損傷的特徵發現
+- 肌肉切片有助於診斷，但經典型皮膚發現和肌肉無力的患者不需切片
+
+> **注意**：Gottron's papules 和 Gottron's sign 是 DM 的病理特徵（見於 70% 患者）。
+
+#### 治療
+
+- **非藥物**：PT 和 OT，語言治療用於食道功能障礙
+- **藥物**
+  - 高劑量 glucocorticoid（如 prednisone 1 mg/kg/d），通常不超過 80 mg/d，約 6 週後患者改善時慢慢減量
+  - 添加免疫抑制劑（azathioprine、MTX）
+  - 如嚴重或頑固性肌肉無力，尤其伴隨吞嚥困難和/或呼吸困難，使用 IVIG
+  - 嚴重或頑固性肌肉疾病或 ILD 考慮 rituximab
+  - DM 皮疹使用 hydroxychloroquine
+- **惡性腫瘤監控**
+  - 詳細病史和理學（乳房、骨盆、直腸檢查）
+  - CXR、腹部和骨盆超聲、糞便潛血、Pap 抹片、乳房攝影 + CT（胸部、腹部、骨盆）
+
+---
+
+## 休格蘭氏症候群（Sjögren's Syndrome）
+
+### 定義
+
+- 自體免疫疾病，特徵為眼睛乾燥（乾性角膜結膜炎/xerophthalmia）和口腔乾燥（xerostomia），由淚腺和唾液腺的淋巴球浸潤引起
+- 存在於一個光譜中，可能發展為全身性障礙（20%）——外分泌腺活動減少和腺外特徵
+- 原發和繼發形式（與 RA、SLE、DM、HIV 相關）
+- 盛行率 0.5%，F>>M 為 10:1，40-60 歲
+- 非霍奇金淋巴瘤風險增加（終生盛行率 6-7%）
+
+### Table 20. ACR/EULAR 原發性休格蘭氏症候群分類標準*
+
+| 標準 | 分數 | 備註 |
+|------|------|------|
+| 唇唾液腺切片局灶性淋巴球唾液腺炎，focus score = 1 focus/4 mm² | 3 | Focus score 是組織病理學分級系統；與休格蘭氏 Phenotypic 和血清學成分強烈相關 |
+| Anti-SSA-/Ro-陽性 | 3 | |
+| 眼染色分數 >5 或 van Bijsterveld 分數 ≥4（至少一眼） | 2 | 眼染色分數基於螢光染料檢查結膜和角膜以確定臨床變化 |
+| Schirmer's 試驗 ≤5 mm/5 分鐘（至少一眼） | 1 | |
+| 未刺激全唾液流率 <0.1 mL/分鐘 | 1 | |
+
+*至少 1 個納入標準，無排除標準，分數 ≥4。*
+
+### 臨床表現
+
+- **「乾燥複合體」**：眼睛乾燥（乾性角膜結膜炎/xerophthalmia）、口腔乾燥（xerostomia），併發葡萄球菌眼瞼炎
+- 齲齒、口腔念珠菌病、放射性唇炎（口腔唇角發炎和裂開）
+- **腺外表現**
+  - 疲勞、低燒
+  - 自體免疫甲狀腺功能障礙
+  - 關節痛、關節炎
+  - 亞臨床瀰漫性 ILD、氣管乾燥導致慢性乾咳
+  - 腎臟疾病、腎絲球腎炎
+  - 可觸摸紫斑、血管炎
+  - 週邊神經病變
+  - 淋巴瘤風險大幅增加
+
+### 經典型三聯徵（辨識 93% 的休格蘭氏患者）
+
+1. 眼睛乾燥
+2. 口腔乾燥（xerostomia）+ 吞嚥困難
+3. 關節炎（小關節、非對稱、非侵蝕性）——但可能與類風濕性關節炎相關，在此情況下關節炎為侵蝕性和對稱性
+
+### 治療
+
+- **眼睛**：人工淚液/淚膜（嚴重時）、保濕護目鏡、加濕器，或乾燥眼睛的手術性淚管封閉
+- **口腔**：良好牙齒衛生、補水；避免酒精和菸草；刺激唾液流量的副交感神經藥物（如 pilocarpine）；口腔念珠菌病使用局部 nystatin 或 clotrimazole 4-6 週
+
+---
+
+## 混合性結締組織疾病（Mixed Connective Tissue Disease, MCTD）
+
+### 定義
+
+- 具有 3 種不同 CTD 特徵的症候群（如 SLE、硬皮症、肌炎）
+- 常見症狀：Raynaud's 現象、手指腫脹
+
+### 檢查
+
+- 血液：anti-RNP（見 Table 12, RH8）
+
+### 治療
+
+- 治療通常根據症狀嚴重程度和器官系統侵犯引導
+
+### 預後
+
+- 預後多變：部分緩解、部分發展為明確 CTD（如 SLE、SSc）、部分疾病過程嚴重
+- 肺動脈高壓是主要死亡原因
+
+---
+
+## 重疊症候群（Overlap Syndrome）
+
+### 定義
+
+- 具有 ≥2 種不同 CTD 足夠診斷特徵的症候群
+
+### 定義
+
+- 血管發炎及後續壞死導致任何器官系統的組織缺血或梗塞
+- **診斷**
+  - 臨床懷疑：對不明原因多器官缺血或全身性疾病而無惡性腫瘤或感染證據時應懷疑；全身性症狀如發燒、體重減輕、食慾不振、疲勞
+  - 實驗室非特異：貧血、WBC 和 CRP 上升、異常 U/A
+  - 檢查：如有可及組織則切片；如組織不可及則血管攝影
+- 治療通常涉及皮質類固醇和/或免疫抑制劑
+
+---
+
+## 血管炎（Vasculitis）
+
+### Table 21. 血管炎分類與特徵
+
+| 分類 | 特徵 |
+|------|------|
+| **小血管** | |
+| **非 ANCA 相關** | 免疫複合體媒介（最常見機制）|
+| | Anti-GBM（Goodpasture's disease）：自體抗體攻擊 V 型膠原蛋白，影響腎絲球基底膜和肺泡——導致腎絲球腎炎和/或肺部表現 |
+| | 抗 C1q 血管炎/低補體蕁麻疹血管炎症候群：特異性自體免疫疾病，至少 6 個月的蕁麻疹伴隨低補體血症與各種全身性發現 |
+| | 主要為皮膚血管炎（過去稱過敏性白血病破碎性血管炎） |
+| | IgA 血管炎（原 HSP）：IgA 沉積導致全身性血管炎（皮膚、腸胃、腎臟），通常自限；兒童最常見 |
+| | 冷球蛋白血症血管炎：由循環免疫複合冷球蛋白形成導致的全身性血管炎；60-80% 由 C 型肝炎、5-10% 由 CTD（SLE、RA、SS）、5-10% 由淋巴增生性疾病，其餘為特發性或「原發性」 |
+| **ANCA 相關（即 PR3-ANCA）** | |
+| | GPA（肉芽腫性多血管炎，舊稱 Wegener's）：血管肉芽腫性發炎，侵犯呼吸道和腎臟，導致肺出血和腎絲球腎炎；初始可能有上呼吸道感染（鼻竇炎症）症狀；中老年常見 |
+| | EGPA（嗜酸性肉芽腫性多血管炎，舊稱 Churg-Strauss 症候群，50% ANCA 陽性）：嗜酸性粒細胞浸潤，侵犯血管伴隨高嗜酸性粒細胞和嗜酸性粒細胞組織浸潤，常有肺侵犯（氣喘、過敏性鼻炎）、相關 MPO-ANCA（40-50%）。其他表現包括週邊神經病變（70%）、GI 侵犯、心肌炎，罕見冠狀脈管炎；平均 40 歲 |
+| | 顯微鏡下多血管炎（MPA）：少免疫壞死性血管炎，侵犯腎臟（壞死性腎絲球腎炎）、肺（毛細血管炎和肺泡出血）、皮膚；老年人最常見，70% ANCA 陽性（通常 MPO） |
+| **中等血管** | |
+| | PAN（結節性多動脈炎）：節段性、非肉芽腫性壞死性發炎；大多數病例病因不明，任何年齡（平均 40-50 歲），M>F |
+| | 川崎病（見小兒科 P99）：病因不明，侵犯中等大小动脉的血管炎和黏膜皮膚淋巴結症候群 |
+| **大血管** | |
+| | GCA/顳动脉炎：主要侵犯主動脈及其分支；年齡 >50 歲，F>M |
+| | 高岡氏血管炎（Takayasu's arteritis）：主要侵犯主動脈及其分支；年輕成人（10-40 歲），F>M，亞洲人較多，亞洲人常見，有主動脈瘤風險 |
+| **其他血管炎** | |
+| | Buerger's disease（血栓閉塞性血管炎）：手腳遠端小中等大小动脉和靜脈的發炎和血栓形成，可能導致間歇性跛行和壞疽；與吸菸強烈相關；年輕亞洲男性，M>F |
+| | Behcet's disease：多系統障礙，表現為眼部侵犯（葡萄膜炎）、復發性口腔和生殖器潰瘡、靜脈血栓、皮膚和關節侵犯；地中海和亞洲人口常見，平均 30 歲，M>F |
+| | 模擬血管炎（假性血管炎）：膽固醇栓塞、心房黏液瘤、亞急性細菌性心內膜炎（SBE）、APS |
+
+---
+
+## 小血管非 ANCA 相關血管炎
+
+### 皮膚血管炎
+
+- **分類**：
+  - 藥物引發血管炎
+  - 與其他潛在原發疾病相關的血管炎（CTD、IBD、感染、惡性腫瘤——血液 > 實體腫瘤）
+  - 特發性
+
+### 病因學與病理生理學
+
+- 皮膚血管炎可因：
+  - 藥物暴露（allopurinol、金製劑、磺胺類、青黴素、phenytoin）
+  - 病毒或細菌感染
+  - 特發性原因
+- 小血管受侵犯（毛細血管後靜脈最常見）
+- 通常導致白血球破碎性血管炎：中性粒細胞碎片圍繞血管
+
+### 臨床表現
+
+- 可觸摸紫斑（通常在下肢）+ 皰疹和潰瘡、蕁麻疹、斑疹、丘疹、囊皰、皮下結節
+- 可能發生腎臟或關節侵犯，兒童尤甚
+
+### 檢查
+
+- 皮膚切片確認血管侵犯（動靜脈）
+
+### 治療
+
+- 停用可能的致病藥物；治療潛在原發疾病
+- NSAIDs、低劑量皮質類固醇
+- 頑固病例使用免疫抑制劑
+- 通常自我限制，但 % 案例可能復發
+
+---
+
+## 小血管 ANCA 相關血管炎
+
+### 肉芽腫性多血管炎（Granulomatosis with Polyangiitis, GPA）
+
+#### 定義
+
+- 侵犯上下呼吸道（鼻炎、鼻竇炎）和腎臟（腎絲球腎炎、腎衰竭）的肉芽腫性血管炎
+- 與 c-ANCA（免疫螢光法）和 PR3-ANCA（ELISA）高度相關；但 ANCA 濃度變化不能預測緩解或復發
+- 發生率：每 100,000 人 2-3 例；北方緯度更常見
+
+#### Table 22. GPA 分類標準（ACR 2022）
+
+| 臨床標準 | 分數 |
+|----------|------|
+| 鼻部侵犯：痂皮、潰瘡、鼻塞、充血、阻塞或鼻中隔缺陷/穿孔 | 3 |
+| 軟骨侵犯：軟骨發炎、聲音嘶啞或喘鳴、支氣管侵犯或鞍鼻畸形 | 2 |
+| 聽力喪失：傳導性或感覺神經性 | 4 |
+| 實驗室、影像和切片標準 | |
+| c-ANCA 或 anti-PR3 陽性 | 6 |
+| 肺部 X 光結節、團塊或空洞 | 4 |
+| 切片見肉芽腫、血管外肉芽腫性發炎或巨細胞 | 2 |
+| 影像見鼻竇、篩竇或乳突炎 | 4 |
+| 切片見少免疫腎絲球腎炎 | 4 |
+| p-ANCA 或 anti-MPO 陽性 | 4 |
+| 血液嗜酸性粒細胞計數 ≥1×10⁹/L | 4 |
+
+*確診分數 ≥5*
+
+#### 病因學與病理生理學
+
+- 發病依賴遺傳易感性和環境觸發（如感染）
+- 失調的免疫反應導致 B 和 T 細胞耐受喪失
+- 由中性粒細胞和單核細胞媒介急性血管損傷
+
+#### 臨床表現
+
+- **全身性**：不適、發燒、無力、體重減輕
+- **頭眼耳鼻喉**：鼻竇炎或鼻炎、鼻殼和血性鼻分泌物、鼻中隔穿孔、鞍鼻畸形；由於侵犯眼外肌的發炎/血管炎或上呼吸道團塊直接擴展的肉芽腫性球後佔位性病變導致眼球突出；侵犯第八對腦神經導致聽力喪失
+- **肺部**：咳嗽、咳血、氣管和支氣管狹窄
+- **腎臟**：血尿、蛋白尿、Cr 上升、腎絲球腎炎
+- **其他**：關節、皮膚、眼——虹彩炎、血管炎性神經病變
+
+#### 檢查
+
+- 血液：貧血（正常細胞性）、WBC 上升、Cr 上升、CRP 上升、血小板升高、ANCA（PR3 > MPO）
+- 尿液分析：蛋白尿、血尿、RBC 圓柱
+- CXR/CT：肺炎、肺結節、浸潤、空洞性病變
+- 切片確診：皮膚、腎臟（節段性壞死少免疫腎絲球腎炎）、肺（血管炎、壞死）
+
+#### 治療
+
+- **嚴重、危及生命或器官的疾病**
+  - 誘導治療：IV glucocorticoids + IV 或口服 cyclophosphamide 或 rituximab
+    - Glucocorticoid：methylprednisolone 0.5-1.0 g/d IV ×1-3 天，繼以 prednisone 1 mg/kg/d PO ×2-4 週，然後慢慢減量
+    - Cyclophosphamide：2 mg/kg/d（最大 200 mg/d）PO 最多 3-6 個月，或 15 mg/kg IV（最大 1200 mg）每 2 週 3 次，然後每 3 週 3-6 次（老年人和腎衰竭調整劑量）
+    - Rituximab：375 mg/m² ×4 每週輸注，或 1 g IV ×2 劑，14 天間隔
+  - 維持治療：達到緩解後開始，考慮類固醇替代劑如 rituximab（一線）用於維持，azathioprine、MTX、mycophenolate 是合理的替代
+  - Avacopan 可考慮幫助類固醇減量速度
+  - 緊急血漿置換不推薦作為大多數嚴重 GPA 或 MPA 成人患者初始誘導治療的一部分
+- **非器官威脅性疾病**
+  - Prednisone 0.5-1 mg/kg/d PO + MTX 15-25 mg PO/SC 每週或 azathioprine 2 mg/kg/d
+- **篩檢和預防**
+  - 所有患者應進行皮質類固醇誘發骨質疏鬆、PUD 預防和 Pneumocystis jirovecii 預防的篩檢和預防（trimethoprim/sulfamethoxazole 160/800 mg PO 每週 3 次）
+
+> **參見 Landmark Rheumatology Trials**：RAVE 試驗——研究 rituximab 用於 ANCA 相關血管炎誘導和維持緩解的療效。MAINRITSAN3 試驗——研究 rituximab 延長維持治療在 ANCA 相關血管炎患者中的療效。
+
+---
+
+## 中等血管血管炎
+
+### 結節性多動脈炎（Polyarteritis Nodosa, PAN）
+
+#### 定義
+
+- 侵犯內臟动脉及其分支的中等大小血管之全身性、壞死性血管炎
+- ANCA 陰性，典型地不侵犯肺
+- 5-10% 與 B 型肝炎陽性相關
+- 發生率：每 100,000 人 0.7 例；影響 40-60 歲個體
+
+#### Table 23. PAN 分類標準（ACR 1980）
+
+| 標準 | 描述 |
+|------|------|
+| 1. 體重下降 >4 kg | 非因節食或其他因素 |
+| 2. 肌痛、無力或壓痛 | 瀰漫性肌痛或肌肉無力 |
+| 3. 網狀青斑 | 皮膚網狀斑駁圖案 |
+| 4. 神經病變 | 單神經炎、單神經炎多重或polyneuropathy |
+| 5. 睪丸疼痛或壓痛 | 非因感染、外傷或其他原因 |
+| 6. DBP >90 mmHg | 發展為 BP >90 mmHg |
+| 7. 腎功能受損 | BUN >14.3 mmol/L（40 mg/dl），Cr >130 μmol/L（1.5 mg/dl）|
+| 8. B 型肝炎陽性 | 表面抗原或抗體存在 |
+| 9. 血管攝影異常 | 常見动脉瘤 |
+| 10. 动脉切片 | 血管壁存在嗜中性粒細胞和/或單核球 |
+
+*如存在 ≥3/10 標準則確診。*
+
+#### 病因學與病理生理學
+
+- 小和中等大小动脉的局灶性全壁壞死性血管炎
+- 病變部位可能發生血栓、動脉瘤或擴張
+- 康復後的病變顯示纖維組織和內皮細胞增殖，可能導致管腔閉塞
+
+#### 臨床表現
+
+- **全身性**：疲勞、體重減輕、無力、發燒、關節痛
+- **皮膚**：網狀青斑、結節、紫斑、疹子
+- **腎臟**：腎功能不全導致 HTN
+- **神經**：運動和感覺神經的單神經炎多重
+- **腹部**：腹痛、腸繫膜血管炎
+
+#### 檢查
+
+- 血液：CBC、CRP、Cr、BUN、尿液分析、肝酶、p-ANCA、B 和 C 型肝炎血清學
+- 影像：CT 或 MRI 血管攝影顯示血管「珠串」外觀
+- 切片：受影響器官（如皮膚、神經）；不建議對高血管化組織（如肝臟）切片，因动脉瘤破裂風險
+
+#### 治療
+
+- 根據五因素評分（FSS）指導——PAN 和 EGPA 患者的生存預後評分
+  - FFS 包括：(1) 血管炎導致的心肌病變 (2) 血管炎導致的中樞神經系統侵犯 (3) 血管炎導致的嚴重胃腸道侵犯 (4) 血清 Cr >140 μmol/L (5) 蛋白尿 >1 g/天
+- **無重大器官侵犯的 PAN（FSS = 0）**
+  - Glucocorticoids + azathioprine
+- **有重大器官侵犯的 PAN（中枢神經、心臟、胃腸道、腎臟；FFS ≥1）**
+  - 誘導治療：高劑量 glucocorticoids + cyclophosphamide 3-6 個月，繼以低劑量 prednisone 和 azathioprine、MTX 或 leflunomide 維持治療
+  - 治療至少 18 個月
+- **B 型肝炎病毒相關血管炎**
+  - Prednisone 1 mg/kg/d PO ×7 天（然後 14 天內減量停用）+ methylprednisolone 15 mg/kg/d IV ×1-3 天
+  - 皮質類固醇治療後，使用血漿置換 + 抗病毒治療
+
+---
+
+## 大血管血管炎
+
+### 巨細胞动脉炎/顳动脉炎（Giant Cell Arteritis, GCA）
+
+#### Table 24. GCA 分類標準（ACR 2022）
+
+| 絕對要求 | |
+|----------|
+| 發病年齡 ≥50 歲 |
+
+| 額外臨床標準 | 分數 |
+|-------------|------|
+| 早晨肩/頸僵硬 | 2 |
+| 突發視力喪失 | 3 |
+| 下頜或舌頭跛行 | 2 |
+| 新發暫時性頭痛 | 2 |
+| 头皮壓痛 | 2 |
+| 顳动脉理學檢查異常 | 2 |
+| 實驗室、影像和切片標準 | |
+| 最大 ESR 50 mm/h 或最大 CRP =10 mg/L | 3 |
+| 顳动脉切片陽性或超聲 halo sign | 5 |
+| 雙側腋窩侵犯 | 2 |
+| 整個主動脈 FDG-PET 活動 | 2 |
+
+*將上述 10 項分數相加。總分 ≥6 分可分類為 GCA。敏感性 87%，特異性 95%。*
+
+#### 流行病學
+
+- 北美最常見的血管炎
+- 患者 >50 歲；高峰 70-80 歲
+- 南北梯度（北歐和美國占優勢）
+- 侵犯顱外动脉
+
+#### 臨床表現
+
+- 新發暫時性頭痛 + 头皮壓痛（覆蓋顳动脉）
+- 因眼动脉或睫後动脉（PCA 更常見）狹窄導致突發、無痛性視力喪失和/或複視；可影響雙眼
+- 舌頭和下頜跛行（長時間咀嚼時咀嚼肌疼痛）
+- PMR（近端肩/骨盆帶疼痛和僵硬、全身性症狀、ESR 升高）是最常見的顱外症狀
+- 主動脈弓症候群（侵犯鎖骨下和主動脈分支導致無脈疾病）、主動脈瘤和破裂是晚期併發症
+- 全身性症狀（如不明原因發燒，患者 >65 歲）
+
+#### 檢查
+
+- 診斷基於臨床懷疑、ESR 或 CRP 升高，以及影像（顳和腋动脉彩色都卜勒超聲 + halo sign、顳血管 MRI、顯示整個主動脈發炎的 PET 掃描）或陽性顳动脉切片
+
+#### 治療
+
+- **blindness 和其他血管併發症是高血壓緊急情況**
+- **如懷疑 GCA，立即開始高劑量 prednisone 1 mg/kg PO 分次服用 2-4 週，然後症狀緩解時每 1-2 週減量 10 mg**；治療和預防高度有效
+- 如就診時有視力喪失，methylprednisolone 1000 mg/d IV ×3 天，繼以高劑量
+- 如有椎动脉或頸动脉關鍵侵犯，考慮低劑量 ASA
+- Tocilizumab（IL-6 受體單株抗體）也已與 glucocorticoids 聯合使用
+- 每年 CXR + 腹部超聲作為篩檢（主動脈瘤和主動脈夾層風險增加）
+
+> **醫療緊急情況**：如未治療，GCA 可導致 20-25% 患者永久失明。根據臨床懷疑治療。
+
+---
+
+## 血清陰性脊椎關節病變（Seronegative Spondyloarthropathies）
+
+### Table 25. 脊椎關節病變比較
+
+| 特徵 | **AS** | **PsA** | **ReA** | **EA** |
+|------|--------|---------|---------|--------|
+| M:F | 3:4 | 1:1 | 8:1 | - |
+| 發病年齡 | 20 歲 | 35-45 歲 | 20 歲 | - |
+| 周邊關節炎 | 常見 | 96% | 90% | 常見 |
+| 分布 | 軸向、大關節 | - | - | - |
+| 骶髂關節炎 | 100% | 40% | 80% | 20% |
+| 指/趾炎 | 不常見 | 常見 | 偶爾 | 不常見 |
+| 附着點炎 | 常見 | 常見 | 常見 | 不常見 |
+| 皮膚病灶 | 罕見 | 100% | 70% | 偶爾 |
+| 葡萄膜炎 | 常見 | 偶爾 | 20% | 罕見 |
+| 尿道炎 | 罕見 | 不常見 | 常見 | 罕見 |
+| HLA-B27 | 90-95% | 40% | 80% | 30% |
+
+---
+
+## 僵直性脊椎炎（Ankylosing Spondylitis, AS）
+
+### 定義
+
+- 侵犯骶髂關節和脊椎的慢性發炎性關節炎
+- 附着點炎是主要特徵（如阿基里斯腱炎、足底筋膜炎的跟骨附著處）
+- 原型脊椎關節病變
+
+### Table 26. ASAS 軸向脊椎關節炎分類標準*
+
+| 骶髂關節炎影像 | 或 | HLA-B27 陽性 + 臨床標準 |
+|----------------|-----|-------------------------|
+| MRI 顯示活動性（急性）發炎，高度暗示與 AS 相關的骶髂關節炎 | | 發炎性背痛 **或** |
+| 明確放射性骶髂關節炎：雙側 2-3 級或單側 3-4 級 | | 附着點炎（足跟） |
+| | | 葡萄膜炎 |
+| | | 指/趾炎 |
+| | | 銀屑病 |
+| | | 克羅恩病/結腸炎 |
+| | | 對 NSAIDs 反應良好 |
+| | | 發炎性腸病（IBD）家族史 |
+| | | HLA-B27 |
+| | | CRP 升高 |
+
+*脊椎關節病變：脊椎關節的發炎性疼痛。*
+
+### 病因學與病理生理學
+
+- 發炎 > 骨質疏鬆 > 侵蝕 > 骨化 > 骨增生（軟骨內骨化）
+
+### 流行病學
+
+- M:F = 3:1；女性疾病較輕（可能診斷不足）、更多周邊關節炎、上脊椎侵犯
+- 90-95% 患者 HLA-B27 陽性（一般人口 9% HLA-B27 陽性）
+
+### 臨床表現
+
+- **軸向**
+  - 中下背僵硬、早晨僵硬 >1 小時、夜間疼痛、交替性臀部疼痛、骶髂關節壓痛（+ FABER test）
+  - 脊椎限制（活動度下降）：腰椎（Schöber 測量下降）、胸椎（胸廓擴張下降，正常 >5 cm at T4）、頸椎（全局下降，通常首先 extension）
+  - 姿勢變化：腰椎前凸減少 + 胸椎後凸增加 + 頸椎屈曲增加
+  - 枕骨到牆距離增加（>5 cm）
+- **周邊**
+  - 約 25-30% AS 患者發生周邊關節炎
+  - 不對稱大關節炎，最常侵犯下肢
+  - 附着點炎：脛骨粗隆、跟腱和足底筋膜附著於跟骨的壓痛
+  - 指/趾炎：腳趾或手指
+- **關節外表現**
+  - 眼部：急性前葡萄膜炎常見（25-30% 患者）
+  - 胃腸道：IBD
+  - 腎臟：IgA 腎病、類澱粉沉着症（晚期且罕見）
+  - 心臟：主動脈炎、主動脈逆流、心包炎、傳導障礙、心臟衰竭（罕見）
+  - 肺部：肺尖纖維化（罕見）
+  - 神經：馬尾症候群（罕見）
+  - 皮膚：牛皮癬
+
+### 檢查
+
+- **骶髂關節 X 光**：因侵蝕導致關節「假性增寬」然後骨融合（晚期）、對稱性骶髂關節炎
+- **脊椎 X 光**：脊椎體角落侵蝕和硬化導致「方角」（閃爍角落徵），導致纖維環外層纖維骨化（橋接軟骨性骨刺）> X 光上的「竹竿脊柱」
+- **脊椎 MRI**：評估早期疾病活動度；偵測軟骨變化、骨髓水腫、骨侵蝕和軟骨下骨變化。T2 STIR 影像最佳（抑制脂肪並可見骨水腫）
+- **DEXA 掃描**：骨質密度降低
+- **實驗室**：CBC、ESR/CRP 升高、ALP、Ca²⁺、HLA-B27、血清蛋白電泳（SPEP）
+
+### 治療
+
+- **非藥物治療**
+  - 透過運動（如游泳）、姿勢和深呼吸運動、門診 PT 和戒菸預防因不良姿勢和殘疾導致的融合
+- **藥物治療**
+  - NSAIDs（周邊和軸向疾病一線治療）
+  - Glucocorticoids（局部眼藥水、局部注射，偶爾在其他有效治療前需要全身性類固醇）
+  - 傳統 DMARDs 僅用於周邊關節炎（SSZ、MTX），對軸向疾病無效
+  - 如兩種 NSAIDs（或 DMARDs，僅限周邊關節炎）反應不足，考慮 anti-TNF 製劑或 anti-IL-17 抑制劑用於軸向和周邊侵犯
+  - 管理關節外表現
+- **手術治療**
+  - 嚴重變形時進行髖關節置換和脊椎切骨術（後者很少執行）
+
+### 預後
+
+- 自發性緩解和復發常見，可發生在任何年齡
+- 儘管脊椎變形，功能可能很好
+- 女性和發病年齡 >40 歲預後較好
+- 早期發病伴髖關節疾病可能導致嚴重殘疾；可能需要關節置換
+
+> **考慮 AS 作為主動脈逆流的鑑別診斷。**
+>
+> **2 規則**：AS 發生於：
+> - HLA-B27 陽性個體的 2%
+> - 有受影響家族成員的 HLA-B27 陽性個體的 20%
+
+---
+
+## 牛皮癬關節炎（Psoriatic Arthritis, PsA）
+
+### 定義
+
+- 與牛皮癬相關的一種血清陰性脊椎關節病變
+- 可導致關節疼痛、僵硬和腫脹，可能導致關節損傷
+
+### Table 29. PsA 的 CASPAR 分類標準*
+
+| 標準 | 描述 |
+|------|------|
+| 1. 牛皮癬證據 | 現症（2 分）、過去（1 分）或家族史（1 分）|
+| 2. 牛皮癬指甲失養（1 分） | 甲剝離、點蝕、過度角化 |
+| 3. RF 陰性結果（1 分） | 最好用 ELISA、散射比濁法 |
+| 4. 指/趾炎（1 分） | 現症或過去病史 |
+| 5. 放射學證據（1 分） | 手或腳 X 光關節旁骨質形成 |
+
+*要滿足 CASPAR 標準，患者必須有發炎性關節疾病（關節、脊椎或附着點）+ 來自上述 5 類別的分數。*
+
+### 治療
+
+- 治療皮膚病灶（如類固醇乳膏、水楊酸和/或視網酸、焦油、UV 光）
+- NSAIDs 和/或關節內類固醇（作為輔助），應在數週內見到益處，不應作為唯一治療 >3 個月
+- DMARDs 以減少侵蝕性疾病（在周邊關節侵犯早期使用)
+  - 非生物 DMARDs（MTX、SSZ 或 leflunomide）
+  - 生物製劑包括 anti-TNF 製劑、anti-IL-17（secukinumab、ixekizumab、bimekizumab）、anti-IL-23（guselkumab、risankizumab）、anti-IL-12/23（ustekinumab）和 JAK 抑制劑
+
+---
+
+## 反應性關節炎（Reactive Arthritis, ReA）
+
+### 定義
+
+- 血清陰性脊椎關節病變，患者在胃腸道或泌尿生殖道某些感染後不久出現周邊關節炎和一個或多個關節外表現
+- 此術語不應與風濕熱或病毒關節炎混淆
+
+### 病因學
+
+- GI 或 GU 感染後發作
+  - **GI**：Shigella、Salmonella、Campylobacter、Yersinia、C. difficile
+  - **GU**：Chlamydia（16-44% ReA 案例中分離出）、Mycoplasma species
+
+### 流行病學
+
+- 20-40 歲更常見
+- GU 相關 M>F，GI 相關 M=F
+- HLA-B27 陽性患者，軸向 > 周邊侵犯
+
+### 臨床表現
+
+- **肌肉骨骼**：不對稱周邊關節炎、脊椎炎/骶髂關節炎、附着點炎（阿基里斯腱炎、足底筋膜炎）、指/趾炎
+- **眼科**：虹彩炎（前葡萄膜炎）、結膜炎
+- **皮膚**：Keratoderma blennorrhagicum（手掌和腳底過度角化皮膚病灶）和 balanitis circinata（龜頭和尿道口的小、淺、無痛潰瘡）是診斷性的
+- **胃腸道**：口腔潰瘡、腹瀉
+- **泌尿生殖**：尿道炎、攝護腺炎、子宮頸炎、膀胱炎、無菌性膿尿；存在與初始感染部位無關
+
+### 檢查
+
+- 診斷是臨床 + 實驗室
+- 前驅或同時感染的證據（糞便培養、尿液和生殖器拭子檢測）
+- 血液：正常細胞性、正常色素性貧血和白血症
+- 無菌培養
+- 血清學：HLA-B27 陽性、ESR/CRP 升高
+
+### 治療
+
+- 非關節感染用抗生素
+- NSAIDs（naproxen 500 mg PO BID/TID、diclofenac 50 mg PO TID、indomethacin 50 mg PO TID/QID）、PT、運動
+- 局部治療
+  - 關節內類固醇注射（triamcinolone acetonide）
+  - 眼部侵犯用局部類固醇
+- 全身治療
+  - Corticosteroids（起始劑量 20 mg/d）
+  - DMARDs（僅用於頑固性 ReA 周邊關節侵犯）（SSZ、MTX）
+  - 脊椎發炎對 NSAIDs、DMARDs 頑固時使用 TNF-α 抑制劑
+
+### 預後
+
+- 自我限制，通常 3-5 個月，基於病原體和患者遺傳背景而異
+- 15-20% 案例為慢性
+
+---
+
+## 結晶性關節病變（Crystal-Induced Arthropathies）
+
+### Table 30. 痛風 vs. 假痛風
+
+| 參數 | 痛風（Gout）| 假痛風（Pseudogout）|
+|------|-------------|---------------------|
+| 性別 | M>F | M=F |
+| 年齡 | 中年男性 | 通常老年人 |
+| | | 停經後女性 |
+| 發病 | 急性 | 急性 |
+| | 可變為慢性（如高尿酸未治療、腎衰竭、腎移植）| 軟骨鈣化通常無症狀，但臨床特徵一般為急性 |
+| 結晶類型 | 單鈉尿酸鹽 | 焦磷酸鈣（CPP）|
+| | 負性雙折射 | 正性雙折射（平行時藍色，菱形）|
+| | 針形 | |
+| 分布 | 經典第一 MTP；也中足、踝、膝或周邊 | 膝、腕；單關節，或慢性時多關節 |
+| X 光（注意發現非特異）| 侵蝕「懸垂邊緣」 | 軟骨鈣化 |
+| | OA（膝、腕、第二和三 MCP）| |
+| 治療急性 | NSAIDs、Corticosteroids、Colchicine | NSAIDs、Corticosteroids |
+| 治療慢性 | Allopurinol、Febuxostat | - |
+
+---
+
+## 痛風（Gout）
+
+### 定義
+
+- 普林代謝失常導致高尿酸血症；尿酸單鈉結晶沉積於組織（tophi）和滑膜（microtophi）
+
+### 病因學與病理生理學
+
+- 尿酸可從飲食獲取或由黃嘌呤氧化酶內源性產生，將黃嘌呤轉化為尿酸
+- 尿酸過量導致高尿酸血症
+- 尿酸可沉積在皮膚/皮下組織（tophi）、滑膜（microtophi）和腎臟，在那裡可結晶形成單鈉尿酸鹽結晶，導致痛風
+
+### 風險因素
+
+- **不可改變**：遺傳突變、男性、性別、年齡
+- **可改變**：飲食（酒精、富含普林食物如肉類和海鮮、果糖/糖甜味食物）；見下面誘發因素清單
+- **其他**：腎衰竭、代謝症候群、脫水（如利尿劑）
+
+### 臨床表現
+
+- 單一發作進展為復發性急性發炎性關節炎
+- **急性痛風性關節炎**
+  - 嚴重疼痛、紅斑、關節腫脹，通常侵犯下肢
+  - 關節活動可能受限
+  - 發作將在數天至數週內自發消退（5-10 天）；可能復發
+- **Tophi**
+  - 尿酸沉積在軟骨、肌腱囊、軟組織和滑膜
+  - 常見部位：第一 MTP、耳廓、肘部滑囊、肌腱附著處（常見於阿基里斯腱）
+
+### 痛風誘發因素
+
+> **「FACT」**
+> **F**urosemide
+> **A**lcohol
+> **C**yclosporine
+> **T**hiazide diuretics
+>
+> **「SALT」**
+> **S**eafood
+> **A**lcohol (beer and spirits)
+> **L**iver and kidney
+> **T**urkey (meat)
+
+### 檢查
+
+- **關節抽吸**：>90% 在病程早期顯示單鈉尿酸鹽結晶（負性雙折射、針形）
+- X 光可能顯示 tophi 為軟組織腫脹、骨/關節——穿鑿樣病灶、侵蝕伴「懸垂」邊緣
+- 超聲顯示雙輪廓徵
+
+### 治療
+
+- **急性痛風**
+  - NSAIDs：高劑量，症狀改善時減量
+  - 冰敷、休息和抬高患肢
+  - Corticosteroids：關節內（首選）、口服或肌肉注射（如腎、心血管或胃腸道疾病和/或 NSAIDs 禁忌或失敗）；多關節發作、無法口服且已有 IV 導管的患者可用 IV
+  - Colchicine：在發作首 12-24 小時內使用效果最佳。發作首徵時 1.2 mg，1 小時後 0.6 mg，隨後每天 0.6 mg BID 直到發作消退。腎衰竭和/或老年人謹慎使用
+- **慢性痛風**
+  - **保守治療**
+    - 避免高普林食物（如內臟、沙丁魚、貝類、豆類、豌豆）
+    - 避免具有高尿酸作用的藥物（如 pyrazinamide、ethambutol、thiazide、低劑量 ASA、cyclosporine）
+    - 其他生活方式因素管理：限制酒精攝入、限制高果糖玉米糖漿，過重/肥胖患者建議減重（不考慮活動水平）
+  - **藥物**
+    - 一線降尿酸藥物：allopurinol（非腎毒性）、二線：febuxostat。兩者都透過抑制黃嘌呤氧化酶減少尿酸產生。從低劑量開始並慢慢調整。如有心血管疾病病史不用 febuxostat
+    - 促尿酸排泄藥（probenecid、sulfinpyrazone）：很少與 allopurinol 或 febuxostat 聯合使用於降尿酸效果控制不足的患者
+    - 開始降尿酸治療時應同時開始低劑量 NSAID/colchicine 3-6 個月以避免急性發作
+    - 高尿酸血症繼發腎病，使用低劑量 allopurinol 並監測 Cr
+  - **降尿酸治療（ULT）適應症**
+    - 發作（≥2/年）、tophi、骨侵蝕/關節炎
+
+---
+
+## 焦磷酸鈣沉積症（Calcium Pyrophosphate Deposition, CPPD）
+
+### 定義
+
+- 關節發炎由鈣離子焦磷酸鹽（CPP）結晶沉積於結締組織導致
+
+### 病因學與病理生理學
+
+- 由於嗜中性粒細胞吞噬 IgG 包被的 CPP 結晶，然後在關節腔內釋放發炎介質導致的急性發炎性關節炎
+- 通常單關節
+- 發作比痛風慢，持續最多 2-3 週但自我限制
+
+### 風險因素
+
+- 高齡、晚期 OA、神經病變關節
+- 其他相關病症：甲狀旁腺功能亢進、甲狀腺功能減退、低鎂血症、低磷磷酸酶血症（低 ALP）、血色素沉著症
+
+### 臨床表現
+
+- 侵犯膝蓋、腕蓋、MCP、髖關節、肩膀；不太可能侵犯肘部、踝關節、大腳趾、脊椎
+- 無症狀結晶沉積（僅 X 光可見）
+- 急性結晶關節炎（急性發炎性關節炎發作的自我限制性進展，類似痛風）
+- 假性 OA（進行性關節退化，有時伴急性發炎性關節炎發作）
+- 假性 RA（對稱性多關節模式，伴早晨僵硬和全身性症狀）
+- 常由脫水、急性疾病、手術創傷觸發
+
+### 檢查
+
+- 關節抽吸：排除敗毒性關節炎和痛風
+- CPP 結晶：60% 患者存在，常僅少數結晶，陽陛雙折射（藍色）和菱形
+- X 光顯示 75% 有軟骨鈣化：纖維軟骨結構（如膝半月板）或透明軟骨線性不透射線
+
+### 治療
+
+- **急性 CPPD**：關節抽吸、關節內類固醇注射、NSAIDs、冷敷、休息和副木
+- **慢性 CPPD**：NSAIDs 配合胃腸保護和/或低劑量預防性 colchicine 0.6-1.2 mg/d PO（爭議性）
+
+---
+
+## 非關節性風濕病（Non-Articular Rheumatism）
+
+### 定義
+
+- 主要影響軟組織或關節周圍結構的疾病
+- 包括滑囊炎、肌腱炎、腱鞘炎、纖維肌痛和 PMR
+
+---
+
+## 風濕性多肌痛（Polymyalgia Rheumatica, PMR）
+
+### 定義
+
+- 特徵為近端肢體（帶狀區域）疼痛和僵硬
+- 與 GCA 常見相關
+- 無肌肉無力
+
+### Table 31. PMR 分類標準評分演算法*
+
+**必要標準**：年齡 >50 歲、雙側肩部疼痛、異常 ESR/CRP
+
+| 無超聲標準分數（0-6）| 有異常超聲標準分數（0-8）| |
+|---------------------|------------------------|---|
+| 早晨僵硬持續時間 >45 分鐘 | 2 | 2 |
+| 髖關節疼痛或活動受限 | 1 | 1 |
+| RF 或 ACPA 陰性 | 2 | 2 |
+| 無其他關節侵犯 | 1 | 1 |
+| 至少一個肩膀有肩峰下和/或二頭肌腱鞘炎和/或肩盂關節炎（後側或腋側）+ 至少一個髖關節有滑膜炎和/或轉子滑囊炎（超聲）| 不適用 | 1 |
+| 兩個肩膀都有肩峰下滑囊炎、二頭肌腱鞘炎或肩盂關節炎（超聲）| 不適用 | 1 |
+
+*無超聲標準分數 ≥4 或有超聲標準分數 ≥5 分類為 PMR。*
+
+### 流行病學
+
+- 發生率：50/100,000/週（>50 歲）
+- 發病年齡通常 >50 歲，M:F = 1:2
+
+### 臨床表現
+
+- 全身性症狀明顯（發燒、體重減輕、不適）
+- 對稱近端肌肉（頸部、肩帶和髖帶、大腿）疼痛和僵硬
+- 延長的早晨僵硬
+- 理學檢查顯示肌肉壓痛，但無真實無力或萎縮
+
+### 檢查
+
+- 血液：通常顯示慢性疾病貧血、血小板升高、ESR 和 CRP 升高、CK 正常；高達 5% PMR 報告炎症標記正常
+
+### 治療
+
+- **治療目標**：症狀緩解
+- 開始 prednisone 12.5-25 mg PO 每天一次，如數天內無反應重新考慮診斷
+- 改善時慢慢減量，約 1 年期間 close monitoring，如緩解則減量至停用
+- 復發應根據臨床基礎診斷和治療；不要將 ESR 升高作為復發治療
+- 積極治療復發（50% 復發率）
+- 監測類固醇副作用、糖皮質激素誘發骨質疏鬆預防，並追蹤 GCA 症狀（H/A、顎跛行、头皮壓痛）
+
+---
+
+## 纖維肌痛（Fibromyalgia）
+
+### 定義
+
+- 慢性（>3 個月）、廣泛性（軸向、左側和右側、上段和下段）、非關節性疼痛，伴特徵性壓痛點
+
+### Table 32. 2010 ACR 纖維肌痛初步診斷標準
+
+| 標準 | 備註 |
+|------|------|
+| **廣泛疼痛指數（WPI）**= 過去一週患者疼痛區域數量（最高 19 分）：左肩胛帶、上臂、下臂、髖關節（左右）、大腿、小腿、顎 + 胸、腹、上背、下背、頸 | **如滿足以下 3 個條件則符合纖維肌痛診斷標準**：|
+| **症狀嚴重程度（SS）分數** = 3 分總和 | 1. WPI ≥7 且 SS 分數 ≥5 **或** WPI 3-6 且 SS 分數 ≥9 |
+| a) 疲勞嚴重程度 | 2. 症狀在至少 3 個月處於相似程度 |
+| b) 醒來未恢復感 | 3. 患者沒有其他疾病可解釋疼痛 |
+| c) 過去一週認知症狀 | |
+| d) 軀體症狀程度（IB、H/A、腹痙攣/疼痛、口乾、眼疲勞、蕁麻疹、耳鳴、嘔吐、胸口灼熱、乾眼、OB、食慾不振、皮疹、脫髮、容易瘀傷等）| |
+| a-d 評分 0-3：0=無問題、1=輕微、2=中等、3=嚴重 | |
+
+### 流行病學
+
+- M:F = 1:3
+- 主要年齡 25-45 歲，部分青少年
+- 一般人口盛行率 2-5%
+- 與慢性疲勞症候群和肌筋膜疼痛症候群重疊
+- 與精神疾病強烈相關
+
+### 臨床表現
+
+- 廣泛性疼痛、僵硬
+- 容易疲勞
+- 睡眠障礙：非恢復性睡眠、入睡困難、頻繁覺醒
+- 症狀因體能活動、睡眠不佳、情緒壓力而加重
+- 神經症狀：痛覺過敏、異感症、觸痛感
+- 與腸道或膀胱症候群、偏頭痛、緊張性 H/A、不寧腿症候群、肥胖、憂鬱和焦慮相關
+- 理學檢查應僅顯示軟組織按壓時壓痛，無壓痛/觸發點特異性
+
+### 檢查
+
+- 血液：包括 TSH；通常正常，除非存在無關的潛在疾病
+- 血清學：除非有 CTD 或發炎性關節炎的臨床懷疑，否則不訂 ANA 或 RF
+- 實驗室睡眠評估
+
+### 治療
+
+- **非藥物治療**
+  - 自我管理策略諮詢
+  - 階梯運動計劃包括有氧（>20 分鐘/天，2-3 天/週）和阻力訓練（每項運動 >8 次重複，2-3 天/週）
+  - 其他有證據的療法：針灸、CBT、水療、冥想運動（瑜伽、太極拳）
+- **藥物治療**（幫助症狀，非治愈性）
+  - 低劑量三環抗憂鬱劑（如 amitriptyline）——用於睡眠恢復；選擇抗膽鹼能副作用較低者
+  - SNRIs：duloxetine、milnacipran
+  - 抗癲癇藥：pregabalin、gabapentin
+  - 止痛治療，不鼓勵使用鴉片類。NSAIDs 不再鼓勵（爭議性）
+
+### 預後
+
+- 多變；通常慢性、起伏，部分疼痛和疲勞通常持續
+
+### Table 33. 發炎性肌病變 vs. PMR vs. 纖維肌痛臨床特徵比較
+
+| | 發炎性肌病變 | PMR | 纖維肌痛 |
+|---|-------------|-----|---------|
+| 流行病學 | PM，40-50 歲 | PM，>50 歲 | PM，25-45 歲 |
+| 肌肉侵犯 | 僅近端肌肉無力 | 無；僅關節周圍/關節結構 | 無 |
+| 無力 | 有 | 無 | 無 |
+| 疼痛 | 無痛性 | 疼痛（肩/髖帶） | 疼痛（彌散） |
+| 僵硬 | 存在 | 顯著早晨僵硬和凝膠化（肩膀、頸部、髖） | 可能有早晨僵硬 |
+| 檢查 | 肌肉切片、CK、EMG、排除惡性腫瘤 | ESR/CRP、排除 CA | 睡眠評估、TSH |
+| ESR/CRP | 通常正常 | 顯著升高 | 正常 |
+| 治療 | 高劑量類固醇、免疫抑制劑 | 低劑量類固醇 | 運動、睡眠恢復 |
+
+---
+
+## 常用藥物（Common Medications）
+
+### Table 34. 退化性關節炎常用藥物
+
+| 類別 | 學名 | 商品名 | 劑量（PO）| 適應症 | 禁忌症 | 副作用 |
+|------|------|--------|----------|---------|--------|--------|
+| **止痛藥** | Acetaminophen | Tylenol® | 325-650 mg Q4-6h，最大 3000 mg/d | 輕度 | 嚴重肝病 | 肝毒性、過量、增強 warfarin |
+| **NSAIDs** | Ibuprofen | Advil® | 200-600 mg TID | 中-重度 OA | GI 出血、腎功能不全、對 ASA/NSAIDs 過敏 | 惡心、耳鳴、眩暈、消化不良、GI 出血 |
+| | Diclofenac | Voltaren® | 25-50 mg TID | | | |
+| | Meloxicam | Mobicox® | 7.5-15 mg 每天一次 | | | |
+| | Naproxen | Aleve® | 125-500 mg BID | | | |
+| **COX 抑制劑** | Celecoxib | Celebrex® | 200 mg 每天一次 | 消化不良/GERD | 腎功能不全、心血管疾病、GI 出血 | 與 NSAIDs 相同 |
+| **其他** | 辣椒素乳膏 | | | | | |
+
+---
+
+### Table 35. DMARDs
+
+| 學名 | 商品名 | 劑量 | 禁忌症 | 副作用 |
+|------|--------|------|--------|--------|
+| **傳統 DMARDs - 常見** | | | | |
+| Hydroxychloroquine | Plaquenil® | 400 mg PO 每天一次（起始）；200-400 mg PO 每天一次（維持）| 視網膜疾病 | 胃腸症狀、皮疹、黃斑病變、神經肌肉病變；需要每年眼科篩檢 |
+| Sulfasalazine | Salazopyrin® / Azulfidine®（美）| 1000 mg PO BID-TID | 對磺胺或水楊酸過敏 | 胃腸症狀、皮疹、H/A、白血球減少 |
+| Methotrexate (MTX) | Rheumatrex® / Folex/Mexate® | 15-25 mg PO/IM 每週 | 骨髓抑制、肝病、肺病、免疫缺陷、懷孕、化療、中重度腎病 | 口腔潰瘡、胃腸症狀、肝硬化、骨髓抑制、肺炎、管狀壞死、疲勞 |
+| Azathioprine | Imuran® | 2 mg/kg/d PO 每天一次 | 腎/肝病 | 皮疹、全血球減少（尤其白血球減少）、硫代嘌呤甲基轉移酶（TPMT）缺乏 |
+| Mycophenolate mofetil/sodium | Cellcept® / Myfortic® | 500-1500 mg PO BID | 懷孕或哺乳 | 胃腸症狀、血球減少 |
+| Leflunomide | Arava® | 10-20 mg PO 每天一次 | 肝病、肺病、懷孕 | 胃腸症狀、肝功能障礙、脫髮 |
+| **傳統 DMARDs - 不常見** | | | | |
+| Cyclosporine | Neoral® | 2.5-3 mg/kg/d 分 2 次 PO | 腎/肝病、HIN、感染 | 腎功能下降、毛髮生長、顫抖 |
+| Gold (injectable) | Solganal® / Myochrysine® | 50 mg IM 每週（逐漸增量）| IBD、腎/肝病 | 皮疹、口腔潰瘡/牙齦、蛋白尿、骨髓抑制 |
+| Cyclophosphamide | Cytoxan® | 1 g/m²/mo IV 按療程 | 腎/肝病 | 心臟毒性、嚴重嘔吐、出血性膀胱炎、骨髓抑制、膀胱癌 |
+
+### 生物製劑和 JAK 抑制劑
+
+| 學名 | 商品名 | 劑量 | 作用機制 |
+|------|--------|------|----------|
+| **Anti-TNF** | | | |
+| Adalimumab | Humira® | 40 mg SC q2w | 單株 anti-TNF |
+| Infliximab | Remicade® | 3-5 mg/kg IV q8w | 嵌合性 mouse-human 單株 anti-TNF |
+| Etanercept | Enbrel® | 25 mg SC biw 或 50 mg 每週 | TNF 受體和 IgG Fc 部分的融合蛋白 |
+| Certolizumab | Cimzia® | 400 mg SC q2w，然後 200 mg SC q4w | PEGylated 單株 anti-TNF |
+| Golimumab | Simponi® | 50 mg q 月或 2 mg/kg q8w | 單株 anti-TNF |
+| **Anti-IL** | | | |
+| Secukinumab | Cosentyx® | 150 mg SC 每月 | 阻斷 IL-17 |
+| Tocilizumab | Actemra® | 4-8 mg/kg IV qw 或 162 mg SC q2w | IL-6 受體拮抗劑 |
+| **B 細胞去除** | | | |
+| Rituximab | Rituxan® | 1 g ×2 IV，間隔 2 週，q6mo | 導致 B 細胞去除，結合 CD20 |
+| **PDE4 抑制劑** | | | |
+| Apremilast | Otezla® | 第 1 天：10 mg（上午）PO，逐步調整至第 6 天 30 mg BID | 減少 TNF-α 產生的 PDE4 抑制劑 |
+| **JAK 抑制劑** | | | |
+| Tofacitinib | Xeljanz® | 5 mg PO BID | 選擇性 JAK V3 抑制劑 |
+| Upadacitinib | Rinvoq® | 15 mg PO 每天一次 | 選擇性 JAK1 抑制劑 |
+
+---
+
+## 重要風濕病學試驗（Landmark Rheumatology Trials）
+
+| 試驗名稱 | 參考文獻 | 標題與目的 |
+|----------|----------|------------|
+| **類風濕性關節炎** | | |
+| COMET | Lancet 2008;372:375-82 | 比較 MTX 單一治療與 MTX + Etanercept 聯合治療在活躍、早期、中重度 RA 的療效 |
+| ERA | NEJM 2000;343:1586-93 | 比較 Etanercept 和 MTX 在早期 RA 患者中的療效 |
+| Best | Arthritis Rheum 2005;52:3381-90 | 四種不同治療策略治療早期 RA 的臨床和放射學結局 |
+| 風濕性關節炎 leflunomide | Arch Intern Med 1999;159:2542-50 | Leflunomide 治療活躍 RA 與安慰劑和 MTX 的比較 |
+| PREMIER | Arthritis Rheum 2006;54:26-37 | Adalimumab + MTX 對比 MTX 單一或 Adalimumab 單一治療早期侵襲性 RA |
+| **退化性關節炎** | | |
+| Hyaluronan | Ann Rheum Dis 2010;69:1097-102 | 關節內透明質酸在膝關節 OA 的臨床效果 |
+| **全身性紅斑狼瘡** | | |
+| Belimumab | Lancet 2011;377:721-3 | Belimumab 在活躍 SLE 患者中的療效和安全性 |
+| Mycophenolate vs. Cyclophosphamide for Lupus Nephritis | NEJM 2005;353:2219-28 | Mycophenolate mofetil 或靜脈 Cyclophosphamide 治療狼瘡腎炎 |
+| **結締組織疾病** | | |
+| AZA or MTX for ANCA Vasculitis | NEJM 2008;359:2790-803 | Azathioprine 或 MTX 維持 ANCA 相關血管炎 |
+| cycLOPS | Ann Intern Med 2009;150:670-80 | 脈衝 vs. 每日口服 Cyclophosphamide 誘導 ANCA 相關血管炎緩解 |
+| Scleroderma Lung Disease | NEJM 2006;354:2655-66 | Cyclophosphamide vs. 安慰劑治療硬皮病 lung disease |
+| **ANCA 相關血管炎** | | |
+| WGET | NEJM 2005;352:351-361 | Etanercept 加標準治療威氏肉芽腫 |
+| IMPROVE | JAMA 2010;304:2381-88 | Mycophenolate Mofetil vs. Azathioprine 維持 ANCA 相關血管炎緩解 |
+| RAVE | NEJM 2010;363:221-2 | Rituximab vs. Cyclophosphamide 治療 ANCA 相關血管炎 |
+| MAINRITSAN3 | Ann Intern Med 2020;173:1196-87 | 長效 Rituximab 維持 ANCA 相關血管炎緩解 |
+| **痛風** | | |
+| Febuxostat vs. Allopurinol | NEJM 2005;353:2450-61 | Febuxostat 對比 Allopurinol 治療高尿酸血症和痛風 |
+| **僵直性脊椎炎** | | |
+| ATLAS | Arthritis Rheum 2006;54:2136-46 | Adalimumab 在 AS 患者中的療效和安全性 |
+| ASSERT | Arthritis Rheum 2005;52:582-91 | Infliximab 在 AS 患者中的療效和安全性 |
+| SPINE | Ann Rheum Dis 2007;76:799-804 | Etanercept 在晚期 AS 的療效 |
+| Sulfasalazine | Arthritis Rheum 1995;38:618-27 | Sulfasalazine 治療脊椎關節病變 |
+
+---
+
+**Toronto Notes 2025**
