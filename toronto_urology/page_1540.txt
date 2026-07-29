@@ -1,0 +1,78 @@
+Ul0 Urology Toronto Notes 2025
+
++ Hx and P/E (urologic and general neurologic)
++ voiding diary, assess for incontinence, urinary symptoms, and UTI risk (hydration status, catheterization, “Spinal shock” intially manifests as atonic
+voiding frequency) badder
+catheterization volumes in patients with CIC
+all patients: U/A, PVR, renal profile
+= moderate/high-risk (spinal cord injury, spina bifida, MS): urodynamics, renal U/S, renal profile
+imagin;
+. Tisto rule out hydronephrosis and stones; occasionally CT scanning with or without contrast
+cystoscopy (if suspicion of bladder tumour, hematuria)
+urodynamic studies
+= uroflowmetry to assess flow rate, pattern
+« filling CMG to assess capacity, compliance, detrusor overactivity
+voiding CMG (pressure-flow study) to assess bladder contractility and extent of bladder outflow
+obstruction
+video study to visualize bladder/bladder neck/urethra during CMG using x-ray contrast
+= EMG and video ascertains presence of coordinated or uncoordinated voiding, allows accurate diagnosis
+of DSD
+
+Neuro-Urologic Evaluation ©
+
+Treatment
++ goals of treatment
+= prevent renal deterioration
+= prevent infections (UTI)
+= achieve social continence
++ CIC (if there is associated inability to void)
++ treatment options depend on status of bladder and urethra
+= bladder hyperactivity > antimuscarinic medications to relax bladder (see Urinary Incontinence, U6)
++ ifrefractory
+— botulinum toxin injections into bladder wall (detrusor muscle)
+— occasionally augmentation cystoplasty (enlarging bladder volume and improving
+compliance by grafting section of detubularized bowel onto the bladder)
+— occasionally urinary diversion (ileal conduit or continent diversion) in severe cases if
+bladder management unsuccessful
+= flaccid bladder > CIC
+
+Dysuria
+
+Definition
+
++ painful urination
+
+Etiology
+
+Table 6. Differential Diagnosis of Dysuria
+
+Infectious ysis, urethtis, prostatitis, epiidymitislorhtis(itassociated with lower tract inflammation) cervicits, ahovagints, perineal
+inflammation/nfcton, tuberculosis, vestulits
+
+Neoplasm Kidney, bladder, prostate, penis, vagina/vulva, BPH
+
+Calcul Bladder stone, wethal stone, ureteral stone
+
+Inflammatory Seronegative arthropathies (reactiveartritis: arthritis, uveitis, urethritis, drugside effects, autoimmune disorders, chronic pelvic pain
+symdrome CPPS) interstitial cystitis
+
+Hormonal Endometriosis, ypoestrogenism
+
+Trauma Catheter insertion, pot-cital cystitis (honeymoon cystitis)
+
+Psychogenic Somatiaton disorder, depression, stresslansiety disorder
+
+Other Contact sensitivity, foreign body radaton/chemical cystitis, diverticulum
+
+Investigations
+
++ focused Hx and P/E to determine cause (fever, d/c, conjunctivitis, CVA tenderness, back/joint pain)
+any dic (urethral, vaginal, cervical) should be sent for gonococcus/chlamydia testing; wet mount if
+
+vaginal d/c
+
+U/A and urine C&S
+
+if suspect infection, may start empiric ABx treatment (see Table 9, U16)
+
++ imaging of urinary tract (tumour, stones)

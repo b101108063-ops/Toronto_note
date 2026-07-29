@@ -1,0 +1,130 @@
+52
+
+Cardiology and Cardiac Surgery
+
+cardiac denervation
+«= as the donor heart is completely denervated, it does not receive parasympathetic vagal stimulation or
+intrinsic postganglionic sympathetic stimulation so it will not respond to anticholinergics like atropine
+RV dysfunction
+= RV dysfunction with TR, particularly in patients with preoperative pulmonary HTN, due to myocardial
+dysfunction caused by long ischemic time and/or reperfusion injury
+= requires aggressive management for treatment using agents that dilate the pulmonary vasculature or,
+rarely, RVAD support
+
+Ventricular Assist Devices
+
+work to unload the ventricle while maintaining output; also results in decreased myocardial oxygen
+consumption permitting recovery of the myocardium that is not irreversibly injured
+can support the left (LVAD), right (RVAD), or both ventricles (BiVAD); typical circuit is comprised of a
+pump, an outflow graft, and a driveline to connect to an external power source and controller (see Figure
+48)
+indications:
+« bridge to transplantation, bridge to decision (for transplant), or long-term permanent therapy
+(“destination therapy”)
+= postoperative mechanical support when unable to separate from CPB despite inotropic and IABP
+support
+STABP is a catheter-based device inserted into the femoral artery and advanced to the descending
+aorta that decreases afterload, thus myocardial 02 demand and increases blood flow to coronary
+arteries
++ inflation of the balloon occurs during diastole to increase ascending aorta and coronary artery
+perfusion pressure; deflation occurs at systole to reduce intra-aortic pressure thus reducing
+afterload
+* cardiogenic shock
+
+Extracorporeal Membrane Oxygenation
+
+circuit includes: centrifugal pump, membrane oxygenator, venous and arterial cannulas (see Figure 47,
+48)
+
+venoatrial (VA) ECMO is treatment for cardiogenic shock due to broad availability, technical simplicity, and
+rapid deployment
+
+outcomes for ECMO poor with 35% survival
+
+indications: postcardiotomy shock, allograft failure, fulminant myocarditis, decompensated HF
+extracorporeal life support through ECMO use is an effective method of resuscitation in moribund patients
+
+02 CO; Pressure
+Monitor
+
+Heat exchanger
+S555
+
+(© Mimi Guo 2022
+
+Warm water Access site
+
+Membrane
+Oxygenator
+
+Reinfusion
+cannula
+
+02 CO: Pressure
+Monitor
+
+Pump Access site Drainage
+
+cannula
+
+Figure 48. ECMO
+
+Toronto Notes 2025
+
+Advanced Hear Failure Treated with Continuous-
+Flow Left Ventricular Assist Device
+
+NEM 2009;361:224151
+
+Purpose: Assess quality of if in patients wth
+advanced H treated with implanted pulatie flow LVAD
+‘or new contin ous-flow devices.
+
+Methods: Patients with advanced meicaly refractory
+HF were randomized (in a2 ratio) to implantation
+
+ta continuous-flow LVAD ora pulsatile low VAD.
+(ualty-osite test and 6-min wok test data were
+coleced atbaseline, Imonth, 3m, 6m, then every
+6 mo unt study competion The primary endpoint
+wasa compesit ofr survival fee of sabling
+stroke Rankin score}, or device reoperation fr
+replacement
+
+Results: 85% of patents with the continuous-flow
+
+device and 76% of patients with the pulsatile low
+device were discharged fromthe hospital with the
+deviein-plac. The primary endpoint was achieved in
+46% of patients implanted with thecontinuous-How
+device, compared to 11% wih the pusate-lw device
+(hazard ratio 038; 95% 10.2710 0.54; 0.001.
+
+The Kaplan-Meier estimates of survival revealed
+significantly better outcomes for patients with the
+continuous fo devices compared withthe pulsatile
+flow device (RRO.54; 95% Cl 0.3410 0.86; P-0.008)
+Implantation oa continous ow
+
+advanced medical refractory.
+
+-Witow Yang 2022
+
+Percutaneous
+driveline
+
+External controller
+
+HeartMate Ill
+Aorta
+Outtiow ad
+graft
+Intrapericardial pump
+HeartMate Il
+Aorta
+Inflow
+cannula
+
+Pump
+
+Figure 49. LVAD

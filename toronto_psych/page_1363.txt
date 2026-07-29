@@ -1,0 +1,145 @@
+Ps9 Psychiatry
+
+Comorbidity
+
++ substance use disorders (>50% use tobacco)
+
++ anxiety disorders
+
++ reduced life expectancy secondary to medical comorbidities (i.e. obesity, diabetes, metabolic syndrome,
+cardiovascular/pulmonary disease)
+
+Management of Schizophrenia
++ biological/somatic
+
+= acute treatment and maintenance: antipsychotics (risperidone, aripiprazole, haloperidol, paliperidone;
+clozapine if resistant); regimens of IM q2-12 wk. Long-acting injectables (LAI or depot) shown to be
+more effective in reducing relapse and rehospitalization compared with oral alternatives
+adjunctive: + mood stabilizers (for aggression/impulsiveness - lithium, valproate, carbamazepine) +
+anxiolytics + ECT
+
+= maintenance treatment for at least 2 yr after the first episode, at least 5 yr after multiple episodes
+
+(relapse causes severe deterioration)
+
++ psychosocial
+
+= psychotherapy (individual, family, group), supportive, CBT (see Table 14, PS51)
+
+= ACT (Assertive Community Treatment): mobile mental health teams that provide individualized
+treatment in the community and help patients with medication adherence, basic living skills, social
+support, job placements, resources
+social skills training, employment programs, disability benefits
+housing (group home, boarding home, transitional home)
+
+Course and Prognosis
+
++ majority of individuals display some type of prodromal phase
+
++ course is variable: some individuals have exacerbations and remissions while others remain chronically ill;
+accurate prediction of the long-term outcome is not possible
+
+positive symptoms typically diminish with treatment; negative symptoms tend to be most persistent and
+cognitive symptoms may not improve
+
+over time: 1/3 improve, 1/3 remain the same, 1/3 worsen
+
+Schizophreniform Disorder
+
+Diagnosis
++ criteria A, D, and E of schizophrenia are met; an episode of the disorder lasts for >1 mo but <6 mo
+= ifthe symptoms have extended past 6 mo the diagnosis becomes schizophrenia
+= specifiers: with/without good prognostic features (e.g. acute onset, confusion/perplexity, good
+premorbid functioning, absence of blunt/flat affect), with catatonia, current severity based on
+quantitative assessment of primary symptoms of psychosis
+
+Treatment
++ similar to acute schizophrenia
+
+Prognosis
++ better than schizophrenia; 1/3 recover within 6 mo, 2/3 progress to schizophrenia
+
+Brief Psychotic Disorder
+
+Diagnosis
+
++ criteria Al-A4, D, and E of schizophrenia are met; an episode lasts for at least 1 d, but less than 1 mo with
+eventual full return to premorbid level of functioning
+
+specifiers: with/without marked stressors, with postpartum onset, with catatonia, current severity
+
++ can occur after a stressful event or postpartum (see Postpartum Mood Disorders, PS14)
+
+Treatment
++ secure/safe environment, antipsychotics, and anxiolytics
+
+Prognosis
++ good, self-limiting, should return to premorbid function within 1 mo
+
+Schizoaffective Disorder
+
+DSM-5 DIAGNOSTIC CRITERIA FOR SCHIZOAFFECTIVE DISORDER
+Reprinted with pemission rom the Diagnostic and Statistical Manual of Mental Disorders, Sthed. 2073. American Psychiatric Association
+
+A.an uninterrupted period of illness during which there is a major mood episode concurrent with Criterion A
+of schizophrenia
+
+B. delusions or hallucinations for 2 or more wk in the absence of a major mood episode during the lifetime
+duration of the illness
+
+C. symptoms that meet criteria for a major mood episode are present for the majority of the total duration of
+the active and residual periods of the illness
+
+Toronto Notes 2025
+
+i)
+
+Cannabis Use and Earlier Onset of Psychosis
+Arch Gen Psychiatry 2014 68:555-561
+
+Purpose: To examine the extent to which cannabis,
+alcoho, and other psychoactive drugs affect the age of
+onset of psychosis
+
+Method: A systematic review and meta-analysis
+English studies were nuded that compared wo
+Cohorts: patients who used substances vs, patients who
+id notuse substances.
+
+Results: 83 studies were included, The ageof onset in
+cannabis serswas 2.7 yyounger than in nonusers
+Forbroady defined substance use, age of onset of
+psychosis was 0 yr earker than fornonuses, Alcohol
+use was not associated with igficantly earerage
+of psychosis
+
+Condusions: These results provide evidence that
+cannabis playsa rok in earlier onset of psychosis
+
+Good Prognostic Factors
+Acute onset
+
+Later age of onset,
+
+Shorter duration of prodrome
+Female gender
+
+Good cognitive functioning
+Good premorbid functioning
+
+No family history
+
+Presence of affective symptoms
+Absence of structural brain abnormalities
+Good response to drugs
+
+Good support system
+
+Non-bizarre delusions involve situations
+that could occur in real Ife (i.e. being
+followed, poisoned, loved at a distance)
+Bizarre delusions involve situations
+
+that cannot occur in real lie (.e. being
+kidnapped by liens, having one’s organs
+stolen)

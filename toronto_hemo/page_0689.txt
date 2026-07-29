@@ -1,0 +1,170 @@
+135, Hematology
+
+lypercoagulable Disorders
+
+Hypercoagulability Workup — Venous Thrombosis
++ workup for hypercoagulable state should be considered ONLY if it will alter treatment decisions
++ includes inherited or acquired thrombophilia
+«= hypercoagulability workup may be considered in patients with:
++ multiple recurrent thromboses
+* warfarin-induced skin necrosis or neonatal purpura fulminans (protein C or S deficiency)
+thrombosis at an unusual venous site (cerebral, jugular, splanchnic, portal, and upper extremity
+veins)
+abnormal blood work, constitutional symptoms, or physical exam findings suggestive of cancer
+= arterial thrombotic events due to a hypercoagulable state are typically associated with APS, HIT, JAK2
++ MPNs, malignancy, and PNH, not hereditary thrombophilias
++ workup (if indicated)
+= initial
++ CBC, blood smear, coagulation studies, liver/renal function tests, urinalysis, and hemolysis markers
+(if anemic)
++ malignancy history, age appropriate cancer screening
++ serology: APLA (lupus anticoagulant will be affected by anticoagulation)
++ depending on CBC, consider JAK2/CALR and flow cytometry for PNH
+= post-treatment (or 26 wk, as protein levels are depleted/consumed by clot and can be affected by
+anticoagulation)
+* antithrombin activity
++ proteins C, S activity
++ note: most of these tests do not change management, and a negative test does not rule out a hypercoagulable
+state
++ decision to pursue hypercoagulability workup should be made in consultation with a hematologist
+
+.
+
+.
+
+SELECTED CAUSES OF HYPERCOAGULABILITY
+
+Factor V Leiden (Activated Protein C Resistance)
+
++ most common cause of hereditary thrombophilia
+
++ 3-7% of European White population are heterozygotes
+
++ point mutation in the Factor V gene (R506Q) results in resistance to inactivation of Factor Va by activated
+protein C
+
+Prothrombin Gene Mutation (PT) G20210A
+
++ 1-3% of European White population are heterozygotes
+
++ GtoA transposition at nucleotide position 20210 of the prothrombin gene promoter region results in
+increased levels of prothrombin and thus increased thrombin generation
+
+Protein C and Protein S Deficiency
++ protein C inactivates Factors Va and VIIa using protein S asa cofactor
++ protein C deficiency
+= homozygous or compound heterozygous: neonatal purpura fulminans
+= heterozygous
++ type I: decreased protein C levels
++ type II: decreased protein C activity
+= acquired: liver disease, sepsis, DIC, warfarin, and certain chemotherapeutic agents
+= 1/3 of patients with warfarin necrosis have underlying protein C deficiency
++ protein $ deficiency
+= type I: decreased free and total protein S levels,
+= type Il: decreased protein S activity
+= type III: decreased free protein S levels
+= acquired: liver disease, DIC, pregnancy, nephrotic syndrome, inflammatory conditions, and warfarin
+
+Antithrombin Deficiency
+
++ antithrombin slowly inactivates thrombin, a process accelerated by heparin
+
++ causes/etiology: autosomal dominant inheritance, urinary losses in nephrotic syndrome, or reduced
+synthesis in liver disease
+
++ diagnosis must be made outside window of acute thrombosis and anticoagulation treatment (acute
+thrombosis, heparin, and systemic disease all decrease antithrombin levels)
+
+deficiency may result in resistance to UFH (LMWH may be considered, with monitoring of anti-Xa levels)
+
+= heparin resistance: suspect if >35000 IU of UFH required during 24h use
+
+Elevated Factor VIII Levels
++ an independent marker of increased incident and recurrent thrombotic risk, but levels can also be
+increased in numerous states as an acute phase reactant, therefore its clinical use is controversial
+
+Toronto Notes 2025
+
+Differential Diagnosis of Elevated
+D.Dimer
+
+Arterial thromboembolic disease (eg.
+
+MI, cerebrovascular accident, acute limb
+ischemia, AFib, intracardiac thrombus)
+Venous thromboembolic disease (e.g.
+
+DVT, PE}
+
+Abnormal fibrinolysis (e.g. use of
+thrombolytic agents)
+
+Surgeryfrauma (e.g. tissue ischemia,
+necrosis)
+
+Vaso-occlusive episode of SCD
+
+Renal disease (nephrotic syndrome, acute/
+chronic renal failure)
+Pregnancy-related (e.g. normal pregnancy,
+preeclampsia, eclampsia)
+Cardiovascular-related (e.g. cardiovascular
+disease, CHF)
+
+‘Severe infection/sepsisiinflammation,
+systemic inflammatory response syndrome
+pic
+
+Malignancy
+
+Severe liver disease
+
+Venous malformation
+
+Isolated prolonged INR is most commonly
+due to Factor Vill deficiency in the extrinsic
+pathway sine it has the shortest hal-ife
+Isolated elevated PTT is usually due to
+factor deficiency or inhibitors in the intrinsic
+pathway
+
+‘American Society of Hematology
+Choosing Wisely Recommendations
+
+Do not test for thrombophilia in adult
+patients with venous thromboembolism
+‘occurring in the setting of major transient
+tisk factors (le. surgery, trauma, or
+prolonged immobility)
+
+Do not use inferior vena cava fiters
+routinely in patients with acute venous,
+thromboembolism
+
+Common Causes of Hypercoagulability
+
+CALM APES
+
+Protein C deficiency
+
+APS
+
+Factor V Leiden
+Malignancy
+
+Antithrombin deficiency
+Prothrombin G20210A
+Increased Factor Vill (Eight)
+Protein S deficiency
+
+Causes of Both Venous and Arterial
+Thrombosis include:
+
+Distal venous clot with patent foramen.
+ovale
+PNH
+
+Protein C, protein S, and ATIII are
+decreased during acute thrombosis —
+therefore to test for deficiency, they must
+be tested outside ofthis time period

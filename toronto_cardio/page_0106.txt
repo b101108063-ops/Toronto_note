@@ -1,0 +1,62 @@
+C16 Cardiology and Cardiac Surgery Toronto Notes 2025
+
++ indications
+«= to diagnose CAD in possible ACS patients with non-diagnostic ECG and negative serum biomarker
+= exercise MPI
++ when ECG cannot be interpreted appropriately due to LBBB or abnormal baseline ECG
++ intermediate pre-test probability with normal/equivocal exercise ECG
++ in patients with previous imaging whose symptoms have changed
++ to diagnose ischemia
+= dipyridamole/adenosine MPI
+# exercise testing is always preferred if possible
++ pharmacological stress imaging test for patients who cannot exercise or do not want to hold cardiac
+medications (B-blockers/CCBs)
+* same indication as exercise MPI
++ contraindications
+«= vasodilators (i.e. adenosine, regadenoson, and dipyridamole) are contraindicated in patients with
+hypotension, sick sinus syndrome, high-degree AV block (in the absence of backup pacemaker
+capability), and reactive airways disease
+= pregnancy
+«+ risks
+« radiation exposure
+
+STRESS ECHOCARDIOGRAPHY
+«see Echocardiography, C14
+
+Cardiac Catheterization and Angiography
+
+Right Heart Catheterization (Swan-Ganz Catheter)
++ description
+« also known as pulmonary artery catheterization
+= obtain direct measurements of central venous, right-sided intracardiac, pulmonary artery, and
+pulmonary artery occlusion pressures
+can estimate CO, SVR, and PVRas well as mixed venous oxyhemoglobin saturation, oxygen delivery,
+and oxygen uptake
+= right atrial, right ventricular, and pulmonary artery pressures are recorded
+can also be used to measure the Cardiac Index (CI), a measure of cardiac function
+* CI =CO/body surface area
+* 2.6-4.2 L/min/m? is considered normal while <1.8 L/min/m? with a pulmonary capillary wedge
+pressure (PCWP) >15 mmHg usually means cardiogenic shock
+= PCW)
+¢ obtained by advancing the catheter to wedge in the distal pulmonary artery
++ records pressure measured from the pulmonary venous system
+in the absence of pulmonary venous disease, reflects left atrial pressure
++ indications
+= unexplained or unknown volume status in shock
+severe cardiogenic shock (e.g. acute valvular disease, suspected pericardial tamponade)
+suspected or known pulmonary artery HTN
+severe underlying cardiopulmonary disease (e.g. congenital heart disease, left-to-right shunt, severe
+valvular disease, pulmonary HTN) and undergoing surgery (e.g. corrective)
++ contraindications
+« infection at the insertion site
+= presence of a right VAD
+= insertion during cardiopulmonary bypass
++ risks
+complications for diagnostic catheterization: <1%
+inadequate diagnostic procedures occur in <1% of cases
+complications of insertion: atrial and/or ventricular arrhythmias (~3% of patients)
+catheter misplacement or knotting (uncommon)
+perforation of a cardiac chamber and rupture of a cardiac valve or the pulmonary artery (rare)
+complications of catheterization: pulmonary artery rupture, pulmonary infarction, thromboembolic
+events, infection, and data misinterpretation
+within 24 h of catheterization: death, MI, or stroke (0.2% to 0.3% of patients)

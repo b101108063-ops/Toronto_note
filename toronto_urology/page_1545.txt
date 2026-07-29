@@ -1,0 +1,93 @@
+vUIS Urology
+
+Interstitial Cystitis (Painful Bladder or Bladder Pain Syndrome)
+
+Definition
++ bladder pain, chronic urgency, and frequency without other identifiable causation
+
+Classification
++ non-ulcerative (more common) and ulcerative (Hunner's lesions)
+
+Etiology
++ unknown
+
+Epidemiology
+
++ prevalence: 20 in 100,000
+
++ 90% of cases are in females, 94% are white
+
++ median age is 40 yr (non-ulcerative seen in younger to middle-aged, while ulcerative seen in middle-aged to
+older)
+
+Clinical Features
+
++ pelvic pain (typically supra-pubic tenderness)
+
++ storage symptoms (frequency > urgency > nocturia)
+
++ negative U/A, urine C&S, urine cytology
+
++ cystoscopy: glomerulations (submucosal petechiae), Hunner’s lesions
+
+Differential Diagnosis
+
+. urology: non-infectious cystitis (radiation, chemical, eosinophilic, TB), OAB, bladder calculi, prostate-
+related pain
+
+gynecology: endometriosis, vulvar disorders
+
+neurology: pudendal nerve entrapment
+
+MSK: pelvic floor disorders
+
+drugs: ketamine, tiaprofenic acid
+
+Investigations
+
++ Hx, P/E, frequency volume chart
+
++ symptom scores to establish baseline and response to treatment
++ U/A, urine C&S, urine cytology
+
++ cystoscopy
+
+Treatment
+« first line: patient education, dietary modifications, bladder retraining, stress management
+= pelvic floor physiotherapy can be added for patients with pelvic floor dysfunction or pelvic pain
++ second line: guided by symptom phenotype
+= oral: amitriptyline, cimetidine, hydroxyzine, pentosan polysulfate (PPS), gabapentin, quercetin
+= intravesical: dimethylsulfoxide, heparin, lidocaine, PPS, oxybutynin
++ third line: hydrodistension, botulinum toxin A, sacral neuromodulation
+= endoscopic treatment if Hunner’s lesions (cauterization, resection, triamcinolone injection)
++ fourth line: radical surgery (substitution cystoplasty or urinary diversion + cystectomy)
+
+Acute Pyeloneph
+
+Definition
+«+ infection of the renal parenchyma with local and systemic manifestations
++ dlinical diagnosis of flank pain, fever, and elevated WBC
+
+Etiology
++ ascending from lower UTI (usually Gram-negative bacilli) or hematogenous route (usually Gram-positive
+cocci)
++ causative microorganisms
+= Gram positives: Enterococcus faecalis, S. aureus, S. saphrophyticus
+= Gram negatives: E. coli, Klebsiella, Proteus, Pseudomonas, Enterobacter
++ common underlying causes of pyelonephritis
+= stones, strictures, prostatic obstruction, vesicoureteric reflux, neurogenic bladder, catheters, DM,
+sickle-cell disease, PCKD, immunosuppression, post-renal transplant, instrumentation, pregnancy
+
+Clinical Features
+
++ rapid onset (<24 h)
+
++ LUTS including frequency, urgency, hematuria; NOT dysuria unless concurrent cystitis
++ fever, chills, nausea, vomiting, myalgia, malaise
+
++ CVA tenderness and/or exquisite flank pain
+
+Toronto Notes 2025
+
+Cystoscopic evaluation is not necessary to
+make a diagnosis

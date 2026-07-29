@@ -1,0 +1,100 @@
+P12 Pediatrics
+
+etiology: developmental disorder or maturational lag in bladder control while asleep
+management
+«= time, reassurance (~20% resolve spontaneously each yr), and avoidance of punishment or humiliation
+to maintain self-esteem
+= behaviour modification (limiting fluids and avoiding caffeine-containing food before bedtime, void
+prior to sleep, ensure access to toilet, take out of diapers)
+conditioning: “wet” alarm wakes child upon voiding (70% success rate)
+medications: consider for short term (e.g. sleep overs or camps) in older children >7 yr, can use
+desmopressin (DDVAP Melt 120-360 1g) orally
+
+Secondary Enuresis
+
++ clinical features: enuresis develops after child has sustained period of bladder control (>6 mo)
+
+« etiology: inorganic regression due to stress or anxiety (e.g. birth of sibling, significant loss, family discord,
+sexual abuse), secondary to organic disease (UTI, DM, DI, sleep apnea, neurogenic bladder, CP, seizures,
+pinworms)
+
+management: treat underlying cause, specialist referral as appropriate
+
+Diurnal Enuresis
+
+jaytime wetting (60-80% also wet at night)
+
+etiology: micturition deferral (holding urine until last minute) due to psychosocial stressor (e.g. shy),
+structural anomalies (e.g. ectopic ureteral site, neurogenic bladder), UTI, constipation, CNS disorders, DM
+management: treat underlying cause, behavioural (timed voiding, double voiding, good bowel regimen/
+constipation management, drinking enough water, pelvic floor physiotherapy, pharmacotherapy as last
+resort)
+
+Encopresis
+
+clinical features: fecal incontinence ina child >4 yr, at least once per mo for 3mo
+
+prevalence: 1-1.5% of school-aged children (rare in adolescence); M:F=6:1 in school-aged children
+
+causes: chronic constipation (retentive encopresis), Hirschsprung disease, hypothyroidism, hypercalcemia,
+spinal cord lesions, CP, hypotonia, anorectal malformations, bowel obstruction
+
+Retentive Encopresis
++ definition: child holds bowel movement, develops constipation, leading to fecal impaction and seepage of
+soft or liquid stool (overflow incontinence)
++ etiology
+= physical: painful stooling often secondary to constipation
+= emotional: parent-child stress, coercive toilet training, social stressors
++ clinical features
+« history
+crosses legs or stands on toes to resist urge to defecate
+distressed by symptoms, soiling of clothes
+toilet training coercive or lacking in motivation
+may also hold urine
+may show oppositional behaviour
+abdominal pain
+= physical exam
++ digital rectal exam or abdominal x-ray: large fecal mass in rectal vault
++ anal fissures (result from passage of hard stools)
++ palpable stool in LLQ abdomen (50% of children with fecal incontinence)
++ staining of underwear with stool
++ management
+= bowel cleanout: can use high doses of PEG 3350, Pico-Salax, or PegLyte for cleanout
+= after cleanout use PEG 3350 + Senna to maintain regular bowel movements (see Corstipation, P46)
+= assessment and guidance regarding psychosocial stressors
+= behavioural modification
++ complications: recurrence, toxic megacolon (requires >3-12 mo to treat), bowel perforation
+
+.
+
+eeee
+
+.
+
+Toronto Notes 2025
+
+@
+
+Management and Treatment of Nocturnal Enuresis
+~ hn Updated Standardization Document from the
+International Children’s Continence Society
+Pediat Vol 2020;16(1):10-19
+
+‘ditional investigation are not warantedin
+
+an enuttic child without certain warning signs.
+
+Key comorbidities to consider indude psychiatric
+disorders, constipation, wrnary tractinection, and
+snoring o sleep apneas. Treating constipation and
+daytime incontinence can ead to symplomresoluton
+Treating concomitant sleep disorder may alsolead
+tosymplom resolution andisindicated,M enuresis
+
+is nan-monosymptomatic, treatment should begin
+with advice on evening drinking and voiding habits In
+‘monosymptomaticenress, treatment should begin
+with either desmopressin or an enuresis alarm, Second
+line reatmentindudes anticholinergic medications.
+Antidepressants may be considered in etractory
+‘enuresis though expert opinion shouldbe sought

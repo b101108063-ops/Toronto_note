@@ -1,0 +1,101 @@
+R23 Respirology
+
+Pulmonary Vasculitis
+
+Table 23. Pulmonary Vasculitis
+
+Disease Definition Pulmonary Features ExtraPulmonary _ Investigations Treatment
+Features
+Granulomatosis with Systemic vasculitis of Necrotizing Focal necrotizing CARICT: nodules, cavities, Corticosteroids and
+Polyangiitis (GPA, mediumand small arteries, granulomatous lesions lesionsof arteries and alveolar opacities cyclophosphamide or rituximab
+previously Wegener's most common pulmonary _of the respiratory and veins; may have c-ANCA (positive in 90%of Plasma Exchange (PLEX) is
+Granulomatosis) vasculitis ‘tract, which may lead nasal, sinus, andear cases) also used oftenin cases of
+(see Nephrology, to tracheal andior disease; cescentic —PR3 pulmonary hemorrhage, severe
+NP24, NP25 and bronchial stenosis, glomerulonephritis —_Tissueconfirmation renal failure, or concomitant
+P27) nodules, ILD, or Urinalysis: look for abnormal —_anti-GBM_
+alveolar hemorrhage sedimentation Prognosis with treatment
+is generally good (65-90%
+achieve full remission)
+Microscopic ‘Systemic vasculitis Cough, hemoptysis, Nonspecific fever, RAT Induction with corticosteroids
+Polyangiitis (MPA) without granulomatous dyspnea, pleuritic malaise,anorexia, —_p-ANCA and cyclophosphamide or
+inflammation, most pain. ‘weight loss, myalgia, Tissue biopsy rituximab
+‘commonly affects arthralgia. May have Urinalysis Plasma Exchange (PLEX) is
+‘small blood vessels, cutaneous, nasal, Serum creatinine also used oftenin cases of
+‘most commonly of the sinus and ear disease; pulmonary hemorrhage, severe
+respiratory tractand glomerulonephritis renal failure, or concomitant
+kidneys anti-GBM
+‘Ongoing maintenance with
+immnoseppresion
+Eosinophilic Multisystem disorder ‘Asthma (prodromal —_Life-threatening CXARcan often benormal 30- Corticosteroids
+Granulomatosis with characterized by allergic phase, usually occurs systemic vasculitis 60%) butcan see transient, Cyclophosphamide (Use Five
+Polyangiitis (EGPA, rhinitis, asthma, and before other systemic involving the lungs, patchy opacities Factor Scoreto determine need)
+Churg-Strauss) prominent peripheral features) pericardium and Peripheral eosinophiliais the or rituximab:
+eosinophilia Eosinophilic infiltrates heart, kidneys, most common finding With treatment, 90% of patients
+insmall-and- medium — skin, and PRS p-ANCA, myeloperoxidase ‘have clinical remission
+sized vessels (mononeuritis (MPO) may be positive
+multiplex) Biopsy involved tissue
+Anti-GBM Disease Adisorder characterized Alveolar hemorthage, Anemia CAR: may see alveolar ‘Acutely: corticosteroids,
+(Good pasture’s) by diffuse alveolar ‘which may present Acuterenal failure infiltrates plasmapheresis,
+(see Nephrology, hemorrhage and with dyspnea, cough, ELISA test with ant-GBM immunosuppressive therapy
+P24) glomerulonephritis caused hemoptysis. antibodies {first line cyclophosphamide)
+by anti-GBM antibodies, May follow influenza Renal biopsylindirect
+which cross-react with infection immunofluorescence shows
+basement membranes of linear staining
+‘the kidney and lung
+‘Systemic Lupus See Rheumatology, RH8,
+Erythematosus, RT, and RH
+Rheumatoid Arthritis,
+‘Scleroderma
+Pulmonary Edema
+
+« see Cardiology and Cardiac Surgery, C42
+
+Diseases of the Mediastinum and Pleura
+
+Mediastinal Masses
+« see General and Thoracic Surgery, GS20
+Mediastinitis
++ most common causes: postoperative complications of cardiovascular or thoracic surgical procedures
+
+Acute
++ etiology
+= perforation of esophagus or trachea - vomiting (Boerhaave’s syndrome), penetrating trauma, foreign
+body, instrumentation, erosion (e.g. carcinoma, infection)
+= direct extension of infection — dental, lung, pleura, pericardium, lymph nodes, paraspinous, pancreatic
+= postoperative (sternotomy or mediastinoscopy)
+= primary mediastinal infections (e.g. inhalational anthrax)
++ signs and symptoms
+= fever, substernal pain; often a dramatic and acute onset of symptoms, with irritability, restlessness, and
+a sense of impending doom
+= pneumomediastinum, mediastinal compression
+« Hamman’ sign (auscultatory “crunch” during cardiac systole)
++ treatment
+= antibiotics (IV vancomycin + 3rd gen cephalosporin), drainage, + surgical closure of perforation
+
+Toronto Notes 2025
+DDx of an Anterior Compartment Mass
+
+41s
+
+Thymoma
+
+Thyroid enlargement (goiter)
+Teratoma and other germ cell tumors.
+Terrible lymphoma
+
+Mediastinal Components
+Anterior: sternum to pericardium and great
+vessels. Includes: thymus, extrapericardial
+aorta and branches, great veins, lymphatic
+tissues
+
+Middle: pericardium (anteriorly), posterior
+pericardial reflection, diaphragm, thoracic
+inet. Inckides: heatt,intrapericardial great
+vessels, pericardium, trachea
+
+Posterior: posterior pericardial reflection,
+posterior border of vertebral bodies, first
+fib to the diaphragm. Includes: esophagus,
+vagus nerve, thoracic duct, sympathetic
+chain, azygous venous system

@@ -1,0 +1,159 @@
+Cardiology and Cardiac Surgery
+
+Toronto Notes 2025
+
+Cardiac Transplantation (@)
+
+treatment for end-stage heart failure
+
++ median survivals 12:5 yr, extending to 14.8 yr among 1-year survivors
+
+matching is according to blood type, body size and weight (should be within 25%), HLA tissue matching,
+and geographical considerations (to minimize ischemic time)
+
+Indications for Surgery
+
+«severe cardiac disability despite maximal medical therapy (e.g. recurrent hospitalizations for CHF,
+NYHA III or IV, peak metabolic oxygen consumption <14 mL/kg/min in absence of B-blocker) with a life
+expectancy of 12-18 mo
+
+* symptomatic cardiac ischemia refractory to conventional treatment (e.g. unstable angina not amenable to
+
+CABG or PCI with LVEF <20-25%; recurrent, symptomatic ventricular arrhythmias)
+
+high-risk HFSS
+
+«= HFSS is an algorithm that incorporates the patient's HR, serum sodium, ischemic cardiomyopathy,
+LVEF, peak myocardial oxygen consumption, MAP, interventricular conduction delay
+
+= patients with medium-risk (HFSS 7.2-8.1, 73% L-yr survival) and high-risk (HFSS <7.2, 43% 1-yr
+survival) benefit from cardiac transplant
+
++ cardiogenic shock requiring IV inotropic agents or mechanical circulatory support to sustain organ
+
+erfusion
+
+bxalusion of all surgical alternatives to cardiac transplantation
+
+Absolute Contraindications
+
+active alcohol use disorder or substance use disorder
+actively smoking
+
+coagulopathy
+incurable malignancy
+
+irreversible major organ disease
+
+irreversible pulmonary HTN (i.e. >5 Wood units, transpulmonary gradient <18 mmHg, or systolic
+pulmonary artery pressure >60 mmHg)
+
+major systemic illness
+
+mental illness or other cognitive factors likely to affect ability to adhere to post-transplant regimens
+repeated non-adherence to medications
+
+severe COPD (i.e, FEV: <1L)
+
+severe symptomatic cerebrovascular disease
+
+Relative Contraindications
+
+* active systemic infection
+
++ acute PUD
+
++ age >70yr
+
++ DM with end-organ disease
+
++ lack of family/social support
+
+obesity (>35 kg/m’)
+
++ significant symptomatic carotid disease or PVD
+
+Prerequisites
++ psychosocial stability
++ medically compliant and motivated
+
+Complications
++ rejection
+declining incidence with improved post-transplant immunosuppression regimens: <13% experience an
+episode that needs to be treated and <5% have serious hemodynamic compromise
+gold standard to detect rejection: endomyocardial biopsy
+risk of acute rejection is greatest during the first 3 mo after transplant
+hyperacute rejection (minutes to hours after transplant) due to ABO mismatch, acute rejection (days to
+months after transplant), or chronic rejection (years after transplant)
++ infection
+= leading cause of morbidity and mortality after cardiac transplantation
+«= risk peaks early during the first few months after transplantation and then declines to alow persistent
+rate
++ allograft vasculopathy
+= approximately 50% develop graft vasculopathy within 10 yr of transplantation
+= most common cause of late death following transplantation
++ malignancy
+= develops in 15% of cardiac transplant recipients due to immunosuppressive medication
+= second most common cause of late death following transplantation
+= cutaneous neoplasms most common, followed by non-Hodgkin lymphoma and lung cancer
++ medication side effects
+= immunosuppressives (e.g. prednisone, cyclosporine nephrotoxicity, tacrolimus) may have nephrotoxic
+effects
+
+Effects of Donor Pre-reatment with Dopamine
+‘on Survivalatter Heart Iransplantation: Cohort
+Study of Heart Transplant Recipients Nested ina
+Randomized Controlled Multientre Trial
+
+‘hm Cll Cardin 2010;58:768-1777
+Treatment of brain-dead donors with dopamine of 4
+g/min wil not harm cardiac allografts but appears
+toimprove the nical couse ofthe heart allograft
+recipient.
+
+Long Term Use ofa Left Ventricular Assist Device for
+EndStage Heart Filure
+
+NEM 2007 345:1435-143
+
+Increased survival of 23% vs. 8% wth LVAD vs. medical
+‘management of aftr 2yr
+
+Heartmate AD hasa biologic surface and, therefore,
+oes not require longterm anticoagulation bu confers
+abhigher isk of infection
+
+Canadian Cardiovascular SoietyFocused Position
+Statement Update on Assessment of the Cardiac
+Patient for Fitnessto Drive: Fines fllowingLeft
+Venicuar sss Device Implantation
+
+(an Cari 2012;28:137-0
+
+Patients witha continuous low VAD (NYHA class Hl}
+vio are stable 2m post LVAD implantation quay
+{ox pivate ring fn and are disqualified fom
+‘commercial driving,
+
+i)
+
+Canadian Cardiovascular Society/ Canadian Cardiac
+Transplant Network Postion Statement on Heart
+Transplantation: Patient lity, Selection, and
+Post Transplantation Care
+
+Can Cr diol 200;36: 35-56
+
+Selection Criteria: Cardiac transplantations
+recommended for consideration in patients 70 yt
+id. Foal patenting considered, an assessment
+fray with validated tool recommended Caution
+isrecommen ded foc patents with BM>35 LVAD
+implantation secommended fo eile patents with
+pulmonary hypertension on right heart catheterization,
+Finally, cardiac transplantation snotrecommen ded
+for patients show repeated nonadherence to
+medications, alcohol ori rug use, mentalilnes,
+andlor cogntive concerns that wl render patients
+unk toadhere to ost ransplantation regimens
+

@@ -1,0 +1,109 @@
+55 Hematology
+
+Indications for Packed RBC Transfusion
+
++ Hb <70 g/L; this may change as per patient's tolerance or symptoms
+= maintain Hb between 70 and 90 g/L during active bleeds
+
++ consider maintaining a higher Hb for patients with:
+= CAD/unstable coronary syndromes
+= uncontrolled, unpredictable bleeding
+
+Selection of Red Cells for Transfusion
++ when anticipating an RBC transfusion, the following should be ordered:
+= group and screen: determines the blood group and Rh status of the recipient as well as the presence of
+auto- or alloantibodies against major/minor blood group antigens in the patient’s plasma
+= cross-match: involves mixing the recipient’s blood with potential donor blood and looking for
+agglutination (takes 30-45 min)
++ when blood is required, several options are available
+= Ist-line: fully crossmatched blood, electronic crossmatch is becoming more widely used (not always
+available in emergency situations)
+= 2nd-line: donor blood of the same group and Rh status as the recipient
+«= 3rd-line: O- blood for females of reproductive age; 0+ blood for all others
+
+Platelets
+Table 36, Platelet Products
+Product Indication
+Random Donor (Pooled) Thrombocytopenia with bleeding
+‘Single Donor Platelets Potential BMT recipients, refractory to pooled platelets
+HLA Matched Platelets Refractory to pooled or single donor platelets, presence of HLA Abs:
+
++ stored at 20-24°C
+
++ random donor platelets come in a pool of 4 units; while a unit of apheresis platelets comes from a single
+donor
+
++ 1 platelet pool should increase the platelet count by 215 x 10°/L.
+
++ ifan increase in the platelet count is not seen post-transfusion: autoantibodies (i.e. ITP), alloantibodies
+(anti-HLA or anti-HPA), consumption (bleeding, sepsis, DIC), or hypersplenism may be present
+
+Table 37. Indications for Platelet Transfusion
+
+P(x 1071) Indications
+
+<0 Non immune thrombocytopenia
+
+20 Procedures notassociated with significant blood loss
+
+50 Procedures associated wit blood lossor major surgery (-500 ml estimated blood loss
+100 Pre-neurasurgery or head trauma
+
+Any Patelet dysfunction (or antiplatelet agents) and marked bleeding
+
+Relative Contraindications of Platelet Transfusion
++ TTP, HIT, post-transfusion purpura, and HELLP
+
+Coagulation Factors
+
+Table 38. Coagulation Factor Products
+
+Product Indication
+
+Pp Depletion of multiple coagulation factors (e.g. sepsis, DIC, dilution, TTPIHUS, liver disease), emergency reversal of life-
+threatening bleeding secondary to warfarin overdose when factor concentrates are nt available
+
+Cryoprecipitate (enriched fibrinogen, Hemophilia (Factor Vill deficiency) and vonWillebrand disease — use in emergencies when specific factor concentratesare
+
+WW, Vil, XI) not available
+Hypofibrinogenemia
+Fibrinogen Concentrate FC) Hypofbrinogenemia
+
+Humate Por Wilate von Willebrand disease and Hemophilia A
+Factor Vl deficiency (Hemophilia A)
+Factor IX deficiency (Hemophilia)
+
+Factor Vl deficiency with bleeding/surgery, Hemophilia A o Bwith inhibitors, Glanamann’s thrombasthenia
+
+Factor Villconcentrate
+Factor IXconcentrate
+Recombinant factor Vila
+Prothrombin complex concentrate; PCC Reversal of warfarin therapy or vitamin K deficiency in bleeding patient or inpatientrequiring urgent (<6 h surgical
+(Octaplex®, Beriplex®) procedure, urgentnon-specfic “reversal” of direct Xa inhibitors
+
+Activated prothrombin complex
+concentrate; aPCC (FIBA)
+
+Hemophilia or B with inhibitors
+
+Toronto Notes 2025
+
+‘American Society of Hematology
+Choosing Wisely Recommendation
+
+Do not transfuse more than the minimum
+number of RBC units necessary to relieve
+symptoms of anemia or to return the
+patient toa safe Hb range (70-80 g/L) in
+stable non-cardiac patients
+
+See Landmark Hematology Trials for
+‘more information on the FOCUS trial It
+details the efficacy of iberal or restrictive
+transfusion in high-risk patients after hip
+surgery
+
+Group & Screen vs. Cross-Matching
+G&S: ABO group + Rh factor
+Cross-Matching: match recipient's serum
+with donor's packed RBC or Abs

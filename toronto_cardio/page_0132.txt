@@ -1,0 +1,147 @@
+ca Cardiology and Cardiac Surgery
+
++ DDx can also be organized as follows:
+= new cardiac insult/disease: MI, arrhythmia, valvular disease, cardiotoxic chemotherapy
+new demand on CV system: HTN, anemia, thyrotoxicosis, infection
+medication non-compliance
+dietary indiscretion (e.g. salt intake)
+obstructive sleep apnea
+
+Investigations
++ identify and assess precipitating factors and treatable causes of CHF
+
+blood work: CBC, electrolytes (including K*, Na* and Mg”), blood urea nitrogen (BUN), Cr, fasting blood
+glucose, HbAlc, lipid profile, LFTs, serum TSH + ferritin, BNP (>100 pg/mL), NT-ProBNP, uric acid
+urinalysis
+ECG: ok for chamber enlargement, arrhythmia, ischemia/infarction
+CXR: cardiomegaly, pleural effusion, redistribution, Kerley B lines, bronchiolar-alveolar cuffing
+echo: systolic function (LVEF), diastolic function (E/A ratio, E/e’), cardiac dimensions, wall motion
+abnormalities, RV systolic pressure (from TR jet), valvular disease, pericardial effusion
+radionuclide angiography: LVEF
+myocardial perfusion scintigraphy (thallium or sestamibi SPECT)
+
+Additional Diagnostic Investigations
++ cardiac catheterization
+
++ cardiopulmonary exercise testing
+
++ other tests (CMR, MPI, MUGA, CT scan)
+
+Acute Treatment of Pulmonary Edema
++ treat acute precipitating factors (e.g. ischemia, arrhythmias)
+= LLasix’ (furosemide) 40-500 mg IV
+M morphine 2-4 mg IV: decreases anxiety and preload (venodilation)
+N nitroglycerin: topical/IV/SL - use with caution in preload-dependent patients (e.g, right HF or RV
+infarction) as it may precipitate CV collapse
+O oxygen: in hypoxemic patients
+P positive airway pressure (continuous positive airway pressure (CPAP)/bilevel positive airway pressure
+(BiPAP)): decreases preload and need for ventilation when appropriate
+= P position: sit patient up with legs hanging down unless patient is hypotensive
++ in ICU setting or failure of LMNOPP: other interventions may be necessary
+= nitroprusside IV
+«= hydralazine PO
+= sympathomimetics
+¢ dopamine
+— low dose: selective renal vasodilation (high potency D1 agonist)
+— medium dose: inotropic support (medium potency B1 agonist)
+— high dose: increases SVR (low potency B1 agonist), which is undesirable
+¢ dobutamine
+— f1-selective agonist causing inotropy, tachycardia, hypotension (low dose) or HTN (high
+dose); most serious side effect is arrhythmia, especially AFib
+= phosphodiesterase inhibitors
++ milrinone
+— inotropic effect and vascular smooth muscle relaxation (decreased SVR), similar to
+dobutamine
++ consider pulmonary artery catheter to monitor PCWP if patient is unstable or a cardiac etiology is
+uncertain (PCWP >18 indicates likely cardiac etiology)
++ mechanical ventilation as needed
++ rarely used, but potentially life-saving measures:
+= IABP - reduces afterload via systolic unloading and improves coronary perfusion via diastolic
+augmentation
+= LVAD/RVAD
+* cardiac transplant
+
+Long-Term Management
+
++ overwhelming majority of evidence-based management applies to HFrEF
+
++ currently no proven pharmacologic therapies shown to reduce mortality in HFpEF; control risk factors for
+HEpEF (e.g. HTN)
+
++ prevent fluid overload with appropriate diuretic strategies
+
+Conservative Measures
+
+symptomatic measures: oxygen in hospital, bedrest, elevate the head of bed
+
+lifestyle measures: diet, exercise, DM control, smoking cessation, decrease EtOH consumption, patient
+education, sodium, and fluid restriction
+
+multidisciplinary HF clinics: for management of individuals at higher risk, or with recent hospitalization
+
+Toronto Notes 2025
+
+BNP is secreted by Vs due to LV stretch
+and wall tension. Cardiomyocytes secrete
+BNP precursor that is cleaved into
+proBNP. After secretion into Vs, proBNP is.
+cleaved into the active C-terminal portion
+and the inactive NT-proBNP. The above
+scoring algorithm developed by Baggish
+et al. is commonly used. A score of <6
+has.a negative predictive value of 98%,
+while scores >6 hada sensitivity of 96%
+and specificity of 84% (P<0,009 for the
+diagnosis of acute HF
+
+NYHA Functional Classification of HF
+Class I: ordinary physical activity does not
+cause symptoms of HF
+
+Class Il: comfortable at res; ordinary
+physical activity results in symptoms
+
+(lass Ii: marked limitation of ordinary
+activity; less than ordinary physical activity
+results in symptoms
+
+(lass IV: inability to carry out any physical
+activity without discomfort; symptoms may
+be present at rest
+
+Five Most Common Causes of CHF
+CAD (60-70%)
+HIN
+
+Idiopathic (often DCM)
+Valwilar (e.g. AS, AR, and MR)
+EYOH (DCM)
+
+Precipitants of HE
+
+HEART FAILED
+
+HIN (common)
+Endocardits/environment (e.g. heat
+wave)
+
+Anemia
+
+Rheumatic heart disease and other
+valvular disease
+
+Thyrotoxicosis
+
+Failure to take medications (very
+common)
+
+Arrhythmia (common)
+Infection/Ischemia/Infarction (common)
+Lung problems (PE, pneumonia, COPD)
+Endocrine (pheochromocytoma,
+hyperaldosteronism)
+
+Dietary indiscretions (common)
+
+The most common cause of right HF is
+‘eft

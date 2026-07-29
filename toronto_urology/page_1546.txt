@@ -1,0 +1,62 @@
+U6 Urology
+
+Investigations
++ U/A, urine C&S
++ CBCand differential: leukocytosis, left shift
++ imaging if complicated pyelonephritis or symptoms do not improve with 48-72 h of treatment
+= abdominal/pelvic U/S
+= CT
++ nuclear medicine: DMSA scan can be used to help secure the diagnosis
+= aphotopenic defect indicates active infection or scar; if normal alternative diagnoses should be
+considered
+
+Treatment
++ hemodynamically stable
+= outpatient oral ABx treatment + single initial IV dose (see Table 8, U13)
++ severe or non-resolving
+= admit, hydrate, and treat with IV ABx (see Table 8, U13)
++ emphysematous pyelonephritis
+= most patients receive nephrectomy after IV ABx started and patient stabilized
+= consider temporization with nephrostomy tubes
++ renal obstruction
+= admit for emergent stenting or percutaneous nephrostomy tube
+
+Prostatitis/Prostatodyni:
+
+Epidemiology
++ prevalence: 9% of men/yr, 6% with bothersome symptoms
++ most common urologic diagnosis in men <50 y/o, 3rd most common in men >50 y/o
+
+Classification
+Table 9. Comparison of the Four Types of Prostatitis
+
+‘cuteBacteral Prostatitis ‘Chronic Bacterial Prostatitis ChronicPelvicPainSyndrome Asymptomatic Prostatitis
+(Category!) (Category tl) {Category ll) (Category IV)
+Etiology Acute infection Chronicinfecions prostatitis Symptomswithout evidence of Incidental inflammation
+SEEK PP (BO%E. coll symptoms infection
+IWAinflammatory
+I8:non inflammatory
+Clinical Features LUTS, pelvic pain UTS, pelvic pain UTS, pelvic pain No symptoms
+Systemic sgns:fever, chils,malaise No systemic signs Ileukocytosisin prostatic fluid Leukocytosisinprostatcfuid
+Leukocytosis inprostatictluid Recurrent UIls IB:no leukocytosis in prostatic
+Positive bacterial cultures Leukocytosis in prostatic fluid fluid
+Positive bacterial cultures
+Investigations Hx, /E(abdominal extemal genitalia, Hx, PIE(sameasCategoryl+ Hx, PE (same as No investigationsunless
+perineum, prostate) pelvic floor) Category Il) considering ABx for elevated PSA
+U/A, urine C&S. Aglass test for culture: Symptom score (NIH-CPSI") or infertility
+TRUSif suspect abscess ¥B1 (urethra) ‘A-glasstest
+VB2 (bladder) Consider psychological assessment
+PS (post-massage)
+¥B3 post massage)
+Treatment ‘ABx (see Table 8, U13) ‘Bx (see Table 8 U13) Supportive measures. ABxif elevated PSA, infertility, or
+Catheterization if severe obstructive _a-blockerif obstruction ‘ABxif ABx naive planned prostate biopsy
+Drainage if abscess ispresent Multimodal therapy based on
+UPOINT phenotype
+Including:
+a-blockers, anti-inflammatories,
+and phytotherapy (quercetin,
+cemilton)
+
+“NIH-CPSI: National Institute of Health Chronic Prostatitis Symptom Index
+
+Toronto Notes 2025

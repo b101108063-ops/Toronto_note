@@ -1,0 +1,149 @@
+PH25
+Steps to Control an Outbreak
+
+Table 10. Ten-Step Approach
+
+Public Health and Preventive Medicine
+
+Steps
+
+Details
+
+1. Identity the investigation team and resources
+
+2. Establish existence of an outbreak
+
+13. Verify the diagnosis
+
+4. Definea case
+
+5, Find cases systemically and create aline ist
+
+6, Perform descriptive epidemiology and develop hypotheses
+
+7. Evaluate hypotheses and conduct additional studies as needed
+
+8, Implement control measures
+9. Communicate findings
+
+10. Continue surveillance
+
+Local public health units (e.g Toronto Public Health)
+Provincial level e.g. Pubic Health Ontario, Ministry of Health)
+
+Federallevel (e.g. PHAC)
+
+Compare the observed number of cases during the suspected outbreak tothe expected
+umber of cases expected during a non-cutbreak time frame
+
+(€.g-receivinga report of a vomiting baseball teamaftera team dimer a a restaurant)
+
+Obtain medical recordsand lab reports
+Conduct further clinical testing as needed
+
+3 components: Person, Place, Time (¢.9. “Confirmed case: Person with XYZsigns and
+symptoms...withtestresult ABC...ccurred after visiting location LM... during months!
+year’)
+
+Conduct passive andlor active surveillance for new cases
+
+‘ine list should include cinical information (signs/symptoms, onset timesidates,
+‘demographic infomation, andexposure informationfor eachcase
+
+Conduct analysis to describe cases (Person, Pace, Time)
+Create epidemic curves (see Figure'16)
+Case-control studies: useful when not everyone exposed canbe foundand included in
+
+the study
+Cohort studies: useful when all persons exposed canbe induded inthe study
+
+Can occur at any stagein anouthreak e.g. isolation, vacination of susceptible persons)
+
+‘ert HCPs to recognize signs andsymptomsand order relevant dagnostictestsif anew
+caseis suspected
+
+Involve the mediato address public concerns and cal for publicacton (e.g. get
+vaccinated)
+
+Determine when the outbreakis over
+Document the effectiveness of control measures
+
+‘Source: Adapted from Moore Outbreak Investigations: The 10-Step Approach [Intemet. North Carolina: Goverment of Worth Carona; (updated 2019 Dec 16; cited 2020 Jun 20). Available
+
+‘rom: tpssep.dph.ncs. gov
+
+Communicable Disease Control Targets
+
++ interventions should target host, agent, environment, and their interactions
+
+host
+age, immune
+response,
+susceptibility
+
+DISEASE
+
+environment
+climate, physical
+structures, population
+density
+
+agent
+virulence, toxicity,
+ability to survive
+outside body
+
+nutrition, rs
+sickle cell trait >
+antimalarials, 5
+proper nutrition :
+/ \ educate,
+Deer avoid exposed
+> Z_ skin at dusk
+MALARIA
+Plasmodium remove stagnant tropical,
+falciparum — ‘water sources. Stagnant water
+eradicate, ‘mosquito netting on homes
+genetically modity
+
+Figure 17. Epidemiology triad as framework for infection control interventions: practical example using malaria
+
+Infection Prevention and Control
+
++ Infection Prevention and Control (IPAC) refers to evidence-based practices and procedures that,
+when applied consistently in health care settings, can prevent or reduce the risk of transmission of
+microorganisms to HCPs, clients, patients, residents and visitors
+
+Routine Practices
+
++ the system of IPAC practices recommended by the Public Health Agency of Canada to be used with all
+clients/patients/residents during all care to prevent and control transmission of microorganisms in all
+
+health care settings
+
++ basic elements include: risk assessment, hand hygiene, personal protective equipment, environmental
+controls (e.g. cleaning, placement, engineering controls), administrative controls (e.g. policies and
+procedures, staff education, monitoring of compliance with feedback)
+
+Toronto Notes 2025
+
+Figure 16. Epidemic curves
+
+‘Number of Cases
+
+Day of Onset,
+
+Figure 16a. Poiont source epidemic
+curve
+
+THTTITIT Hhee ae
+
+Day of Onset
+
+Figure 16b. Continuous source
+epidemic curve
+
+Day of Onset
+
+Figure 16c. Propagated source
+epidemic curve

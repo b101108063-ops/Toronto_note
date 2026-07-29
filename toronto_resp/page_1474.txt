@@ -1,0 +1,179 @@
+R20 Respirology
+
+Signs and Symptoms
+Table 20. Signs and Symptoms of Pulmonary Hypertension
+
+Symptoms Signs
+Dyspnea Loud, palpable P2
+
+Fatigue BV heave
+
+Retrosternal chest pain Right idedS4 (due toRVH)
+
+Syncope Systolic murmur (tricuspid regurgitation (TR)
+
+‘Symptoms of underlying disease
+Peripheral Edema
+
+Palpitations
+
+“Physical exammay be unremarkable in early dsease
+
+I right ventricular failure: right sided S3, increased JVP, positive hepatojugulr reflux, peripheral edema, TR
+Signs of underlying disease
+
+Diagnosis
++ exclude:
+« left heart disease
+= lung disease
+«= chronic thromboembolic disease
+= diseases in Group V PH
+= known causes of Group I PAH
+connective tissue diseases
+drugs/toxins
+congenital heart disease
+HIV
+schistosomiasis
+liver disease
+heritable disease
+PVOD/pulmonary capillary hemangiomatosis (PCH)
+
+Investigations
+
++ CXR: enlarged central pulmonary arteries, cardiac changes due to right ventricular enlargement (filling of
+retrosternal air space)
+
+ECG: RV Hiright-sided strain (see Cardiology and Cardiac Surgery,
+
+2-D echo doppler assessment of right ventricular systolic pressure
+
+right heart catheterization: to confirm diagnosis through direct measurement of mean pulmonary arterial
+
+pressure, pulmonary capillary wedge pressure, pulmonary vascular resistance, and cardiac output
+
+PFTs to assess for underlying lung disease: DLCO usually reduced; volumes and flows normal
+
+CT angiogram to assess lung parenchyma and possible PE
+
+V/Q scan + pulmonary angiogram to rule out thromboembolic disease
+
+serology: ANA positive in 30% of patients with primary pulmonary HTN; other serologic markers can be
+
+used in the appropriate clinical setting
+
++ routine blood work: biochemistry, CBC, TSH, liver function tests, possible HIV test
+
+» C7)
+
+Treatment
++ treatment depends on classification (see Table 19, R19)
+
+Prognosis
+
++ morbidity and mortality are high but depend on underlying condition
+
++ survival decreases to approximately 1 yr if severe pulmonary HTN (with rapid progression of symptoms,
+frequent syncope, and advanced WHO functional class), or right heart failure
+
+bo
+
+Pulmonary
+
+Definition
++ mechanical obstruction of the pulmonary vasculature leading to obstruction of blood flow
++ can be classified as acute, subacute, or chronic depending on presentation of symptoms relative to time
+after initial event
+= an acute PE can also be classified as massive, sub-massive, or low-risk PE
+
+Etiology and Pathophysiology
+
++ lower extremity deep vein thrombi are the source of most clinically recognized PEs
+
++ less common causes include fat emboli, septic emboli, amniotic fluid emboli, tumour thrombi, and air
+emboli
+
++ thrombi often start in calf, but must propagate into proximal veins to create a sufficiently large thrombus
+for aclinically significant PE
+
+Epidemiology
+
++ one of the most common causes of preventable death in the hospital
+
++ VTE affects approximately 1-2 in 1000 adults per yr with approximately one third of first VTE presentations
+being due to PE
+
+Toronto Notes 2025
+
+Multidetector Computed Tomographyfor Acute
+Pulmonary Embolism (PIOPED Il Trial)
+NEJM2006;354.2317-2321
+
+Study: Muticente, prospective study
+
+Population: 824 patients with dinically suspected
+ate PE
+
+Measurements: Accuracy muitidetetorTAalone
+and combined wth venous-phase imaging
+utoomes:Diagnsis of PE
+
+Results: 773 of 824 patients had adequate CTAsfor
+interpretation. PEwas diagnosed in 192 ofthe 824
+patients. Sensitivity was B3% (15018 patients,
+95% C10.160.92 and specifiy was 96% (367
+
+of 592 patients, 95% C10.93-09), However, the
+predictive vale of CTH-CT varied when nial pretest
+probability was taken into account, PPV of CTA for high,
+intermediate, and low incl probability were 96%
+(95% C10.78-0,99), 92% (95%C10.84-0.99), and 58%
+(95% C10.40-073, respectively NPV of CTAfor high,
+intermediate and low incl probability were 60%
+(95% C10.32-083), 89% (95% (1082-09), and 96%
+(95% C10.92-0.98)respectivel.
+
+Conclusion: CTAiseffectvetor diagnosing or excluding
+PEinaccordance with assessment of clinical pretest
+probability, When clinical probability isinconsistent
+with imaging results, futher investigations are
+required true out PE
+
+D-dimer is elevated in patients with
+increased age, recent surgery, CA,
+inflammation, infection, pregnancy, and
+severe renal dysfunction. It has good
+sensitivity and negative predictive value,
+but poor specificity and positive predictive
+value
+
+Classic ECG finding of PE is S1-03-13
+{inverted T3), but most commonly only
+sinus tachycardia is seen
+
+)
+
+Clinical Prediction Rule for Pulmonary
+Embolism
+J Thromb Hemost 2000;83:416-420
+Wells cri
+RiskFactos| Points
+Cinicalsigns of DVT 30
+Nomorelitey altenativediagnoss 30
+Inmobiizationorsurgery in previowsAwk 1.5,
+Previous PEIOVT 15
+HR>-100beatsmin 15
+Hemoptysis 10
+Malignancy 10
+Cinicat Probability
+low (02) %
+Intermediate (3-6) 2%
+igh 66) Bs
+
+Modified Wels'>4PEtiel; <4PE unlikely
+JAMA 2006
+
+Virchow’s Triad
+Venous stasis
+
+Endothelial cell damage
+Hypercoagulable states

@@ -1,0 +1,188 @@
+PH3L Public Health and Preventive Medicine
+
+Taking an Occupational History
+
++ current and previous duties at place of employment
++ exposures
+= identification: screen for chemical, (e.g. metals, dusts), biological, and physical, ergonomic hazards as
+well as psychological stressors - workers may bring safety data sheets (formerly MSDSs) that provide
+information about chemical exposures
+= assessment: duration, concentration, route, exposure controls (e.g. ventilation and other environmental
+controls, personal protective equipment)
++ temporal relationship: changes in symptoms in relationship to work environment, latency between first
+exposure and current symptoms
++ presence of similar symptoms in co-workers
++ non-work exposures to hazardous agents: home, neighbourhood, hobbies
++ additional assessment may be required (e.g. chest radiography, ultrasound, pulmonary function tests)
+
+Occupational Hazards
+
+Table 13. Occupational Hazards
+
+TypeofHazard Examples and Associated Health Effects
+
+Physical Noise: hearingloss
+Non ionizing radiation (e.g.ultraviolet, visible light, microwaves, radio waves): issue heating (thermal effects) and photochemical reactions to
+theskinand retina ofthe eye
+
+lonizing radiation (e.g. x-rays, gamma rays): cancer
+Temperature extremes: hypo- of hyperthermia, heat stroke, heat cramps, heat exhaustion
+Air pressure: barotrauma, decompression sickness
+Vibrations from heavy machinery: Hand am vibration syndrome
+Chemical Heavy metals e.g. mercury, lead: specific syndromes suchas mercury and lead poisoning
+Gases:
+
+Carbon monoxide: chemical asphyxiation
+
+Benzene: acute myebid leukemia with prolonged exposure
+
+Particulates:
+
+Asbestos: asbestosis, mesothelioma
+
+Coal: pneumoconiosis
+
+Silica: silicosis
+
+Detergents and other weak cleaning agents: irritantcontact dermatitis
+Biological Insect and animal ites: Malaria WestNile Virus, Rabies
+Mold: Farmer's lng (ypersensitivty peumorits)
+Blood and other body fluids: HIV, Hepatitis B&C
+
+Work-related stressors:
+Responsibility
+Fear of ob loss
+‘Geographical solation
+Shift work
+Bullying
+Harassment (sexual/non-sexual)
+Violence
+The above psychosocial hazards canincura highcostfrom absenteeism, poor productivity, mentlilhess (9, post-traumatic stress disorder).
+
+Psychosocial
+
+Ergonomic Improper lighting: headaches, dizziness, work-related accidents
+Manual materials handling (e.g lifting, lowering, pushing, pulling carrying items): musculoskeletal disorders
+Continuous sitting and standing: musculoskeletal disorders
+
+Shift Work:insomnia, fatigue
+
+Safety Working from heights
+Slips, tips, falls
+
+Heavy machinery (e.g. tractors, forklifts)
+
+Tools (hammers, saws, etc.)
+
+Driving
+
+Electrical
+
+Ladders
+
+The above safety hazard can lead to severe injury and death.
+
+Workplace Legislation
+
++ universal across Canada for corporate responsibility in the workplace: reasonable precautions to ensure
+a safe workplace, application of Workplace Hazardous Materials Information System (WHMIS), and
+existence of joint health and safety committees in the workplace with representatives from workers and
+management
+
++ jurisdiction in Canada is provincial (90% of Canadian workers), except for 16 federally-regulated industries
+(e.g. airports, banks, highway transport) under the Canada Labour Code
+
++ Ontario’s Occupational Health and Safety Act
+
+= sets out rights of workers and duties of employers, procedures for workplace hazards, and law
+enforcement
+
+Toronto Notes 2025
+
+ath
+
+eg. driverless car
+
+=
+
+e.g, replace with train
+
+©
+
+e.g. airbags
+
+Most Effective
+
+Elimination
+ally remo
+hazard
+
+e.g. tratficlaws
+
+PPE
+Protect worker with
+protective equipment
+eg, seatbets
+krsten Browne 20%6
+
+Least Effective
+
+Figure 18. Hierarchy of controls for
+reduction of occupational exposures
+Source: Modified fom COC, 2015, Hierarchy of conto
+htp she. gownioshtopicsierarchy!
+
+s)
+
+Occupational Safety And Health Enforcement Tools,
+ForPreventing Occupational Diseases Andinutes,
+Cochrane DBSyst ev 201380010183
+
+Purpose: Toasess the effects occupationaafety
+andheatth equation enforcement tools for preventing
+occupational diseases and injures.
+
+‘Outcome: Inspections decrease injuries in thelong
+‘term, but not short term, with an unclear magnitude
+of effedt.
+
+Ontario's Workplace Safety and Insurance
+Act (each province will have their own
+corresponding legislation)
+
+Establishes Workplace Safety and
+Insurance Board (WSIB), an autonomous
+government agency that oversees
+workplace safety traning and administers
+insurance for workers and employers
+
+WSIB decides benefits for workers, which
+‘may include reimbursement for:
+Loss of eared income
+
+Non-economic loss (e.g. physical,
+functional, or psychological loss
+extending beyond the workplace)
+Loss ofretirementincome
+
+Health care expenses (eg. first-aid,
+‘medical treatment)
+
+‘Survivor benefits (e.g. dependents and
+spouses can receive benefits)
+Employers pay for costs (e.g. no
+government funding)
+No-fault insurance (e.g, worker has no
+right to sue the employer) in return for
+guaranteed compensation for accepted
+daims
+
+Negligence is not considered a factor
+Physicians are required to provide the
+\WSIB with information about a worker's
+health without a medical waiver once a
+daimis made
+
+For more information: httpsiwwwsrsb.oncafen!
+community WSIB
+

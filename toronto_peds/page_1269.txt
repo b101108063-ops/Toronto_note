@@ -1,0 +1,86 @@
+P73 Pediatrics
+
+Differential Diagnosis
++ interm infants, apnea requires full septic workup (CBC and differential, blood and urine cultures + LP,
+CXR, head imaging)
++ other causes
+= CNS: seizures, ICH
+apnea of prematurity (<34 wk): CNS immaturity; resolves by 36 wk GA
+hypoxic injury
+infectious: sepsis, meningitis, NEC
+GI: GERD, aspiration with feeding
+metabolic: hypoglycemia, hyponatremia, hypocalcemia, inborn error of metabolism
+cardiovascular: anemia, hypovolemia, PDA, heart failure
+medications: morphine
+
+Management
+
+2, ventilatory support, maintain normal blood gasses
+
+tactile stimulation
+
+address underlying cause
+
+medications: methylxanthines (caffeine) stimulate the CNS and diaphragm and are used for apnea of
+
+prematurity (not in term infants)
+
++ ifapnea of prematurity is diagnosed, infants should receive cardiorespiratory monitoring in a neonatal
+intensive care unit and all babies need an apnea-free period of time prior to discharge
+
+Bleeding Disorders in Neonates
+
+Clinical Features
+
++ oozing from the umbilical stump, excessive bleeding from peripheral venipuncture/heel stick sites/IV
+sites, large caput succedaneum, cephalohematomas (in absence of significant birth trauma), subgaleal
+hemorrhage, and prolonged bleeding following circumcision
+
+Etiology
+
++ 4major categories
+
+increased platelet destruction: maternal ITP or SLE, infection/sepsis, DIC, neonatal alloimmune
+thrombocytopenia, autoimmune thrombocytopenia
+
+decreased platelet production/function: pancytopenia, bone marrow replacement, Fanconi anemia,
+Trisomy 13 and 18
+
+metabolic: congenital thyrotoxicosis, inborn error of metabolism
+
+coagulation factor deficiencies (see Hematology, H55): hemophilia A/B, VKDB
+
+NEONATAL ALLOIMMUNE THROMBOCYTOPENIA
+
+Definition
+
++ maternal antibodies directed towards neonatal platelets, causing thrombocytopenia (platelets <150,000/uL)
+
+Epidemiology
++ Lin 4000-5000 live births
+
+Pathophysiology
+
++ platelet equivalent of Rh disease of the newborn
+
++ occurs when mother is negative for HPA and fetus is positive
+
++ development of maternal IgG antibodies against HPA antigens on fetal platelets
+
+Clinical Features
++ petechiae, purpura, thrombocytopenia in otherwise healthy neonate
++ severe disease can lead to intracranial bleeding
+
+Diagnosis
++ maternal and paternal platelet typing and identification of platelet alloantibodies
+
+Management
++ IVIG to mother prenatally starts in second trimester + steroids + fetal platelet transfusions
+
++ platelet transfusion is the mainstay of treatment. HPA specific (e.g. HPA-1a negative) platelets are preferred,
+
+however can use random donor platelets. Maternal washed platelets are effective but practically often not
+feasible
+concomitant IVIG treatment could be considered (insufficient evidence to support routine use)
+
+Toronto Notes 2025

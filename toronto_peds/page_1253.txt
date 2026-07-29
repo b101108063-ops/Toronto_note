@@ -1,0 +1,91 @@
+P57 Pediatrics
+
+Clinical Features
+
++ 80% present with asymptomatic, unilateral abdominal mass
+
++ may also present with HTN, gross hematuria, abdominal pain, vomiting, fever, UTI, anemia
+
++ may have pulmonary metastases at time of diagnosis (although children rarely present with respiratory
+symptoms)
+
+Differential Diagnosis
++ hydronephrosis, polycystic kidney disease, renal cell carcinoma, neuroblastoma, clear cell sarcoma of the
+kidney (second most common pediatric renal tumour)
+
+Investigations
+
++ CBC, electrolytes, Cr, BUN, urinalysis, coagulation studies
+
++ imaging: U/S to establish presence of a renal tumour, contrast-enhanced CT or MRI chest/abdomen/pelvis
+to evaluate extend of the mass or lung metastases
+
+Management
++ treatment depends on staging, histological classification, and molecular studies
++ staging + nephrectomy and chemotherapy
++ radiation for more advanced stages of disease
++ 2 major approaches to treatment:
+= Children’s Oncology Group (COG): recommends removal or biopsy first
+« International Society of Pediatric Oncology (SIOP): recommends chemotherapy first
+
+Prognosis
++ >95% 5-yr survival
++ prognostic factors include tumour histology and size, molecular and genetic markers, age
+
+Neuroblastoma
+
+Epidemiology
+* most common cancer occurring in first yr of life; average age at diagnosis is 2.5yr
++ neural crest cell tumour arising from sympathetic tissues (neuroblasts)
+
+Clinical Features
+* can originate from any site in sympathetic nervous system, presenting as mass in neck, chest, or abdomen
+(most common site is adrenal gland)
++ signs and symptoms of disease vary with location of tumour
+= thoracic: dyspnea, Horner’s syndrome
+= abdomen: palpable mass, pain, constipation, enuresis
+= paravertebral: spinal cord compression, localized back pain, weakness
++ metastases are common at presentation (>50% present with advanced stage disease):
+= usually to bone or bone marrow (presents as bone pain, limp)
+= can also present with periorbital ecchymoses, abdominal pain, emesis, fever, weight loss, anorexia,
+hepatomegaly, “blueberry muffin” skin nodules
++ paraneoplastic: HTN, palpitations, sweating (from excessive catecholamines), diarrhea, FTT (from
+vasoactive intestinal peptide secretion), opsomyoclonus
+
+Investigations
+
++ CBC, electrolytes, urinalysis, serum/urine catecholamine metabolites (HVA and VMA), Cr
+
++ imaging: MRI or CT, MIBG scan
+
++ biopsy: required for definitive diagnosis and classification
+
++ definitive diagnosis needs one of the following:
+= unequivocal histologic diagnosis from tumour tissue (i.e. small round blue cells, pseudorosettes)
+= evidence of bone marrow metastases on aspirate biopsy with elevation of urinary/serum
+
+catecholamines or metabolites
+
+Management
++ depends on prognostic factors and may include combination of: surgery, radiation, chemotherapy,
+autologous stem cell transplantation, immunotherapy
+
+Prognosis
+* prognosis is often poor due to late detection
++ good prognostic factors
+
+= “age and stage” are important determinants of better outcome: <18 mo, stage I, II, IV-S disease (“S”
+
+designates a “Special” classification only pertaining to infants)
+
+«= primary site: posterior mediastinum and neck
+
+= more differentiated histology
+
+= tumour cell markers: aneuploidy, absent MYCN oncogene amplification
+
+Bone Tumours
+
+«+ see Orthopedic Surgery, OR50
+
+Toronto Notes 2025

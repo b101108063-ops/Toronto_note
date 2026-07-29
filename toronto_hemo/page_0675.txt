@@ -1,0 +1,89 @@
+H21 Hematology Toronto Notes 2025
+
+B-Thalassemia Intermedia
+
+Definition
++ clinical diagnosis in patients whose clinical manifestations are too mild to be classified as B-thalassemia
+major, but too severe to be classified as B-thalassemia minor
+
+Clinical Features
+
++ wide variety of clinical phenotypes
+
++ inmost cases of B-thalassemia intermedia, both B-globin genes are affected
+
+three main mechanisms account for the milder phenotype compared to f-thalassemia major: (1) subnormal
+(vs. absent) B-chain synthesis, (2) increased number of y chains, and (3) coinheritance of a-thalassemia (in
+some cases)
+
+complications more commonly seen in B-thalassemia intermedia than B-thalassemia major include
+extramedullary hematopoiesis, leg ulcers, gallstones, thrombosis, pulmonary hypertension, and growth
+retardation
+
+Treatment
+
+most patients only require periodic transfusions, although regular transfusions may eventually be
+necessary in adulthood (third to fourth decade of life)
+
+folic acid supplementation if not transfused
+
+iron chelation therapy may be needed to mitigate iron overload from ineffective erythropoiesis and
+subsequent hepcidin downregulation via erythroferrone. Liver iron concentration (LIC) can be assessed
+with an MRI, chelation should be considered if LIC >5 mg/g
+
+a-Thalassemia
+
+Definition
++ defect(s) ina genes
++ similar geographic distribution as B-thalassemia, but higher frequency among Southeast Asians and Africans
+
+Clinical Features
++ one defective a gene (aa/a-): clinically silent; normal Hb, normal MCV
++ two defective a genes (cis: aa/-- or trans: a-/a-): normal Hb, decreased MCV
+= N.B. cis 2-gene deletion more common in Asia vs. trans 2-gene deletion more common in Africa - this
+leads to increased risk of fetal hydrops in offspring of patients from Southeast Asia vs. Africa
++ three defective a genes (a-/--): HbH (B4) disease; presents in adults, decreased Hb, decreased MCV, and
+splenomegaly
++ four defective a genes (--/--): Hb Barts (y4) disease (hydrops fetalis); usually incompatible with life
+
+Investigations
+
++ CBC and iron studies (for iron overload)
+
++ peripheral blood film - screen for HbH inclusion bodies with supravital stain
+
++ Hb electrophoresis can be used to identify HbH disease, but may miss 1- or 2-gene deletions; definitive
+diagnosis with DNA genotyping
+
+Treatment
++ referral for genetic/prenatal counselling
+
++ depends on degree of anemia > Be
+= 1 or 2 defective a genes: no treatment required Lt
+«= HbH disease: similar to B-thalassemia intermedia t blood + p0:
+« Hb Barts: no definitive treatment Viscosity
++ majority of pregnancies terminated (fetal/maternal mortality risk) t Lt
+rT Distorted RBC
+¢ intrauterine transfusion, stem cell transplants stored RB sags
+ie .
+Sickle Cell Disease | Hos |" 00"
+polymers
+Definition earn
++ autosomal recessive sickling disorders are most commonly caused by a Glu > Val substitution at position 6
+of the B-globin chain (chromosome 11) resulting in HbS variant, rather than HbA (normal adult Hb) Figure 8. Pathophysiology of
+= increased incidence of HbS allele in patients with Sub-Saharan African, Indian, Middle Eastern, or sickling
+Mediterranean heritage (thought to be protective against malaria)
++ SCD occurs when an individual has two HbS genes (homozygous, HbSS) or one HDS gene + another mutant
+B-globin gene (compound heterozygote) - most commonly HbS-f-thal and HbSC disease @
+Pathophysiology Functional Asplenism: increased
+
++ at low pO», deoxyHbS polymerizes leading to rigid crystal-like rods that distort membranes > ‘sickles’
++ the pO: level at which sickling occurs is related to the percentage of HbS present
+
+0 infection by encapsulated
+
++ sickling is aggravated by acidemia, increased COs, increased 2,3-DPG, fever, and increased osmolality rate
++ fragile sickle cells then cause injury in two main ways: H. influenzae
+1. fragile sickle cells hemolyze (nitric oxide depletion) Salmonella (osteomyelitis)
+
+2. occlusion of small vessels (hypoxia, ischemia-reperfusion injury)

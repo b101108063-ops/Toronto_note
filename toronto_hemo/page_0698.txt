@@ -1,0 +1,189 @@
+H44 Hematology
+
+. erythromealga (burning pain in hands and feet and erythema of the skin)
+= associated with platelets >400 x 10°/L
+= pathognomonic microvascular thrombotic complication in PV and ET
+
+. pe ritus, especially after warm bath or shower (40%) due to cutaneous mast cell degranulation and
+istamine release
+
++ epigastric distress, PUD
+= due to increased histamine from tissue basophils, alterations in gastric mucosal blood flow due to
+
+increased blood viscosity
+
++ gout (hyperuricemia), due to increased cell turnover
+
++ characteristic physical findings
+= plethora (ruddy complexion) of face (70%), palms
+= splenomegaly (70%), hepatomegaly (40%)
+
+Investigations (see Eythroytosis, 17)
++ must rule out secondary polycythemia if high EPO level
+
+Treatment
+
++ phlebotomy to keep hematocrit <45%
+
++ hydroxyurea (prior thrombosis or symptoms, severe coronary artery disease, refractory to phlebotomy, age >60)
++ ruxolitinib for those with insufficient response or intolerance to hydroxyurea
+
++ interferon-a: used for cytoreduction in pregnancy
+
++ low-dose ASA (for antithrombotic prophylixis, will also treat erythromelalgia)
+
++ anticoagulation: if history of thrombosis
+
++ allopurinol: as needed
+
++ antihistamines: as needed
+
+Prognosis
++ 10-20 yr survival with treatment
++ complicated by thrombosis, hemorrhage, leukemic transformation (AML)
+
+Myelofibrosis
+
+Definition
+
++ excessive BM fibrosis leading to marrow failure
+
+characterized by anemia, extramedullary hematopoiesis, leukoerythroblastosis, teardrop red cells in
+
+peripheral blood, and hepatosplenomegaly
+
+myelofibrosis can be primary or secondary (post-PV or post-ET)
+
+diagnosis (WHO 2022) requires all 3 major criteria and >1 minor
+
+= Major Criteria
+
+1, megakaryocyte proliferation & atypia accompanied by either reticulin and/or collagen fibrosis grade
+2or3
+
+2. not meeting WHO criteria for CML, PV, ET, MDS, or other myeloid neoplasm
+
+3. presence of a clonal marker such as JAK2, CALR, or MPL mutations; in the absence, presence of
+another marker (ASXL1, EZH2, TET2, IDH, SRSF2, SF3B1), or absence of reactive causes of bone
+marrow fibrosis
+
+Minor Criteria
+
+1, anemia
+
+2. leukocytosis
+
+3. palpable splenomegaly
+
+4, increased LDH
+
+Epidemiology
++ rare, median age at presentation is 65 yr
+
+Pathophysiology
++ abnormal myeloid precursor postulated to produce dysplastic megakaryocytes that secrete fibroblast
+growth factors
+= stimulates fibroblasts and stroma to deposit collagen in marrow
+«+ increasing fibrosis causes early release of hematopoietic precursors leading to:
+= leukoerythroblastic blood film (see below)
+= migration of precursors to other sites: extramedullary hematopoiesis (leading to hepatosplenomegaly)
+
+Clinical Features
+
+anemia (severe fatigue is most common presenting complaint, pallor on exam in >60%)
+
+weight loss, fever, night sweats — secondary to hypermetabolic state
+
+splenomegaly (90%) — secondary to extramedullary hematopoiesis; may cause early satiety and severe left
+upper quadrant pain
+
+hepatomegaly (70%) - may develop portal hypertension
+
+bone and joint pain - secondary to osteosclerosis, gout
+
+signs of extramedullary hematopoiesis (depends on organ involved)
+
+Investigations
+
++ CBC: anemia, variable platelets, variable WBC
+
++ biochemistry: increased ALP (liver involvement, bone disease), increased LDH (secondary to ineffective
+hematopoiesis), increased uric acid (increased cell turnover), increased Biz (secondary to increased
+neutrophil mass)
+
+Toronto Notes 2025
+
+a
+
+Efcacy and Safety of Low-dose Aspirn® in
+Polyythemia Vera
+
+NEIM2004 350-1424
+
+‘Study: Double-blind, placebo-controled, RC.
+Participants: 518 patients with polycythemia vera
+(PV with no cearinicaton for, or contraindication
+to,ASAtherapy.
+
+Intervention: Patients eceived either low-dose ASA
+100 mg daly (-253 or placebo (0-265) and were
+folowed forupto5 yt
+
+Primary Outcome: Cumulative rate of (nonfatal Ml,
+nonfatastioke, or death rom cardiovascular causes
+andthe cumulative at ofl) the previous 3 plus PE and
+‘major venous thrombosis
+
+Results: Primary outcomes) and (I) were reduced
+with treatment compared to placebo (RRO. 1; P=0.09
+and 80.4; 0.03, respectively). There were no
+dferencesin overalor cardiovascular mortality and
+major bleeding episodes.
+
+Conclusion: Low-dose ASA can safely prevent
+thrombotic complcationsin patients with PV
+
+Auxoltini Versus Standard Therapyfor the
+Treatment of Polygythemia Vera
+
+NEJM 201537232635
+
+Purpose To evaluate the efficacy and safety of
+rurotinibys, standard therapy patients wth PV who
+had insfcient responses or intolerable side effects
+wth hydroxyurea
+
+Methods: 222 phlebotomy: dependent patients with
+splenomegaly were randomly assigned to receive
+rurotinib or standard therapy.
+
+Primary Outcome: Hematocrit control through week 32
+and spleen vole reduced 235% at week 2
+
+Results: 21%ol patients on ust vs. 1 of thse
+mstandard-therapy achieved he pimary outcome
+{P-0.001). 60% of patients on rutin and 20% on
+standard therapy achieved hematocrit control 235%
+‘eduction in splen olume was eenin 38% ands
+
+‘of patients inthe two groups, respectively. Compared
+tostandard therapy, notin was associated with
+«significantly greater rate of complete hematologic
+remission (24% ys.9%; 0.003.
+
+Conclusion: unoitinb wassuperiorto standard
+therapy in controlling hematocrit, reducing the spleen
+volume, and improving symptoms associated with PV in
+patients who had insufficient responses or intolerable
+see ects with hydroxyurea,
+
+A“leukoerythroblastic” blood film (RBC
+and granulocyte precursors) implies BM
+infiltration with malignancy (eg. leukemias,
+solid tumour metastases) or fibrosis 2.9
+MF)
+
+(MF typically has a dry BM aspirate and
+teardrop RBCs (aspiration gives no blood
+cells)
+

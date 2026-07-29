@@ -1,0 +1,90 @@
+P53 Pediatrics Toronto Notes 2025
+
++ acquired vitamin K deficiency symptoms may include: easy bruising, mucosal bleeding (i.e. epistaxis, GI
+bleed, hematuria, etc.)
+
+Management
++ VKDB managed urgently with IV/SC vitamin K (1-2 mg). If there is severe bleeding, also administer fresh
+frozen plasma or prothrombin complex concentrate
++ prevented with vitamin K IM injection (0.5-1 mg) at birth, can also be given orally as vitamin K (doses: first
+feed, 1, 4, 8 wk) for breastfed, term infants but higher risk of VKDB
++ bleeding due to vitamin K deficiency of other acquired etiologies managed with PO/IM/SC/IV vitamin K,
+with dose dependent on condition
+
+Immune Thrombocytopenic Purpura
+
+Definition
++ ITPis isolated thrombocytopenia (platelet count <100 000/uL with normal WBC count and Hb)
+
+Epidemiology
+
++ most common cause of symptomatic thrombocytopenia in childhood
++ peak age: 2-5 yr, M>F Glightly)
+
++ incidence 5 in 100 000 children per yr
+
+Etiolog
+. «autsed by autoantibodies that bind to platelet membranes > Fc-receptor mediated splenic uptake >
+destruction of platelets
+
+Clinical Features
+
++ 60% present within 1 mo after viral illness (e.g. URTI, chicken pox)
+
++ sudden onset of petechiae, purpura, bleeding in an otherwise well child
+
+clinically significant bleed in only 3% (severe bleed more likely with platelet count <10) with <0.5% risk of
+intracranial bleed
+
+no lymphadenopathy, no hepatosplenomegaly
+
+Investigations
+
+. diagnosis made in well-appearing patients with mucocutaneous bleeding without other systemic symptoms
+or signs and lab confirmation of ITP (diagnosis of exclusion)
+
++ labs: thrombocytopenia with normal Hb and WBC on CBC and blood smear
+
++ bone marrow aspirate only indicated if red flags on history, exam, or lab studies (not needed in initiation of
+corticosteroid treatment or before splenectomy)
+
++ testing for antinuclear antibodies not needed in a typical case of presumed ITP
+
+Differential Diagnosis
++ Destructive thrombocytopenias
+= immune-mediated: immune thrombocytopenia, drug-induced thrombocytopenia, systemic
+autolimiine disorders (e.g. SLE, autoimmune lymphoproliferative syndrome, autoimmune hemolytic
+anemia, etc.
+platelet activation and consumption: microangiopathic disorders (e.g. HUS, thrombotic
+thrombocytopenic purpura, etc.)
+mechanical destruction
+sequestration and trapping: hypersplenism
+decreased platelet production
+infection: EBV, CMV, sepsis, etc.
+nutritional deficiencies: folate, B12, iron
+acquired bone marrow failure: aplastic anemia, medications, radiation
+infiltrative bone marrow disease: leukemias, lymphomas, etc.
+genetic causes of impaired thrombopoiesis
+
+Management
++ involve family in management; shared decision-making
+
+= aim to achieve a platelet count associated with adequate hemostasis to reduce the risk of serious
+
+bleeding (i.e. > 10-20x 10°/L)
+no or mild bleeding (i.e. only bruising/petechiae) - consider watchful waiting (irrespective of platelet levels)
+moderate bleeding (i.e. severe skin manifestations with some mucosal lesions and some troublesome
+epistaxis or menorrhagia) ~ IVIg (1 g/kg) or steroids; if Rh-positive or DAT-negative can use anti-D (not
+indicated in low Hb from blood loss or autoimmune hemolysis)
+severe bleeding (i.e. prolonged epistaxis, GI bleeding, or intracranial hemorrhage) - immediate treatment
+with IV steroids and Vig: may use tranexamic acid as adjunct therapy
+treatment with IVIg or prednisone if mucosal or internal bleeding, Platelets <10, or at risk of significant
+bleeding (surgery, dental procedure, concomitant vasculitis, or coagulopathy)
+IVIg = faster increase in platelet count
+life-threatening bleed: additional platelet transfusion + emergency splenectomy
+persistent (>3-12 mo) or chronic (>12 mo): re-evaluate; treat if symptoms persist
+supportive: avoid contact sports and ASA/NSAIDs
+
+Hemophilia
+
+see Hematology, H28

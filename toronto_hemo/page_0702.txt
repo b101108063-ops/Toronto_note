@@ -1,0 +1,82 @@
+48 Hematology Toronto Notes 2025
+
++ biochemistry
+= HIV, HBV, HCV serologies
+= liver enzymes and/or LFTs (liver involvement)
+« renal function tests (prior to initiating chemotherapy)
+= ALP, Ca®* (bone involvement)
+= ESR (prognosis), LDH (staging, monitor disease progression)
++ imaging
+= CT chest (lymph nodes, mediastinal mass), CT abdomen/pelvis (liver or spleen involvement), and PET
+scan
+= cardiac function assessment (MUGA scan or echocardiography): for patients at high-risk of pre-
+treatment cardiac disease (age >60, history of HTN, CHF, PUD, CAD, MI, CVA), treatment can be
+cardiotoxic
+= PFTs: if history of lung disease (COPD, smoking, and previous radiation to lung)
++ excisional lymph node or core biopsy confirms diagnosis
++ BM biopsy to assess marrow infiltration (only necessary if B-symptoms, PET positive marrow on imaging,
+or cytopenia)
+
+Treatment
++ stage I-II: chemotherapy (ABVD (adriamycin, bleomycin, vinblastine, dacarbazine)) followed by involved ©
+field or involved site radiotherapy (XRT)
+
++ stage III-IV: chemotherapy (ABVD, brentuximab-AVD, or BEACOPP (bleomycin, etoposide, adriamycin, Treatment of HL depends on stage;
+cyclophosphamide, vincristine, procarbazine, and prednisone) + XRT for bulky disease treatment of NHL depends on histologic
++ relapse, resistant to therapy: high dose chemotherapy and autologous stem cell transplant, anti-CD30 Ab subtype
+
+therapy, pembrolizumab
+= PET scan results essential in assessing disease response
+
+Complications of Treatment
++ cardiac disease: secondary to XRT, adriamycin cardiomyopathy (1% of patients)
++ pulmonary disease: secondary to bleomycin (interstitial pneumonitis)
++ infertility: <3% with ABVD (important to discuss sperm banking/egg retrieval prior to initiation of
+chemotherapy)
++ secondary malignancy in irradiated field
+= solid tumours of lung or breast (>8 yr after treatment)
+= non-Hodgkin lymphoma
++ hypothyroidism: post XRT
+
+Prognosis
++ Hasenclever adverse prognostic factors (for advanced stage disease):
+1, serum albumin <40 g/L Intemational Prognostic Factors P
+2. Hb <108 g/L {29g Proanosts Fates Project
+3.male Prognostic Factors FFP
+: 0 84%
+4, stage IV disease 5 ral
+5. age 245 yr 2 67%
+6. leukocytosis (WBC >15 x 107/L) 3 60%
+7. lymphocytopenia (lymphocytes <0.06 x 10°/L or <8% of WBC count or both) 4 RA
+
++ each additional adverse prognostic factor decreases freedom from progression at 5 yr (FFP) eeneedeal ea reer
+
+Non-Hodgkin Lymphoma
+
+Definition
++ malignant proliferation of lymphoid cells of progenitor or mature B- or T-cells
+
+Classification
++ can originate from both B- (85%) and T: or NK- (15%) cells,
+= B-cell NHL: e.g, diffuse large B-cell lymphoma, follicular lymphoma, Burkitt’s lymphoma, and mantle
+cell lymphoma
+= WHO/REAL classification system: 3 categories of NHLs based on natural history
+1. indolent (35-40% of NHL): e.g. follicular lymphoma, small lymphocytic lymphoma/CLL, and mantle
+cell lymphoma
+2. aggressive (~50% of NHL): e.g. diffuse large B-cell lymphoma
+3. highly aggressive (~5% of NHL): e.g. Burkitt’s lymphoma
+= T-cell NHL: e.g. mycosis fungoides (indolent TCL of the skin), peripheral T-cell lymphoma-not
+otherwise specified (PTCL-NOS), and anaplastic large cell lymphoma
+
+Clinical Features
+
++ painless superficial lymphadenopathy, usually >1 lymph node region, rapid growth in aggressive
+lymphomas
+
+can have localized or widespread adenopathy (more common in indolent NHL)
+
+constitutional symptoms are less common in Hodgkin lymphoma
+
+cytopenia: anemia + neutropenia + thrombocytopenia can occur when BM is involved
+
+abdominal signs + hepatosplenomegaly, retroperitoneal, and mesenteric involvement

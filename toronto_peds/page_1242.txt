@@ -1,0 +1,102 @@
+P46 Pediatrics
+
+Celiac Disease
+
++ Gastroenterology, G21 in children: presents at any age, often 6-24 mo with the introduction of gluten in the
+diet
+
+Clinical Features
+
+poor weight gain, poor appetite, irritability, apathy, rickets, wasted muscles, flat buttocks, rarely distended
+abdomen
+
+GI symptoms: N/V, edema, anemia, abdominal pain, diarrhea
+
++ non-GI manifestations: iron-deficiency anemia, dermatitis herpetiformis, dental enamel hypoplasia,
+osteopenia/osteoporosis, short stature, delayed puberty, behavioural changes
+
+associated with other autoimmune disorders (e.g. T1DM, thyroid disease)
+
+Cow’s Milk Allergy
+
+Pathophysiology
+
++ cow’s milk allergy (CMA) may be either an IgE-mediated reaction or a non-IgE mediated reaction,
+which is further classified as a food protein-induced allergic proctocolitis (FPIAP), food protein-induced
+enterocolitis syndrome (FPIES), or food-protein-induced enteropathy
+
+Clinical Features
++ IgE-mediated CMA reactions occur within hours of exposure and are present on the skin (i.e. urticaria,
+pruritus, etc.), upper and lower resp tract symptoms (i.e. wheeze, cough, etc.), gastrointestinal symptoms
+(ie, abdominal pain, nausea/vomiting, diarrhea, etc.)
++ non-IgE-mediated CMA reactions occur hours following ingestion, within few mo, presents with:
+= FPIAP: mild diarrhea, small amounts of bloody stools (common in young infant)
+= FPIES: severe vomiting and diarrhea, anemia, hematochezia
+* food protein-induced enteropathy: FTT, chronic diarrhea, hypoalbuminemia
++ up to 50% of children intolerant to cow's milk may be intolerant to soy protein as well
+
+Investigations
++ food challenge (gold standard), skin prick test, serum measurement of allergen-specific IgE, patch testing
+
+Management
+
++ IgE-mediated CMA: stop exposure, epinephrine for acute anaphylactic reactions
+
++ non-IgE-mediated CMA: stop exposure, reintroduce milk at 6-8 mo, vast majority (>90%) will outgrow by
+lyr
+
+. casein hydrolysate formula (Nutramigen’, Pregestimil") or mother may sequentially remove cow's milk
+protein, all bovine protein, soy protein, legumes (7 d washout), and continue breastfeeding (with adequate
+calcium and vitamin D intake)
+
+Inflammatory Bowel Disease
+
+see Gastroenterology, G22
+Cystic Fibrosis
++ see Respirology, R12
+
+Constipation
+
++ decreased stool frequency (<3 stools/wk) and/or stool fluidity (hard, pellet-like)
+
+FUNCTIONAL CONSTIPATION
++ 99% of cases of constipation
++ Rome IV criteria for children and adolescents > 4 y/o:
+= 22 of the following present at least once per week for at least 1 mo:
+<2 defecations/wk
+at least 1 episode/wk of fecal incontinence
+history of retentive posturing or excessive volitional stool retention
+history of painful or hard bowel movements
+evidence of large fecal mass in rectum
+history of large-diameter stools that may obstruct toilet
+= symptoms are not fully explained by another medical condition
+
+eoeee
+
+.
+
+Pathophysiology
++ lack of fibre in diet or change in diet, poor fluid intake, behavioural
+= infants: often occurs when introducing cow’s milk after breast milk due to high fat and solute content,
+lower water content
+= toddlers/older children: can occur during toilet training, starting school, or due to pain on defecation,
+leading to withholding of stool
+«= adolescents: often related to school stressors, anxiety/eating disorders
+
+Toronto Notes 2025
+
+Celiac disease is associated with an
+increased prevalence of IgA deficiency.
+Since 116 is an IgA-detecting test, you must
+‘order an accompanying IgA level
+
+A Celiac disease diet must avoid gluten
+presentin "BROW" foods
+
+Barley
+
+Rye
+
+Oats (controversial)
+
+Wheat

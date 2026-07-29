@@ -1,0 +1,106 @@
+RHI6 Rheumatology
+
+Idiopathic Inflammatory Myopathies
+
+D ition
+
++ autoimmune diseases characterized by proximal muscle weakness + pain
+
++ muscle becomes damaged by a non-suppurative lymphocytic inflammatory process
+
++ associated with malignancy
+
+= increased risk of malignancy: age >50, DMM > PM, elevated CK, peak incidence of malignancy at onset
+
+of myositis or within Ist yr, dysphagia, ulcerative skin lesions, cutaneous vasculitis, anti-P155/140
+antibody
+
++ associated ‘with other CTDs, Raynaud’s phenomenon, autoimmune disorders
+
+Classification
++ includes DMM, PM, NAM, and IBM
++ adult and juvenile forms
++ newly characterized subgroups:
+« immune-mediated necrotizing myopathy
+anti-synthetase syndrome
+anti-MDA5 DM
+cancer-associated myositis
+overlap myositis
+Note: The definition of PM has become controversial. Many patients previously classified as having PM fall
+into these new subgroups, resulting in a decreasing number of patients included in the PM subgroup.
+
+Inclusion Body Myositis
+
++ age >50, M>F, slowly progressive, vacuoles in cells on biopsy
++ patient unresponsive to treatment
+
++ predominantly distal over proximal muscle weakness
+
++ muscle biopsy positive for inclusion bodies
+
+POLYMYOSITIS/DERMATOMYOSITIS
+
+Definition
+
++ PMand DMM are idiopathic inflammatory myopathies characterized by inflammation and proximal
+skeletal muscle weakness
+
++ notably, DMM often presents with characteristic skin manifestations
+
+Etiology and Pathophysiology
+
++ PMisa T cell-mediated process with myocytes being the primary target, characterized by focal endomysial
+infiltrates (CD8+ T cells) surrounding muscle fibres, found in adults
+
++ DMM isa complement mediated process with perivascular inflammatory infiltrates (CD4+ T cells > CD8+
+T cells) leading to perifascicular atrophy of muscle fibres
+
+Clinical Presentation
++ progressive symmetrical proximal muscle weakness (shoulder and hip) developing over wk to mo; difficulty
+lifting head off pillow, arising from chair, climbing stairs
++ dermatological
+= DMM has characteristic dermatological features (F>M, children and adults)
++ Gottron’s papules
+— pink-violaceous, flat-topped papules overlying the dorsal surface of the MCP and IP
++ Gottron’s sign
+— erythematous, smooth or scaly patches over the extensor surface of elbows, knees, or
+medial malleoli
+
+heliotrope rash: violaceous rash over the eyelids; usually with edema
+shawl sign: poikilodermatous, erythematous rash over neck, upper chest, and shoulders
+mechanic’s hands: dry, crackled lesions on palmar and lateral surfaces of digits, especially over the
+pulp space, also seen in a subtype of myositis called anti-synthetase syndrome
+periungual erythema
+calcinosis
+
+eee
+
+oe
+
++ cardiac
+
+= arrhythmias, congestive heart failure, conduction defect, ventricular hypertrophy, pericarditis
++ gastrointestinal
+
+= oropharyngeal and lower esophageal dysphagia, esophageal reflux
++ pulmonary
+
+= weakness of respiratory muscles, ILD, aspiration pneumonia
+
+Investigations
+general lab tests: CK, CBC, ESR and/or CRP, TSH
+
+serologic tests: ANA, anti-Jo-1 (DMM), anti-Mi-2, anti-SRP (usually not available at commercial labs)
+imaging: MRI may be used to localize biopsy site
+
+EMG: characteristic findings of muscle inflammation and damage
+
+muscle biopsy can aid in diagnosis, however not needed in those with classic skin findings and muscle
+weakness
+
+Toronto Notes 2025
+
+Signs of DMM
+Gottron’s papules and Gottron’s sign are
+pathognomonic of DMM (occur in 70% of
+patients)

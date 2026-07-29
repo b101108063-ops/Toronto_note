@@ -1,0 +1,110 @@
+PHI9 Public Health and Preventive Medicine
+
+NARRATIVE SYSTEMATIC REVIEW
+
+Definition
++ arigorous and systematic form of research synthesis that aims to retrieve evidence relevant toa specific
+question; involves appraisal of the results to inform practice, policy, or further research
+
+Advantages
+
+* provides overview of general or specific topic by locating existing patterns and trends
+
++ often more rigorous methodology and search strategy than traditional literature reviews and scoping
+reviews
+
+Disadvantages
++ limited in terms of providing concrete guidance from a clinical or policy making point of view
+
+SCOPING REVIEW
+
+Definition
++ a form of systematic knowledge synthesis to determine the scope or coverage of a body of literature ona
+given topic
+
+Advantages
+
++ maps key concepts, identifies types of evidence available on a topic and gaps in the knowledge base
+
++ useful for examining emerging evidence when it is still unclear what other, more specific questions can be
+posted and addressed by a more precise systematic review
+
+Disadvantages
+
++ do not aim to produce a critically appraised and synthesized result/answer to a specific question
+
+z,,limited in terms of providing concrete guidance froma clinical or policy making point of view
+Colquhoun HL, LevacD, O'Brien KK, eta. Scoping ewews time for dartyin definition, methods, and reporting. J Cin Epidemiol. 201467(12} 1291-4
+
+Munn2, PtersMD, Stem, Tufanar , McArthur, Aromatar E. psematic review or scoping review? Guidance for authors when choosing between a systematic or scoping review
+approach BMC medical esearch methodology. 2018 Dec 18:17.
+
+‘Shah, CP. Measurement andinvestgation Public Heath and Preventive Medicine in Canada, Se. Tornt: Elsevier, 002
+
+Thedssocaton of Faculties of Medicine of Canada Public Heath Educators’ Network. AFMC primer on population heath aterne)Asessing evidence and information. vale from hy:
+phprime.atmccafenpartiichapter5/
+
+Methods of Analys'
+
+Distributions
+
+a distribution describes the frequency at which each value (or category) occurs in a study population
+distributions can take characteristic shapes (e.g. normal (Gaussian) or non-normal (binomial, gamma,
+etc.))
+characteristics of the normal distribution
+= mean = median = mode
+= 68% of observations fall within one standard deviation of the mean
+= 95% of observations fall within two standard deviations of the mean
+measures of central tendency
+= mean: sum of each observation’s data (e.g. ages) divided by total number of observations
+= median: value of the 50th percentile; a better reflection of the central tendency for a skewed distribution
+= mode: most frequently observed value in a series
+measures of dispersion
+= range: the largest value minus the smallest value
+= variance: a measure of the spread of data
+= standard deviation: the average distance of data points from the mean (the positive square root of
+variance)
+given the mean and standard deviation of a normal distribution curve, a description of the entire
+distribution of data is obtained
+
+Data Analysis
+
+Statistical Hypotheses
+
++ null (Ho)
+= the default hypothesis; often states there is no relationship between two variables
+
++ alternative (H1)
+= the hypothesis that we are interested in; often states there is a relationship between two variables
+= we can find evidence against Ho but we can never ‘prove’ Hi
+
+Type I Error (a Error)
+
++ the null hypothesis is falsely rejected (i.e. concluding an intervention X is effective when it is not, or
+declaring an observed difference to be real rather than by chance)
+
++ the probability of this error is denoted by the p-value
+
+Toronto Notes 2025
+
+Consult the Cochrane Library of Systematic
+Reviews (http:/www.cochranelibrary.com)
+for high-quality systematic reviews and
+meta-analyses
+
+Example Calculation
+Data set: 17, 14,17, 10, 7
+Mean=(17+14 +17 +10+7)+5=13
+Median (write the lis in order, median isthe
+‘number in the middle)
+=7,10, 14, 1,17=14
+Mode (number repeated most often) = 17
+Range=17-7=10
+Variance= [7 - 137+ (14-13?
+
++ (17 ~13)+ (10-13
+
++(7- BY]=6-1)= 195
+‘Standard Deviation = Wariance = 19.5,
+442
+

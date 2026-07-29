@@ -1,0 +1,86 @@
+OB31 Obstetrics Toronto Notes 2025
+
+Urinary Tract Infection Pe]
+
+Epidemiology
+
++ most common medical complication of pregnancy ©
+
+* asymptomatic bacteriuria in 2-7% of pregnant women, more frequently in multiparous patients
+
++ note: asymptomatic bacteriuria should be treated in pregnancy due to increased risk of pyelonephritis and Treat asymptomatic bacteriuria in
+PTL pregnancy because of increased risk of
+
+progression to cystitis, pyelonephritis, and
+probable increased risk of PTL
+
+logy
++ increased urinary stasis from mechanical and hormonal (progesterone) factors
++ organisms include GBS as well as those that occur in non-pregnant patients @
+
+Clinical Features Mm ri ble
+
+- iajor organisms responsible for
++ may be asymptomatic - - pyelonephritis: Ecol, Klebsiella,
++ dysuria, urgency, and frequency in cystitis enterobacter, proteus
+
++ fever, flank pain, and costovertebral angle tenderness in pyelonephritis
+
+Investigations
++ urinalysis, urine C&S
++ renal function tests in recurrent infections
+
+Management
++ uncomplicated UTI
+= first line: amoxicillin (250-500 mg PO q8 hx7 d)
+= alternatives: nitrofurantoin (100 mg PO BID x 7 d) or cephalosporins
+« follow with monthly urine cultures
++ pyelonephritis
+= hospitalization and IV antibiotics
+
+Prognosis
+
++ complications if untreated: acute cystitis, pyelonephritis, and possible PTL.
+
+* recurrence is common, offer continuous or post-coital prophylaxis with nitrofurantoin or cephalexin,
+except during the last 4 wk of pregnancy
+
+Infections During Pregnancy
+
++ infant immunity begins to develop at 9-15 wk GA
++ initial response to infection is IgM production
++ transplacental IgG provides passive immunity
+
+Table 15. Infections During Pregnancy
+
+Infection Agent Source of Transmission Greatest Transmission Effects on Fetus Effects on Mother Diagnosis Management
+RisktoFetus
+Chicken Pox Varicella zoster To patient: 1B-30wk Ghand5d pre- Congenital varicella Clinical vesicle Varicella-zoster immunoglobulin
+virus herpes direct, respiratory to2d post-delivery syndrome (imb aplasia, fluid culture,+ serology _(VZI6)forpatientif exposed,
+family) To baby:transplacental choriretintis, cataracts, decreases congenital varicella
+cutaneous scars, cortical syndrome
+atrophy, IUGR, hydrops), {Hmaternal infection Sd before
+PIL delivery, giveinfantV2IG for passive
+immunity
+Note:do not administer vaccine
+during pregnancy (lve attenuated
+vaccine)
+“Cytomegalovirus DNAvirus (herpes Topatient:bloodlorgan—THT3 5-10% develop CHS Asymptomatic orflulike Serologic screen; isolate No specific treatment;
+family) transfusion, sexual contact involvement mental (fever, pharyngtis, virus romutineor ‘maintaingood hygiene
+To baby:transplacental, retardation, cerebral ‘lymphadenopathy, secetion culture and avoid high-risk situations
+during delivery breast cakification, palyarttis)
+milk hydrocephabs,
+microcephaly, deafness,
+choriretintis)
+Erythema Parvovirus B19. Topatent: respiratory, 10-20 wk GA Spontaneous abortion (SA), Fluke, rash arthritis; Serology, viral PCR, {thydrops occurs, consider fetal
+Infectiosum (Fifth infected blod products stilbirth, hyéropsin utero often asymptomatic maternal AFP; ifIgM transfusion
+Disease) To baby:transplacental present, follow fetus with
+UsSfor hydrops
+Hepatitis DNA virus To patient: B Prematurity,low birth Fever, NV fatigue, Serologic screening for all Rxneonate with HBIG andvaccine (at
+blood, salva, semen, 1 %Svertcal weight,neonataldeath jaundice, elevatedier pregnancies birth, 1, 6mo};90%etfectve
+vaginal secretions transmission enzymes
+Tobaby:transplacental, _ifasymptomaticand
+breast milk HBsAg ve; 85-90% if
+HBsAg and HBeAg +ve
+
+“Indicates TORCH infection

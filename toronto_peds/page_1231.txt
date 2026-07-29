@@ -1,0 +1,78 @@
+P35 Pediatrics Toronto Notes 2025
+
+Management
+depends on etiology and severity of problem as perceived by parents/child
+
++ no treatment for non-pathological short stature, except for idiopathic short stature (height <3rd percentile
+without any endocrine, metabolic, or other disease etiology)
+
+GH therapy for GH deficiency: if administered at an early age, can help patients achieve adult height.
+Requirements for GH therapy:
+
+GH shown to be deficient by 2 different stimulation tests (with arginine, glucagon, insulin)
+
+growth velocity <3rd percentile or height <3rd percentile
+
+bone age x-rays show unfused epiphyses/delayed bone age
+
+support and management of resultant self-image issues, social anxiety, etc.
+
+TALL STATURE
++ height greater than 2 SDs above the mean for a given age, sex, and race
+
+Etiology
+
++ constitutional/familial
+
++ endocrine: Beckwith-Wiedemann syndrome, hyperthyroidism, hypophyseal gigantism, precocious puberty
+«+ genetic: homocystinuria, Klinefelter syndrome, Marfan syndrome, Sotos syndrome
+
+Hypercalcemia/Hypocalcemia/Rickets
+
++ see Endocrinology, E48
+Hyperthyroidism and Hypothyroidism
++ may be congenital or acquired (for acquired causes, see Endocrinology, E30)
+
+CONGENITAL HYPERTHYROIDISM
++ also known as neonatal Graves’ disease
+
+Epidemiology
++ ~Lin 25000 neonates, M=F
+
+Etiology
++ typically caused by transplacental transfer of TSH receptor antibody (TRAb)
++ rare causes include mutations in the TSH receptor pathway
+
+Clinical Features
++ history and physical exam
+= maternal history of thyroid pathology and management
+«= low birthweight, IUGR, microcephaly, premature birth, tachycardia, irritability, frontal bossing,
+triangular facies, hepatosplenomegaly, goitre, flushing, sweating
+
+Investigations
++ TSH receptor antibody levels during the 3rd trimester or in the cord blood
++ neonatal TSH, T3, free T4
+
+Management
++ methimazole and B-adrenergic blocker (e.g. propranolol)
+
+Prognosis
++ with prompt treatment, hyperthyroidism improves
+
+= however, long-term cognitive and CNS problems can still occur
+«+ risk for development of central hypothyroidism later in life
+
+CONGENITAL HYPOTHYROIDISM
+
+Epidemiology
++ incidence: 1 in 2000-4000 newborn births; F:M=2:1
++ one of the most common preventable causes of intellectual disability
+
+Etiology
++ may be classified as permanent or transient congenital hypothyroidism (CH)
+= subcategorize into primary (85% thyroid dysgenesis, 15% inborn errors of thyroid gland hormone
+biosynthesis), secondary/central (pituitary/hypothalamic issue), or peripheral CH (deficits in thyroid
+hormone transport, metabolism, or action)
++ causes of transient hypothyroidism: maternal antibody-mediated, iodine deficiency (rare in developed
+countries), prenatal exposure to antithyroid medications, neonatal iodine deficiency/excess, congenital liver
+hemangiomas, certain gene mutations

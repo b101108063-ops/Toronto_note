@@ -1,0 +1,186 @@
+137 Hematology
+
+Investigations for DVT
++ D-dimer test only useful to rule out DVT if negative with low clinical suspicion of disease (Modified Wells’
+Pre-test Probability <1) and no other acute medical issues; positive result may be non-specific
++ doppler ultrasound is most useful diagnostic test for DVT
+« sensitivity and specificity for proximal DVT ~95%
+«= sensitivity for calf DVT ~70%
++ venography is the gold standard, but is expensive, invasive, and higher risk
++ CT pulmonary angiogram or V/Q scan if PE suspected
+
+Post-Thrombotic Syndrome
+
++ development of chronic venous stasis signs and symptoms secondary to a deep venous thrombosis
++ symptoms: pain, venous dilatation, edema, pigmentation, skin changes, and venous ulcers
+
++ clinical severity can be assessed using the Villalta score
+
++ large impact on quality of life following a DVT
+
+treatment: extremity elevation, exercise, compression stockings, and skin/ulcer care
+
+for clinical features and treatment of PE, see Respirology, R20
+
+Approach to Treatment of Venous Thromboembolism
+
+Purpose
+
++ prevent further clot extension (minimum 3 mo duration)
+
+prevent acute PE (occurs in up to 50% of untreated patients)
+
+reduce the risk of recurrent thrombosis (duration depends on presence of other risk factors)
+
+treatment of massive iliofemoral thrombosis with acute lower limb ischemia and/or venous gangrene
+
+(phlegmasia cerulea dolens)
+
++ limit development of late complications (e.g, post-thrombotic syndrome, chronic venous insufficiency, and
+chronic thromboembolic pulmonary HTN)
+
+Initial Treatment
+
++ consider empiric treatment in patient with moderate/high suspicion of DVT and low-risk of bleeding, if
+diagnostic imaging will be delayed (definitive imaging should be obtained at first opportunity)
+
++ DOACs
+
+apixaban or rivaroxaban alone (with loading dose)
+
+dabigatran or edoxaban require 5-10 d of parenteral anticoagulation (usually LMWH) prior to initiation
+
+contraindications: during conception/pregnancy and in breastfeeding women
+
+there remains limited evidence in severe renal deficiency and some clinicians do not use DOACs in this
+
+population
+WH
+
++ LM
+= administered SC, at least as effective as UFH with a lower bleeding risk
+= advantages: predictable dose response and fixed dosing schedule, lab monitoring not required, <1%
+HIT, safe and effective outpatient therapy (including pregnant and cancer patients)
+disadvantages: only partially reversible by protamine, long-term use associated with osteoporosis, SC
+injection
+. renally cleared - may require dose adjustment in patients with renal dysfunction
++ UFH
+= in patients with high-risk of bleed, or requiring rapid interruption for surgical procedures; use hospital-
+based nomograms that use bleeding risk and patient weight to determine appropriate dose
+= advantages: rapidly reversible by protamine
+= disadvantages: must monitor aPTT or heparin levels with adjustment of dose to reach therapeutic level
+(~2x normal value); higher risk for development of HIT
+
+Long-Term Oral Treatment
++ anticoagulation therapy
+= warfarin
++ should be initiated with heparin overlap: dual therapy for at least 48 h with INR >2 due to initial
+prothrombotic state (secondary to warfarin’s inhibition of natural anticoagulants protein C/S),
+half-life of vitamin K factors, and risk of warfarin-induced skin necrosis
++ dosed to maintain INR at 2-3, monitor twice weekly for 1-2 wk
++ discontinue heparin after INR >2.0 for 2 consecutive days
+=» DOACs
+apixaban or rivaroxaban: INR not used, patients with CrCl >15 mL/min.
+dabigatran (factor Ila inhibitor) or edoxaban: LMWH or IV heparin for at least 5 d before initiating,
+INR not used, patients with CrCl >15 mL/min (edoxaban) and >30 mL/min (dabigatran)
+important drug interactions to consider for DOACs: inducers or inhibitors of CYP3A4 or P-gp
+cancer patients: LMWH more effective than warfarin at preventing recurrence of venous
+thrombosis in cancer patients; DOACs are as effective as LMWH (more bleeding observed for
+patients with GI cancer taking rivaroxaban or edoxaban)
+
+oe
+
+oe
+
+Toronto Notes 2025
+
+Wells’ Score for Predicting DVT
+Paralysis, paresis, or recent orthopedic
+casting of lower extremity (1)
+
+Recently bedridden (3 d) or major surgery
+within past 4 wk (1)
+
+Localized tenderness in deep vein system
+iW)
+
+Sweling of entire leg (1)
+
+Calf swelling >3 cm compared tothe other
+Jeg (measured 10 cm below the tibial
+tuberosity) (1)
+
+Pitting edema greater in the symptomatic
+eg ()
+
+Collateral non-varicose superficial veins (1)
+Active cancer or cancer treated within 6
+
+mo (1)
+
+Alternative diagnosis more likely than
+
+DVT (eg, Baker's cys, cellulitis, muscle
+damage, superficial venous thrombosis) (2)
+
+Total Score Interpretation
+3-8: High probability, +2: Moderate
+probability, 2-0: Low probability
+
+Modified Wells’ Score
+Same as above except with 1 additional
+point fora history of DVT or major
+surgery within past 2 wk, and the score
+interpretation is DVT likely for >2 points
+and DVT unlikely for <1 point. Dimer
+
+is ordered for DVT unlikely patients to
+fully rule out DVT which can help reduce
+unnecessary ultrasounds
+
+Thrombosis Canada Guidelin
+and Thrombosis (2021)
+
+Key points:
+
+LMWH and DOACS, including apixaban,
+‘edoxaban, and rivaroxaban are effective in
+the management of most cancer-associated
+thrombosis.
+
+Treatment of cancer-associated thrombosis
+in patients with primary or metastatic
+
+brain lesions, hematological malignancies,
+and at unusual sites is not well-studied.
+{thorough review of the relative risks
+
+and benefits of anticoagulant options,
+
+in addition to patient preference and
+values, is required prior to prescribing
+anticoagulant therapy.
+
+Durationof Treatment with Vitamin K Antagonists
+{VKA) in Symptomatic Venous Thromboembolism
+Cochrane DB ys Rev2014C0001367
+
+Purpose: To evabtethe efficacy and saftyot
+various duration of therapy with VKAin patients with
+symptomaticVTE
+
+Study Selection: RTs comparing various durations of
+therapy with Kin patients with symptomatic VTE
+Results: 11 studies total 3716 participants) were
+indded. significant reduction in thersk recurrent
+VTEwas observed during prolonged VKA treatment (RR
+0:20, 95% 0, 0.11to0.38 independent ofthe time
+elapsed sincethe index thromboticevent. Patients
+receiving prolonged treatment were at increased riskot
+bleeding complications (RR2.60, 95% (115110449)
+Condusion: Treatment with VKAstrongly reduces
+theriskofrecurent VIEforas longs they are used.
+Therapy shouldbe discontinued when the risk of harm
+frommajor bleeding (which remains constant overtime)
+isof greater concern than the absolute risk of recurrent
+VIE (which decies overtime).

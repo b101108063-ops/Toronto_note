@@ -1,0 +1,110 @@
+R31 Respirology Toronto Notes 2025
+
+Introduction to Intensive Ca
+
+goal is to stabilize critically ill patients: hemodynamic, respiratory, cardiac instability, or need for close
+monitoring
+
+Lines and Catheters
+
+arterial lines
+= monitor beat-to-beat blood pressure variations, obtain blood for routine ABGs
+= common sites: radial and femoral arteries
+central venous catheter (central line)
+= administer IV fluids, monitor CVP, insert pulmonary artery catheters
+= administer total parenteral nutrition and agents too irritating for peripheral line (e.g. vasopressors,
+chemotherapy)
+= common sites: internal jugular vein, subclavian vein, femoral vein
+pulmonary arterial catheter
+= balloon guides the catheter from a major vein to the right heart
+= measures PCWP via a catheter wedged in distal pulmonary artery
+= PCWP reflects the LA and LV diastolic pressure (barring pulmonary venous or mitral valve disease)
+= indications (now used infrequently due to associated complications)
++ diagnosis of shock, primary pulmonary HTN, valvular disease, intracardiac shunts, cardiac
+tamponade, PE
+¢ assessment of hemodynamic response to therapies
++ differentiation of high- vs. low-pressure pulmonary edema
++ management of complicated MI, multiorgan system failure and/or severe burns, or hemodynamic
+instability after cardiac surgery
+= absolute contraindications
++ tricuspid or pulmonary valve mechanical prosthesis
+right heart mass (i.e. thrombus or tumour)
++ tricuspid or pulmonary valve endocarditis
+
+See Landmack Respirology tralstablefor more
+information on NCESUGAR ral which explores the
+effect of intensive glcose conto and martatyamong
+adaltsin the ICU
+
+Table 28. Useful Equations and Cardiopulmonary Parameters
+
+BSA [Ht (cm + WE (Ag) ~ 60/100 POWP = EDP
+
+SH =CO/HR Svt= CIHR
+
+l= 00/BSA AVEjecton Fraction=5V/RVEDV
+SRI =[(MAP - RAP) B01 PP SBP da?
+
+PsFratio= Pa / Fide MAP =113 SBP + 2/3 dBP = BP + 1/3 PP
+
+BSA= body surface area; C= cardiac index, CO= cardiac output; 8° aston blood pressure; HR = heart rate; VEDP = let vntriclar end ato pressure; Mi
+pressure; PCWP= pulmonary capary wedge pressure; P = pulse pressure: RAP right tial pressure; RVEDY=rght vetriclar end diastolic wolume;sBP=systliblood pressure; SV=
+stroke volume; SI = stroke volume index; SVR = systemic vascular resistance index
+
+Organ Failure
+
+Table 29. Types of Organ Failure
+
+Type of Failure Clinical Features Treatment
+Respiratory Failure Hypoxemia ‘Treat underlying cause (e.g. lungdisease, shunt, WO mismatch, drug-related,
+(see R27) Hypercapn cardiac)
+Manage mechanical ventilation settings
+Supplemental oxygen
+Cardiac Failure Hypotension ‘Treat underlying cause (.g. myocardial ischemia, LV failure, bradycardia,
+(see Cardiologyand Cardiac —_Decreasedurine output tachycardia, bood lass, adrenal insufficiency)
+Surgery, C40) ‘tered mental status Correct volume status
+Arrhythmia Vasopressors
+Hypoxia Inotropes
+Intra-2ortic balloon pump
+Coagulopathy Increased INRor PTT ‘Treat underlying cause (e.g. thrombocytopenia, drug-related, immune-elated,
+
+(see Hematology, H28)
+
+Liver Failure
+(see Gastroenterology, 640)
+
+Renal Injury
+(see Nephrology, NP21)
+
+Low platelet count
+Bleeding, bruising
+
+Hevated transaminases, bilirubin
+Coagulopathy
+
+Jaundice
+
+‘tered mental status encephalopathy)
+Hypoglycemia
+
+Elevated creatinine
+
+Reducedurine output
+
+Signs of volume overload (e.g CHF effusions)
+
+Dic)
+
+Transfusion ofblood products clotting factors
+
+‘Treat underlying cause (e.g viral hepatitis, drug elated, metabolic)
+Lactulose
+
+Liver transplant
+
+‘Treat underlying cause (.g. shock, drug elated, obstruction)
+Correct volume and electrolytestatus, eliminate toxins
+Diuretics
+
+Dialysis
+

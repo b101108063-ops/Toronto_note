@@ -1,0 +1,84 @@
+P39 Pediatrics Toronto Notes 2025
+
++ physical exam
+= growth velocity ©
+* prepubertal: minimum 4 cm/yr ‘
+3 Growth spurt: males 10-14 em/yr, females 8-12 cm/yr pemesety posenl ess)
++ complete physical exam, including Tanner staging and neurological assessment should receive an MRI of the brain
++ investigations
+= initial screening tests: bone age, serum hormone levels (estradiol, testosterone, LH, FSH, TSH, free T4,
+DHEA-S, 17-OH- progesterone, prolactin)
+= secondary tests: MRI head, pelvic U/S, B-hCG, GnRH, and/or ACTH stimulation test
+
+Management
+
++ indications for medical intervention to delay progression of puberty: rapid advancement of puberty, early
+age, risk of compromise of final adult height, psychological
+
+central causes: goals are to preserve height and alleviate psychosocial stress; GnRH agonists (e.g. leuprolide)
+
+most effective
+
+peripheral causes: goal is to limit effects of elevated sex steroids; medications that decrease the production
+
+of a specific sex steroid or block its effects (e.g. ketoconazole, spironolactone, tamoxifen, anastrozole);
+
+surgical intervention
+
+DELAYED PUBERTY
+
+Definition
++ failure to develop secondary sex characteristics by 2-2.5 SDs beyond the population mean
+= for males: lack of testicular enlargement by age 14
+= for females: lack of breast development by age 13 OR absence of menarche by age 16 or within 5 yr of
+pubertal onset
+
+Epidemiology
++ M>F
+
+Etiology
++ usually constitutional delay in males, more suggestive of pathology in females
++ central causes
+= constitutional delay in activation of HPG axis (most common)
+= hypogonadotropic hypogonadism (e.g. various genetic syndromes (e.g. Kallmann syndrome),
+hypothalamic/pituitary disorders, chronic illness, hypothyroidism, hyperprolactinemia, poor
+nutrition, excessive exercise, etc.)
+. peripheral causes
+. hyper ‘onadotropic hypogonadism (e.g. primary gonadal failure, gonadal damage, Turner syndrome,
+linefelter syndrome, hormone deficiency, androgen insensitivity syndrome, etc.)
+
+Clinical Features
++ weight loss, short stature, family history of puberty onset, medical illness, high performance athletes
+(females), congenital anomalies, or neurologic symptoms
++ assessment and investigations
+« physical exam: growth velocity (see Precocious Puberty, P38 for normal values)
+= initial screening tests: bone age, serum hormone levels (estradiol, testosterone, LH, FSH, TSH, free T4,
+IGF-1), CBC, clectralytes, BUN, Cr, LFTs, liver enzymes, ESR, CRP, IGF-1, urinalysis
+= secondary tests: MRI head, pelvic U/S, karyotype, IBD panel, celiac disease panel, LH levels following
+GnRH agonist, prolactin
+
+Management
+
++ identify and treat underlying cause
+
++ patients with constitutional delay or GnRH deficiency may be offered “jump start” therapy to induce
+puberty: cyclic estradiol and progesterone for females, testosterone for males
+
++ refer to pediatric endocrinologist for hormone therapy
+
+Approach to Infant/Child with Dehydration
+
+Etiology
++ decreased intake: poor oral intake during acute illness, breastfeeding difficulties, eating disorders
++ increased losses: common sites include Gl tract (e.g. diarrhea, vomiting, bleeding), skin/mucous intoveuar sxtraeuar
+membranes (fever, burns, hemorrhage, stomatitis), urine (osmotic diuresis (e.g. hyperglycemia, DKA)), Fluid (ICF) Fluid (ECF)
+diuretic therapy, DI, post-obstructive/post ATN recovery diuresis, and respiratory tract (tachypnea, 23 13
+bronchiolitis, pneumonia)
+«= third-spacing: intravascular fluid movement into a third space that is not in equilibrium with
+extracellular fluid; can occur in the following conditions: edema, liver failure, malnutrition, increased Intravascular Interstitial
+vascular permeability from systemic inflammation (e.g. sepsis), bleeding into a third-space (e.g. Fluid Fluid (ISF)
+retroperitoneum), ascites va 3/4
+
+Figure 9. Body fluid compartments
+
+Total Body Water

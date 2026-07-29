@@ -1,0 +1,91 @@
+C25 Cardiology and Cardiac Surgery Toronto Notes 2025
+
+Pathway A B
++ Slow conduction ‘APB | - Fast conduction
++ Shortrefractoriness | J | - Longreftactriness
+
+Bundle of Kent
+Can exist in right
+orleft heart
+
+Pathway A Pathway B
++ Slow conduction + Fast conduction
+
++ Short refractoriness 1 Long rettactoriness | | 2-AM.atrial premature beat APB) after a normal
+
+depolarizing beat conducts through A since
+repolarized) but not B (still refractory — thus producing
+Unidirectional block)
+
+© Young M. Kim 2011
+
+| The impulse travels along A and reaches the distal
+end of B which has now repolarized, allowing
+retrograde conduction to establish a re-entry circuit
+
+Figure 32. Accessory pathway
+conduction in WPW
+Early ventricular activation leads
+
+1. Setup for AVNRT: tothe appearance of a delta wave
+Presence of fast and slow tracts in AV node (slurred upstroke of the QRS) on the
+ECG before usual conduction across
+Figure 31. Mechanism for AVNRT the AV node
+
+Pre-Excitation Syndromes
++ refers toa subset of SVTs mediated by an accessory pathway which can lead to ventricular pre-excitation
+
+AV Re-Entrant (or Reciprocating) Tachycardia (AVRT)
+re-entrant loop in antegrade via normal conduction system and retrograde via accessory pathway
+
++ often in patients with an antegradely conducting bypass tract (WPW); may also occur if there is an
+exclusively retrogradely conducting (i.e. concealed) bypass tract - in these cases the ECG is normal and
+there are no delta waves. Note that most AVRT is orthodromic, therefore, retrograde conduction up the
+pathway is most common mechanistically initiated by a premature atrial or ventricular complex
+treatment
+
+= acute: treatment is similar to AVNRT but avoid long-acting AV nodal blockers (e.g. digoxin and
+
+verapamil)
+= long-term: for recurrent arrhythmias, ablation of the bypass tract is recommended
+= drugs such as flecainide and procainamide can be used
+
+Wolff-Parkinson-White Syndrome
+congenital defect present in 1.5-2/1000 of the general population
+an accessory conduction tract (bundle of Kent; can be in RA or LA) abnormally allows early electrical
+activation of part of one ventricle
+impulses travel at a greater conduction velocity across the bundle of Kent thereby effectively ‘bypassing’ AV
+node
+
+= since the ventricles are activated earlier, the ECG shows shorter PR with early ventricular
+
+depolarization in the form of initial slurring of the QRS complex, the so-called “delta wave”
+
+atrial impulses that conduct to the ventricles through both the bundle of Kent and the normal AV node/
+His-Purkinje system generate a broad “fusion complex”
+ECG features of WPW
+
+= PRinterval <120 msec
+
+= delta wave: slurred upstroke of the QRS (the leads with the delta wave vary with site of bypass)
+
+= widening of the QRS complex due to premature activation
+
+= secondary ST segment and T wave changes
+
+= tachyarrhythmias may occur most often in AVRT and AFib
+orthodromic AVRT: the most common arrhythmia in WPW stimulus from a premature complex travels up
+the bypass tract (ventricles to atria) and down the AV node (atria to ventricles) with narrow QRS complex
+(no delta wave because stimulus travels through normal conduction system)
+
+= comprises 95% of the re-entrant tachycardias associated with WPW syndrome
+antidromic AVRT: more rarely, the stimulus goes up the AV node (ventricles to atria) and down the bypass
+tract (atria to ventricles); wide and abnormal QRS as ventricular activation is only via bypass tract
+
+AFib in WPW Patients
++ AFib is the index arrhythmia in up to 20% of patients with WPW syndrome
+= usually intermittent rather than persistent or permanent
++ rapid atrial depolarizations in AFib are conducted antegrade through the bypass tract which is not able to
+filter impulses like the AV node can and thus the ventricular rate becomes extremely rapid (>200 bpm) and
+the QRS complex widens (“pre-excited AFib”)
+

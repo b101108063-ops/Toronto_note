@@ -1,0 +1,98 @@
+H54 Hematology
+
+Clinical Features
++ hypervolemia causing: CHF, headache, lethargy, dilutional anemia
++ CNS symptoms due to decreased cerebral blood flow: headache, vertigo, ataxia, and stroke
++ retina shows venous engorgement and hemorrhages
++ bleeding diathesis
+«= due to impaired platelet function, absorption of soluble coagulation factors (e.g. nasal bleeding, oozing
+
+gums)
++ ESRusually very low
+
+Treatment
++ plasmapheresis, chemotherapy
+
+Tumour Lysis Syndrome
+
+Definition
+
++ group of metabolic complications that result from spontaneous or treatment-related breakdown of cancer
+cells
+
++ more common in diseases with large tumour burden and high proliferative rate (high grade lymphoma,
+acute leukemia)
+
+Clinical Features
++ metabolic abnormalities
+= cells lyse, releasing K’, uric acid, PO4* (increased levels)
+= PO4* binds Ca** (decreased Ca**)
++ complications
+= lethal cardiac arrhythmia (increased K")
+= acute kidney injury (formerly known as renal failure) see Nephrology, NP21
+
+Treatment
++ prevention
+. aggressive IV hydration
+sal falinization not recommended due to risk of calcium phosphate or xanthine precipitation in renal
+tubules
+= allopurinol (prevents uric acid accumulation) or rasburicase (lowers existing uric acid)
+= correction of pre-existing metabolic abnormalities
+
++ dialysis
+Blood Products Trans
+Blood Products
+
++ RBCs, platelets, and coagulation factors (FP, cryoprecipitate, fibrinogen concentrate, factor concentrates)
+are available for transfusion
++ donated blood (1 U = 450-500 mL) is fractionated into these various components
+= centrifugation separates whole blood into RBCs and plasma
+= plasma is further fractionated
++ need to pool multiple units of platelets and WBCs to obtain therapeutic amounts
++ FP (previously known as FFP) is plasma frozen within 24 h of collection
+* cryoprecipitate is the high molecular weight precipitate generated when FP is thawed at low
+temperatures
+= single donor platelets and plasma can also be obtained by apheresis donations
+
+Specialized Products
++ irradiated blood products
+= prevent proliferation of donor T-cells in recipients at risk of GVHD
+= used for patients with severe T-cell immunodeficiency, on purine analogue chemotherapy, with
+Hodgkin lymphoma, candidates for BM transplant, or receiving directed transfusions from first-degree
+relatives, HLA-matched products, or intrauterine transfusions
++ CMV-negative blood products
+= seronegative pregnant women
+= intrauterine transfusions
+
+Red Blood Cells
+
+Packed Red Blood Cells
+
++ stored at 4°C
+
++ shelflife is 42 d after collection
+
++ infuse each unit over 2h (max of 4h)
+
+Toronto Notes 2025
+
+Antibody
+{inserum)
+
+Anti anti-B
+Anta
+Antik
+
+wil
+
+In Canada, blood products are
+eukodepleted via fitation immediately
+after donation; therefore itis considered:
+Low in lymphokines, resulting in a
+lower incidence of febrile nonhemolytic
+transfusion reactions
+CMV safe (because CMV is found in
+leukocytes)
+
+‘unit of packed RBC will increase Hb by
+approximately 10 git

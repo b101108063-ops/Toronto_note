@@ -1,0 +1,186 @@
+RH28 Rheumatology
+
+Treatment
++ acute gout
+= NSAIDs: high-dose, then taper as symptoms improve
+= ice, rest and elevation of the affected limb
+= corticosteroids: IA (preferred), PO, or IM (if renal, cardiovascular, or GI disease and/or if NSAIDs
+contraindicated or failed). IV for patients with multiple joints flaring, unable to take oral medication,
+and already have IV line
+«= colchicine: greatest benefit if used within the first 12-24 h. 1.2 mg at the first signs of an attack followed
+by 0.6 mg 1 h later and 0.6 mg BID on subsequent days until the attack has resolved. Caution in renal
+failure and/or older adults
++ chronic gout
+= conservative
++ avoid foods with high purine content (e.g. visceral meats, sardines, shellfish, beans, peas)
+« avoid drugs with hyperuricemic effects (e.g. pyrazinamide, ethambutol, thiazide, low dose ASA,
+cyclosporine)
+additional management of lifestyle factors: limiting alcohol intake, limiting high-fructose corn
+syrup, for overweight/obese patients weight loss is recommended (regardless of activity level)
+= medical
+ antihyperuricemic drugs first line: allopurinol (not nephrotoxic), second line: febuxostat. Both
+decrease uric acid production by inhibiting xanthine oxidase. Start low and titrate up. Do not use
+febuxostat if history of cardiovascular disease
+* uricosuric drugs (probenecid, sulfinpyrazone): very rarely used in combination with allopurinol or
+febuxostat in patients in whom hyperuricemia is not controlled with the latter
+. few-dose NSAID/colchicine should be started with urate-lowering therapy for 3-6 mo to avoid an acute
+are
+= inrenal disease secondary to hyperuricemia, use low-dose allopurinol and monitor Cr
++ indications for treatment with uric acid lowering therapy (ULT) include
+= attacks (22/yr), tophi, bone erosions/arthritis
+
+.
+
+Definition
++ joint inflammation caused by calcium pyrophosphate (CPP) crystal deposition in connective tissue
+
+Etiology and Pathophysiology
+
+* acute inflammatory arthritis due to phagocytosis of IgG-coated CPP crystals by neutrophils and subsequent
+release of inflammatory mediators within joint space
+
+usually monoarticular
+
+slower onset in comparison to gout, lasts up to 2-3 wk but is self-limited
+
+Risk Factors
+
++ old age, advanced OA, neuropathic joints
+
++ other associated conditions: hyperparathyroidism, hypothyroidism, hypomagnesemia, hypophosphatasia
+(low ALP), hemochromatosis
+
+Clinical Presentation
+
++ affects knees, wrists, MCPs, hips, shoulders; less likely elbows, ankles, big toe, spine
+
+asymptomatic crystal deposition (seen on radiograph only)
+
+acute crystal arthritis (self-limited flares of acute inflammatory arthritis resembling gout)
+pseudo-OA (progressive joint degeneration, sometimes with episodes of acute inflammatory arthritis)
+pseudo-RA (symmetrical polyarticular pattern with morning stiffness and constitutional symptoms)
+frequently triggered by dehydration, acute illness, surgery, trauma
+
+Investigations
++ joint aspirate: rule out septic arthritis and gout
+
++ CPP crystals: present in 60% of patients, often only a few crystals, positive birefringence (blue) and
+rhomboid shaped
+
+x-rays show chondrocalcinosis in 75%: radiodensities in fibrocartilaginous structures (e.g. knee menisci) or
+linear radiodensities in hyaline articular cartilage
+
+Treatment
+
++ acute CPPD: joint aspiration, IA steroid injection, NSAIDs, cool packs, rest, and splinting
+
++ chronic CPPD: NSAIDs with gastroprotection and/or low-dose prophylactic colchicine 0.6-1.2 mg/d PO
+(controversial)
+
+Toronto Notes 2025
+
+Ce)
+
+2020AmericanCollege of Rheumatology Guideline
+
+forthe Management of Gout
+
+Atti Rheumatol 2020;72:879.95
+
+Inte urate lowering therapy (ULT fr patients with
+2ASCtophi
+Radiographic damage atiutableto gout
+Frequent got fares (22/)
+
+‘Alopurnols prefered overallothe ULI.
+
+agent fora patients fndudng CKD tage 23)
+
+hnite concomitant ant-nflammatory prophylaxis
+
+{€9. colchicine, NSAIDs, prednisoneprednisolne)
+
+for3-6mo
+
+Continue ULT to target and maintain serum urate
+
+<émgidl
+
+‘npatens with equent gout fares ornomreslvng SC
+
+tophi who have failed to achieve serum uate <6 mg
+
+nuricosurics, xanthine oxidase inhibitors, and other
+
+intervention, pegoticae shouldbe initiated andthe
+
+‘arent ULT shouldbe discontinued
+
+Gout fares shoul be managed with NSAIDs, low-dose
+
+Cobchicine, or glucocorticoid as is-ne agents
+
+fist-ne
+
++ Hip
+
++ Polyarticular wrist 3
++ Hand (MCP) 8
++ knee £
++ Foot (Ist MTP = podagra) >
+
+Figure 14. Common sites of
+involvement of CPPD
+
+e.. forthe Management
+
+of (PPD
+
+Aan Rheum Dis 2014705715
+
+Pharmacological and non-pharmacological
+
+treatment should both be used to manage.
+
+Treating acat CP erst oe
+packs, res, joint asp injection of
+
+Tong: acting ect beside
+
+for many patients
+
+Acute CP crystal athitiscan be treated
+
+systemically with NSAIDs and low-dose orl
+
+Colchicine although theiruse may bed in
+
+der patients by torcty and comorbidity
+
+Avi tapering course of oalor parenteral GCS
+
+or ACTH maybe effective foracte CP crystal
+
+‘rophyaxs against frequent recurrent acute CPP
+caystalartrts.
+
+Forpatints wth and CPPD, management goals
+and options are the same as those for Okalone.
+
+The order of pharmacological preference for chronic
+(PP crystal infammatory artis MSAD and!
+
+x colchicine, low-dose corticosteroid MT, and
+
+hydroxychloroquine.
+
+Associated conditions shouldbe treated detected.
+There reno dsease-modiying treatments for CPP
+caystalartrts and no treatmentisindicated for
+
+asymptomatic chondrocalcinsis
+
+sos
+
+es
+

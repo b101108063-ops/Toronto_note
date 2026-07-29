@@ -1,0 +1,138 @@
+W27 Urology
+
++ locally advanced disease
+«= storage and voiding symptoms, ED (all uncommon without spread)
++ metastatic disease
+= bony metastases to axial skeleton common
+«= visceral metastases are less common (liver, lung, and adrenal gland most common sites)
+«= leg pain and edema with nodal metastases obstructing lymphatic and venous drainage
+
+Methods of Spread
++ local invasion
++ lymphatic spread to regional nodes
+
+= obturator > iliac > presacral/para-aortic
++ hematogenous dissemination occurs early
+
+Investigations
++ DRE
+
++ PSA elevated in the majority of patients with CaP
+
++ TRUS-guided needle biopsy
+
++ bone scan (only if bone pain, high-risk disease, Gleason score >7, or PSA >20 ng/mL)
+
++ CT scan to assess metastases
+
++ MRI: now established role in detection, staging, MRI-guided biopsy, and active surveillance
+
+Table 18. 2018 TNM Classification of Prostate Carcinoma (AJCC 8th edition)
+
+T N M
+TX: primary tumour cannot be assessed NX:regionallymph nodeswere not assessed MO: no distant metastasis
+TO: no evidence of primary tumour NO: no regional lymph node metastasis Mt: distant metastasis,
+
+dita: non-regionallymphnodes
+Tt: clinical undetectable tumour, normal ORE and: spread to regional lymph nodes tb: bones)
+
+TRUS dtc: other ste withor without bone dsease
+Tfa: tumour incidental histlogicfinding in-S% of NSufix
+
+tissue resected on TURP
+1b: tumour incidental histologic finding in>5% of biopsy only
+tissue resected on TURP (fcregionallymphnodemetastasisidentified by NA.or confirmed
+TYe:tumour identified by needle biopsy (due to _—_creneedlebiopsy only pM: bones) micrscop
+clevated PSAlevel)
+
+confirmed
+
+microscopically confirmed
+12: palpable, confined to prostate
+
+2a: tumour involving sone half one abe
+
+2b: tumourinvolving> one halfof on lobe, but
+
+notboth lobes
+
+2c: tumour invlving both obes
+
+T3:tumour extends through prostate capsule
+3a: extracapsular extension (urilateral or bilateral)
+3b: tumour invading seminal vesicles
+
+TA: tumour imadesadjacent structures (besides
+seminal vesicles)
+
+TPrefix
+(9:clinicalT
+(0): pathological . There i no pathological 71.
+
+Tsutfix
+(tm): synchronous primary tumours are foundin single
+organ
+
+(sn regional lymph node metastasis Wentied bySLN pM: distant metastasis, microscopically confirmed
+pMta:non-regional lymph nodes, microscopically
+
+pMccother sites) with or without bone disease,
+
+Table 19. Prostate Cancer Mortality Risk
+
+Low-Risk Intermediate-Risk High Risk
+(itany offollowing) (itany offollowing) {if any offollowing)
+PSA 10 10:20 >20
+Gleason Score 1 Grade Group) T Grade Group 2and 3 8-10 Grade Group 4 and 5)
+Stage pra prab-T2e pra
+Treatment
+
++ TI/T2 (localized, low-risk)
+= ifadequate life expectancy or no other significant comorbidities, consider active surveillance vs.
+definitive local treatment (RP, brachytherapy, or EBRT)
+= active surveillance for low-risk, small volume Gleason score <7 prostate cancer shown to be safe for
+most
+= minimal differences in cure or recurrence rates between definitive treatment modalities
+«= in older population: watchful waiting and palliative treatment for symptomatic progression
+= alternative treatment options include: HIFU, cryoablation, focal laser ablation
+« Ti/T2 (intermediate or high-risk)
+« definitive therapy over active surveillance
+= watchful waiting in elderly or infirm
+
+Toronto Notes 2025
+
+2022 Canadian Urological Assocation
+Recommendations on Prostate Cancer Saeening and
+Early Diagnosis. CUAI 2022; 165): 184-96
+
+Men with an average riskof prostate cancer electing
+toundergo PSAscrening should start at age 50. Men
+with an increased risk of prostate cancer should stat
+ataged5
+
+Formen electing to undergo PSA screening the
+interalsbetween esting sould beindviualzed
+based on previous PSAlevls:
+
+PSA<tngimL-+q4yr
+
+PSAT3ngiml + 4q2yr
+
+PSA> 3ngiml + mor frequent PSAtesting intervals
+
+oxadjunctve testing strategies
+
+Formen undergoing PSAscrening, the age at wich to
+iscontnue screening sould be based on curt PSA
+levelsand life expectancy
+
+For men aged 60 with PSA 1nginl consider
+discontinuing
+
+For allother men » discontinue atage70
+
+For menvith life expectancy <10yr- discontinue
+
+See Landmark Urology Trials table for mor information
+on 10-r outcomes for patients with localized prostate
+cance after monitoring, surgery, or radiotherapy

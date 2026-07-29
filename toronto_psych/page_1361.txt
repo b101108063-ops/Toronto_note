@@ -1,0 +1,166 @@
+PS7 Psychiatry
+
+= make a safety plan that could include an agreement that they will:
+
+not harm themselves
+
+eee
+
+or if their suicidal feelings return or intensify
++ patients with depression: consider hospitalization if symptoms are severe or if psychotic features are
+present; otherwise outpatient treatment with good supports and pharmacotherapy
+* patients with alcohol- or substance-related issues: suicidality usually resolves with abstinence for a few
+
+days; if not, suspect depression
+
+avoid alcohol, drugs, and situations that may trigger suicidal thoughts
+follow up with you at a designated time
+contact a health care worker, calla crisis line, or go to an emergency department if they feel unsafe
+
+* patients with personality disorders: crisis intervention, may or may not hospitalize
+
++ patients with schizophrenia/psychosis: hospitalization might be necessary if there are acute safety concerns
+* patients with parasuicidal behaviours/self-mutilation:
+
+psychotherapy with brief crisis intervention when
+
+necessary, medications to treat underlying psychiatric condition if applicable
+
++ characterized by a significant impairment in reality testing
+
++ positive symptoms
+
+= delusions or hallucinations (with or without insight into their pathological nature)
+= grossly disorganized or abnormal motor behaviours (including catatonia)
+
++ formal thought disorder
+
++ negative symptoms of schizophrenia
++ diminished emotional expression (ie. affective flattening)
+
+= anhedonia
+«= avolition
+= alogia
+
+= asociality
+
+Differential Diagnosis of Psychosis
+
+Approach
+
++ differentiate among psychotic disorders and distinguish them from other primary diagnoses with psychotic
+
+features
+
+consider symptoms, persistence, and time
+symptoms: the primary diagnosis needs full criteria to be met
+
+= mood: depressive episodes with psychotic features, manic episodes with psychotic features
+
+= psychotic: consider symptoms in Criterion A of schizophrenia (see Criteria for Schizophrenia, PS8)
++ persistence: is there a time when certain symptom clusters are present without other clusters?
+
+= ie. if there is a period of time with mood symptoms, but not psychotic symptoms, consider mood
+
+disorder
+
+= i. if psychotic symptoms occur only with mood symptoms, consider mood disorder with psychotic
+
+features
+
+= ie. if during a2 wk period where psychotic symptoms persist in the absence of mood symptoms,
+consider schizoaffective disorder
+= i.e. if long periods with psychotic symptoms and brief or rare mood symptoms, consider schizophrenia
+
+time: how long have the symptoms been present?
+
+Table 1. Differentiating Psychotic Disorders
+
+Disorder Psychotic Symptoms Duration
+Brief Psychotic Disorder 1 positive symptoms of Criterion A <1 mo with eventual full return to premorbid
+functioning
+‘Schizophreniform Disorder Criterion A 16m
+Schizophrenia Criterion A >6mo
+Schizoaffective Disorder Criterion A*major mood episode(MDE or manic) 22 >1mo
+wk of psychotic symptoms without mood symptoms
+Delusional Disorder >1.delusions (if hallucinations, related to delusional — >1mo
+theme)
+Substance-Induced Psychotic Disorder Delusions or hallucinations Onset duringintoxication/withdrawal,resolvein <1
+mo without use
+2 to Mood Disorder Mood symptoms dominant delusions/halucinations Psychosis may bepresent only forthe duration ofthe
+
+(mood congruent)
+
+mood episode
+
+Relevant Investigations
+
++ CBC, electrolytes (including extended electrolytes), creatinine, glucose, urinalysis, urine drug screen, TSH,
+
+and vitamin B12
+
++ LFTs, fasting lipids, HbA1C to obtain baseline levels prior to antipsychotic initiation
++ optional: ECG (several antipsychotics affect cardiac conduction)
++ if clinically indicated, order infectious work-up, inflammatory markers, and brain imaging
+
+Toronto Notes 2025
+
+Delusions: fixed, false beliefs thatare not
+amenable to change in light of conflicting
+evidence
+
+Hallucinations: perceptual experiences
+‘occurring without an external stimulus
+
+Duration of Time Ditferentiates the
+following 3 Psychotic Disorders
+
+Figure 1. Differentiating psychotic
+disorders by duration
+
+Dx for Psychosis
+Primary psychotic disorders:
+schizophrenia schizophreniform, brief
+psychotic, schizoaffective, delusional
+disorder
+
+‘Mood disorders: MDD with psychotic
+features, bipolar disorder (manic or
+depressive episode with psychotic features)
+
+Personality disorders: schizotypal,
+schizoid, borderline, paranoid, obsessive-
+compulsive (they predispose to psychosis,
+but presence of psychotic symptoms
+require another diagnosis)
+
+General medical conditions: tumour, head
+trauma, dementia, delirium, metabolic,
+infection, stroke, temporal lobe epilepsy
+
+‘Substance-induced psychosis: onset
+during intoxication or withdrawal,
+prescribed medications, toxins
+
+)
+
+Duration of Untreated Psychosis as Predictor of
+Long-term Outcome in Schizophrenia: Systematic
+Review and Meta-analysis,
+
+Brit) Pychiatry 2014:206:88-94
+
+Purpose: Torevew the association between DUP and
+long-termoutcames of schizophrenia
+
+Methods: Asystematicreview and meta-anahsis onthe
+effects of duration of untreated psychosis on.
+social, oc qualty off outcomesatleast2yr
+sychosisin people with schizophrenia
+Results: 3 studies were included, Longer DP was
+associated with poorer general symptomatic outcome,
+more severe postive and negative symptoms, lesser
+Fketihod of remission, and poorer social functioning
+and global outcomes, Longer DUP was not associated
+with employment, quay of fe or hospital treatment
+

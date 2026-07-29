@@ -1,0 +1,120 @@
+P83 Pediatrics
+
+Pathophysiology
+
++ toxin binds, invades, and destroys colonic epithelial cells, causing bloody diarrhea
+
++ toxin enters the systemic circulation, attaches to, and injures endothelial cells (especially in the kidney),
+causing a release of endothelial products (e.g. von Willebrand factor, platelet aggregating factor)
+platelet/fibrin thrombi form in multiple organ systems (e.g. kidney, pancreas, brain) resulting in
+thrombocytopenia
+
+RBCs are forced through occluded vessels, resulting in fragmented RBCs (schistocytes) that are removed by
+the reticuloendothelial system (hemolytic anemia)
+
+Clinical Features
+
++ initial presentation of abdominal pain and diarrhea, followed by bloody diarrhea
+
++ 3-10d from onset of diarrhea, will develop anemia, thrombocytopenia, and renal insufficiency
++ pallor, jaundice (hemolysis), edema, petechiae, HTN, decreased urine output
+
+Investigations
++ CBC (anemia, thrombocytopenia), blood smear (schistocytes), electrolytes (due to fluid loss), renal
+function, urinalysis (microscopic hematuria), stool cultures, and verotoxin/shigella toxin assay
+
+Management
+
++ mainly supportive: nutrition, hydration, ventilation (if necessary), blood products
+
++ dialysis if symptomatic uremia, refractory electrolyte abnormality (e.g. hyperkalemia), or severe fluid
+overload
+
++ STEC-HUS: avoid antibiotics, NSAIDs, and antidiarrheal agents; no treatments associated with improved
+
+outcomes
+
+atypical HUS: plasma exchange or eculizumab
+
+Prognosis
+
++ STEC-HUS: <5% mortality rate, 30% develop long-term renal damage (e.g. HTN, proteinuria, decreased
+GER)
+
+atypical HUS: worse prognosis compared to STEC-HUS, 50% of cases result in death or dialysis-dependent
+renal disease
+
+Nephritic Syndrome
+
+Definition
+
+* acute or chronic syndrome affecting the kidney, characterized by glomerular injury and inflammation
+
++ defined by hematuria (>5 RBCs per high-powered microscope field), presence of dysmorphic RBCs, and
+RBC casts on urinalysis
+
++ often accompanied by at least one of: proteinuria (<50 mg/kg/d), edema, HTN, azotemia, and oliguria
+
+Epidemiology
++ highest incidence in children ages 5-15 yr
+
+Etiology
+
++ humoral immune response to a variety of etiologic agents > immunoglobulin deposition > complement
+activation, leukocyte recruitment, release of growth factors/cytokines > glomerular inflammation and
+injury > porous podocytes > hematuria + RBC casts + proteinuria
+
++ HTN secondary to fluid retention and increased renin secretion by ischemic kidneys
+
+Table 42. Major Causes of Nephritic Syndrome
+
+Decreased3 Normal C3
+Primary Post-infectious GH (streptococcal infections the most IgAnephropathy
+(idiopathic) common) Idiopathicrapidy progressiveGN
+
+Membranoprolterative GN
+Type | (50-80% have decreased C3)
+Type ll(>B0% have decreased C3)
+
+Secondary SLE
+
+(systemic disease) Bacterial endocarditis
+‘Abscess or shunt nephritis
+Cryoglobulinemia
+
+‘Ant-GBM disease
+
+HSP (very common)
+Polyarteritis nodosa
+Granulomatosis with polyangits
+Goodpasture’s syndrome
+
+Toronto Notes 2025
+
+Kidney injury Manifestations
+
+‘Azotemia: biochemical abnormality with
+serum buildup of nitrogenous waste
+products e.g. elevated serum urea) before
+‘onset of clinical symptoms
+
+Uremia : progression of azotemia with
+development of clinical symptoms,
+induding nausea, vomiting, fatigue,
+anorexia, weight loss, muscle cramps,
+pruritus, or changes in mental status
+
+‘Nephritic Syndrome
+
+PHAROH
+
+Proteinuria (<50 mg/kg/d)
+Hematuria
+
+Azotemia
+
+RBC casts
+
+Oliguria
+
+HIN

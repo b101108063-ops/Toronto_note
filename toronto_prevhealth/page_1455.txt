@@ -1,0 +1,94 @@
+R Respirology
+
+Laura Aronoff, Tony Ning, Nandana Parakh, Ronesh Sukhdeo, and Kevin Zhang, chapter editors
+Vrati M. Mehra, Zhongyu (Hugh) Huang, and Farah Qaiser, associate editors
+
+Alisia Chen, Kathleen Orrell, and Siobhan Wilson, EBM editors
+
+Dr. Anju Anand, Dr. Sarah Brode, and Dr. Ambrose Lau, staff editors
+
+Acronyms... 0... ee eee eee eee eee eee eee R2
+
+Approach to the Respiratory Patient .............. R2
+Basic Anatomy Review
+
+Differential Diagnoses of Common Presentations
+
+Pulmonary Function Tests
+
+Chest X-Rays
+
+Airway Disease... 00.0... e eee eed R7
+Pneumonia
+
+Asthma
+
+Chronic Obstructive Pulmonary Disease
+
+Bronchiectasis
+
+Cystic Fibrosis
+
+Interstitial Lung Disease... 0.2.0... ee eee ee R13
+Unknown Etiologic Agents
+Known Etiologic Agents
+
+Pulmonary Vascular Disease....... 2.0... 00000 R19
+Pulmonary Hypertension
+
+Pulmonary Embolism... 2.00.00. cece eee e eee R20
+Pulmonary Vasculitis
+Pulmonary Edema
+
+Diseases of the Mediastinum and Pleura... .........' R23
+Mediastinal Masses
+
+Mediastinitis
+
+Pleural Effusions
+
+Complicated Parapneumonic Effusion
+
+Empyema
+
+Atelectasis
+
+Pneumothorax
+
+Asbestos-Related Pleural Disease
+
+Mesothelioma
+
+Respiratory Failure... 2... eee ee ee ee eee R27
+Hypoxemic Respiratory Failure
+
+Hypercapnic Respiratory Failure
+
+Acute Respiratory Distress Syndrome
+
+Neoplasms... 0.0... eee cee cee eee eee eee eee R29
+Lung Cancer
+Approach to the Solitary Pulmonary Nodule
+
+Sleep-Related Breathing Disorders............... R29
+Hypoventilation Syndromes
+
+Sleep Apnea
+
+Introduction to Intensive Care... 0.6... ee eee ee R31
+
+Intensive Care Unit Basics
+Lines and Catheters
+Organ Failure
+
+Shock
+
+Sepsis
+
+Common Medications.
+
+Landmark Respirology Trials.
+
+References... 12... e eee eee eee eee
+
+RI Respirology Toronto Notes 2025

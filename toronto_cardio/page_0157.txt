@@ -1,0 +1,82 @@
+67 Cardiology and Cardiac Surgery
+
+Signs and Symptoms
+dyspnea, fatigue, palpitations
+abdominal pain
+may mimic CHF (especially right-sided HF)
+
+= venous congestion, ascites, hepatosplenomegaly, edema, pleural effusions
+increased JVP, Kussmaul’s sign (paradoxical increase in JVP with inspiration), Friedreich’s sign (prominent
+“y” descent)
+. BP usually normal (and usually no pulsus paradoxus)
+
+precordial examination: + pericardial knock (early diastolic sound)
+
++ see Table 19 for differentiation from cardiac tamponade
+
+Investigations
+
++ ECG: non-specific findings low voltage, flat T wave, + AFib
+
++ CXR: pericardial calcification, effusions
+
++ echo/CT/CMR: pericardial thickening, calcification + characteristic echo-Doppler findings (Note: CMR is
+discouraged if patient is hemodynamically impaired)
+
++ cardiac catheterization: indicated if other, non-invasive imaging modalities are insufficient to make
+diagnosis; assess for equalization of end-diastolic chamber pressures
+
+diagnosis: right HF symptoms + diastolic filling impairment caused by constriction (documented on >1
+
+imaging modality including echo, CT, CMR, and/or catheterization)
+
++ note: in up to 20% of patients, constriction can occur even with normal thickness of the pericardium
+(pericardiectomy equally efficacious in these patients)
+
+Treatment
+
+* surgery (pericardiectomy): mainstay treatment for chronic, permanent constrictive pericarditis
++ medical therapy: can be used in 3 situations
+
+eo. for specific pathologies/etiologies (e.g. TB)
+
+2. for transient constriction that is temporarily caused by pericarditis, or new constriction diagnosis
+with evidence of inflammation of the pericardium (use anti-inflammatories)
++ 3. supportive when high/prohibitive surgical risk (goal is to relieve congestive symptoms with
+
+diuretics, salt restriction)
++ prognosis best with idiopathic or infectious cause and worst in post-radiation
+death may result from HF
+
+Table 19. Differentiation of Constrictive Pericarditis vs. Cardiac Tamponade
+
+Characteristic Constictive Pericarditis Cardiac Tamponade
+we yee ey
+Kussmau!'s sign Present Absent
+Puisusparadoxus Uncommon Aways
+
+Pericardial knock Present Absent
+Hypotension Variable Severe
+
+Toronto Notes 2025
+
+DDx Pulsus Paradoxus
+
+Most etiologies of RV failure except
+restrictive cardiomyopathy (e.g. acute
+VM)
+
+Constrictive pericarditis (rarely)
+
+Severe obstructive pulmonary disease (e.g.
+asthma)
+
+Pneumothorax
+
+PE
+
+Cardiogenic shock
+
+Cardiac tamponade
+Effusive-Constrctive pericarditis
+

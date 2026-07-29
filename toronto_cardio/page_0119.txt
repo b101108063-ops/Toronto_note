@@ -1,0 +1,81 @@
+C29 Cardiology and Cardiac Surgery Toronto Notes 2025
+
+Pacemaker Complications
+
++ complications related to surgical implantation include venous access (pneumothorax, hemothorax, air
+embolism), pacemaker leads (perforation with possible pericardial effusion or tamponade, malposition),
+
+pocket hematomas, and infection; rarer complications include venous stenosis or thrombosis, and tricuspid
+
+regurgitation
+
+complications specific to the pacemaker include a failure to pace, failure to sense, pulse generator failure,
+
+pacemaker syndrome, lead fractures, and pacemaker-mediated tachycardia (note: PMT is benign and self-
+
+limited, though may be bothersome to patients)
+
+Pacing Techniques
+
+temporary: transvenous (jugular, subclavian, femoral) or external (transcutaneous) pacing
+permanent: transvenous into RA, apex of RV, or both
+
+single or dual chamber: can sense and pace atrium, ventricle, or both
+
+rate responsive, able to respond to physiologic demand
+
+biventricular pacing (cardiac resynchronization therapy): leads are guided to RV and LV (via coronary
+sinus) to stimulate both ventricles
+
+Implantable Cardioverter Defibrillators
+
+SCD usually results from VFib, sometimes preceded by monomorphic or polymorphic VT
+ICDs detect ventricular tachyarrhythmias and are highly effective in terminating VT/VFib and in aborting
+scD
+
+mortality benefit vs. antiarrhythmics in secondary prevent and selected patients for primary prevention
+CRT-D may be of benefit in patients with LBBB, prolonged QRS, and LVEF <35%
+
+see Heart Failure, C40 for current treatment recommendations
+
+Catheter Ablation
+
+Modalities
+radiofrequency (RF) ablation: a low-voltage high-frequency form of electrical energy (similar to cautery);
+RF ablation produces small, homogeneous, necrotic lesions approximately 5-7 mm in diameter and 3-5 mm
+in depth
+cryoablation: technology which uses a probe with a tip that decreases in temperature to -20°C and -70°C;
+small necrotic lesions are produced in a similar fashion to RF ablation; when brought to -20°C, the catheter
+tip reversibly freezes the area; when brought to -70°C for 5 min, it permanently scars the tissue
+
+= advantage: can “test” areas before committing to an ablation in locations at high risk for heart block
+
+«= disadvantage: takes much longer than RF (5 min per cryoablation vs. 1 min per RF ablation)
+
+= cryoablation is most commonly used for AFib
+
+Indications
++ paroxysmal SVT
+= AVNRT: accounts for more than half of all cases; slow AV nodal pathway is targeted for ablation in these
+cases
+accessory pathway (orthodromic reciprocating tachycardia): 30% of SVT
+= re-entrant rhythm with an accessory AV connection as one of the limbs
+= corrected by targeting the accessory pathway
+atrial flutter: re-entry circuit in RA
+AFib: primarily isolation of pulmonary vein triggers, usually with additional ablation in the atrial
+chambers
+idiopathic VT: focus arises from the right ventricular outflow tract or left ventricular outflow tract and less
+commonly originates in the inferoseptal LV near the apex
+= scar mediated VT most commonly due to scarring from previous MI or other cardiomyopathies;
+ablation less often successful and not first line therapy
+= significant benefit was seen with catheter ablation vs. antiarrhythmic drug escalation among patient
+with amiodarone-resistant VT, in contrast to non-amiodarone resistant VT
+
+Major Complications
+
++ cardiac: high grade AV block requiring permanent pacemaker (less risk with cryoablation), new or
+worsening arrhythmia, tamponade, pericarditis
+
++ vascular: hematoma, vascular injury, thromboembolism, TIA/stroke
+
++ pulmonary: PE

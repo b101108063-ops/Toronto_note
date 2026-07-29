@@ -1,0 +1,171 @@
+B39 Obstetrics
+
++ maternal-fetal indications for inductios
+= isoimmunization, PROM, and chorioamnionitis
++ fetal indications for induction:
+= suspected fetal compromise as evidenced by biochemical or biophysical indications
+= macrosomia, fetal demise, IUGR, oligo/polyhydramnios, anomalies requiring surgical intervention,
+and twins
+«= previous stillbirth or low PAPP-A
+
+Risks
+
++ failure to achieve labour and/or vaginal birth
+
++ tachysystole with fetal compromise or uterine rupture
++ maternal side effects to medications
+
++ uterine atony and PPH if labour is prolonged
+
+Contraindications
++ maternal
+= any contraindication to vaginal delivery (prior classical or inverted T-incision CD or uterine surgery
+(e.g, myomectomy)
+unstable maternal condition
+active maternal genital herpes
+invasive cervical carcinoma
+pelvic structure deformities
+previous uterine rupture
++ maternal-fetal
+= placenta previa or vasa previa
+= cord prolapse or cord presentation
++ fetal
+= fetal distress (i,
+
+abnormal FHR tracing) or malpresentation
+
+Methods for Induction of Labour
+CERVICAL RIPENING
+
+Definition
+
++ use of medications or other means to soften, efface, and dilate the cervix; increases likelihood of successful
+induction
+
++ ripening of an unfavourable cervix (Bishop score <6) is warranted prior to IOL
+
+Methods
++ Foley catheter placement to mechanically dilate the cervix: first-line when feasible
+intravaginal PGE2 gel (Prostin® gel): long and closed cervix
+= recommended dosing: q6-12h up to 3 doses
+intravaginal PGE2 (Cervidil’): long and closed cervix
+= continuous release, can be removed if needed
+= controlled release PGE2
+= assess at 12 h and 24 h, usually not used for >24 h
+intracervical PGE2
+intravaginal PGE1 misoprostol (Cytotec’): long and closed cervix
+= inexpensive, stored at room temperature
+= more effective than PGE2 for achieving vaginal delivery and less epidural use
+= contraindicated in the third trimester with previous CD
+
+INDUCTION OF LABOUR
+
+Amniotomy
+
++ artificial ROM (amniotomy) to stimulate prostaglandin synthesis and secretion; may try this as initial
+measure if cervix is dilated and soft, the membranes can be felt, and if the head is well applied to the cervix
+
++ few studies address the value of amniotomy alone for IOL
+
++ amniotomy plus IV oxytocin: more patients delivered vaginally at 24h than amniotomy alone (RR=0.03)
+and had fewer instrumental vaginal deliveries (RR=5.5)
+
+Oxytocin
+
++ oxytocin (Pitocin*): 10 U in 1 L normal saline, run at 0.5-2 mU/min IV increasing by 1-2 mU/min q20-60
+min
+
++ reduces rate of unsuccessful vaginal deliveries within 24 h when used alone (8.3% vs. 54%, RR-
+
++ ideal dosing regimen of oxytocin is not known
+
++ current recommendations: use the minimum dose to achieve active labour and increase q30 min as needed
+
++ reassessment should occur once a dose of 20 mU/min is reached
+
++ caution is needed in patients with previous CD or uterine surgery
+
+16)
+
+Toronto Notes 2025
+
+@
+
+idence for CervcalRipening Methods (S06C
+Guidelines)
+Metaanalysisof fie trials has condded that the se of
+conytcintrigen the cervixis not effective
+
+Ether PGE1 or PGE vagina geor inserts canbe used
+toripenthe ceri, choice depending onthe degree
+ripening and outpatient management needed. For
+outpatient management, cervical baloonis prefered
+and PGE2 shouldbe considered in patient wth
+‘normal EFM f balloon isnot an option. Frinpatient
+‘management, cervical balloon, oa PET, or bath
+simitaneousyis recommended,
+
+Vaginal Prostaglandin (PGE2 and PGF2a) for
+
+Induction of Labour at Term
+
+Cochrane DB Syst Rev 20146:CD003101
+
+This analysis examined the results of 70 RCTs (n=11487_
+women), Use of vagina PGE increased the isk of
+‘uterine hyperstimulation with FHR changes (RR3.16;
+$551 1615.98) and ikely reduces the CD ate sighy
+(RR0.9; 95% 0.81.02 compared to placebo or
+rotreatment, There were no detectable dferences
+ineffectiveness between gelor tablet forms of PGE2
+between sustained release pessaris and PCE2
+geltablets
+
+Theoretical advantages between intravaginal EZ
+(Cervidt) compared intravaginal prostaglandin get
+Siow, continuous release
+
+Alt to use ontocn 30min after removals. 6h
+
+for gel
+
+Alitytoremove insert required (e.g excessive
+uterine activity)
+
+a
+
+Labourinductionys. Expectant Managementin
+
+Low Risktuliparous Women ARRIVE Trial)
+
+NEM 2018;379513-523
+
+Purpose: Toassess whether induction offabour
+betwen 390k Gand 406 wk Ginproves
+perinatal and maternal outcomes
+
+Methods: 6106 low-sk nulipaous women were
+randomiedto the elective induction or the expectant
+‘management groups. The primary outcome wasa
+Composite outcome of perinatal death or severe
+reanatal comp ications, Te main secondary outcome
+was the rate of CD
+
+Results The primary perinatal outcome occurred in
+4.3% of neonate omthe elective induction group
+and 54 of neonates fromthe expectant management
+soup (RR: 0.80, 95% Ct: 064-100; P-0.049, PcO.046
+foc signficance.Thisresuh was consstentafter
+adjusting for other maternal factors. CDoccuredin
+
+‘18.6 %of induction group mothers compared to 22.3%
+expectant management group mothers (RR: 0.84;
+95% (:0276-093,P.00% There wereno significant
+iferencesin rimaryorsecondary outcomes in
+subgroup analyses
+
+Conclusion: Bective induction oflbour between 3940
+and 410 vk Gh did ot resutin increased inddenceot
+averse perinatal outcomes and resulted in ewer CDs
+
+Oxytocin t¥2= 35 min

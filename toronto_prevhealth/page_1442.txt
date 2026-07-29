@@ -1,0 +1,134 @@
+PH24 Public Health and Preventive Medicine
+
+Cost Utility Analysis (CUA)
+
++ special case of CEA where benefits are stated in a value that reflects patient preferences (i.e., utility)
+
++ the most commonly used outcome measure is quality-adjusted life years (QALY) (see Quality Adjusted Life
+Year, PH13)
+
+Cost Benefit Analysis (CBA)
+
++ ananalysis which compares the total expected costs with the total expected benefits of actions
+
++ costs are controlled for inflation and market changes so that the effect of the change is evaluated over a
+consistent, preset financial value
+
++ CBAs can be challenging to use because outcomes such as better health are assigned monetary values
+
+Managing Disease Outbreak
+
+Definitions
+
+Outbreak
++ incidence of new cases beyond the usual frequency of disease in a population or community in a given time
+
+Endemic
++ consistent existence of infectious agent or disease in a given population or area
+
+Epidemic
+
++ an increase, often sudden, in cases of a disease above what is usually expected in a community or region
+(e.g. SARS epidemic)
+
+* can occur due to a recent increase in the virulence or amount of an agent, introduction of a new agent
+toan area, enhanced mode of transmission of the agent, altered host response, and/or increased host
+susceptibility through more exposure or portals of entry
+
+Pandemic
++ epidemic that has spread across international or intercontinental boundaries, affecting a large number of
+people (e.g. COVID-19 pandemic)
+
+Attack Rate
++ proportion of an initially disease-free population that develops the disease over a specified time period
++ = of new cases of disease) / (initial population size)] * 100%
+
+Secondary Attack Rate
+
++ the proportion of individuals who develop disease as a result of exposure to primary contacts during the
+incubation period
+
++ = [(total # of cases - initial # of cases) / (# of susceptible individuals - initial # of cases)] * 100%
+
++ measure of infectiousness, which reflects the ease of disease transmission
+
+Virulence
++ measure of an infectious agent to cause significant sickness
++ = ( of cases that are severely ill or died) / (total # of cases)
+
+Case-Fatality Rate (CFR)
++ proportion of individuals with the disease who died as a result of the illness during a specified time period
++ = [( of cases that died) / (total # of cases)] * 100%
+
++ must be clearly differentiated from the mortality rate
+
+Mortality Rate
++ proportion of the population that died from any cause during a specified time period
++ crude mortality rate (unadjusted for age)
+
+Basic Reproduction Number (RO)
++ the average number of secondary infections that arise from one infection
++ can only be calculated in a susceptible population
+
+Toronto Notes 2025
+
+Canada’s Response to the COVID-19
+Pandemic
+
+Inlate 2019, the novel coronavirus
+{COVID-19) led toa global pandemic
+
+By May 2020, there were over 70000 cases
+in Canada and more than 4.3 million cases
+worldwide
+
+‘Symptoms ofthe virus varied from dry
+‘cough, fever, and fatique, to more severe
+respiratory symptoms such as dyspnea and
+chest pain
+
+PHAC developed the following response:
+
+Development and implementation of new
+diagnostic tests based on the genetic
+sequence of COVID-19
+
+Prompt identification, risk assessment,
+‘management, and placement of confirmed
+cases by HOPS
+
+Application of routine practices and
+additional precautions for healthcare
+workers: gloves, long-sleeved gowns, facial
+protection, and masks
+
+Enforcement of national physical distancing
+protocols and 14-day selfisolation for those
+returning from international travel
+
+Free vaccines against COVID-19 were made
+available to everyone in Canada over the
+course of 2021
+
+The temporary closure of many institutions
+and reduction in income for millions
+
+of Canadians resulted in novel social
+assistance programs, such as the Canada
+Emergency Response Benefit
+
+Source: Government of Canada. Coronavirus
+{Com0-19}: Canadas Response interet) Ottawa
+{Ot}: Government of Canada; 2020 jupdated 2022 Mar
+29; ced 2022 Ape 27) Avaable trom: tps: Iw.
+canada.caen/pblicheattservcestiseases/2019-
+‘ove cornaviusinfectonkanadas-reponse. htm!
+
+@
+
+Reducing Inequities During the COVID-19 Pandemic
+Public Health Rev 202242:1604031
+
+Thisteview outlines public health recommendations
+during the COVID19 Pandemicincuding primordial,
+mary, secondary, and tertiary prevention strategies

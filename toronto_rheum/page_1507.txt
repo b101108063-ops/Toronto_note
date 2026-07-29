@@ -1,0 +1,108 @@
+RHI3 Rheumatology
+
+Treatment
+
+goals of therapy
+= aim for remission, prevention of flares
+= hydroxychloroquine + glucocorticoid
+= treat early and avoid long-term steroid use, if unavoidable see Endocrinology, E47 for osteoporosis
+management
+= if high doses of steroids are necessary for long-term control, taper when possible and add
+immunosuppressive therapies (MTX, azathioprine, mycophenolate)
+«= treatment is tailored to organ system involved and severity of disease
+= moderate refractory disease can be treated with belimumab
+«= all medications used to treat SLE require periodic monitoring for potential toxicity
+dermatologic
+= sunscreen, avoid UV light and estrogens
+= topical steroids, hydroxychloroquine
+musculoskeletal
+= NSAIDs + gastroprotective agent for arthritis (also beneficial for pleuritis and pericarditis)
+= hydroxychloroquine improves long-term control and prevents flares
+«= bisphosphonates, calcium, vitamin D to combat osteoporosis
+other considerations
+= smoking cessation
+= immunizations (influenza); live vaccines are generally not recommended
+= for women with APLA, avoid estrogen-containing contraceptives because of increased risk of
+thrombosis
+organ-threatening disease
+# high-dose oral prednisone or methylprednisolone IV in severe disease
+= steroid-sparing agen azathioprine, MTX, mycophenolate (can use mofetil or sodium)
++ cyclophosphamide IV for serious organ involvement (e.g. cerebritis or lupus nephritis)
+
+low-dose cyclophosphamide IV or mycophenolate mofetil can be used for induction treatment in active
+
+lupus nephritis
+= refractory disease can be treated with rituximab or anifrolumab (a monoclonal antibody that blocks
+the action of a group of proteins called Type I Interferons)
+
+ipid Antibody Syndrome
+
+Antiphospho
+
+Definition
+
+multi-system vasculopathy manifested by recurrent thromboembolic events, spontaneous abortions, and
+thrombocytopenia
+
+circulating antiphospholipid autoantibodies interfere with coagulation
+
+primary APS: occurs in the absence of other disease
+
+secondary APS: occurs in the setting of a connective tissue disease (including SLE), malignancy, drugs
+(hydralazine, procainamide, phenytoin, interferon, quinidine) and infections (HIV, TB, hepatitis C,
+infectious mononucleosis)
+
+catastrophic APS: development within 1 wk of small vessel thrombotic occlusion in 23 organ systems with
+
+positive APLA (high mortality)
+
+Table 17. Classification Criteria of APS*
+
+Criteria Description
+CLINICAL
+Vascular thrombosis, ‘One ormoreclincal episodes of arterial, venous, or smal vessel thrombosis inany tissue or organ
+Mustbe confirmed by imaging or histopathology
+Pregnancy morbidity 21 death of morphologically normal fetus (confirmed by U/S or fetal exam) at 210 wk gestation; OR
+1 premature birth of morphologically normal neonate before 34 wk gestation due toeclampsia, preeclampsia, or placental
+insufficiency; OR
+23 consecutive spontaneous abortions <10 wk gestation (excluding matemal anatomic andhormonal abnormalities or paternal!
+maternal chromosomal causes)
+LABORATORY Labs must be positive on2 occasions, atleast T2wk apart
+Lupus anticoagulant Present in plasma, detected according othe guidelines ofthe International Society on Thrombosis and Haemostasis
+Anti-cardiolipin Ab IgG andlor IgM, plasma or serum, presentin medium-high ttre (.e.>40 GPL or MPL, or >99th percentile), measured by ELISA
+‘Anti-82 glycoprotein Ab IgG andlor IgM, plasmaor serum, presentin high tite (.e.>99th percentile), measured by ELISA
+1 linia and aboratory criteria mustbe present
+
+‘Thromb Haemost 2006;4:295-306
+
+Clinical Presenta
+
+see clinical criteria (Table 17)
+hematologic
+= thrombocytopenia, hemolytic anemia, neutropenia
+dermatologic
+= livedo reticularis, Raynaud’s phenomenon, purpura, leg ulcers, gangrene
+
+Toronto Notes 2025
+
+The arthritis of SLE can be deforming but it,
+isnon-erosive and is reducible (in contrast
+to RA) — called Jaccoud's arthritis
+
+Manifestations of APLA
+Thromboembolic events
+Spontaneous abortions
+Thrombocytopenia
+
+Associated with livedo reticularis, migraine
+HA
+
+Arterial and venous thrombosis are usually
+mutually exclusive
+
+@
+
+See Landmark Rheumatology Trials, for
+‘more information on the TULIP-2 tral. It
+examined the efficacy of anifrolumab for
+the treatment of SLE

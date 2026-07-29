@@ -1,0 +1,95 @@
+R27 Respirology Toronto Notes 2025
+
+Respiratory Failure
+
+Definition
+
++ failure of respiratory system to maintain normal gas exchange (oxygen and carbon dioxide homeostasis)
++ hypoxemia (PaO: <60 mmHg), hypercapnia (PaCO2 >50 mmHg)
+
+* acute vs. chronic (compensatory mechanisms activated)
+
+Signs and Symptoms
+
++ signs of underlying disease
+
++ hypoxemia: restlessness, confusion, cyanosis, coma, cor pulmonale (if chronic)
+
++ hypercapnia: confusion, headache, dyspnea, drowsiness, asterixis, warm periphery, chemosis, plethora,
+increased ICP (secondary to vasodilatation)
+
+Investigations
+
++ ABGs
+
++ CXRand/or CT
+
++ pulmonary function tests (for chronic respiratory failure)
+
+Hypoxemic Respiratory Failure
+
+Definition
++ PaO: decreased, PaCO: normal or decreased
+
+Treatment
++ reverse the underlying pathology
+= oxygen therapy: maintain oxygenation (if shunt present, supplemental O: is less effective) using O2
+delivery systems (see Anesthesia, A10)
++ ventilation, BiPAP, and PEEP/CPAP (see Anesthesia, A11): positive pressure can recruit alveoli and
+redistribute pulmonary edema fluid
++ improve cardiac output: + hemodynamic support (fluids, vasopressors, inotropes) (increases O2 delivery)
+
+Table 27. Approach to Hypoxemia
+
+Typeottyporemia Settings Pac Aas ——_OxygenTherapy PAP, and PEEP Increasing Cardiac
+Output
+
+4. Low Fid: High akitude Nore " Improves Wo change No change
+
+2.Hypoventilation Drug overdose, muscle + N Improves Improveswith entiation No change
+
+weakness, obesity,
+hypoventilation syndrome
+
+3.PhysiologicShunt ARDS, pneumonia Nore ' Lesseffective Improves, No change
+
+=Wi0 mismatch with
+
+low
+
+4.AnatomicShunt Ventricular septal defect Nore * No change Canworsenbyincreasing Can worsen
+(Rightto Left) shunt
+
+5.LowMixedVenous Shock ’ + Improvesorno —Canworsen byreducing Improves.
+
+02 Content change cardiac output
+
+6. Diffusion ILD, emphysema N t Improves Improves with positive No change or worsens
+Impairment pressure
+
+“where “N= within normal ints, 4-a0r=AWeolar-arterial gradient
+Reprinted with pemission fromr. lan Fraser
+
+Hypercapnic Respiratory Failure
+
+Definition
++ PaCOz increased, PaO: decreased
+
+Pathophysiology @
+
++ increased CO» production: fever, sepsis, seizure, acidosis, carbohydrate load aaa en
++ increased dead space (normal or increased minute ventilation, low alveolar ventilation): COPD, CF, chest rahe)
+
+Or ¢ The opposite of shunt
+wall disorder, dead space ventilation (rapid shallow breathing)
+= inefficient gas exchange results in inadequate CO2 removal in spite of normal or increased minute
+ventilation
++ hypoventilation (low minute ventilation) (ie)
+= restrictive process such as chest wall disorder (e.g. severe kyphoscoliosis) ;
+= central: brainstem stroke, hypothyroidism, severe metabolic alkalosis, drugs (e.g. opiates, tee
+. ow total ventilation
+benzodiazepines) . High dead space ventilation
+= neuromuscular: myasthenia gravis, Guillain-Barré, phrenic nerve injury, muscular dystrophy, High CO: production
+
+polymyositis, other NMD
+muscle fatigue

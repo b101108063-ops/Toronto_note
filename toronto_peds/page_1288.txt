@@ -1,0 +1,151 @@
+P92 Pediatrics
+
+Bronchiolitis
+
+Definition
++ LRTI, usually in children <2,yr, that has wheezing and signs of respiratory distress
+
+Epidemiology
+
++ the most common LRTI in infants, affects 50% of children in first 2 yr of life; peak incidence at 6 mo, winter
+or early spring
+
++ increased incidence of asthma later in life
+
+Etiology
++ RSV (50%), parainfluenza, influenza, rhinovirus, adenovirus
+
+Clinical Features
+
+usually presents as the first episode of wheeze in children <1 y of age
+
+prodrome of URTI with cough and/or rhinorthea, possible fever
+
+feeding difficulties, irritability, colour change, apnea
+
+wheezing, crackles, respiratory distress, tachypnea, tachycardia, retractions, poor air entry; symptoms
+often peak at 3-4 d
+
+Investigations
+
++ routine investigations are not required when bronchiolitis is suspected (Choosing Wisely)
+
++ CXR (only if poor response to therapy or if diagnosis is unclear): air trapping, peribronchial thickening,
+atelectasis, increased linear markings
+
+Management
++ self-limiting disease with peak symptoms at 3-4 d, symptoms usually lasting 2-3 wk
++ mild to moderate distress
+= supportive: PO or IV hydration, oral/nasal suctioning as needed, antipyretics for fever, regular or
+humidified high flow O2
++ severe distress
+= as above + humidified high flow O2 or intubation and ventilation as needed
+= consider palivizumab (targets F-glycoprotein of RSV) as a prophylaxis in high-risk infants:
+bronchopulmonary dysplasia, CHD, congenital lung disease, immunodeficient
++ bronchodilators, corticosteroids, and antibiotics have no therapeutic value (unless there is secondary
+bacterial pneumonia)
++ indications for hospitalization
+= hypoxia: O2 saturation <90% on initial presentation or increasing 02 requirements
+signs of severe distress (tachypnea >80/min, tachycardia >180/min, grunting, nasal flaring, marked
+chest retractions, lethargy)
+past history of chronic lung disease, hemodynamically significant cardiac disease, neuromuscular
+roblem, immunocompromised
+igh-risk infants: history of prematurity (<34 wk), weight <4 kg, age <7 wk
+significant feeding problems
+socioeconomic barriers to improvement (e.g. inadequate care at home)
+
+Cystic Fibrosis
+
+« see Respirology, R12
+
+Etiology
+
++ 1 in 3000 live births, most common in people of Northern European descent
+
+autosomal recessive, mutation in CFTR gene found on chromosome 7 (AF508 mutation in 70%, but >1600
+different mutations identified) resulting in a dysfunctional chloride channel on the apical membrane of
+cells
+
+leads to relative dehydration of airway secretions, resulting in impaired mucociliary transport and airway
+obstruction
+
+al Features
+
++ neonatal: meconium ileus, prolonged jaundice, antenatal bowel perforation
+
++ infancy: pancreatic insufficiency with steatorrhea and FTT (despite voracious appetite), anemia,
+hypoproteinemia, hyponatremia
+
+childhood: heat intolerance, wheezing or chronic cough, recurrent chest infections (S. aureus, P.
+aeruginosa, H. influenzae), hemoptysis, nasal polyps, distal intestinal obstruction syndrome, rectal
+prolapse, clubbing of fingers
+
++ older patients: COPD, infertility (males), decreased fertility (female)
+
+Investigations
++ neonatal screening
++ sweat chloride test x 2 (>60 mEq/L)
+
+Toronto Notes 2025
+
+2)
+
+hodilators for Bronchiohtis
+Cochrane DBSyst Rev2010;1:CD001266
+
+ess the eects of bron choilatorsin
+bronchitis.
+
+Methods: Meta-analysis of placebo-controled RCTs
+caluatng bronchodilators for bronchiolitis. Oxygen
+saturation was the main outome.
+
+Results: 30 tials with 1992 infants wth bronchiolitis
+were included, Oxygen saturation didnot improve with
+bronchodilators (mean dference (MD) 0.43, 95% Cl
+-032t00.06) Neither outpatient (11.9% vs. 15.9%,
+(R075, 95% C1121 norinpatient (MO 0.06, 95% C1
+0.271003) reduced hospitalization ates. Elects
+ncximetry seenin inpatients (MD-0.62, 95% 1-140
+00:1) were lightly larger than for outpatients (MD
+0.25, 95%C1-0.61t0 0.1) No changeinaverage
+nicl score was seen nipatens(tandarded
+MO-0.4, 95% 01-0.41100.12),whilea statistically
+significant decrease was seen n outpatients (MD
+0.42, 95%C1-0,79t0-0.06) Adverse events included
+tachycardia, oxygen desaturation, and tremors
+Conclusions: Bronchodiators do notimproveoxygen
+saturation, rate of hospitaladmisson duration
+
+cf hespitalizations or durations to resolution of
+ness, Theyare not considered effective in routing
+‘management of bronchiolitis, especially given thei
+adverse effets,
+
+Children with bronchiolitis do not respond
+to salbutamol, ipratropium bromide
+(Atrovent®), or steroids
+
+CF Presenting Signs
+
+CF PANCREAS
+Chronic cough and wheezing
+FIT
+
+Pancreatic insufficiency (symptoms of
+malabsorption such as steatorrhea)
+Alkalosis and hypotonic dehydration
+Neonatal intestinal obstruction
+{meconium ileus)/Nasal polyps
+
+Clubbing of ingers/Chest radiograph with
+characteristic changes
+
+Rectal prolapse
+
+Electrolyte elevation in sweat, salty skin
+Absence or congenital atresia of vas
+deferens
+
+Sputum with S. aureus or P. aeruginosa
+(mucoid)

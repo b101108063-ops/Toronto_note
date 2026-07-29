@@ -1,0 +1,183 @@
+PSs Psychiatry
+
+Schizophrenia
+
+DSM-5 DIAGNOSTIC CRITERIA FOR SCHIZOPHRENIA
+Reprinted with permission fromthe Diagnostic and Statistical Manual of Mental Disorders, Sthed. 2013. American Psychiatric Associaton
+
+A. two (or more) of the following, each present for a significant portion of time during a 1 mo period (or less if
+successfully treated). At least one of these must be (1), (2), or (3)
+1. delusions
+2. hallucinations
+3. disorganized speech (e.g. frequent derailment or incoherence)
+4, grossly disorganized or catatonic behaviour
+5. negative symptoms (i.e. diminished emotional expression or avolition)
+
+B. for a significant portion of time since the onset of the disturbance, level of functioning in one or more major
+areas (e.g. work, interpersonal relations, self-care) is markedly below the level achieved prior to the onset
+(or when the onset is in childhood or adolescence, there is failure to achieve expected level of interpersonal,
+
+academic, or occupational functioning)
+
+continuous signs of the disturbance persist for at least 6 mo. This 6 mo period must include at least 1 mo
+
+of symptoms (or less if successfully treated) that meet Criterion A (i.e. active-phase symptoms) and may
+
+include periods of prodromal or residual symptoms. During these prodromal or residual periods, the signs
+of the disturbance may be manifested by only negative symptoms or by two or more symptoms listed in.
+
+Criterion A present in an attenuated form (e.g. odd beliefs, unusual perceptual experiences)
+
+D. schizoaffective disorder and depressive or bipolar disorder with psychotic features have been ruled out
+because either 1) no major depressive or manic episodes have occurred concurrently with the active-phase
+symptoms, or 2) if mood episodes have occurred during active-phase symptoms, they have been present for
+a minority of the total duration of the active and residual periods of the illness
+
+. the disturbance is not attributable to the physiological effects of a substance (e.g. drug of abuse, medication)
+or another medical condition
+if there is a history of autism spectrum disorder or a communication disorder of childhood onset, the
+additional diagnosis of schizophrenia is made only if prominent delusions or hallucinations, in addition
+to theather required symptoms of schizophrenia are also present for at least 1 mo (or less if successfully
+treated)
+specifiers: type of episode (e.g. first episode, multiple episodes, continuous), in acute episode/partial/
+full remission, with catatonia, current severity based on quantitative assessment of primary symptoms of
+psychosis
+
+is
+
+mom
+
+Epidemiology
+
++ prevalence: 0.3-0.7%, M:F=1:1
+
++ mean age of onset: females late-20s with a 2nd peak in mid-life; males early- to mid-20s (some cases with
+late onset)
+
++ suicide risk: 5-6% die by suicide, 20% attempt suicide
+
+Etiology
+
++ multifactorial: disorder is a result of interaction between both biological and environmental factors
+genetic: 40% concordance in monozygotic (MZ) twins; 46% if both parents have schizophrenia; 10% of
+dizygotic (DZ) twins, siblings, children affected; vulnerable genes include Disrupted-in-Schizophrenia
+1 (DISC1); neuregulin 1 (NRG 1); dystrobrevin binding protein/dysbindin (DTNBP1); catechol-O-
+methyltransferase (COMT); d-amino acid oxidase activator (DAOA); metabotropic glutamate receptor 3
+(GRM3); and brain-derived neurotrophic factor (BDNF)
+
+neurochemistry (“dopamine hypothesis”): excess activity in the mesolimbic dopamine pathway may
+mediate the positive symptoms of psychosis, while decreased dopamine in the prefrontal cortex may
+mediate negative and cognitive symptoms. GABA, glutamate, and ACh dysfunction are also thought to
+be involved
+
+neuroanatomy: decreased frontal lobe function; asymmetric temporal/limbic function; decreased basal
+ganglia function; subtle changes in thalamus, cortex, corpus callosum, and ventricles; cytoarchitectural
+abnormalities
+
+= neuroendocrinology: abnormal growth hormone, prolactin, cortisol, and ACTH
+
+neuropsychology: global defects seen in attention, language, and memory suggest disrupted
+connectivity of neural networks
+
+environmental: indirect evidence of cannabis use, geographical variance, winter season of birth,
+obstetrical complications, and prenatal viral exposure
+
+Pathophysiology
++ neurodegenerative theory: natural history may bea rapid or gradual decline in function and ability to
+communicate
+= glutamate system may mediate progressive degeneration by excitotoxic mechanism which leads to
+production of free radicals
++ neurodevelopmental theory: abnormal development of the brain from prenatal life
+= neurons fail to migrate correctly, make inappropriate connections, and undergo apoptosis in later life
+
+Toronto Notes 2025
+
+)
+
+Remington 6, Addington, HonerW,ismail
+L,RaedleT, TeehanM. Guidelines forthe
+Pharmacotherapy ofSchiophreniain Adu.
+
+Can Psychiatry. 2017 Sep.62(9):604-616 doi
+10:19707067437177 20448, Epub 2017 Jul 13.
+PMID: 28703015; PMCID: PMC5593252.
+
+Abstract objective: The present guidelines address
+the pharmacotherapy of schizophrenia in adults acoss
+different stages, phases, and symptom domains.
+Method: Guidelines were developed using the ADAPTE
+process, which takes advantage existing guidelines
+Sixguidelines wereidentified for adaptation, wth
+recommendations extracted fomeach,Forthose
+specfictothe pharmacotherapy of schizaphreiain
+aduts, a working group selected between guidlines
+and recommendations to crate an adapted guideline.
+Results: Recommendations canbe categorized into
+areas thatinclude 1) fist-pisode schizophrenia,
+acute exacerbation, 3) relapse prevention and
+‘maintenance treatment, 4) reatmentsesistant
+schizophrenia, 5) dozapne-esistant schizophrenia,
+and 6) spectc symptom domains. For each category,
+recommendations are made based onthe avaiable
+evidence, whichis discussed andlnked to other
+established guidelines.
+
+Condusions:Inmost cases, evidence-based
+recommendations are made thatcanbe used to
+
+quide current clinical treatment and decision making,
+Notably, however, theres a paucity of established
+evidence to guide treatment decison making inthe
+case of dazapine-resistant schizophrenia, a subsample
+that represent sizable proportion of those with
+‘cha ophrena
+
+tween Durationof Untreated
+Psychosis (DUP) and Outcomein Fst-pisode
+Schiaophrenia
+
+‘Am Psychiatry 2005,162:785-1808
+
+Purpose: To review the aso cation between DUP
+and symptom severity at ist treatment contact, and
+between DU and treatment outcomes
+
+Methods Critical review and meta-analysis of studies
+involving patients with non-affectie psychotic
+disorersator dos tofist treatment
+
+Results: 43 studies wth 177 patients wer induded.
+ShorterDUP was associated with greater response
+toantipsjchotic treatment, as measured by global
+15ychopathlogy, positive symptoms, negative
+Symptoms, and functional outcomes tthe time of
+treatment ntaton, longer DUP was associated with
+the severity of negative symptoms but nat with the
+severity of positive symptoms, global psychopathology,
+rneurocogntiv function
+
+Condusions: DUP maybe a potential modifiable
+rognosticfact.
+
+Disorganized Behaviours in Schizophrenia
+CCatatonic stupor: fully conscious but mute,
+unresponsive, immobile, and maintaining
+bizarre positions for along time
+
+Catatonic excitement: uncontrolled and
+aimless motor activity, extreme agitation
+Stereotypy: repeated but non-goal-directed
+‘movement (ie. rocking)
+
+Mannerisms: goal-directed activities that
+are odd or out of context (i. grimacing)
+Echopraxia: imitates movements and
+gestures of others
+
+‘Automatic obedience: carries out simple
+‘commands in robot like fashion
+‘Negativism: refuses to cooperate with
+simple requests for no apparent reason
+Inappropriate affect, neglect of self-care,
+other odd behaviours (random shouting)
+

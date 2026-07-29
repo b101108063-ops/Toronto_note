@@ -1,0 +1,100 @@
+32 Cardiology and Cardiac Surgery
+
+4. Nitrates (symptomatic control, no clear impact on survival)
+= decrease preload (venous dilatation) and afterload (arteriolar dilatation), and increase coronary
+perfusion
+= maintain daily nitrate-free intervals to prevent tolerance (tachyphylaxis)
+
+5. Calcium Channel Blockers (CCBs, second-line or combination)
+= increase coronary perfusion and decrease demand (HR, contractility) and BP (afterload)
+= caution: verapamil/diltiazem combined with B-blockers may cause symptomatic sinus bradycardia or
+AV block
+= contraindicated in patients with LV systolic dysfunction
+
+6. Renin-Angiotensin-Aldosterone System Blockade
+= angina patients tend to have risk factors for CV disease which warrant use of an ACEI (e.g. HTN, DM,
+proteinuric renal disease, previous MI with LV dysfunction)
+= ARB can be considered in patients intolerant to ACEI
+«= benefit in all patients at high-risk for CV disease (e.g. those with concomitant DM, renal dysfunction, or
+LV systolic dysfunction)
+
+7. Invasive Strategies
+= revascularization (see Coronary Revascularization, C37)
+
+Variant Angina (Prinzmetal’s Angina)
+myocardial ischemia secondary to coronary artery vasospasm with or without atherosclerosis
+uncommonly associated with infarction or LV dysfunction
+typically occurs between midnight and 8 am, unrelated to exercise, relieved by nitrates
+typically ST elevation is observed on ECG
+iagnosed by provocative testing with ergot vasoconstrictors (rarely done)
+treat with nitrates and CCBs
+strongly recommend patient to stop smoking
+
+Syndrome X
+
++ typical symptoms of angina but normal angiogram
+
++ may show definite signs of ischemia with exercise testing
+
++ thought to be due to inadequate vasodilator reserve of coronary resistance vessels
++ better prognosis than overt epicardial atherosclerosis
+
+Acute Coronary Syndromes
+
+Definiton
++ ACS includes the spectrum of UA, NSTEMI, and STEMI; this distinction aids in providing the appropriate
+therapeutic intervention
+= UA isclinically defined by any of the following:
+accelerating pattern of pain: increased frequency, increased duration, decreased threshold of
+exertion, decreased response to treatment
+* angina at rest
+* new-onset angina
++ angina post-MI or post-procedure (e.g. PCI, CABG)
+= MI (STEMI/NSTEMI) is defined by evidence of myocardial necrosis and is diagnosed by a rise/fall of
+serum markers plus any one of:
++ symptoms of ischemia (chest/upper extremity/mandibular/epigastric discomfort; dyspnea)
++ ECG changes (ST:T changes, new BBB, or pathological Q waves)
++ imaging evidence (myocardial loss of viability, wall motion abnormality, or intracoronary
+thrombus)
+if biomarker changes are unattainable, cardiac symptoms combined with new ECG changes is
+sufficient
+= NSTEMI meets criteria for MI without ST elevation or BBB
+= STEMI meets criteria for MI characterized by ST elevation or new BBB
++ possible ACS in women, diabetics, and older adults is more likely to present with “atypical” symptoms such
+as dyspnea or weakness even in the presence of acute coronary-related ischemia
+
+.
+
+Investigations
++ history and physical
+= note that up to 30% of MIs are unrecognized or “silent” due to atypical symptoms that are more
+common in women, patients with DM, elderly, post-heart transplant (because of denervation)
++ ECG
++ CXR
+
+Toronto Notes 2025
+
+Efcacyand Safetyof Low-Dase Colchicine after
+Myocardial infarction (COLCOT)
+
+NEIM 2019;381:2497-2505
+
+Purpose: To determine if colchcnelowersrisko future
+Cfevents folowing ML
+
+Methods: Patients (4745) who had an M within the
+last30d were randomized tocokchcine once day ot
+placebo. The primary eficacy endpoint wasa composite
+of death om CV causes, resuscitated ca
+Mi stroke, or urgent hospitalization for angina
+Resuts: Median folon-up was 226 mo. Theprimary
+endpoint ocurred in 5.5% and 7.1% of patiensin the
+Colchicine and placebo groups, respectively (P=0.02).
+Poeumonia was observed in 0.9% ofthe patients inthe
+Colchicine group and in 0.4% of patentsin the placebo
+group (P-0.03),
+
+Conclusion: patients wth recent MI, colchicine
+lowered the risk of subsequent V events as compared
+toplaceb,
+

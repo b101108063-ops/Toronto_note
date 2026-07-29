@@ -1,0 +1,108 @@
+OB10 Obstetrics
+
+Treatment
+
+falling biliary pigment warrants no intervention (usually indicative of either unaffected or mildly affected
+fetus)
+
+intrauterine transfusion between 18-35 wk GA of O-negative packed RBCs may be required for severely
+
+affected fetus
+early delivery of the fetus for exchange transfusion following 35 wk GA
+
+Complications
++ anti-Rh IgG can cross the placenta and cause fetal RBC hemolysis resulting in fetal anemia, CHF, edema,
+and/or ascites
+
+severe cases can lead to hydrops fetalis (edema in at least two fetal compartments due to fetal heart failure
+secondary to anemia) or erythroblastosis fetalis (moderate to severe immune-mediated hemolytic anemia)
+
+Fetal Surveillance
+
+patients will generally first notice FM (“quickening”) at 18-20 wk GA in primigravidas; can occur 1-2 wk
+earlier in multigravidas; can occur 1-2 wk later if placenta is implanted on the anterior wall of uterus
+
+if there is concern about decreased FM, the patient is counselled to choose a time when the fetus is normally
+active to count movements (usually recommended after 26 wk GA)
+
+all high-risk patients should be advised to do FM counts
+
++ should experience >6 perceived movements in 2h period
+
+if there is a subjective decrease in FM, time how long it takes to feel 6 discrete movements (laying on the
+left ina quiet setting may facilitate feeling subtle movements)
+
+if 6 movements take more than 2 h, further assessment is indicated, and patient should present to
+labour and delivery triage for assessment
+
+NON-STRESS TEST
+
+Definition
++ FHR tracing 220 min using continuous external fetal monitoring to assess FHR and its relationship to FM
+(see Gynecology, First and Second Trimester Bleeding, GY10)
+
+Indication
+* any suggestion of uteroplacental insufficiency or suspected fetal compromise
+
+Table 5. Classification of Intrapartum EFM Tracings
+
+Normal Tracing ‘Nypical Tracing ‘Nonormal Tracing (Category 3)
+(Category 1) (Category 2)
+Baseline ‘110-160 bpm 100-110bpm or>160bpmfor30-80min  Bradycar
+Rising baseline Tachycar
+Arrhythmia Erratic baseline
+Variability 6.25 bpm (moderate) (absent orminimal)for40-80min <5 for>80 min
+5 absent or minimal for <40 min 225 bpmfor>10min
+Sinusoidal
+Decelerations None Repetitive uncomplicated variables: Repetitive complicated variables:
+Non-repetitive uncomplicatedvariable Non-repetitive complicated variables Recurrent late decelerations
+Early decelerations. Intermittent late decelerations Single prolonged deceleration >3 min
+Single prolonged deceleration >2 min but <10 min
+but <3 min
+Acceleration. ‘Spontaneous accelerations but not ‘Absence of acceleration with scalp Usually absent (accelerations, if present,
+required stimulation do not change dassification of tracing)
+‘Accelerationwith scalp stimulation
+Interpret Clinically No evidence of fetal compromise Physiologic response Possible fetal compromise
+
+‘Adapted from SOGC, Fetal Health Surveillance: Intrapartum Consensus Guideline, March 2020
+
+Operating Characteristics
++ false positive rate depends on duration; false negative rate = 0.2-0.3%
+
+Interpretation
+
++ normal, >32 wk GA: at least 2 accelerations of FHR 215 bpm from the baseline lasting 215 sin 20 min
+normal, <32 wk GA: at least 2 accelerations of FHR >10 bpm from the baseline lasting 210 s in 20 min
+abnormal: <2 accelerations of FHR in 40 min
+
+if no observed accelerations or FM in the first 20 min, stimulate fetus (fundal pressure, acoustic/vibratory
+stimulation) and continue monitoring for 30 min
+
+Toronto Notes 2025
+
+Dx of Decreased Fetal Movements
+
+DASH
+Death of fetus
+
+Amniotic fluid decreased
+Sleep cycle of fetus
+Hunger/Thirst
+
+‘Normal NST: 2 accelerations, >15 bpm from
+baseline, lasting >15s in 20 min
+
+Describing NSTs: baseline rat
+rminimal/moderate/marked variability,
+accelerations present/not present,
+decelerations earlyilateWvariable
+
+Reassuring BPP (8/8)
+
+LAMB
+
+Limb extension + flexion
+AFV2cmx2cm
+
+Movement (3 discrete)
+Breathing (one episode x30 s)

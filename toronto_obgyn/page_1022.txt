@@ -1,0 +1,128 @@
+OB36 Obstetrics
+
+Pharmacologic Methods (see Anesthesia, A27)
+nitrous oxide (e.g. self-administered Entonox*)
+narcotics (usually combined with anti-emetic)
+pudendal nerve block
+
+perineal infiltration with local anesthetic
+
+regional anesthesia (epidural block, combined spinal-epidural, and spinal)
+
+Fetal Monitoring in Labour
++ see online Fetal Heart Rate Tutorial
+
+Vaginal Exam
+
++ membrane status, as indicated by amniotic fluid (clear, pink, bloody, and meconium)
+cervical effacement (thinning), dilatation, consistency, position, and application of fetal head
+fetal presenting part, position, and station
+
+bony pelvis size and shape
+
++ monitor progress of labour at regular intervals and document ina partogram
+
+Intrapartum Fetal Monitoring
++ intermittent fetal auscultation with Doppler device q15-30 min for 1 min in active phase of first stage
+following a contraction, q5 min during second stage when pushing has begun
+
+fetus tolerating labour
+= use of continuous electronic monitoring shown to lead to higher intervention rates and has been
+associated with reducing neonatal seizures by half
+= techniques for continuous monitoring include external (Doppler) vs. internal (fetal scalp electrode)
+monitorin;
+fetal scalp sampling should be used in conjunction with electronic FHR monitoring and contraction
+monitoring (CTG) to resolve the interpretation of abnormal or atypical patterns
+
+Electronic FHR Monitoring
++ FHR measured by Doppler; contractions measured by tocometer
+described in terms of baseline FHR, variability (short-term, long-term), and periodicity (accelerations,
+decelerations)
+see Table 5, OB10
+Baseline FHR
+= normal range is 110-160 bpm
+= parameter of fetal well-being vs. distress
+Variability
+= physiologic variability is a normal characteristic of FHR
+= variability is measured over a 15 min period and is described as: absent, minimal (<6 bpm), moderate
+(6-25 bpm), or marked (>25 bpm)
+= normal variability indicates fetal acid-base status is acceptable
+= canonly be assessed by CTG
+= variability decreases intermittently even in a healthy fetus
+Periodicity
+= accelerations: increase of 215 bpm for 215 s (or 210 bpm for 210 s if <32 wk GA)
+= decelerations: 3 types, described in terms of shape, onset, depth, duration recovery, occurrence, and
+impact on baseline FHR and variability, see Table 18, OB37
+
+Table 17. Factors Affecting Fetal Heart Rate
+
+continuous electronic FHR monitoring reserved for abnormal auscultation, prolonged labour, labour which
+is induced or augmented, meconium present, multiple gestation/fetal complication, and concerns about the
+
+Fetal Tachycardia Fetal Bradycardia Decreased Variability
+(FR >160 bpm) (FAR <110 bpm)
+Maternal Factors Fever, hyperthyroidism, anemia, Hypothermia, hypotension, Infection
+dehydration Iypoglycemia, position, umbilical cord Dehydration
+compression
+Fetal Factors Arrhythmia, anemia, infection, Rapid descent, dysthythmia, heart OWSanomalies
+prolonged activity chronic typoxemia, block, hypoxia, vagal stimulation (head Dysthythmia
+‘congenital anomalies compression), hypothermia, acidosis _Inactivty/sleep cycle, preterm fetus
+Drugs ‘Sympathomimetis Blockers Narcotics, sedatives
+Inesthetics Magnesium sulphate, blockers
+Uteroplacental Early bypoxia (abruption, HTM) Late hypoxia (abruption, HTM) Hypoxia
+Chorioamnionitis ‘Acute cord prolapse
+Hypercontractiity
+
+Toronto Notes 2025
+Approach to the Management of
+Abnormal FHR
+POISON — ER
+Position (LLOP)
+
+2 100% by mask) if abnormal SpO2
+
+IV fluids (corrects maternal hypotension)
+Fetal scalp stimulation, fetal scalp
+electrode, fetal scalp pH
+
+Stop oxytocin
+
+Notify physician
+
+Vaginal exam to rule outcord prolapse
+Rule out fever, dehydration, drug effects,
+and prematurity
+
+= If above fails, consider CD
+
+Continuous Cardiotocography (C16) as aForm
+
+of Electronic Fetal Monitoring (EFM for Fetal
+Assessment During Labour
+
+CochraneDB ys Rev 2017 5:C0006066
+
+Purpose: To examine the effectiveness of continuous
+electronic fetal monitoring or cardatocography during
+abou.
+
+Selection Criteria: Randomized and quasi-andomized
+controlled tials comparing continuous TG (with and
+without fetal blood sampling) ta) no fetal monitoring,
+intermittent auscultation, or intermittent CI.
+Results: 13 trials, 37000 women, Continuous CT6
+compared with ntemittent auscultation showed no
+Aiterencein overall perinatal death ator cerebral
+palsy rats, Nonetheless neonatal seizures were
+haved (RRO.50, 95% C10.31-0.80 and therewasa
+signfantinreasein CD (RR1.63, 95% C1.29-2.07)
+
+and instrumental vagina birth (RR 1.15, 95% C.01-
+133) wth C1,
+
+Conclusion: Continuous C16 may reduce the incidence
+of neonatal seizures, buthas no effect on cerebral palsy
+rates, nfantmortalty,o other measures of neonatal
+well-being, Continuous CTGwas aso associated with an
+ingease in CDand instrumental dbveres.
+

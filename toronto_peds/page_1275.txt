@@ -1,0 +1,116 @@
+P79 Pediatrics
+
+Necrotizing Enterocolitis
+
+Definition
++ intestinal inflammation associated with focal or diffuse ulceration and necrosis
++ primarily affecting terminal ileum and colon
+
+Epidemiology
++ affects 1-5% of preterm newborns admitted to NICU
+
+Pathophysiology
++ multifactorial: premature gut, mucosal damage and gut ischemia, enteral feeding, bacterial overgrowth >
+bowel necrosis/gangrene/perforation
+
+Risk Factors
+prematurity (immature defenses)
+«= low birth weight
+asphyxia, shock (poor bowel perfusion)
+hyperosmolar feeds
+enteral feeding with formula (breast milk can be protective)
+sepsis
+congenital heart disease and IUGR (anything affecting gut perfusion/reperfusion)
+
+Clinical Features
+
++ usually presents at age 2-3 wk
+
+distended abdomen, diminished bowel sounds, feeding intolerance
+increased amount of gastric aspirate/vomitus with bile staining
+frank or occult blood in stool
+
+signs of bowel perforation (sepsis, shock, peritonitis, DIC)
+
+Investigations
+
++ AXR: pneumatosis intestinalis (intramural air is a hallmark of NEC), free air, fixed loops, ileus, thickened
+bowel wall, portal venous gas
+
++ Abdo U/S: abnormal bowel wall thickness or echogenicity, portal venous gas, can use doppler to assess
+bowel perfusion (may be more sensitive than x-rays in identifying NEC)
+
++ CBC, ABG, lactate, blood culture, electrolytes
+
++ high or low WBC, low platelets, hyponatremia, acidosis, hypoxia, hypercapnia
+
+Treatment
+
+NPO (7-10 d), vigorous IV fluid resuscitation, decompression with NG tube, supportive therapy
+TPN
+
+antibiotics (usually ampicillin, gentamicin + metronidazole if risk of perforation x 7-10 d)
+serial AXRs detect early perforation (40% mortality in perforated NEC)
+
+peritoneal drain/surgery if perforation
+
+surgical resection of necrotic bowel and surgery for complications (e.g. perforation, strictures)
+
+Persistent Pulmonary Hypertension of the Newborn
+
+Definition
++ persistence of fetal circulation as a result of persistent elevation of pulmonary vascular resistance
++ classified as primary (absence of risk factors) or secondary
+
+Epidemiology
+«+ incidence 1.9 in 1000 live births
+
+Clinical Features
+
++ usually presents within 12 h of birth with severe hypoxemia/cyanosis; some may have only mild respiratory
+
+distress
+
+Pathophysiology
++ elevated pulmonary pressures cause RL shunt through PDA, foramen ovale > decreased pulmonary
+blood flow and hypoxemia > further pulmonary vasoconstriction
+
+Risk Factors
+
++ secondary PPHN: asphyxia, meconium aspiration syndrome, RDS, sepsis, pneumonia, structural
+abnormalities (e.g. diaphragmatic hernia, pulmonary hypoplasia)
+
+* more common in term or post-term infants
+
+Investigations
++ measure pre- and post-ductal oxygen levels
+
++ hyperoxia test to exclude CHD
+
++ pulse oximetry is recommended for detection of CHD, although not routinely used
+
+Toronto Notes 2025
+
+Influence of Enteral Nutrition on Occurrences of
+Necrotizing EnterocoitisinVery-Low-Birth- Weight.
+Infants
+
+‘Pediat Gastroenterol tr 2015; 614)-45-450
+Study: Case control stdy of very Jow-bith-weight
+(VLBW infants and occurrences of NEC within 304
+allt,
+
+Population: 1028 VLBW infants neonatal intensive
+care unit Jn 2003-May 2008
+
+Primary Outcome: NEC defined using stage>2of
+rodiied Bel criteria.
+
+Results. 55infnts developed NEC within 30d fe
+(64). Those with NEChad higher odds of having been
+fed beast ilk OR: 402, not having achieved
+fullentea feeding during the ist mo (OR: 350), and
+having had parenteral eeding (OR: 2.70),
+Conclusions: Occurence of NEC am be reduced with
+Iweast mil feeding beyond 7 and ear fllenteral
+feeding,

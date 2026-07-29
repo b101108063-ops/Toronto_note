@@ -1,0 +1,79 @@
+P25 Pediatrics Toronto Notes 2025
+
+Management
++ general: sitting up, O2, sodium and water restriction, increased caloric intake
++ pharmacologic: diuretics, afterload reduction (e.g. ACEI), B-blockers; digoxin rarely used
+curative: correction of underlying cause (ie)
+. Pediatric vs. Adult ECG
+Dysrhythmias Pediatric ECG findings that may be normal:
+HR>100 bpm
++ can betransient or permanent, congenital (structurally normal or abnormal), or acquired (toxin, infection, —_ Shorter PR and QT intervals and QRS
+infarction) duration
+Inferior and lateral small Q waves
+Sinus Arrhythmia RV larger than LV in neonates, so normal
++ phasic variations with respiration (present in almost all normal children) to have:
+RAD
+Sinus Tachycardia Large precordial R waves
++ rate of impulses arising from sinus node is elevated (>150 bpm in infants, >100 bpm in older children) Upright T waves
++ characterized by: beat-to-beat heart rate variability with changes in activity, P waves present/normal, PR Inverted T waves in the anterior
+constant, QRS narrow precordial leads from early infancy to
++ etiology: HTN, fever, anxiety, sepsis, anemia/hypoxia, pain, PE, drugs, etc. teen years
+
+« differentiate from SVT by slowing the sinus rate (vagal massage, B-blockers) to identify sinus P waves
+
+Premature Atrial Contractions
++ may be normal variant or can be caused by electrolyte disturbances, hyperthyroidism, cardiac surgery,
+digitalis toxicity
+
+Premature Ventricular Contractions
+
++ common in adolescents
+
++ benign if single, uniform, disappear with exercise, and no associated structural lesions
++ ifnot benign, may degenerate into more severe dysrhythmias
+
+Supraventricular Tachycardia
+
++ abnormally rapid heart rhythm originating above the ventricles - most frequent sustained dysrhythmia in
+children
+
+no beat-to-beat HR variability, >220 bpm (infants) or >180 bpm (children), P waves absent/abnormal, PR
+indeterminable, QRS usually narrow
+
+pre-excitation syndromes (subset of SVT): WPW syndrome, congenital defect (see Cardiology and Cardiac
+Surgery, C9)
+
+Complete Heart Block
+
++ congenital heart block can be caused by maternal anti-Ro or anti-La (e.g. mother with SLE)
+
+often diagnosed in utero {may lead to development of fetal hydrops)
+
+clinical symptoms related to level of block (the lower the block, the slower the heart rate and greater the
+symptoms of inadequate cardiac output)
+
+symptomatic patients need a pacemaker
+
+Heart Murmurs Pe
+
+50-80% of children have audible heart murmurs at some point in their childhood
+
+most childhood murmurs are functional (e.g. “innocent”) without associated structural abnormalities and
+have normal ECG and radiologic findings
+
++ ingeneral, murmurs can become audible or accentuated in high output states (e.g. fever, anemia)
+
+Table 15. Differentiating Heart Murmurs
+
+Innocent Pathological
+
+History and Physical Asymptomatic Symptoms and signs of cardiac disease (FTT,exerciseintolerance)
+Timing sem ‘i diastolc, pansystolc, or continuous (except venous hum)
+Grade/Quality 316; oft/blowing/ vibratory 23/6 palpable tel); harsh
+
+Splitting Physiologie S2 May have fixed spl or single S2
+
+Extra Sounds/Clicks None May be present
+
+Change of Position Murmur vaies Unchanged
+

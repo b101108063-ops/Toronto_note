@@ -1,0 +1,101 @@
+OB48 Obstetrics
+
+Clinical Features
++ can cause profound vasovagal response with bradycardia, vasodilation, and hypovolemic shock
++ shock may be disproportionate to maternal blood loss
+
+Management
++ urgent management essential, call anesthesia
+
+ABCs: initiate IV crystalloids
+
+can use tocolytic drug (see Preterm Labour, OB16) or nitroglycerin IV to relax uterus and aid replacement
+replace uterus without removing placenta
+
+remove placenta manually and withdraw slowly
+
+TV oxytocin infusion (only after uterus replaced)
+
+re-explore uterus
+
+* may require general anesthetic + laparotomy
+
+Postpartum Fever
+
++ fever >38°C on any two of the first 10 d postpartum, except the Ist day
+
+Etiology
+
+endometritis
+
+wound infection (check CD and episiotomy sites)
+mastitis/ breast engorgement
+
+UTI
+
+atelectasis
+
+pneumonia
+
+DVT or pelvic thrombophlebitis
+
+Investigations
+
++ detailed history and physical exam, relevant cultures
++ for endometritis: blood and genital cultures
+
++ serum lactate for early detection of sepsis
+
+Treatment
++ depends on etiology
+= infection: empiric antibiotics, adjust when sensitivities available
+
+= endometritis: dindamycin + gentamicin/tobramycin 1V
+
+= mastitis: cloxacillin or cephalexin
+
+= wound infection: cephalexin + frequent sitz baths for episiotomy site infection
+
+= DVT: anticoagulation
+
+. prophylaxis against post-CD endometritis: administer cefazolin 2-4 g IV (based on BMI) 30 min prior
+to skin incision
+
+ENDOMETRITIS
+
++ definition: inflammation of the endometrium most commonly due to infection
+
++ clinical features: fever, chills, abdominal pain, uterine tenderness, foul-smelling vaginal discharge, or
+lochia
+
+treatment: depends on infection severity; oral antibiotics if well, IV antibiotics with hospitalization in
+moderate to severe cases and ensure no RPOC
+
+VENOUS THROMBOEMBOLISM
+« see Venous Thromboembolism, OB32
+
+Definition: inflammation of mammary glands
+must rule out inflammatory carcinoma, as indicated
+
+differentiate from mammary duct ectasia: mammary duct(s) beneath nipple clogged and dilated + ductal
+inflammation + nipple discharge (thick, grey to green), often postmenopausal individuals
+
+Toronto Notes 2025
+
+Etiology of Postpartum Fever
+
+BSW
+
+Breast: engorgement, mastitis
+Wind: atelectasis, pneumonia
+Water: UTI
+
+Wound: episiotomy, CD site infection
+Walking: DVT, thrombophlebitis
+Womb: endometritis
+
+Risk Factors for Endometrtis
+
+CO, intrapartum chorioamnionits,
+prolonged labour, prolonged ROM, and
+‘multiple vaginal examinations

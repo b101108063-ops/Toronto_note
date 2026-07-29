@@ -1,0 +1,94 @@
+OB28
+
+Medical Complications of Pregnancy
+
+Iron and Folate Defi
+
+Obstetrics
+
+ncy Anemi
+
+Table 13. Iron Deficiency and Folate Deficiency Anemia
+
+Iron Deficiency Anemia Folate Deficiency Anemia
+Etiology ‘See Hematology, H15 ‘See Hematology, H26
+Epidemiology Responsible for 80% of non-physiologic anemia during pregnancy Incidence varies from 0.5-25% depending on region, population,
+and diet
+Clinical Features: ‘See Hematology, H15 ‘See Hematology, H26
+Investigations ‘See Hematology, H15 ‘See Hematology, H26
+Management Prevention (non-anemic): 30 mg elemental iron daily (met by mostprenatal Prevention: 0.4-1 mg folic acid PO daily for 1-3 mo
+vitamins) preconceptually and throughout TT
+‘Treatment (anemic): 30-120 mg elemental iron daily
+325 mg ferrous fumarate = 106 mg elemental Fe; 325 mg ferrous sulfate =
+65 mg elemental Fe; 325 mg ferrous gluconate = 36 mg elemental Fe
+Polysaccharide-Iron Complex =150 mg elemental Fe/capsule
+Complications: Maternal: angina, CHF, infection, slower recuperation, and PTL Maternal: decreased blood volume, NV, and anorexia
+Fetal: decreased oxygen carrying capacity leading to fetaldistress, IUGR, Fetal: neural tube defects inT1, low birth weight, and
+low birth weight, and fetal neurodevelopment prematurity
+Notes Mother needs 1g of elemental ironper fetus; this amount exceeds normal Minimum daily requirement is 0.4mg
+stores + dietary intake Mostoften associated withiron deficiency anemia
+Iron requirements increase during pregnancy dueto fetal/placental gowth Folic acid is necessary for closure of neural tube during early
+(500 mg), increased maternal RBC mass (500 mg), and losses (200mg)- fetal development (by 28 d GA)
+moreneeded for multiple gestations
+Diabetes Mellitus
+Epidemiology
+
++ 2-6% of pregnancies are complicated by DM
+
+Classification of Diabetes Mellitus
++ TIDM and T2DM (see Endocrinology, E7)
++ GDM: onset of DM during pregnancy (usually tested for around 24-28 wk GA)
+
+Etiology
+
++ pre-existing TIDM and T2DM
+
++ GDM: anti-insulin factors produced by placenta and high maternal cortisol levels create increased
+peripheral insulin resistance > leading to GDM and/or exacerbating pre-existing DM
+
+Management
+A. T1DM and T2DM
+
+Preconception
+
++ pre-plan and refer to high-risk clinic for interprofessional care
+
++ commence folic acid (1.0 mg daily) 3 mo prior to conception
+
++ optimize glycemic control (HbAIc <7%), counsel and assess for risks and complications (retinopathy,
+neuropathy, CKD, CVD), review medications (discontinue ACEI, ARBs, statins)
+
+Pregnancy
++ for T2DM, switch to insulin therapy and discontinue non-insulin antihyperglycemic agents
+= continuing glyburide or metformin is controversial
+= teratogenicity unknown for other oral antihyperglycemics
+tight glycemic control
+= insulin dosage may need to be adjusted as pregnancy advances due to increased demand and increased
+insulin resistance
+* monitor as for normal pregnancy, plus initial 24 h urine protein and creatinine clearance, retinal exam, and
+HbAIc (aim for <6.5% during pregnancy)
++ increased fetal surveillance (fetal growth, BPP, NST) starting in late T2 and T3 and perform weekly after 36
+wk GA
++ fetal echocardiogram in T2 (ifhigh HbA Ic in T1 or just prior to pregnancy) to look for cardiac
+abnormalities
++ start 162 mg ASA at night before 16 wk GA to reduce risk of preeclampsia
+
+Toronto Notes 2025
+
+Monitoring Glucose Levels
+Frequent measurements of blood glucose
+during pregnancy are advised for patients
+with TIDM or T2DM to help prevent or treat
+both hypoglycemia and hyperglycemia, and
+also improve neonatal outcomes
+Aim for:
+FPG <5.3 mmol. (95 mg/dl)
+‘hpostprandial PG <7:8 mmol/L. (140
+mg/dl)
+2h postprandial PG <6.7 mmol. (120
+mg/dl)
+
+Fasting plasma glucose values seem to
+be the most effective at determining the
+likelihood of macrosomia or other adverse
+pregnancy outcomes

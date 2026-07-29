@@ -1,0 +1,126 @@
+B43 Obstetrics
+
+Risk Factors
+
++ low parity, prolonged ROM, long labour, multiple vaginal exams during labour, and internal monitoring
++ bacterial vaginosis and other vaginal infections
+
+Clinical Features
+
++ diagnostic feature: maternal fever (one-time measurement of >39°, or persistent fever of >38° for >30 min),
+fetal tachycardia, foul and purulent cervical discharge
+
++ non-specific features: maternal tachycardia, uterine tenderness
+
+Investigations
++ CBC: leukocytosis, elevated serum lactate
++ amniotic fluid: Gram stain, glucose, or culture results consistent with infection
+
+Treatment
++ IV antibiotics
+= ampicillin 2 gIV q6 h + gentamicin 2 mg/kg load, then 1.5 mg/kg IV q8h
+= anaerobic coverage (i.e. clindamycin 900 mg IV q8 h)
+« ifat risk for endometritis, continue treatment postpartum especially if CD
++ antipyretics
++ proper labour progression (not an indication for immediate delivery or CD, especially if delivery is
+imminent and can be done safely)
+
+Complications
+
++ bacteremia of mother or fetus, wound infection if CD, pelvic abscess, neonatal meningitis, maternal or
+neonatal sepsis, and neonatal death
+
++ long-term infant complications: cerebral palsy and bronchopulmonary dysplasia
+
+Meconium
+
+Definition
++ substance forming the first feces of the developing fetus
+
+Epidemiology
+
++ present early in labour in 10% of pregnancies, more common in postterm pregnancies
+
++ in general, meconium may be present in up to 25% of all labours; usually NOT associated with poor
+outcome
+
++ concern if fluid changes from clear to meconium-stained
+
++ always abnormal if seen in preterm fetus
+
+Indications
+
++ likely cord compression + uterine hypertonia
+
+* may indicate undiagnosed breech
+
++ increasing meconium during labour may be a sign of fetal distress
+
+Features
++ may be watery or thicker (particulate)
++ light yellow-green or dark green-black in colour
+
+Treatment
++ call respiratory therapy, neonatology, or pediatrics to delivery room
++ closely monitor FHR for signs of fetal distress
+
+Operative Obstetrics
+
+Operative Vaginal Delivery
+
+Definition
++ forceps or vacuum extraction
+
+Indications
++ fetal:
+«= atypical or abnormal FHR tracing, evidence of fetal compromise
+= consider if second stage is prolonged, as this may be due to poor contractions or failure of fetal head to
+rotate
++ maternal:
+= need to avoid voluntary expulsive effort (e.g. cardiac/cerebrovascular disease)
+= exhaustion, lack of cooperation, and excessive analgesia may impair pushing effort
+
+Toronto Notes 2025
+
+Clinical Features of Chorioamnioritis
+Temperature
+
+Tachycardia (maternal or fetal)
+Tenderness (uterine)
+
+Foul discharge
+
+Particulate (thickened) meconium is
+associated with lower APGAR, an
+increased risk of meconium aspiration,
+and perinatal death. Particulate meconium
+generally has a darker green or black
+colour, whereas thin meconium is usually
+yellow tolight green
+
+Prerequisites for Operative Vaginal
+Delivery
+
+‘ABCDEFGHUK
+Anesthesia (adequate)
+
+Bladder empty
+
+Cervix fully dilated and effaced with ROM
+Determine position of fetal head
+Equipment ready (including facilities
+
+for emergent CD)
+
+Fontanelle (posterior fontanelle
+
+midway between thighs)
+
+Gentle traction
+
+Handle elevated
+
+Incision (episiotomy)
+
+Once jaw visible remove forceps
+Knowledgeable operator

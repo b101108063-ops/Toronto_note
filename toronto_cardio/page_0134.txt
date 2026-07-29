@@ -1,0 +1,154 @@
+C44 Cardiology and Cardiac Surgery
+
++ SGLT2 inhibitor: empagliflozin, canagliflozin, dapagliflozin
+= recommended for treatment of patients with stable HFrEF, irrespective of T2DM
+= recommended in mild to moderate HFrEF with concomitant T2DM to improve symptoms and reduce
+mortality
+
+HFrEF Management
+
+1. ARNI (or if on ACEI/ARB substitute to ARNI)
+2. B-blockers
+
+3, MRA
+
+4, SGLT2 inhibitor
+
+HFpEF Management
+
+1. ARB
+
+2. Systolic/Diastolic Hypertension Management according to 2017 CHEP Guidelines
+3. MRA (if serum K* <5.0 mmol/L and eGFR >30 mL/min)
+
+4, SGLT2-Inhibitors
+
+Surgical Management
+
+revascularization is the most frequently performed operation in HF patients with the aim to restore blood
+flow to hibernating myocardium (<10% operative mortality in some patient groups)
+
+mitral valve interventions (e.g. surgery, percutaneous edge-to-edge repair) to treat MR secondary to
+ischemic LV dilation
+
+LV remodeling (Batista procedure - partial left ventriculectomy; Dor procedure - left ventricular
+restoration) improves ventricular function by reducing ventricular radial dimensions and thus decreasing
+wall tension via Laplace’s law
+
+VADs (see Cardiac Transplantation, C51)
+
+heart transplantation (see Cardiac Transplantation, C51)
+
+Cell membrane current
+
+ivabradine administration
+
+Slowed rate of
+diastolic depolarization
+= reduced HR
+
+ShirleyLong 2019
+
+J-channel at SA node
+
+oO ivabradine oO
+
+Figure 45. lvabradine mechanism of action
+
+Procedural Interventions
++ resynchronization therapy: symptomatic improvement with CRT-P or CRT-D
+= consider if QRS >130 msec with LBBB morphology, LVEF <35%, and persistent symptoms despite OMT
+= greatest benefit likely with marked LV enlargement, MR, QRS >150 msec
+= CRI-P is indicated for patients eligible for resynchronization therapy but not ICD; if the patient is also
+eligible for an ICD the decision for CRT-D is individualized in accordance with overall goals of care
+ICD: mortality benefit in 1° prevention of SCD
+= consider if: prior MI, OMT, LVEF <30%, clinically stable
+= consider if: prior MI, non-sustained VT, LVEF 30-40%, EPS inducible VT
+LVAD/RVAD (see Ventricular Assist Devices, C52)
+cardiac transplantation (see Cardiac Transplantation, C51)
+valve repair if patient is surgical candidate and has significant valve disease contributing to CHF (see
+Valvular Heart Disease, C54)
+
+Toronto Notes 2025
+Chronic Treatment of CHF
+
+Acer
+
+Brblockers*
+
++ Mineralocorticoid receptor antagonists*
+Diuretic
+
+ARNI
+
++Inotrope
+
++ Antiarrhythmic
+
++ Anticoagulant
+
+SGLT2 inhibitors
+
+“Mortality benefit
+
+)
+
+iors decrease cardiovascular deathand
+italzationsin patients withheart
+failure: A sstematicreview and meta-analysis,
+EClnicalMedcine2021;36:100933
+Study: Systematic review and meta-analysis
+placebo contol, rndonized tials
+Population: Patients with HF
+Outcome: The primary endpoints were al<ause and
+cardiovascular mortal
+Resuts:Ina meta-analysis of 15 tras with 20241
+patients, SGL2inhibtors showed sgnicant benefits.
+‘AL-ause mortality was reduced by 14% (HRO.86, 95%
+1079-0 94, 9-0.0007 and cariovscalr morality
+by Hs (R 0.86, 95% (1078-096, P-0.006) The
+composite outcome of cardiovascular moray,
+heat failure hospitalizations, or urgent visits was
+significant reduced in various subgroups
+Conclusions: S6LT2inhibitors demonstrate significant
+reductonsin both a-causeand cardiovascular
+‘mortality when compared to placebo inpatients with
+heart failure.
+
+Higher New York Heart Association Clases and
+Increased Mortality and Hospitalization in Patients
+withHeart Failure and Preserved Left Ventvicular
+Function
+
+Am Heart 2006;151444-450
+
+Purpose: To estabish the association between NYHA
+class and outcomes wit Hf and preserved systolic
+function
+
+Methods: Retrospective folon-up study (median 38.5
+1mo}of 988 patents with HF with EF >45%, Estimated
+risks various outcomes using Cox proportional
+hazard models
+
+Results: Adjusted HR forall causemortltfor NYHA
+clas I IV patients was 154,256, and 8.46,
+respectively Adjusted HR for all<ause hospitalization
+for NYHA class IV patents was1.23,1.71, and
+34, tespectively
+
+Conclusion: Higher NYHA clases were associated
+with poreroutcomesin patients with HFand preserved
+systolic function.
+
+WH Proportion
+
+of A-Cause
+
+Matalty
+
+3%
+1s
+BI
+
+58.3%

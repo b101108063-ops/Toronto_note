@@ -1,0 +1,94 @@
+PH23 Public Health and Preventive Medicine Toronto Notes 2025
+
+Total Quality Management
+
++ management philosophy for advancing quality while minimizing additional expenditures
+
++ focuses on the performance of the entire system rather than individuals, by identifying and removing
+barriers to quality
+
+Audit
+
++ methodical analysis of a quality system by quality auditors
+
++ to determine whether quality processes and results comply with goals and whether processes have been
+implemented effectively
+
+Systems Analysis Tools
+
+1. 5 Whys: brainstorming to simplify the process of change; continue asking ‘why’ until the root of the
+problem is discovered
+
+2. Ishikawa Diagrams (i.e. Fishbone Diagrams): identify generic categories of problems that have an overall
+
+contribution to the effect (see Figure 15)
+
+Defect Check Sheets: consider all defects and tally up the number of times the defect occurs
+
+4, Pareto Chart: x vs. y chart; x-axis = defect categories, y-axis = frequency; plot cumulative frequency on the
+right y-axis; purpose is to highlight most important among large set of factors contributing to defects/poor
+quality
+
+»
+
+(Decreased Handwashing ) (improper Precautions }
+
+Lack of time Lack of training
+
+Lack of hand sanitizer Improperly assigned
+
+Nosocomial Infections
+
+Not sterilizing stethoscope Common waiting
+
+between patients rooms
+
+Not changing uniforms More than
+
+between shifts patient per room
+(Healthcare Team ) (Patient Exposures}
+
+Figure 15. Ishikawa diagram
+
+Planning Cycles/Models
+
+1. APIE Planning Model: Assessment, Planning, Implementation, Evaluation
+
+2. PDSA Planning Cycle: Plan, Do, Study, Act
+
+3. Precede-Proceed Model: tool for designing, implementing, and evaluating health interventions/programs
+
+Precede-Proceed Model
++ tool for designing, implementing, and evaluating health interventions/programs
+
+Table 9. Precede-Proceed Model
+
+PRECEDE Phase PROCEED Phase
+Phase 1~ Identity the timate desired result Phase5 — Implementation (design and conduct the intervention)
+Phase 2Identify healthissues and their behavioural and environmental Phase - Processevaluation (determine ifthe programs implemented as planned)
+
+determinants, Set priorities among them
+
+Phase 3 Identify the predisposing, enabling, and reinforcing factorsthat _-Phase7— Impact evaluation (measure intermediate effects onthe target population)
+affect the behaviours and environmental determinants
+
+Phase 4- Identify the administrative and policy factors thatinfluencewhat Phase 8 - Outcomeevahation (determine whether the original desired result was
+«canbe implemented achieved)
+
+Economic Evaluatio
+
++ economic evaluations involve the assessment of the cost and effect trade-offs of any interventions,
+programs, or policies that impact health outcomes. Health economic evaluations are designed to inform
+social decisions in health care, alongside evidence from other sources
+
+Cost Effectiveness Analysis (CEA)
+
++ compares two or more drugs, devices, tests, or procedures to find out which provides more outcomes for the
+cost of treatment or which has the lowest cost for a given outcome
+
++ the incremental cost-effectiveness ratio (ICER) shows the extra cost of the more expensive intervention
+compared to the cheaper intervention (numerator) divided by the difference in health outcome
+(denominator)
+
++ the denominator is the outcome expressed in natural (health) units, such as years of life gained, lives saved,
+or clinical events avoided or achieved

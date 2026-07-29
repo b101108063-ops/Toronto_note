@@ -1,0 +1,186 @@
+R21 Respirology
+
+Risk Factors
+«= stasis
+
+= immobilization: paralysis, stroke, bed rest, prolonged sitting during travel, immobilization of an
+extremity after fracture
+
+= obesity, CHF
+
+= chronic venous insufficiency
++ endothelial cell damage
+= postoperative injury, trauma
++ hypercoagulable states
+* underlying malignancy (particularly adenocarcinoma)
+
+CA treatment (chemotherapy, hormonal)
+
+exogenous estrogen administration (oral contraceptive pill, hormone replacement therapy)
+pregnancy, post-partum
+
+prior history of DVT/PE, family history
+
+nephrotic syndrome
+
+coagulopathies: Factor V Leiden, Prothrombin 20210A variant, inherited deficiencies of antithrombin/
+
+protein C/protein S, antiphospholipid antibody, hyperhomocysteinemia, increased Factor VIII levels,
+and myeloproliferative disease
+
++ increasing age
+
+Investigations (if highly suspicious, go straight to CT pulmonary angiogram)
++ see Emergency Medicine, ER33
+
+Table 21. Common Investigations for Pulmonary Embolism
+
+Investigation
+
+Purpose/Utility
+
+Pulmonary Angiography
+(Gold Standard)
+
+Filling defect indicative of embolus; negative angiogram excludes clinically relevant PE
+More imvasive, and harder to performthan CT, therefore done infrequently
+
+Highly sensitiv D-dimer result can exclude DVUPE if pretest probably is already low
+Little value pretest probability ishigh
+ItD-dimer positive, will needfurther eveluationwith compression U/S (for DVT) and/or CT (fr PE)
+
+CT Angiogram
+
+Bothsenstiveandspedtic for PE
+Diagnosis and management uncertain fr small filing defects
+
+(CT may identify an alternative diagnosis if PE isnot present
+
+{CT scanning ofthe proximal leg andpelvic veins can be done at the same time andmay be helpful
+
+Venous Duplex US or Doppler
+
+With eg symptoms
+Positive test rules inproximal DVT
+Negative test rules out proximal DVT
+Without feg symptoms
+Positive test rules inproximal DVT
+Negative test does notruleout aDVT: patient may have non-oclusve or calf VT
+
+6
+
+Findings not sensitive or specifi
+‘Sinus tachycardia most common; may see non-specific ST segmentand T wave changes
+AV strain, RAD, right bundle branch block (RBBB), 1-03-T3 with massive embolization
+
+CHR
+
+Frequently normal; no specicteatures
+‘electasis(subsegmental,elevationof ahemidiaphragm
+
+Pleural effusion: usually small
+
+Hampton's hump: cone-shaped area of peripheral opaifcationrepresenting infarction
+
+Westermark’s sign: dilated proximal pulmonary artery with distal oligemia/decreased vascular markings (difficult to assess without
+prior films)
+
+Dilatation of proximal pulmonary artery: rare
+
+WidScan
+
+Very sensitive but low specificity
+Order scant:
+‘GR normal, no COPD
+Contraindication to CT (contrastallegy, renal dysfunction, pregnancy)
+‘Avoid WO scant:
+‘GAR abnormal or COPD
+Inpatient
+‘Suspect massive PE
+Resuits:
+Normal: exdudesthe diagnosis of PE
+High probability: mos likely means PE present, unless pre-test probability is low
+60% of 0 scans arenondiagnostic
+
+Echocardiogram
+
+Useful toassess for RV strain due tomassiveor chronic PE
+No diagnostic usein PE (insensitive andnonspecifi
+
+May show respiratory alkalosis (dueto hyperventilation)
+
+Toronto Notes 2025
+
+PERule Out itria (PERO)
+Prospective Multicentre Evaluation ofthe Pulmonary
+Enbolism Rule Out Criteria
+‘Thom Hemost 2008;6:772
+Agelessthan5Oyr
+Heartateless than 00 bpm
+(xyhemoglobin saturation 295 percent
+Wohemoptyss
+oestrogen use
+Nopror DVT orPE
+Noundaterallegsweling
+No surgery or trauma requiring hospitalization within
+the past4 wk
+
+Acute PE can probably be excluded without further
+ingostictesting the patient meets al PER itera
+NO theres alow clinical suspicion for PE, according
+tocither the Wels’ criteria or alow gestat probability
+determined by theclnican pir to diagnostic testing
+for,
+
+Evaluation of a Suspected Pulmonary
+Embolism
+
+Low clinical probability of embolism
+D-dimer (ve) + CT scan (*ve)* ruled in
+(ve) + ruled out
+
+Intermediate or high probability
+CT pulmonary angiography scan
+(ve) + ruled out
+(eve) + ruled in
+
+Notes:
+
+Use D-dimers only iow dinical probability,
+
+otherwise, go straight to CT
+
+fusing V/Q scans (CT contrast allergy or
+
+renal failure):
+Negative VO scan rules out the diagnosis
+High probability V/Q scan only rules in the
+diagnosis if high clinical suspicion
+Inconclusive VQ scan requires leg U/S to
+ook for DVT or CT
+
+Workup for Idiopathic Venous
+Thromboembolism
+
+Thrombophilia workup: recurrent or
+idiopathic DVT/PE, age <50, FMHx, unusual
+location, massive
+
+Malignancy workup: 12% of patients with
+idiopathic VTE wil have a malignancy
+
+The Use of Unfractionated Heparin
+Should Be Limited to:
+
+Patients with severe renal dysfunction (CrCl
+-<30 ml/min) in whom LMWH and novel oral
+anticoagulation should be avoided
+Patients at elevated risk of bleeding that
+‘may need rapid reversal of anticoagulation
+Patients who receive thrombolytic therapy
+
+See Landmark 10M Respirology Tals table for more
+information on EPSTEIN-CHOICE which deta the
+
+efficacy ofrvarovaban vs. SAin patents with VE who
+completed a 6-12mo couse of anticoagulation therapy.

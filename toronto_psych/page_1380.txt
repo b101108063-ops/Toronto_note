@@ -1,0 +1,110 @@
+PS26 Psychiatry
+
+Table 3. Comparison of Dementia, Delirium, and Cognitive Impairment Associated with Depression
+
+Dementia/Major Neurocognitive Delirium Cognitive impairment Associated with
+Disorder Depression
+Onset Gradualstepwise decline ‘Acute (usually hours to days) Subacute
+Duration Months years Days-weeks Variable
+Natural History Progressive Fuctuating reversible, highmorbidity’ Recurrent
+Usually reversible mortality inthe elderly Partially reversible
+Level of Consciousness Normal Fuctuatingbetween hyperactive Normal
+(esitation) and hypoactive stupor)
+(over 24)
+Mention Notintilly affected Impaired (wandering, easy distraction) Difficulty concentrating
+Orientation Intactnitaly Impaired (usvallytotime and place), Intact
+fluctuates
+Behaviour Disinhbition, impairment in ADLIADL, Potential for agitation/etardation ‘Anhedonia, decreased/inaeased sleep!
+personality change, lossof social graces (even severe) eating, agitationretardation
+Psychomotor Normal Fluctuates between extremes Sowing or agtation
+Sleep WakeCycle Frogmented sleep at night Disturbedsleep wake cycle Early morning awakening
+Mood and Affect Labile, antiety ordepression are Jaxious,irtabe fluctuatingor Depressed, pervasive
+‘commonin the early stages apathetic, withdrawn
+Cognition Decreased executive functioning, Fluctuating May appear to beimpaired/slowed
+paucity of thought
+MemoryLoss Recent eventually emote Markedrecent Recent
+Typically, lowinsight Morelikelyto complain
+Language ‘Agnosia, aphasia, decreased Dysnomia, dysgraphia, speech rambling, Not affected
+‘comprehension, repetition, speech _irelevant, incoherent, subject changes
+(echolalia, palilaia)
+Delusions Compensatory Nightmarish and poctly formed Niilistc, somatic
+Hallucinations Variable Visual common Less common; f present auditory
+predominates
+Quality of Hallucinations Vacuousbland Frightening/bizare Selt-deprecatory
+Medical Status Variable Acuteillness, drugtoxkcity Ruleoutsystemictiness, medications
+
+Substance-Related and Addictive Disorders
+
+Overview
++ substance use disorder (SUD): a neurobiological disorder involving compulsive drug seeking and drug
+taking, despite adverse consequences, with loss of control over drug use (think issues with the “3 Cs”:
+compulsive, consequences, control)
++ itis possible to have a substance use disorder without physiological dependence (i.e. withdrawal syndrome
+or tolerance); dependence is the hallmark of substance use disorders and comes in the following forms:
+= behavioural: substance-seeking activities and pathological use patterns
+= physical: physiologic withdrawal effects without use or tolerance
+= cognitive: continuous or intermittent cravings for the substance to avoid dysphoria or to attain the
+desired effects of the substance
++ drug misuse: drug use that deviates from the approved social or medical pattern, usually causing
+impairment or disruption to function in self or others
++ these disorders are usually chronic with a relapsing and remitting course
++ there are 10 separate classes of substances identified in the DSM-5: alcohol; caffeine; cannabis;
+hallucinogens (PCP or similarly acting arylcyclohexylamines and other hallucinogens); inhalants; opioids;
+sedatives, hypnotics, and anxiolytics (alcohol included); stimulants (amphetamine-type substances,
+cocaine, and other stimulants); tobacco; and other (or unknown) substances
++ whereas substance use disorders imply addiction to substances, addictive disorders include process
+(behavioural) addictions such as gambling
+
+Epidemiology
+«+ the lifetime prevalence of SUD in Canada is 21.6% lifetime and 10.1% for the last 12 mo; for alcohol use
+disorder it is 18.1% and 3.2%; for cannabis use disorder 6.8% and 1.3%; and for other substances, 4.0% and
+0.7%, respectively (data before the legalization of cannabis use in Canada)
+
++ 47% of those with substance use disorder have mental health problems
+
++ 29% of those with a mental health disorder have a substance use disorder
+
++ 47% of those with schizophrenia and 25% of those with an anxiety disorder have a substance use disorder
+
+Etiology
+
++ almost all drugs (and activities) related to dependence directly or indirectly increase dopamine release
+from the ventral tegmental neurons synapsing onto the nucleus accumbens (known as the brain’s ‘reward
+pathway’), an action that contributes to their rewarding properties; with repeated use, they can modulate
+signaling pathways which further encourages their use, contributing to their addictive potential
+
+Toronto Notes 2025
+
+‘Most Common Causes of Dementia
+
+Alzheimer’s disease (up to 50-60%):
+predominantly memory and learning issues,
+insidious onset/gradual progression
+Frontotemporal degeneration (5%):
+language type (early preservation),
+behavioural type (apathy/disinhibition/
+self-neglect); more common among those
+with dementia that has onset before age
+©; progressive
+
+Lewy body disease (up to 25%): early
+changes in executive and attention, may
+fluctuate, well formed visual hallucinations
+(e.g. rabbits), autonomic impairment (falls,
+hypotension), Parkinson's type EPS that
+does not respond well to pharmacotherapy
+and follows >1 yr after cognitive decline,
+fluctuating degree of cognitive impairment,
+sleep disturbances
+
+Vascular disease (15-30%): vascular risk
+factors, focal neurological signs, abrupt
+‘onset, stepwise progression, executive
+dysfunction> memory impairment,
+personality and mood changes (loss of
+motivation)
+
+Normal pressure hydrocephalus:
+abnormal gait (“magnetic gat’), early
+incontinence, rapidly progressive; dilated
+ventricles on imaging

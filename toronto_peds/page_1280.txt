@@ -1,0 +1,82 @@
+P84 Pediatrics
+
+Clinical Features
+
++ often asymptomatic; some overlap in clinical findings for nephritic and nephrotic syndrome
+
++ gross hematuria, mild-moderate edema, oliguria, HTN
+
++ may have signs and symptoms suggestive of underlying systemic causes (e.g. fever, arthralgias, rash,
+dyspnea, pulmonary hemorrhage)
+
+Investigations
++ urine
+
+«= dipstick (hematuria, 0 to 2+ proteinuria) and microscopy (>5 RBCs per high-powered microscope field,
+
+acanthocytes, RBC casts)
+
+« first morning urine protein/creatinine ratio (<200 mg/mmol)
++ blood work
+CBC, electrolytes, Cr, BUN, albumin
+mild anemia on CBC (secondary to hematuria)
+impaired renal function (t Cr and urea) resulting in + pH and electrolyte abnormalities (hyperkalemia,
+hyperphosphatemia, hypocalcemia)
+hypoalbuminemia (secondary to proteinuria)
+appropriate investigations to determine etiology: C3/C4 levels, serologic testing for recent streptococcal
+infection (ASOT, anti-hyaluronidase, anti-streptokinase, anti-NAD, anti-DNAse B), ANA, anti-DNA
+antibodies, ANCA, serum IgA levels, anti-GBM antibodies
++ renal biopsy should be considered only in the presence of acute renal failure, no evidence of streptococcal
+
+infection, normal C3/C4
+
+Management
++ treat underlying cause
++ symptomatic
+= renal insufficiency: supportive (dialysis if necessary), proper hydration
+= HTN: salt and fluid restriction (but not at expense of renal function), ACEI or ARBs for chronic
+persistent HTN (not acute cases because ACEI or ARBs may decrease GFR further)
+= edema: salt and fluid restriction, possibly diuretics (avoid if significant intravascular depletion)
++ corticosteroids if indicated: Iga nephropathy, lupus nephritis, etc.
+* post-streptococcal GN should be monitored for complications long term (annual BP, urinalysis)
+
+Prognosis
+
++ dependent on underlying etiology
+
++ complications include HTN, heart failure, pulmonary edema, chronic kidney injury (requiring renal
+transplant)
+
+Nephrotic Syndrome
+
+Definition
++ clinical syndrome affecting the kidney, characterized by significant proteinuria, peripheral edema,
+hypoalbuminemia, and hyperlipidemia
+
+Epidemiology
++ highest incidence in children 2-6 yr, M>F
+
+Etiology
++ primary (idiopathic): nephrotic syndrome in the absence of systemic disease (most common cause in
+ediatrics)
+" glomerular inflammation ABSENT on renal biopsy: MCD (85%), focal segmental glomerulosclerosis
+= glomerular inflammation PRESENT on renal biopsy: membranoproliferative GN, IgA nephropathy
++ secondary: nephrotic syndrome associated with systemic disease or due to another process causing
+glomerular injury (10% in pediatrics)
+autoimmune: SLE, DM, juvenile idiopathic arthritis
+genetic: sickle cell disease, Alport syndrome
+infections: hepatitis B/C, post-streptococcal, infective endocarditis, HUS, HIV
+malignancies: leukemia, lymphoma
+medications: captopril, penicillamine, NSAIDs, antiepileptics
+vasculitides: HSP, granulomatosis with polyangiitis
++ congenital: congenital nephropathy of the Finnish type, Denys-Drash syndrome, etc.
+
+Toronto Notes 2025
+
+Nephrotic Syndrome - HELP
+Hypoalbuminemia (<20 g/L)
+Edema
+
+Lipids elevated
+
+Proteinuria (50 mg/kg/d)

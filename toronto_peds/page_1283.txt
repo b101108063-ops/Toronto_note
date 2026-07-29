@@ -1,0 +1,77 @@
+P87 Pediatrics Toronto Notes 2025
+
+Management
+treat underlying cause
+
+non-pharmacologic: modify concurrent cardiovascular risk factors (e.g. weight reduction, exercise, salt
+restriction, smoking and recreational drug use cessation)
+
+pharmacologic: gradual lowering of BP using thiazide diuretics; no antihypertensives have been formally
+studied in children; if hypertensive emergency use hydralazine, labetalol, sodium nitroprusside
+investigation and management of end-organ damage (e.g. retinopathy, LVH)
+
+consider referral to specialist Pediatrician or Pediatric Nephrologist
+
+Prognosis
++ end-organ damage (similar to adults) including LVH, CHF, cerebrovascular insults, renal disease,
+retinopathy
+
+Neurology
+
+Cerebral Palsy
+
+Definition
+
+. non-progressive central motor impairment syndrome due to CNS anomaly or neural injury at the prenatal,
+perinatal, or postnatal stage
+
++ classified functionally into the 5 levels of the Gross Motor Functional Classification System
+
+incidence: 1.5-2.5 in 1000 live births (industrialized nations)
+
+life expectancy is dependent on the degree of mobility and intellectual impairment, not on severity of CNS
+
+lesion
+
+Etiology
+
++ no known cause identified in 1/3 of cases
+
++ prenatal causes: TORCH infections, maternal disorders (e.g. epilepsy), congenital CNS anomaly, genetic
+causes
+
++ perinatal causes: prematurity, LBW, ischemic stroke, hypoxic ischemic encephalopathy
+
+* postnatal causes: infections (e.g. meningitis), asphyxia, IVH, trauma, kernicterus
+
+‘al Features
++ general signs and co-occurring conditions: delay in motor milestones, developmental delay, learning
+disabilities, visual/hearing impairment, seizures, microcephaly, hypertonia, uncoordinated swallow
+
+(aspiration)
+Table 45. Types of Cerebral Palsy
+Type Characteristics ‘area of Brain involved
+Spastic (70-80%) Truncal hypotonia infirstyr MNof pyramidal tract
+Increased tone, increased reflexes, conus Hemiplegia most commonly caused by middle cerebral artery
+Can affect one limb (monoplegia) one side of body (hemiplegia), stroke
+both legs (diplegia), or both armsand legs (quadriplegia) Diplegia associated with periventricular eukomalada in
+premature baties
+Quacriplega associated with HEE (asphyria), higher inddence of
+intellectual dsabity
+‘Mhetoid/Dyskinetic(10-15%) _Athetosis + chorea or hypotonia Basal ganglia(may be associated with kernicterus)
+Can involve face, tongue (results in dysarthria)
+Maxie (5%) Poor coordination, poor balance (wide based gai) Cerebellum
+Can have intention tremor
+Mixed (10-15%) Norethan oneof the abovemotor patterns Some combination oftheabove
+Investigations
+
++ neuroimaging (MRI), may include metabolic screen, chromosome studies, serology, EMG, EEG (if seizures),
+ophthalmology assessment, audiology assessment
+
+Management
++ maximize potential through multidisciplinary services (e.g. primary care physician, OT, PT, SLP, school
+supports, etc.)
+
+orthopedic and/or neurosurgical management (e.g. dislocations, contractures, rhizotomy)
+
+management of symptoms: spasticity (baclofen, Botox"), constipation (stool softeners)

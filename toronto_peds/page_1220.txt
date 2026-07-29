@@ -1,0 +1,133 @@
+P24 Pediatrics
+
+= systemic: body > RA > RV > aorta > body
+= pulmonary: lungs > LA > LV > pulmonary artery > lungs
+= survival is dependent on mixing through PDA, ASD, or VSD
++ physical exam
+= neonates: ductus arteriosus closure causes rapidly progressive severe hypoxemia unresponsive to
+oxygen therapy, acidosis, and death
+= VSD present: cyanosis is not prominent; CHF within first weeks of life
+= VSD absent: no murmur
++ investigations
+= ECG: RAD, RVH, or may be normal
+= CXR: egg-shaped heart with narrow mediastinum (“egg on a string”)
+= echo: diagnostic
++ management
+= symptomatic neonates: prostaglandin El infusion to keep ductus open until balloon atrial septostomy
+«= surgical repair: arterial switch performed in the first 2 wk in those without a VSD while LV muscle is
+still strong
+
+Total Anomalous Pulmonary Venous Return
++ epidemiology: 1-2% of CHD
++ pathophysiology
+« all pulmonary veins drain into right-sided circulation (systemic veins, RA)
+= no direct oxygenated pulmonary venous return to left atrium
+= often associated with obstruction at connection sites
+= ASD must be present for oxygenated blood to shunt into the LA and systemic circulation
++ management: surgical repair in all cases and required urgently for severe cyanosis
+
+Truncus Arteriosus
++ pathophysiology
+= single great vessel gives rise to the aorta, pulmonary, and coronary arteries
+= truncal valve overlies a large VSD
+= potential for coronary ischemia with fall in pulmonary vascular resistance
+* management: surgical repair within first 6 wk of life
+
+Hypoplastic Left Heart Syndrome
+epidemiology: 1-3% of CHD; most common cause of death from CHD in first mo of life
+pathophysiology: LV hypoplasia may include atretic or stenotic mitral and/or aortic valve, small ascending
+aorta, and coarctation of the aorta with resultant systemic hypoperfusion
+systemic circulation is dependent on ductus patency; upon closure of the ductus, infant presents with
+circulatory shock and metabolic acidosis
+management
+= intubate and correct metabolic acidosis
+« IV infusion of prostaglandin E1 to keep ductus open
+= surgical palliation (overall survival 50% to late childhood) or heart transplant
+
+Congestive Heart Failure
+
+« see Cardiology and Cardiac Surgery, C40
+
+Etiology
+
+CHD
+
+cardiomyopathy (primary or secondary)
+
+high output circulatory states (e.g. anemia, AVMs, cor pulmonale, hyperthyroidism)
+non-cardiac (e.g. sepsis, renal failure)
+
+pressure overload (e.g. aortic stenosis/coarctation, pulmonary stenosis, HTN)
+volume overload (e.g. L to R shunt, valve insufficiency)
+
+Clinical Features
+
++ infant: weak cry, irritability, feeding difficulties, early fatigability, diaphoresis while sleeping or eating,
+respiratory distress, lethargy, FTT
+
+child: decreased exercise tolerance, fatigue, decreased appetite, respiratory distress, frequent URTIs, or
+
+“asthma” episodes
+
+orthopnea, paroxysmal nocturnal dyspnea, pedal/dependent edema are all uncommon in children
+
+physical findings: 4 key features (tachycardia, tachypnea, cardiomegaly, hepatomegaly). Additionally, FT,
+
+alterations in peripheral pulses, four limb blood pressures (in some CHDs), dysmorphic features associated
+
+with congenital syndromes, gallop rhythm
+
+Investigations
+CXR: cardiomegaly, pulmonary venous congestion
+
+ECG: sinus tachycardia, signs of underlying cause (heart block, atrial enlargement, hypertrophy, ischemia/
+infarct)
+
+echo: structural and functional assessment
+
+blood work: CBC, electrolytes, BUN, Cr, LFTs
+
+Toronto Notes 2025
+
+Ebstein's Anomaly
+Septal and posterior leaflets of tricuspid
+valve are malformed and displaced into
+theRV
+
+Potential for RV dysfunction, tricuspid
+stenosis, tricuspid regurgitation, or
+functional pulmonary atresia if RV unable to
+‘open pulmonic valves.
+
+Accessory conduction pathways (e.g. WPW)
+are often present
+
+Etiology
+Unknown, heterogeneous genetic
+predisposition, associated with maternal
+lithium and benzodiazepine use in 1st
+trimester
+
+Treatment
+Newborns: consider dosure of tricuspid
+valve + aortopulmonary shunt, or
+transplantation
+
+(der children: tricuspid valve repair or valve
+replacement + ASD closure
+
+4 Features of Hypoplastic Left Heart
+Syndrome
+
+Hypoplastic LV
+Narrow mitral/aortic valves
+‘Small ascending aorta
+Coarctation of the aorta
+
+4 Key Features of CHF
+
+2 Tachys and 2 Megalys
+Tachycardia
+Tachypnea
+Cardiomegaly
+Hepatomegaly

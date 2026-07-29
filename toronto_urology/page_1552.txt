@@ -1,0 +1,126 @@
+U22
+
+Urology
+
+Table 15. Benign Renal Masses
+
+‘Angiomyolipoma (Renal Hamartoma)
+
+Renal Oncocytoma
+
+Epidemiology “<10% ofadut renal tumours 37% of renal tumours
+PI
+20% associated withtuberous sclerosis (especially # multiple, Oncocytomas also found in adrenal thyroid, andparathyroid
+recurrent) gands
+
+Characteristics Clonal neoplasm consistingof blood vessels(angio}), smooth Spherical, capsulated with possible central scar
+muscle (myo-),andfat ipoma) Histologically organizedaggregates of eosinophilic cells
+May extend into regional lymphatics and other organs and become —riginatng from intercalated cellsof collecting duct
+symptomatic
+
+Diagnosis Incidental finding on CT Incidental finding on CT
+Negative attenuation (20 HU) onCTis pathognomonic Difficultto distinguishfromRCC on imaging -treatedas RCC
+Rare presentation of hematuria flankpain and palpable mass until provenotherwise
+(sameas RCC) Biopsy may be performed to rule outmalignancy
+
+Management May consider surgical excision or embolization f symptomatic Surveillance for most
+
+(pain, bleeding) or higher risk of bleeding (e.g. pregnancy)
+
+Partatradical nephrectomy for lage masses
+
+Potential role for mechanistic target of rapamycin (TOR)
+inhibitors in unresectable/metastatic disease
+Follow with serial US
+
+Malignant Renal Neoplasms
+
+Renal Cell Carcinoma
+
+Etiology
+
++ originates from proximal convoluted tubule epithelial cells in clear cell subtype (most common)
+
++ hereditary forms seen with von Hippel-Lindau syndrome, hereditary papillary renal carcinoma, Birt Hogg
+Dubé syndrome, and hereditary leiomyomatosis and renal cell cancer
+
+Epidemiology
+
++ 85% of primary malignant tumours in kidney, ~3% of all malignancies
++ M:F=L5:1
+
++ peak incidence at ages 50-60
+
+Pathology
+
++ histological subtypes: clear cell (75-85%), papillary (10-15%), chromophobe (5-10%), collecting duct (<1%),
+other (<1%)
+
+* sarcomatoid or rhabdoid elements in any subtype are markers of poor prognosis
+
+Risk Factors
+
++ top 3 risk factors: smoking, HTN, obesity
+
++ end-stage renal disease (acquired renal cystic disease)
+
++ role of environmental exposures (aromatic hydrocarbons, etc.) remains an unproven risk factor for
+development of RCC
+
+Clinical Features
++ usually asymptomatic: frequently diagnosed incidentally by U/S or CT (>50%)
++ indicators for poor Prognosis: weight loss, weakness, anemia, bone pain
++ classic “too late triad” found in 10-15%
+= gross hematuria 50%
+«= flank pain <50%
+= palpable mass <30%
++ metastases: seen ina 1/3 of new cases; additional 20-40% will go on to develop metastases (mostly in late
+presentations or large tumours)
+= most common sites: bone, brain, lung, and liver
+= may invade renal veins and inferior vena cava (IVC) lumen
+= this may result in ascites, hepatic dysfunction, right atrial tumour, varicocele, and pulmonary emboli
+
+Investigations
++ routine labs for paraneoplastic syndromes (CBC, ESR, LFTs, extended electrolytes)
+
++ UA
+
++ renal U/S: solid vs. cystic lesion
+
++ contrast-enhanced CT: higher sensitivity than U/S for detection of renal masses and for staging purposes
+
+renal biopsy: to confirm diagnosis, if considering observation or other non-surgical ablative therapy
+genetic testing: consider if FHx of von Hippel-Lindau syndrome, non-dlear cell carcinoma, bilateral/
+multifocal tumour, onset <45 yr, FHx of renal tumour, or any renal tumour with Hx of pneumothorax,
+dermatologic findings, associated tumours, lymphangiomyomatosis, or childhood seizure disorder
+
+MRI: useful for evaluation of complex cystic lesions indeterminate on CT; good way to assess IVC thrombus
+
+Toronto Notes 2025
+
+Role of environmental exposures (aromatic
+hydrocarbons, et.) remains an unproven
+tisk factor for development of RCC
+
+RCC Systemic Effects: Paraneoplastic
+‘Syndromes (10-40% of Patients)
+
+Hematopoietic disturbances: anemia,
+polycythemia, raised Erythrocyte
+Sedimentation Rate (ESR)
+Endocrinopathies: hypercalcemia
+{increased vitamin D hydroxylation),
+erythrocytosis (increased erythropoietin),
+HTN (increased renin), production of other
+hormones (prolactin, gonadotropins, TSH,
+insulin, and cortisol)
+
+Hepatic cell dysfunction or Stauffer
+syndrome: abnormal LFTs, decreased WBC
+count, fever, areas of hepatic necrosis;
+
+‘no evidence of metastases; reversible
+following removal of primary tumour
+Hemodynamic alterations: systolic HTN
+(due to arteriovenous shunting), peripheral
+‘edema (due to caval obstruction)

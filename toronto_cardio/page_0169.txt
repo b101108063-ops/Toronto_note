@@ -1,0 +1,87 @@
+c79 Cardiology and Cardiac Surgery Toronto Notes 2025
+Tal Name Reference (Clinical Trial Details
+PRESERVE NEJM 2008;359:2456-67 Title rbesartanin Patients with Heart Failure and Preserved Ejection Fraction
+Purpose: Study the efects of irbesartan in patients with HF and EF ~45%.
+Methods: 4128 patents with HF and EF>45% were randomized to irbesartan 300 mg daily,or matching placebo. The primary outcome was a composite of all-cause
+mortality or CV hospitalization,
+Results: The primary outcome occured in 42 patients inthe tbesartan goupand 763 placebo patients (hazard ratio 0.95, 95% C1 0.86 to .05;P=0.35). Overall, rates of
+death were 52.6 and 52.3 per 1000-patient yr, respectively.
+‘Conclusions: In patients with CHF and normal LVEF, treatmentwith ARB (rbesartan) did nat improve mortality or CV morbidity comparedto placebo.
+PARADIGN-HF NEJM 201;371:993-1004 Title: AngiotensinNepriysn Inhibition vs. Enalapilin Heart Filure
+Purpose: Compare survival in HrEF patients treated with enalapril or an angiotensn-neprlyin inhibitor.
+Methods: 8442 patientswith HF and EF 40% were randomized toL(Z696 200 mg twice daily or enalapril 10 mgtwice daily. The primary endpointwas a composite of CV
+death and HF hospitalization.
+Results: The primary outcome occured in 21.8% of LCZ696-treatedpatientsand 26.5% of enalapil patients (hazard ato 0,80; 95% C10.73to 0.87; P<0.001) 13.3%and
+16.5% ofpatientstreated with LCZ696 and enalapril, respectively, died of CVcauses (hazardratio 0.80; 95% C1 0.7110 0.89; P0, 001).
+Conclusions: Novel drug (.CZ696) containing valsartan anda nepilysin inhibitor (prevents degradation of natriuretic peptides) reduces hospitalization and mortality
+PRESERVED-HF Nature 2021;27:19544960 Title: TheSGLI2 inhibitor Dapaglifiozin in Heart Failure with Preserved Ejection Fraction: AMultcenter Randomized Trial
+Purpose: To determine iftreatmentwith SGLT2 inhibitor dapagiifazn willimprove symptoms, physical limitations, and exercise function in patients with and without 2D
+Methods: Randomized, multicentre rial. 324 patients wererandomizedto receive dapagiflazina placebo.
+Results: Dapagliflozin demonstrated improvements in Kansas City Cardiomyopathy Questionaire Clinical Summary Score, physical limitations scores, 6-minute walk
+test, proportion of participants with meaningful improvements in Kansas Gy Cardiomyopathy Questionnaire Clnical Summary Score, andweight reduction, No significant
+differences were observed in other secondary endpoints, Adverse events were comparable between dapagliflozinand placebo groups
+Conclusions: After 12 wk of treatment with dapaglilozin, there was a significant improvement reported by patents insymptoms, phy icallimitations,andexercise
+function
+ALES NEJM 1999;341:709-17 Title: TheEtfect of Spironolactone on Morbidity and Mortality in Patients with Severe Heart Failure
+Purpose: Assessthe efficacy of spironolactone on morbidity and mortality inpatients with severe HF
+Methods: 1663 patientswith severe HF andLVEF <35% who were being treated with ACEI, lop diuretic and digoxin, wererandomized to spironolactone 25 mg daily or
+placebo. The primary endpoint was all-cause mortality
+Results: There was a mortal rate of 46% inthe placebo group, comparedto 35% inthe spironolactone group (RRO.70; 95% C10.60 to 0.82;P0.00%). The frequency of
+hospitalization fr worsening HF was 35% less in theintervention group (RR 0.651 95% C10.54 to 0.77, P<0.00%).
+‘Conclusions: In severe CHF (lass UNV) and LVEF <35%, spironolactone reduced all-cause mortality, sudden death, and death due to progression of HF,
+SCO-HeFT NEJM 2005;352:225-37 Title: Amiodarone oran!mplantable Cardioveter-Defibrilator for Congestive Heart Failure
+Purpose: Study prognosis itterencesin CHF patients treatedwith amiodarone of ICD.
+Methods: 2521 patientswith CHF and LVEF <35% were randomized to conventional therapy plusplacebo, conventional therapy lus amiodarone, or conventional therapy
+plusshockonlysingle-ead CD. The primary endpoint was death fromany cause
+Results: Morality rates were 29% in placebo patients, 28% inthe amiodarone group, and 22%in the ICD group (hazard ratio 1.06; 97.5% 0.86 to 1.30; P-0.53).1CD
+‘was associated with adecreased risk of death of 23% compared toplacebo (hazardratio0.77;97.5% C1 0.62 to 0.96; =0.007) Results didnot vary based onischemicor
+nonischemic causes of CHF.
+Conclusions: In mild-to-moderate CHF, shock-only ICD significantly reduces risk of death; amiodarone had no benefit compared with placebo intreating patients with
+mild-to-moderate CHF.
+TRACE Title: A Clinica Trial ofthe Angiotensin-Converting- Enzyme Inhibitor Trandolaprilin Patients with Left Ventricular Dysfunction ater Myocardial Infarction
+Purpose: Determine whether the mortalty benefit of ACE post-Ml extends to all patients, or only selected patients
+Methods: On d 3-7 post Mi, 1749 patients wererandomizedto receive oral trandolaprior placebo. The primary endpoint was all<ause morality
+Results: The mortality ratewas 347%in the trandolapril goup, compared with 42.3% inthe placebo group (P=0.00%; RRO. 78; 95% Cl 0.67 to 0.91), Trandolapil reduced
+rates of suddendeath (R 0.75; 95% CI 0.59 to 0.98; P-0.03) and CV death (RR0.75; 0.62 00.88; P-0.001)
+Conclusions: In patients withLV dysfunction post MI, long-term trandolapril reduced therisk of death or progression to severe CHF andreduced sk of sudden death
+‘ARRHYTHMIA
+AFFIRM NEJM 2002;347:1825-33 Title: Aomparisonof Rate Control andRhythm Control in Patients with tra Fibrillation
+Purpose: Compare rate and rhythm control patients with Aib and high riskof stroke or death.
+Methods: 4060 patients with AFb were randomized torhythm-control therapy with aniarhythmic drugs, or rate-contol therapy.
+Results: The mortality ratewas 23.8% in rhythm-contolledpatientsand 21.3% in rate-controled patients (hazard ratio 1.15; 95% Cl0.99 to 1.34; P=0.08), Mor patents
+‘were hospitalized inthe rhythm-control group, with higher rates of adverse drug events.
+Conclusions: Nosignifcant difference inmortalityratesbetween rate or rhythm contrlof AFB
+ARISTOTLE NEJM 2071;365:98192 Title: Apixabanvs. Warfarinin Patients withAtrial Fibil
+Purpose: Assessthe efficacy of apixabanfor stroke preventionin patents with A, in om
+Methods: 18201 patents with AF and one additional RFfor stroke were randomized to apixaban 5 mg twice dally warfarin The primary outcome wasstroke or systemic
+embolism.
+Results: The rate of primary outcome was 127% per year inthe apixaban groupand 1.60% per year inthe warfarin group (hazard ratio0.79; 95% Cl 0.66 to 0.95; P<0.009,
+The rateof major bleeding was 2.13% per year with apixaban and 3.09% per year with warfarin (hazard ratio 0.69; 95% C1069 o 0.80; P<0.007, Therate ofhemorrhagic
+strokewas 0.24% per year in the apixaban group and 0.47% per year inthe warfarin group.
+‘Conclusions: AFib patient treated with apixaban hada lower incidence of stroke, major bleeding and martalty compared towarfarn
+AuGusTUS NEJM 2019;380:1509-24 Title: AnithromboticTherapy after Acute Coronary Syndrome or Pin Atrial Fitrillation
+Purpose: lucidate benefits of antithrombotic regimens fr patients with AFib and either ACS or previous PC
+Methods: Patients with Fib anda prior ACS or PCI were randomizedto apxaban or avtamin K antagonist, andto ASA or placebo for 6 mo. The primary outcome was major
+‘or clinically releantnon-majorbeedit
+Results: The primary outcome occured in 105% ofapixaban patients and 14.7% of vitamin K antagonist patients (hazard rato 0,69; 95% Cl 159 to 2.25;P<0.007, Patents
+inthe apixaban group had a lower incidence of death o hospitalization compared tothe vitamin Kantagonist group (23.5%vs. 27.4%; hazard rato 0.83; 95% C10.74to
+0.93; P-0,002).
+‘Conclusions: In patients withAFib and recent ACS or PCI, apixaban reduced bleeding compared to regimens that included a vitamin K antagonist ASA, or both
+conct JAMA Cardio! 2020;5:1358-65 Title: Coronary Angiography after Cardiac Arrest without ST Segment Elevation: One-Year Outcomes ofthe COACT Randomized Clinical Trial
+
+Purpose: Compare ty clinical outcomes ofimmediate angiography and PCI versus delayed angiography in resuscitated cardiac arrest patients without STEMI
+
+Methods: 52 patients who had undergone cardiac arrestin the absence of STEMI were randomized to immediate coronary angiography, or angiography after recovery
+‘ofneurological function. PCI was carried out as indicated by angiography, in keeping withthe timeallotments between groups. The primary endpoints were survival, MI,
+revascularization, hospitalization fr HF, andthe composite of deathand MI, at 1 yr follow-up time.
+
+Results: Survival at tyr folow-upwere 61.4% and 64.0% intheimmediate angiography anddelayed angiography groups, respectively (OR 0.90; 95% C10.63to1.28;
+P=0.5). Similar to 90-d outcomes, this represents a statistical insignificant difference. MI rates were 0.8% and 0.4% inthe immediate and delayed groups, respectively
+(0R1.96;95% C1018 t021.8). The composite outcome of death, revascularization, or Ml occurred ata rate of42.9% and 40.6%bin the immediate and delayed groups,
+respectively (OR 1.10; 95% CL0.77to 1.56).
+
+Conclusions: Similar tothe previous 90-4 follow-up, immediate angiography did not significantly improve 1.
+resuscitated cardiac arrest patients without evidence of STEMI.
+
+al outcomes compared to delayed angiography in
+

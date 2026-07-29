@@ -1,0 +1,79 @@
+HI4 Hematology Toronto Notes 2025
+
+Microcytic Anemia Pe]
+
++ MCV <80fL
++ see Figure 2, H6
+
+Table 10. Iron Indices and Blood Film in Microcytic Anemia
+
+labTests Blood Fim
+Ferritin ‘Serumiron TIBC “esaturation ROW (Causes of Microcytic Pnemta)
+Iron Deficiency Anemia “ + + + + 615) Hypochvonic,miciocytic TALS
+Thalassemia
+‘Anemia of Chronic Mi 4 4 Normocytich
+remia of Chronic Disease * ‘ ‘ ermecrickrorgtic Anemia of chronic disease/inflammation
+Sideroblastic Anemia Nie + 4 We + Dual population Iron deficiency
+Basophilic stippling Lead poisoning
+Thalassemia Nit Ne N We Nit Hypochromic, microcytic Sideroblastic anemia
+Basoptilic stippling
+Poikilocytosis
+
+Iron Metabolism
+
+Iron Intake (Dietary)
+
+average North American adult diet = 10-20 mg iron daily
+
+steady state absorption is 5-10% (0.5-2 mg/d); enhanced by citric acid and ascorbic acid (vitamin C);
+
+reduced by polyphenols (e.g. in tea), phytate (e.g. in bran), dietary calcium, and soy protein
+
+ma les more likely to have positive iron balance; up to 20% of menstruating females have negative iron
+alance
+
+Iron Absorption and Transport
+
++ dietary iron is absorbed in the duodenum (absorption impaired in IBD and celiac disease)
+
++ in circulation, the majority of non-heme iron is bound to transferrin which transfers iron from enterocytes
+and storage pool sites (macrophages of the reticuloendothelial system and hepatocytes) to RBC precursors
+inthe BM
+
+Iron Levels
++ hepcidin is ahormone produced by hepatocytes that regulates systemic iron levels
+= binds to iron exporter ferroportin (on duodenal enterocytes and reticuloendothelial cells) and induces
+its degradation, thereby inhibiting iron export into circulation (iron trapping in reticuloendothelial
+system cells and diminished absorption of iron)
+= hepcidin production is
+increased in states of iron overload (inhibiting additional iron absorption) and inflammation
+(mediating anemia of chronic disease through iron trapping)
++ decreased in states where erythropoiesis is increased (e.g. hemolysis) or oxygen tension is low
+
+Iron Storage
++ ferritin
+ferric iron (Fe**) complexed to a protein called apoferritin (liver, spleen, and BM are main ferritin
+storage sites)
+small quantities are present in plasma in equilibrium with intracellular ferritin
+also an acute phase reactant ~ can be falsely elevated to some extent despite low iron stores in response
+toa stressor
++ hemosiderin
+= aggregates or crystals of ferritin with the apoferritin partially removed
+= macrophage-monocyte system is the main source of hemosiderin storage
+
+ayia
+we pe
+‘J Gan Coy acre
+a
+I i er~
+& ‘ote
+a
+Fe 5
+a
+Go :
+Fev Fee é
+g
+Ny) i
+ton Abserton nd Transport —— °
+
+Figure 5. Iron metabolism

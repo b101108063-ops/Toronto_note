@@ -1,0 +1,84 @@
+Toronto Notes 2025
+
+Anemia
+
+Definition
+
++ a decrease in RBC mass that can be detected by Hb concentration, Het, and RBC count
+= adult males: Hb <130 g/L or Het <38%
+= adult females: Hb <120 g/L or Het <37% (changes with pregnancy and trimester)
+
+HMP = hexose monophosphate
+Figure 2. Approach to anemia - classification by MCV.
+
+Clinical Features
+
++ history
+
+symptoms of anemia: fatigue, headache, light-headedness, malaise, weakness, decreased exercise
+tolerance, dyspnea, palpitations, dizziness, tinnitus, and syncope
+
+acute vs. chronic, bleeding, systemic illness, travel, medications, diet (Fe, Bz sources), alcohol, and
+family history
+
+symptoms of hemolysis: jaundice, icterus
+
+menstrual history: menorrhagia, menometrorrhagia
+
+= rule out pancytopenia (recurrent infection, mucosal bleeding, and easy bruising)
+
++ physical signs
+
+HEENT: pallor in mucous membranes and conjunctiva at Hb <90 g/L, ocular bruits at Hb <55 g/L,
+angular cheilitis, and jaundice
+
+cardiac: tachycardia, orthostatic hypotension, systolic flow murmur, wide pulse pressure, and signs of
+CHF
+
+dermatologic: ecchymosis, petechiae, pallor in palmar skin creases at Hb <75 g/L, jaundice (if due to
+hemolysis), nail changes (spooning), and glossitis
+
+splenomegaly, lymphadenopathy
+
+Investigations
++ rule out dilutional anemia (low Hb due to increased effective circulating volume)
+
+CBC with differential, reticulocyte count, and blood film.
+
+rule out nutritional deficit, gastrointestinal and genitourinary disease in iron deficiency anemia
+additional laboratory investigations as indicated (see Microcytic Anemia, H14, Normocytic Anemia, H17,
+Hemolytic Anemia, H18, and Macrocytic Anemia, H25)
+
++ N.B. may have a mixed picture with multiple concomitant nutritional deficiencies
+
+Treatment
++ treat underlying cause (see Microcytic Anemia, H14, Normocytic Anemia, H17, Hemolytic Anemia, H18, and
+Macrocytic Anemia, H25)
+
+e
+
+Reticulocytes
+
+Reticulocytes are immature erythrocytes
+and are markers of erythrocyte production
+(+ colour, # central pallor, ¢ size)
+
+The reticulocyte count should always,
+
+be interpreted n the context of Hb
+concentration
+
+The reticulocyte count should normally
+increase in response to a decrease in RBC
+With blood loss, reticulocytes should
+increase 2-3« intially and then 5-7x over
+the next week
+
+normal reticulocyte count in anemia
+should be interpreted as a sign of
+decreased production, and may result from
+BM infiltration, nutritional deficiency, or
+other causes
+
+Anemia with reticulocytosis suggests
+appropriate BM response

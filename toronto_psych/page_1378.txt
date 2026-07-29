@@ -1,0 +1,143 @@
+PS24 Psychiatry
+
+Investigations
+
+standard bloodwork: CBC and differential, electrolytes (including C:
+Cr, TSH/T4, LFTs, vitamin B12, folate, albumin, toxicology screen; i
+infectious serologies (HIV, VDRL, Hep B/C)
+
+standard imaging: CXR and CT head (indicated especially if focal neurological deficit, acute change in
+status, anticoagulant use, acute incontinence, gait abnormality, Hx of cancer); if indicated, abdominal x-ray
+for constipation and MRI head to detect or exclude subacute stroke and multifocal inflammatory lesions in
+patients with negative head CT
+
+standard urinalysis: urine dip; if indicated, urine drug screen, urine C&S
+
+if indicated: lumbar puncture and EEG (typical finding in delirium is generalized slowing, can also be used
+to rule out underlying seizures or postictal states as etiology)
+
+and POs"), glucose, BUN,
+indicated, order blood cultures and
+
+Management
++ goal is to treat the underlying causes of delirium while minimizing the physical and psychological distress
+to the patient
+« step 1: identify and manage underlying cause
+« identify and treat underlying cause immediately
+« stop all non-essential medications
+= maintain nutrition, hydration, electrolyte balance, and monitor vitals
+= work to ensure regular bowel movements and skin care practices to prevent pressure ulcers
++ step 2: optimize the environment
+= environment: quiet, well-lit, near window for cues regarding time of day
+= optimize hearing and vision; protect sleep (with medications if need be)
+= room near nursing station for closer observation; constant care if patient climbing out of bed, pulling out lines
+= family member present (or consider 1:1 sitter) for reassurance and re-orientation
+= frequent orientation: calendar, clock, reminders
+= avoid frequent changes of assigned nursing staff as well as room transfers
+= implement falls prevention strategies and enable safe mobility
+= physical restraints to maintain safety only if necessary; minimize lines and catheters
+= calm, supportive approach; therapeutic communication
++ step 3: pharmacotherapy
+= low dose, high potency antipsychotics: haloperidol has the most evidence and can be given IV or IM;
+initiate Haldol’ 0.5-1 mg IM/IV in elderly patients ql-2 h until agitation is under control for STAT or
+PRN situation; 0.5-2 mg PO q4-6 h - monitor for signs of EPS and QT prolongation
+= alternatives include risperidone, which is less sedating (0.25-0.5 mg PO BID; less sedating), olanzapine
+(more sedating, can be anticholinergic itself), quetiapine (if EPS sensitive but risk of hypotension; 6.25-
+50 mg PO gus). aripiprazole (does not prolong QTc)
+= caution: all neuroleptics prolong the QT interval and decrease seizure threshold, thus increasing risk
+of cardiac arrhythmias and seizures, respectively; also, patients with Parkinson's disease or Lewy body
+dementia are particularly at high-risk of EPS
+= ECG to assess QT interval when considering treatment with an antipsychotic agent
+= benzodiazepines only used in alcohol/substance withdrawal delirium; otherwise, can worsen
+delirium (antipsychotics are not useful in EtOH or benzodiazepine withdrawal delirium); however,
+benzodiazepines should not be stopped if they are a long-standing medication or this may precipitate
+the delirium
+= try to minimize drugs with anticholinergic effects
+= note: antipsychotic medications are used in delirium to treat severe patient agitation, changing
+delirium from the hyperactive to hypoactive state; they do not treat the underlying “acute brain state”
+driving the delirium
+
+Prognosis
++ up to 50% 1 yr mortality rate after episode of delirium
+
+Major Neurocognitive Disorder (Dementia)
+
+«+ see Neurology, N22
+
+DSM-5 DIAGNOSTIC CRITERIA FOR MAJOR NEUROCOGNITIVE DISORDER
++ Reprinted with permission from the Diagnostic and Statistical Manual of Mental Disorders, 5th ed. 2013.
+American Psychiatric Association
+A. evidence of significant cognitive decline from a previous level of performance in one or more cognitive
+domains (complex attention, executive function, learning and memory, language, perceptual-motor, or
+social cognition) based on
+1. concern of the individual, a knowledgeable informant, or the clinician that there has been a
+significant decline in cognitive function; and
+2. asubstantial impairment in cognitive performance, preferably documented by standardized
+neuropsychological testing or, in its absence, another quantified clinical assessment
+B. the cognitive deficits interfere with independence in everyday activities (i.e. at a minimum, requiring
+assistance with complex IADLs such as paying bills or managing medications)
+C. the cognitive deficits do not occur exclusively in the context ofa delirium
+D. the cognitive deficits are not better explained by another mental disorder (e.g. major depressive disorder,
+schizophrenia)
+
+Toronto Notes 2025
+
+Factors favouring psychosis over delirium
+
+41. Auditory hallucinations that are
+
+structured and consistent
+
+Personal or family history of psychosis
+
+Gradual onset (unless substance
+
+induced)
+
+4. History of a prodrome (insidious
+functional decline)
+
+en
+
+Factors favouring delirium over psychosis
+Visual or tactile hallucinations
+
+Acute onset
+
+‘No previous history of psychosis
+Sleepiwake changes
+
+More global cognitive impairment
+Recent medical lness/medication
+changes
+
+omeene
+
+Nojor interventions for Peventing Delirium in
+Hospitalized Non1CU Patient
+
+Cochrane DB Syst Rev 20160005563
+
+Purpose: Toassessetectiveness interventions
+topreventdeliiuminhosptatzed patientsinthe
+roniCUsetting
+
+Methods Thsstudyincuded RTs on both
+pharmacological and non-phamaclagicl
+interventions for detirumin hosptalied patients inthe
+roniCUetting
+
+Aeslts:39tilsivlving 6082 patients assessing
+‘TLaerentinteentons were indued. Song
+eridence wasidentified to suppor the use of
+‘multi-component interventions fr the prevention of
+delirium, Malticomponent interventions indude any
+intervention that uses on-phamacologialappoaches
+totarget mute iskfacorsfo deiom, seo
+
+‘the Bispe tral index to monitor ane sthe sia reduced
+incidence of postoperative delirium. Evidence to date
+doesnot suppor the us of chonestease inhibitors,
+antipsychotics, or melatonin to reduce incidence of
+delirium,
+

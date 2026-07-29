@@ -1,0 +1,108 @@
+H56 Hematology
+
+Acute Blood Transfusion Reactions
+IMMUNE
+
+Acute Hemolytic Transfusion Reactions
++ ABO incompatibility resulting in intravascular hemolysis secondary to complement activation, occurs
+immediately after transfusion
+most commonly due to incorrect patient identification
+risk per unit of blood is <1/40000
+presentation: fever, chills, hypotension, back or flank pain, dyspnea, hemoglobinuria
+acute renal failure (<24 h) and DIC
+treatment
+«= stop transfusion
+notify blood bank and check for clerical error
+send new specimen to blood bank for repeat testing and draw hemolysis labs: CBC, bilirubin, LDH,
+reticulocytes, DAT
+maintain BP with vigorous IV fluids + inotropes
+maintain urine output with diuretics, crystalloids, dopamine
+
+Febrile Nonhemolytic Transfusion Reactions
++ due to alloantibodies to WBC, platelets, or other donor plasma antigens, and release of cytokines from
+blood product cells
+occurs within 6 h of transfusion
+risk per unit of blood is 1/100 (minor), 1/10000 to 40000 (severe)
+resents with fever + rigors, facial flushing, headache, myalgia
+
+pain, N/V
++ treatment
+= rule out hemolytic reaction or infection
+
+= if temperature <39°C and no serious symptoms, continue with transfusion but decrease rate and give
+
+antipyretics
+
+= iftemperature 239°C or presence of serious symptoms, stop transfusion, investigate the reaction, and
+
+start supportive measures
+
+Allergic Nonhemolytic Transfusion Reactions
+
+alloantibodies (IgE) to proteins in donor plasma result in mast cell activation and release of histamine
+occurs mainly in those with history of multiple transfusions or multiparous women
+
+risk per unit of blood is 1/100
+
+presents mainly as urticaria and occasionally with fever
+
+can occur in some IgA deficient patients with anti-IgA
+treatment
+= mild: slow transfusion rate and give diphenhydramine
+
+= moderate to severe: stop transfusion, give IV diphenhydramine, steroids, epinephrine, IV fluids, and
+
+bronchodilators
+
+Transfusion-Related Acute Lung Injury
++ new-onset acute lung injury that occurs during transfusion or within 6 h of transfusion completion
+= profound hypoxemia (Pa0:/FiO2 <300 mmHg)
+= bilateral pulmonary edema on imaging
+= no clinical evidence of left atrial hypertension or if present, judged not to be the main contributor
+
++ pathogenesis uncertain; perhaps due to binding of donor Abs to WBC of recipient and release of mediators
+
+that increase capillary permeability in the lungs
+typically occurs 2-4 h post-transfusion and resolves in 24-72h
++ risk per unit of blood is 1/10000
+
+«= iscurrently the leading cause of transfusion-related morbidity and mortality
+treatment: supportive therapy (oxygen)
++ inform blood bank; patient and donor testing will be arranged
+
+NONIMMUNE
+
+Transfusion-Associated Circulatory Overload
+
++ due to impaired cardiac function and/or excessively rapid transfusion
+
++ presentation: dyspnea, orthopnea, hypertension, tachycardia, crackles at base of lungs, and increased
+venous pressure
+
+incidence: 1/100
+
+risk factors: age >70 yr, heart failure, history of MI, renal failure, positive fluid balance
+
+treatment: stop transfusion, give diuretics and oxygen. Transfuse at lower rate + diuretics to prevent
+
+Took for serious symptoms of shaking, chils/rigors, hypotension, tachycardia, anxiety, dyspnea, back/chest
+
+can present as anaphylactoid reaction with bronchospasm, laryngeal edema, and hypotension (1/4000)
+
+Toronto Notes 2025
+
+DDx of Post-Transfusion Fever
+Acute hemolytic transfusion reaction
+Febrile non-hemolytic transfusion reaction
+(FNHTR)
+
+Bacterial contamination
+
+Allergy
+
+Dx of Post- Transfusion Dyspnea
+Transfusion associated circulatory overload
+
+Transfusion-related acute lung injury
+(TRALI)
+Allergy (oronchospasmv/anaphylaxis)

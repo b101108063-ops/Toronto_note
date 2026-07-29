@@ -1,0 +1,91 @@
+U46 Urology Toronto Notes 2025
+
++ perioperative
+= lymphocele formation (if concurrent pelvic lymphadenectomy performed)
+= blood loss
+= urine leak from anastomosis
++ late
+= moderate to severe stress urinary incontinence (3-10%)
+= mild stress urinary incontinence (20-30%)
+= ED (~30-50%, depending on whether one, both, or neither of the neurovascular bundles are resected)
+
+Transurethral Resection of the Prostate
+
+Objective
++ to partially resect the periurethral portion of the prostate (transition zone) to decrease symptoms of
+urinary tract obstruction
+accomplished via a transurethral (cystoscopic) approach using an electrocautery loop, irrigation (glycine),
+and illumination
++ nota cancer operation
+= standard TURP done with electrocautery (originally monopolar, bipolar also available); newer surgical
+options for BPH include green-light laser photovaporization, laser enucleation, and minimally-invasive
+surgical therapies (M ISD such as water-vapour therapy (Rezum”, Uro-Lift”, iTind”, etc.)
+
+Indications
+
+obstructive uropathy (large bladder diverticula, renal insufficiency)
+two or more episodes of urinary retention
+
+recurrent Utk
+
+recurrent gross hematuria
+
+bladder stones
+
+intolerance/failure of medical therapy
+
+benign prostate hyperplasia
+
+Complications
+* acute
+= incontinence
+resection of the ureteral orifice (with subsequent reflux or ureteral stricture)
+hemorrhage
+epididymitis
+sepsis
+transurethral resection syndrome (also called “post-TURP syndrome”)
+caused by absorption of a large volume of the hypotonic irrigation solution used (glycine), usually
+through perforated venous sinusoids, leading to a hypervolemic hyponatremic state
+characterized by dilutional hyponatremia, confusion, nausea, vomiting, HTN, bradycardia, visual
+disturbances, CHF, and pulmonary edema
+treat with diuresis and (if severe) hypertonic saline administration
+does not occur with bipolar TURP as irrigation is saline
+= intra- or extraperitoneal rupture of the bladder (rare)
+= rectal perforation (rare)
++ chronic
+= retrograde ejaculation (>75%)
+ED (5-10% risk increases with increasing use of cautery)
+incontinence (<1%)
+urethral stricture
+bladder neck contracture
+
+.
+
+.
+
+oe
+
+Extracorporeal Shock Wave Lithotripsy
+
+Objective
++ totreat renal and ureteral calculi (proximal, middle, or distal) which cannot pass through the urinary tract
+naturall
+. usually performed under sedation only; no internal instrumentation required; least invasive treatment
+option but also least successful
++ shockwaves focused onto stone using fluoroscopy > fragmentation, allowing stone fragments to pass
+spontaneously and less painfully
+
+Indications
++ potential first-line therapy for renal calculi <1.5 cm and ureteral calculi
++ individuals with calculi in solitary kidney (consider stenting kidney to prevent obstruction)
++ patient preference and wait-times play a large role in stone management
+= per formed under fluoroscopic-guidance, so stone needs to be radio-opaque (i.e. NOT for uric acid
+stones
+
+Contraindications
++ acute UTI or urosepsis
+
++ bleeding disorder or coagulopathy
++ pregnanc
+
++ uncontrolled HTN

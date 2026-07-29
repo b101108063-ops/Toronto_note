@@ -1,0 +1,167 @@
+RHI8 Rheumatology
+
+Mixed Connective Tissue Disease
+
+Definition
+
++ syndrome with features of 3 different CTDs (e.g. SLE, scleroderma, myositis)
++ common symptoms: Raynaud’s phenomenon, swollen fingers
+
+Investigations
+
++ blood work: anti-RNP (see Table 12, RH8)
+
+Treatment
+
+«+ treatment is generally guided by the severity of symptoms and organ system involvement
+
+Prognosis
+
++ prognosis is variable: some individuals go into remission, others develop a distinct connective tissue
+disease (e.g. SLE, SSc), and others develop a severe disease course
+= pulmonary arterial HTN is a major cause of death
+
+Overlap Syndrome
+
+Definition
+
++ syndrome with sufficient diagnostic features of 2+ different CTDs
+
++ inflammation and subsequent necrosis of blood vessels leading to tissue ischemia or infarction of any organ
+
+system
++ diagnosis
+
+= dinical suspicion: suspect in cases of unexplained multiple organ ischemia or systemic illness with
+no evidence of malignancy or infection; constitutional symptoms such as fever, weight loss, anorexia,
+
+fatigue
+
+« labs non-specific: anemia, increased WBC and CRP, abnormal U/A
+= investigations: biopsy if tissue accessible; angiography if tissue inaccessible
++ treatment generally involves corticosteroids and/or immunosuppressive agents
+
+Table 21. Classification of Vasculitis and Characteristic Features
+
+Classification Characteristic Features
+‘SMALLVESSEL
+Non-ANCA-associated Immune complex-mediated (mostcommon mechanism)
+
+Ant-GBM (Goodpasture’s disease)
+
+Anti-Ctq vasculitis hypocomplementemic urticarial vasculitis
+syndrome)
+
+Predominantly cutaneous vasculitis
+
+Ighvascultis formerly Henoch-Schénlein purpura (HSP})
+(see Pediatrics, P98)
+
+Cryoglobulinemic vasculitis (CV)
+
+ANCA-associated (i.e. PR3-ANCA)
+Granulomatosis with polyangitis (GPA, formerly Wegener's)
+R3 (-ANCA)> MPO (p-ANCA)
+
+EGPA, formerly Churg-Strauss syndrome (50% ANCA positive)
+
+‘Autoantibodies targeting type Vcollagen in both glomerular basement membraneand alveot
+«causing glomerulonephritis and/or pulnonary findings
+
+Spectc autoimmune disorder wth atleast 6 moot uticaria with1q complement deficiency with
+various systemic findings
+
+‘Also known ashypersensitvityleukocytocastc vascultis
+
+Vascular deposition of IgAcausing systemic vasculitis (skin, Gl renal), usualy set-limiting; most
+‘common in childhood
+
+Systemic vasculitis caused by circulating c yoproteins forming immune completes; 60-80%
+‘ofcases are due to hepatitis C, 510% are dueto aCTD SLE,RA, SS) 5-10% are due toa
+Iymphoproliferative disorder, andthe remaining 510% are idiopathic or “essential.” CV maybe
+associated with undedying infection (e.g. hepatitis Q or CTD
+
+Granulomatous inflammation of vessels of respiratory tract and kidneys eading to pulmonary
+hemorrhageand lomerulonephrts; initially may have upper respiratory tractinfection (URTI)
+symptoms (sinusitis); mostcommonin middle age
+
+Granulomatous inflammation of vessels with hypereosinophilia and eosinophiic tissue
+infiltration, requent lng involvement asthma, allergic hints), associated with MPD-ANCA in
+40-50% of cases. Other manifestations include peripheral neuropathy (70%), Glinvolvement,
+iyocardtis, and rarely coronary arteritis; average age 40s
+
+Microangiopathic polyangiitis (MPA) Pauci-immune necrotizing vasculitis, affects kidneys (necrotizing glomeruloneplvitis) lungs
+(7O%ANCA positive, usually MPO) (capillartis and alveolar hemorrhage), andskin; most comonin older age
+
+MEDIUM VESSEL
+
+PAN Segmental, non-granulomatous necrotizing inflammation
+
+Kawasaki disease (see Pediatrics, P99)
+
+Unknown etiology in most cases, any age (average 40-50s), MDF
+Arteritis and mucocutaneous Iymphnode syndrome
+
+LARGE VESSEL
+GCAMTemporal arteritis
+
+Takayasu's arteritis
+
+Inflammation predominantly of the aorta and itsbranches
+
+‘Ages >50, PL
+
+Temporal HA, jaw claudication, scalp tenderness, vision loss
+
+“Puiseless disease,” unequal peripheral pulses chronic inflammation, mostoften the aorta and
+itsbranches
+
+Most commonin young adults of Asian descent, ages 10-40, PM, risk of aortic aneurysm
+
+Toronto Notes 2025
+
+Features of Small Vessel Vasculitis
+Palpable purpura
+
+Vesicles
+
+Chronic urticaria
+
+‘Superficial ulcers (erosions)
+
+ANCA (e.g, PR3-ANCA): cytoplasmic
+anti-neutrophil cytoplasmic Ab associated
+with anti-PR3
+
+ANCA (e.g. MPO-ANCA): perinuclear
+antineutrophil ctoplasmic Ab associated
+with muitiple antigens, eg. MPO,
+lactoferrin (IBD), cathepsin, elastase, etc
+Of these, only antibodies to MPO have
+been associated with the development of
+vasculitis:
+
+EGPA Triad
+
+Allergic rhinitis and asthma (often quiescent
+at ime of vasculitis)
+
+Eosinophilic infiltrative disease resembling
+pneumonia
+
+‘Systemic vasculitis often mononeuritis
+‘multiplex/peripheral neuropathy and
+peripheral eosinophilia
+
+Features of Medium Vessel Vasculitis
+livedo reticularis
+
+Erythema nodosum
+
+Raynaud's phenomenon,
+
+Nodulles
+
+Digital infarcts
+
+Ulcers

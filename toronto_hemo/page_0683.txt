@@ -1,0 +1,84 @@
+H29 Hematology
+
+Pathophysiology
++ primary or secondary ITP
++ an acquired immune-mediated disorder
+= increased platelet destruction which may be primary or induced by medications, viral infections,
+autoimmune diseases, or pregnancy
++ anti-platelet Abs bind to platelet surface > increased splenic clearance
++ helper T-cell and cytotoxic T-cell activation
++ impaired platelet production
+= myelosuppression mediated by cytotoxic chemotherapy
+= drug induced megakaryocyte suppression
+
+Clinical Features
+
++ variable presentation: asymptomatic, fatigue, minimal bruising, mucocutaneous bleeding (e.g. purpura,
+ecchymoses, petechiae, continuous epistaxis, menorrhagia) most common but bleeding can occur
+anywhere including intracranial hemorrhage
+
++ assess for symptoms/signs suggesting a secondary cause
+
+Investigations
++ CBC: platelet count <100x 10°/L
++ PTand PTT: normal
++ peripheral blood film: decreased platelets + large platelets (rule out platelet clumping)
++ HIV, HCV
++ depending on clinical suspicion: H. pylori testing (urea breath test, stool antigen, or endoscopy), vitamin
+Biz, ANA, C3, C4, APLA, quantitative immunoglobulins (to rule out underlying immunodeficiency)
+depending on clinical symptoms
+blood group, RhD typing, direct antiglobulin test
+BM aspirate and biopsy: increased number of megakaryocytes
+= BM aspirate and biopsy should be considered pre-splenectomy to confirm diagnosis or if there is
+suspicion of diminished BM function (systemic symptoms, refractory ITP, and/or abnormal blood film)
+
+Treatment
++ rarely indicated if platelets >30 x 10°/L unless active bleeding, trauma, or surgery
+* emergency treatment (active bleeding (CNS, GI, or GU) or in need of emergency surgery):
+
+= general measures: stop antiplatelet medications, control blood pressure, minimize trauma
+corticosteroids: prednisone (0.5-2 mg/kg/d) or dexamethasone (40 mg PO once daily x 4 d)
+if corticosteroids contraindicated: IVIg 1 g/kg x 1 dose, to be repeated if necessary (raises platelet count
+faster than corticosteroids)
+IVIg can be used with corticosteroids when a more rapid increase in platelet count is required
+antifibrinolytic: tranexamic acid (1 g PO TID or 1 g IV q8h) if mucosal bleeding
+platelet transfusion: for refractory, major bleeding, or need for urgent surgery (expect that platelet
+recovery will be diminished)
+management of life threatening bleeding (i.e. intracranial bleeding): IV steroids, IVIg, platelet
+transfusion, may also consider emergency splenectomy - vaccinations prior if possible (S. pneumoniae,
+N. meningitidis, Meningococcus (quad, serotype b), Pneumococcus, and H. influenzae type b)
+= management of intracranial bleeding: IV steroids, IVIg, platelet transfusion
++ non-urgent treatment (platelet count <20-30 x 10°/L and no bleeding):
+
+= Ist-line:
+
++ corticosteroids (dexamethasone 40 mg PO once daily x 4 dx 1-4 cycles (not wk) or prednisone (0.5-2
+mg/kg/d) x 2-3 wk then slow taper over 6 wk)
+
++ IVigl gikg
+
+= 2nd-line:
+
++ splenectomy (need vaccinations prior to splenectomy: S. pneumoniae, N. meningitidis,
+Meningococcus (quad, serotype b), Pneumococcus, and H. influenzae type b) - not preferred if
+within 12 mo from diagnosis
+
++ thrombopoietin (TPO) receptor agonists (romiplostim, eltrombopag) - may not be accessible as
+second line due to funding considerations
+
+rituximab
+
+= 3rd-line:
+
++ immunomodulating therapy (mycophenolate, azathioprine, cyclophosphamide, danazol, and
+vincristine)
+
++ Syk inhibitors (Fostamatinib) - blocks platelet clearance
+
+Definitions of Response to Treatment
+
++ complete response: platelet count >100 x 10°/L
++ partial response: platelet count 30-100 x 107/L
+* no response: platelet count <30x 10°/L
+
+Toronto Notes 2025

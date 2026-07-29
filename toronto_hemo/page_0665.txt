@@ -1,0 +1,92 @@
+HIL Hematology Toronto Notes 2025
+
+Lymphopenia
+
+Definition
++ absolute lymphocyte count <1.0.x 10°7/L
+
+Etiology
+
++ older age
+
++ idiopathic CD4+ lymphopenia
+
++ iatrogenic (radiation, chemotherapy, immunosuppressive agents)
++ HIV/AIDS, HBV, HCV
+
++ malignancy
+
++ malnutrition, alcoholism
+
++ autoimmune disease (e.g. SLE)
+
+Clinical Features
+* opportunistic infections (see Infectious Diseases, ID29)
+
+Investigations
++ CBC and differential, lymphocyte subpopulations, immunoglobulin levels, HIV test
+
+Treatment
+
++ treat underlying cause
+
++ treat opportunistic infections aggressively and consider antimicrobial prophylaxis (see Infectious Diseases,
+1D29)
+
+Eosinophilia
+
+Definition
++ absolute eosinophil count >0.5 x 10°/L
+
+Etiology
++ primary: due to clonal BM disorder
+« ifno primary cticlogy identified, classified as hypereosinophilic syndrome (HES) (e)
+¢ hypereosinophilia (absolute eosinophil count >1.5 x 10°/L in the peripheral blood on 2 exams
+separated by >1 mo), with end-organ damage and no other identifiable cause Basophilia and/or Eosinophilia
+* caninvolve heart, BM, and CNS Can be an indicator of CML or other MPNs,
++ secondary eS =A pack toexcessive
+= most common causes are parasitic (usually helminth) infections and allergic reactions —
+= less common causes:
+collagen vascular diseases (e.g. RA, polyarteritis nodosa, see , RH8)
+respiratory causes (asthma, eosinophilic pneumonia, and eosinophilic granulomatosis with
+polyangiitis (EGPA))
+cholesterol emboli
+hematologic malignancy (myeloid and lymphoid variants), see Chronic Myeloid Leukemia, H42 and
+Hodgkin Lymphoma, H47
+adrenocortical insufficiency, see Endocrinology, E39
+medications (penicillins)
+atopic dermatitis
+
+oe
+
+oe
+
+eee
+
+Investigations
+
++ CBC and differential, peripheral smear assessing eosinophil morphology
+
++ end organ involvement: electrolytes, renal function tests, LFTs, creatine kinase (CK), troponin, ECG,
+ECHO, pulmonary function tests (PFT), CXR, chest and abdominal CT, consider BM biopsy
+
+Treatment
++ treat underlying cause
++ before initiating steroids, ensure strongyloides serology is collected to rule out infection for patients at risk
+
+Agranulocytosis
+
+Definition
++ ANCis <100/L
+
+Etiology
++ associated with medications in 70% of cases: e.g. chemotherapy, clozapine, thionamides (antithyroid
+drugs), sulfasalazine, and ticlopidine
+= immune-mediated destruction of circulating granulocytes by drug-induced Abs or direct toxic effects
+upon marrow granulocytic precursors
+
+Clinical Features
++ abrupt onset of fever, chills, weakness, and oropharyngeal ulcers
+
+Prognosis
++ high fatality without vigorous treatment

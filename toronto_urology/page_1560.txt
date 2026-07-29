@@ -1,0 +1,123 @@
+U30 Urology
+
+Investigations
+
++ diagnosis is established by pathological evaluation of specimen obtained by radical inguinal orchiectomy
++ tumour markers (B-hCG, LDH, AFP)
+
+= B-hCG and AFP are positive in 85% of non-seminomatous tumours
+
+«= elevated marker levels return to normal postoperatively if no metastasis
+
+«= B-hCG positive in 7% of pure seminomas, AFP never elevated with seminoma
++ testicular U/S (hypoechoic area within tunica albuginea = high suspicion of testicular cancer)
++ evidence of testicular microlithiasis is not a risk factor for testicular cancer
++ needle aspiration contraindicated due to risk of tumour seeding
+
+Staging
+
++ clinical: CT chest (lung metastases), markers for staging (B-hCG, AFP, LDH), CT abdomen/pelvis
+
+(retroperitoneal lymphadenopathy)
+
+= stage I: disease limited to testis, epididymis, or spermatic cord
+«= stage II: disease limited to the retroperitoneal nodes
+« stage III: disease metastatic to supradiaphragmatic nodal or visceral sites
+
+Table 21. 2018 TNM Classification of Testicular Carcinoma (AJCC 8th edition)
+
+T
+
+TX: primary tumour cannot beassessed
+TO: no evidence of primary tumour
+
+Tis: intratubular germ cell neoplasia
+
+14: limited to testisand epididymis without
+Iymphovascular invasion
+
+Ta: tumour <3 cm
+Tb tumour >3 cm
+
+12: limited totestis and epididymis withiymphovascular
+
+invasion or invading hilar soft tissue or epididymis,
+‘or penetrating visceral mesothelial layer covering the
+external surface of tunica albuginea withor without
+Iymphovascular invasion
+
+13: invasion ofthe spermaticcord
+« lymphovascular invasion
+
+14: invasion ofthe scrotum «lymphovasculr invasion
+
+TPrefix
+{c):clinicalT. extentof the primary tumour, whichis
+determined by performing a radical orchiectomy, except
+{or cases of Tis and 1 tumours
+
+(p): pathological. subclasificationof pT applies only
+to pure seminoma
+
+NX: regional lymph nodes were not assessed
+NO: no regional ymphnodemetastasis
+
+M4: metastasis with alymphnodemass
+2cmorlessingreatest dimension; or multiple lymph
+nodes, none morethan 2 cm in greatest dimension
+
+N2:metastaiswith a ymph rode mass more than 2
+‘mut not more than 5 cmin greatest dimension
+
+N3:metastass wth alymph node massmorethan5
+«mingreates dimension
+
+NPrefix
+(@):cinicalN
+(p):pathological
+
+NSutfix
+(s0): regional lymph node metastasis identified by
+SUNiopsy only
+
+(f:reglonallymph node metastasis identified by HA
+‘orcore needlebiopsy only
+
+MO: no distant metastases
+
+distant metastases
+citta: non-retroperitoneal nodal or pulmonary
+metastases
+
+tte non- pulmonary visceral metastases
+
+pMt: distant metastases, microscopical confirmed
+pMta:non-retroperitoneal nodal or pumonary
+metastases, microscopically confirmed
+Mtb: non-pulmonary visceral metastases,
+microscopically confirmed
+
+Management
+
++ radical orchiectomy through inguinal incision for all stages - ligate spermatic cord inside inguinal canal
++ consider sperm banking, testicular prosthesis
++ adjuvant therapies (see Figure 20, U31)
+
+Prognosis
+
++ 99% cured with stage I and II disease
++ 70-80% complete remission with advanced disease
+
+Toronto Notes 2025
+
+Testes and scrotum have different
+lymphatic drainage, therefore trans-scrotal
+approach for biopsy or orchiectomy should
+be avoided
+
+Orchiopexy
+Surgical descent (orchiopexy) of
+undescended testis does not eliminate the
+tisk of malignancy, but allows for earlier
+detection by self-examination and reduces
+the risk of infertility

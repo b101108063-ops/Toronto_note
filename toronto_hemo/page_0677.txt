@@ -1,0 +1,128 @@
+#23
+
+Hematology
+
+5. screen for complications
+
+— regular blood work (CBC, reticulocytes, iron indices, BUN, LFTs, and creatinine)
+— urinalysis annually (proteinuria and glomerulopathy)
+
+— transcranial doppler annually until 16 yr (stroke prevention)
+
+— retinal examinations annually from 8 yr (screen for retinopathy)
+
+— echocardiography once in late childhood/early adulthood (screen for pulmonary
+
+hypertension)
+
+6. newer therapies:
+— gene therapy (CRISPR-Cas9 gene editing)
+
+— voxelotor
+— crizanlizumab
+
+Autoimmune Hemolytic Anemia
+
+Table 14. Classification of AIHA
+
+Warm (75-90% of cases) Cold
+Ab Allotype 196 igh
+Agglutination Temperature 37°C 4370
+
+Direct Coombs Test Positive for Ig + complement Postiveforcomplement
+(direct antiglobulin test
+Etiology Primary Primary
+‘Secondary to lymphoproliferative disorder Secondary to infection
+(eg. CLL, Hodgkin ymphoma) (e.g. Mycoplasma pneumoniae, BV, HCV, syphilis)
+‘Secondary to autoimmune disease (e.g, SLE) Secondary olymphoprotferative disorder
+Pregnancy (e.g. macroglobulinemia, CLL)
+Drug induced(eg. penicilin, quinine, methyldopa)
+Blood Film Spherocytes Agglutination
+Management Treat underlying cause Treatunderlying cause
+Folic acid Folic acid
+Corticosteroid (Isine) Warm patientavoid cold
+Folicacid Rituximab regimen tine)
+
+Rituximab (2ndtine to steroids)
+Immunosuppression
+Splenectomy
+
+Plasma exchange (2nd-line for high IgM levels)
+Chemotherapy (bendamustine-tuximab)
+Complement-drected therapies (eg. sutilimab)
+
+Microangiopathic Hemolytic Anemia (MAHA)/Thrombotic
+
+Microangiopathy (TMA)
+
+Definition
++ hemolytic anemia due to intravascular fragmentation of RBCs
+
+Etiology
+
+see Thrombotic Thrombocytopenic Purpura (TTP), H31
+see Hemolytic Uremic Syndrome, H31
+
+see Disseminated Intravascular Coagulation, H34
+eclampsia, HELLP syndrome, AFLP
+
+malignant hypertension
+
+vasculitis
+
+malfunctioning heart valves
+
+metastatic carcinoma
+
+drugs (calcineurin inhibitors, quinine, simvastatin)
+infections (severe CMV or meningococcus)
+catastrophic APS
+
+Investigations
++ blood film: schistocytes
+
++ hemolytic workup (CBC, reticulocyte count, LDH, haptoglobin, indirect bilirubin)
++ Coombs test: negative
+
++ urine; hemosiderinuria, hemoglobinuria
+
+Toronto Notes 2025
+
+a
+
+Stroke With Transtusions Changing to Hydroxyurea
+(switch)
+
+4 2012,19:3925-32
+
+Purpose: To compare standard treatment (ranshusions!
+chelation) to alternative treatment (hydroxyurea!
+lebotony) for cilren with sickle cel anemia (SCA),
+stroke, and iron overload,
+
+Methods: 133 pediatipatients were randomized to (1)
+continuation of monthly erytroctetransusions with
+oraldeferasiox(28.2 6.0 mg/g) or (2) inition
+onhydroryurea (20mggi escalated to maximum
+tolerated dose MID)-26.2» 4 9 mg/kg) wth
+discontinuation of transfusions at MTD, and monthly
+plebotony (5-10 mL/kg/mo} orion overload.
+
+imary Outcome: Secondary stroke recurence rate
+quanttatveliver iron content
+
+Results: Stroke ecurenc rate was significantly lower
+inpatients on transusions/eterasiox as compared
+tothose inated on hydroxyureaphlebotomy (0% ws
+10%, P05) Diferencesinlveriton content between
+the two treatment arms were not statistical diferent
+(166 mgig dry weight vein transusins/eterasiox
+5.15.7 main droxyea/phebotomy,
+
+CCondusion: Tanstsions and chelation renin the
+elered management strategies or peat patents
+with SCA, stroke, and iron overload,
+
+kristina Neuman 2010
+
+Figure 9. Schistocytosis

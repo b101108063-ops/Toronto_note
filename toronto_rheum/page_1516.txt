@@ -1,0 +1,91 @@
+RH22 Rheumatology
+
+Large Vessel Vasculitis
+GIANT CELL ARTERITIS/TEMPORAL ARTERITIS
+
+Table 24. Classification Criteria for GCA*
+
+‘Absolute Requirement
+Ageat onset250
+
+‘Additional Clinical Criteria Score
+Morning titinessinshoulders/neck 2
+Suddenvisual loss 3
+Jawor tongue claudication 2
+New temporal headache 2
+Scalp tenderness 2
+Abnormal examinationof the temporal artery 2
+Laboratory, Imaging, and Biopsy Criteria
+
+Maximum ESR 50 mm/hor maximum CRP =10 mg/liter 3
+Positive temporal artery biopsy or hal sign ontemporal artery ultrasound 5
+Bilateral axillary involvement 2
+FDG-PET activity throughout aorta 2
+
+"Sumthe scores for 10items, i present. Ascor of 26 pints's needed for the classification of GCA. American Colege of fueumatology, 2022
+
+Epidemiology
+* most common vasculitis in North America
+patients >50 yr; peak incidence 70-80 yr
+
+22
+
+north-south gradient (predominance in Northern Europe and US)
+affects extracranial arteries
+
+Clinical Presentation
+
+* new onset temporal H/A + scalp tenderness overlying temporal artery
+
++ sudden, painless loss of vision and/or diplopia due to narrowing of the ophthalmic or posterior ciliary
+arteries (PCA more common); can affect both eyes
+
++ tongue and jaw claudication (pain in muscles of mastication on prolonged chewing)
+
++ PMR (proximal shoulder/pelvic girdle pain and stiffness, constitutional symptoms, elevated ESR) is the
+
+most common extracranial symptom
+
+aortic arch syndrome (involvement of subclavian and brachial branches of aorta resulting in pulseless
+
+disease), aortic aneurysm + rupture are late complications
+
+constitutional symptoms (e.g. fever of unknown origin in patients >65 yr)
+
+Investigations
+
++ diagnosis made by clinical suspicion, increased ESR, or CRP, and either imaging (colour Doppler U/S
+of temporal + axillary arteries (+ halo sign), MRI of temporal vessel, PET scan showing inflammation
+throughout aorta) or a positive temporal artery biopsy
+
+Treatment
+
+blindness and other vascular complications
+consider low-dose ASA if there is critical involvement of the vertebral or carotid arteries
+
+prednisone I mg/kg/d PO in divided doses with taper
+
+treat GCA (new or relapsing)
+
+Prognosis
++ increased risk of thoracic aortic aneurysm and aortic dissection
++ yearly CXR + abdominal U/S as screening
+
+if suspect GCA, immediately start high-dose prednisone 1 mg/kg PO in divided doses for 2-4 wk, and then
+taper prednisone by 10 mg per 1-2 wk as symptoms resolve; highly effective in treatment and prevention of
+
+if presenting with vision loss at diagnosis, methylprednisolone 1000 mg/d IV for 3 d followed by high-dose
+
+tocilizumab, an IL-6 receptor monoclonal Ab, has also been used in combination with glucocorticoids to
+
+Toronto Notes 2025
+
+GCA Gri
+Cumulative score of 26 points yields
+sensitivity of 87%, specificity of 95%
+
+Medical Emergency
+f untreated, GCA can lead to permanent
+blindness in 20-25% of patients
+
+Treat on clinical suspicion

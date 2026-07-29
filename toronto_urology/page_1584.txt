@@ -1,0 +1,112 @@
+vs4 ‘Vascular Surgery
+
+Table 1. Rutherford ALI Classification
+
+Category Description/Prognosis Findings Doppler Signals Treatment
+Sensoryloss Muscle SkinChanges Arterial Venous
+Weakness
+Wiable Notimmediately threatened None None Normal ‘Audible ‘Audible Delay treatment until
+imestigations result
+HaMarginally Salvageableifprompt Minimal toes) None Cook with Inautible —Audible-—_Investigatebefore
+Threatened treated ornone prolonged treatment, but reat soon
+copillary refill,
+IbImmediately Salvageable with immediate Morethantoes, Mild, Coldwithnon- Inaudible Audible. Emergency reperfusion
+Threatened revascularization associatedwith moderate ‘fixed motting
+rest pain
+Mireversible Major tissue loss or Profound, Profound, Fixed ottingor Inaudible Inaudible Amputation likely
+permanent nerve damage anesthetic paralysis gangrene
+
+inevitable igor)
+
+‘Adapted from: Rutherford RB, Baker JD, Ernst etal. Recommended standards for reports dealing with ower extremity ischemia: revised version, JVasc Sug, 1997,2651738.
+
+Treatment
++ immediate unfractionated heparinization with weight-based bolus (70-100 IU/kg) and continuous infusion
+to titrate PTT to 70-90
++ IV fluids, urine output monitoring, analgesia, supplemental O2
++ if impaired neurovascular status: emergent revascularization (Rutherford category IIb)
++ if intact neurovascular status: may have time for workup (including CTA)
++ identify and treat underlying cause
+» embolus: embolectomy
+* thrombus: thrombectomy + bypass graft + endovascular therapy
+= irreversible ischemia (ie. Rutherford category II): primary amputation or palliation
+= arterial aneurysm: bypass/stent graft
++ continue heparin postoperatively; start oral anticoagulant postoperatively when stable x3 mo or longer
+depending on underlying etiology and other comorbidities
+
+Complications
+
++ local: compartment syndrome secondary to reperfusion (see , OR10) with prolonged
+ischemia; requires 4-compartment (anterior/lateral/superficial and deep posterior) fasciotomy in cal!
+
++ heart: risk ‘of arthythmi. MI, cardiac arrest, and death with reperfusion injury
+
++ kidneys/other organs: renal failure and multi-organ failure due to toxic metabolites from ischemic muscle,
+rhabdomyolysis
+
+* up to 10% chance of metachronous embolism
+
+Prognosis
++ 40% 1-yr mortality rate
++ 5-40% morbidity rate (amputation)
+
+Peripheral Arterial Disease
+
+Definition
+
++ chronic ischemia due to inadequate arterial supply to meet cellular metabolic demands during walking
+(claudication) or at rest (CLT)
+
+Etiology and Risk Factors
+
++ predominantly due to atherosclerosis (for pathogenesis, see Cardiology and Cardiac Surgery, C30);
+primarily occurs in the lower extremities
+
++ modifiable risk factors: smoking, DM, hyperlipidemia, HTN, obesity, and sedentary lifestyle
+
++ non-modifiable risk factors: advanced age, and PMHx or FMHx of PAD/CAD/CVD
+
+Clinical Features
++ claudication:
+1. pain with exertion: usually in calves or any exercising muscle group
+2. relieved by short rest: less than 5 min and no postural changes necessary
+3. reproducible: same distance or time to elicit pain, same location of pain, same amount of rest to
+relieve pain
+4, an asymptomatic pulse deficit: mandates medical management
+— the presence of the preceding features differentiates vascular claudication from
+neurogenic claudication or MSK pain
+
++ CLTI:
+1. includes rest pain, night pain, and/or tissue loss (ulceration or gangrene) in a patient with existing
+PAD for at least 2 wk
+2. pain most commonly over the forefoot/toes, waking person from sleep, and often relieved by hanging
+foot off bed
+
+Toronto Notes 2025
+
+Distinction between CLTI and ALI
+
+ALI:A precipitous decrease and/
+
+‘or cessation in blood flow to a limb
+threatening viability. Typically, due to
+arterial embolism or thrombosis, or other
+acute cause. Characterized by rapidly
+worsening leg pain that is present for <2 wk
+{usually hto d); may occur in patients with
+‘oF without history of claudication
+
+CTI: Severe manifestation of PAD where
+blood flow to the extremities is markedly
+
+reduced. Defined as ischemic foot pain at
+test or at night, occurring >2 wk, wounds,
+‘or gangrene in patients who may (or may
+not) have a history of claudication
+
+Acute Aortoiliac Occlusion
+Ifa patient presents with new onset
+bilateral ALI, suspect possible occlusion of
+the aorta or aortoiliac segment. Etiologies
+include thrombosis or rupture of AAA, aortic
+dissection, of large saddle embolism

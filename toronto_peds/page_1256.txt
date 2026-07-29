@@ -1,0 +1,61 @@
+P60 Pediatrics Toronto Notes 2025
+
+Management
++ symptomatic therapy: antipyretics/analgesics (e.g. acetaminophen or ibuprofen)
++ watchful waiting if criteria met
+antibiotic therapy if <6 mo or moderate-severe illness:
+= Istline: high dose amoxicillin 75-90 mg/kg/d dosed BID x5 d (10 d if age <2 yr, perforated TM, or
+recurrent AOM) (if penicillin allergic: cefuroxime-axetil, ceftriaxone)
+= 2nd line: amoxicillin-clavulanic acid, cephalosporins: cefuroxime axetil, ceftriaxone, cefaclor, cefixime
++ used when AOM unresponsive and clinical signs/symptoms persist beyond 48 h of antibiotic treatment, or
+for treatment of otitis-conjunctivitis syndrome
++ signs of a perforated TM should always be treated with antimicrobial therapy (most commonly topical
+combined ciprofloxacin-dexamethasone; Ciprodex) and examined for complications
+* prevention: parent education about risk factors, pneumococcal and influenza vaccines, surgery (e.g.
+tympanostomy tubes)
+= choice of surgical therapy for recurrent AOM depends on whether local factors (Eustachian tube
+dysfunction) are responsible (use ventilation tubes), or regional disease factors (tonsillitis, adenoid
+hypertrophy, sinusitis) are responsible
+
+Complications
+
++ extracranial: hearing loss and speech delay (secondary to persistent middle ear effusion (MEE), TM
+perforation, extension of suppurative process to adjacent structures (mastoiditis, petrositis, labyrinthitis),
+cholesteatoma, facial nerve palsy, middle ear atelectasis, ossicular necrosis, vestibular dysfunction
+
++ intracranial: meningitis, epidural and brain abscess, subdural empyema, lateral and cavernous sinus
+thrombosis, carotid artery thrombosis
+
+Management of Acute Otitis Media
+
+>6mo of age, generaly healthy
+‘Acute onset ofillness
+With or without fever and may or may not manifest other signs of mile
+ar dysfunction e.g. vomiting) or pain, depending on age and verbal skils
+Suspected acute otts media
+|
+
+Perforated tympanic membrane MEE present Without MEE
+with purulent drainage ‘AND OR with MEE but non-buiging or midly
+Bulging tympanic membrane erythematous tympanic membrane
+
+Treat with antimicrobials for 10 d ’
+
+Consider vial etiology such as RSV,
+influenza, etc. or other infection
+
+Mildly it Moderately or severly il srw ere ana
+Alert, responsive norigors, responding _Initabledficultysleping, poor response worsening, to very presence of effsion
+to antipyretics, mid otalgia, able to sleep toantipyrtis, severe otalgia end sighs of ida ear hflemmation
+<39°C inabsence of antipyretics (0R239°Cin absence of antipyretics such as bulging tympanic membrane
+<48 hot illness (OR >48 hof symptoms
+‘After discussing with caregivers, observe ‘Treat with antimicrobials for 10 d
+for 24-48 hand ensure fllow-up if6 mo2 of age
+medical care (recommend analgesia) andor dif22 yr
+
+Hf not clinically improved or if worsening,
+‘reat with antimicrobials (10 d
+if 6 mo-2 yr of age and Sd if22 yt)
+
+Figure 13. Management of acute otitis media
+Flow diagram forthe management of cildren with suspected and confirmed acute otis media from CS statement Feb 2016

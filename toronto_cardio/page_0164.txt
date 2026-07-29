@@ -1,0 +1,186 @@
+C74
+
+Cardiology and Cardiac Surgery Toronto Notes 2025
+
+andmark Cardiac Trials
+
+Trial Name
+
+Reference
+
+(Clinical Trial Details
+
+‘ASCVD/ISCHEMIC HEART DISEASE (Primary Prevention)
+
+HOPE ACE’)
+
+DAPT(Antiplatelet)
+
+ARRIVE
+(ASA)
+
+European Coronary
+Surgery Study
+(CABG vs medical
+therapy)
+
+ASCOT-LLA
+(Statin)
+
+JUPITER
+
+NEJM 2000;342:145-153,
+
+NEJM 2014;371:2155-66
+
+Lancet 2018;392:1036-46
+
+NEJM 1988;319:332.37
+
+Lancet 2003;361:1149-58
+
+NEJM 2008;359:2195-207
+
+Title: Effects ofAn Angiatensin-Converting-Enzyme inhibitor, Ramipril, on Cardiovascular Events inHigh-RiskPatients
+Purpose: Toinvestigate the impact oframipril, an angiotensin-convertng-enzyme inhibitor, on high-riskpatients without ft ventricular dysfunction or heatfailure and
+theirsusceptibily to cardiovascular events.
+
+Methods: Ina five-year study, 9,297 high-riskpatients without HF were randomly assigned to receive ramipror placebo. The primary outcome measured MI, stroke, or
+‘cardiovascular death. Vitamin Eeffects were analyzed separately.
+
+Results: In the rial, 651 out of4,646 patients (4.0%) receiving ramipril reached the primary endpoint, compared to826 outof 4,630 patients(17.8%) on placebo. Ramipril
+‘treatment resulted in reductions in cardiovascular death 6.1%. 81%), Ml (9.9% vs. 12.3%), stroke (3.4% vs. 4.9%), overal mortality (10.4% vs. 12.2%), revasculaization
+procedures (16.3%vs. 18.8%), cardiac arrest(0.8%vs. 1.3%), heartfaiure(3.1%ys. 1.6%), and diabetes-related complications (6.4%vs. 6%).
+Conclusions: Ramipil effectively lowersmortality, Ml, and strokerates in high-tiskpatients without preexisting low ejection faction oH.
+
+Title: Twelve or 30 Months of Dual Antiplatelet Therapy after Drug-Elting Stents
+Purpose: Study the effects of dual antiplatelet therapy beyond 1 yr, to prevent thrombotic complications after drug-elutingstents.
+
+Methods: ter 12 mo treatment with clopidogrel or prasugel, patients were randomized to continue this therapy or receive a placebo. The primar endpoints were stent
+‘thrombosis and major adverse CVevents from 12-30 mo.
+
+Results: Continued treatment reduced the ates of stentthrombosis (0.4%. 14%; 95% C10.17 to 0.48; 0,001) and major CV and cerebrovascular events (4.3% vs. 5.9%;
+‘95% C10.59 00.85; P0,001).Therate of moderate severe bleeding was increasedin the continued treatment group (2.5% vs. 1.65%; P=0.009.
+
+Conclusions: Dual antiplatelet therapy beyond 1yr confers addtional benefit
+
+Title: Use of Aspirin to Reduce Risk of Initial Vascular Event in Patients at Moderate Rsk of Cardiovascular Disease (ARRIVE): A Randomised, Double-blind, Pacebo-
+controlled Trial
+
+Purpose: Assess eficacy and saety of ASAversusplacebo inpatients with moderate rskot a fist CV event.
+
+Methods: Patientswth moderate CV riskwere randomizedto receive ECASAor placebo tablets, once daily. The primary endpoint was a compositeof timeto CV death, MI,
+W, stroke, or TA.
+
+Results: The primary endpoint occured in4.29% of ASA-treated patients versus 4 48% of placebo-treated patients (hazard ratio 0,96; 95% Cl 0.81 to 113;
+‘vera incidence of adverse eventswas siilar between groups (82.01% in ASA group versus81.72%in placebo group.
+
+‘Conclusions: Among patients at moderate risk of CHD, the use of ASA was not beneficial. ASA was nt associated witha reduction in adverse CVevents
+
+Title: Twelve Year Follow-up of Survival inthe Randomized European Coronary Surgery Study
+Purpose: Evaluate survival rates in men with good LVEF ater CABG or medical therapy.
+
+Methods:767 men wer randomized to early CABG or medical therapy
+
+Result: At the projected 5 folow-up perio, there was signfcanty higher survivalratein the surgical group than inthe medica treatment group (924%6¥s. 83.1%,
+0.0001)
+
+Conclusions: CABG resulted in higher survival than medica therapy at 5-y follow-up but no 12. follow-up,
+
+Title: Prevention of Coronary and Stoke Eventswith Atorvastatin in Hypertensive Patient who have Average of Lowerthan-Average Cholesterol Concentrations, inthe
+Anglo Scandinavian Cardiac Outcomes Tia Lipid LoweringArm (ASCOT: A Multicentre Randomised Contoled Trial
+
+Purpose: Assess benefitsof cholesterol lowering inprimay prevention ofCHDin ly pertensive patients
+
+Methods: Hypertensive patients aged 40-79 were randomized to atorvastatin 10mgor placebo. The primary endpoint was non-fatal Mand fatal CHD after Sr followup,
+Results:100 primary events ocurred inthe atorvastatin group compared to 154 eventsin the placebo group ata median fllow-up of 3.3 (hazardratio0. 64 95% C10.50,
+4 0.83; P-0,0006). Fatal and non-fatal stroke, total CV events and total coronary evens were also loweredin the atorvastatin group.
+
+Conclusions: Inhypertensive patients withrisk actors for CHD and average cholesterol levels. Atorvastatin reduced nonfatal MI ftal CHO, fatal/non fatal stroke,
+‘coronary events but not all<ause mastalty.
+
+Title: Rosuvastatin tPrevent Vascular Events in Men and Women with Elevated Reactive Protein
+Purpose: Evaluate the effects ofstatin treatment onV events inpatients with elevated CRP without hyperlipidemia
+
+Methods: 17802 apparently healthy patients with LOL levels <130 mg/dl and CRP levels >2.0 mg were randomized to roswvastatin 20 mg daily or placebo. The primary
+‘endpoint was a composite of Ml, stroke, revascularization, hopitalizationfor UA, o CV death
+
+Results: The rates ofthe primary endpoint were 0.77 and 1.36 per 100 person-yearsin the statin and placebo groups respectively (hazardratio0.56; 95% Cl0.46 to 0.69;
+P 0.0000"). Theroswastatin group did not havea significant increase inmyopathy or cancer, but a higher rate of diabetes.
+
+Conclusions: With low o normal LL andelevated high CRP, treatment with rosuvastatnsigniicanly reduced major CV events
+
+6). The
+
+ASCVD/ISCHEMIC HEART DISEASE (Secondary Prevention)
+
+EUROPA
+(ace)
+
+‘COMPASS
+(Anticoagulant:
+Asa)
+
+CURE
+(Anticoagulantand
+ASW)
+
+OnSIs-5
+(Anticoagulantand
+UMW)
+
+Lancet 2003;362:782-88
+
+NEJM 2017;377:1319-1330
+
+NEJM 2001;345:494-502
+
+NEJM 2006;354:1464.76
+
+Title: Efficacy of Perindopril in Reduction of Cardiovascular Events Among Patients with Stable Coronary Artery Disease: Randomised, Double-blind, Placebo-controlled,
+Muicentre Trial (The EUROPA Study)
+
+Purpose: Assess whether ACE reduced CV risk in alow-risk population with stable coronary disease.
+
+Methods: After a run-in of 4, in whichall patients received perindopril, 12218 patients were randomized to perindopril 8 mg OD or matching placebo. The primary
+‘endpoint was CV death, MI, or cardiac arrest
+
+Results: 8% of perindopril patients experienced a primary endpoint, compared with 10% of placebo patients. These benefits were consstentin all subgroupsand secondary
+endpoints.
+
+Conclusions: With stable CAD and no CHF, perindopril reduced CV death, MI, and total mortality.
+
+Title: Rvaroxaban with or without Aspirin in Stable Cardiovascular Disease
+
+Purpose: Assess the efficacy of rivaroxaban inco edt ASA alone for secondary cardiovascular prevention.
+
+Methods: 27,394 patients withstable atherosclerosis were randomly assigned to receive rivaroxaban with ASA or ASA alone in a double-blind tral, Primary outcomes were
+(CV death, strokeor M.
+
+Results: Primary outcomes occurred 4.1%in rivaroxaban and ASA-treated group compared to5 4% with ASA alone (hazard ratio 0.76; 95% Cl, 0.66 to 0.86; p<O.007). More
+major bleeding occured inthe rvaroxabanand ASA-treated group compared to ASAalone 3.1%vs 1.9% hazard ratio, 170; 95%CI, 140to 2.05; P<0.00%),
+
+‘Conclusions: Rivaroxaban with ASA hadbetter cardiovascular outcomes than ASA alone but resulted in more major bleeding
+
+Title: Effects of Clopidogrel in Addition to Aspirin in Patients with Acute Coronary Syndromes without STSegment Elevation
+Purpose: Evaluate efficacy and safety of clopidogrel with ASAin patients with ACS without T-elevation,
+
+Methods: 12562 patients who presented within 24h of symptom onset were randomized to dopidogrelor placeboin addition to ASA for 3-12 mo. The primary endpointwas
+‘acomposite of CV mortality, non-fatal Mor stroke.
+
+Results: The primary endpoint occured in9.3% of clopidogrel patents and 11.4% of patients inthe placebo group (RR 0.80; 95% C0.72 to 0.90;P<0.001), There were
+significantly more patients with bleeding inthe clopidogrel group than the placebo group (3.7% vs. 2.7%; R 1.38; P-0.001).
+
+Conclusions: Clopidogrel plus ASA reduced death rom CV causes, non-fatal Ml or stroke but increased bleeding complication.
+
+Title: Comparison of Fondaparinux and Enoxaparn in cute Coronary Syndromes,
+Purpose: Assess whether fondaparinux would reduce bleeding isk while retaining the ant-ischemic benefitsofenoxaparin,
+
+Methods: 20078 patients were randomized toreceive ether fondaparinax 25 mg daily, or enoxaparin Tmg/kg twice daily The primary outcomes were death, Ml,
+refractory ischemia at 9d, or bleeding.
+
+Results: The primary outcome ates were similar between the two groups (hazard ratio 1.0; 95% C10.90 to 113). The rateof 9-dmajr bleedingwas lower inthe
+fondaparinux group than the enoxaparin group (2.2%. 41%; hazard rato 0.52;P0.001)
+
+Conclusions: Comparedto enoxaparin, fondaparinux reduced mortality rates, major bleeds at9¢, and Ml at 30.and 1804.
+

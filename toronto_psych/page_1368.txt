@@ -1,0 +1,174 @@
+Psi4 Psychiatry
+
+Postpartum Mood Disorders
+
+Postpartum “Blues”
++ transient period of mild depression, mood instability, anxiety, decreased concentration; considered
+to be normal in response to fluctuating hormonal levels, the stress of childbirth, and the increased
+responsibilities of motherhood
+* occurs in 50-80% of mothers; begins 2-4 d postpartum, usually lasts 48 h, can last up to 10d
+does not require psychotropic medication
+usually mild or absent: feelings of inadequacy, anhedonia, thoughts of harming baby, suicidal thoughts
+
+MAJOR DEPRESSIVE DISORDER WITH PERIPARTUM ONSET
+(POSTPARTUM DEPRESSION)
+
+Clinical Features
+
+this specifier can apply to a MDE with onset during pregnancy or within 4 wk following delivery
+typically lasts 2-6 mo; residual symptoms can last up to 1 yr
+
+may present with psychosis (rare, 0.2% — more frequent with prior postpartum mood episodes and
+postpartum mania)
+
+severe symptoms may include complete disinterest in baby, suicidal and infanticidal ideation
+
+Epidemiology
++ occurs in up to 3-6% of mothers, up to 50% risk of recurrence
+
+Risk Factors
+
++ previous history of a mood disorder (postpartum or otherwise), family history of mood disorder
+
++ psychosocial factors: stressful life events, unemployment, marital conflict, lack of social support, unwanted
+pregnancy, colicky or sick infant
+
+Treatment
+
++ psychotherapy (CBT or IPT)
+
++ short-term safety of maternal SSRIs for breastfeeding infants established; long-term effects unknown
++ if depression severe or psychotic symptoms present, consider ECT
+
+Prognosis
++ impact on child development: increased risk of cognitive delay, insecure attachment, behavioural disorders
++ treatment of mother improves outcome for child at 8 mo through increased mother-child interaction
+
+Bipolar Disorders
+BIPOLAR I/BIPOLAR II DISORDER
+
+Definition
++ Bipolar Disorder
+«= disorder in which at least one manic episode has occurred
+= ifmanic symptoms lead to hospitalization, or if there are psychotic symptoms, the diagnosis is bipolar I
+= commonly accompanied by at least 1 MDE but not required for diagnosis
+= time spent in mood episodes: 53% asymptomatic, 32% depressed, 9% cycling/mixed, 6% hypo/manic
++ Bipolar II Disorder
+= disorder in which there is at least 1 MDE, 1 hypomanic episode, and no manic episodes
+= while hypomania is less severe than mania, bipolar II is not a “milder” form of bipolar I
+= time spent in mood episodes: 46% asymptomatic, 50% depressed, 1% cycling/mixed, 2% hypo/manic
+= bipolar Il is often missed due to the severity and chronicity of depressive episodes and low rates of
+spontaneous reporting and recognition of hypomanic episodes
+
+Classification
+
++ classification of BD involves describing the disorder (I or II) and the current or most recent mood episode
+as either manic, hypomanic, or depressed
+
+specifiers: with anxious distress, hypo/manic/depressed with mixed features, rapid cycling, melancholic
+features, atypical features, mood-congruent or -incongruent psychotic features, catatonia, peripartum
+onset, seasonal pattern, rapid cycling (24 mood episodes in 1 yr)
+
+Epidemiology
+
+«lifetime prevalence: 1% BD I, 1.1% BD II, 2.4% Subthreshold BD; M:
+
++ mean age of onset: 25 yr, usually MDE first, manic episode 6-10 yr after; average age of first manic episode:
+32yr
+
++ 90% of those who have a single manic episode will have another
+
+Toronto Notes 2025
+
+a
+
+Selective Serotonin Reuptake nhibitorsor
+Serotonin. Norepinephrine Reuptake Inibitos in
+Pregnancy: Infant and Childhood Outcomes
+Paediatr Chil Health 2021;2665):321
+
+Canadian Pediatric Society poston statement
+
+“While there are risks to taking medications during
+‘pregnancy, untreated orincompetely managed
+depression and ansiety also carry risk forthe
+newbom, Poorne natal adaptation syndrome (MAS)
+‘ccursin one-third of neborns exposed to SSRs or
+SWRisin teo,andis general mid and setting
+Te ow levels of SSRs and SHRI excreted in breast
+nilkare compatible with breastfeeding, Persistent
+pulmonary hypertension ofthe newborn and congenital
+heart defects are rare associations of exposure to
+SSRs or SMRsin utero, There are inconsistencies inthe
+literature regarding neurodevelopmentaloutomes
+(special, ASDand ADHD). The inconsistencies
+kel relate to other factors. genetics, maternal
+depression, fst, comorbidities), rather than
+exposure to SSRs orSHRIsin utero, Healthcare
+providers and parents should be reassured that PHAS
+'sgeneraly treatable wit non phamacoogial
+measures and that th risko eros adverse effects
+fromexposure to SRI or SNRIsin tris.
+
+MaternalUseofpecfichntidepessant Medications
+During arly Pregnancy andthe Risk of Selected
+BithDetects
+
+SAMA Psychiatry 20207712} 126.1255
+
+Purpose: To determin wich antideprssantsused
+typreqnant women areassocatd with specticbith
+defects.
+
+Methods: Case-onto study of 3,630 mothesof
+infants with bith defect and 11,478 control mothe.
+Results Elevated adused odds ratios (0s) were
+served for SRls and congenital heart defects (CHD)
+(0082.56, 95% C11.10t0 5.83 and SSRIs and non CHD
+defects 5.11, 95% C1129 020.24). The SSR-CHD
+association was atenated after partly accounting
+foxmatenal nderjing conditions, Venlfarne had
+associations, with mui defects that
+persisted afterparty accounting for undying
+Conditions (aOR 914 95% 1.9110 43.83)
+Conclusion: Thee are some associations between
+sateral antidepressant se and specticbirth defects,
+Underlying conditions shouldbe considered when
+assessing risk Venlafaxine was associated with the
+highest numberof defects
+
+Antidepressant Usein Pregnancy andthe Riskof
+Cardiac Defects
+
+(NEM 2014 Jun 18;370(25}2387-2407
+
+Purpose: tisuncertain whether selective seotonin-
+reuptake inhibitors (SSRIs) and other antidepressants
+during pregnancy are associated with increased isk
+of congental cardiac defects There are concerns
+about an association between paroxetine use and right
+ventricular outflow tract obstruction, and between
+sertraline wse and ventricular septal defect,
+
+Methods: Cohort study incudng 49504 women
+enrolled in Medicaid for a7 yt period, The rskot major
+cardiac defectsamonginfantsborn to women who took
+antidepressants during the 1st trimester was compared
+with the risk among infants bom to women who did not
+se antidepressants, An una gsted analysis was used,
+possble confounders were considered.
+
+Results: Overall the chance of infants not exposed to
+antidepressants born witha cardia defect was72.3
+fants, and infants with exposure was 90.1
+The relative risks of any cardiac
+defect with theuse of SSRIs were 1.06 (95% CI, 0.930
+4122)inthefuily adjusted analysis restricted to women
+with depression. No significant association was found
+between the use of paranetine and right ventricular
+cutflow tract obstruction (RR, 1.07} between theuse
+of sertraline and ventricular septal defects (R, 1.04)
+Conclusions: No substantial increase in isk of cardiac
+maformations attributable to antdepressantuse
+daring the tt trimester.
+

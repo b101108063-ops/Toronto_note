@@ -1,0 +1,85 @@
+P43 Pediatrics Toronto Notes 2025
+
+Differential Diagnosis
++ Gl obstruction: pyloric stenosis, malrotation with volvulus, intussusception, Hirschsprung disease
++ other GI disorders: achalasia, gastroparesis, gastroenteritis, peptic ulcer, IBD
+
++ neurologic: hydrocephalus, subdural hematoma, intracranial hemorrhage or mass
+
++ metabolic/endocrine: galactosemia, hereditary fructose intolerance, urea cycle defects
+
++ toxic: lead poisoning
+
++ cardiac: heart failure, vascular ring, autonomic dysfunction
+
++ infectious: sepsis/ meningitis, UTI, upper and lower airway infections, otitis media, hepatitis
+
++ renal: obstructive uropathy, renal insufficiency
+
++ others: child neglect, self-induced vomiting
+
+Investigations
++ thriving baby requires no investigation
++ GERD generally can be a clinical diagnosis, diagnostic investigations rarely done but may include:
+= upper GI series — assesses anatomy and motility disorder
+= esophageal pH — assesses frequency and duration of acid exposure, not a definitive diagnostic test and
+not done often
+= upper endoscopy and esophageal biopsy - rule out other conditions that mimic GERD symptoms (e.g.
+eosinophilic esophagitis), assesses GERD-related esophageal injury
++ warning signs of associated disorders requiring further investigations: bilious vomiting, GI tract bleeding,
+forceful vomiting, fever, lethargy, hepatosplenomegaly, bulging fontanelle, micro/macrocephaly, seizures,
+abdominal tenderness/distension, suspected genetic, metabolic syndrome, or chronic disease
+
+Management
+* conservative
+= infant: thickened feeds, frequent and smaller feeds, elevation of head, changing formula to hydrolyzed
+protein or amino acid based formula, starting solid foods if age appropriate
++ breastfeeding infants - sequential elimination diet by mother including milk, beef, soy, and egg
+. plder children/ adolescent: same as adult management (PPIs, lifestyle changes, etc.)
++ medica
+= PPI, H2-blocker: decreases gastric acidity, decreases esophageal irritation
++ recommended when fallre of conservative measures, moderate - severe disease or biopsy-proven
+esophagitis
+= D2 antagonist (domperidone, metoclopramide): generally not recommended for GERD, reserved for
+concurrent gastroparesis
++ acid-suppressants or motility agents not recommended for infants with uncomplicated reflux
+interventional (indicated for failure of medical therapy or when GERD is not an isolated diagnosis - e.g.
+multisystem comorbidity):
+«= Nissen fundoplication
+= insertion of gastrojejunal tube for post-pyloric feeds
++ several of these recommendations should be used cautiously in preterm infants given higher risk of NEC
+
+Complications
++ esophagitis, oral feeding aversion, poor weight gain, aspiration, strictures, Barrett's esophagus
+
+Tracheoesophageal Fistula
+
+see General and Thoracic Surgery, GS75
+Pyloric Stenosis
+
+see General and Thoracic Surgery, GS73
+Duodenal Atresia
+
+«see General and Thoracic Surgery, GS74
+Malrotation of the Intestine
+
+see General and Thoracic Surgery, GS73
+Diarrhea
+
++ definition of diarrhea varies with diet and age (stool normalcy difficult to define in children) ©
++ infants > increase in stool frequency to twice as often per d ; older children > 3+ loose or watery stools/d
+
+r; Diarthea is defined in in
++ duration: acute: <2 wk; chronic: >2 wk cqueney et
+
+frequency and/or decteased consistency
+
+of stools compared to normal
+Pathophysiology
+
+* osmotic: due to non-absorbable solutes in GI tract (e.g. lactose intolerance) hernal pry Saul
+
++ secretory: increased secretion of Cl-ions and water in intestinal lumen (e.g. bacterial toxin) Children: 200 gd
+
++ malabsorption: less time for absorption due to increased motility or fewer villi to absorb (e.g. short bowel
+syndrome)

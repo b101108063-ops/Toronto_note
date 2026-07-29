@@ -1,0 +1,159 @@
+HO Hematology
+
+Etiology
+Table 6. Etiology of Neutropenia
+
+Decreased Production
+
+Peripheral Destruction/Sequestration
+
+Excessive Margination (Transient Neutropenia)
+
+Infection
+Viral hepatitis, EBV, HIV, TB, typhoid, malaria
+Hematological Diseases
+
+Idiopathic, aplastic anemia, MF,
+
+BM infitration, cyclic, PNH, MDS, large granular
+lymphocyte leukemia, hairy cell leukemia, immune
+mediated
+
+Drug-Induced
+
+‘Akylatingagents, antimetabolites, anticonvulsants,
+antipsychotic, ant-inflammatory agents, antithyroid
+drugs
+
+ToxinsiChemicals
+
+High dose radiation, benzene, dichloro diphenyl
+trichioroethane (ODT)
+
+Nutritional Deficiency
+
+Bu, folate
+
+Idiopathic
+
+Constitutional neutropenia, benign cyclicneutropenia
+
+‘Anti-neutrophil bs
+Spleen or lung trapping
+
+‘Autoimmune disorders: RA elty syndrome), SLE
+Granuiomatosis with polyangits (formerly Wegener's)
+Drugs: haptens (e.g.c-methyidopa)
+
+Idiopathic (most common)
+Overwhelming bacterial infection
+
+Hemodialysis
+
+Cardopuimonary bypass
+
+Racial variation e.g. African or Ashkenazi Jewish
+descent)
+
+Clinical Features
+
++ fever, chills (only if infection present)
++ infection by endogenous bacteria (e.g. S. aureus, Gram negatives from GI and GU tract)
++ painful ulceration on skin, anus, mouth, and throat following colonization by opportunistic organisms
+
++ avoid digital rectal exam
+
+Investigations
+
++ dependent on degree of neutropenia, history, and symptoms
+
++ ranges from observation with frequent CBCs and differential with peripheral smears to BM aspiration and
+
+biopsy
+
+Treatment
+
+treatment of febrile neutropenia
+
+Lymphocytosis
+
+Definition
+
++ absolute lymphocyte count >4.0 x 107/L
+
+Etiology
+
++ infection (reactive lymphocytosis)
+
+= viral infections (majority); particularly mononucleosis
+= TB, pertussis, brucellosis, toxoplasmosis
+
++ smoking
+
++ physiologic response to stress (e.g. trauma, status epilepticus)
++ hypersensitivity (e.g. drugs, serum sickness)
+
++ autoimmune (e.g. RA)
+
+manage specific underlying causes and medications that contribute to neutropenia
+regular dental care: chronic gingivitis and recurrent stomatitis are major sources of morbidity
+
+in severe immune-mediated neutropenia, G-CSF may increase neutrophil counts
+= ifno response to G-CSF, consider immunosuppression (e.g. steroids, cyclosporine, and methotrexate)
+
++ neoplasm (e.g. CLL, thymoma, B-cell lymphocytosis of undetermined significance)
+
++ asplenia (e.g, post-splenectomy)
+
+Investigations
+
++ CBC and differential, peripheral smear assessing lymphocyte morphology, and in select cases (lymphocytes
+
+>5.0x 107/L), flow cytometry for assessing lineage and clonality
+
+Treatment
++ treat underlying cause
+
+Toronto Notes 2025
+
+e
+
+Prophylactic HematopoieticColony Stimulating
+Factorson Mortality and Infection
+
+Aan intern Med 2007,47:400-411
+
+Purpose: To review the effects of clonystimulating
+factor (CSF} on mortality, infections, and febrile
+neutropenia in patients undergoing chemotherapy
+ase,
+
+Study Selection: 48 RCT comparing theefects of
+(Ss to either placebo or no therapy were inched.
+Prophylactic CSFs were given concurentl with orafter
+initiation of chemotherapy.
+
+Results: There were nodtferencesin all-cause
+‘mortality rinfection-telated death between CSF and
+placebo groups Compared to placebo or no therapy,
+(Ss reduced infection rate (median rat 38.9%
+431%; rateratio 0.85), microbiological documented
+infections (MR23.5% ys, 28.6%; ate ratio0.86),
+
+and febrile neutropenia (MR25.35vs. 44.2%; ate
+ratioO 7),
+
+Conclusions: Prophylactic CSFs decrease infection
+rats and episodes of febrile neutropenia inpatients
+nde going chemotherapy or SCT, buthaven effec
+‘on mortality.
+
+G-CSF = Neupogen’® = filgrastim
+
+Presence of atypical lymphocytes suggests
+viral infection
+
+Presence of smudge cells suggests a
+ymphoproliferative disorder if persistently
+elevated above 5.0 x 10°/L for >3 mo;
+consider flow cytometry of peripheral blood

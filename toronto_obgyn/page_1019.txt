@@ -1,0 +1,124 @@
+B33 Obstetrics
+
+Management
++ before initiating treatment, obtain a baseline CBC including platelets and aPTT
++ treatment with LMWH preferred
+= dosing varies depending on specific LMWH used
+«= should be discontinued at least 24 h prior to delivery
++ unfractionated heparin
+80 IU/kg bolus (max 5000 IU) followed by 18 IU/kg/h infusion
+= measure aPTT 6h after the bolus
+maintain aPTT at a therapeutic level (1.5-2x normal)
+repeat q24h once therapeutic
+«= heparin-induced thrombocytopenia (HIT) uncommon (3%), but serious complication
++ warfarin is contraindicated during pregnancy due to its potential teratogenic effects
++ VTE prophylaxis
+= women on long-term anticoagulation: full therapeutic anticoagulation throughout pregnancy and for
+6-12 wk postpartum.
+women with a non-active PMHx of VTE: unfractionated heparin regimens suggested
+postpartum thromboprophylaxis should be considered if absolute risk is over 1.0%, defined as:
+
+any two of the following: BMI 230 at first antepartum visit, smoking >10 cigarettes/d, preeclampsia,
+
+IUGR, placenta previa, emergency CD, peripartum/postpartum blood loss >1 L, any low-risk
+thrombophilia, maternal cardiac disease/SLE/SCD/IBD/varicose veins/GDM, preterm delivery,
+stillborn
+any three or more of the following: age >35, parity >2, use of ART, multiple gestation, placental
+abruption, PROM, elective CD, maternal cancer
+current prophylaxis regimens for acquired thrombophilias (e.g. APS) include low dose ASA in
+conjunction with prophylactic heparin
+
+Normal Labour and Delivery
+
+Definition of Labour
++ true labour: regular, painful contractions of increasing intensity associated with progressive dilatation and
+effacement of cervix and descent of presenting part, or progression of station
+= preterm (20-36+6 wk GA)
+= term (37-41+6 wk GA)
+= postterm (242 wk GA)
+false labour (Braxton-Hicks contractions): irregular contractions with unchanged intensity and long
+interval, occur throughout pregnancy and not associated with any cervical dilatation, effacement, or
+lescent
+= often relieved by rest or hydration
+
+The Cervix
+
+see Bishop Score (see Table 20, OB38)
+= dilatation: latent phase (0-4 cm, variable time); active phase (4-10 cm)
+= effacement: thinning of the cervix by percentage or length of cervix (cm)
+= consistency: firm, medium, or soft
+= position: posterior, mid, or anterior
+other consideration
+= application: contact between the cervix and presenting part (i.e. well or poorly applied)
+
+The Fetus
+
+fetal lie: orientation of the long axis of the fetus with respect to the long axis of the uterus (longitudinal,
+transverse, or oblique)
+fetal presentation: fetal body part closest to the birth canal
+= breech (complete, frank, footling and incomplete) (see Figure 5, OB25)
+= cephalic (vertex/occiput, face, or brow)
+= transverse (shoulder/back)
+= compound (fetal extremity prolapses along with presenting part)
+= all except vertex are considered malpresentation (see Obstetrical Complications, OB16)
+fetal position: position of presenting part of the fetus relative to the maternal pelvis
+= OA: most common presentation (“normal”) - left OA most common
+= OP: most rotate spontaneously to OA; may cause prolonged second stage of labour
+«= OT: if persistent, leads to arrest of dilatation
++ normally, fetal head enters maternal pelvis and engages in OT position
++ subsequently rotates to OA position (or OP ina small percentage of cases)
+attitude: flexion/extension of fetal head relative to shoulders
+= vertex presentation (occipital fontanelle): head fully flexed
+«= brow presentation: head partially extended (requires CD)
+= face presentation: head fully extended
+* mentum posterior always requires CD, mentum anterior can deliver vaginally
+
+Toronto Notes 2025
+
+Maternal Triage Assessment
+
+ID: Age, GPA, EDD, GA, GBS, Rh, Serology
+
+Chief Complaint (CC)
+
+HPL 4 key questions:
+‘Activity: As much as usual, time since
+last movement, kick counts (lie still for
+42h, cold juice, feel FM should have 6
+movements in 2h)
+Bleeding: Since when, how much (pads),
+colour (pink vs. brownish vs. bright red),
+pain, last U/S, trauma/intercourse
+Contractions: Since when, how close (qx
+min), how long (x s), how painful
+Discharge of fluid: Since when, large gush
+\s. trickle, soaked pants, clear vs. green
+vs. red, continuous
+
+Pregl: Any complications (HTN, GDM,
+
+infections), IPS/FTS, last U/S (BPP score,
+
+growth, EFW, presentation), last vaginal
+
+exam
+
+POBHx: Every previous pregnancy and
+
+‘outcome: year, SVD/CD/miscarriage/
+
+abortion, infant birthweight, length
+
+oflabour, use of vacuum or forceps,
+
+‘complications
+
+PMHx, Meds, Allergies, SHx
+
+O/E: Maternal vitals, fetal heart tracing
+
+(baseline, variability, presence of
+
+accelerations/decelerations), Leopold's
+
+manoeuver, vaginal exam, U/S

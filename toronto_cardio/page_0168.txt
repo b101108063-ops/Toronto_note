@@ -1,0 +1,112 @@
+C78
+
+Cardiology and Cardiac Surgery Toronto Notes 2025
+
+Trial Name
+
+Reference
+
+(Clinical Trial Details
+
+TRANSCATHETER AORTIC VALVE REPLACEMENT
+
+PARTNER I NEJM 2016;374:1609-20 ‘Title: Transcatheter or Surgical Aortic Valve Replacementin Intermediate Risk Patients
+Purpose: Evaluate survival rates between TAVR and surgical aortic valvereplacement, in intermediate risk patients.
+Methods: 2032 intermediate risk patients were randomized to TAVR or surgical replacement. The primary endpoint wasall-cause mortality or disabling stroke at 2 yr
+Results: The rates of primary outcomes were similar between TAVR and surgical replacement groups (P=0.001). At 2 yr, the Kaplan-Meier event rates were 19.3% inthe TAVR
+‘goup and 21.1% in the surgical group (hazard rato 0.89; 95% I 0.73 01.09; P=O.25). Surgery resulted in fewermajor vascular complications and less paravalvular aortic
+regurgitation.
+Conclusions: Inintermediate-risk ptientswith AS, TAVR and SAVR resulted insimiarratesof all-cause mortality and disabling stroke.
+
+PARTNER I NEJM 2019;380:1695-705 Title: Transcatheter AorticValve Replacement witha Ballon-Expandable Valve inLow-RiskPatients
+Purpose: Compare major outcomes inlow-tskpatients between TAVR and sugical aortic-valereplacement.
+Methods: 1000 patients with severe aortic stenosisand low surgical sk were randomized toTAVR or surgicalaorticvalve replacement. Theprimary endpoint was a
+‘composite of death, stroke, or rehosptalzaton at yr.
+Results: The Kaplan-Meier eventrates were significantly lower in the TAVR group than the surgery group (@.S%vs. 15.1%; 95% CI 10.8 to-2.5; P.00T). At 304d, TAVR
+resulted in lower stroke rates and new-onset arial fibrilaton. There wereno significant differences in major vascular complications, new pacemaker insertion, or
+paravalvularreguigitation
+Conclusions: Among low-surgical risk patients with severe AS, therateofthe composite of death stroke, or rehospialization was significantly lowerwith TAVR compared
+to surgical aortic valve replacement
+
+HEART FAILURE
+
+COMPT NEJM 2018;379:230718 Title: Transcatheter Mitral-Valve Repair in Patients with Heart Failure
+Purpose: Assess improvement inoutcomes inpatients with MR dueto WV dysfunction, fromtranscatheter mitral valverepait
+Methods: Patientswith HF and secondary mitral regurgitation were randomized totranscatheter mitral-valve repair plus medical therapy, orto medical therapy alone, The
+primary endpoint was hospitalization or HF at 24 ma.
+Results: The primary endpoint was 35.8% intheintervention group, compared to 67.9%in the control group (hazard ati 0.53; 95% C040 to 0.70; P<0,00"). Death from
+‘any cause occurred at 29.1% in the intervention group compared with 46.1% in the control group (hazard ratio 0.62; 95% C10.46 to 0.82;P<0,00').
+Conclusions: Among patients with HF and secondary MR who remained symptomatic despite medica therapy, transcatheter mitral-valverepair resulted in alower rate of
+hospitalization for HF and lower mortality than medical therapy alone
+
+CHARM Lancet 2003;362:759-66 Tile: Effects of Candesartan on Mortality and Morbidity in Patients with Chronic Heart Failure: The Charm-Overall Programme
+Purpose: Determine whether ACEI use could reduce mortality and morbidity in patients with CHF.
+Methods: Patientswith LVEF <40'% nt receiving ACEls were randomized to candesartan or placebo. Theprimary outcome was all-cause mortality, CV death, or hospital
+‘admissionfor CHF
+Results: Mortality was 23% in the candesartan group and 25% inthe placebo group (hazard ratio 0.91; 95% C10.83 to 1.00; P=0.055), withfewer CV deaths (18% vs, .20%;
+0.002)
+‘Conclusions: Candesartan reduced overall mortality, CV death, and CHF hospitalizations.
+
+IBIS Lancet 1999;353:9-43 Title: The Cardiac Insufficiency Bisoprlo Study Il (C11S-I): ARendomised Trial
+Purpose: Investigate the eficacy of bisoprollindecreasing al-cause mortality in CHF.
+Methods: 2647 patient with LVEF 35% receiving standard therapy were randomized tobisoprolol or placebo. The primary outcome wasall-cause mortality
+Results: All-cause mortality was significantly lower with bisoprolol than placebo (11% vs. 17.3%, hazard ratio0.66; 95% Cl 0.54to 0.81;P<0.000'), Treatment effects
+were independent of etiology or severity of HF
+Conclusions: 8 :oprolol reduced allause mortality, CV death allcause hospitalization, and CHF hosptalzation
+
+COMET Lancet 2003;362:713 Title: Comparison of Carvedilol and Metoprolol on Clinical Outcomes in Patients with Chronic Heart Failure inthe Carvedilol or Metoprolol European Trial (Comet
+Randomised Controlled Trial
+Purpose: Compare outcomes of chronic HFTEF patients on carvedilol or metoprolol.
+Methods: 1511 patients with CHF were randomized to carvedio! 25 mgtwice daily, and 1518 randomized tometoprolol SO mg twice daily The primary endpoints were
+all-cause mortality, and the composite of all-cause mortality or al-cause admission
+Results: The all-cause mortality was34% for carvedibl patients and 40% for metoprolol patients (hazard rato 0.83; 95% C10.74to0.93;P0.0017) Inddence of side
+‘effects and withdrawal didnot difersignficantly between groups.
+Conclusions: Carvedibl was associated with areductionin all-cause mortalty compared with metoprolol
+
+COPERNICUS NEJM 2001;344:1651-58 Title: Effect of Carvedilol onSurvivlin Severe Chronic Heart Failure
+Purpose: Assess the effects of f-blockade on hospitalization and mortality in patients with severe HF.
+Methods: 2289 patients with HF symptomsat rst and an EF <25% were randomized to carvedio orplacebo. Primary endpoints were rates of hospitalization and mortality.
+Results: There was a 35% reduction in mortality sk inpatienstreated with carvedilol than placebo (95% Cl 19% to 48%; P-0. 0018).
+Conclusions: Carvedibl in addition tostandardtreatmentsignficantly reduced the risk of deathor hospitalization in patients with evere CHF.
+
+DAPA-HF NEJM 2019;381:1995-2008 Title: Dapaglilzinn Patients with Heart Failure and Reduced Ejection Fraction
+Purpose: Assess the efficacy ofthe SGLT2 inhibitor dapagifozn in patients with HFEF, independent ofT2DM status
+Methods: 4744 patients with HF and EF <40% were randomized toreceive dapagiflozin 10 mg once day, or placebo, inaddition to recommended therapy. The primary
+‘outcome was worsening HF or CV death.
+Results: The primary outcome occured in 16.3% of dapaglitlozin-reated patents and21.2% of placebo patients (hazard ratio 0.74, 95%C10.65 to 0.85; P<0.00').A
+‘worsening of HF occurred at 10.0% the dapagliflozin group and 13.7%in the placebo group (hazard ratio 0.70; 95% C10.59 00.83). Findings inpatients withDM were
+‘comparable to those inpatients without DM.
+Conclusions: Inpatientswith HFEF, the risk of worsening HF or death from CV causes was lower amongthose who received dapaglflozin than thosewho received placebo.
+
+DELIVER NEJM 2022;387:1089-1098 Title: Dapagllzin in Heart Faure with Mildly Reduced or Preserved Ejection Fraction
+Purpose: Assess the efficacy of SGLT2 inhibitor dapagliffozinin patents with HFpEF or mildy reduced EF, independent of T20M status.
+Methods: 6263 patients with HF and EF>40% were randomized to receive dapaglifozn 10 mg once daily, or placebo, in addition to recommended therapy. The primary
+‘outcome was worsening HF or Vdeath.
+Results: The primary outcome occurred in 16.4% of dapagifiozin-treated patients and 19.5% of placebo-treated patients (hazard ratio, 0.82;95% Cl 0.73 o 0.92; P<.001).
+Worsening of HF occured at 1.8% in the dapaglfizin group and 14.5% inthe placebo group (hazard rato 0.79; 95% C1 0.69 to0.91). Findings inpatients with EF >60% and
+EF <60% were comparable Findings in patients with DM were comparableto those in patients without DM.
+Conclusions: Inpatientswith HF and EF 40%, dapaglficzin reduced the risk of worseningHF or CV death
+
+EMPEROR-Preserved —NEJM2021;385:H5+1461 Title: Empagfloznin Heart Failure with aPreserved Ejection Fraction
+Purpose: Assess the efficacy ofthe SGLT2 inhibitor empagiflozin in patients with HmiEF and HFpEF,imespectve of diabetes tatu.
+Methods: 5988 patients with symptomatic HF and an EF 40% were randomized toreceive empagliflozn 10 mg once daly or placebo, in additionto usualtherapy. The
+primary outcomewas a composite of CV mortality or hospitalization for HF.
+Results: Empaglfiozin was associated witha lower riskof CV mortality or hospitalizationfor HF (13.8% s.{7.T; HR 0.79;95% 10,69 to 0.90; P<0.001) which was mainly
+related to fewer HF hospitalzation events in the empagliflozin group. The effects of empaglfiazin appeared consistent in patients with or without diabetes
+Conclusions: Inpatientswith HF nt EF and HFpEF, empagHflozinwas associated with alowerrsk ofthe CV mortality or hospitalization for HF, and this effect was primarily
+‘ven by fewer HF hospitalizations.
+
+EMPERORReduced NEJM 2020;383:1413-1424 Title: Cardiovascular and Renal Outcomes with Empagilozinin Heart Failure
+
+Purpose: Assess the efficacy ofthe SGLT2 inhibitor empagHflozin in patients with HFEF, irrespective of diabetes status
+
+Methods: 3730 patients with symptomatic HF and an EF <40% were randomized to receiveempagliflozin 10mg once daly, or placebo, in adit
+primary outcomewas a composite of CV mortality or hospitalization for worsening HF.
+
+Results: Empaglfiozin was assodated witha lower riskof CV mortality or hospitalizationfor HF (194% vs. 24.7%; HR O.75; 95% C10.65 to0.86;P<0,001). The effect of
+‘empagifiozin onthe primary outcome was consistent inpatients regardless of diabetes status.
+
+Conclusions: Inpatients with HFEF, empaglfazin was associated witha lower risk of CV mortalty or hospitalization for HF, independent of diabetesstatus,
+
+tousual therapy. The
+

@@ -1,0 +1,87 @@
+P36 Pediatrics Toronto Notes 2025
+
+Clinical Features
+
++ history and physical exam
+
+usually asymptomatic in neonatal period because maternal T4 crosses the placenta
+
+= prolonged jaundice, feeding difficulty, lethargy, constipation, umbilical hernia, macroglossia, large
+fontanelles, puffy face, swollen eyes, hypotonia (signs/symptoms develop over first few mo)
+
+= examine for congenital malformations (especially cardiac) and dysmorphic features
+
+central hypothyroidism associated with hypoglycemia, micropenis, undescended testes, features of
+
+diabetes insipidus
+
+most commonly presents as a positive newborn screen result
+
+Investigations
+all infants should be screened for primary CH
+repeat screening at 2 wk for infants at high-risk: preterm, SGA, infants in NICU, specimen collection
+<24h of life, multiple births
+diagnosis through newborn screening of TSH (most sensitive for primary CH) or free T4; abnormal
+results should be confirmed with serum levels from venipuncture
+
++ t*TSH, +free T4 in primary CH
+
++ #free, free T4 in secondary CH
+primary CH (optional): radioisotope scanning/ultrasound of thyroid for severity, serum thyroglobulin,
+maternal antithyroid antibodies, urinary iodine
+secondary CH: MRI, gene analysis, eye exam for optic nerve hypoplasia (assess pituitary)
+
+Management
++ thyroxine replacement, hormone normalization should be done within 2 wk to avoid cognitive impairment
++ counsel against using soy based formulas
+
+Prognosis
+
++ excellent outcome if treatment started within 1-2 mo of birth
+
++ if treatment started after 3-6 mo of age, may result in permanent developmental delay and/or disability
+(mild to profound), intellectual impairment, poor growth, hearing loss
+
+Disorders of Sexual Development
+AMBIGUOUS GENITALIA
+
+Definition
+
++ newborn or child whose sex is difficult to assign based on the appearance of genitalia
+
++ subtype of DSD: a condition in which development of chromosomal, gonadal, or anatomic sex is atypical
++ subtypes: 46,XX DSD, 46,XY DSD, ovotesticular DSD (true hermaphrodite)
+
+Epidemiology
++ incidence of genital abnormalities at birth is as high as 1 in 300
++ prevalence of complex anomalies with true sexual ambiguity much lower at ~1 in 5000
+
+Etiology
++ 46,XY DSD
+= inborn error of testosterone biosynthesis or Leydig cell hypoplasia
+= 5-a-reductase deficiency, androgen receptor deficiency or insensitivity
+«= LH/hCG unresponsiveness
++ 46,XX DSD.
+= virilizing CAH (most common)
+= maternal source: virilizing ovarian or adrenal tumours, untreated maternal CAH, placental aromatase
+deficiency
++ ovotesticular DSD
+«= both ovarian follicles and seminiferous tubules in the same patient with a 46,XX karyotype
+= mixed gonadal dysgenesis
+
+Risk Factors
+
++ parental consanguinity, positive family history of ambiguous genitalia, early childhood illness/death, or
+primary amenorrhea, maternal medications during pregnancy (e.g. androgens, progesterones, danazol,
+phenytoin, aminoglutethimide, endocrine disruptors)
+
+Assessment
++ history
+«= thorough obstetrical history, including prenatal screens, maternal medications, and maternal
+virilization in pregnancy
+«= family history: autosomal recessive pattern may suggest CAH, X-linked recessive pattern may suggest
+androgen insensitivity syndrome
++ physical exam
+= XY: small phallus, hypospadias, bilateral cryptorchidism (undescended testicles)
+= XX; clitoromegaly, labioscrotal fusion
+= look for concurrent midline defects, dysmorphic features, and congenital abnormalities

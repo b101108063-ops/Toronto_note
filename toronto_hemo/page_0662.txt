@@ -1,0 +1,72 @@
+HS Hematology Toronto Notes 2025
+
++ H. pylori, HIV, and HCV serology
++ abdominal U/S to look for splenomegaly @
+References
+Treatments APS: see Hematology, H36
++ life-threatening bleeding: platelet transfusion (repeat CBC 1 h post-transfusion to confirm an appropriate Aplastic Anemia: see Hematology, H17
+rise in counts) Bu/Folate Deficiency: see Hematology,
+«if secondary: treat underlying cause eee
+« ITP: see Immune Thrombocytopenia, H28 HIT: see Hematology, H30
+
+HIV: see Infectious Diseases, |D27
+IMP: see Hematology, H28
+‘Myelodysplasia: see Hematology, H41
+Preeclampsia: see Obstettics, 0B26
+SLE: see Rheumatology, RH1t
+
+=
+
+“Inhospitalized patients most common causes of thrombocytopenia are drugs andinfection
+
+Figure 3. Approach to thrombocytopenia
+‘Adapted trom: Ceilssentia of Medicine
+
+Thrombocytosis
+
+Definition
+
+platelet count >450 x 10°/L
+
++ primary thrombocytosis (uncommon): due to MPNs (e.g. CML, PV, primary MF, and ET; rarely associated
+‘with MDS)
+
+reactive/secondary thrombocytosis (common): acute phase reactant (e.g. surgery, inflammation, infection,
+trauma, bleeding, iron deficiency, neoplasm, ischemic injury, and hyposplenia/asplenia)
+
+Clinical Features
+
+history: trauma, surgery, splenectomy, infection, inflammation, bleeding, iron deficiency, prior diagnosis of
+chronic hematologic disorder, and constitutional symptoms (malignancy)
+
+vasomotor symptoms: headache, visual disturbances, lightheadedness, atypical chest pain, acral
+dysesthesia, erythromelalgia, livedo reticularis, and aquagenic pruritus
+
+clotting risk, bleeding risk (rare)
+
++ physical exam: splenomegaly is a common finding among patients with MPNs
+
+Investigations
+
++ CBCand differential, peripheral blood film, serum ferritin
+
++ non-specific markers of infection or inflammation (e.g. CRP, ESR, ferritin)
+
+«if reactive process has been ruled out, BM biopsy may be required to rule out MPN/MDS
+
+Treatment
++ primary: Aspirin” + cytoreductive agents (e.g. hydroxyurea, anagrelide, interferon-a)
++ secondary: treat underlying cause
+
+Pancytopenia
+
+Definition
++ a decrease in all hematopoietic cell lines below normal reference ranges
+
+Clinical Features
+
++ anemia: fatigue (see Anemia, H6)
+
++ leukopenia: recurrent infections (see Neutropenia, H9)
+
++ thrombocytopenia: mucocutaneous bleeding (see Thrombocytopenia, H7)

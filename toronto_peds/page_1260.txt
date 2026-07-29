@@ -1,0 +1,73 @@
+P64 Pediatrics Toronto Notes 2025
+
+Pharyngi
+
+Definition
++ inflammation of the pharynx, especially the tonsils if present, causing a sore throat
+
+Etiology
+
++ viral (~80%): adenoviruses, enteroviruses, coxsackie, upper respiratory tract viruses, EBV, CMV, COVID-19
+
++ bacterial (~20%): mainly GAS, M. pneumoniae (older children), N. gonorrhoeae (sexually active), C.
+diphtheriae (unvaccinated), F. necrophorum (anaerobe causing Lemierre syndrome)
+
++ fungal: Candida
+
+Epidemiology
++ season: GAS pharyngitis is more common in late winter or early spring; viral all year long
++ age: GAS pharyngitis peak incidence at 5-12 yr and uncommon <3 yr; viral pharyngitis affects all ages
+
+Presentation
+
++ GAS: sore throat (may be severe), febrile, malaise, headache, abdominal pain, N/V, absence of other URTI
+symptoms, pharyngeal/tonsillar erythema and exudates, enlarged (>1 cm) and tender anterior cervical
+lymph nodes, palatal petechiae, strawberry tongue, scarlatiniform rash
+
+viral: sore throat (often mild), conjunctivitis, cough, rhinorrhea, hoarseness, diarrhea, flu-like symptoms
+(fever, malaise, myalgias), absent/mild tonsillar exudates, minor and non-tender adenopathy, viral
+exanthems
+
+Investigations
++ m-CENTOR scores are used to predict if throat culture will be positive
+= these score systems have not been found to be sensitive or specific enough to diagnose GAS in children
+and adolescents with sore throat
++ suspected diagnosis of GAS pharyngitis should be confirmed with a rapid streptococcal antigen test and a
+follow-up throat culture if the rapid test is negative
+
+Management
++ antibiotics (for GAS/S. pyogenes)
+« penicillin V or amoxicillin or erythromycin (if penicillin allergy) x 10d
+= can prevent rheumatic fever if given within 9 d of symptoms; does NOT alter risk of post-streptococcal
+GN
+* supportive: hydration and acetaminophen for discomfort due to pain and/or fever
+. follow-up: if uncomplicated course, no follow-up or post-antibiotic throat cultures needed
++ prophylaxis: tonsillectomy may be considered for severe, recurrent streptococcal tonsillitis
+
+Complications
+
+«preventable with antibiotics: AOM, sinusitis, cervical adenitis, mastoiditis, retropharyngeal/peritonsillar
+abscess, sepsis
+
++ immune-mediated complications: scarlet fever, acute rheumatic fever, post-streptococcal GN, reactive
+arthritis, pediatric autoimmune neuropsychiatric disorder associated with GAS (PANDAS)
+
+Scarlet Fever
+
+diffuse erythematous eruption
+
+delayed-type hypersensitivity reaction to pyrogenic exotoxin produced by GAS
+
+requires prior exposure to S. pyogenes
+
+acute onset of fever, sore throat, strawberry tongue
+
+24-48 h after pharyngitis, rash begins in the groin, axillae, neck, antecubital fossa; Pastia’s lines may be
+accentuated in flexural areas
+
+within 24h, sandpaper rash becomes generalized with perioral sparing, non-pruritic, non-painful,
+blanchable
+
+rash fades after 3-4 d, may be followed by desquamation
+
+treatment is penicillin, amoxicillin, or erythromycin x 10d

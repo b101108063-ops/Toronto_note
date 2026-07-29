@@ -1,0 +1,113 @@
+PS29 Psychiatry
+
+Alcohol Withdrawal
+
++ medical emergency: occurs within 12-48 h after prolonged heavy drinking and can be life-threatening
+
++ ~50% of middle-class, functional individuals with alcohol use disorder have experienced alcohol
+
+withdrawal; 80% in hospitalized/homeless individuals
+= alcohol withdrawal can be described as having 4 stages, however not all stages may be experienced:
+stage 1 (onset 4-12 h after last drink): “the shakes”, tremor, sweating, agitation, anorexia, cramps,
+
+diarrhea, sleep disturbance, anxiety, insomnia, headache. The majority of alcohol withdrawal
+presentations are mild to moderate (stage 1)
+
+stage 2 (onset 12-24 h): alcoholic hallucinosis: visual, auditory, olfactory, or tactile hallucinations
+
+stage 3 (onset 12-48 h): alcohol withdrawal seizures, usually tonic-clonic, non-focal, and brief (can
+occur as earlyas 2 h after alcohol consumption)
+
++ stage 4 (onset 48-96 h): delirium tremens, confusion/disorientation, delusions, hallucinations,
+agitation, tremors, autonomic hyperactivity (diaphoresis, fever, tachycardia, HTN); this isa medical
+emergency
+
++ course: almost completely reversible in young; elderly often left with cognitive deficits
++ 20% mortality rate of severe presentations (delirium tremens) if untreated
+
+Management of Alcohol Withdrawal
++ monitor using the Clinical Institute Withdrawal Assessment for Alcohol (CIWA-A) scoring system.
+
+= areas of assessment include (SHANT AS TAV):
+
++ physical (5): paroxysmal Sweats, Headache/fullness in head, Agitation, Nausea and vomiting,
+
+Tremor
+psychological/cognitive (2): Anxiety, orientation/clouding of Sensorium
+perceptual (3): Tactile disturbances, Auditory disturbances, Visual disturbances
+all categories are scored from 0-7 (except: orientation/sensorium 0-4), maximum score of 67
+mild <10, moderate 10-20, severe >20
++ check for signs of hepatic failure (e.g, ascites, jaundice, and coagulopathy)
+
+Table 5. CIWA-A Scale Treatment Protocol for Alcohol Withdrawal
+
+Basic protocol Diazepam 20mg POqt-2h PRN unti CIWA-A <10 points
+Observe 1-2 after last dose andre-assess on CIMA-A scale
+Thiamine 100-250 mg M then 100 mg PO once daily for 3 flic acid
+Supportive cae (hydration, nutrition, and electrolyte replacement)
+
+History of withdrawal seizures Diazepam20 mg PO qth for minimum of twee doses regardles of subsequent CIMA scores
+
+Wage 65 o patient has severeliver disease, severeasthma Usea short acting benzodiaepine
+
+orresplratory flare Lorazepam +4 mg PO/SLIM gt2h
+
+hallucinations ae present Halopesidol25 mg IPO qth max$ dosesldc atypical antipsychotics (olanzapine, risperidone
+Diazepam20™mgx3 doses as seaure prophylass (haloperidol lowers sure theshol
+
+Admit to hospitalit Stllin withdrawal ater >80 mgot dazepam
+
+Delirium tremens, recurrentarthythmias, or mutiple seizures
+Medicaly ill or unsafe to discharge home
+
+Wernicke-Korsakoff Syndrome
+alcohol-induced amnestic disorders due to thiamine deficiency (poor nutrition or malabsorption)
+necrotic lesions: mammillary bodies, thalamus, brainstem
+Wernicke’s encephalopathy (acute and reversible): triad of oculomotor dysfunction such as nystagmus
+(CN VI palsy (eye pointing inwards), gait ataxia, and confusion. If untreated, may progress to Korsakoff's
+syndrome
+Rotsakot’s syndrome (chronic and only 20% reversible with treatment): anterograde amnesia and
+compensatory confabulation (fabrication of imaginary experiences to compensate for memory loss); cannot
+occur only during an acute delirium or dementia and must persist beyond usual duration of intoxication/
+withdrawal
+management
+= Wernicke’s preventative treatment (any patient in withdrawal): thiamine 100-250 mg IM/IV x 1 dose
+= Wernicke’s acute treatment: thiamine 500 mg IV BID/TID x 72h, then reassess
+= Korsakoff’s: IV treatment as for Wernicke’s followed by thiamine 100 mg PO TID x 3-12 mo
+
+Treatment of Alcohol Use Disorder
++ non-pharmacological
+= see General Approach to Treatment, PS28
++ pharmacological
+= naltrexone (Revia’): opioid antagonist, shown to be successful in reducing the “high” associated with
+alcohol, moderately effective in reducing cravings, frequency or intensity of alcohol binges; can be
+started if still consuming alcohol or abstinent but can precipitate withdrawal in those with physical
+opioid dependence. Not safe in patients with acute liver failure, or opioid use in the last 10 days
+= acamprosate (Campral*): NMDA glutamate receptor antagonist; useful in maintaining abstinence and
+decreasing cravings. Not safe in patients with renal failure
+
+Toronto Notes 2025
+
+Delirium Tremens
+
+{alcohol withdrawal delirium)
+‘Autonomic hyperactivity (diaphoresis,
+tachycardia, increased respiration)
+Hand tremor
+
+Insomnia
+
+Psychomotor agitation
+
+Anxiety
+
+‘Nausea or vomiting
+
+Tonic-clonic seizures
+Visualfactile/auditory hallucinations
+Persecutory delusions
+
+See Landmark Clinical Trials table for more
+information on the COMBINE trial, which
+‘accesses combined pharmacotherapies
+and behavioural interventions for alcohol

@@ -1,0 +1,150 @@
+PS23 Psychiatry
+
++ psychosocial: grief therapy (individual or group) is indicated for those needing additional support or
+experiencing complex grief/ bereavement or significant MDD
+
++ pharmacotherapy: if MDD present, past history of mood disorders, or severe symptoms
+
+Neurocognitive Disorde:
+
+Delirium
+
+« see Neurology, N21
+
+DSM-5 DIAGNOSTIC CRITERIA FOR DELIRIUM
+Reprinted with pemission rom the Diagnostic and Statistical Manual of Mental Disorders, Sthed. 2013. American Psychiatric Association
+
+A.a disturbance in attention (i.e. reduced ability to direct, focus, sustain, and shift attention) and awareness
+(i.e. reduced orientation to the environment)
+
+B. the disturbance develops over a short period of time (usually hours to a few days), represents a change from
+baseline attention and awareness, and tends to fluctuate in severity during the course of aday
+
+C. an additional disturbance in cognition (e.g. memory deficit, disorientation, language, visuospatial ability,
+or perception)
+
+D. the disturbances in criteria A and C are not better explained by another preexisting, established, or
+evolving neurocognitive disorder and do not occur in the context of a severely reduced level of arousal (e.g.
+coma)
+
+E. there is evidence from the history, physical exam, or laboratory findings that the disturbance is a direct
+physiological consequence of another medical condition, substance intoxication or withdrawal (ie. due toa
+drug of abuse or toa medication), or exposure to a toxin, or is due to multiple etiologies
+
+Clinical Features
++ common symptoms
+= disturbance of attention: distractibility, disorientation (time, place, rarely person)
+sleep/wake disturbance (daytime sedation, nighttime agitation, or wakefulness)
+psychoticlike symptoms such as delusions, misinterpretations, illusions, and hallucinations (visual
+allucinations are organic until proven otherwise)
+affective symptoms (anxiety, fear, depression, irritability, anger, euphoria, apathy)
+shifts in psychomotor activity (groping/picking at clothes, attempts to get out of bed when unsafe,
+sudden movements, sluggishness, lethargy)
++ note: fluctuation/major changes in all of the above over the course of the day are to be expected - so
+collateral history is important
++ hyperactive 30% vs. hypoactive 24% vs. mixed level of activity 46%
+
+Risk Factors
+
++ awide range of medical conditions can precipitate delirium ina susceptible individual and there may be
+multiple underlying etiologies as a result
+
+polypharmacy particularly involving psychoactive drugs, anticholinergics, and serotonergic medications
+
+(e.g. Cogentin’, Benadryl’, benzodiazepines, opioids, and corticosteroids)
+
+infection, dehydration, malnutrition, immobility (including use of restraints), and use of bladder catheters
+
+hospitalization (incidence 10-56%); frail and surgical patients are at the greatest risk
+
+previous delirium
+
+nursing home residents (incidence 60%)
+
+old age (especially males)
+
+severe illness (e.g. cancer, AIDS)
+
+recent anesthesia or surgery (e.g. emergency hip fracture surgery, cardiac surgery)
+
+brain vulnerability: pre-existing neurologic or neurocognitive disorder, substance use disorder, past
+
+psychiatric illness
+
+Assessment
+
++ observation: for disturbances in consciousness, incoherent and/or disorganized speech, inability to
+concentrate upon conversation, disruption of sleep-wake cycle
+
+history: often gathered from collateral sources as patients may be confused and/or uncooperative
+
+clinical instruments: Confusion Assessment Method (CAM) and formal mental status testing, such as the
+Mini-Mental State Examination, used as needed, are helpful for baseline and ongoing assessment of altered
+mental state (i.e. score will improve as symptoms resolve)
+
+physical examination: may be difficult to perform; focus on vital signs, hydration status, potential
+infectious foci, unambiguous neurologic deficits, and suggestive features of general appearance (e.g.
+jaundice)
+
+medication review: drug toxicity accounts for approximately 30% of all delirium cases (including OTC,
+non-prescribed medications)
+
+Toronto Notes 2025
+
+Confusion Assessment Method (CAM) for
+Diagnosis of Delirium
+
+Highly sensitive and specific method to
+diagnose delirium
+Part 1: an assessment instrument that.
+screens for overall cognitive impairment
+Part 2: includes four features found best
+able to distinguish delirium from other
+cognitive impairments
+
+Need (1) + (2)+ (30r 4)
+
+{1) Acute onset and fluctuating course
+
+(2) Inattention
+
+{G) Disorganized thinking
+
+(4) Altered level of consciousness -
+hyperactive or hypoactive
+
+Etiology of Delirium
+
+WATCH DEATH
+
+Infectious (encephalitis, meningitis,
+urinary tract infection, pneumonia)
+Withdrawal alcohol, barbiturates,
+benzodiazepines)
+
+Acute metabolic disorder (electrolyte
+nce, hepatic or renal failure)
+ead injury, postoperative)
+CNS pathology (stroke, hemorthage,
+tumour, seizure disorder, Parkinson's)
+Hypoxia (anemia, cardiac failure,
+pulmonary embolus)
+
+Deficiencies (vitamin B12, folicacid,
+thiamine)
+
+Endocrinopathies (thyroid, glucose,
+parathyroid, adrenal)
+
+Acute vascular (shock, vasculitis,
+hypertensive encephalopathy)
+
+Toxins: substance use, sedatives, opioids
+{especially morphine), anesthetics,
+anticholinergics, anticonvulsants,
+dopaminergic agents, steroids, insulin,
+glyburide, antibiotics (especially
+quinolones), NSAIDs
+
+Heavy metals (arsenic, lead, mercury)
+

@@ -1,0 +1,91 @@
+PHO Public Health and Preventive Medicine Toronto Notes 2025
+Disease Prevention Strategies
++ measures aimed at preventing the occurrence, interrupting through early detection and treatment, or
+
+slowing the progression of disease/ mitigating the sequelae Dees Etience Stern! Stperrised
+
+Table 3. Levels of Disease Prevention
+
+Level of Prevention Goal
+
+Examples
+
+Primordial
+
+Preventing the development ofriskfactors
+
+Educationthat begins inchildhood about behaviour that can harm health
+Progamsthat encourage physical activity
+
+Injection Sites
+Can Fam Physician 2017;63(19:866
+Giinical question: Do supervised
+injection sites (SISs) reduce mortality,
+hospitalizations, ambulance calls, or
+disease transmission?
+
+Bottom line: The best evidence from
+
+Primary Protecthealth and preventdisease onset Immunization programs (e.g. measles, diphtheria, pertussis, tetanus, polio, cohort and modelling studies suggests that
+
+Reducing exposure to risk factors see Pediatrics, PS) ‘SISs are associated with lower overdose
+Smoking cessation ‘mortality (88 fewer overdose deaths per
+Seatbelt use 100000 person-years (PYs)), 67% fewer
+See Landmark Preventive Medicine Trials, PH34for more informat ambulance calls for treating overdoses,
+‘VAXICOL, which details the impact of influenza vaccination of nursinghome anda decrease in HIV infections. Effects on
+staff on mortality of residents hospitalizations are unknown,
+
+Secondary Early detection of subclinical) disease to minimize Mammography
+morbidity and mortality Routine Pap smears
+
+FAT (ws FOBT vs. colonoscopy)
+
+Tertiary Treatment and rehabiltation of diseaseto prevent DM monitoringwith HbA, eye exams, fotexams Smoking Cessation VoingComparedwith
+progression, permanent dsabiity,andfuture Medication to manage chronic conditions TadtionalWicotine Replacement Therapies:2
+clsease Systematic Review andMeta analysis
+
+‘Source: Basic Concepts in Prevention, Suvellance, and Health Promotion. AFMC Primer on Popalation Heath ip/paprimeratmc.aPartt TheoryiakingAbo Health BMJ Open 2021 11:e044222
+
+‘ChaplerBasicConceptsinPreventionSureilancelndHealtPromationThestagesatpevention Pooled resis fomsix randomized contoled
+
+talented no dierence in smoking cessation,
+
+Screening (Secondary Prevention) the proportion of participants reducing smoking
+
+consumption, mean eductionin cigarettes smoked per
+day, harms, between e-gaetesand traditional
+niotinerplacement therapy. Mast studies were
+
++ “screening isa strategy used in a population to identify the possible presence of an as-yet-undiagnosed
+disease in individuals without signs or symptoms”
+
+= screening vs. case finding: screening tests are not diagnostic tests Judged tohave a high risk of bias, resuingn the
+= the primary purpose of screening tests is to detect early disease or risk factors for disease in large or het pteeriereetlaarey
+numbers of apparently healthy individuals. The purpose ofa diagnostic test isto establish the presence _Payeinfeaquesmamupeersas to
+
+(or absence) of disease as a basis for treatment decisions in symptomatic or screen positive individuals
+(confirmatory test). Both screening and case finding seek to risk stratify for further investigation
+= to minimize biases and harms, and maximize benefits, screening is best done at the population level,
+not the individual clinical level, as part of a screening program (e.g. provincial breast cancer screening
+program vs. screening by primary care/family physicians)
++ types of screening
+= universal screening: screening all members of a population for a disease (e.g. phenylketonuria (PKU)
+and hypothyroidism in all newborns)
+= selective screening: screening of targeted subgroups of the population at risk for a disease (e.g.
+mammography in women >50 yr)
+= multiphasic screening: the use of many measurements and investigations to look for many disease
+entities (e.g, periodic health exam)
++ types of bias in screening
+= lead-time bias; overestimation of survival time ‘from diagnosis’ when the estimate is made from
+the time of screening, instead of the later time when the disease would have been diagnosed without
+screenins
+. length-time bias: overestimation of the survival time due to screening at one time point including
+more stable cases than aggressive cases of disease, which may have shorter survival times
+
+Occult Overt
+Disease Disease
+Onset of Disease Death from Disease
+Lead Time
+Screen Detected Clinically Detected
+
+Figure 2. Lead-time bias

@@ -1,0 +1,93 @@
+P50 Pediatrics Toronto Notes 2025
+
+Lower Gastrointestinal Bleeding
+
+« see Gastroenterology, G30
+
+Etiology
+
++ acute
+
+infectious (bacterial, parasitic)
+antibiotic-induced (C. difficile)
+NEC in preterm infants
+anatomic
+malrotation/volvulus, intussusception
+Hirschsprung disease
+Meckel’s diverticulitis
+
+anal fissures, hemorrhoids
+vascular/hematologic
+
+HSP
+
+HUS
+
+coagulopathy
+
+‘onic
+
+anal fissures (most common)
+infectious colitis
+
+IBD
+
+FPIAP
+
+allergic (milk protein)
+structural
+
+polyps (most are hamartomas)
+coagulopathy
+
+neoplasms (rare)
+
+ee Se
+
+Physical Exam
+
++ general exam: hemodynamic status, evidence of poor growth, fever
+
++ anal and rectal exam: tags, fissures, anal fistulas, polyps, foreign body, blood per rectum
++ stool appearance
+
++ NG aspirate
+
++ lower GI bleed may present as melena (if it involves the small bowel) or hematochezia
+
+Investigations
+
+stool cultures (C&S, C. difficile toxin)
+
+urinalysis and microscopy
+
+CBC, smear, differential, ESR, CRP, electrolytes, urea, Cr, INR, PTT, albumin, iron studies, amoeba titers
+radiologic investigations
+
+Meckel’s radionuclide scan
+
+Colonoscopy
+
+Management
+
++ acute stabilization: ABCs, volume and blood replacement, bowel rest (NPO, NG tube)
++ treatment dictated by etiology
++ once stable, endoscopy and/or surgery as indicated
+
+Genetics, Dysmorph and Metabolism
+
+« see Medical Genetics
+
+Hematology Po
+
+Approach to Anemia
+
+CLASSIFICATION Normal Hb Values by Age
++ mechanism: decreased production (inadequate reticulocyte response) vs. increased destruction or loss Age Hb Range (g/L)
+(adequate reticulocyte response) Newborn 137-201
++ A “normal” reticulocyte count in the context of anemia would be indicative of an inadequate bone marrow a are
+response GmoSyr 105-40
+72 110-160
+
+Adult female 120-160
+Adult male 140180

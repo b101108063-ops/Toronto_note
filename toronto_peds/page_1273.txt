@@ -1,0 +1,97 @@
+P77 Pediatrics
+
+PHYSIOLOGIC JAUNDICE
+Epidemiology
++ term infants: onset 3-4 d of life, resolution by 10 d of life
+
++ premature infants: higher peak and longer duration
+
+Pathophysiology
++ increased hematocrit and decreased RBC lifespan
+
+Toronto Notes 2025
+
++ immature glucuronyl transferase enzyme system (slow conjugation of bilirubin)
+
++ increased enterohepatic circulation
+
+Breastfeeding Jaundice
+
++ common: due to baby not getting enough milk (e.g. related to latch, a lack of milk production) >
+
+dehydration > exaggerated physiologic jaundice
+
+Breast Milk Jaundice
+
++ Lin 200 breastfed infants
+
++ glucuronyl transferase inhibitor found in breast milk
+
++ onset 7 dof life, peak at 2-3 wk of life, usually resolved by 6 wk
+
+Table 36. Risk Factors for Jaundice
+
+Maternal Factors Perinatal Factors
+
+Neonatal Factors
+
+Ethnic group (.g. Asian, Indigenous) Birth trauma (cephalohematoma, ecchymoses)
+
+Complications during pregnancy (infant of diabetic Prematurty
+
+mother, Rhor ABO incompatibility)
+
+Difficulty establishing breastfeeding
+Infection sepsis, hepatitis)
+
+Breastfeeding Genetic factors
+FMHx/previos cil required phototherapy Polycythemia
+Age of mather>25 yr Drags
+TPH
+Male sex
+Table 37. Causes of Neonatal Jaundice by Age
+24h 27h 7296h Prolonged (-1 wk)
+‘ALWAYS PATHOLOGIC Physiologic, polycythemia Physiologic breastfeeding Breast mik jaundice
+Hemolytic Detyration Sepsis Prolongedphysilogicjaundicein preterm
+(breastfeeding jaundice)
+Rh or ABO incompatibility Hemalysis Hypothyroidism
+Sepsis ‘G6PD deficiency Neonatal hepaitis
+Congeritalinfection TORCH) Pyruvate kinase deficiency Conjugation dysfunction
+Severe brusing/hemorthage Spherocytosis €.g.Cilbertsyndrome
+Bruising hemorrhage Crigler-Najar syndrome
+hematoma Inbornerrorsof metabotsm
+
+Sepsisicongental infection
+
+e.g. galactosemia
+Biliary tract obstruction
+9, biliary atresia
+
+PATHOLOGIC JAUNDICE
+
+«all cases of conjugated hyperbilirubinemia; some cases of unconjugated hyperbilirubinemia are pathologic
+
+Investigations
++ unconjugated hyperbilirubinemia
+
+= hemolytic workup: CBC, reticulocyte count, blood group (mother and infant), peripheral blood smear,
+
+Coombs test (DAT)
+
+= ifbaby is unwell or has fever: septic workup (CBC and differential, blood and urine cultures + LP, CXR)
+
+= other: G6PD screen (especially in males), TSH
+
++ conjugated hyperbilirubinemia must be investigated without delay
+
+= consider liver enzymes (AST, ALT), coagulation studies (PT, PTT), serum albumin, ammonia,
+TSH, TORCH screen, septic workup, galactosemia screen (erythrocyte galactose-1-phosphate
+uridyltransferase levels), metabolic screen, abdominal U/S, HIDA scan, sweat chloride
+
++ predicting occurrence of severe hyperbilirubinemia
+
+= measure either total serum bilirubin (TSB) or transcutaneous bilirubin (TcB) concentration in all
+infants between 24 h and 72 h of life and plot on appropriate hyperbilirubinemia treatment graph. If
+infant does not require immediate treatment, results should be plotted on predictive nomogram to
+determine the risk of progression to severe hyperbilirubinemia and need for repeat measurement (refer
+to: http://www.cps.ca/documents/position/hyperbilirubinemia-newborn)

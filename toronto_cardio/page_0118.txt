@@ -1,0 +1,96 @@
+C28 Cardiology and Cardiac Surgery Toronto Notes 2025
+
+Sudden Cardiac Arrest
+
+Definition
+
+* cessation of cardiac electrical activity with circulatory collapse (loss of pulses) and gasping respirations or
+lack of spontaneous breathing
+
++ patient becomes suddenly unresponsive
+
++ presenting rhythms may be PEA, asystole, VFib (less commonly pulseless VT)
+
+Etiology
+
++ the likelihood of an underlying cardiac cause is proportional to age at time of arrest
+= cardiac causes (especially CAD) are more likely in older adults
+= non-cardiac causes are more likely in children and young adults (<35 yr)
+
+Table 8. Etiology of Cardiac Arrest
+
+Cardiac Causes Non-Cardiac Causes
+‘myocardial Ischemia ‘STEMI Vascular Pulmonary embolism
+STEMI Jott dissection
+Coronary spasm Coronary dissection Jorticruptue
+Anomalous coronary artery Stoke
+Ischemic Cardiomyopathy He Neurologic Sudden unexplained death inepilepsy
+Scar Newrogenic
+Nonschemic Cardiomyopathy Dilated CM Hemorthagic Subaractnoid
+Hypertrophic CM Intracranial
+Inftrative CM myocarditis Gastrointestinal
+Arhythmogenc RV CM.
+Hypertensive CM
+VHD with LV failure
+Valvular Heart Disease as Infection Sepsis
+WR Pneumonia
+Heritableion channel disorders Long QT syndrome Respiratory Respiratory arrest
+Brugada syndrome Tension pneumothorax
+Primary Arrhythmogenic Acquired OT prolongation Other Substance overdose
+Idiopathic Ketoacidosis
+Complete heartblock Trauma
+wew
+Congenital HeartDisease Tetralogy of Fallot
+wo
+Post Surgical scar
+Management
+
++ acute: resuscitate according to ACLS guidelines (see Anesthesia, A32)
+
+= resuscitation can be grouped into those with and without shockable rhythms
+
+= activation of emergency systems and high-quality chest compressions are essential for any bystander
+investigate underlying causes using cardiac catheterization, electrophysiologic studies, echocardiography
+
+= patients with ST-elevation require emergent coronary angiography and revascularization
+
+= patients without ST-elevation can still have clinically relevant coronary lesions and therefore benefit
+
+from coronary angiography on a non-emergent basis
+
+initiate targeted temperature management to optimize neurologic recovery regardless of presenting rhythm
+treat underlying cause
+antiarrhythmic drug therapy: amiodarone, lidocaine, B-blockers
+
+i ‘See Landmark Cardiology and Cardiac
+ICD for secondary prevention ‘Surgery Trials table for more information
+‘on COACT, which details the 1-yr clinical
+H H H ‘outcomes of angiography timing on survival
+Electrophysiologic Studies Fae
+‘without STEM!
+
+invasive test for the investigation and treatment of cardiac rhythm disorders using intracardiac catheters
+provide detailed analysis of the arrhythmia mechanism and precise site of origin when ECG data are
+nondiagnostic or unobtainable
+
+bradyarrhythmias: define the mechanisms of SA node dysfunction and localize site of AV conduction block
+(rarely performed)
+
+tachyarrhythmias: map for possible ablation, assess inducibility of VT prior to ICD implant
+
+Electrical Pacing
+
+the decision to implant a pacemaker is usually based on symptoms of a bradyarrhythmia or
+tachyarrhythmia with intermittent bradycardia precluding rate limiting medications
+
+Pacemaker Indications
+
++ SA node dysfunction (most common): symptomatic bradycardia + hemodynamic instability
+
++ common manifestations include: syncope, presyncope, or severe fatigue
+
++ SAnode dysfunction is commonly caused by: intrinsic disease within the SA node (e.g. idiopathic
+degeneration, fibrosis, ischemia, or surgical trauma), abnormalities in autonomic nervous system function,
+and drug effects
+
+AV nodal-infranodal block: Mobitz II, complete heart block

@@ -1,0 +1,184 @@
+PH26 Public Health and Preventive Medicine
+
+Additional Precautions
++ precautions that are necessary in addition to Routine Practices for certain pathogens or clinical
+presentations. These precautions are based on the method of transmission (e.g. contact, droplet, airborne)
+contact precautions (e.g. gastroenteritis, scabies, conjunctivitis)
+= gloves
+= gown
+= dedicated equipment
+«= clean and disinfected shared care items
+«= single room with dedicated toilet and patient sink
+Droplet (e.g. mumps, whooping cough, meningococcal disease)
+« facial protection (e.g. mask or respirator in conjunction with eye protection)
+«= single room with dedicated toilet and patient sink
+= cohorting of those confirmed to have the same infectious agent may be acceptable
+Contact + droplet (e.g. seasonal influenza, COVID-19, streptococcal pharyngitis)
+Airborne (e.g. TB, measles, varicella)
+= N95 mask (fit-tested)
+= negative pressure room
+
+The International Health Regulations (IHR)
+
++ aninternational agreement involving 196 nations to prevent, protect against, control, and provide a public
+health response to pandemics
+
++ a public health emergency of international concern (PHEIC) is “an extraordinary event which is determined
+to constitute a public health risk to other States through the international spread of disease and to
+potentially require a coordinated international response”
+
++ the IHR Emergency Committee provides the WHO Director-General with temporary recommendations on
+PHEIC events
+
++ examples: smallpox, poliomyelitis caused by wild-type poliovirus, human influenza caused by a new
+subtype, COVID-19, SARS, mpox
+
+Env mental Heal
+
+Definition
++ study of the association between environmental factors (both constructed and natural) and health
++ environmental exposures
+= four common hazards: chemical, biological, physical, and radiation
+= four main reservoirs: air, food, water, and soil
+= three main routes: inhalation, ingestion, or absorption (skin)
++ usually divided into two main settings
+= workplace (including schools): may see high level exposure in healthy individuals (see Occupational
+Medicine, PH30)
+= non-workplace: lower levels of exposure over a longer period of time; affects vulnerable populations
+more severely, such as at extremes of age, and the immunosuppressed; may be teratogenic
++ health impacts of the environment also include factors (e.g. urban planning) and how individuals interact
+with the built environment (e.g. safe pedestrian and bicycle paths can facilitate more active lifestyles)
+
+Table 11. Environmental Health Jurisdiction
+Public Health Unit
+
+Enforcement of water andfood safety regulation (including restaurant food safety)
+Assessment of local environmental risks
+
+Monitoring and follow-up of reportable diseases.
+
+Investigation of environmental contamination, clusters of disease
+
+Municipal Government
+
+Provincial and Territorial Government
+
+Waste disposal, recyling, water and sewage treatment/olection/distribution
+
+Water andair quality standards
+Industrial emission regulation
+Toxic waste disposal
+
+Federal Government Designating and regulating toxic substances.
+Regulating food products (c.9. Health Canada (rugs), Canadian ood Inspection Agency (CFIA)
+
+Setting policy for pollutants thatcan travel across provincial boundaries
+
+International Multilateral agreements (e.g. Kyoto Protocol, United Nations Conventionon Climate Change, International Joint Commission)
+
+Source-Path-Receiver Model
++ to prevent workplace injuries, strategies can be implemented to improve the safety profile of the source,
+modify the path, and/or protect the receiver
+
+Environmental Risk Assessment
+
+and Risk Assessment (HIRA) should have four steps, using the National
+Academies of Sciences Approach (1984)
+1. Hazard Identification
+
+= what is the hazard involved?
+
+= assess potential hazards by taking environmental health history
+
+Toronto Notes 2025
+
+Environmental Health Jurisdiction -
+Taking an Environmental Health History
+CMAJ 2002; 166(8):1049-1055
+
+Asking about exposures using the
+‘mnemonic below may prompt further
+discussion.
+
+(CH20PD2
+
+Community
+
+Home
+
+Hobbies
+
+Occupation
+
+Personal habits
+
+Diet
+
+Drugs
+
+Ifa possible hazard is identified, ask
+detailed questions to learn about the
+nature and level of the hazard. Then, check
+Time, Place and Person:
+
+Time: When did symptoms begin? When did
+the exposure begin? When do symptoms
+get worse? When do they improve?
+Place: Where is the patient when
+symptoms get worse? Where is the lkely
+hazard? What isthe route of exposure
+through which the hazard reaches the
+patient?
+
+Person: Does anyone else have similar
+symptoms? Who? When? Where?
+
+BPA, The Toxin Concer of 2009
+Bisphenol A (BPA) s a chemical compound
+found in some hard, clear, lightweight
+plastics and resins. According to the NIH,
+‘animal studies suggest that ingested BPA.
+‘may imitate estrogen and other hormones,
+In October 2008, Canada became the first
+country in the world to ban the import
+
+and sale of polycarbonate baby bottles
+containing BPA, stating that although
+‘exposure levels are below levels that cause
+negative effects, current safety margins
+need tobe higher. The US FDA does not
+consider normal exposure to BPA to be a
+hazard, however the NIH has some concern
+that fetuses, infants, and children exposed
+to BPA may be at increased risk for eatly-
+onset puberty, prostate, and breast cancer
+
+Cannabis Legalization and Driving Under
+the Influence of Cannabis (DUIC)
+
+Source: Pubic Health Ontario, Evidence riet-rving
+Under the nlvence of Cannabis, 2017
+
+Since the Government of Canada stated
+
+its commitment to legalize cannabis via
+the Cannabis Act (Bill C-45) on April 13,
+207, the Canadian Task Force on Cannabis
+Legalization and Regulation specifically
+noted driving impairment as an important
+consideration. Higher cannabis use,
+camnabis-dependence, lower perceived risk
+from DUIC, and normative beliefs about
+DUIC were identified as risk factors. As
+such, an act to amend the Criminal Code
+Bill C-46 was simultaneously introduced to
+enable the police to request an oral fluid
+sample for foadside drug screening and to
+implement THC per se whole blood limits
+‘2 ng/ml punishable). Public health was
+also advised to devise population-based
+interventions such as 6 hour waiting period
+recommendations before driving, as well
+as preventive strategies through addiction
+services, mass-media campaigns, and
+school-based instructional programs,

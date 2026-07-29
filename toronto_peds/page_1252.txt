@@ -1,0 +1,90 @@
+P56 Pediatrics Toronto Notes 2025
+
++ constitutional symptoms in 30% of children
++ contiguous spread
+
+Diagnosis
++ Definitive diagnosis: histological exam of biopsy specimen (i.e. excisional biopsy of enlarged lymph node
+(preferred), incisional biopsy (acceptable), or multiple core needle biopsies (acceptable))
+
+Investigations
+
++ CBC and differential, peripheral blood smear, extended electrolytes, uric acid, LDH, renal function, liver
+enzymes and function, ESR, and blood culture if concerns for infection. CXR (AP and lateral) and CT of
+neck/chest/abdomen/pelvis. Specialized tests: BM aspirate and biopsy + LN biopsy, LP, PET scan
+
+Management
+
++ combination chemotherapy and radiation
+
++ increasing role for use of PET scanning to assess early disease response and plan therapy
+
+«recurrent or refractory Hodgkin lymphoma: chemotherapy with targeted therapy, checkpoint inhibitor
+therapy, chemotherapy followed by hematopoietic stem cl transplant, and involved-site radiation are options
+
+Prognosis
++ >90% 5 yr survival
+
+NON-HODGKIN LYMPHOMA
+
+Epidemiology
++ incidence peaks at 7-11 yr
+
+Clinical Features
+
++ presents as enlarging, non-tender Iymphadenopath
+
++ includes most commonly mature B cell lymphoma ‘Burkitt, diffuse large B cell), T cell lymphoblastic, and
+mature T cell lymphoma (anaplastic large cell)
+
+rapidly growing tumour with distant metastases (unlike adult non-Hodgkin lymphoma)
+
+signs and symptoms related to disease site: most commonly abdomen (intussusception), chest (mediastinal
+mass), head and neck region
+
+Diagnosis
++ pathologic evaluation of affected tissue (e.g. abdominal mass, extranodal site, or lymph node)
+
+Investigations
++ same investigations as Hodgkin lymphoma
+
+Management
++ combination chemotherapy
++ noadded benefit of radiation in pediatric protocols
+
+Prognosis
++ 75-90% 5 yr survival
+
+Complications
+
++ mediastinal mass: compression of important structures (i.e. tracheal, SVC, ventricular outflow) causes
+significant risk of cardiac or respiratory arrest during procedures where the patient is supine; instead,
+
+perform these procedures with the patient on their side or prone
+
+tumour lysis syndrome: results from rapid breakdown of malignant cells, causing metabolic abnormalities
+
+including hyperuricemia, hyperkalemia, and hyperphosphatemia
+
+Brain Tumours
++ see Neurosurgery, NS12
+
+Wilms’ Tumour (Nephroblastoma)
+
+Epidemiology
++ usually diagnosed between 2-5 yr; M=F
+
++ most common primary renal neoplasm of childhood
+
++ In5-10% of cases, both kidneys are affected (simultaneously or in sequence)
+
+Associated Congenital Abnormalities
++ WAGR syndrome (Wilms’ tumour, Aniridia, Genitourinary anomalies, Range of developmental delays)
+with 11p13 deletion (~50% Wilms’ Tumour risk)
++ Beckwith-Wiedemann syndrome (5-10% Wilms’ Tumour risk):
+= characterized by enlargement of body organs (especially tongue), hemihypertrophy, renal medullary
+gps. adrenal cjtomegaly, omphalocele, ear creases, and macrosomia
+= also at increased risk for developing hepatoblastoma, and less commonly adrenocortical tumours,
+neuroblastomas, and rhabdomyosarcomas
++ Denys-Drash syndrome (90% Wilms’ Tumour risk): characterized by gonadal dysgenesis and nephropathy
+leading to renal failure

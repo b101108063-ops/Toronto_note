@@ -1,0 +1,83 @@
+P27 Pediatrics
+
+Clinical Features
++ key questions in addition to standard pediatric history:
+«= detailed developmental history including milestones, rate of acquisition, regression of skills
+«= detailed prenatal, birth, postnatal history
+«= detailed three-generation family history
+«= detailed psychosocial history, including exposure to environmental toxins
+= associated problems: feeding, seizures, behaviour, sleep
++ physical exam
+= micro/macrocephaly, hepatosplenomegaly, height, and weight
+= neurodevelopmental exam (neurological exam, congenital abnormalities, dysmorphic features head-
+to-toe, cutaneous findings, dysmorphic features, current developmental level)
++ investigations (guided by history, physical examination, and CPS stepwise algorithm)
+= refer for formal vision and hearing tests, which may guide further management
+« first line: chromosomal microarray and Fragile X DNA testing
+= “Tier 1” lab investigations (defined by CPS) for inborn errors of metabolism:
+— blood: CBC, glucose, blood gas, urea, creatinine, electrolytes with anion gap, AST, ALT,
+TSH, CK, ammonia, lactate, amino acids, acylcarnitine profile, carnitine, homocysteine,
+copper, ceruloplasmin, biotinidase
+— urine: organic acids, creatine metabolites, purines, pyrimidines, glycosaminoglycans
+«= additional investigations: ferritin, B12, lead, congenital infections
+= brain imaging: microcephaly, macrocephaly, seizures, or abnormal neurological findings
+= consider consultation with genetics or endocrinology
+
+Management
+
++ dependent on specific area of delay
+
++ therapy services (e.g. speech and language therapy for communication delay, OT and/or PT for motor
+delay), early intervention services (e.g. infant development services, drop-in programs; preschool); access to
+daycare supports development
+
+Intellectual Disability
+
+Definition
+
++ characterized by three domains: deficits in intellectual function (confirmed by clinical assessment and
+standardized intelligence testing, historically defined as Intelligence Quotient (IQ) <70), deficits in adaptive
+function, and symptom onset during developmental period
+
++ severity levels (mild, moderate, severe, profound) are based on adaptive function, not IQ
+
+Epidemiology
++ 1-3% of general population; M:F
+
+Clinical Features
++ history
+= earlier age of onset correlates with greater severity of ID
+«= well below average general intellectual functioning
+= significant deficits in adaptive functioning in at least 2 of: communication, self-care, home-living,
+social skills, self-direction, academic skills, work, leisure, health, safety
++ physical exam
+» check growth, dysmorphic features, complete physical exam, detailed observation of behaviour/
+phenotype (i. social skills)
++ investigations
+= standardized psychoeducational assessment (includes cognitive and adaptive functioning measures);
+performed by psychologists
+= vision, hearing, and/or neurologic assessment
+= genetic and metabolic testing as indicated
+
+Management
+main objective: enhance adaptive functioning level
+
+requires an interprofessional team with strong case coordination
+
+emphasize community-based treatment and early intervention
+
+behaviour management services, therapy services (e.g. OT, SLP), medications for associated conditions
+medications for associated conditions
+
+education: life skills, vocational training, communication skills, family education
+
+psychosocial support for individual and family; financial support; respite care, individual /family therapy
+
+Prognosis
+
++ higher rates of sensory deficits, motor impairment, behavioural/emotional disorders, seizures, psychiatric
+illness
+
++ atincreased risk of abuse/neglect
+
+Toronto Notes 2025

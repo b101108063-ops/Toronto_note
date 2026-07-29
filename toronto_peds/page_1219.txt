@@ -1,0 +1,115 @@
+P23 Pediatrics
++ clinical features
+« history: often asymptomatic, but may be associated with CHF, exertional chest pain, syncope, or sudden
+death
+= physical exam: SEM at RUSB with aortic ejection click at the apex (only for valvular stenosis)
++ investigations: echo for diagnosis
++ management: valvular stenosis is usually treated with balloon valvuloplasty, patients with subvalvular or
+supravalvular stenosis require surgical repair, exercise restriction required
+
+Pulmonary Stenosis
++ definition: defect that causes narrowing/stiffening of the pulmonic valve obstructing the blood flow
+between the right ventricle and the pulmonary artery
+3 types: valvular (90%), subvalvular, or supravalvular
+definition of critical pulmonary stenosis: inadequate pulmonary blood flow, dependent on ductus
+arteriosus for oxygenation, progressive hypoxia, and cyanosis
+natural history: may be part of other congenital heart lesions (e.g. Tetralogy of Fallot) or in association with
+syndromes (e.g. congenital rubella, Noonan syndrome)
+clinical features
+
+« history: spectrum from asymptomatic to CHF
+
+= physical exam: wide split $2 on expiration, SEM at LUSB, pulmonary ejection click (for valvular lesions)
+investigations
+
+= ECG findings: RVH
+
+= CXR: post-stenotic dilation of the main pulmonary artery (due to high velocity jet past stenotic valve)
+
+= echo: diagnostic
+management: surgical repair if critically ill or if symptomatic in older infants/children
+
+Cyanotic Congenital Heart Disease
+
+systemic venous return re-enters systemic circulation directly
+
+most prominent feature is cyanosis (O2 saturation <75%)
+
+hyperoxic test differentiates between cardiac and other causes of cyanosis
+= obtain preductal, right radial ABG in room air, then repeat after the child inspires 100% O2
+= ifPaO: Improves to >150 mmHg, cyanosis less likely cardiac in origin
+
+pre-ductal and post-ductal pulse oximetry
+= >5% difference suggests R to L shunt
+
+1. RIGHT-TO-LEFT SHUNT LESIONS
+
+Tetralogy of Fallot
++ epidemiology: 10% of all CHD, most common cyanotic heart defect diagnosed beyond infancy with peak
+incidence at 2-4 mo
++ pathophysiology
+= embryological defect due to anterior and superior deviation of the outlet septum leading to: VSD,
+RVOTO (i.e. pulmonary stenosis + subpulmonary valve stenosis), overriding aorta, and RVH
++ infants may initially have a L > R shunt (therefore no cyanosis); however, RVOTO is progressive,
+leading to increasing R > L shunting with hypoxemia and cyanosis
++ degree of RVOTO determines the direction and degree of shunt and, therefore, the extent of clinical
+cyanosis and degree of RVH
++ clinical features
++ history: hypoxic “tet” spells
++ during exertional states (crying, exercise) the increasing pulmonary vascular resistance and
+decrease in systemic resistance causes an increase in right-to-left shunting
++ clinical features include paroxysms of rapid and deep breathing, irritability and crying, increasing
+cyanosis, decreased intensity of murmur (decreased flow across RVOTO), patient squatting for
+relief (increased peripheral resistance, decreased R to L shunting)
+¢ ifsevere, can lead to decreased level of consciousness, seizures, death
+= physical exam
+# single loud $2 due to severe pulmonary stenosis (i.e. RVOTO), SEM at LLSB
++ investigations
+« ECG: RAD, RVH
+= CXR: boot-shaped heart, decreased pulmonary vasculature, right aortic arch (in 25%)
+= echo: diagnostic
++ management of spells: 0», knee-chest position, fluid bolus, morphine sulfate, propranolol, phenylephrine
++ treatment: surgical repair at 4-6 mo of age; earlier if marked cyanosis or “tet” spells
+
+2. OTHER CYANOTIC CONGENITAL HEART DISEASES
+
+Transposition of the Great Arteries
++ epidemiology: 3-5% of all congenital cardiac lesions, most common cyanotic CHD in neonates
++ pathophysiology: parallel pulmonary and systemic circulations
+
+Toronto Notes 2025
+
+Moderate-to-Large VSD
+Size of VSD is inversely related to sound of
+‘murmur (loud murmur = smaller hole)
+
+‘Causes of Cyanotic Heart Disease - 51s
+Truncus arteriosus
+
+Transposition of the great vessels
+Tricuspid atresia
+
+Tetralogy of Fallot
+
+Total anomalous pulmonary venous return
+
+Tetralogy of Fallot
+vsb
+
+VOTO
+
+Aortic root “overriding” VSD
+RVH
+
+S$
+
+Figure 5. Tetralogy of Fallot
+
+Pulmonary valve
+
+Aortic valve
+
+jp
+
+Figure 6. Transposition of the great
+arteries

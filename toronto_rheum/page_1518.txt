@@ -1,0 +1,166 @@
+RH24 Rheumatology
+
+Table 27. Types of Back Pain
+
+Parameter Mechanical Inflammatory
+Past History + ”
+Family History - +
+Onset Acute Insidious
+‘Age B-90yr <Syr
+Sleep Disturbance + +++ (worse during 2nd half of night)
+Morning Stiffness. 30min oth
+Involvement of Other Systems - +
+Exercise Worse Better
+Rest Better Worse
+NSAID Responsiveness. + ”
+Radiation of Pain ‘Anatomic (L5-S1) Diffuse (thoracic, buttock)
+Sensory Symptoms. . -
+Motor Symptoms + -
+Clinical Presentation
++ axial
+= mid and lower back stiffness, morning stiffness >1 h, night pain, alternating buttock pain, painful SI
+joint (+ FABER test)
+
+spinal restriction (decreased ROM): lumbar (decreased Schéber), thoracic (decreased chest wall
+expansion, normal >5 cm at T4), cervical (global decrease, often extension first)
+postural changes: decreased lumbar lordosis + increased thoracic kyphosis + increased cervical flexion
+= increased occiput to wall distance (>5 cm)
++ peripheral
+= peripheral arthritis occurs in about 25-30% of patients with ankylosing spondylitis
+= asymmetrical large joint arthritis, most often involving lower limb
+= enthesitis: tenderness over tibial tuberosity, or Achilles tendon and plantar fascia insertions into the
+calcaneus
+= dactylitis: toes or fingers
++ extra-articular manifestations
+ophthalmic: acute anterior uveitis is common (25-30% patients)
+gastrointestinal: IBD
+renal: IgA nephropathy, amyloidosis (late and rare)
+cardiac: aortitis, aortic regurgitation, pericarditis, conduction disturbances, heart failure (rare)
+respiratory: apical fibrosis (rare)
+neurologic: cauda equina syndrome (rare)
+skin: psoriasis
+
+Investigations
+
++ x-ray of SIjoint: spscudowidening” of joint due to erosion with joint sclerosis > bony fusion (late),
+symmetric sacroiliitis
+
+x-ray of spine: “squaring of edges” from erosion and sclerosis on corners of vertebral bodies (shiny corner
+
+sign) leading to ossification of outer fibres of annulus fibrosus (bridging syndesmophytes) > “bamboo
+
+spine” radiographically
+
+MRI of spine: assess activity in early disease; detection of cartilage changes, bone marrow edema, bone
+
+erosions, and subchondral bone changes. Best seen on T2 short tau inversion recovery (STIR) images
+
+(suppress fat and see bone edema)
+
+DEXA scan: reduced BMD
+
+labs: CBC, elevated ESR/CRP, ALP, Ca**, HLA-B27, serum protein electrophoresis (SPEP)
+
+Treatment
++ non-pharmacological therapy
+
+= prevent fusion from poor posture and disability through: exercise (e.g. swimming), postural and deep
+
+breathing exercises, outpatient PT, and smoking cessation
+
++ pharmacological therapy
+
+= NSAIDs (first line of treatment for peripheral and axial disease)
+
+= glucocorticoids (topical eye drops, local injections, occasionally require systemic steroids prior to other
+effective Rx)
+conventional DMARDs only for peripheral arthritis (SSZ, MTX) and are not effective for axial disease
+if inadequate response to two NSAIDs (or DMARD for peripheral arthritis only), consider anti-TNF
+agents or anti-IL-17 inhibitors for axial and peripheral involvement
+manage extra-articular manifestations
++ surgical therapy
+
+= hip replacement and vertebral osteotomy for marked deformity (latter rarely performed)
+
+Prognosis
+* spontaneous remissions and relapses are common and can occur at any age
+
++ function may be excellent despite spinal deformity
+
++ favourable prognosis if female and age of onset >40 yr
+
++ early onset with hip disease may lead to severe disability; may require arthroplasty
+
+Toronto Notes 2025
+
+NORMAL POSTURE
+
+Cervical lordosis,
+
+Thoracic kyphosis
+Lumbar lordosis,
+
+Sacral kyphosis
+
+ANKYLOSING SPONDYLITIS
+
+Increased occiput
+towal distance
+
+Increased cervical
+flexion
+
+Increased thoracic.
+kyphosis
+
+Decreased lumbar
+lordosis
+
+© Cassandra Cetlin
+
+Figure 12. AS postural change
+
+FABER (Flexion, ABduction, and External
+Rotation) Test
+
+Passively flex, abduct, then gently
+externally rotate the leg. If pain is elicited
+during this movement, the location of the
+pain may help determine the location of the
+patient's pathology (e.g. hip joint, SI join),
+However, itis poorly reproducible and
+inaccurate in discerning inflammatory vs.
+‘mechanical back pain
+
+Modified Schdber Test
+
+Patient must be standing erect with normal
+posture
+
+Mark an imaginary horizontal line
+connecting both posterior superior iliac
+spines (dose to the dimples of Venus)
+‘Amarkis placed 10 cm above this
+horizontal line, and another 5 cm below
+‘The patient bends forward maximally:
+measure the difference between these
+two points
+
+Reportthe increase (in cm to the nearest
+O4cm)
+
+The better of two tries is recorded
+
+Extra-Articular Manifestations of AS
+
+5As
+Anterior uveitis
+
+Apical lung fibrosis
+
+Aortic incompetence
+
+Amyloidosis (kidneys)
+
+Autoimmune bowel disease (ulcerative
+colitis)

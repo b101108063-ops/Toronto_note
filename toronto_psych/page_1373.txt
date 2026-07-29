@@ -1,0 +1,97 @@
+PS19 Psychiatry Toronto Notes 2025
+
++ phobic object/situation is actively avoided or endured with intense anxiety
+
++ fear/anxiety out of proportion to actual danger/sociocultural context and persistent (lasting 6 mo or more)
+
++ person recognizes fear as excessive or unreasonable
+
++ significant impact on daily routine, occupational/social functioning, and/or marked distress
+
+Treatment
+
++ psychological: psychoeducation, CBT (focusing on both in vivo and virtual exposure therapy, gradually
+facing feared situations)
+
++ biological: minimal role for medications
+
+sessive-Compulsive and Related Disorders
+
+Obsessive-Compulsive Disorder
+
+DSM-5 DIAGNOSTIC CRITERIA FOR OBSESSIVE-COMPULSIVE DISORDER
+Reprinted with pemission rom the Diagnostic and Statistical Manualof Mental Disorders, Sth ed. 2013. American Psychiatric Association
+
+A. presence of obsessions, compulsions, or both
+= obsessions are defined by (1) and (2)
+
+1. recurrent and persistent thoughts, urges, or images that are experienced, at some time during the
+disturbance, as intrusive and unwanted, and that in most individuals cause marked anxiety or
+distress
+
+2. the individual attempts to ignore or Suppress such thoughts, urges, or images, or to neutralize them
+with some other thought or action (i.e. by performing a compulsion)
+
+= compulsions are defined by (1) and (2)
+
+1, repetitive behaviours (e.g. hand washing, ordering, checking) or mental acts (e.g. praying, counting,
+repeating words silently) that the individual feels driven to perform in response to an obsession or
+according to rules that must be applied rigidly
+
+2. the behaviours or mental acts are aimed at preventing or reducing anxiety or distress, or preventing
+some dreaded event or situation; however, these behaviours or mental acts are not connected in a
+realistic way with what they are designed to neutralize or prevent or are clearly excessive
+
+B, the obsessions or compulsions are time-consuming (e.g. take >1 h/d) or cause clinically significant distress
+or impairment in social, occupational, or other important areas of functioning
+
+C. the obsessive-compulsive symptoms are not attributable to the physiological effects
+
+D. the disturbance is not better explained by the symptoms of another mental disorder
+
++ specifiers: with good or fair insight, with poor insight, with absent insight/delusional beliefs, tic-related
+
++ most common obsessions: contamination fear, pathological doubts, harm (e.g. sex, aggression), somatic
+dysfunctions, need for symmetry, religious
+most common compulsions: checking, washing, repeating, ordering, counting, need to ask, and hoarding
+
++ rituals serve to counteract the anxiety induced by the obsessive thoughts
+
+Epidemiology
+
++ lifetime prevalence 3%
+
++ mean age of onset: 20 yr; onset after 35 yr rare
+
++ rate of OCD in first-degree relatives is higher than in the general population
+
++ common comorbidities: anxiety disorders (>75%), depressive or bipolar disorder (>60%), obsessive-
+compulsive PD, tic disorders, substance use disorder, body dysmorphic disorder, trichotillomania, and
+excoriation disorder
+
+Risk Factors
++ etiology unknown but linked with:
+= neurological abnormalities: neurological dysfunction (i.e. brain injury, Sydenham’s or Huntington's
+chorea), abnormal EEG, and abnormal evoked auditory potentials
+family history of OCD or Tourette’s disorder
+= pediatric autoimmune neuropsychiatric disorders associated with streptococcal infection (PANDAS) in
+children following group A B-streptococcal infection; also linked to D8/17 antigen positivity
+= social isolation, physical abuse, negative emotionality
+
+Treatment
+
+CBT: ERP which involves exposure to feared situations using various techniques (e.g. imaginal exposure,
+systematic desensitization, flooding) with the addition of preventing the compulsive behaviours; cognitive
+strategies include challenging underlying beliefs
+
+pharmacotherapy: SSRIs (12-16 wk potential delay until response, higher therapeutic dosages than used
+for depression, benign side effects), clomipramine; adjunctive antipsychotics (risperidone, aripiprazole) for
+refractory OCD
+
+neurosurgery or neurostimulation: anterior cingulotomy for severe refractory OCD, two techniques:
+radiofrequency thermolesion and gamma knife capsulotomy or cingulotomy (50-70% response rate); ECT
+(particularly for those with comorbid severe depression)
+
+Prognosis
++ may be refractory and chronic with waxing and waning symptoms (<20% remission rate without
+treatment)

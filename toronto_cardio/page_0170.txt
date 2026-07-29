@@ -1,0 +1,58 @@
+C80 Cardiology and Cardiac Surgery ‘Toronto Notes 2025
+Tiallame Reference (Clinica Trial Details
+ENGAGEAF-TIMI48 NEJM 2013;369:2093-104 Title: Edoxabanvs. Warfarin in Patients with Atal Fibrilation
+Purpose: Compare thelong term efficacy and safety of edoxaban andwarfarin in Fib patients.
+Methods: 21105 patents with moderate-high risk AFibwere randomized to two once-daily regimens of edoxaban or warfarin. The primary endpoint was stroke ar systemic
+embolism.
+Results: The primary endpoint rate was 1.50% with warfarin and 118% inthe edoxaban group (hazard rato 0.79; 975% C10.63 00.99; 0.00%), The annualized rate of
+major bleeding was 3.43% with warfarin and2.75% withhigh-dose edoxaban (hazard ratio 0.80; 95% C10.71to 051; P<0.00%).
+Conclusions: AFib patients treated with edoxaban ad simiar rates of stroke and lower rates of major bleeding compared to warfarin
+ETOH. AFib NEJM 2020;382:20-28, Title: Alofo! Abstinencein Drinkers with Atrial ibilation
+Purpose: Study te effects of alcohol abstinence on secondary prevention of arial fibrillation.
+Methods: Adults who consumed >10 standardized drinks/wk wih Aib were randomized to abstinence or continuation of current practices. The two primary endpointswere
+‘freedom fromAFib recurrence and total AFib burden
+Results: After a2-wkblanking period, AF recurred in 53% of patients inthe abstinence group and 73% af patients inthe control group (hazard rato 0.55; 95% 10.3610
+‘0.84; 0,006). The AFb burden after 6 mo was lower inthe abstinence group than the contral group.
+Conclusions: Abstinence fromalcohal reduced amythmia recurrences in regular drinkers with AFB.
+RELY NEJM 2009;361:139-51 Title: Dabigatranvs. Warfarin inPatients with Arial Fibrillation
+Purpose: Compare thereduction of stroke risk inAFib patients with warfarin versus dbi
+Methods: 18113 patients with AFib and stroke risk were randomized tofixed doses of dabigatran (110 mg or 150 mg twice daily or warfasin, The primary outcome was
+systemic embolism
+Results: Rates of primary outcomes were 1.69% per year with warfarin, compared with 1.53% per year with 110 mg dabigatran RR 0.91; 95% CL0.74to 1.11; P0001) and
+‘L1T% per year with 150 mg dabigatran(R 0.66; 95% C10.53 to 0.82;P0,00%), Therate of major bleeding was 3.36% inthe warfarin group, compared to 2.71%in the
+‘abigatran 110 mg group and 3.17% in the dabigaran 150 mg group.
+Conclusions: AFib patients treated with dabigatran hada lower incidence of stroke compared to warfarin, with similar rates of major bleeding.
+ROCKET-AFD NEJM 2011;365:883-91 Title: Rivaroxaban vs. Warfarin in Nonvavular Ail Fibrilation
+Purpose: Compare rvaroxaban with warfarin in reducing stroke riskin AFib patients.
+Methods: 14264 patients with nonvalv ar AFib were randomized to rivaroraban 20 mg daily or dose-adjusted warfarin. The primary endpoint was stroker systemic
+embolism
+Results: in hazard ratio 0.79; 95% C066 00.96; P<,001),
+Naor andnon-major bleeding occured in 14.9% of patients in the rvaroxaban group and 14.5% of warfarin patients (hazardratio 1.03; 95% C10.96 o1.11;P-0.44).
+Conclusions: Inpatients with AFi,rvaroxaban is non inferior to warfarin for stoke prevention without an exces of major bleeding
+HYPERTENSION
+HYVET NEJM 2008;358:1887-98 Title: Treatmentof Hypertension in Patients 80 Years of Ager Older
+Purpose: Assess antilypertensive therapy for stroke riskreduction, in patients>80yr with hypertension,
+Methods: 3845 patients with sBP>160 mmig and 80 yr were randomized to indapamide SR 2.5 mg or placebo. Perindopil2mg or 4 mgwes added ifneeded to achieve
+target BP 150/80 mig. The primary endpoint was fatal or non-fatal stroke.
+tive treatment was associated with a30% reduction infatal or non-fatal stroke (95% Cl -1toSt;=0.06), a 39% reduction in death from stroke (95% Cl 1to 62;
+21's reduction in al-cause mortality (95% C1 4to 35; P-0.02).
+Inhypertensve patients >80 yr, treatment with indapamide, with or without perindopril, showed atrend towards reduced relative risk of fatal or non-fatal
+SPRINT NEJM 2015;373:2103-16 Title: ARandomized ral of Intensive vs. Standard Blood- Pressure Control
+Purpose: Determine appropriate targets for BP to reduce CV morbidity and morality among patents without DM.
+Methods: 9361 patients with ansBP 130 mmig or greater and increased CV risk, without diabetes, were randomized to sBP target <120 mm or <140 mm The primary
+‘outcomewas a composite of Ml, other ACS, stroke, HF, or CV death.
+Results: There was asignificantreductionin the rate of primary outcome in theintensive group compared to the conservative group (1.65%. 2.19%; hazard ratio 0.75;
+‘95% C10.64 to 0.89; P0001. Al-cause mortality was significantly lowered in the intensive roup (hazard ratio 0.73; 95% C10.60 to 0.90; P=0.003),
+Conclusions: Inpatients with high riskof CV events excluding DM, strict sBP control (120 mmlg)is associated with fewer CVevents and lower all<ause moral.
+VALUE Lancet 2004;363:2022-31 Title: Outcomes inHypertensive Patients at High Cardiovascular Risk Treated with Regimens Based onValsartan or Amlodipine: The Value Randomised Trial
+
+Purpose: Determine whether valsartan would reduce cr ity more than amladipine in hypertensive patients with igh CV sk
+
+Methods: 15245 patents with hypertension and high CV risk were randomized to valsartan o amlodipine. The primary endpoint wasa composite of cardiac morbidity and
+mortality.
+
+Results: The primary composite endpoints occured in 10.6% of patients inthe valsartan group and 10.4% of patients inthe amlodipine group (hazard ratio 1.04; 95% CI
+0.94 0 115;P=0.49).
+
+Conclusions: The valsartan group hada higher incidence of MI than the amlodipine group.
+

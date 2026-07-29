@@ -1,0 +1,108 @@
+P28 Pediatrics
+
+Language Delay
+
+Definition
+
++ nouniversally accepted definition, but most often identified around 18 mo of age with enhanced well baby
+visit
+
+if formally tested, at least one standard deviation below mean of age on standardized testing
+
+can be expressive (ability to produce or use language), receptive (ability to understand language), or both
+
+Epidemiology
+
++ MoF
+
++ ~10-15% of 2 ylo children have a language delay, but only 4-5% remain delayed after age 3
+
++ ~6-8% of school-aged children have specific language impairment (many of whom were not identified
+before school entry)
+
+Etiology
+
+intellectual disability
+
+selective mutism
+
+language specific learning disorder
+
+isolated language delay
+
+developmental disorders: cerebral palsy, autism spectrum disorder, constitutional language delay
+genetic/metabolic: DS, Fragile X syndrome, Williams syndrome, hypothyroidism, PKU, etc.
+mechanical problems: cleft palate, cranial nerve palsy, hearing impairment
+
+medical conditions: seizure disorder (includes acquired epileptic aphasia), degenerative neurologic
+disorders (i.e. Rett syndrome, Leigh encephalopathy), CP, TORCH infection, iron deficiency, lead poisoning,
+ete.
+
+psychosocial: limited exposure to enriching environments; neglect or abuse
+
+Clinical Features
++ history
+
+= concerns about hearing, delay in language development or regression in previously normal language
+development
+delayed language milestones, presence of red flags, regression (see Table 9, Developmental Milestones,
+P8)
+
+must determine if language delay is expressive, receptive, or mixed
+assess social communication skills, including use of gestures
+determine differences in behaviour at home, school, other social environments
+risk factors: family history of speech and language delay, male, prematurity, low birth weight, hearing
+loss
++ physical exam
+= guided by history: look for abnormal growth, dysmorphisms, unusual social interactions (lack of eye
+contact, not pointing)
+= include full exam of the external/internal ear (e.g. TM scarring), oral pharynx (e.g. cleft palate), and
+neurologic system (including tone)
++ investigations
+= use of language specific screens in primary care setting: The Early Language Milestone,
+Communication and Symbolic Behaviour Scales Developmental Profile Infant-Toddler Checklist, Ages
+and Stages Questionnaire (ASQ), Nippising District Developmental Screen (NDDS)
+Clinical Adaptive Test/Clinical Linguistic and Auditory Milestone Scale (CAT/CLAMS), Modified
+Checklist for Autism in Toddlers (M-CHAT), etc.
+developmental evaluation and observation during informal interaction
+hearing, dental, and vision screening (audiology, dentistry, and optometry referral)
+CBC, ferritin (to rule out anemia), venous blood lead levels, genetic/metabolic workup as indicated
+
+Management
++ specific to etiology
+
+referral to SLP most important, consider referral to Otolaryngology (ENT), dental professionals, general
+support services like attending daycare or preschool
+
+consider other interventions specific to etiology
+
+prevention: parents can read aloud to their child daily, narrate daily activities, attend early education drop-
+in programs, preschool/daycare, etc.
+
+Prognosis
+
++ depends on etiology - best prognosis for developmental speech delay
+
++ if language delay persists beyond age 5, more likely to have difficulties in adulthood
+
++ persistent language delay is associated with poor academic performance, behavioural problems, social
+isolation
+
+Toronto Notes 2025
+
+Risk Factors for Sensorineural Hearing
+Loss
+
+Genetic syndromes/tamily history
+Congenital (TORCH) infections
+Craniofacial abnormalities
+
+1500 girth weight
+Hyperbilirubinemia/kernicterus
+Asphyxia/low APGAR scores
+
+Bacterial meningitis, viral encephaltis,
+
+Primary care physicians should also suspect
+areceptive language delay in any young
+child with an expressive language delay

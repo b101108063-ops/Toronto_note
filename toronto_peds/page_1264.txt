@@ -1,0 +1,70 @@
+P68 Pediatrics Toronto Notes 2025
+
+Investigations
++ NP specimen using aspirate or NP swab
+
+= gold standard: culture using special media (Regan-Lowe agar)
+
+= PCR to detect pertussis antigens (more commonly used in practice)
++ blood work: CBC (lymphocytosis) and serology (antibodies against B. pertussis)
+
+Management
++ admit if paroxysms of cough are associated with cyanosis and/or apnea and give 0:
++ supportive care with attention on nutrition in young infants
++ antimicrobial therapy indicated if B. pertussis isolated or symptoms present for <21 d
+= use macrolide antibiotics (azithromycin, erythromycin, or clarithromycin)
++ droplet isolation until 5 d of treatment and report to Public Health
++ prophylaxis
+= macrolide antibiotics for all household contacts
+«= prevention with vaccination in infants and children (Pentacel*), and booster in adolescents (Adacel*)
+(see Routine Immunization, P5)
+
+Complications
+
+* venous pressure related from paroxysms: subconjunctival hemorrhage, rectal prolapse, hernias, epistaxis
+
++ respiratory: sinusitis, pneumonia, aspiration, atelectasis, pneumomediastinum, pneumothorax, alveolar
+rupture
+
++ neurological: seizures (~3%), encephalopathy, ICH
+
++ mortality: ~0.3%; highest risk in infants <6 mo
+
+Pneumonia
++ see Infectious Diseases, ID7 and Pneumonia, P93
+Periorbital (Preseptal) and Orbital Cellulitis
+
++ see Ophthalmology, OP9 Cardinal Signs of Orbital Cellulitis
+. . Ophthalmoplegia/diplopia
+Sexually Transmitted Infections Proptosis
+
+Decreased visual acuity
+Pain with extraocular eye movement
+
+see Family Medicine, FM46 and Gynecology, GY28
+Sinusitis
++ see Family Medicine, FM47
+
+Definition
++ inflammation of sinuses
+
+Epidemiology
++ complication of <10% of URTIs in children
+
+Investigations
++ clinical diagnosis: facial pain/pressure/fullness, nasal obstruction, nasal purulence/discoloured post-nasal
+discharge, hyposmia/anosmia
++ diagnostic imaging is NOT required to confirm diagnosis in children
+= routine CT not recommended, but consider if suspect complications of sinusitis, persistent/recurrent
+disease, need for surgery
+
+Management
++ most often viral and will resolve spontaneously in a few weeks
+
++ if persistent symptoms for more than 10 days, or worsening/severe symptoms, antibiotic therapy
+(amoxicillin) for all children
+
+complications: preseptal/orbital (preseptal/orbital cellulitis, orbital abscess, osteomyelitis, etc.),
+intracranial (meningitis, abscess, etc.), Pott’s Puffy tumour (presents with tender soft tissue erythematous
+swelling of the forehead; symptoms include headache, photophobia, and fever; managed with IV antibiotics
+and ENT consult)

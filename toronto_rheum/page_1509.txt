@@ -1,0 +1,135 @@
+RHIS Rheumatology
+Clinical Presentation
+
+Table 19. Clinical Manifestations of Scleroderma
+
+System Features
+
+Dermatologic Painless non pitting edema » skintightening
+Ucerations, calcinosis, periungualerythema, hypo-hyperpigmentation, pruritus, tlangiectasias
+‘Characteristic face: mask-lkefacies with ight lps, beak nose, radial perioral furrows
+
+Vascular Raynaud's phenomenon + digital pits, gangrene
+
+Thrombosis
+
+Distal esophageal hy pomotly = dysphagia
+
+Loss of lower esophageal sphincter function » gastroesophageal reflux disease (GERD), ulceration, strictures
+‘Small bowel hypomotiity > bacterial overgrowth, diarthea, bloating, cramps, malabsorption, weightloss
+Large bowel hypomotilty + wide mouth diverticulaare pathognomonic radiographic finding onbarium study
+
+Renal Mild proteinuria, Cr elevation, HTN
+"Scleroderma renal crisis” (10-15%) may lead to malignant arterial HTN, oliguia, and microangiopathic hemolytic anemia
+
+Gastrointestinal (-90%)
+
+Pulmonary (-80%) Interstitial fibrosis, pulmonary HTN, pleurisy, pleural effusions
+Cardiac Left ventricular dysfunction, pericarditis, pericardial effusion, arrhythmias
+Musculoskeletal Polyarthralgias
+“Resorption of distal tufts” (radiological finding)
+Proximal weakness 2°to disuse, atrophy, low grade myopathy, tendon friction rubs.
+Endocrine Hypothyroidism
+Investigations
+
++ blood work
+= CBC, Cr, ANA
+= anti-topoisomerase 1/anti-Scl-70 antibody: specific but not sensitive for diffuse systemic sclerosis
+= anti-centromere antibody: favours diagnosis of CREST (limited systemic sclerosis)
+= anti-RNA polymerase III antibody: associated with severe skin involvement, increased risk of renal
+crisis
+
++ PFT
+= assess and monitor for ILD
++ echocardiogram
+= screen for pulmonary HTN
++ imaging
+= baseline CXR to rule out ILD
+« high-resolution CT of the lungs where appropriate (e.g. diffuse cutaneous SSc)
+
+Treatment
++ dermatologic
+
+= good skin hygiene
+
+= low-dose prednisone (>20 mg may provoke renal crisis if susceptible), MTX (limited evidence)
++ vascular
+
+= Raynaud’s: keep hands and core body warm, smoking cessation
+
+= vasodilators (CCBs, local nitroglycerine cream, systemic PGE2 inhibitors, PDES5 inhibitors), fluoxetine
+* gastrointestinal
+
+= GERD: PPls are first-line, followed by H2-receptor antagonists
+
+= small bowel bacterial overgrowth: broad spectrum antibiotics (tetracycline, metronidazole)
+
+= motility disturbances: prokinetics
++ renal disease
+
+= ACE inhibitor for hypertensive crisis
+
+= see Nephrology, NP36 for scleroderma renal crisis
++ pulmonary
+
+= interstitial lung disease:
+
++ immunosuppression: mycophenolate mofetil (less toxicity) or cyclophosphamide; other options:
+tocilizumab, rituximab
++ anti-fibrotic therapy: nintedanib
+
+= pulmonary HTN: vasodilators (e.g. bosentan, epoprostenol, and PDES inhibitors)
+
+= rapidly progressive disease at risk of organ failure: consider hematopoietic stem cell transplantation
++ cardiac
+
+= pericarditis: systemic steroids
++ musculoskeletal
+
+« arthritis: NSAIDs
+
+= myositis: systemic steroids
+
+screen for nutritional deficiencies if malabsorption is present or suspected due to severe Gl involvement
+
+Toronto Notes 2025
+
+6 patients with SSc have
+prevalent digital ulcers, complicated digital
+ulcers ever, inflammatory arthritis, myositis,
+‘or myopathy, sicca symptoms, or Sjogren's
+syndrome
+
+Features of Pathologic Raynaud's
+Syndrome
+
+New onset
+
+Asymmetric
+
+Precipitated by stimuli other than cold or
+emotion
+
+Associated with distal pulp pitting or tissue
+reabsorption
+
+Digitischemia
+
+Capillary dilatation by capillaroscopy
+
+Treatment Agorthmsfor Systemic Sderosis
+According to Experts
+
+Authtis Rheumatology 2018 No 7011) 1820-8
+Purpose: Toresove disagreement in management
+uideines of systemic sclerosis (Scand developa
+treatment algorithm endorsed by S& exerts
+Methods: 110 experts rom the SkerodermaCinical
+Trials Consortium andthe Canadian Scleroderma
+Research Group evaluated ther agreement with
+20125Sc algorithms; two consensus rounds refined
+agreement
+
+Results! Concusions: Total agreement forthe updated
+and revised SScalorithm was consierable and may
+ude an approach oteatment going forward

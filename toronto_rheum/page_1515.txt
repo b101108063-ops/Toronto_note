@@ -1,0 +1,95 @@
+RH21 Rheumatology Toronto Notes 2025
+
+= maintenance therapy: initiated once remission is achieved, consider corticosteroid-sparing agents
+such as rituximab (1st line) for maintenance, azathioprine, MTX, and mycophenolate are reasonable
+alternatives
+= avacopan may be considered to aid with rate of steroid taper
+urgent plasma exchange is not recommended as part of initial induction therapy for most adult patients
+with severe GPA or MPA
+non-organ-threatening disease
+= prednisone 0.5-1 mg/kg/d PO and MTX 15-25 mg PO/SC weekly OR azathioprine 2 mg/kg/d
+screening and prophylaxis
+« all patients should receive screening and prophylaxis for corticosteroid-induced osteoporosis, PUD
+prevention, and Pneumocystis jirovecii prophylaxis (trimethoprim/sulfamethoxazole 160/800 mg PO
+3x/wk)
+
+Medium Vessel Vasculitis
+POLYARTERITIS NODOSA
+
+Definition
++ systemic, necrotizing vasculitis of medium-sized vessels, defined as visceral arteries and their branches
++ ANCA-negative, classically lung-sparing
+
++ 5-10% associated with hepatitis B positivity
+
++ incidence: 0.7 in 100000; affects individuals between 40-60 yr;
+
+Table 23. Classification Criteria for PAN*
+
+Giteria Description
+4. Weight bss 24g, notdue to dieting or other factors
+
+2. Myzgias, weakness, or egtenderness Difiuse myalgias oc muscle weakness
+
+3.Livedoreticularis Mottled, reticular patternover skin
+
+4 Neuropathy Mononeuropathy, mononeuropathy multiples or polyneuropathy
+
+5. Testicular pain o tenderness Not dueto infection, trauma, or other causes
+
+6.d8P>90mmig Development of HTH with BP >$0 mnilg
+
+Elevated Cr or BUN 1-130 mol (1.5 mg/dl), BUN >14.3 mmol (40 mgldl)
+
+B.Hepatts B positive Presence othepatitisB surface antigen or Ab
+
+4. Arteriograpic abnormality Commonly aneurysms
+
+10. Biopsy of artery Presence of granulocytes and/or mononuclear leukocytes inthe artery wal
+
+“Diagnosed it 30r more o the above 10 criteria present
+American Collegeof Rheum ology, 1880
+
+Etiology and Pathophysiology
+
++ focal pan-mural necrotizing vasculitis in small and medium-sized arteries
+
++ thrombosis, aneurysm, or dilatation at lesion site may occur
+
++ healed lesions show proliferation of fibrous tissue and endothelial cells that may lead to luminal occlusion
+
+Clinical Presentation
+
++ systemic: fatigue, weight loss, weakness, fever, arthralgias
+
++ dermatologic: livedo reticularis, nodules, purpura, eruptions
+
++ renal: renal insufficiency leading to HTN
+
++ neurologic: mononeuropathy multiplex in both motor and sensory nerves
+
++ abdominal: abdominal pain, mesenteric arteritis
+
+Investigations
+
++ blood work: CBC, CRP, Cr, BUN, urinalysis, liver enzymes, p-ANCA, hepatitis B and C serology
+
++ imaging: CT or MRI angiography shows beading appearance of blood vessels
+
++ biopsy of affected organ (e.g. skin, nerve); biopsy of highly vascular tissues (e.g. liver) not recommended due
+to risk of aneurysm rupture
+
+Treatment
++ guided by the five-factor score (FFS), a survival prognostic score for patients with PAN and EGPA
+«= the FFS includes: (1) cardiomyopathy due to vasculitis (2) CNS involvement due to vasculitis (3) severe
+Gl involvement due to vasculitis (4) serum creatinine >140 umol/L (5) proteinuria >1 g/day
++ PAN with no major organ manifestations (FFS = 0)
+= glucocorticoids + azathioprine
++ PAN with major organ manifestations (CNS, cardiac, GI, renal; FFS = 1 or more)
+= induction therapy with high-dose glucocorticoids + cyclophosphamide for 3-6 mo followed by
+maintenance therapy with low-dose prednisone and either azathioprine, MTX, or leflunomide
+= treatment should bea minimum of 18 mo
++ hepatitis B virus-associated vasculitis
+= prednisone 1 mg/kg/d PO x7 d (then taper and withdraw by 14 d) + methylprednisolone 15 mg/kg/d IV
+x13d
+«= after corticosteroid therapy, treat with plasma exchange + antiviral therapy

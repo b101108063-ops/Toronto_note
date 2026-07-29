@@ -1,0 +1,51 @@
+27 Cardiology and Cardiac Surgery Toronto Notes 2025
+
+Figure 35. VT (monomorphic)
+
+Table 7. Wide Complex Tachycardia: Clues for Differentiating VT vs. SVT with Aberrancy* ve} ;
+Ginical Cues ECG Cues ni ae
+Presenting symptoms Not helpful ‘WV dssocation w VF ths is most common, especially in
+History of CAD and previousMI VT Capture or fusion beats w ae lor those with structural heart
+Mysto CS width -HOmset w ‘SVT with aberrant conduction (rate related)
+Cannon “a" waves ww Extreme ais deviation (eftorright VT SVT with pre-existing BB or nonspectic
+Variablest superior axis) intraventricular conduction defect
+Carotid sinus massageladenosine SVT" Positive ORS concordance w Mente
+terminates rhythm (Rave across chest eds tractin WPW patents during an ail
+Negative ORS concordance May suggestVT tachyarrhythmia (e.g. atrial flutter, atrial
+(Swave arosschestleads) tachycardia)
+‘Axis shift during arrhythmia VI polymorphic) Antidromic AVRT in WPW patients (see Pre-
+
+“if patient »65yrand previous Ml or structural heart disease, then chance of VI >95% Exclstion Syndromes, C25)
+
+"May terminate Vin some patients with no structural heat disease
+
+Torsades de Pointes
+avariant of polymorphic VT that occurs in patients with baseline QT prolongation “twisting of the points”
+looks like usual VT except QRS complexes “rotate around the baseline,” changing their axis and amplitude
+usually starts following a post extrasystolic pause (“pause dependent”)
+ventricular rate >100 bpm, usually 150-300 bpm
+= usual onset after a post-PVC pause associated with “pause dependent” QT prolongation
+etiology: occurs in association with prolonged QT intervals
+= congenital long QT syndromes
+= drugs: e.g, class IA (quinidine), class III (sotalol), phenothiazines (TCAs), erythromycin, quinolones,
+antihistamines
+= electrolyte disturbances: hypokalemia, hypomagnesemia, hypocalcemia
+= nutritional deficiencies causing above electrolyte abnormalities
+treatment: IV magnesium, temporary pacing, 8 blocker, correct the underlying cause of prolonged QT
+« electrical cardioversion and ACLS if hemodynamic compromise
+
+Figure 36. Torsades de pointes
+
+Ventricular Fibrillation
+
++ chaotic ventricular arrhythmia, with very rapid irregular ventricular fibrillatory waves of varying
+morphology without clear QRS complexes
+
+terminal event, unless advanced cardiac life-support (ACLS) procedures are promptly initiated to maintain
+ventilation and CO, and electrical defibrillation is carried out
+
+most frequent cause of sudden death
+
+refer to ACLS algorithm for complete therapeutic guidelines
+
+Figure 37. VFib

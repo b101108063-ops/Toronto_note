@@ -1,0 +1,108 @@
+U23 Urology
+
+Staging
++ involves abdomen/pelvis CT, CXR, liver enzymes and LFTs, bone/head imaging (if symptoms dictate)
+
+Table 16. 2018 TNM Classification of Renal Cell Carcinoma (AJCC 8th edition)
+
+1 N u
+
+1K: primary tumour cannot be assessed NX:regionallymph nodes cannot be assessed ‘MO: no evidence of distant metastasis
+
+Tt: tumour <7 cm, confined to renal parenchyma
+Tar<4.em
+
+NO:no regional lymph node metastasis Mt: presence of distant metastasis
+
+Ttb:47.om Mt metastasis inregional lymph nodes pM: presenceof distant metastasis, microscopi
+confirmed
+T2:tumour>7.m, confined torenal parenchyma N Sufix
+Tea: >Tembut 10m (sn): regional lymphnode metastasisidentitied by SLN
+Tab: >10cm biopsy only
+
+(regional lymphnodemetastasisidentified by FNA or
+TB:tumourextends into majorveinsor perinephric core needle biopsy only
+tissues, but NOT into ipsilateral adrenal or beyond
+
+Gerota’s fascia
+
+Ta: ito renal vein or sinus fat
+
+3b: into infradiaphragmatic IVC
+
+3c: into supradiaphragmatic VC
+
+‘é:tumour extends beyond Gerota’s fascia induding
+‘extension int ipsilateral adrenal
+
+TSuffix
+(mj: ifsynchronous primary tumoursare found in
+single organ
+
+Toronto Notes 2025
+
+Gerota’s fascia
+
+Artery
+
+Ureter
+
+Renal
+capsule
+
+Renal cortex
+
+Renal medulla © Carly Vanderlee
+
+Treatment
++ surgical (open, laparoscopic, robotic)
+= radical nephrectomy: en bloc removal of kidney, tumour, ipsilateral adrenal gland (in upper pole
+tumours), and intact Gerota’s fascia
+= partial nephrectomy (nephron-sparing): small tumour (roughly <4 cm) or solitary kidney/ bilateral
+tumours
+= surgical removal of solitary metastasis may be considered
++ ablative techniques (percutaneous or lap-assisted)
+= radiofrequency ablation (RFA)
+= cryoablation
+= palliative radiation to painful bony lesions
++ stereotactic body radiation therapy (SBRT)
+«= for non-surgical candidates
++ therapy for advanced stage
+= newimmune checkpoint inhibitors (e.g. pembrolizumab, ipilimumab, nivolumab)
+= tyrosine kinase inhibitors for metastatic disease (e.g. sunitinib, sorafenib, axitinib lenvatinib)
+«= HIF-2a inhibitors (belzutifan)
+= IFNa: monotherapy has been largely replaced by molecularly targeted agents listed above
+
+Prognosis
++ stage at diagnosis most important prognostic factor
+= T1:90-100% 5 yr survival
+= 12-13: 60% 5 yr survival
+= metastatic disease: <5% 10 yr survival
++ predictors of relapse: tumour grade, local extent of the primary tumour, presence of local metastases,
+histological subtype
+
+Carcinoma of the Renal Pelvis and Ureter
+
+Etiology
++ risk factors include:
+
+= smoking
+dietary/chemical exposures (aristolochic acid, industrial dyes and solvents: aniline dyes)
+Balkan endemic nephropathy (due to chronic dietary exposure to aristolochic acid)
+analgesic misuse (acetaminophen, ASA, and phenacetin)
+prior exposure to cyclophosphamide
+
+Epidemiology
+
+* rare: accounts for 5% of all UC
+
++ frequently multifocal, 2-5% are bilateral
+
+« M:F=3:1
+
+relative incidence: bladder:renal:ureter=100:10:1
+
+consider Lynch syndrome if PMHx or family Hx for other malignancies (e.g. colorectal, stomach, prostate,
+endometrial, etc.)
+
+Figure 14. RCC staging

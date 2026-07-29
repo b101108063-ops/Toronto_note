@@ -1,0 +1,118 @@
+HI2 Hematology
+
+Investigations/Treatment
+
++ discontinue offending drug
+
++ if patient is febrile, pan-culture and screen for infection (blood cultures x2, urine culture, and chest x-ray as
+minimum, initiate broad-spectrum antibiotics)
+
+consider BM aspirate and biopsy if cause unclear
+
+consider G-CSF
+
+Leukemoid Reaction
+
+Definition
++ leukocytosis >50 x 10°/L
+
+Etiology
+infection
+
+drugs
+
+asplenia
+intoxication
+malignancy
+hemorrhage
+acute hemolysis
+
+Investigations/Treatment
+
++ marked left shift (myelocytes, metamyelocytes, and bands in peripheral blood smear)
++ rule out CML and chronic neutrophilic leukemia
+
++ detect and treat underlying cause
+
+Approach to Lymphade
+
+History
+
+* constitutional/B-symptoms (seen in TB, lymphoma, other malignancies)
+
++ growth pattern: acute vs. chronic
+
+* exposures: cats (cat scratch - Bartonella henselae), ticks (Lyme disease - Borrelia burgdorferi), and high-
+risk behaviours (HIV)
+
++ joint pain/swelling, rashes (connective tissue disorder)
+
++ pruritus (seen in Hodgkin lymphoma)
+
++ medications (can cause serum sickness which can lead to lymphadenopathy)
+
+thy
+
+Clinical Features
++ determine iflymphadenopathy is localized or generalized
++ generalized: typically a feature of systemic diseases (HIV, TB, EBV, SLE, medications, sarcoidosis,
+lymphoma)
++ localized: typically reactive or neoplastic
+= cervical (bacterial/mycobacterial infections, ENT malignancies, and metastatic cancer)
+= supraclavicular (highest malignancy risk)
+. fight (mediastinal, bronchogenic, esophageal cancer)
+« left (gastric, gallbladder, pancreas, renal, and testicular/ovarian cancer)
+= axillary (cat scratch fever, breast cancer, and metastatic cancer)
+= epitrochlear (infections, sarcoidosis, and lymphoma)
++ check for splenomegaly and any constitutional symptoms
+
+Investigations
++ CBCand differential, blood film
++ if generalized, consider tuberculin test, HIV RNA, VDRL, Monospot’/EBV serology, antinuclear antibodies
+(ANA), and imaging
+
+if localized and no symptoms suggestive of malignancy, can observe 3-4 wk (if no resolution > excisional
+biopsy to preserve lymph node architecture)
+in areas difficult to access (retroperitoneal, mediastinal/hilar), multiple core biopsies may be more
+practical/feasible
+FNA should NOT be used for diagnostic purposes in lymphoproliferative disease (excisional biopsy is the
+gold standard)
+
+= FNA is helpful for recurrence of solid tumour malignancy
+
+Table 7. Inflammatory vs. Neoplastic Lymph Nodes
+
+Feature Inflammatory Neoplastic
+Consistency Fluctuantisoft Firmvhard
+Mobility Mobile Matted/immobile
+Tenderness Tender Non-tender
+
+Size tent lcm"
+
+Note: these dassifcations ae not absolute; Iymphoma and CLL nodes can fel rubbery andar frequently mobil, non-tender
+“Note: inguinal iymph nodes canbe up to 2 cm in size and non-pathologic
+
+Toronto Notes 2025
+
+Constitutional/B-Sy
+Unexplained temperature >38°C
+Unexplained weight loss (>10% of body
+weight in 6 mo)
+
+Night sweats
+
+lymphadenopathy Causing Drugs
+Allopurinol
+Atenolol
+Captopril
+Carbamazepine
+Cephalosporins
+Gold
+Hydralazine
+Penicilin
+Phenytoin
+Primidone
+Pyrimethamine
+Quinidine
+Sulfonamides
+Sulindac

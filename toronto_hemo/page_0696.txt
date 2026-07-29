@@ -1,0 +1,143 @@
+H42 Hematology
+
+Prognosis
++ IPSS-R uses 5 factors to estimate mean survival:
+«= cytology, % BM blasts, Hb, platelets, and ANC
+= based on the calculated score, a patient’s MDS prognostic risk is “Very Low”, “Low”, “Intermediate”,
+“High”, or “Very High” with a mean survival of 8.7, 5.3, 3.0, 1.6, and 0.8 yr, respectively
++ IPSS-M integrates mutational analysis for better prognostic information
+
++ clonal myeloid stem cell abnormalities leading to overproduction of one or more cell lines (erythrocytes,
+platelets, and other cells of myeloid lineage)
+
+Epidemiology
++ mainly middle-aged and older patients (peak 60-80 ys)
+
+Prognosis
++ may develop marrow fibrosis with time
++ all disorders may progress to AML
+
+Table 30. Chronic Myeloproliferative Disorders
+
+CML wv MF a
+
+Het aN 7 . "
+
+wee ' te "
+
+Pit +h ' on tt
+
+Marrow Fibrosis. ‘ :
+
+Splenomegaly os * ’
+
+Hepatomegaly . * -
+
+Genetic Association BCRABL mut, JAK2 mut, (96%) JAK2 mit (50%) JAK2 mut. (+50%)
+CALR mit. (30%) CALR mut. (30%)
+MPL mut. (+5-10%) MPL mut. (~3-5%)
+
+Chronic Myeloid Leukemia
+
+Definition
++ myeloproliferative disorder characterized by increased proliferation of the granulocytic cell line without
+the loss of their capacity to differentiate
+
+Epidemiology
+* occurs in any age group (mostly middle age to elderly) with a median age of 65 yr
+
+Pathophysiology
++ Phchromosome
+= translocation between chromosomes 9 and 22 is necessary and sufficient to result in CML
+= the c-Abl proto-oncogene is translocated from chromosome 9 to “breakpoint cluster region” (BCR) of
+chromosome 22 to produce BCR-ABL fusion gene, a constitutively active tyrosine kinase
+
+C al Features
++ 3 clinical phases
+= chronic phase: 85% diagnosed here
++ few blasts (<10%) in peripheral film
++ + slightly elevated eosinophils and basophils
+* no significant symptoms
+= accelerated phase: impaired neutrophil differentiation
++ circulating blasts (10-20%) with increasing peripheral basophils (pruritus)
++ CBC: thrombocytopenia <100 x 107/L or thrombocytosis
+* cytogenetic evidence of clonal evolution
++ worsening constitutional symptoms and splenomegaly (extramedullary hematopoiesis)
+= blast crisis: more aggressive course, blasts fail to differentiate
++ blasts (>20%) in peripheral blood or BM; reflective of acute leukemia (1/3 ALL, 2/3 AML)
+clinical features
+= 20-50% of patients are asymptomatic when diagnosed (incidental lab finding)
+= nonspecific symptoms
++ fatigue, weight loss, malaise, excessive sweating, fever
+= secondary to splenic involvement
++ early satiety, LUQ pain/fullness, shoulder tip pain (referred)
++ splenomegaly (most common physical finding)
+
+= anemia
+
+Toronto Notes 2025
+
+Use of EpoetinandDarbepoetnin Patients with
+Cancer
+
+Blood 2008;11:25-41
+
+nica practice guideline update by American Societies
+‘of Hematology and Clinical Oncology (201),
+
+Initia Recommendations
+
+Initiate an ESA when Hb is 100
+
+(10 g/t) inpatients with aliatve chemotherapy
+associated anemia to decrease the need for
+transhsions
+
+Discontinue ESAs when patent not responding to
+treatment beyond 6 8 mk
+
+Monitoriton stores and supplemention intake for
+Si-reated patients when necessary
+
+UseESAs cautious with chemotherapy rin
+patients with an elevated risk fr thromboembolic
+comp ications
+
+Itisnot recommended that ESAbe wed for therapy
+inpatients with cancer who are not eceving
+chemotherapy asitincreases thromboembolic
+risk and lowers survival ate Patents with ow
+isk myelo dysplasia are an exception
+
+MDS ineffective maturation
+MPN overproduction of mature cells
+
+Basophilia is uncommon in other medical
+conditions
+
+Chronic Myelproleratve Neoplasms: t-Year
+Follow-Up of Patients Receiving matin forthe
+First-Line Treatment of ML
+
+NEIM2017;36:917827
+
+Study: Long-term outcomes of imatinib treatment for
+ctvonicmyebid leukemia,
+
+‘Methods: 1106 patients wth Ph-psitive CMLin
+
+the chronic phase were randomized to imatinib
+interferon abhaphs cytarabine. Crossover to
+imatinib was allowed no response by 6 mo or major
+cytogenetic response by 12 mo,
+
+Results: Assessing the matin arm after a median of
+yearsof followup, the complete cytogenetic response
+rate was 83% Among patents who attained a major
+molecular response ater 18mo of matin therapy, the
+vera survvalat 10 yearswas 93% and freedom from
+(OLelated deaths was 100%.
+
+Concasion: This year update of RIS demonstrates
+the efcac and safety of matin as fst-ine therapy
+for CML patients

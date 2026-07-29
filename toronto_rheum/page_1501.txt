@@ -1,0 +1,83 @@
+RH7 Rheumatology Toronto Notes 2025
+
+Seropositive Rheumatic Disease
+
++ diagnosis vs. classification in rheumatology
+«= diagnostic criteria are selected for sensitivity as opposed to specificity and thus may misdiagnose some
+cases
+= classification criteria are developed for specificity so well-defined cases can be studied in clinical trials
+= modern classification criteria are more sensitive and specific for diagnostic use in studies of earlier
+disease
+«+ seropositive arthropathies are characterized by the presence of a serologic marker such as positive RF or
+ANA
++ asmall subset of the vasculitides (i.e. the small vessel ANCA-associated vasculitides) has a measurable
+serological component, but they are often considered a separate entity from seropositive disease by experts
+
+Table 11. Autoantibodies and Their Prevalence in Rheumatic Diseases
+
+Autoantibody Disease Healthy Controls Comments
+RF RABO% 5.25% Serologic hallmark of RA
+550% ‘Autoantibodies directed against Fc domain ofgG
+SLE20% Sensitivein RA (can be negative early in disease course)
+
+“RF isassociated with more aggressive joint disease and extra-articuar
+features (e.g. nodules)
+
+May bepresentin ANA-posiive diseases, often in lower titre
+Nonspecific; maybe present in, TB, hepatitis C, silicosis, sarcoidosis
+
+Anti-cCP RABO% Specific for RA(94-98%)
+May be useful in early disease and to predict persistent anderosive disease; can
+occur before inical disease becomes apparent
+Associated with increased extra-articular RA mantestations
+
+ANA SLESB% Hightitres :640<5% Ab against nuclear components (DNA, RNA, histones, centromere)
+MCTD 100% Lowtitres 140 Sensitive but not specific for SLE
+$540-70% Upto 30% Given high alse posiiverate- only measure when high pre-test probability
+
+CREST syndrome 60-80% Prevalence of non-disease- of CID
+(Often seen inother CTDs) related ANArises with age Given its high sensitivity, a negative ANA can help to rule out SLE
+
+‘Anti-dsDNA SLE5O-70% O% Specific for SLE (95%)
+Levels can correlate with disease activity (ve. SLE flare)
+Anti-Sm SLE<30% % Specific butnot sensitivefor SLE
+
+Doesnot correlate withSLE disease activity
+I positive, willremainpostive through disease course
+
+Anti-Ro (5A) $540.95% 0.5% Senin
+$s 21% ‘Nso seen insubacute cutaneous SLE (74%)
+SUE32% May bethe only Ab presentin ANA negative SLE
+AMIS Presence in pregnancy inreasesrisk of having achildwith neonatal pus
+syndrome and congenital heart block
+Anti-La (658) 540% 0% Usually occurs withant-Ro
+SLETO Specific for Sand SLE when anti-Ro is also positive
+Increases risk of having a child with neonatal lupus syndrome
+Antiphospholipid (LAC, APS 100% 5% By definition, present inAPS
+aCLA, aB26P) SLE3T-40% Onl smal subset of SLE patients develop clinical syndrome of APS
+
+Ht positive, will oftengeta false positive VORL test
+
+Anti-Histone Drug-induced SLE95% 0% Highly specific for drug-induced SLE
+SLE30-80% %
+Ant-RNP- CTD 20% High titres presentin MCTD; presentin many other CTDs (especially SLE)
+SLE
+‘Anti-Centromere Limited SSe(CREST)>80% 0% Specific for CREST, limited cutaneous variant systemic sclerosis
+‘Anti-Topoisomerase! —_Difluse SSc26-76% 0% Specific tor SSe
+(ormertyScl-70) ‘Associated with diffuse cutaneous SSc
+Increased risk for interstitial ung disease inSSc
+Anti-Jot PM DMM. % Less frequent for DMM
+‘Associated with interstitial lung disease and anti-synthetase syndrome
+ANCA Active GPA 90% % Specific 80-95% for GPA
+MPA25% Sensitivity can vary between moderate to high depending on technique and
+EGPAKS% timing of sample. Enzyme-linked immunosorbent assay (ELISA) method (ant-
+R3)is more specific than immunofluorescent technique (IF)
+p-ANCA GPA10% 0% Nonspecific and poor sensitivity (found in erative clits, PAN, microscopic
+MPA60-80% polyangitis, GPA, rapidly progressive gomerulonepritis. ELISA method
+EGPA30-40% (enti-MPO)ismore specific than IF
+Anti-Mi2 DMM15.20% Specific butnot sensitive (not available in all centres)
+‘AbAgainst RBCs, WBCs, SLE Perform DAT, test Hb reticulocyte leukocyte, platelet count, andantiplatelet
+orPlatelets Bs
+‘Anti-Mitochondria Primary biliary cholangitis 0% Sensitiveand spectic
+
+Note: some individualsin the normal population test positive for RF andlor ANA, but donot have the concition iste above

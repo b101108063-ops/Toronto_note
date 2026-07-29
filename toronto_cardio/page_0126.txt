@@ -1,0 +1,59 @@
+C36 Cardiology and Cardiac Surgery
+
+Table 11. Complications of MI
+
+Complication Etiology Presentation Therapy
+‘Archythmia See Arrhythmias, C19
+1 Tachycardia Sinus, AFi, VT, VFib Fist 48h
+2. Bradycardia Sinus, AV block Fist 48h
+Myocardial Rupture
+1.LVfree wall Transmural infarction Surgery
+2. Papillary mUscle (> MR) Surgery
+3. Ventricular septum (+ VSD) Surgery
+Shock/CHE Infarction or aneurysm Inotropes, intra-aortic balloon pump
+Post-infarct Angina Persistent coronary stenosis ‘Aggressive medical therapy
+Multvessel disease PO or CABG
+Recurrent MI Reocclusion Anytime ‘Aggressive medical therapy
+Pd or CABG
+Thromboembolism Muli tombs Anticoagulation
+Pericarditis Inflammatory 1d ASA
+Dressler’s Syndrome Autoimmune 28wk
+
+Treatment Algorithm for Acute Coronary Syndrome
+
+MUST BE
+
+PERFORMED
+IMMEDIATELY
+
+v MUST BE
+PERFORMED
+IMMEDIATELY
+
+= MUST BE
+PERFORMED
+IN LESS THAN
+10 MINUTES:
+
+Figure 41. AHA ACLS acute coronary syndrome algorithm
+
+‘Adapted from: Jeffery Media Productions 2016. Amsterdam A, Wenger NK, BrindisRG, etal. 2014 AHAIACC guideline forthe management of patients with nonST-clevatin acute coronary
+
+syndromes. Crain, 2014 Jan :rR-0000000000000134
+
+Toronto Notes 2025
+
+Treatment of NSTEMI
+
+BEMOAN
+Blocker
+
+Enoxaparin
+
+Contraindications to ntrates: severe aortic
+stenosis, hypertrophic cardiomyopathy,
+suspected right ventricular infarct,
+hypotension, marked bradycardia
+
+or tachycardia, and recentuse of
+phosphodiesterase 5 inhibitors

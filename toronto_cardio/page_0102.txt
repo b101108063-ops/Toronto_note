@@ -1,0 +1,112 @@
+C2 Cardiology and Cardiac Surgery
+
++ short P-R interval (<120 msec)
+= pre-excitation syndrome (delta wave: upsloping of the first part of the QRS complex) due to accessory
+pathways
+«= low atrial rhythm, P waves inverted in II, III, and aVF
+
+QRS COMPLEX
+* represents ventricular contraction
+rate: check if R-R interval matches the P-P interval
+amplitude: check for hypertrophy (see Table 2, C8)
+narrow QRS (<120 msec) means that the His-Purkinje system is being used
+wide QRS (>120 msec) means that the His-Purkinje system is being bypassed or is diseased
+= BBB, VT, ventricular hypertrophy, cardiomyopathy, WPW, ectopic ventricular beat, hyperkalemia, or
+drugs (e.g. tricyclic antidepressants, antiarrhythmics)
+Q wave: the first downward deflection of the QRS complex
+« significant Q wave (>40 msec or >1/3 of total QRS amplitude) indicates myocardial necrosis (new or old)
+Rand S wave abnormalities typically show pathology in terms of BBB or intraventricular abnormalities
+
+ST SEGMENT
++ located between QRS complex and the beginning of T wave
+= corresponds to the completion of ventricular depolarization
++ normally at the same level as baseline (T-P segment)
++ ST elevation: see Infarction, C9
++ ST depression: ischemia
+= ischemia that causes ST depression can result in myocardial damage (NSTEMI)
+= lateral ST depression (leads I, aVL, V5, V6) may actually indicate a STEMI in the right heart
+= ST depression may be nonspecific, or associated with remote MI or ischemia
+
+T WAVE
++ repolarization phase of ventricles (repolarization of the atria is obscured by the QRS complex)
++ typically positive (except in aVR and V1) on ECG but normal isolated negative T waves may be present
+(especially in V1 and V2)
++ T wave variation in consecutive leads may indicate pathology
+= inversion: BBB, ischemia, hypertrophy, drugs (e.g. digitalis), pulmonary embolism (lead III as part of
+S1Q3T3 sign)
+= elevation: infarction (STEMI, Prinzmetal, hyperacute), hyperkalemia (wider, peaked)
+= flattened: hypokalemia, pericarditis, drugs (e.g. digitalis), pericardial effusion
+flat T waves are nonspecific with no clinical significance (common)
+= variations: T wave alternans; beat-to-beat variations due to PVC overlap (R on T phenomenon which
+may precipitate VT or VFib)
++ appropriate T wave discordance: in BBB, T wave deflection should be opposite to that of the terminal QRS
+deflection (i.e. T wave negative if ends with R or R} positive if ends with S)
+«= inappropriate T wave concordance suggests ischemia or infarction
+
+Q-T INTERVAL
++ duration of ventricular depolarization plus repolarization; often difficult to interpret
+* corrected QT (QTc) corrects for the repolarization duration (since QT interval normally shortens with
+increased HR)
+= QTc= QT + VRR (Bazett’s formula. NOTE: Bazett formula is inaccurate at rapid rates (e.g. >100 bpm))
++ normal QTc is 360-450 msec for males and 360-460 msec for females
+= increased (>450 msec for males and >460 msec for females): risk of Torsades de Pointes (lethal
+tachyarrhythmia; rare if <520 msec)
++ genetic long QT syndrome (often a channelopathy)
++ drugs; antiarrhythmics (classes I and III), antipsychotics (haloperidol, ziprasidone),
+antidepressants (citalopram), antibiotics (erythromycin, azithromycin)
++ electrolytes: low Ca°*, low K*, low Mg>*
++ others: hypothyroidism, hypothermia, cardiomyopathy
+= decreased (<360 msec): risk of VFib (very rare)
++ electrolytes: high Ca
++ drugs: digoxin
++ others: hyperthyroidism
+
+U WAVE
++ origin unclear but may be repolarization of Purkinje fibres or delayed/prolonged repolarization of the
+myocardium
+more visible at slower heart rates
+deflection follows T wave with <25% of the amplitude
+variations from norm could indicate pathologic conditions
+= prominent (>25% of T wave): electrolyte (low K*), drugs (digoxin, antiarrhythmics)
+«= inverted (from T wave): ischemia, volume overload
+
+Toronto Notes 2025
+
+Insignificant @ Wave
+Septal depolarization by the left bundle
+‘Seen in leads II Il, VL, V5, and V6
+<40 msec
+
+Q wave <1/3 of the total QRS amplitude
+
+Differential Diagnosis of ST Segment
+Changes
+
+‘ST Elevation ~1 HELP A PAL
+Ischemia with reciprocal changes
+Hypothermia (Osborne waves)
+Early repolarization (normal variant, need
+old ECGs to confirm)
+
+)
+
+Post-M
+
+Acute STEM
+
+Prinzmetal's (Vasospastic) angina
+Acute pericarditis (diffuse changes)
+Left/right ventricular aneurysm
+
+‘ST Depression - WAR SHIP
+WPW syndrome
+
+Acute NSTEML
+
+RBBB/LBBB
+
+STEMI with reciprocal changes
+Hypertrophy (LVH or RVH) with strain
+Ischemia
+
+Post- Mi

@@ -1,0 +1,150 @@
+RU Respirology
+
+Inhaled Long-Acting Therapies
+
+Self-Management Education + Smoking Cessation +
+Exercise and Active Lifestyle + Vaccinations + Short-Acting
+Bronchodilator prn
+Lung Function a
+Impairment
+Symptoms (CAT) 210
+Dyspnea(mMRC) 1
+Early Diagnosis
+(Spirometry) +
+Prevention
+
+> Bonnie Tang 2012
+
+©
+
+Cassie Hillock-Watling 2022 after
+
+©
+
+Figure 10. Guidelines for COPD management
+
+‘Adapted rom: Canadian Thoracic Society Cinical Practice Guideline on pharmacotherapy n patents with COPD ~ 2019 update of evidence. Can J Resp CritCare Seep Med 2019; 34, 210-232
+
+Acute Exacerbations of COPD
++ definition
+= sustained (>48 h) worsening of dyspnea, cough, or sputum production, often leading to an increased
+use of rescue medications
+= in addition, defined as either purulent or non-purulent (to predict need for antibiotic therapy)
++ etiology: viral URTI, bacteria, air pollution, CHF, PE, MI
++ management
+= ABCs, consider NIV early if high CO: and/or reduced pH
+On: target 88-92% SaO: for CO: retainers
+bronchodilators by MDI with spacer or nebulizer
+SABA + anticholinergic, e.g. salbutamol and ipratropium bromide via nebulizers
+systemic corticosteroids: oral prednisone (if absorption issue can use IV methylprednisolone)
+antibiotics for purulent COPD exacerbations
+patients with no risk factors for resistant organisms: any of doxycycline/macrolide/amoxicillin/etc.
+patients with risk factors for resistant organisms: amoxicillin/clavulanic acid or respiratory
+fluoroquinolone
+= post exacerbation: rehabilitation within 2 wk if possible
++ ICU admission
+« for life-threatening exacerbations
+«= ventilatory support
+= non-invasive: NIPPV (BiPAP)
+= conventional mechanical ventilation
+
+Prognosis in COPD
++ prognostic factors
+= frequency and severity of acute exacerbations is the single best predictor
+= lung function tests and mMRC dyspnea scale add value
+= development of hypoxemia, hypercapnia, or cor pulmonale portend a poor prognosis
++ Syrsurvival
+= FEVi <1 L=50%
+= FEV: <0.75 L = 33%
++ BODE index for risk of death in COPD
+= greater score = higher probability the patient will die from COPD; score can also be used to predict
+hospitalization
+= 10 point index consisting of four factors:
++ Body mass index (BMI): <21 (+1 point)
++ Obstruction (FEV:): 50-64% (+1), 36-49% (+2), <35% (+3)
++ Dyspnea (mMRC scale): walks slower than people of same age on level surface, stops occasionally
+
+(+1), stops at 100 yards or a few minutes on the level (+2), too breathless to leave house or breathless
+
+when dressing/undressing (+3)
++ Exercise capacity (6 min walk distance): 250-349 m (+1), 150-249 m (+2), <149 m (+3)
+
+Toronto Notes 2025
+
+PulmonaryDisease (COPD): ASystematc Review and
+Network Meta-Analysis
+
+Cochrane DB ys Rev 2018; CD012620
+
+Study: Cochranesystematic review of 9 studies
+Population: 10131 participants with moderate to
+severe COPD,
+
+Intervention: Four diferent groups of inhalers.
+LABULAMA combination, ABAACS combination, LAMA
+and LBA).
+
+Outcomes: COPDexacebations {moderate to severe
+and severe) symptomand qualiy-o-ife scores, safety
+‘outcomes, and lung function
+
+Result: LABA/LAMA combination therapy is most
+effective in reducing COPD exacerbations, followed
+by LAMA in bigh-sisk and lw -sk populations, LABA/
+LAMAdecteases moderate-to sever exacerbations
+compared to LABWICS(HRO 86; 95% credible interval
+(Cr) 076-0.99, LAMA (HRO.8, 95% Cr 078100.99),
+and ABAin high tsk populations R070, 95% Cx
+061-080), LAMA decreases moderatetosevere
+exacerbations compared to LABAinhigh- risk HR. 80,
+95% (110,710.88) and lows populations (R07,
+$55 (10.78-0.97), ABALAMA decreases severe
+exacerbations compared to LABAICS (HR0.78; 95%
+110.64-0:93 and LABA (HRO.64; 95% C0 51-0.81)
+inhigh-isk populations. There was ageneraltrend of
+the combination therapies having greater improvement
+insymptomand quality of itescores compared to
+monotherapes.ABNICSwasthelowestranked for
+pneumonia serious adverse eventsin high-risk and
+lows populations ABNICSincreases the od of
+fpeumonia compared to LAMA/LABA (0 1.68; 95% Cr
+4120-244), AMA R178; 95% Cl 1332.39), 1 ABA
+{050,955 11117-92) The mean dference in
+Jung function for LABA/AMA versus LABA nigh sik
+population exceeded the minimal clinkalyimportant
+difference mean diference013L: 95% Cl 0100.15)
+Conclusions ABW/LAMA combination therapy s
+most efective in reducing COPD exacerbations, LAMA-
+containing therapies may be superior to therapies
+without LAMA at reducing COPD exacerbations.
+Combination therapies maybe more effective than
+‘monotherapies for improving symptoms and qual of
+Me scores, Therapies that contain IS are associated
+with an increased risk of pneumonia, Themean
+Aierence nung function when comparing LABALAMA
+versus LABAis significant,
+
+Prevalence of uimonaryEmbolism Anong Patients
+with COPD Hospitalized with Acutely Worsening
+Respiratory Symptoms
+
+JAMA, 202% 325(1:58-68
+
+Purpose: To determine the prevalence of pulmonary
+embolism PE) inpatients with COPD admitted tothe
+hosptalforacatey worsening respiratory symptoms
+Methods: Maticenter cross-sectional study with
+raspectve follow-up conducted in 7 French hospitals,
+predefined pulmonary embolism diagnostic algorithm
+based on Geneva score, D-dimer evel, and spiral
+computed tomographic pulmonary angiography pus
+leg compression ultrasound was applied within 4B of
+admission; alpatients had 3-month folow-up. Patents
+were ected from January 2014to May 2017 and the
+final date of follow-up was August 2,207
+Condusion: Among patients with cronicobstructie
+pulmonary disease ated to thehosital with an
+cite worsening of respiratory symptoms, pulmonary
+embolism was detected in 5.9% of patients using a
+‘redefined diagnostic algorithm.
+

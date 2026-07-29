@@ -1,0 +1,106 @@
+R29 Respirology
+
+Neoplasms
+
+Lung Cancer
+« see General and Thoracic Surgery, GS14
+
+Approach to the Solitary Pulmonary Nodule
+
+« see Medical Imaging, Lung Abnormalities, MI17
+«see General and Thoracic Surgery, GS13
+
+Sleep-Related Breathing Diso
+
+Hypoventilation Syndromes
+
+Definition
++ group of syndromes characterized by hypoventilation during sleep, though daytime hypercapnia may also
+e a feature
+
+superimposed sleep apnea may be present
+
+categories of hypoventilation syndromes include: medical disorders, lung parenchymal or airway disease
+(typically severe), chest wall disorder (deformity such as kyphoscoliosis), neurologic disorder (brainstem
+lesions), respiratory muscle weakness (neuromuscular disease, myopathy), medications (opiates and
+other sedatives), obesity-hypoventilation syndrome (Pickwickian syndrome: BMI >30 kg/m? and no other
+cause of hypoventilation identified), congenital central alveolar hypoventilation syndrome, idiopathic
+hypoventilation syndrome
+
+Treatment
+
++ management of the underlying condition
+
++ usually nocturnal PAP therapy (frequently BiPAP, which delivers ventilation in addition to airway
+splinting)
+
+Sleep Apnea
+
+Definition
++ episodic decreases in airflow during sleep
+. quantitatively measured by the Apnea-Hypopnea Index (AHI) = # of apneas and hypopneas per hour of
+sleep
++ sleep apnea generally accepted to be present if AHI 25 events/h
+= AHI: Mild OSA 5-15 events/h, Moderate 15-30 events/h, Severe >30 events/h
+
+Classification
+
++ obstructive sleep apnea (OSA)
+
+= caused by transient, episodic obstruction of the upper airway
+
+= absent or reduced airflow despite persistent respiratory effort
+
+central sleep apnea (CSA) (see Neurology, N49)
+
+= hypercapnic CSA caused by transient, episodic decreases in CNS drive to breathe, typically seen in
+patients with sleep hypoventilation syndromes (see Hypoventilation Syndromes)
+
+= hypocapnic CSA, most commonly Cheyne-Stokes breathing, typically seen in patients with congestive
+heart failure and sometimes stroke; characterized by a crescendo-decrescendo pattern of alternating
+apnea and hyperpnea
+
+* some patients exhibit a combination of obstructive, central, and mixed apneas (sometimes referred to
+as “complex sleep apnea”). Typically this involves ventilatory overshoot following an obstructive apnea,
+resulting in hypocapnia, loss of respiratory drive, and consequently a central apnea
+
+SLEEP TESTING
+
+Polysomnography
+
++ sleep study, usually in-laboratory with technologist in attendance
+
++ evaluates sleep stages and arousals (using EEG, EOG, EMG), airflow, ribcage and abdominal movement,
+ECG, Sa0:, limb movements, snoring, body position, and video recording; some labs do have seizure
+montage
+
+Toronto Notes 2025
+
+Normal Respiratory Changes during Sleep
+Tidal volume decreases, leading to
+decreased minute ventilation
+
+PaCO; increases (due to decreased minute
+ventilation)
+
+Pharyngeal dilator muscles relax causing
+increased upper airway resistance
+
+‘Apnea: reduction in airflow 290% from
+baseline, lasting for 210 5
+
+Hypopnea: reduction in airflow 230% from
+baseline, lasting for 210 s, associated with
+‘oxygen desaturation 23% or EEG arousal
+Hyperpnea: period of increased ventilation,
+typically in the context of resumption in
+breathing, following an apnea or hypopnea
+Obstructive apnea: absent airflow despite
+respiratory effort, due to upper airway
+occlusion
+
+Central apnea: absent airflow, due to
+absent or reduced respiratory effort
+
+Mixed apnea: absent airflow, with features
+of both central and obstructive events

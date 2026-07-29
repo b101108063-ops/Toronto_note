@@ -1,0 +1,105 @@
+P85 Pediatrics
+
+Clinical Features
++ edema
+= often first sign; detectable when fluid retention exceeds 3-5% of body weight
+= starts periorbital and often pretibial > edematous areas are white, soft, and pitting
+= gravity dependent: periorbital edema + and pretibial edema t over the day
+= anasarca may develop (i.e. marked periorbital and peripheral edema, ascites, pleural effusions, scrotal/
+labial edema)
+* non-specific symptoms such as irritability, malaise, fatigue, anorexia, or diarrhea
+«+ decrease in effective circulating volume (e.g. tachycardia, HTN, oliguria, etc.)
++ foamy urine is a possible sign of proteinuria
+
+Investigations
++ urine
+= urine dipstick (3 to 4+ proteinuria, microscopic hematuria) and microscopy (oval fat bodies, hyaline
+casts)
+« first morning urine protein/creatinine ratio (>300 mg/mmol)
++ blood work
+= diagnostic: hypoalbuminemia (<25 g/L), hyperlipidemia/hypercholesterolemia (total cholesterol >5
+mmol/L)
+secondary: electrolytes (hypocalcemia, hyperkalemia, hyponatremia), renal function (t BUN and C1),
+coagulation profile (+ PTT)
+= appropriate investigations to rule out secondary causes: CBC, blood smear, C3/C4, ANA, hepatitis B/C
+titres, ASOT, HIV serology, etc.
+consider renal biopsy if: HTN, gross hematuria, + renal function, low serum C3/C4, no response to steroids
+after 4 wk of therapy, frequent relapses (>2 in 6 mo), presentation before first yr of life (high likelihood of
+congenital nephrotic syndrome), presentation >12 yr (rule out more serious renal pathology than MCD)
+
+Management
+
++ MCD: oral prednisone 2 mg/kg/d (or equivalent) for up to 12 wk > varicella status should be known before
+
+starting (prednisone can significantly exacerbate infection)
+
+consider cytotoxic agents, immunomodulators, or high-dose pulse corticosteroid if steroid resistant
+
+symptomatic
+
+= edema: salt and fluid restriction, possibly diuretic (avoid if significant intravascular depletion);
+
+furosemide + albumin for anasarca
+
+hyperlipidemia: generally resolves with remission; limit dietary fat intake; consider statin therapy if
+
+persistently nephrotic
+
+. pypoalbum nemia: IV albumin and furosemide not routinely given; consider if refractory edema
+abnormal BP: control BP; fluid resuscitation if severe intravascular depletion; ACEI or ARBs for
+
+persistent HTN
+
+diet: no added salt; monitor caloric intake and supplement with Ca** and vitamin D if on corticosteroids
+
+daily weights and BP to assess therapeutic progress
+
+secondary infections: treat with appropriate antimicrobials; antibiotic prophylaxis not recommended;
+
+pneumococcal vaccine at diagnosis and varicella vaccine after remission; varicella Ig + acyclovir if exposed
+
+while on corticosteroids
+
+secondary hypercoagulability: mobilize, avoid hemoconcentration due to hypovolemia, prompt sepsis
+
+treatment, consult Thrombosis specialist for initiation of anticoagulation therapy if thrombi develop
+
+Prognosis
+
++ generally good: 80% of children respond to corticosteroids
+
++ up to 2/3 experience relapse, often multiple times; sustained remission with normal kidney function
+usually by adolescence
+
+complications: + risk of infections (spontaneous peritonitis, pneumonia/empyema, cellulitis, sepsis);
+hypercoagulability due to decreased intravascular volume and antithrombin III depletion (PE, renal
+vein thrombosis); intravascular volume depletion, leading to hypotension, shock, renal failure; anasarca;
+adverse effects on growth; drug side effects
+
+Toronto Notes 2025
+
+Daily protein excretion canbe estimated
+froma random urine protein/creatinine
+ratio
+
+Side Effects of Long-Term Steroid Use
+
+GOOD CUSHINGS
+Growth impairment
+Obesity
+Osteoporosis
+Dorsal hump
+
+Changes in behaviour
+Ulcers
+
+Striae
+
+Hypertension
+
+Immunosup pression; infection
+Needto eat
+
+Glucose elevation
+
+Salt andwater retention

@@ -1,0 +1,58 @@
+ror Cardiology and Cardiac Surgery Toronto Notes 2025
+
+*ADOAC is preferred over warfarin
+
+? Therapeutic options include ASA8!mg daly alone,
+clopidogrel 75 mg daly alone, or ASA 81 mg dailyin
+combination with ether clopidogrel 75 mg daly,
+ticagrelor 60 mg BD, or rvaroxaban 2.5mg BID
+(Gepending on cincal circumstance)
+
+Figure 28. CHADS-65: CCS algorithm for oral anticoagulation therapy in
+
+Approach to Rate and Rhythm Management of AF
+
+C_Paroxysmal AF ( PersistentAF _»)
+
+Low recurrence
+burden
+
+Figure 29. Approach to management of AFib
+
++ surgical management in AFib ablation
+= sutured lesion
+
++ Cox-maze III: definitive surgical treatment of chronic AFib; indicated in patients who have failed
+maximal medical therapy and have had embolic events or are symptomatically compromised by
+AFib; 90-95% postoperative freedom from AFib; less likely to be successful in patients with large
+left atria (>5 cm) or with longstanding AFib (>5 yr)
+
++ modified maze and pulmonary vein isolation: more limited patient sets but takes less time to
+perform than classical maze procedure; selected cases can be done off bypass with concomitant
+OPCAB; 60-75% postoperative freedom from AFib
+
+= energy lesion
+
+¢ cryoablation: see Catheter Ablation, C29
+
++ radiofrequency ablation: see Catheter Ablation, C29
+
+* current experimental trials include use of laser ablation, microwave ablation, and ultrasound
+ablation
+
+6. AV Nodal Re-Entrant Tachycardia
+re-entrant circuit using dual pathways (fast conducting B-fibres and slow conducting a-fibres) within or
+near the AV node; often found in the absence of structural heart disease TAT
+= cause is commonly idiopathic, although familial AVNRT has been reported © Laue. smi 2012
+sudden onset and offset with patients often describing “neck pounding” and “shirt flapping”
+fast regular rhythm of 150-250 bpm seme? . Prins Figure 30, AVNRT
+usually initiated by a supraventricular or ventricular premature beat
+AVNRT accounts for 60-70% of all paroxysmal SVTs
+retrograde P waves may be seen but are usually obscured lost in the QRS complex
+treatment
+= acute: Valsalva maneuver or carotid sinus pressure, adenosine is first choice if unresponsive to vagal
+maneuvers; if no response, try metoprolol, digoxin, diltiazem, electrical cardioversion if patient
+hemodynamically unstable (hypotension, angina, or CHF) ,
+« long-term: Ist line radiofrequency ablation (>98% cure rate and < < 1% complication rate), B-blocker, Hemel BESS Made Simple fo further
+diltiazem, digoxin; 2nd line flecainide, propafenone mechanism {ywrw.ecgmadesimple.com)
+

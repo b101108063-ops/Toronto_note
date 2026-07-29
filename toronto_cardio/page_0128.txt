@@ -1,0 +1,223 @@
+C38
+
+Cardiology and Cardiac Surgery
+
+Table 12. Choice of Revascularization Procedure
+
+Pe
+
+‘Advantages
+
+Factors favouring
+Revascularization Procedure
+
+Less invasive technique
+Decreased periprocedural morbidity and mortality
+‘Shorter periprocedural hospitaization
+
+Ginical characteristics,
+Severe comorbidity
+
+Advanced ageitraityireduced life expectancy
+
+Restricted mobilty and conditions that affect rehabilitation
+‘Anatomical and technical aspects
+
+MUD with SYNTAX score <23
+
+‘Anatomy likely resulting in incomplete revasculaization with
+‘CABG due to poor quality or missing conduits
+
+Severe chestdeformation or scoiasis
+
+Sequelae of chest radiation
+
+Porcelainaorta
+
+Greater ability toachieve complete revascularization
+Decreased need for repeated revascularzation procedures,
+
+Clinical characteristics
+
+Diabetes
+
+Reduced LV function(EF <35%)
+Contraindications to DAPT
+
+Recurrent difusein-stent restenosis
+‘Anatomical and technical aspects
+
+MVDwith SYNTAXscore 223,
+
+‘Anatomy lkely resultingin incomplete revascularization withPCI
+Severely calcified coronary artery lesions limiting lesion
+expansion
+
+Need or concomitant interventions
+
+‘Ascending aortic pathology with indication for surgery
+Concomitant cardiac surgery
+
+Note: Table reflects guidelines fom the European Society of Cardiology that have been taught to Canadian cardiac surgery resents
+
+Table 13. Conduits for CABG
+
+Graft Occlusion/Patency Rate Considerations
+
+‘Saphenous Vein Grafts (SVG) ‘At 10 yr:50% occluded, 25% stenotic, 25% Used to be commonly used, but arterial conduits have proven
+‘angiographically normal tobe superior
+
+Left Internal 90.95% patency at15yr Considered the standard conduit for CABG
+
+Thoracic/Mammary Artery Excellent patency
+
+(uTALIMA) ‘Amos alway usedto bypass LAD
+
+Right Internal Thoraci/Mammary Artery
+
+(RITAMRIMA)
+Radial Artery ree graft)
+
+Right Gastroepiploic Artery
+
+Complete Arterial Revascularization
+
+Redo Bypass Grafting
+
+Pedided RIMA patency comparable to LIMA
+Lower rate of ree RIMA patency
+
+85.95% patency at5yr
+
+80.80% patency at 5yr
+
+Improved event-free survival (angina, MI)
+Decreased late cardiac events
+
+Used in bilateral TAIMA grafting
+
+Patients receiving bilateral ITAS/IMAs have lessriskof recurrent
+angina, late, angioplasty
+
+Prone to severe vasospasm postoperatively dueto vascular
+muscular wall
+
+Primardy sedas anin situ graf to bypass the RCA
+
+Use limited becouse ofthe fragile quay ofthe artery, technical
+issues, increased operative time laparotomy incision) and
+incisional dscomfort with associated ileus
+
+For younger patients (<60 yo)
+Preferred due to longer term graft patency
+
+Indications for redo CABG: symptomatk patients (disabling
+angina) who have failed medical therapy, have stenotic vessels,
+have viable myocardium, have suitable distal targets
+Riskfactorsfor edo CABG: poor control of HTN
+hypercholesterolemia/smoking, normal LV, 1or2 vessel disease,
+rouse of IMA/ITAin initial CABG, incomplete revascularzation in
+intial CABG, young age
+
+Operative mortality 2-3 times higher than first operation
+
+10% perioperative Ml rate
+
+Reoperationundertaken only in symptomatic patients who
+
+have failed medical therapy and in whom angiography has
+documented progressionof the disease
+
+Increased risk withtedo-sternotomy secondary to adhesions
+‘which may resutinlaceraton to aorta, RV, IMAITA, and other
+bypass gras, uncontrollable hemorrhage, arterial bleeding and
+VFib, venousbleeding, or failure to arrest heart
+
+‘Adapted trom: Cikwe J, Beddow E,GlenilleB. Cardiothoracic Surgery, Ited. Oxford, UK: Oxford UP, 2008.
+
+Operative Issues
+
++ LV function is an important determinant of outcome for all heart diseases
++ patients with severe LV dysfunction usually have poor prognosis, but surgery can sometimes dramatically
+
+improve LV function
+
++ assess viability of non-functioning myocardial segments in patients with significant LV dysfunction using
+delayed thallium myocardial imaging, stress echo, positron emission tomography (PET) scanning, or MRI
+
+Toronto Notes 2025
+
+Percutaneous Coronary Intervention Versus
+Coronary htery Bypass Grafting in Patient with
+Thre-vesselorLeftMain Coronary tery Disease
+Lancet 2019;394.1325-34
+
+Purpose: Report 10yral-cause moray resus sa
+‘0-yrfollow-apto the 209 SYNTAX ia
+
+Methods: du patents with established left main CAD
+cetvee-essel coronary dseasewere randomized to
+receive eter PCL or CABGina rat Patients with
+
+2 pric istry of MI, PC or CABG were exuded The
+primary study endpoint was 10 al-cause moray.
+Results: 10yall-cause moray rates were 28% and
+24forPCL-and CABG treated patients respectively
+(hazard ratio 1.19; 95% 0,99 0143; 0.066) In
+subgroup analysis, 10yrall<ause mortality was 28%
+and 27%in PCl and CABG patents with thee-vessel
+disease, respectively (hazard ratio 42; 95% C1 1.1110
+4.81). The same primary endpoint occured inpatients
+withleftmain coronary disease atarate of 27% and
+‘28%in PCI and CABG patients, respectively (hazard
+ratio 0.82; 06910122; P=0.023),
+
+Conclusions: CABG provided a significant alk-cause
+survival beneftin patients with three-vessel disease,
+Compared to PClin the same population. Thisefect was
+rot observed in patients with ft main CAD ori the
+pooled study sample.
+
+Duration of Dual AntiplateletTherapyFolowing
+Drug -luting Stent Implantation: ASystematic
+Review and Meta-Analysis of Randomized Controlled
+TralswithLongerFallow up
+
+Catheter Cardiovasc inter 201190317
+
+Purpose: Conduct an updated meta-aalsisto
+compare theefcacy and safety of short-term dual
+antiplatelet therapy (-DAPT x. long-termDAPT
+{LOAPT in patents who underwent rugelting stent
+(OES) implantation
+
+Methods: RTs comparing eficacy andlosfety
+cucomes fo dterent DAP durations after coronary
+DESimplantaton were searched in PubMed, CNA,
+Cochrane CENTRAL, EMBASE, Scopus, and We of
+Science. S-DAPT was defined a 12 mo dration of
+aspirin pls PZFT2 receptor inhibtor, wile -DAPT was
+defined asthe same combination for>12 mo duration
+after DES implantation
+
+sts RCTs metal eligi citeriand were
+inuded inthe final meta-analysis. Outcomes of
+interestinclued all cause mortality, cardiac moray,
+myocardalnfarcto, stent tombs, target vessel
+revasclrzation, tok, or major bleeding, Compared
+with LDAPT, S-DAP did not sigcanty increase the
+ratect stent thrombosis (0R 159; 95% 10.710 3.27),
+Ai-causemortaliy, cardiac mortality, target vessel
+revasclrization nd stroke were abo no significantly
+diferent between groups. However, S-DAPT was
+associated with an increased ris of (OR 148; 95% Cl
+410410210 anda lowered risk of major bleeding (OR
+64 95% C10.41100.9,
+
+Conclusions: nthismeta-analsis witha longer
+fol-up time of224mo,SDAPT compared toL-DAPT
+was associated withincreased isk of Mbutlower
+rates of major bleeding No significant differences were
+found fr alk cause mortality, cardiac moray, stent
+thrombosis, target vesselrevascularizaton, or stoke
+

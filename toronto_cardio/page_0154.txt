@@ -1,0 +1,83 @@
+C64 Cardiology and Cardiac Surgery Toronto Notes 2025
+
+Signs and Symptoms
+
+rate of development of pericardial effusion determines clinical presentation
+
+may be asymptomatic or similar to acute pericarditis
+
+classic symptoms: dyspnea on exertion (progressing to orthopnea), chest pain, and/or fullness e
+
+symptoms related to local compression of extracardiac structures may include: nausea, dysphagia,
+hoarseness, hiccoughs; may cause esophageal/recurrent laryngeal nerve/trachea-bronchial/phrenic nerve
+
+irritation Pa \chial breath id
+
++ non-specific symptoms related to compression of related structures or reduced blood pressure and pee eo ee
+secondary sinus tachycardia: cough, weakness, fatigue, anorexia, palpitations, fever (may be associated of the left scapula in pericardial effusion
+with pericarditis) due to effusion compressing left lower
+
++ physical exam findings: bbe of ng
+
+= JVP increased with dominant “x” descent
+
+arterial pulse normal-to-decreased volume; decreased pulse pressure
+
+auscultation: distant heart sounds + rub
+
+Ewart’s sign
+
+often normal in patients without compromise to hemodynamic status; if tamponade present, findings
+can include fatigue, dyspnea, elevated JVP, neck vein distension, edema, pulsus paradoxus, muffled
+heart sounds (in moderate-large effusions). Rarely friction rubs heard (usually appreciated with
+concomitant pericarditis)
+
+Investigations
+ECG: sinus tachycardia, low voltage (should raise concern for effusion with tamponade when present with
+sinus tachycardia; however, not specific for pericardial effusion), flat T waves, electrical alternans (highly
+specific for pericardial effusion (generally with tamponade), but not a sensitive enough sign to exclude
+effusion/tamponade)
+
+= be cautious in diagnosing STEMI in a patient with pericarditis and an effusion as antiplatelets may
+
+precipitate hemorrhagic effusion
+
+CXR: + cardiomegaly with clear lung fields, + rounded cardiac contour
+emergency room: bedside U/S with subxiphoid view showing fluid in pericardial sac
+echo/TTE (procedure of choice): fluid in pericardial sac; assess effusion size and hemodynamic effects, and
+assist in needle placement in pericardiocentesis
+pericardiocentesis: definitive method of determining transudate vs. exudate, identify infectious agents, and
+investigating neoplastic involvement
+CT/CMR: compared with echo, provide greater field of view > enable loculated effusion detection,
+identification of masses or thickening associated with the pericardium, assessment for chest abnormalities
+(however, echo still preferred due to availability/portability/low cost)
+biomarkers: assessment of inflammation markers (e.g. CRP) recommended
+
+Treatment (see Figure 55, C65)
++ triage: based on size, hemodynamic effects (particularly assess for tamponade), inflammatory markers,
+concomitant pathologies > high risk patients should be admitted
+treat underlying etiology (60% of effusions associated with known disease)
+if inflammatory signs are present, or if associated with pericarditis, treat as if pericarditis; if elevated
+markers of inflammation, can try NSA IDs/colchicine/low-dose corticosteroids; if associated with systemic
+inflammation, Aspirin”/NSAIDs/colchicine recommended
+pericardiocentesis or cardiac surgery if: cardiac tamponade, symptomatic moderate-large effusion and
+unresponsive to medical therapy, or unknown bacterial/neoplastic etiology suspected
+= prolonged drainage using pericardiocentesis should also be considered if symptomatic effusion without
+evidence of inflammation or unresponsive to anti-inflammatory agents
+if no inflammation and large, isolated effusion, pericardiocentesis alone may be required (no evidence
+for medical therapy), but recurrences are common
+consider pericardiectomy or pericardial window (subxiphoid or video assisted thoracoscopic) if: re-
+accumulation of fluid, loculated effusion, biopsy required
+follow-up/frequent observation if no evidence/suspicion of:
+
+= tamponade
+
+= bacterial/neoplastic etiology
+
+= elevated inflammatory markers
+
+* associated pathology
+
+= large effusion (>20 mm)
+
++ Note: follow-up based on symptoms, effusion size and evolution, inflammatory markers, etc.

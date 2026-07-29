@@ -1,0 +1,86 @@
+H49 Hematology
+
++ oropharyngeal involvement in 5-10% with sore throat and obstructive apnea
++ extranodal involvement: most commonly GI tract, testes, bone, and kidney
++ CNS involvement in 1% (often with HIV, testicular DLBCL, or >2 extranodal sites)
+
+Investigations
++ CBC
+= normocytic normochromic anemia
+= autoimmune hemolytic anemia rare (more common in CLL)
+= advanced disease: thrombocytopenia, neutropenia, and leukoerythroblastic blood film
+peripheral blood film may show lymphoma cells
+flow cytometry of peripheral blood only iflymphocytosis is present
+biochemistries, HIV, HBV, HCV serologies
+= increase in uric acid
+= abnormal LFTs in liver metastases
+= increased LDH (rapidly progressing disease and poor prognostic factor)
+SPEP and immunoglobulin quantitation (screen for high IgM monoclonal protein and hyperviscosity in
+indolent lymphomas, specifically lymphoplasmacytic lymphoma)
+staging: CT neck, chest, abdomen, pelvis, and BM biopsy
+PET imaging in aggressive lymphomas pre- and post-therapy to ensure post treatment remission
+diagnosed by:
+. iymph node biopsy: excisional biopsy is preferred, core biopsy (FNA is unreliable)
+= BM biopsy: sub-optimal mode of diagnosis as BM is involved in only 30% of high-grade lymphomas
+
+Treatment
++ indolent NHL, localized disease (e.g. stage I or II)
+= radiotherapy to primary site and adjacent nodal areas
+= splenectomy: splenic marginal zone lymphoma
++ goal of treatment in stage III or IV indolent NHL is symptom management
+= watchful waiting
+radiation therapy for localized symptomatic disease
+bendamustine plus rituximab, an anti-CD20 Ab, is superior to CHOP and rituximab (CHOP-R) for
+advanced stage disease
+obinutuzumab (novel anti-CD20 Ab) is superior to rituximab for advanced stage follicular lymphoma
+(GALLIUM Trial)
++ aggressive lymphoma: goal of treatment is curative
+= combination chemotherapy: CHOP is mainstay, plus rituximab if B-cell lymphoma
+« radiation for localized/bulky disease
+= CNS prophylaxis with high-dose methotrexate if certain sites involved (e.g. testes)
+. relapse, resistant to therapy: high dose chemotherapy, autologous SCT, CAR T-cell therapy in second
+relapse
++ highly agressive lymphoma
+«= Burkitt lymphoma: short bursts of intensive chemotherapy; “CODOX-M” chemotherapy regimen also
+often used + IVAC with rituximab
+= CNS prophylaxis and (TLS) prophylaxis
+
+Complications
+hypersplenism
+infection
+autoimmune hemolytic anemia and thrombocytopenia
+vascular obstruction (from enlarged nodes)
+bowel perforation
+(TLS particularly in very aggressive lymphoma); see Tumour Lysis Syndrome, H54
+
+Prognosis
++ follicular lymphoma; Follicular Lymphoma International Prognostic Index is used: age >60; >4 nodal
+areas; >6 cm nodal areas; elevated LDH; Lugano stage III-IV; Hb <120 g/L; high B-2 microglobulin; BM
+involvement
+= based on calculated risk, mean 5 yr survival ranges from 53-91%
+= rarely curative, typically relapsing and remitting course with risk of transformation to aggressive
+lymphoma such as diffuse large B-cell lymphoma
++ diffuse large B-cell lymphoma: The International Prognostic Factor Index is used (5 adverse prognostic
+factors): age >60; Ann Arbor stage (III-IV); performance status (ECOG/Zubrod 2-4); elevated LDH; >1
+extranodal site
+= based on calculated risk, mean 5 yr survival ranges from 26-73%
+= ~40% rate of cure
+
+Toronto Notes 2025
+
+NHL: Associated Conditions
+Immunodeficiency (e.g. HIV)
+Autoimmune diseases (eg. SLE)
+Infections (eg. EBV)
+
+‘Common Chemotherapeutic Regimens
+R-CHOP: cyclophosphamide,
+hydroxydoxorubicin (Adriamycin),
+vincristine (Oncovin®), prednisone
+
+ABVD: adriamycin, bleomycin, vinblastine,
+dacarbazine
+
+BEACOPP: bleomycin, etoposide,
+adriamycin, cyclophosphamide, vincristine,
+procarbazine, and prednisone

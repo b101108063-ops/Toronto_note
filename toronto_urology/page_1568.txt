@@ -1,0 +1,49 @@
+U38 Urology
+
+Investigations
++ SA22specimens, collected 1-2 wk apart
++ hormonal evaluation
+« indicated with abnormal SA (rare to be abnormal with normal SA)
+= testosterone and FSH
+= serum LH and prolactin are measured if testosterone or FSH are abnormal
+genetic evaluation
+= chromosomal studies (Klinefelter syndrome - XXY)
+= genetic studies (Y-chromosome microdeletion, CF gene mutation)
+immunologic studies (antisperm antibodies in ejaculate and blood)
+testicular biopsy
+scrotal U/S (varicocele, testicular size)
+vasography (assess patency of vas deferens)
+
+Treatment
++ assessment of partner
++ lifestyle
+= regular exercise, healthy diet
+= eliminate alcohol, tobacco, and illicit drugs
++ medical
+= endocrine therapy (see Endocrinology, E51)
+= treat retrograde ejaculation
+= discontinue anti-sympathomimetic agents, may start a-adrenergic stimulation (phenylpropanolamine,
+pseudoephedrine, or ephedrine)
+= treat underlying infections
++ surgical
+= varicocelectomy (if indicated)
+= vasovasostomy (vasectomy reversal) or epididymovasostomy
+= transurethral resection of blocked ejaculatory ducts
++ assisted reproductive technologies (ART)
+= refer to infertility specialist
+sperm washing + intrauterine insemination (IUI)
+in vitro fertilization (IVF)
+intracytoplasmic sperm injection (ICSI) after CF screening of patient and partner in patients with
+congenital bilateral absence of vas deferens
+
+Biateraltesticular | Normal or unilateral
+‘atrophy testicular atrophy
+
++e for spem_| -ve forsperm
+
+‘Abnormal anatomy | Normal anatomy
+
+Figure 23. Infertility workup
+Note: azoospermic patients with normal FSH may be assumed tobe obstructive without a testicular biopsy
+
+Toronto Notes 2025

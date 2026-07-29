@@ -1,0 +1,154 @@
+PS21 Psychiatry
+C. persistent avoidance of stimuli associated with the traumatic event(s), beginning after the traumatic
+event(s) occurred, as evidenced by one or both of the following:
+
+1. avoidance of or efforts to avoid distressing memories, thoughts, or feelings about or closely
+associated with the traumatic event(s)
+
+2. avoidance of or efforts to avoid external reminders (people, places, conversations, activities, objects,
+situations) that arouse distressing memories, thoughts, or feelings about or closely associated with
+the traumatic event(s)
+
+D. negative alterations in cognitions and mood associated with the traumatic event(s), beginning or worsening
+after the traumatic event(s) occurred, as evidenced by two (or more) of the following:
+
+. inability to remember an important aspect of the traumatic event(s)
+
+persistent and exaggerated negative beliefs or expectations about oneself, others, or the world
+
+persistent, distorted cognitions about the cause or consequences of the traumatic event(s) that lead
+
+the individual to blame himself/herself or others
+
+persistent negative emotional state (e.g. fear, horror, anger, guilt, or shame)
+
+markedly diminished interest or participation in significant activities
+
+feelings of detachment or estrangement from others
+
+persistent inability to experience positive emotions
+
+E. marked alterations in arousal and reactivity associated with the traumatic event(s), beginning or worsening
+after the traumatic event(s) occurred, as evidenced by two (or more) of the following:
+
+. irritable behaviour and angry outbursts (with little or no provocation) typically expressed as verbal
+
+or physical aggression toward people or objects
+
+reckless or self-destructive behaviour
+
+hypervigilance
+
+exaggerated startle response
+
+problems with concentration
+
+sleep disturbance (e.g. difficulty falling or staying asleep or restless sleep)
+
+F, duration of the disturbance (criteria B, C, D, and E) is more than 1 mo
+
+G. the disturbance causes clinically significant distress or impairment in social, occupational, or other
+important areas of functioning
+
+H.the disturbance is not attributable to the physiological effects of a substance or another medical condition
+
++ specifiers:
+
+with dissociative symptoms (not attributable to physiologic effects of a substance or a medical
+condition); this could involve either depersonalization (persistent or recurrent experiences of feeling
+detached from, or as if one were an outside observer of one’s mental processes or body) or derealization
+(persistent or recurrent experiences of unreality of surroundings)
+«= with delayed expression: the full diagnostic criteria are not met until 6 mo after the event
+
+vee
+
+- Nay
+
+ay Ren
+
+Epidemiology
+
++ lifetime prevalence in Canada: 9%; F:M = 2:1
+
++ age of onset: mid-late 20s
+
++ risk factors: severity, duration, and proximity to trauma
+
+* most common forms of trauma: unexpected death of someone close, sexual assault, serious illness or injury
+to someone close, physical assault by partner or caregiver
+
++ 75% have another comorbid psychiatric disorder; increased risk of suicide 2-3x
+
++ DDx: bipolar disorder, borderline personality disorder, acute stress disorder (3 d-1 mo after trauma)
+
+Treatment
++ 3stages of trauma recovery; treatment must be appropriate to patient’s stage
+= stage 1 - safety and stabilization: emotional regulation techniques (i.e. breathing, relaxation) to help
+build coping skills, medications for PTSD, manage substance use
+= stage 2 - remembrance and mourning: exposure to traumatic memories and work through distorted
+thoughts, relational patterns, and grief
+= stage 3 - reconnection and integration: exposure therapy, etc. create a new future, new relationships,
+strengthen identity
++ early intervention via psychological support (not de-briefing)
++ psychotherapy: CBT, DBT, supportive, eye movement desensitization and reprocessing (EMDR)
++ biological
+. fst line: fluoxetine, paroxetine, sertraline, venlafaxine XR (50-80% response with residual symptoms
+is common)
+= prazosin (for treating disturbing dreams and nightmares)
+= benzodiazepines (for acute anxiety; use with extreme caution, not recommended acutely post trauma)
+= adjunctive atypical antipsychotics (risperidone, olanzapine)
+
+Prognosis and Complications
+
++ prognosis: 50% of patients with PTSD have complete recovery within 3 mo, symptoms tend to diminish
+with age
+
++ complications: substance use disorder, relationship difficulties, depression, impaired social and
+occupational functioning disorders, personality disorders
+
+Toronto Notes 2025
+
+Criteria for Post-Traumatic Stress
+Disorder
+
+TRAUMA
+
+Traumatic event
+
+Re-experience the event
+
+Avoidance of stimuli associated with the
+trauma
+
+Unable to function
+
+More than a Month
+
+Arousal increased
+
++ negative alterations in cognition and
+‘mood
+
+Psychologica Therapies for Post Traumatic
+
+Stress Disorder in Aduhs: Systematic Reviewand
+Meta-Analysis:
+
+EurJPsychoraumatol 202, 1):1729633
+
+Purpose: To determine the effec sizes ofmanuaized
+therapies for PTSD.
+
+Methods: Systematic review and met-anasis of
+CIs (0-114 that used any defined psychological
+therapy to educe PTSD symptoms in comparison with
+contol coup.
+
+Results: Therewas robust evidence that trauma
+focused CT, aswell as ye Movement Desensitization
+and Reprocessing EMDR), hada cinicaly important
+effect
+
+Condusion: Psychologica therapies are ecommended
+for PISD. Trauma focused CBT and EMDRare
+recommen ded as firstine treatments

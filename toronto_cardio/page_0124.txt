@@ -1,0 +1,72 @@
+C34 Cardiology and Cardiac Surgery Toronto Notes 2025
+
+« STEMI
+after diagnosis of STEMI is made, do not wait for results of further investigations before ©
+implementing reperfusion therapy Newer, more accurate risk quantification
+* goal is to re-perfuse artery: thrombolysis (“EMS-to-needle”) within 30 min or primary PCI (“EMS- scores for UAINSTEMI exist, such as the
+to-balloon”) within 90 min (if available) GRACE Risk Score; however, TIMI is still
+* PCI used most often
+
+— early PCI (<12 h after symptom onset and <90 min after presentation) improves mortality
+vs. thrombolysis with fewer intracranial hemorrhages and recurrent MIs
+
+— primary PCI: without prior thrombolytic therapy, PCI is method of choice for reperfusion
+in experienced centres
+
+— rescue PCI: following failed thrombolytic therapy (diagnosed when ST segment elevation
+fails to resolve below half its initial magnitude after thrombolysis and patient still has
+chest pain)
+
+* thrombolysis
+
+— assuming no contraindications, use if <12 h since symptom onset and primary PCI cannot
+be conducted within 120 min of STEMI diagnosis
+
+— note: benefit of thrombolysis is inversely proportional to time from symptom onset. In
+patients meeting the above criteria, the later the presentation (>3 h), the more one should
+consider using primary PCI instead (depending on clinical circumstances)
+
+Reperfusion Decision*
+
+Time trom FMC to PCI <120 min’
+
+Fibrinolysis
+FMC to needle time <30 h”
+
+Routine Rapid Transfer
+
+Sara reentry
+‘successful FL FMC to PPC! <90 mit
+
+Stategy”
+"Also consider clinical factors suchas symptom duration and presence of contraindication to fibrinolysis
+EMS = emergency medical services; FL= fibrinolysis; FMC= first medical contac; PCI = percutaneous coronary intervention;
+PPCI = primary percutaneous coronary intervention. Guideline based recommendations: strong =" ; weak =#
+Figure 39. Reperfusion strategy in STEMI
+Table 10. Contraindications for Thrombolysis in STEMI
+
+Absolute Relative
+Prior intracranial hemorrhage Chronic, severe, poorly controled HIM
+Known structural cerebral vascular lesion Uncontrotied HTN (s8P>180, BP >110)
+Known malignant intracranial neoplasm Curentanticoagulation
+Significant clased-head or facial trauma (<3 mo) Noncompressible vascular punctures
+Ischemic stroke (<3 mo) Ischemic stroke (23 mo)
+Activebleeding Recentinternal bleeding (<2-4 wh)
+Suspected aortic dissection Prolonged CPR or major surgery (<3 wh)
+Pregnancy
+Active pepticulcer disease
+
+Long-Term Management of ACS
+«+ risk of progression to MI, or recurrence of MI, or death is highest within 1 mo
+
+at 1-3 mo after the acute phase, most patients resume a clinical course similar to that in patients with
+chronic stable coronary disease
+
+pre-discharge workup: ECG and echo to assess residual LV systolic function
+
+drugs required in hospital to control ischemia should be continued after discharge in all patients
+other medications for long-term management of ACS are summarized below
+
+General Measures
+= education
+= risk factor modification

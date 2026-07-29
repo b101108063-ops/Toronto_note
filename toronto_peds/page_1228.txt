@@ -1,0 +1,120 @@
+P32 Pediatrics
+
+Treatment
+
++ non-pharmacological: psychoeducation, behavioural management (e.g. parent training, classroom
+management, social skills training)
+
+pharmacological: 1st line: stimulants (methylphenidate, amphetamines); 2nd line: atomoxetine and
+guanfacine XR; 3rd line: clonidine, bupropion, imipramine
+
+for comorbid symptoms: antidepressants, antipsychotics
+
+psychosocial intervention is first line for children <6, whereas psychosocial intervention plus medication is
+considered first line for children >6
+
+Prognosis
+
++ 70-80% continue into adolescence, but hyperactive symptoms usually abate
+
++ 65% continue into adulthood; secondary personality disorders and compensatory anxiety disorders are
+identifiable
+
+Motor Delay
+
++ see Cerebral Palsy, P87 and Medical Genetics, Duchenne Muscular Dystrophy, MG8
+
+ndocrinology
+
+Antidiuretic Hormone
+
+Diabetes Insipidus
++ see Endocrinology, E22 and Nephrology, NP12
+
+Syndrome of Inappropriate Antidiuretic Hormone
+
+« see Endocrinology, E22 and Nephrology, NP11
+
+Diabetes Mellitus
+
+DIABETES MELLITUS TYPE 1
+« see Endocrinology, E7
+
+Epidemiology
+
++ most common form of DM in children, M=F
+
++ variable prevalence internationally, affects 32 in 100000 children in Canada
+* can present at any age, but bimodal peaks at 5-9 y/o and at 10-14 y/o
+
+Clinical Features
+
++ can present with polyuria (may manifest as nocturia or secondary enuresis), polydipsia, weight loss
+(lack of insulin leading to a catabolic state), polyphagia, perineal candidiasis (younger children), visual
+disturbances, and DKA (30%, with greater incidence in younger children)
+
+Management
++ cornerstone of treatment: family-centred pediatric multidisciplinary team able to provide education and
+support surrounding survival skills, meal plans, and insulin injections
++ lifestyle factors:
+= diet with consistent levels of carbohydrates, avoiding foods with high glycemic index
+= ~60 min aerobic exercise daily, extensive activity may cause prolonged hypoglycemia or hyperglycemia
+= blood glucoses monitoring (children are more susceptible to hypoglycemia)
++ prevent complications:
+= screen for micro- and macrovascular complications (regular ophthalmology assessments,
+microalbuminuria, diabetic foot exam), concurrent autoimmune diseases (thyroiditis, celiac disease,
+etc.), mental health issues (depression, eating disorders, etc.), HTN, dyslipidemia
+= administer routine immunizations and annual influenza vaccine
++ treat hypoglycemia (lethargy, unusual behaviour, tremor, pallor, tachycardia, diaphoresis, seizure, coma):
+= for mild: administer simple PO carbohydrate (i.e. sweetened fruit juice)
+«= for severe: administer IM glucagon or IV dextrose
+
+Prognosis
+* nocure currently
++ short-term complications
+= hypoglycemia
++ due to missed/delayed meals, excess insulin or exercise, illness, alcohol ingestion, psychosocial
+factors
++ can lead to seizures and/or coma as well as permanent neurologic complications
+
+Toronto Notes 2025
+
+Contrary to the concerns of many parents
+and health care providers, treatment
+
+with stimulant medications of ADHD in
+childhood does not increase the likelihood
+of substance misuse later in life
+
+Diagnostic Criteria for DM (Types 1 and 2)
+in Children
+‘Symptoms (polyuria, polydipsia, weight
+loss, etc) and hyperglycemia (Random
+slucose 211 mmol/L)
+OR
+Two of the following on one occasion
+Fasting glucose 27.0 mmol/L
+Zh plasma glucose during OGTT 2111
+mmol.
+HbA 26.5%
+OR
+One of the following on two separate
+coccasions*
+Fasting glucose 27.0 mmol/L
+Zh plasma glucose during OGTT 111
+mmol.
+HbA 26.5%
+
+“HbAcis nt recommended as the sole diagnostic test
+inchldren and adolescents
+
+* Hic has reduced ebabilty when
+hhemogiobinopathies or increased RBC turnover (i.e.
+6D) present
+
+Blood Glucose Targets
+Current Diabetes Canada guidelines
+recommend an HDAC target of <7% for
+children with Type 2 diabetes, with a less
+stringent target of <7.5% for children with
+Type 1 Diabetes to minimize hypoglycemia

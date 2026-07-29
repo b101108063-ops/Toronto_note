@@ -1,0 +1,150 @@
+PH2 Public Health and Preventive Medicine
+
+Toronto Notes 2025
+
+ADLs activities of daily living FN false negatives NIHO National Indigenous Health RR relative risk
+AR attributable risk FP false positives Organization SARS severe acute respiratory syndrome
+CAS Children’s Aid Society FOBT fecal occult blood test NNH number needed to harm SDOH social determinants of health
+CBA cost benefit analysis GST/HST goods and services tax! NNT number needed to treat ‘SDS safety data sheets
+CEA _costeffectiveness analysis harmonized salestax NPV negative predictive value SIS supervised injection site
+CFIA Canadian Food Inspection Agency HCP __ healthcare professional ODSP Ontario Disability Support SMR standardized mortality ratio
+CFR case fatality rate HPPA Health Protection and Promotion Program 1B tuberculosis
+cl confidence interval Act OR odds ratio ™N true negatives
+CIHR: Canadian Institutes of Health IHR International Health Regulations © PHAC Public Health Agency of Canada TP true positives
+Research IMR infant mortality ratio PHEIC public health emergency of TRC Truth and Reconciliation
+CPHO Chief Public Health Officer TK Inuit Tapiriit Kanatami intemational concern ‘Commission
+CTFPHC Canadian Task Force on Preventive ITT intention-to-treat analysis PKU phenylketonuria WHMIS Workplace Hazardous Materials
+Health Care LIcO low income cut-off PPV positive predictive value Information System
+CUA _costutility analysis MERS — Middle Eastrespiratory syndrome PSA —_ prostate screening antigen WHO — World Health Organization
+DALY disability adjusted life year MHO Medical Health Officer PYLL potential years of life lost WSIB Workplace Safety and Insurance
+DDT dichlorodiphenyltrichioroethane = MOH Medical Officer of Health QALY quality adjusted life year Board
+EBM __ evidence-based medicine MMR maternal mortality ratio al quality improvement
+ELISA enzyme-linked immunosorbent NIHB- Non-Insured Health Benefits RCT randomized controlled trial
+a
+Public Health Context (e)
+Preparing for the LMCC
+
++ see Ethical, Legal, and Organizational Medicine, Overview of Canadian Healthcare System, ELOM2 for the
+organization of health care in Canada including the legal foundation and historical context
+
+Definitions
++ population health
+= refers to the health of defined groups of people, their health determinants, trends in health, and health
+inequalities
+. influenced by: physical, biological, social, environmental, and economic factors; personal health
+behaviours; access to and quality of healthcare services
+= accounts for socioeconomic, policy, and historical issues
++ public health
+= an organized effort by society to promote, protect, improve, and when necessary, restore the health of
+individuals, specified groups, or the entire population
+= acombination of sciences, skills, and values that function through collective societal activities and
+involve programs, services, and institutions aimed at protecting and improving the health of the
+population as a whole
+= public health services in many provinces (e.g. Ontario) are administered, funded, and delivered entirely
+separately from healthcare services
++ epidemiology
+= the study of the distribution and determinants of health-related states or events in specified
+populations, and the application of this study to the control of health problems
++ Public Health and Preventive Medicine (called Community Medicine prior to 2009)
+= medical specialty that focuses on the health of populations
+= measures the health needs of populations and develops strategies for improving health and well-being
+through health promotion, disease prevention, and health protection, while addressing the SDOH and
+promoting health equity
+= 5-year Royal College training in medical skills and knowledge, epidemiology, statistics, social sciences,
+
+public administration, policy development, program management, and leadership
+Sours: Sh, CP Chaper2 Measurement and iestigon. Pubic andPeventve Medien Caad, Tot: Eee, 2003
+
+Shah Cape Conmunty Heath eves Publeath and Peeve Medien Canad, Se. Tut: seer, 2003
+
+Last Diconay of eerily. the New Yr Oxford Unity ress. 200 p. 61
+
+Pec Health Phys anaes PI Hea and Prevent Mee. hpsTir ppc centdetsat ptm
+
+Public Health in Canada
+
+‘The public health service in Canada is composed of various agencies at the federal (Public Health Agency
+of Canada), provincial (e.g. Public Health Ontario), and municipal/local levels (local public health units).
+‘The organization of the public health system in each province varies widely and is usually separate from the
+healthcare system.
+
+Mission of the Public Health Agency of Canada (federal only): to promote and protect the health of
+Canadians through leadership, partnership, innovation, preparedness, and action in public health
+
+local public health units and services within regional health authorities (in most provinces except Ontario,
+where local public health units are either autonomous or within local government) provide programs and
+activities for health protection, promotion, and disease prevention at local and regional levels
+catchment-area populations range widely (hundreds to millions), covering areas of 15-1.5 million km?
+
+the “core functions” of public health include six essential activities
+Thessocition of Facuties of Medicine of Canada Public Health Educators’ Network. AAC Primer on Population Heath Internet]. The organization of healt serviesin Canada ted 2006
+Mar 25} Availabe rom itps:/phprimexafmccalen!
+
+1. health protection: measures taken to address potential health risks at the population level through
+regulation and advising government (e.g. safe water and food supply)
+
+The AFMC Primer on Population Health is
+the core text for the LMCC and is available
+as anonline resource on the AFMC website
+{http:/phprimer.afmc.ca)
+
+For the LMCC exam, itis recommended that
+you also read Chapter 16 Delivery of Health
+Care Services) in Shah's Public Health and
+Preventive Health Care in Canada, 6th ed.
+Toronto: Elsevier, 2021
+
+Historical Perspective
+
+ver the last century the focus of public
+health has evolved:
+
+Infectious diseases: a prominentissue
+in low-and middle-income countries and
+higher income countries alike; includes
+‘emergent diseases caused by unfamiliar or
+‘new pathogens, inefficient or inappropriate
+antibiotic use, travel, climate change (e.g,
+HIV, drug-resistant TB, COVID-19), andthe
+‘manufactured conditions of crisis and/
+
+‘or routine conditions of poverty imposed
+‘on marginalized communities, including
+Indigenous, Black, and other communities
+of colour
+
+Chronic diseases: have increased
+‘morbidity and mortality (e.g. heart disease
+and cancer due to risk factors and/or
+exposures) and disproportionatel affect
+Indigenous populations throughout the
+world
+
+Social determinants of health: driven
+
+by agrowing body of evidence since
+
+the 1980s that universal access to
+
+health care services did not ameliorate
+health inequalities, and that significant
+improvements in health could only be
+achieved by going ‘upstream’ with action
+on palicies
+
+Example of a Municipal Health Unit: The
+Middlesex-London Health Unit
+
+Serves 450000 people living, working,
+\isiting, and studying inthe city of London.
+and Middlesex county
+
+75 fulltime staff including MOHs
+(physicians), public health nurses,
+epidemiologists, health promotion
+educators, dental hygiene managers, etc.
+Services include infectious disease control,
+ensuring environmental health standards,
+health promotion, and providing family
+health programs
+

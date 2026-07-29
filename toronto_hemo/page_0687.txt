@@ -1,0 +1,105 @@
+33 Hematology
+
+Investigations
++ CBC
+
++ prolonged PTT, normal INR (PT)
+
++ decreased factor VIII (<40% of normal)
+
++ VWF antigen and ristocetin activity testing to rule out VWD
+
+Treatment
++ DDAVP® in mild hemophilia A
++ factor VIII concentrate for:
+= prophylaxis (recommended for patients with severe hemophilia A)
+= on-demand (i.e. to treat a bleed)
+antifibrinolytic agents (e.g. tranexamic acid), especially for mucosal bleeds
+gene therapy under development
+
+Hemophilia B (Factor IX Deficiency)
+
+X-linked recessive, 1 in 30000 males; approximately half have severe disease (factor IX activity <1% of
+normal)
+
+clinical and laboratory features identical to hemophilia A (except deficiency in factor IX instead of factor
+VIII)
+
+treatment: factor IX concentrate (prophylaxis or on-demand), antifibrinolytic agents, gene therapy
+
+Factor XI Deficiency
+
+autosomal recessive; more common in Ashkenazi Jewish population
+
+usually mild (severe spontaneous bleeding is rare), often diagnosed in adulthood following bleeding
+challenge (e.g. surgery)
+
+factor XI level does not correlate proportionally with bleeding risk - risk of bleeding correlates with a
+previous history or family history of bleeding
+
+treatment: antifibrinolytic agents, FP, factor XI concentrate, DDAVP*
+
+Liver Disease
+
++ see Gastroenterology, G32
+
+Pathophysiology
+
++ thrombocytopenia secondary to: hypersplenism, nutritional deficiency, direct BM toxicity related to
+alcohol, diminished production from chronic viral infections (e.g. HCV), and decreased production of TPO
+
++ deficiency in synthesis of all factors except VIII (also made in endothelium)
+
++ aberrant or diminished synthesis of fibrinogen (factor I)
+
+diminished synthesis of natural anticoagulants and altered regulation of fibrinolysis
+
+Investigations
++ CBC, peripheral blood film: thrombocytopenia, target cells
++ primary hemostasis affected
+= thrombocytopenia
++ secondary hemostasis affected
+= elevated INR (PT), PTT, TT
+= low fibrinogen in end-stage liver disease
+
+Treatment
+* supportive, treat liver disease, blood products if active bleeding (FP, platelets, cryoprecipitate)
+
+Vitamin K Deficiency
+
+Etiology
++ drugs
+= vitamin K antagonist (e.g. warfarin) ~ diminished production of functional ffactors II, VII, IX, X,
+proteins Cand S
+= antibiotics eradicating gut flora, altering vitamin K uptake
+poor diet (e.g. prolonged fasting or starvation (especially due to chronic alcohol consumption))
+biliary obstruction
+chronic liver disease (decreased stores)
+fat malabsorption (e.g. celiac disease, disorders of bile or pancreatic secretion, intestinal disease, and cystic
+fibrosis)
+
+Investigations
++ INR (PT) is elevated out of proportion to elevation of the PTT
++ decreased factors II, VII, IX, X (vitamin K-dependent)
+
+Toronto Notes 2025
+
+Investigations in Liver Disease
+
+Factor V, Vil, Vl. Expect decreased V and
+Vil because they have the shortest half-life.
+Factor Vill will be normal or increased
+because it is produced in the endothelium
+
+Vitamin K Dependent Factors
+Vitamin K antagonists (e.g. warfarin) affect
+function of these factors:
+
+“1972 Canada vs. Soviets”
+
+XIX, Vil I, proteins C and S
+
+PT should improve within 24h of
+adequately dosed vitamin K repletion
+(onsets in 6-12 h);ifnot, search for other
+causes

@@ -1,0 +1,86 @@
+P4l Pediatrics
+
+5) Provide the appropriate fluid and electrolyte maintenance daily requirements
+Table 21. Maintenance Fluid Requirements
+
+Body Weight 100:50:20 Rule (24h maintenance fluids) 42:1 Rule (hourly rate of maintenance fuids)
+140kg 100 ccikgid 4cclkgh
+
+1-20kg 1000 cc + 50 ccka/d for every kg>10kg 40 cc + 2cc/hghh for every kg>10kg
+
+201g 1500 cc +20 clhgid for every kg>20 hg 60cc+ 1 c/hghh for every hg >20 ig
+
+prior to starting IV fluids, serum electrolyte values should be measured
+in children, all maintenance fluids should have a dextrose component due to their higher risk of
+hypoglycemia, especially if they are NPO
+common IV fluid combinations used in pediatrics:
+= IV normal saline fluid bolus for children with significant hypovolemia
+= for maintenance:
++ newborn: D1OW (dextrose 10% in water)
++ first mo of life: D5W/0.45 NS (dextrose 5% in water and 0.45% sodium chloride)+ KCI 20 mEq/L
+(only add KCI if voiding well)
+« children without special considerations: D5W/NS + KCl 20 mEq/L - decreased risk of
+hyponatremia
+most important thing to remember when correcting Na* aberrations due to fluid deficits
+« risk of cerebral edema with rapid rehydration with hypotonic or isotonic solutions (i.e. NS)
+therefore replace fluid slowly with close monitoring
+aim to adjust (increase or decrease) plasma [Na’] by no more than 12 mmol/L/d
++ management depends on etiology, severity of symptoms, and timing (acute vs. chronic)
+
+6) Continue to monitor fluid and electrolyte status
+
+. accurate monitoring of daily fluid intake (PO and IV) and ongoing losses (urine output, diarrhea, emesis,
+rains)
+
+if child receiving >50% of maintenance fluids through IV, serum electrolyte values should be monitored
+
+daily and therapy adjusted accordingly
+
+avoid iatrogenic hyper/hyponatremia, keep the possibility of SIADH in mind (indicated by hyponatremia
+
+and concentrated urine)
+
+Gastroenterology
+
+Vomiting
+
+History
+characteristic of emesis (e.g. projectile, bilious, bloody, etc.)
+pattern of emesis (e.g. association with feeds, cyclic, morning, prolonged, positional, etc.)
+associated symptoms (e.g. anorexia, diarrhea, abdominal pain, hematochezia, fever, headache, etc.)
+sick contacts
+history of chronic and recurrent infections
+red flags:
+
+= nonspecific symptoms: prolonged vomiting (>12 h in neonates, >24 h in children < 2 yr, >48 hin
+
+children > 2 yr), profound lethargy, significant weight loss
+
+= Gl obstruction or disease: bilious vomit, projectile vomit, hematemesis, hematochezia, marked
+abdominal distension, peritoneal signs
+neurological or systemic disease: bulging fontanelle, headache, positional triggers, altered
+consciousness, focal neurological deficits, history or signs of trauma, hypotension disproportionate to
+apparent illness, hyponatremia with hyperkalemia
+remember that vomiting without diarrhea is not always gastroenteritis (e.g. DKA)
+
+= post-tussive vomiting is also common with coughing fits in children
+
+Physical
+
++ vital signs to determine clinical status and hydration state (refer to Table 19, P40)
++ abdominal examination for evidence of obstruction or focal tenderness
+
++ neurologic assessment for signs of increased ICP
+
+Investigations
+
++ investigations should be guided by presentation (history & physical) and differential diagnoses
+
++ ifchild appears well and no worrisome features, often investigation is not required
+
++ ifinvestigations are warranted, the following may be done: CBC, electrolytes, BUN, Cr, amylase, lipase,
+glucose, liver enzymes, urinalysis
+
++ insick child, add: CRP, venous blood gases, C&S (blood, stool), imaging (x-ray, U/S)
+
+Toronto Notes 2025

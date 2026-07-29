@@ -1,0 +1,104 @@
+PHI7 Public Health and Preventive Medicine
+
+Observational Study Designs
+
++ observational studies involve neither the manipulation of the exposure of interest nor randomization of the
+study participants
++ there are two main subtypes of observational studies: descriptive and analytic studies
+
+Descriptive Studies
+
++ describe the events and rates of disease with respect to person, place, and time; estimates disease frequency
+and time trends
+
++ includes case reports, on one person or event, or a case series, which assesses exposures and outcomes
+
++ can be used to generate an etiologic hypothesis and for policy planning
+
+Analytic Studies
++ observational studies used to test a specific hypothesis
++ includes ecological studies, cohort studies, case-control studies, and cross-sectional studies
+
+Table 7. Observational Study Designs
+
+TypeotStudy Ecological Cross-Sectional Case-Control Cohort
+Definition Units of analysis are Useindividval data on Samplesa group ofpeople who Subjectsare sampled and, asa goup,
+populations or groups ‘exposuresand outcomes _—alreadyhavea particular outcome classified onthebasis of presence or
+‘of people, rather than gathered atthe sametime (cases) and comparesthemtoa absence of exposure toa particular risk
+individuals similar sample groupwithout that factor
+‘outcome (controls
+Subjects Aggregatedgroups (e.g. Sampleof a population Two ormore samples of individuals Oneor more cohorts
+cites) with and without the outcome(s) of Cohort: group of people with common
+interest(i.e. cases and contrls) characteristics (eg. year of bith, region
+of residence)
+Divided into measured exposed vs.
+unexposed groups
+Methods Descriptions ofthe average Collectinformation from each Select sample of casesof aspecific Collect information on factors from all
+fexposureor iskof disease personatone particular time disease during aspectic time frame persons at thebeginningofthestudy
+fora population Tabulatethe numbers in Representaiveof spectrum of Subjectsare followed for a specticperiod of
+Canuseregressionmodels —groups(e.g.bypresence or dinica disease time todetermine development of disease in
+totestassociationsbetween absenceof diseasefactorof Select control(s) each exposure group
+area-level predictors and intrest) Representthegeneral population Prospective: measuring from the exposureat
+‘aggregate outcomes Maketables and compare Tominimizeriskof bias, may select _presentto the future outcomes
+‘groups rmorethan onecontrol group and! Retrospective: measuring forward in time
+Estimate prevalence cmatchcontrolstocases e.g. from exposures inthe past o later outcomes,
+Useregression models to age, gender). Usestaistal models to test associations
+testassociationsbetween Assess past exposures e.g. EMR, between exposures and disease or other
+predictorsand outcomes of questionnaire) measured outcomes
+interest Association canbe concluded Provides estimates of incidence, relative
+between the riskfactorand the risk, attributable risk
+‘disease (odds ratio)
+Advantages Quick, easy todo Determines association Otten used when diseasein Shows anassociation between isk factor(s
+Uses readily available data between variables, population israre (ss than 10% and outcome(s)
+Generates hypothesis ‘Quick and uses fewer ‘of population) due to increased Stronger evidence for causation
+resources effidency or when timeto develop Can considera variety of exposures and
+‘Surveys with validated dseaseislong outcomes
+‘questionsallowscomparison Less costly and time consuming
+between studies
+Disadvantages Poor generalizabltyto ——_—Doesnotallow for Recall bias Confounding may occur due to individuals
+individual level not direct assessmentof temporal see Bios, Pits) self selecting the exposure, or unknown!
+assessmentof causal relationship orofferstrong Confounding unmeasuredfactors are associate withthe
+relationship) evidence for causation Selectionbiasforcases andcontrols measured exposure and outcome
+Ecological fallacy: an between variables Only one outcome can bemeasured Cost and duration oftime needed to follw
+incorrectinferencefrom Confounding cohort
+‘groups to individuals Selection bias Selection bias
+Confounding Recal bias
+(see Bas, PH)
+Examples study lookingat the study that examines the _Afamous case control study ‘Mamas cohort study is the Framingham
+
+association between smoking distribution of BI by age in
+rates and lung cancer rates Ontario ata particular point
+indifferent countriesat the intime
+population level without
+
+individval dataon both
+
+factors
+
+‘Sources: Shah CP. Measurement and investigation. Pubic Heath and Preventive Medicine in Canada, Se. Toronto: Elsevier, 2003.
+‘The Asociation of Faculties of Medicine of Canada Public Health Educators’ Network. AFMC primer on population heath [Interne]. Assessing evidence and information. Available rom
+‘tts: /pnprimer, afm. ca/en/part-ichapter-51
+
+Rothman KJ Greenland S6, Lash TL. Modern epidemiology, 3e Philadelphia: Wolters Knwer, 2012.
+
+Heart Study, which assessed the long-term
+cardiovascular isksof diet, exercise, and
+tobaccosmokingexposure and lung medicationssuchas ASA, etc.
+
+‘cancer cases atthe individual evel
+
+Toronto Notes 2025
+
+An ecological fallacy is an erroneous
+conclusion made when extrapolating
+population level data to explain
+phenomena occurring in individuals. An
+‘example of an ecological fallacy would be
+concluding that red wine drinking leads
+
+to lower risk of death from CVS disease
+based on an ecological study showing that
+countries with a higher rate of red wine
+consumption have a lower rate of death
+from CVS causes
+

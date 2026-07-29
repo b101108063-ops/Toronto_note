@@ -1,0 +1,113 @@
+39 Urology
+
+Testosterone Deficiency
+
+« see Endocrinology, E51
+
+ical Features
+
++ sexual: decreased libido, delayed ejaculation, reduced ejaculate volume, decreased orgasm intensity, erectile
+dysfunction, loss of morning erections, infertility
+
++ cognitive: fatigue, mood changes, depression, insomnia, irritability
+
++ physical: decreased energy, anemia, gynecomastia, hot flashes, decreased muscle mass and increased
+visceral body fat, osteopenia, testicular atrophy, loss of androgenic hair
+
+Diagnosis
++ clinical features + total testosterone (morning draw) <10 nmol/L
++ LH to rule out causes of secondary hypogonadism
+
+Treatment Considerations
++ see Endocrinology, E51
++ goal: improve quality of life and reduce clinical features (including anemia and osteopenia) while achieving
+eugonadal testosterone
++ ifclinical features with normal testosterone
+= rule out depression, hypothyroidism, sleep disorders
+= consider measuring sex-hormone binding globulin and determine free/total testosterone ratio
+= supervised trial of testosterone therapy for three months if low-normal but not if mid-range (injectable,
+oral, transdermal patch)
++ iflow testosterone without clinical features
+= consider other diagnoses: anemia, sarcopenia, chronic glucocorticoid/opioid use, HIV as indications for
+treatment
+= use of off-label human chorionic gonadotropin or selective estrogen receptor modulators, in men with
+testosterone deficiency desiring to maintain fertility.
++ inall patients treated with exogenous testosterone: monitor symptoms, adverse events, serum testosterone,
+hematocrit, and PSA at 3, 6, and 12 mo, then qlyr, DRE recommended at baseline and qlyr
++ absolute contraindications: male breast cancer, desiring fertility, advanced or metastatic prostate cancer
+
+Pediatric Urology
+
+Congenital Abnormalities
+
+* not uncommon; | in 200 have congenital abnormalities of the GU tract
++ six common presentations of congenital urological abnormalities
+
+41. ANTENATAL HYDRONEPHROSIS
+
+Epidemiology
+
++ 1-5% fetal U/S, some detectable as early as first trimester
+
++ most common urological consultation in perinatal period and one of most common U/S abnormalities of
+pregnancy
+
+Differential Diagnosis
+
+transient primary hydronephrosis
+
+UPJ obstruction
+
+VUR
+
+UV] obstruction or primary non-obstructive megaureter
+ureterocele
+
+ectopic ureter
+
+causes of megacystitis (e.g. PUV, Prune Belly syndrome)
+
+Treatment
++ antenatal in utero intervention rarely indicated unless evidence of lower urinary tract obstruction with
+oligohydramnios
++ ABx prophylaxis at birth to reduce UTI rates is controversial but may be beneficial to infants with high
+grade hydronephrosis, dilated ureter, or bladder abnormality
+= commonly used ABx include: amoxicillin, cephalexin, and trimethoprim
+
+Toronto Notes 2025
+
+‘SFU Grading of Hydronephrosis,
+Grade 0
+
+No dilation, calyceal walls are opposed to
+eachother
+
+Grade 1 (mild)
+
+Dilation of renal pelvis without dilation of
+the calyces
+
+'No parenchymal atrophy
+
+Grade 2 (mild)
+
+Dilation of renal pelvis and calyces
+(pelvicalyceal patter is retained)
+
+‘No parenchymal atrophy
+
+Grade 3 (moderate)
+
+Moderate dilation of renal pelvis and
+calyces
+
+Mild calyceal thinning, blunting of fornices,
+
+Note: SFU grading should besupplemented with UTD
+grading to address theshortcomings of ths grading
+system
+
+‘Alexandra Ho 2022
+
+Figure 24. SFU grading (based on
+ultrasound)

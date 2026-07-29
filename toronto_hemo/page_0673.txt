@@ -1,0 +1,94 @@
+HI9 Hematology
+
+Figure 7. Hemolytic anemia
+
+Clinical Features
+
++ jaundice
+
++ dark urine (hemoglobinuria, bilirubinuria)
+
++ cholelithiasis (pigment stones)
+
++ potential for an aplastic crisis (i.e. BM suppression in overwhelming infection)
++ iron overload with extravascular hemolysis
+
++ iron deficiency with intravascular hemolysis
+
+Investigations
+
++ increased reticulocyte count not otherwise explained (e.g. bleeding, pregnancy, iron correction) is a
+suggestive clue
+
+Table 12. Investigations for Hemolytic Anemia
+
+Screening Tests Tests Specific for Intravascular Hemolysis
+Increased LDH ‘Schistocytes onblood film (MARA)
+Decreased haptoglobin Free Hin serum
+
+Increased unconjugated bilirubin Hemoglabinura (immediate)
+
+Increased urobilinogen
+
+Hemosiderinura delayed) - most sensitive
+Reticulocytosis
+
+Tests Specific for Extravascular Hemolysis
+
+Direct Antiglobuln Test (direct Coombs)
+Detects IgG or complement onthe surface of RBC
+‘Add anti-g6 or anti-complement Abto patient's RBCs; positiveif agglutination
+Indications: hemolytic disease of newborn AINA, hemolytic transfusion reaction
+
+Indirect Antiglobulin Test (indirect Coombs)
+Detects Abs in serum that can recognize antigens on RBCS
+Mixpatient'sserum + donor RBCs Coombs serum (anté-humant Ab); positive ifaggltination
+Indications: coss-matching donor RB, atypical blood group, blood group Ab inpregnantwomen, AIHA
+
+Thalassemia
+
+Definition
++ defects in production of the a or B chains of Hb
+= resulting imbalance in globin chains leads to ineffective erythropoiesis and hemolysis in the spleen or
+BM
++ clinical manifestations and treatment depend on specific gene and number of alleles affected
++ common features
+= increasing severity with increasing number of alleles involved
+= hypochromic microcytic anemia
+= basophilic stippling, abnormally shaped RBCs on blood film
+= CBC: low MCV, low Hb, high RBC count, + high reticulocyte count
+
+Pathophysiology
++ defect may be in any of the Hb genes
+normally four a genes in total; two on each copy of chromosome 16
+normally two B genes in total; one on each copy of chromosome 11
+fetal Hb, HDF (a2y2), switches to adult forms HbA (a2B2) and HbA2 (a282) at age 3-6 mo
+HbA constitutes 97% of adult Hb
+HbA2 constitutes 3% of adult Hb
+
+Toronto Notes 2025
+
+Heme Breakdown
+
+Heme
+
+|pensnse
+Biliverdin
+
+Biliverdinreductase
+
+Haptoglobin is a circulating protein that
+‘mops up free Hb, allowing its clearance
+in the spleen. When free Hb is abundant,
+haptoglobin levels decrease
+
+Thalas”SEA’mia
+
+B-thalassemia + more prevalent in
+Mediterranean (also South Asia)
+
+«-thalassemia + more prevalent in South
+East Asia (SEA) and Africa
+
+(a= Asia, Africa)
+

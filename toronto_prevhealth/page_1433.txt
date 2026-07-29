@@ -1,0 +1,162 @@
+PHIS Public Health and Preventive Medicine
+
+Sensitivity
++ proportion of people with disease who have a positive test
+
+Specificity
++ proportion of people without disease who have a negative test
+
+Pre-Test Probability
++ probability that a particular patient has a given disease before test/assessment results are known.
+
+Post-Test Probability
+
++ arevision of the probability of disease after a patient has been interviewed/examined/tested
+
++ post-test odds = pre-test odds x LR+, or, pre-test odds x LR-; for a positive test or negative test, respectively
+(recall odds = probability/(1-probability))
+
++ the post-test probability from clinical examination is the basis of consideration when ordering diagnostic
+tests or imaging studies
+
+« after each iteration, the resultant post-test probability becomes the pre-test probability when
+considering new investigations
+
+Effectiveness of Interventions
+
+Effectiveness, Efficacy, Efficiency
++ three measurements indicating the relative value (beneficial effects vs. harmful effects) of an intervention
+= efficacy: the extent to which a specific intervention produces a beneficial result under ideal conditions
+(e.g. RCT)
++ ideal conditions include adherence, close monitoring, access to health resources, etc.
+= effectiveness: measures the benefit of an intervention under usual conditions of clinical care
++ considers both the efficacy of an intervention and its actual impact on the real world, taking into
+account access to the intervention, whether it is offered to those who can benefit from it, its proper
+administration, acceptance of intervention, and degree of adherence to intervention
+= efficiency: a measure of economy of an intervention with known effectiveness
+* considers the optimal use of resources (e.g. money, time, personnel, equipment)
+
+Disease (e.g. lung cancer)
+
+Present Absent Total
+Present A B ASB
+Exposure
+(e,g.smoking) | Absent c D c+D
+Total AtC B+D A+B+C+D
+Case-Control Study
+» = A.B. AxD
+odds ratio(OR)* = ~E- * -p~ = Bre
+Cohort Study
+ma = incidence rate ofheath outcome nexposed = = = incidence rate of health outcome in non-exposed
+q +
+relative risk _ + Co attributable risk _ _A c
+ARR A+B C+D (ary A+B C+D
+
+“Ratio of the odds n favour ofthe health outcome among the exposed tothe odds in favour among the unexposed
+“Ratio of the risk of a health outcome among exposed tothe risk among the unexposed
+“Rate of health outcome in exposed individuals that can be attributed tothe exposure
+
+Figure 6. Measures of effect by study type
+
+Number Needed to Treat (NNT)
++ number of patients who need to be treated to achieve one additional favourable outcome
++ only one of many factors that should be taken into account in clinical or health system decision making
+(e.g. must take into account cost, ease, feasibility of intervention)
+= acondition with death as a potential outcome can have a higher NNT (and be acceptable), as compared
+to an intervention to prevent an outcome with low morbidity, in which alow NNT would be necessary
+= is equivalent to 1/Absolute Risk Reduction e.g. if the absolute difference in mortality between a group
+treated with drug A (where 40% of the patients die) and the placebo (where 50% of the patients die) is
+10%, the NNT is 1/0.1 = 10 people needed to treat to prevent one death
+
+Number Needed to Harm (NNH)
++ number of patients who, if they received the experimental treatment, would lead to one additional patient
+being harmed, compared with patients who received the control treatment
+
+Toronto Notes 2025
+
+Sensitivity and specificity are
+characteristics of the test
+
+LR depends on the test characteristics, not
+the prevalence
+
+PPV and NPV depend on the prevalence of
+the disease in the population
+
+POST - TEST
+PROBABILITY
+
+0,999
+0,998
+0.997
+
+0,995
+0,993
+0.99
+
+LIKELIHOOD.
+RATIO.
+
+0.98
+0.97
+0.95
+0.93,
+0.9
+
+08
+07
+06
+05
+04
+03
+0.2
+
+01
+
+0.07
+0.05
+0.03,
+0.02
+
+0.01
+0.007
+0.005
+0.003
+0.002
+
+0.001
+
+Naveen Devasagayam 2016
+
+Figure 7. Fagan’s likelihood ratio
+nomogram: practical example using
+PSA levels to calculate post-test
+probability of prostate cancer
+
+ited from source: Holmstrom 8, Johansson M, Bergh
+‘etal Prostate specicantigen for early detection of
+prostate cancer longitudinal study. BM) 2008;339:83537
+
+Equations to Assess Effectiveness
+control group event rate
+experimental group eventrate
+absolute risk reduction
+relative risk
+
+number needed to treat
+EERICER
+
+CER—EER
+
+‘VARR
+
+Beware
+Do not be swayed by a large RR or odds
+ratio, as it may appear to be large if event
+rate is small to begin with. In these cases
+AR is more important (e.g. a drug which
+lowers an event which occurs in 0.1% of
+
+a population to 0.05% can boast a RR of
+50%, and yet the AR is only 0.05%, which is
+not nearly as impressive)

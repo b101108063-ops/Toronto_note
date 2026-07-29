@@ -1,0 +1,116 @@
+PH33 Public Health and Preventive Medicine
+
+Appendix — Mandatory Reportin
+
+Reportable Diseases
+
+As an essential part of the public health system, physicians in Canada are required by provincial lawto
+report certain diseases to public health. Physician reporting is also outlined by provincial physician licensing
+Colleges (e.g. College of Physicians and Surgeons of Ontario (CPSO)). Failure to report can result in suspension
+of a license to practice.
++ The reasons that reporting is mandatory include:
+
+1, to identify and control an outbreak
+
+2. to prevent spread if the disease presents a significant threat to individuals or a subset of the
+
+population (e.g. Lassa Fever)
+
+. if the disease is preventable with immunization (e.g. polio, diphtheria, congenital rubella)
+
+a
+
+4. if infected individuals require education, treatment, and/or partner notification (e.g. gonorrhea, TB)
+
+5. surveillance (to monitor disease trends over time)
+‘Acquired Immunodeficiency 2.*MERS “Group A Streptococcal disease,
+‘Syndrome (AIDS) 3.*COVID-19 invasive (GAS) “Measles
+‘Acute flaccid paralysis Group B Streptococcal disease, “Meningitis, acute:
+Amebiasis *Creutzfeldt-Jakob Disease, all types neonatal 1. “Bacterial
+‘Anaplasmosis Cryptosporidiosis 2.Viral
+“Anthrax Cyclosporiasis “Haemophilus influenzae disease, all 3. Other
+
+“Diphtheria types, invasive “Meningococcal disease, invasive
+Babesiosis “Hantavirus pulmonary syndrome Mumps
+Blastomycosis *Hemorthagic fevers, including:
+“Botulism Echinococcus multilocularis infection 1. “Ebola virus disease Ophthalimia neonatorum
+“Brucellosis Encephalitis, including: 2. "Marburg virus disease
+4. Primary, viral 3 “Lassa Fever Paralytic shelfish poisoning
+
+Campylobacter enteritis 2.Post infectious 4.“Other viral causes Paratyphoid fever
+Carbapenemase-Producing 3. Vaccine-related “Hepatitis, viral: Pertussis (whooping cough)
+Enterobacteriaceae (CPE) infection 4, Subacute sclerosing 1 "Hepatitis A “Plague
+‘oF colonization panencephalitis 2.Hepatits B Peumococcal disease, invasive
+Chancroid 5. Unspecified 3 Hepatitis C “Poliomyelitis, acute
+Chickenpox (Varicella) Powassan Virus
+Chlamydia trachomatis infections Food poisoning, all causes Influenza, including ‘Novel strains _—Psttacosis/Ornithosis
+“Cholera
+“Clostridlum diffcle infection (CD) “Gastroenteritis, Outbreaks in Legionellosis *OFever
+‘outbreaks in public hospitals institutions and public hospitals Leprosy “Rabies
+“Coronavirus, novel including Giardiasis Lsteriosis “Respiratory infection outbreaks in
+1. *SARS Gonorthea lyme Disease institutions and public hospitals
+
+Diseases of Public Health Significance
+
+Diseases marked with * (and Influenza in institutions) should be reported immediately to the Medical Officer
+of Health by either telephone or fax. Other diseases can be reported the next working day by fax, phone, or
+mail. Each province/territory has a similar legislation.
+
+Other Reportable Conditions
+
++ in addition to reporting diseases, physicians have a legal responsibility to report certain conditions. The
+list below highlights some reportable conditions for Ontario, but is not exhaustive. See your jurisdiction's
+regulatory body for the full list
+
+Live Births, Stillbirths, and Deaths — to the Registrar General or Coroner
+
++ all live and stillbirths must be reported within 2 business days
+
++ aphysician with sufficient familiarity of a patient's illness or who was in attendance of a deceased patient's
+last illness must complete and sign the medical certificate of death
+
++ physicians must contact a coroner or the police if patient is suspected to have deceased from violence,
+misadventure, negligence, misconduct or malpractice, or any cause other than disease; by unfair means;
+during pregnancy or postpartum from circumstances reasonably attributed to the pregnancy; suddenly
+and unexpectedly; from an illness not treated by a legally qualified medical practitioner; or under
+circumstances that may require investigation
+
+Child Abuse — to Local Children’s Aid Society (CAS)
+
++ all child abuse and neglect where reasonable grounds to suspect exist (including physical harm, emotional
+harm, sexual harm, and neglect)
+
++ ongoing duty to report: if additional reasonable grounds are suspected, a further report to CAS is necessary
+
+Gunshots Wounds - to Local Police Service
++ all patients with gunshot or stab wounds should be reported as soon as is practical
++ self-inflicted knife wounds are not reportable
+
+Toronto Notes 2025
+
+Rubella
+Rubella, congenital syndrome
+
+Salmonellosis
+“Shigellosis
+
+“Smallpox and other
+Orthopoxviruses induding
+Monkeypox
+
+Syphilis
+
+Tetanus
+Tichinosis
+Tuberculosis
+Tularemia
+Typhoid Fever
+
+“Verotoxin-producing E. coli
+infection indicator conditions,
+including Hemolytic Uremic.
+‘Syndrome (HUS)
+
+West Nile Virus illness
+
+Yersiniosis

@@ -1,0 +1,105 @@
+RH1O Rheumatology
+
+Investigations
++ blood work
+= RF: 80% sensitivity but non-specific; may not be present at onset of symptoms; levels do not correlate
+with disease activity
+can be associated with more erosions, more extra-articular manifestations, and worse function
+= anti-CCP: 80% sensitivity but more specific (94-98%); may precede onset of symptoms
++ increased disease activity is associated with decreased Hb (anemia of chronic disease) and increased
+platelets, ESR, and CRP
++ imaging
+bilateral hands/wrists, ankles/feet x-ray
+« first change is periarticular osteopenia, followed by erosions
+C-spine x-ray (may be normal at onset, required for preoperative assessment in long-standing disease)
+U/S (with power Doppler) - often changes of synovitis/erosion noted in advance of those seen on plain
+xray
+= MRI may be used to image hands to detect early synovitis and erosions
+= on MRI, inflamed synovium is hypointense on T1 and hyperintense on T2; bone marrow edema can be
+seen as well as areas of increased uptake gadolinium contrast
+
+Treatment
++ goals of therapy: remission or lowest possible disease activity
+= key is early diagnosis and early intervention with DMARDs
+= “window of opportunity” = early treatment within first 3 mo of disease may allow for better control/
+remission
+= assess poor prognostic factors at baseline (RF-positive, functional limitations, and extra-articular
+features)
++ behavioural
+= exercise program: active, gentle ROM and isometric exercise during flares; aquatic/aerobic/
+strengthening exercise between flares
+= job modification, assistive devices as necessary
+= interventions to reduce cardiovascular disease, smoking cessation, lipid control
++ pharmacologic: alter disease progression
+= DMARDs and biologics (not analgesics or NSAIDs) can alter the course of RA
+= DMARDs
+treatment with DMARDs should be started as soon as RA diagnosis is made and should be aimed at
+reaching sustained remission
+¢ MTX is the gold standard and is first-line unless contraindicated
+— prior to MTX therapy: CBC profile liver enzymes (ALT), Cr (Cr clearance), hepatitis B
+— and C serology, and a CXR should be done
+— monitor and if inadequate response (3-6 mo) > combine or switch
+— consider combination therapy with MTX if patients have poor prognostic features or
+— high disease activity
+— therapy includes: hydroxychloroquine, SSZ, leflunomide, biologics
+- contraindications include liver disease, significant alcohol intake, pregnancy, and
+lactation
+— If methotrexate (MTX) is contraindicated, hydroxychloroquine, sulfasalazine (SSZ),
+and/or leflunomide can be considered. Hydroxychloroquine is a weaker agent, while
+leflunomide is more potent but is also contraindicated in pregnancy and has very long
+washout periods if and when the drug is discontinued
+¢ JAK inhibitors (including tofacitinib and upadacitinib) are oral small molecule synthetic DMARDs;
+considered if other DMARDs fail
+= biologics (bDMARDs)
++ should be used if inadequate response to DMARDs
+should be combined with DMARD therapy (initiating with combination therapy is associated with
+faster response rates and longer duration of effect)
+first-line (anti-TNF) options: infliximab, etanercept, adalimumab, golimumab, and certolizumab
+non-anti-TNF biologic agents include anakinra (almost never used for RA), abatacept, rituximab,
+and tocilizumab
+reassess every 3-6 mo and monitor disease activity (predominantly via assessing swollen joint
+count)
++ pharmacologic: supportive to reduce inflammation and pain
+= NSAIDs
++ individualize according to efficacy, tolerability, and comorbidities
+* contraindicated/cautioned in some patients (e.g. PUD, ischemic cardiac disease, pregnancy, CKD,
+anticoagulant use)
++ add acetaminophen for synergistic pain control
+= corticosteroids
++ local: injections to control symptoms in a specific joint
++ systemic (oral prednisone) or IM
+— low dose (5-10 mg/d) useful for short-term to improve symptoms if NSAIDs are ineffective
+and to bridge gap until DMARDs take effect
+
+.
+
+oe
+
+.
+
+Toronto Notes 2025
+
+Poor prognostic features of RA include:
+young age of onset, high RF titre, elevated
+ESR, activity of >20 joints, and presence of
+extra-articular features
+
+Side Effects of Steroids
+
+Cataracts, glaucoma
+PuD
+
+‘Susceptibility to infection
+Easy bruising
+
+Acne
+
+HIN
+
+Hyperlipidemia
+Hypokalemia, hyperglycemia
+Mood swings
+
+DMARDs, prednisone, and biologics
+{PDMARDs) but not analgesics or NSAIDs,
+alter the course of RA

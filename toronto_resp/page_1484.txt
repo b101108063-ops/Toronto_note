@@ -1,0 +1,108 @@
+R30 Respirology
+
++ indications:
+
+evaluation for suspected sleep disordered breathing in a patient with compatible symptoms or risk
+factors
+
+evaluation for non-respiratory causes of excessive daytime sleepiness
+
+evaluation of selected cases of insomnia and abnormal behaviours during sleep
+
+titration of PAP therapy, to determine optimal settings
+
+assessment of objective response to other interventions (e.g. oral appliances for sleep apnea, positional
+therapy)
+
+Home Sleep Apnea Testing
+
++ done at home, unattended
+
++ evaluates a limited number of parameters primarily focused on the diagnosis of OSA; EEG monitoring
+typically not included
+
+indication: evaluation for suspected OSA, in patients without significant cardiopulmonary comorbidities
+
+OSA
+
+Risk Factors
+
++ obesity, craniofacial abnormalities, crowded oropharynx (including enlarged tonsils, large tongue), short/
+wide neck (neck circumference >17 inches (>43 cm) for men and >16 inches (>40.6 cm) for women), nasal
+obstruction
+
+more common in males than females (pre-menopause)
+
+Signs and Symptoms
+
+. airway obstruction: snoring, apneas, choking and gasping spells (may be witnessed by a bed partner)
+
++ sleep fragmentation: nocturnal awakenings, nocturia, unrefreshing sleep, daytime somnolence, irritability,
+depression, memory loss, morning headaches
+
+Complications
++ increased risk of: hypertension, cardiovascular disease (e.g. CAD, CHF, arrhythmia), stroke, motor vehicle
+collisions, polycythemia, pulmonary hypertension, type 2 DM
+
+Treatment
+
++ modifiable factors: weight loss, decreased alcohol/sedatives, treatment of nasal congestion (usually modest
+
+effect), avoidance of supine sleep (if positional)
+
+CPAP very effective but can be limited by compliance
+
++ oral appliances typically less effective at reducing AHI but better tolerated by some patients
+
++ surgical intervention can be helpful in select patients (e.g. tonsillectomy, UPPP, tongue base and jaw
+procedures, tracheostomy)
+
+cSA
+
+Risk Factors
+
++ hypercapnic CSA: underlying disorder causing sleep hypoventilation syndrome (see Hypoventilation
+Syndromes, R29)
+
++ non-hypercapnic CSA (mostly Cheyne-Stokes breathing): congestive heart failure, atrial fibrillation, high
+altitude
+
+Signs and Symptoms
++ typically those of underlying medical condition
++ those with hypercapnia typically have daytime somnolence; seen less frequently in non-hypercapnic CSA
+
++ hypercapnic CSA: may have complications of chronic hypoxemia including cor pulmonale
++ hypocapnic CSA: higher mortality but not clear whether this is due to Cheyne-Stokes breathing, or if
+Cheyne-Stokes breathing is a marker of severe heart disease
+
+Treatment
+
++ both hypercapnic and non-hypercapnic CSA: treatment of underlying medical conditions, especially
+optimization of congestive heart failure in Cheyne-Stokes breathing
+
++ hypercapnic CSA: typically benefit from BiPAP
+
++ hypocapnic CSA: has not been shown to benefit from CPAP or BiPAP; clinical trials of adaptive servo-
+ventilation (ASV) are ongoing, but one study showed a signal for harm
+
+Toronto Notes 2025
+
+Treatment Adult Obstructive Sleep Apna with
+Positive Nirway Pressure: An Ametican cademy of
+Sleep Medicine Systematic Review, Meta-Analysis,
+andGRADE Assessment
+
+‘Gin Seep Med 201915:201-334
+
+Purpose: To provide suporting evidence forthe cical
+adiceuidelnes forthe teatmentofOSkin adults
+Asin PAP
+
+Methods: Systematicreiew incuing 14 studies
+comparing useo PAP wth no treatment and studies
+comparing erent PAP modalities
+
+Conclusions: The data demonstrated that PAP
+compared tono treatment results ina clinically,
+significant eduction in disease sever, lepiness,
+

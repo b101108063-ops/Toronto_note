@@ -1,0 +1,163 @@
+75 Cardiology and Cardiac Surgery Toronto Notes 2025
+
+Trial Mame
+
+Clinical Trial Details
+
+ISCHEMIA
+(Angiography and
+revascularization vs.
+medical therapy)
+
+CAPRIE Lancet 1996;348:1329-39
+(Antiplatelet vs ASA)
+
+color
+(Antinflammatory)
+
+PEGASUS-TIMI 54 NEJM 2015;372:1791-800
+(Antiplatelet)
+
+puto NEJM 2009;361:1045-57
+(Antplteet)
+
+puto NEJM 2007:357:200115
+(Antiplatelet)
+
+HAT
+(G-Blocke)
+
+comMT Lancet 2005; 366:16221632
+(G-Blocke)
+
+RoOBY NEJM 2017;377:623-32
+(CABG)
+
+SYNTAX NEsM 2009;360:961-72
+{CABG andPCi)
+
+Title Initial Invasive or Conservative Strategy for Stable Coronary Disease
+
+Purpose: Compare outcomes from imasiveintervention and medical therapy vsmedical therapy alone inpatients with stable coronary disease and moderate or severe
+ischemia
+
+Methods: 179 patients with moderate or severe ischemia were randomly assigned to invasive therapy (angiography andrevascularzation) with medical therapy or
+medical therapy, withangiography if medical therapy failed. Primary outcome was death from CV causes, Ml or hospitalization due to unstable angina, HF or resuscitated
+‘cardiac arrest. Secondary outcome was death due to CV causes or MI.
+
+Results: The rate of primary endpoint at 6 mo was5.3% for theinvasve strategy and 3 4%for the conservative strategy (95% CI, 0.8-3.0) and at years 164% and 18.2%,
+respectively (95% (1-4 to 1.0). Therewere 145 and 144 deaths, respectively (hazard ratio, 1.05;95% Cl, 0.83t0 1.32.
+
+Conclusions: There wasno evidence that ital invasive therapy compared to conservative therapy reduced therisk of ischemic CV events or death n patients withstable
+coronary artery disease and moderate or severe ischemia.
+
+Title: A Randomised, Blinded, Trial of Clopidogrel VersusAspirinin Patients at isk of Ischaemic Events (CAPRIE)
+
+Purpose: Assessthe relative efficacy of dopidogreland ASA inreducing risk of clinical thrombotic events.
+
+Methods: Patients with atherosclerotic vascular disease were randomized to clopidogrel 75 mgonce dat o ASA325 mg once daily Primary endpoints were a composite of
+ischemic stroke, MI orvascular death.
+
+Results: Patients treated with clopidogrel hada 5.32% annual risk of stroke, Ml or death, compared with 5.83% of ASA patients (p=0.043). There were no major diflerences
+in terms of safety
+
+Conclusions: In atherosclerotic vascular disease, clopidogrel reduced therates of stroke, M, or vascular death compared toASA
+
+Title Efficacy and Safety of Low-Dose Colchicine after Myocardial Infarction
+
+Purpose: Assessthe efficacy and safety of low-dose colchicine after
+
+Methods: Patients were randomized to receive 0.5 mg colchicine once daty or placebo. The primary endpoint was acomposite of CV death, resuscitated cardiac arest, M,
+stroke, or UA leading torevascularzation.
+
+Results: The primary endpoint occured in 5.5% of colchcine-treated patients and 71%in the placebo group (hazard ratio 0.77; 95% C10.61t0 0.96;
+ratios were 0.84 fr CV death, 0.83 for resuscitated cardiac arrest, 0.91 for Ml 0.26 for stroke, and0,50for UA.
+
+‘Conclusions: In patients withrecent MI, colchicine lowered the rsk of subsequent CV eventsas compared to placebo
+
+Tite: Long-Term Use of TicagrlorinPatients with rior Myocardial Infarction
+
+Purpose: Investigate the safety and eficacyofticagrelor after anACS.
+
+Methods: 21162 patents who hada prior Ml were randomized toticagrelor 90 mg BID, or placebo. The primary endpoints werea compositeof CV death, Ml, or stoke. The
+primary safety endpoint was thrombolysis inl and major bleeding
+
+Results: Kaplan-Meier eventrates showed that icagrelor reduced event ratesat 3 yr, at 7.77% forthe treatment group and 9.04% inthe placebo group (hazard ratio 0.85;
+{95%6C10.75 to 0.96; P0, 008), Ratesaf major bleeding were higher wth tcagrelor than with placebo (P0001),
+
+‘Conclusions: Ticagreloron top ofASAreducesCV events in patients with ahistory of Ml
+
+Title: Tcagrelorvs. Clopidogrel inPatientswith Acute Coronary Syndromes
+
+Purpose: Evaluate the efcacy of ticagelor vs. clopidogrel patients with an ACS.
+
+Methods: 18624 patients admitted to hospital with ACS, wth or without ST-levation, were randomized to tcagrelr(180 mg ading, $0 mg twice daly aftr or
+clopidogre (300-600 mg loading; 75 mg diy after) The primary endpoint was acomposte of vascular death, MI, or stoke.
+
+Results: The primary endpoint ocurred in 9.8% of patients receiving icagrelor, compared with 1.7% of patients receiving clopidogrel (hazard ratio 0.84; 95%5CI 0.770
+10.82; P0001). The rate of deathwas also reduced with icagelor (45% vs.5.9%; PO.001). There were no significant ferences in the rates of mao bleeding
+Conclusions: In CS patients witheithe STEMI or NSTEMI, regardless of reperfusionstrtegy,tcagrelor reduced mortality, Ml, andstroke witout increased bleeding
+compared to clopidogrel.
+
+Title: Prasugrels.Copidogrelin Patients with Acute Coronary Syndromes
+
+Purpose: Compare dopidogre and prasuarel in preventing thrombotic complications of ACS and PCI
+
+Methods: 13608 patientswith ACS and scheduled PCI were randomized to prasugrel(60:mg loading, 10mg maintenance or clopidogrel (300 mg loading 75mg
+maintenance) The primary endpoint was CV death, nonfatal MI, ornonaal stroke. The safety endpoint was major bleeding
+
+Results: The primary endpoint ocurred in 12.1% a clpidogre patients and 9.9% of prasugtel patients (hazard ratio 0.8; 95% C1073 00.90; P<O.001). Major bleeding
+was observed in 24% of prasugrel patients and 18% of clopidogee! patients hazard rato 1.32; 95% Cl 1.03 to 1 68;P=0.03,)
+
+Conclusions: In ACS patients scheduled for PCI, prasugrel reduced ischemic events but increased major bleeding compared to clopidogrel
+
+Title: A Randomized Trial of Propranolol in Patients with Acute Myocardial Infarction
+
+Purpose: Study the effects onmortality of administering propranolol hydrocHlor ts who experienced at east one Ml
+
+Methods: 3387 patients were randomized to ether propranolol or placebo for 21d post-infarction The primary outcomewas all-cause mortality
+Results: Total mortality during the average 25-mo follow-up was 7.2% inthe propranolol group and 9.2% inthe placebo group.
+
+‘Conclusions: In acute MI, propranobl reduced all-cause mortality, CV death, and sudden death romatheroscleroticheart disease.
+
+0.02). Thehazard
+
+Title Early Intravenous then Oral Metoprolol in45,852 Patients with Acute Myocardial Infarction: randomised placebo-controlled trial
+
+Purpose: To evaluate the risks and benefits of incorporating ealy intravenous folowed by oral metoprolol alongside standard therapies ina diverse group of patients,
+Methods: A study involving 45,852 patients admitted to hospitals within 24h of suspected acuteM evaluatedthe effects of metoprolol versus placebo. Primary outcomes
+inchideda composite of cardiovascular death, reinfarction, or cardiac atest, and death from any cause during the treatment period
+
+Results: Alocationof metoprolol didnot yield significant reductions inthe co-primary outcomes. The occurrence death, reinfarction, orcardiacarrest did not
+significantly difer between metoprolol (2.4%) and placebo (2.9%) groups (ORO. 96, 95% Cl0.90-1.01,p=0.). However, metoprolol exhibteda lower rskof reinfarction
+(2.0% vs. 2.5%) and ventricular fibrillation (25% vs. 3.0%) per 1000 treated. Conversely, there was. higher incidence of cardiogenic shock (5.0%Svs. 3.9%) (0R1.30, 95%
+1119-441, p<0.00001. The overall impact varied overtime, withan adverseetfect in the ealy daysand abeneficialeffect thereafter, Thenetetffect depended onpatient
+stability with a substantial hazardin haemodynamically unstable patientsand moderate benefit in relatively stable patients (particulary after the intial days).
+‘Conclusions: Early f-blocker therapy in acute Ml decreasesreinfarctionand ventricular fibrillation but increases cardiogenic shock risk, primarily within the first day.
+
+Title Five-Year Outcomes after On-Pump and Off-Pump Coronary-Artery Bypass
+
+Purpose: Reporting of5-yr outcomesin patents induded in the Veterans Trial of on-pump vs. off pump CABG.
+Methods: 2203 patients were randomly assignedto undergo either on-pump or off-pump CABG. The primary 5-yr outcomes were all-cause mortality anda composite of
+major CV events or non-fatal MI.
+
+Results: 5yr mortality was 15.2% inthe off-pump group, comparedwith 119% inthe on-pump group (RR 1.28; 95% 1.03 to 1.58;
+the off-pump group was 31.0% compared to 27.1% in the on-pump group RR 1.14; 95% CI. 00 to 1.30;P=0.046).
+
+‘Conclusions: Off-pump CABG led to lower rates of Sr survival and event-free survival when compared to on-pump ABE
+
+02). Therate ofmajor CV events in
+
+Title: Percutaneous Coronary Intervention versus Coronary-Artery Bypass Grafting for Severe Coronary Artery Disease
+
+Purpose: Compare PCI and CABG for treating patients with previously untreated thee-vessel or left main CAD.
+
+Methods: 1800 patients with three-vessel or lft main coronary disease were randomized to CABG or PCI (1 rato). The primary outcomes werea major adverse cardiac or
+‘cerebrovascular event.
+
+Results: Rates of primary outcomes at 12 mo were significantly higher inthe PC group (17.8% vs. 12.4%; P-0,002).At T2mo, rates of death and Ml were similar between
+groups and stroke as significantly more Bkely with CABG.
+
+‘Conclusions: CABG had a lower rate of major cardiac or cerebrovascular events, however therate of stroke was increased with CABG whereas the rate of repeat
+revasculaization was increased with PCI.
+

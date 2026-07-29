@@ -1,0 +1,73 @@
+P66 Pediatrics Toronto Notes 2025
+
+Investigations
+
++ blood work: CBC, electrolytes, Cr, BUN, glucose, C&S, PTT/INR
+
++ LP required for definitive diagnosis
+
+Gram stain, bacterial C&S, WBC count and differential, RBC count, glucose, protein concentration
+acid-fast stain if suspect TB
+
+PCR for specific bacteria if available (helpful if already treated with antibiotics)
+
+urinalysis and urine C&S in infants, Gram stain and culture of petechial/purpuric lesions
+
+HSV and enterovirus PCR if suspected
+
+contraindications: thrombocytopenia, DIC, signs of raised ICP, unstable patient, known/suspected
+underlying anatomical abnormalities to the lumbar region
+
+decision making around LP should NOT delay empiric antibiotic therapy
+
+Table 30. CSF Findings of Meningitis
+
+Component Normal Child Normal Newborn Bacterial Meningitis Viral Meni Tuberculosis
+Meningitis
+Lymphocytes (x106/l) <5 030 Usvaly<100 10-1000 (canbe normal) 50-1000 (canbe norma)
+Neutrophils (e106/L) 0 0 100-10000(canbe Usually <100 Usualy<100
+norma)
+Glucose (CSF:Blood) —20.6(or22.Smmal/l) 20.6(or22.0mmoll) —<0.4(canbenormal) Usually normal <0,3 (can be norma)
+Protein (g/t) <04 10 10 (canbenorma) 04-10 canbe normal) 1-5 (Canbe normal)
+
+Modified rom htps:wivw.rch.orgau/cinicalguie! guideline. indexiCF_Interpetation
+
+Management
++ supportive care
+= preservation of adequate cerebral perfusion by maintaining normal BP and managing ICP
+= close monitoring of fluids, electrolytes, glucose, acid-base disturbances, coagulopathies
++ bacterial meningitis
+= ifsuspected or cannot be excluded, commence empiric antibiotic therapy while awaiting cultures or if
+LP contraindicated or delayed
+adjuvant dexamethasone BEFORE antibiotic for Hib meningitis; consider for those >6 wk with
+pneumococcal meningitis
+‘olation with appropriate infection control procedures until 24 h after culture-sensitive antibiotic
+therapy
+fluid restrict if any concern for SIADH
+hearing test
+report to Public Health; prophylactic antibiotics for close contacts of Hib and N. meningitidis
+meningitis
++ viral meningitis
+= mainly supportive (except for HSV)
+= acyclovir for HSV meningitis
+= report to Public Health
++ prophylaxis: appropriate vaccinations significantly decrease incidence of bacterial meningitis (see Routine
+
+Immunization, P5)
+Table 31. Antibiotic Management of Bacterial Meningitis
+Age Main Pathogens ‘Antibiotics Signs of Meningismus
+028d 68S, E col, Uisteria ‘anpiclin« cefotaxime
+Other: Gram-negative bacilli ea a
+28-904 ‘Overlap ofneonatal pathogensand those seen in Ceftriaxone + vancomycin(+ampic Opisthotonos*
+older children immunocompromised) Nuchal rigidity
+290d 5. pneumoniae, N. meningitidis, H. influenzae vancomycin Kegs Sig nol Eee]
+allergic: vancomycin + rifampin) fal araeaaad ea eas sdinat ves ba
+Complications
+
++ mortality: neonate 15-20%, children 4-8%; pneumococcus > meningococcus > Hib
+
++ acute: SIADH, subdural effusion/empyema, brain abscess, disseminated infection (osteomyelitis, septic
+arthritis, abscess), shock/DIC
+
++ chronic: hearing loss, neuromotor/cognitive delay, learning disabilities, neurological deficit, seizure
+disorder, hydrocephalus

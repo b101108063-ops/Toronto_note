@@ -1,0 +1,119 @@
+PH30 Public Health and Preventive Medicine
+
+Disaster Preparedness, Emergency Response, and Recovery
+
+a disaster is defined by the Medical Council as “a serious disruption of the functioning of a society, causing
+widespread human, material, or environmental losses that exceed the ability of the affected society to cope
+using only its own resources.”
+
+disaster exposure is usually quantified as number of people or assets affected
+
+disasters can be mitigated by implementing early detection systems and disaster preparedness programs
+
+Causal Conditions Leading to Disasters
++ Natural Hazards
+= weather and climate change can cause extreme weather events, droughts, wildfires, flooding, and
+earthquakes
+
+= infectious disease outbreaks and pandemics
+Human System Hazards
+«= technological hazards such as industrial or structural failures
+= chemical, biological, radiological, nuclear hazards
+« social unrest, cybersecurity, armed conflict, terrorism
+Multi-Level Hazard
+= combinations of the above
+
+Responding to Disasters
+
+Prevention: preventative actions taken to stop potential disasters from occurring (e.g. food and water
+
+safety standards)
+
+Mitigation: actions taken to lessen the impact of a disaster that cannot be prevented (e.g. earthquake proof
+uildings)
+
+Preparedness: the process of planning, training, and education to ensure individuals will take appropriate
+
+actions to prevent and mitigate disasters
+
+Response: actions that occur before, during, and immediately after a disaster where regular operations are
+
+suspended (e.g. search and rescue missions) to prevent loss of life, injury, or other health consequences
+
+Recovery: activities that restore damaged infrastructure and systems to resume regular operations (e.g.
+
+rebuilding damaged structures)
+
+Emergency Response
+
+Emergency Response Plan (ERP): to prepare for disasters, organizations may develop an ERP which is
+
+a document outlining the policies, procedures, roles and responsibilities of various parties to coordinate
+action (e.g. Ontario provincial emergency response plan)
+
+Incident Management System (IMS): during the response phase of a disaster, an IMS will provide
+guidelines for standardizing responses to an incident, including personnel, facilities, equipment, financing,
+procedures, and public information communications
+
+Emergency Operations Centre (EOC): a centralized facility or location to coordinate the entire response to
+a disaster
+
+Continuity of Operations Plan (COOP): provides guidelines on how critical functions and services will be
+maintained in the event of a disaster (e.g. maintaining operations of a physician's office during a disaster)
+
+Occupational Medicine
+
++ occupational medicine is defined by the Royal College of Physicians and Surgeons of Canada as a medical
+discipline that emphasizes prevention and deals clinically and administratively with the health needs of
+both individuals and groups with respect to their working environments and includes the recognition,
+evaluation, control, management and rehabilitation of occupationally related diseases and injuries.
+occupational health involves the prevention of illness or injury and the promotion of health in the work
+environment
+
+* services encompass recognizing and controlling exposure to hazards (primary prevention), occupational
+health surveillance and screening (secondary prevention), and treatment, rehabilitation, return to work,
+and worker's compensation (tertiary prevention)
+
+occupational disease often looks clinically the same as non-occupational disease and, without a thorough
+occupational health history, may go unrecognized as distinct
+
++ occupation is a social determinant of health
+
+Toronto Notes 2025
+
+Taking an Occupational Health Hx:
+ACS
+
+What do youdo?
+
+How do you do it?
+
+‘Are you concerned about any particular
+‘exposures on or off the job?
+Co-workers or others with similar
+problems?
+
+Satisfied with your job?
+
+‘Source: J Occup Environ Med 1998 ;40: 680-684
+
+Occupational Health Statistics
+
+In 2022, 993 workers died of workrelated
+‘causes in Canada
+
+12022, the total number of lost time
+daims in Canada was 348,747
+
+Provincial and territorial compensation
+boards do not cover all workplaces (eg
+‘most agricultural workers)
+Compensation board insurance coverage
+ranges across provinces and territories.
+from 74-99% of the workforce
+
+‘Source: 2020 Report on Work Fatality and injury Rates
+inCanada
+
+Information about worker's compensation
+at: https:/lawebc.orglen!

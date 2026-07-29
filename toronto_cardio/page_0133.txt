@@ -1,0 +1,161 @@
+43 Cardiology and Cardiac Surgery
+
+Non-Pharmacological Management
+
+from 2021 CCS guidelines
+
+restrict salt intake to 2-3 g/d
+
+monitor daily weight for patients with HF, fluid retention, or congestion that is difficult to control with
+diuretics or renal dysfunction
+
+restrict daily fluid intake to approximately 2 L/d for patients with fluid retention or congestion that is
+difficult to control with diuretics
+
+cardiac rehabilitation: participation in a structured exercise program for NYHA class I-III after clinical
+status assessment to improve quality of life (HF-ACTION trial)
+
+Pharmacological Therapy
++ ACEI/ARB: RAAS blockade
+= ACEI: slows progression of LV dysfunction and improves survival
+all symptomatic patients functional class II-IV
+all asymptomatic patients with LVEF <40%
+* post-MI
+= angiotensin II receptor blockers
+second-line to ACEI (if ACEI not tolerated), or as adjunct to ACEI if f-blockers not tolerated
++ combination of f-blockers with ACEI is not routinely recommended and should be used with
+caution as it may precipitate hyperkalemia, renal failure, and the need for dialysis CHARM,
+ONTARGET)
+
+antiarrhythmic drugs: for use in CHF with arrhythmia
+* can use amiodarone, B-blocker, or digoxin
+
+anticoagulants: DOACs or vitamin K antagonist (warfarin) for prevention of thromboembolic events
+= prophylactic indications:
+
++ AFib
+
+¢ LV thrombus
+
++ Prior thromboembolic event
+
+ARNI: combination angiotensin receptor-neprilysin inhibitors - slows down progression of LV dysfunction
+and improves survival
+= RAAS inhibitor prevents volume overload and neprilysin inhibitor enhances effects of BNP
+= first line therapy or if switching from an ACEI or ARB among patients with residual NYHA II-IV
+symptoms and LVEF <40%
+
+6-blockers: slow progression and improve survival
+«= B-adrenergic blocking agents blocks effects of epinephrine to reduce rate and force of myocardial
+contraction
+indicated for class I-III with LVEF <40% and stable class IV patients
+carvedilol improves survival in class 1V HF (COMET)
+caution: should be used cautiously; titrate slowly because may initially worsen CHF
+
+diuretics: management of fluid overload and symptom control (e.g. dyspnea and PND)
+= furosemide (40-500 mg QD) for potent diuresis
+= metolazone may be used with furosemide to increase diuresis if patient becomes refractory to
+furosemide
+= furosemide, metolazone, and thiazides oppose the hyperkalemia that can be induced by B-blockers,
+ACEI, ARBs, and aldosterone antagonists
+
+digoxin and cardiac glycosides: increase myocardial contractility but decrease rate
+= improves symptoms and decreases hospitalizations; no effect on mortality
+= indications: patient in sinus rhythm and symptomatic on ACEI or CHF and AFib
+= caution: patients on digitalis glycosides may worsen if these are withdrawn
+
+hydralazine plus isosorbide dinitrate: combination antihypertensive and vasodilator
+= consider for symptom control and mortality benefit in Black patients with symptomatic HFrEF despite
+guideline- directed medical therapy (GDMT)
+= also consider for HFrEF patients with drug intolerance to ACEIs, ARBs, or ARNI
+
+ivabradine: selective inhibition of the If current
+= recommended for CV death and hospitalization prevention in patients with HFrEF and symptomatic
+despite:
+treatment with appropriate doses of GDMT, resting HR >70 bpm, and in sinus rhythm
+= weaker level of evidence than either ARNI or SGLT2 inhibitor
+
+mineralocorticoid receptor (aldosterone) antagonists: spironolactone or eplerenone
+= mortality benefit in symptomatic HF and severely depressed EF
+«= for symptomatic HF in patients already on ACEI, B-blocker, and loop diuretic
+= caution: potential for life threatening hyperkalemia
+* monitor K* after initiation and avoid if Cr >220 mol/L or K* >5.2 mmol/L
+
+Toronto Notes 2025
+
+Measuring NT-proBNP
+BNP is secreted by Vsdue to LV stretch and
+wall tension
+
+Cardiomyocytes secrete BNP precursor that
+1s ceaved into proBNP
+
+After secretion nto Vs, proBNP is cleaved
+into the active C-terminal portion and the
+
+inactive NT-proBNP portion
+‘NT-proBNP levels
+(git)
+
+Age HF verylitely
+
+50 2450
+
+5075 2900
+
+5 1900
+
+‘imitations: Age, bod habitus, renal function, PE
+
+Features of HF on CXR
+
+HERB-B
+Heart enlargement (cardiothoracic ratio
+>0.
+
+Pleural Effusion
+Re-distribution (alveolar edema)
+Kerley Blines
+Bronchiolar-alveolar cuffing
+
+Patients on B-blocker therapy who have
+acute decompensated HF should continue
+Bblockers where possible (provided they
+‘are not in cardiogenic shock or in severe
+pulmonary edema)
+
+CLSICHFS Heat Failure Guidelines Update: Defining
+aNlewPharmacologic Standard of Carefor Heart
+Failure with Reduced Ejection Fraction
+
+(Can J Cardiol 20213753146
+
+Management of HEF: srecommended tha, in
+the absence of contrandcations, HFEF patients be
+treated with combination therapy nding drug
+fromeach ofthe following categories: ARNI (or ACE
+8), boc, mineralocorticot receptor antagonist
+(WRN), and LT? inhibitor tisrecommended that
+patients admitted with acute decompensated HFEF be
+Switched oan ARIfrom an ACELARB when stabilized
+Itistecommended tat - blockers be initiated as soon
+
+discharge to initiate treatment stabilized patients
+
+1M, LVEF <40%, and HF symptoms or DM toreduce CV
+mortality and hospitalization for CV events. S6LT2
+inhibitors shouldbe used in patents with HFEF, with or
+without concomitant T2DM, to improve symptoms and
+reduce hospitalizations
+
+See Landmark Cardiology and Cardiac.
+Surgery Trials table for more information
+‘on DAPA-HF which details the efficacy of
+‘SGLT2 inhibition in patients with HFrEF and
+without T2DM.
+
+See Landmark Cardiology and Cardiac.
+‘Surgery Trials table for more information
+‘on PARADIGM-HF which details the survival
+outcomes of HFEF patients treated with an
+ACEI or an angiotensin-nepriysin inhibitor

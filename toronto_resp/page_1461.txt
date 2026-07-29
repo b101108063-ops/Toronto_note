@@ -1,0 +1,178 @@
+R7 Respirology
+
+Pneumonia
+
+« see Pediatrics, P68
+
+Asthma
+
+«+ see Family Medicine, FM19 and Pediatrics, P91
+
+Definition
+
++ chronic inflammatory disorder of the airways resulting in episodes of reversible bronchospasm causing
+airflow obstruction
+
++ associated with reversible airflow limitation and airway hyper-responsiveness to endogenous or exogenous
+stimuli
+
++ inflamed airways undergo a variety of changes including hypertrophy of airway smooth muscle and
+hyperplasia of mucous-producing goblet cells
+
+Epidemiology
+common, 10.8% of Canadians (3.8 million); 8-10% of adults, 10-15% of children (however often
+misdiagnosed due to inaccurate clinical diagnosis, failure to use objective testing)
+
++ often family history of atopy (asthma, allergic rhinitis, eczema)
+
++ work-related asthma (includes work-exacerbated asthma, or occupational asthma caused by high or low
+molecular weight sensitizer exposure)
+
+Pathophysiology
+
++ Severe asthma attack:
+
++ airway obstruction > V/Q mismatch > hypoxemia > tventilation > +PaCO2 > tpH and muscle fatigue >
+ventilation, # PaCOs/+pH
+
+Signs and Symptoms
+
++ dyspnea, wheezing, chest tightness, cough, sputum
+
+symptoms usually occur or worsen at night or early morning
+
+symptoms can be paroxysmal or persistent
+
+when having an asthma attack: signs of respiratory distress, pulsus paradoxus
+
+Table 11. Criteria for Determining if Asthma is Well Controlled
+
+No asthma-related absence fromwork/school
+f2-agonist use <2 timesiwk
+
+Fev or PEF 290% of personal best
+
+PEF diurnal variation <10-15%
+
+Daytime symptoms <2diwk
+
+Nighttime symptoms <1 night
+
+Physical activity normal unimpaired by symptoms)
+
+Exacerbations mild, infrequent no ER vist, hospitalization, use of prednisone)
+
+‘an J RespiritCare Sleep Med 2021 56, 348-361,
+
+Table 12. Pulmonary Function Criteria for Diagnosis of Asthma (in ages 6+)
+
+Preferred Measurement ‘Alternative Measurements
+
+Spirometry Showing Reversible Airway Obstruction
++ FEV/FUC below lower limit ofnormal
+
+PeakExpiratory Flow Variability
++ inPEF aftera bronchodilator or course of controle therapy
+Adults typically <0.75-0.8 ‘Adults: PEF increase 260 Uimin and 220%) OR
+
+Children age: typically <0.8-0.9 Diurnal variation 8% for twice daly readings (-20% for multiple
+AND ail readings
+
++ FEV: 212% (and 2200 mL in adults) after bronchodilator ora course of controller Children age 6s: PEF increase =20%
+
+therapy
+
+Positive Challenge Test
+Methachaline chalenge: positive ifFEV: # 220% at any inhaled methacholine dose
+<A mgiml (borderline it 416 mg/ml is required)
+
+Postexercse: # FEW210-15%
+
+‘Adapted from: Can Respir Crit Care Sleep Med 2021, 5:6, 48-361
+
+Treatment
++ confirma diagnosis
++ environment and prevention: identify and avoid triggers, influenza and pneumococcal vaccine
++ patient education: features of the disease, goals of treatment, self-management asthma action plan, inhaler
+technique
++ pharmacological
+= symptomatic relief in acute episodes: short-acting B2-agonist or combined, long acting B2-agonist with
+inhaled corticosteroid (formoterol/budesonide)
+
+Toronto Notes 2025
+
+()
+
+Red Flags
+Severe tachypneatachycardia, respiratory
+‘muscle fatigue, diminished expiratory
+effort, cyanosis, silent chest, decreased
+Loc
+
+Central cyanosis isnot detectable until
+‘San is <B5%. It is more easily detected in
+polycythemia and less readily detectable
+inanemia
+
+Asthma Triggers
+
+Ivitants, such as:
+
+URTIS
+
+Emotion/anviety
+
+Cold air
+
+Humidity
+
+Exercise
+
+GERD
+
+Cigarette smoke, air pollution
+Strong scents
+
+Allergens, such
+Pet dander
+House dust
+Mold
+Cockroaches
+Seasonal allergens (rassitreelweed!
+ragweed)
+
+Other:
+[NSAIDs (Samter's triad = asthma, NSAID
+sensitivity, nasal polyps)
+
+B-blockers (especially non-cardioselective)
+Hormonal fluctuations
+
+Remember to step down therapy to lowest
+doses which maintain good asthma control,
+a patient improves
+
+Airway Obstruction (Decreased FEV1)
+Asthma
+
+COPD (chronic bronchitis, emphysema)
+Bronchiectasis (obstructive or mixed)
+Cystic fibrosis (obstructive or mixed)
+
+Signs of Poor Asthma Control
+
+“DANGERS”
+Daytime Sx >3 diwk
+
+Activities (physical) reduced
+Night-time Sx >1 night/wk
+
+GP visits (unscheduled visits for
+exacerbations, requiring steroids)
+
+ER visits or hospitalizations for
+exacerbations
+
+Rescue puffer (SABA) use 23 times/wk
+‘School or work absences
+

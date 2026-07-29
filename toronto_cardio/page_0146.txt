@@ -1,0 +1,40 @@
+C56 Cardiology and Cardiac Surgery
+
+Summary of Valvular Disease
+
+General Principles for Evaluating Valvular Heart Disease
++ initial evaluation
+«= history and physical: symptom severity, valve disease, comorbidities, HF presence and severity
+«= TTE (standard initial investigation): chamber size/function, valve morphology, severity of valvular
+heart disease, impacts to pulmonary/systemic circulations
+« ECG: rhythm, LVH, LV function
++ further testing if indicated/needed
+= CXR: particularly useful for symptomatic patient; assesses for aortic and pericardial calcification,
+intrinsic pulmonary disease, heart size, and congestion of the pulmonary vessels
+TEE: assessment of mitral and prosthetic valve
+CMR: LV volume/function, aortic disease, severity of valvular disease
+PET CT: identification of infection/inflammation
+stress testing: exercise capacity
+catheterization: exercise- and drug-related hemodynamic responses, severity of valvular disease,
+pressures within the heart and pulmonary circulation
++ future risk stratification
++ biomarkers: surrogate measure for myocardial damage and filling pressures
+« TTE strain: myocardial function
+= CMR: fibrosis
+= stress testing
+= procedural risk: The Society of Thoracic Surgeons (STS) and TAVI scores
+= frailty score
++ preprocedural testing
+= dental exam: rule out sources of infection
+= invasive coronary angiogram or CT coronary angiogram
+= CT peripheral and cardiac (for transcatheter procedures)
+
+Stages of Valvular Heart Disease
++ stage A: at-risk (asymptomatic)
++ stage B: progressive (mild-moderate severity; asymptomatic)
++ stage C: asymptomatic, severe
+= Cl: compensated LV or RV
+= C2: decompensated LV or RV
++ stage D: symptomatic severe
+
+Toronto Notes 2025

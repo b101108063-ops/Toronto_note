@@ -1,0 +1,136 @@
+‘vs3 ‘Vascular Surgery
+
+= aortic or arterial dissection
+aortic dissection typically caused by hypertensive crisis
+« isolated arterial dissection of vessels supplying lower limbs is uncommon but can occur from
+trauma or collagen disorders
+
+= trauma (e.g. arterial transection, compression)
+
+= vasospasm/vasculitis
+
+= iatrogenic (e.g. occlusion at arterial access site)
++ differentiating between embolism and thrombosis
+
+= embolism is more common than thrombosis
+
+= embolus typically lodges at arterial bifurcations, where the vessel narrows
+
+= embolism generally resuts in greater degree of ischemia due to relative lack of collaterals
++ suspect embolism in patients with the following features:
+
+= acute onset (patient able to accurately recall the moment of the event)
+
+= history of embolism
+
+= known embolic source (e.g. cardiac arrhythmias), lapse in prescribed anticoagulation
+
+«= no prior history of intermittent claudication or prior arterial intervention
+
+= normal pulse and/or Doppler U/S or DUS in unaffected limb
++ suspect in-situ thrombus in patients with the following features:
+
+« prior history of intermittent claudication
+
+« prior vascular intervention/bypass
+
+= abnormal pulse examination of the unaffected limb
+
+Clinical Features
++ 6Ps ~ may notall be present
+«= Polar/Poikilothermia/Perishing cold
++ leg becomes cold
+= Pallor: pale
++ within a few h becomes mottled cyanosis
+= Pain
++ may be constant or elicited by passive movement
++ absent in 20% of cases
+= Pulselessness
+¢ helpful to determine site of occlusion
+= Paresthesia (late sign of ischemia)
+light touch lost first then other sensory modalities
+= Paralysis/Power loss (late sign of ischemia):
++ heralds impending non-salvageable limb
+
+Investigations
+
++ history and physical exam are essential: depending on degree of ischemia one may have to forego
+investigations and go straight to the OR (i.e. an immediately threatened limb)
+
++ DUS: bilateral U/S examination; greater accuracy than pulse examination alone; absent arterial signals in
+foot indicates threatened limb
+
++ determine Rutherford classification (see Table 1, VS4) based on physical findings and Doppler U/S
+
++ ABI: extension of physical exam, easily performed at bedside (limited reliability in diabetic patients due to
+the presence of calcified and non-compressible arteries, which can result in falsely elevated ABI values. )
+
++ ECG, troponin: rule out recent MI or arrhythmia
+
++ CBC: rule out leukocytosis, thrombocytosis, or thrombocytopenia in patients receiving heparin (may
+suggest HITT)
+
+PT/INR, PTT: patient anticoagulated/sub-therapeutic INR
+
+echo: identify wall motion abnormalities, intracardiac thrombus, valvular disease, or aortic dissection
+
+(Type A) (see Aortic Dissection, VS6)
+
++ CTA: most often used but not a requirement for decision making and sometimes performed after operative
+
+intervention; identify underlying atherosclerosis, aneurysm, aortic dissection, embolic sources, emboli in
+
+other end organs (e.g. splenic/renal infarcts), and level of occlusion and extent
+
+angiography: can be obtained in OR as part of intervention or endovascular treatment
+
+Toronto Notes 2025
+
+Virschow’s Tr
+
+Hypercoagulabilty
+Stasis of flow
+
+Endothelial injury
+
+Hypercoagulable States,
+‘ongenital
+
+Group | (reduced anticoagulants)
+
+Antithrombin
+
+Protein C
+
+Protein S
+
+Group Il (increased coaguiants)
+
+Factor VLeiden
+
+Prothrombin
+
+Factor Vil
+
+Other
+
+Sickle cell disease
+
+Hyperhomocysteinemia
+
+Acquired
+Age
+Obesity
+Smoking
+immobility
+Cancer
+
+Pregnancyisystemic hormonal
+contraceptives
+
+Antiphospholipid antibody syndrome
+Inflammatory disorders
+Myeloproliferative disorders
+
+‘Nephrotic syndrome (acquired deficit in
+Protein C and S)

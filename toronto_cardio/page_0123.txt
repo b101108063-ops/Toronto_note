@@ -1,0 +1,177 @@
+33
+
+Cardiology and Cardiac Surgery
+
+« labs
+
+= serum cardiac biomarkers for myocardial damage (use of high-sensitive cardiac troponin (hs-cTn) with
+
+a validated 0 h/2 h algorithm recommended blood sampling at 0 h and 2h) (see Cardiac Biomarkers,
+C13)
+
+= CBC, International Normalized Ratio (INR)/prothrombin time test (PTT), electrolytes, magnesium,
+creatinine, urea, glucose, and serum lipids
+
+= draw serum lipids within 24-48 h because values are unreliable from 2-48 d post-MI
+
+MANAGEMENT OF ACUTE CORONARY SYNDROMES
+
+1. General Measures
+
+= ABCs: assess and correct hemodynamic status first
+
+«= bed rest, cardiac monitoring, oxygen
+
+= nitroglycerin sublingual (SL) followed by IV
+
+= avoid routine morphine IV for STEMI-related discomfort
+
+2. Antiplatelet and Anticoagulation Therapy
+
+3.64
+
+= see also 2018 CCS/CAIC Antiplatelet Guidelines, 2012 and 2010 CCS Antiplatelet Guidelines, and 2009
+CCS Position Statement on Dual Antiplatelet Therapy in Patients Requiring Urgent CABG for details
+also see 2020 ESC guidelines on ACS management in patients without persistent ST-segment elevation,
+2017 ESC guidelines on STEMI management, and 2019 CCS guidelines on acute STEMI management
+(focused update on regionalization and reperfusion)
+ASA chewed
+NSTEMI
+
+ ticagrelor + ASA + LMWH/IV unfractionated heparin (UFH), unless contraindications
+
+— LMWH, except in renal failure or if CABG is planned, within 24 h
+
+— fondaparinux also commonly used in Canada for initial medical management of NSTEMI/
+
+UA based on OASIS-5 results
++ clopidogrel used if patient ineligible for ticagrelor
+if PCI is planned: ticagrelor or prasugra and in select patients consider IV glycoprotein IIb/IIIa
+inhibitor (e.g. eptifibatide, tirofiban)
+¢ clopidogrel used if patient ineligible for ticagrelor and prasugrel
+* prasugrel contraindicated in those with a history of stroke/TIA, and its avoidance or lower dose is
+recommended for those >75 yr or weighing <60 kg (TRITON -TIMI 38)
+anticoagulation options depend on reperfusion strategy:
+primary PCI: UFH during procedure; bivalirudin @ a possible alternative
+¢ thrombolysis: LMWH (enoxaparin) until discharge from hospital; can use UFH as alternative
+because of possible rescue PCI
+* no reperfusion: LMWH (cnoxsparin) until discharge from hospital
+continue LMWH or UFH followed by oral anticoagulation at discharge if at high-risk for
+thromboembolic event (large anterior MI, severe LV dysfunction, CHF, previous DVT or PE, or echo
+evidence of mural thrombus)
++ inpatients with AFib (CHA2DS2-VASc score >1 in men and >2 in women), use triple
+antithrombotic therapy for up to 1 wk and then transition to dual antithrombotic therapy (using a
+NOAC and an antiplatelet agent (preferably clopidogrel)
+
+blockers
+
+= STEME: contraindications include signs of HF, low output states, risk of cardiogenic shock, heart block,
+asthma, or airway disease; initiate orally within 24h of diagnosis when indicated
+
+= if B-blockers are contraindicated or if B-blockers/nitrates fail to relieve ischemia, non-dihydropyridine
+
+CCB (eg. diltiazem, verapamil) may be used as second-line therapy in the absence of severe LV
+
+dysfunction or pulmonary vascular congestion (CCB do not prevent MI or decrease mortality)
+
+4, Invasive Strategies and Reperfusion Options
+
+= UA/NSTEMI: early coronary angiography + revascularization if possible is recommended with any of
+the following high-risk indicators:
+
+diagnosis of NSTEMI
+
+recurrent angina/ischemia at rest despite intensive anti-ischemic therapy
+
+CHF or LV dysfunction
+
+hemodynamic instability
+
+high (25) Thrombolysis in Myocardial Infarction (TIMI risk score (tool used to estimate cardiac
+
+events following an ACS)
+
+GRACE risk score >140
+
+sustained ventricular tachycardia
+
+dynamic ECG changes, transient ST-elevation
+
+high-risk findings on non-invasive stress testing
+
+PCI within the previous 6 mo
+
+repeated presentations for ACS despite treatment and without evidence of ongoing ischemia or
+
+high-risk features
+
+note: thrombolysis is contraindicated for UA/NSTEMI
+
+.
+
+oeee
+
+eee ee
+
+.
+
+Toronto Notes 2025
+
+a
+
+Complete Revascuarzation with MutivesselPCfor
+Myocardial nfarction (COMPLETE)
+
+NEM 2013;381:1411-421
+
+Purpose: To determine fC of non-<uprit sons in
+addition to culprit sions further reduces the isk of CV
+events or Min patients with STEML
+
+Methods: Patients wih STEM and mutivessel CAD
+wo had undergone culpritesion PC (n=4047) were
+randomize dto ether complete revasclaizaton with
+CI (of signicantnon-<uprit sions) orn further
+reascularzation. The two main outcomes measured
+indded: 1 the composite of CV death or Ml and2)
+the compasite of V death Ml, or schemia-riven
+revascularzation.
+
+Results: The fist outcome was observedin 7.8%
+
+tthe completerevascularzation group and10.5%
+othe calpitesion-only PCI group (P=0.004) The
+second outcome was observed in 8 9% ofthe complete
+revascularzation group and 16.7 of the culrit-esion-
+‘nly PCl group (P00,
+
+Condusions: In patents with STEM! and multvesse
+AD, compete evascularizaton by PCl further reduced
+therisk of CV death or Mas compared to calpit-
+lesion-ol PCL
+
+TIMI Risk Score for UA/NSTEMI
+Charact
+
+Points
+istorial
+
+Age 265 yr
+
+2B riskfactosforCAD
+Koown AD stenoss250%)
+Aspiin®useinpast74
+Presentation
+
+Recent (261 severe angina 1
+ST-segment deviation 0.5mm 1
+Increased cardiac mater 1
+
+Risk Score= Total Points
+1TH riskscore23, consider early LMWH and
+angiogr
+
+TIMI= thrombolysisin myocardialinfarction
+‘UA= unstable angina
+
+JAMA 2000;284:835-842

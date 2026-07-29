@@ -1,0 +1,166 @@
+R12 Respirology
+
+Bronchiectasis
+
+Definition
+
++ irreversible dilatation of airways due to inflammatory destruction of airway walls resulting from
+persistently impaired mucous clearance and/or infected mucus
+
++ usually affects medium sized airways
+
++ the most common sputum pathogens found in patients with non-cystic fibrosis are H. influenzae, P.
+aeruginosa, M. catarrhalis, and nontuberculous mycobacterium
+
+Table 16. Etiology and Pathophysiology of Bronchiectasis
+
+Obstruction Post-Infectious (results indilatationof Impaired Defenses/Drainage (leads to chronic
+bronchialwalls) infections and inflammation)
+
+Tumour Pneumonia Hypogammaglobulinemia
+
+Foreign body B e
+
+Nontuberculous mycobacterium (HTM) Defective leukocyte function
+Measles ‘lergic bronchopulmonary aspergillosis
+Pertussis Gliary dysfunction Kartagener’s syndrome: bronchiectasis,
+
+sinusitis situs inversus)
+
+Signs and Symptoms
+
++ chronic cough, copious purulent sputum (but 10-20% have dry cough), dyspnea, fatigue, chronic
+rhinosinusitis (for CF and primary ciliary dyskinesia), hemoptysis (can be massive), recurrent chest
+infections, local crackles (inspiratory and expiratory), rhonchi, wheezes
+
++ may be difficult to differentiate from chronic bronchitis
+
+Investigations
++ PTs: often demonstrate obstructive pattern but may be normal
++ CXR
+= nonspecific: increased markings, linear atelectasis, loss of volume in affected areas
+= specific: “tram tracking” - parallel narrow lines radiating from hilum, cystic spaces
++ high-resolution thoracic CT (diagnostic, gold standard)
+= 87-97% sensitivity, 93-100% specificity
+= “signet ring”: dilated bronchi with thickened walls where diameter of bronchus is >1.5x diameter of
+accompanying artery
++ sputum cultures (routine + acid-fast bacillus)
++ CBC
++ LFTs
++ immunoglobulin panel (serum Ig levels), a-1 antitrypsin level, immunology panel (ANA, ENAs),
+Rheumatoid factor, HIV test
++ sweat chloride if cystic fibrosis is suspected (upper zone predominant, concomitant features)
++ nasal nitric oxide and nasal ciliary biopsy if primary ciliary dyskinesia is suspected
+
+Treatment
++ vaccination: influenza and pneumococcal vaccinations
++ chest physiotherapy, breathing exercises, physical exercise
++ antibiotics (oral, IV, inhaled):
+= inhaled: used chronically to decrease bacterial load, in patients with frequent exacerbations, especially
+if Pseudomonas in sputum
+= oral/IV: routinely used for exacerbations, driven by sputum sensitivity when available; macrolides may
+be used for an anti-inflammatory effect chronically to reduce exacerbation frequency in patients with
+frequent exacerbations
++ mucolytics (hypertonic saline)
++ inhaled corticosteroids: only use if the patient has asthma or other co-existing disease as an indication
++ oral corticosteroids have no role in chronic care or generally not used in acute exacerbations unless ABPA
++ pulmonary resection: in selected cases with focal bronchiectasis
++ transplant: for end stage diffuse causes (e.g. primary ciliary dyskinesia, CF)
+
+Cystic Fibrosis
+«see Pediatrics, P92
+
+Pathophysiology
++ chloride transport dysfunction: thick secretions from exocrine glands (lung, pancreas, reproductive tract),
+and blockage of secretory ducts
+
+Clinical Features
++ multisystem clinical characteristics:
+= sinusitis, chronic pulmonary disease
+= pancreatic insufficiency, meconium ileus in children, distal ileal obstruction, liver disease,
+malnutrition
+= salt loss syndrome, azoospermia, CF-related DM, bone disease
++ chronic lung infections
+
+Toronto Notes 2025
+
+@
+
+CanaGian Thoracic Society Clinical Practice
+Guidelines on Long-term Non invasive Ventilation for
+the Management of COPD
+
+CanJ Respir, ritCare, Jeep Med 2071
+
+Purpose: Wile non-imvasive ventilation (IV has
+
+been shown o improve outcomesin acute COPD
+exacerbations with ypetcapnicrespratory faire, the
+efficacy oflong term home I for COPD managementis
+‘ot as well studied. This document provides evi
+based recommendations for long tem home NVin
+‘honic hypercapnic COPD patients.
+
+Methods: A pane of mtidscpinry clinical experts
+developed clinical questions using thePICO framework,
+performed ystematicrevie ofthe relevant
+literature, gadedrelevant evidence, and made clinical
+practice recommendations accordingly.
+
+Conclusions: Long-term NIV improves survival and
+reduceshosptalreadnission inpatients wth stable
+COPD with significant hypercapnic respiratory fire
+There's some evidence supporting the use of hgh-
+intensity ventaton ovr low-intensity entation
+
+The task force supports the ue of ong term MV inthis
+speci patint population,
+
+Different Durations of Corticosteroid Therapytor
+Exacerbation of Chronic Obstructive Pulmonary
+Disease
+
+CochraneD8 Syst Rev 2018;C0006897
+
+Study: Cochrane systematic review. 8stdies,
+Population: 582 patents, wih severe orvery severe
+CoP
+
+Intervention: Corticosteroids given at equivalent
+daily doses fr 3-74 (hort durations. 10-154
+(onger duration.
+
+Outcome: Treatment faiue, riskot relapse, time to
+next COPD exacerbation ikeliood of adverse even,
+Jength of hospital stay, andng function tend of
+treatment
+
+Results: nour ties there was no diferenc in
+riskot treatment fare between short duration and
+Jonge. duration systemic corticosteroid treatment
+(0-457; od4sratio (0R)0.72, 95% confidence interval
+{036-148 to diferencein isk t relapse anew
+event) was observed between short duration and
+Jonge. duration systemic corticosteroid treatment
+(0-457; 081.04, 955.1 0.70456, Tne tothe next
+COPD exacerbation didnot diferin on age study that
+was powered to detect nonin eiy and compared
+dvs. 1 dof systemic cortinsterd treatment o-31
+hazard ratio 0.95, 95% C1 0.61.37 infive studies no
+<iferencen the ieiod ofan adverse event was
+found between short-duratin and onget- duration
+systemic corticosteroid treatment 503; OR 0.89,
+95% (10.46-169) Lenath ot hospital stay f=42,
+mean ference (MD)-0.614,95%C1-15-0.28) and
+Jung function atthe end of treatment n-185; MD FEV
+0.041; 95% C1-019-0.10 didnot difer between short.
+duration and onger-dration treatment.
+
+Conclusions: 5¢ foal corticosteridsstikely
+
+tobe suffcentfor treatment of aduts wih acute
+cenacerbtions of COPD, andthisrevew sugess that
+thee odislow that shorter courses of systemic
+Corticosteroids of around ead toworse outcomes
+thanare een wih longer (10 to 14) courses.
+

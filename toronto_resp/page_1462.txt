@@ -1,0 +1,170 @@
+RS Respirology
+
+«= long-term maintenance: any patient with poor control (Table 11, R7) and/or at risk of exacerbations
+should be on an inhaled corticosteroid-containing regimen (see Figure 9)
+= risk of exacerbation defined as any of: 1) history of a previous exacerbation requiring any of: systemic
+steroids, ED visit or hospitalization, 2) poorly-controlled asthma, 3) overuse of SABA (defined as use of
+more than 2 inhalers of SABA in 1 year), or 4) current smoker
+1, start with daily inhaled corticosteroids (or long acting 62-agonist with inhaled corticosteroid
+(formoterol/budesonide) as needed in patients >12 y/o - especially in patients expected to have low
+adherence to a daily inhaled corticosteroid)
+2. add long-acting B2-agonists to low dose inhaled corticosteroids in adults (use a combination inhaler;
+avoid separate ICS and LABA inhalers)
+escalate inhaled corticosteroid dose
+4. consider LTRA, long-acting anticholinergics, oral corticosteroids, and biologics (e.g. anti-IgE
+agents, including omalizumab, anti-IL5/ILSR agents, such as mepolizumab, and anti-IL-4/13 drugs,
+including dupilumab)
+
+y
+
+Emergency Management of Asthma
+
+see Emergency Medicine, ER29
+inhaled B2-agonist first line (MDI route and spacer device recommended)
+
+systemic steroids (PO or IV if severe)
+if severe, add anticholinergic therapy + magnesium sulfate
+
+SC/IV adrenaline if caused by anaphylais or if unresponsive to inhaled B2-agonist
+repid sequence intubation in life-threatening cases (plus 100% Os, monitors, IV access)
+inhaled corticosteroid maintenance therapy at discharge
+
+aye eNe
+
+Guidelines for Asthma Management
+
+Regularly Reassess
++ Control
+
++ Risk exacerbation
++ Spirometry or PEF
++ Inhaler technique
++ Adherence
+
++ Triggers
+
++ Comorbidities
+
++ Sputum eosinophitst
+
+© Bonnie Tang 2012
+
+HFA Beclomethasone or equivalent; ‘Seconct-ine: LTRA; ‘Approved for 12 yr and over; “Using a formulation approved for use asa reliever;
+“in adults 18 yr and olfer with moderate to severe asthma
+
+*Budiformis approved as a reliever for >12 years of age and should only be used as a reliever in individuals usingit as monotherapy orn
+‘conjunction with bud/form maintenance therapy
+
+For severe asthma refer to CTS 2017 Recognition and Management of Severe Asthma Position Statement
+
+Figure 9. Guidelines for asthma management
+dae tom: CanJRespir Cit Care Sleep Med 202; 56, 348-251
+
+Chronic Obstructive Pulmonary Disease
+
+see Family Medicine, FM19
+
+Definition
+
+progressive and irreversible condition of the lung characterized by chronic obstruction to airflow with
+many patients having periodic exacerbations, gas trapping, lung hyperinflation, and at end stages, weight
+loss
+
+spirometry required for diagnosis (post-bronchodilator FEV:/FVC <0.70 or lower limit of normal) (also
+often “overdiagnosed” due to inaccuracy of a clinical diagnosis)
+
+2 phenotypes: chronic bronchitis and emphysema (usually coexist to variable degrees)
+
+gradual decrease in FEV: over time, more rapidly with each acute exacerbation
+
+Toronto Notes 2025
+
+Asthma Action Plan
+Avwitten plan developed by providers for
+patients with asthma, which includes signs
+and symptoms for patients to recognize
+acute loss of asthma contol (typically
+denoted as ‘green’ for good control,
+‘yellow’ for transient loss of control, or
+“redlemergency’ zones) and personalized
+treatment instructions for each zone
+{usually quadrupling inhaled corticosteroid
+dose in the yellow zone for 7-14 d)
+
+Addition of Long-Acting f2-Agonists to
+
+Inhaled Corticosteroids. Same Dose inhaled
+Corticosteroids forChronic Asthmain Adults and
+Gilden
+
+Cochrane DBSyst Rev 200;C0005535
+
+Purpose: To quantity te safety and eficac of dition
+cf ABMs to Sin asthmatcpatiensinsufemy
+controlled on CSabne.
+
+Methods: CTs comparing ation of inhaled ABA
+¥s.placebo othe same dase of Sin clren 2yrand
+above andin adults were inched.
+
+Aesuts: 7 studies, 16623 adults and 4625 children,
+Adin oa diy LABL to ICS redvced risk of
+exacerbations reutng orl trad by 23% and ed to
+significantly eater improvement in FE: compared
+tol(S monotherapy.
+
+Conchsions:Inadlts who ae symplomaticon ow
+tohigh doses of CS monotherapy, the addition oa
+Bk educesrateo exacerbations and improves ung
+funciona chien, the eft ofthistreament are
+‘uncertain,
+
+‘Adda LABA to ICS for patients with any
+iteria for poorly controlled ast
+
+1c5-FormoterolRelievervs, ICS andSABARelieverin
+Asthma: aSystematicReviewand Meta-Analysis
+£8 Open Research 2020:7,
+
+Purpose: Conducta systematicreviewand
+meta-analysis to evaluate the efcacy of asneeded
+1CSformoterl versus KS sasneeded SABA patents
+with mild-moderat asthme
+
+Methods: RCT comparing as needed ICS-formoterol
+versusICS+as needed SABAin adults andor children
+with mild-moderat asthma were included, excluding
+studies that didnot report severe exacerbations.
+Databases searched were EMBASE, MEDLINE, the
+Cochrane Central Register of Controlled Tras, and
+Clinical. go. The primary study outcome was time
+tofirstexacerbation.
+
+Results: Aer applying eligibility criteria, RCTS
+were included inthe meta-analysis, allcomparing
+bodesonide DPI budesonide + as needed SABA to DP
+budesonide formoterol Budesonide-frmatera as,
+needed reduced the rateratoand odd of primary
+cutcome (RR 0.85, 95% Cl 0.7310 1.00; OR 0.86; 95%
+073 0109.
+
+Conclusion: There wasa modest 15% reduction nthe
+hazard ratio of first exacerbation with budesonide
+fometerolas needed combination versustheICS+ as
+needed SABA maintenance regimen, Curent, there
+remains agreed standard fora minimal cinicaly
+important dferenc. Overall this tuys consistent
+with the GINA 2021 recommendations prefering
+
+CS -ormoterol as-needed overICSmaintenance
+therapyin mild asthma, Notethat Canadian guidelines
+sil recommend CS asneeded SABA as frst line for
+patients with suboptimal control, asitmay be superior
+to budesonide formoterlas needed combination
+forsymptom control, and considers them equal
+alternatives for those who have good symptom control
+butareotherwise at high isk for exacerbations. A
+decision aids avaiable to assist patients/providers
+when selecting between these options (wi.
+asthmade cisionaid. con),
+

@@ -1,0 +1,89 @@
+PH22 Public Health and Preventive Medicine
+
+A. Are the results of the study valid?
++ see below for classifications of evidence that has already been assessed
+
+B. What are the results?
+
++ what was the impact of the treatment effect?
+
++ how precise was the estimate of treatment effect?
+
++ what were the confidence intervals and power of the study’
+
+C. Will the results help me in caring for my patients?
+
++ are the results clinically significant?
+
++ can I apply the results to my patient population?
+
++ were all clinically important outcomes considered?
+
++ are the likely treatment benefits worth the potential harm and costs?
+
+Levels of Evidence: Classifications Cited in Guidelines/Consensus Statements
+Level evidence: based on RCTs (or meta-analysis of RCTS) big enough to have low risk of incorporating FP or FN resus
+
+Level evidence: based on RCTs too small to provide Level I evidence; may show posttve trends that are non-significant, or have ahigh risk of FN
+results
+
+Level ll evidence: based on non-randomized, controlled or cohort studies; case series; case-controlled; or cross-sectional studies
+Level IV evidence: based on opinion of respected authorities or expert committees, as published consensus conferences/ guidelines
+
+Level V evidence: opinions ofthe individuals who have writtenvreviewed the guidelines. LeveIV evidence), based on experiencelknowledge of
+iteraturepeer discussion
+Notes: These levels of evidence are nat direct evaluations of evidence qualty or credibly they reflect the nature ofthe evidence. Whe RCTs tend
+
+to_be most credible (with <I) level Il evidence gains credibility when multiple studies rom different locations andior time periods report consistent
+findings. Level IV and V evidence reflects decision-making that is necessary but in the absence of published evidence.
+
+Figure 14. Levels of evidence classifications
+Note: This is only one method of classifying evidence. Various systems exist, but operate within the same premise that certain types of evidence carry
+more weight than others
+
+Health System Planning and Quality
+
+Assessing and Improving Quality
+
+Quality
+* quality of care is the degree to which health services for individuals and populations increase the likelihood
+of desired health outcomes and are consistent with professional knowledge
+
+Implications for Patient Safety
+
+quality improvement plays a crucial role in enhancing patient safety in healthcare organizations, such as:
+identifying and reducing medical errors, adverse events, infections, and harms associated with healthcare
+delivery
+
+effective QI can contribute towards reducing morbidity and mortality rates, and improving patient
+outcomes
+
+implementation of QI initiatives also contributes to a culture of safety. Examples include checklists,
+guidelines, standardized procedures/protocols
+
+the Swiss cheese model of error proposed by James Reason represents the idea that even multiple barriers
+against failure can have limitations, leading to patient harm. To read more, please refer to Chapter 13 of the
+AFMC Primer
+
+Quality Improvement (Ql)
+
++ a means of evaluating and improving processes; focusing more on systems and systematic biases, which are
+thought to cause variation in quality
+
++ measures to increase efficiency of action with the purpose of achieving optimal quality
+
+Quality Assurance
+* process to guarantee the quality of health care through improvement and attainment of set standards
++ focuses on performance of individuals or institutions, often in relation to their peers
+
+Quality Control
++ a process of surveying the quality of all factors involved in the process to maintain standards
+
+Continuous Quality Improvement
++ the process of ongoing service/product refinement via the vigilant review of expectant issues detrimental to
+the system and regular incorporation of improvements
+
+Quality Management
++ combination of several processes (assurance, control, improvement) to maintain consistent quality
+
+Toronto Notes 2025

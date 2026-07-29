@@ -1,0 +1,165 @@
+OBI8 Obstetrics
+
++ contraindications:
+= maternal: bleeding (placenta previa or abruption), maternal disease (HTN, DM, heart disease),
+preeclampsia or eclampsia, chorioamnionitis
+= fetal: erythroblastosis fetalis, severe congenital anomalies, fetal distress/demise, IUGR, multiple
+gestation (relative)
++ agents:
+= calcium channel blockers: nifedipine
+¢ 20mg PO loading dose followed by 20 mg PO 90 min later
+20 mg can be continued q3-8 h for 72 h or to a maximum of 180 mg
+10 mg PO q20 min x4 doses
+relative contraindications: nifedipine allergy, hypotension, hepatic dysfunction, concurrent
+B-mimetics or MgSOs use, transdermal nitrates, or other antihypertensive medications
+absolute contraindications: maternal CHF, aortic stenosis
+«= prostaglandin synthesis inhibitors: indomethacin
+* for early PTL (<32 wk GA) or polyhydramnios
++ 50-100 mg PR loading dose followed by 25-50 mg q6 hx 8 doses for 48 h
+* contraindications : renal/hepatic impairment, peptic ulcer disease
+C. Antenatal Corticosteroids
++ betamethasone valerate (Celestone*) 12 mg IM q24 h x 2 doses or dexamethasone 6 mg IM q12h x 4 doses
+«= given between 24 to 34+6 wk GA if expected to deliver in the next 7d
+= patients between 22+0 and 23+6 wk GA at high-risk of preterm birth within the next 7 d should be
+provided with multidisciplinary consultation regarding high likelihood for severe perinatal morbidity
+and mortality and associated maternal morbidity - consider antenatal corticosteroid therapy if early
+intensive care is requested and planned
+= specific maternal contraindications: active TB
++ enhance fetal lung maturity, reduce perinatal death, and reduce incidence of severe RDS, IVH, necrotizing
+enterocolitis, or neonatal sepsis
++ D. Neuroprotection
++ MgSO: 4g bolus followed by 1 gh infusion for at least 4 h if imminent delivery expected and <33+6 wk GA
+# MgSOu reduces risk of cerebral palsy
+
+eee
+
+.
+
+Prognosis
+
+* prematurity is the leading cause of perinatal morbidity and mortality
+
+24 wk GA = 50% survival (may be higher in tertiary care centres with level 3-4 NICU)
+
+30 wk GA or 1500 g (3.3 Ib) = 90% survival
+
+33 wk GA or 2000 g (4.4 Ib) = 99% survival
+
+morbidity due to asphyxia, hypoxia, sepsis, RDS, IVH, thermal instability, retinopathy of prematurity,
+bronchopulmonary dysplasia, necrotizing enterocolitis
+
+Prelabour Rupture of Membranes
+
+Definitions
+
++ PROM: prelabour rupture of membranes
+
++ prolonged ROM:>18 h elapsed between ROM and onset of labour
++ PPROM: preterm (before 37 wk GA) PROM
+
+Risk Factors
+
++ maternal: multiparity, cervical incompetence, infection (cervicitis, vaginitis, STI, UTI), family history of
+PROM, low socioeconomic class/poor nutrition
+
++ fetal: congenital anomaly, multiple gestation
+
++ other risk factors associated with PTL
+
+Clinical Features
+«history of fluid gush or continued leakage
+
+Investigations
++ sterile speculum exam (avoid introduction of infection)
+= pooling of fluid in the posterior fornix
+= cascading: fluid leaking out of cervix with cough/valsalva
++ nitrazine (basic amniotic fluid turns nitrazine paper blue)
+= low specificity as it can also be positive with blood, urine, or semen
++ ferning: salt in amniotic fluid evaporates, giving amniotic fluid the appearance of ferns on microscopy
++ U/Sto rule out fetal anomalies (if no prior routine anatomy scan); assess EFW, presentation, and BPP
+
+Toronto Notes 2025
+
+@
+
+Tocolytcs for Preterm Premature Rupture of
+Membranes
+
+Cochrane DBSyst Rev20142:C0007062
+
+Purpose: Toassessthe potential benef and harms of
+envwithPPROM,
+
+Selection Criteria: Pregnant women with singleton
+pregnancies and PPROM (23-366 wk
+
+Results: 8 studies with 408 women total. Prophylactic
+tocoyss with PPROM was associated with increased
+vera latency, without addtional benefits for
+‘materna/neonatal outcomes For women with PPROM
+before34wicG, there wasa significantly increased
+1isk of choroarmiontisin women who received
+tocoyss. Neonatal outcomes were not significantly
+diferent.
+
+Conclusions: Although thereareintations tothe
+studies, theres curently insufficient evidence to
+support tcoytc therapy forwomen wth PPROM, as,
+there was an inceasein maternal chorioamnionits
+witout significant benefits tothe inant
+
+Prematurity increases newborn risk of:
+Respiratory distress
+
+Hypoglycemia
+
+Hyperbilirubinemia
+
+Apnea
+Feeding ificulties
+Seizures
+
+‘And more
+
+Membrane status determined by:
+
+Pooling of fluid on speculum exam
+Increased pH of vaginal fluid (nitrazine test)
+Ferning of fiuid under light microscopy
+Decreased AFV on U/S
+
+AatibiotcTherapyinPreterm Premature Rupture of
+the Membranes
+
+Obstet Gynecol Can 201738207212
+Recommendations:
+
+Following PPROM,antiotcs shouldbe
+adninistred to omen wh are notin labour
+inorderto prolong pregnancy andto decease
+maternal and neonatal morbid.
+Thebenefi of antbiotisis greater atearer ls
+or macrolide
+parenteral andlor oral
+
+en
+
+forms. Inpatients alrgictopenicilin, macrolide
+antibiotics shoul be used aloe.
+4 Twopossiberegimen options romlarge PPROM
+
+RCTs ae: (1) ampiclin2 1 hand erytromycin
+250 mV g6 for 48 followed by amoxiiin 250
+1mgPOqBhanderytronycin333mg PO gBhfor5
+4; (erythromycin 250 my PO gb for 104.
+Amoicilinidavulanic acid should notbe used
+because of an increased risk af necrotizing
+entercoltsin neonates, Anoxicilin without
+clavulanic adds safe.
+
+Women presenting with PPROM should be screened
+forUTs Sl, and BS.
+
+”
+
+o

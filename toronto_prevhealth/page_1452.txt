@@ -1,0 +1,76 @@
+PH34 Public Health and Preventive Medicine Toronto Notes 2025
+
+Abuse of Long-Term Care or Retirement Home Residents — to the Registrar of the Retirement
+
+Homes Regulatory Authority or Long-Term Care Home Director
+
++ any resident suspected of being subject to or at risk of improper or incompetent treatment or care, abuse or
+neglect, or unlawful conduct including financial abuse must be reported immediately
+
+Unfit to Drive - to Provincial Ministry of Transportation
+
++ all patients with a medical condition (e.g. dementia, untreated epilepsy, ophthalmological) that may impede
+their driving ability
+
++ ifaphysician does not report and the driver gets into an accident, the physician may be held liable
+
+Unfit to Fly - to Federal Ministry of Transportation
++ all patients believed to be flight crew members or air traffic controller with a medical or optometric
+
+condition that is likely to constitute a hazard to aviation safet
+Source: P50, Mandatory and Permissive Reporting 207. Avallable fom itpshwun ps. o.calPhysiiansPotes Guidance Policies Mandatory. and-Permisive Reporting
+
+eT
+
+Landmark Preventive Med Is
+
+TrialName Reference Clinical Trial Details
+Mammography
+‘SwedishTwo- Radiology Title: SwedishTwo-County Trak: Impact of Mammographic Scening On Breast Cancer Mortality During 3 Decades
+County Trial 2011;260(3):658- Purpose: Evaluate the long-term effectof mammographic screening on breast cancer mortality.
+i) Methods: 133065 women aged 40-74 were randomly assigned toeither a group invited for mammographic screening oa contol group. Anegative binomial regressionanalyzedmortaity
+
+Results: At 29 yr of follow-ug
+0.68; 95% C1:0.56 00.84.
+Conclusion: Invitation tomammographic screening leads toa large significant decreasein breast cancer seated mortality
+
+rgeSignfcantreductionin breast cancer mortality was found nthe group invited for mammographic screening compared tothe contol group (relative risk=
+
+Mass as Title: Primary outcomes were mortaty and cost pr lif year gained ove 10 years
+2009;338:52307 Results: Theinvited group had 15 0.46%) deaths related to AAA vs. 296 0.87%) n the control group (RR 48%; 95% Cl, 37%-57, The cos effectivenessratio was £7600 (£5100 tof13000) per
+lifeyear gained
+Conclusion: Mortality benefit for men sceened for abdominal aortic aneurysm by utrasound is maintained for upto 10 year, with cost effectiveness increasing with ime.
+COLONPREV NEJM Title: Colonoscopy versus Fecal Immunochemical Testing in Colorectal-Cancer Screening
+
+2012;366:697-106 Purpose: To compare the efficacy of colonoscopy and fecal immunochemical testing (Fl) on colorectal cancer (CRC) screening.
+Methods: RCT ofaduts aged 50-69 years who were asymptomatic and at average rk of CRC. Participants were randomized to receive a one-time colonoscopy or FT q2 years
+Result: Participation was 34.2% and 24.6% in the FIT and colonoscopy groups, respectively. CRC was detetedin 0.1% of participants in both thecolonoscopy and FT groups (OR 0.99; 95%,
+O61 99). Advancedadenomas were detected in 1.9% and 0.9%ofpaticpants inthe colonoscopy and IT groups respectively OR 2.30; 95% Cl, 197-269; 90.00
+Conclusion: Theincidence of colorectal concer did not der between subjects screened by colonoscopy as compared toFIT testing. More adenomas were detected inthe colonoscopy group.
+Participation washigher in subjects undergoing FIT testing.
+
+NIST NEM Title: Reduced Lung Concer Mortality with Low-Dose Computed Tomographic Screening
+2011;365:395- Purpose: To assess whether low-dose CT screening redceslung cancer matt
+409 Methods: RCT of53,454 patients athighrisk of lng cancer who were randomly assigned to receive3 annual low-dose CT scans ora single-view CXR. Primary outcomes were cases oflung
+«cancer and lung cancer deaths.
+Results: Positive screening test rates were 24.2% and 6 %in CT andradiograpy groups, respectively. ng cancer incidence was 645 cases per 100000 person years vs, 572 cases per
+100000 person years in CT and radiography groups, respectively (AR 113; 95% Cl, 103-123. The relative reduction in mortality from ung cancer with low-dose CT screening was 20.0%as
+‘compared toradiography (95% Cl, 6.8-26.7; p=0.004).
+‘Conclusion: Mortality from lung cancer is reduced with low-dose CT as ascreening tool in high risk patient populations.
+
+Vaccination
+VAKICOL ——-—JAm Geriatr Soc Title: Effect of Influenza Vaccination of Nursing Home Staff on Mortality of Residents: Auster Randomized Trial
+2009;57(9}: Purpose: Evaluate the impacto influenza vaccinationamong staff onall-cause mortality innursing home residents.
+1580-6 Methods: 40 nursing homes matched in pais were randomly assigned tothe vaccination arm or no-vaccination contrl arm. The vaccination arm involved avaccine promotion campaignand
+‘administration programfor staf
+Results: Vaccinationrates among taffin the vaccination arm were 69.9% compared to 31.8%in theno-vaccination am. A strong correlation between staf vaccination coverage and all-cause
+mortality ofthe residents was found (correlation coefficient =-0.42, P=0.007).
+Conclusion: The results supportstaffof nursing homes being vaccinated againstinfluenzato reduce al-cause mortalty of residents
+cT04368728 NEJM Title: Satety and Efficacy of the BNT16252 mRNA Covid-19 Vaccine
+2020;383:2603- Purpose: To determine the safety and eficacy ofthe BNT16262 mRNAcovid19 vaccine
+265 Methods: RCT of43,548 participants aged 16 or older who were randomized toreceve either the BNT162b2 mRNA vaccine or placebo.
+
+Results: Eight cases of Covid-19 occurred inthe vaccine group as compared to 162 casesin the placebo group, indicating 95% efficacy ofthe vaccine inCovid-19 prevention (95% C1, 90.3-97.9)
+Serious adverse events were low and comparable between groups.
+Conclusion: The BNTI62b2 mRNA Covid-19 vaccine provides 95% protection against Covid-19 in people aged 16 and older withcomparable safety data to other viral vaccines at 2 months.
+

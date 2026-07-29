@@ -1,0 +1,133 @@
+PHI4 Public Health and Preventive Medicine
+
+Sample Size
+
++ increasing the sample size increases the statistical precision of the observed estimate, resulting in more
+narrow confidence intervals
+
++ increasing the sample size decreases the probability of ‘ype! and type II errors
+
++ increasing sample size does not alter the risk of bias/confounding
+
+Bias
+
+«systematic error leading to an incorrect estimate of the true association between exposure and outcome
+
+* can occur at several points in study execution (e.g. collection, analysis, interpretation, publication, or
+review of data)
+
++ selection bias: a systematic error in the recruitment or retention of study participants
+
++ Berkson’s bias occurs in a case-control study using hospitalized controls, as they may not be a
+representative sample of the population due to the complexity that led to their hospital admission
+
++ non-response bias occurs when participants differ from non-participants in a study, in that those who
+volunteer may be healthier
+
++ loss to follow-up bias occurs when dropout rates differ between study groups and patients who dropped
+out are different from those who did not
+
++ information bias: the way in which information is collected about study participants is inadequate
+
++ recall bias occurs when individuals with disease may be more likely to incorrectly recall/believe they were
+exposed to a possible risk factor than those who are free of disease
+
++ interviewer bias occurs when interviewers are unblinded to outcome status and this knowledge biases
+their behaviour
+
++ observer bias occurs when knowledge of exposure status (e.g. race, gender) biases the observer towards a
+diagnosis; this occurs more commonly with subjective diagnoses like those found in psychiatry
+
+Confounder
+
+oa Yariable that is related to both the exposure and outcome but is not a mediator/in the exposure-outcome
+relationshiy
+
++ distorts the estimated effect of an exposure if not accounted for in the study design /analysis (e.g. late
+maternal age could be a confounder in an investigation of birth order >4 and risk of developing Trisomy 21)
+
++ randomization, stratification, matching, and regression modelling can help minimize confounding effects,
+usually not be eliminating the presence of confounders, but by balancing confounding equally across
+
+comparison groups
+Thedssociation of Faculties of Medicine of Canada Public Heath Educators’ Network. AFMC primer on population heath aterm) Assessing evidence and information. Avable from ht:
+phprimeramccafenpartihapterS
+
+Interpreting Test Results
+
+‘TP=True positive TN=True negative FP = False positive FN = False negative
+
+Disease
+Present | Negative
+Test Result | Positive i FP
+Negative | FN 1N
+
+Sensitivity =TP/(TP¥FN)
+Spedificity = TN(TN*FP)
+
+Likelihood Ratio (LR)
+
++ Likelihood that a given test result would be expected in a patient with disease compared with the likelihood that
+the same result would be expected in a patient without disease
+
++ LR+ indicates how much the probability of disease increases i the test is positive
+
++ LR-indicates how much the probability of disease decreases if the test is negative
+
+LR+ = Sensitivity = [TP/TP+N)] LR-= 1-Sensitivity = [FN/(TP+EN))
+T- Specificity (FP/(TN*FP) Specificity [TN/(TN+FP)]
+Positive Predictive Value (PPV)
++ Proportion of people with a positive test who have the disease
+Ppv= _1P
+1p + FP
+Negative Predictive Value (NPV)
++ Proportion of people with a negative test who are free of disease
+NPV> _IN
+iN + FN
+= 0239
+‘Advanced Neoplasia tne = <"osae ~ 38
+Present | Negative tre = 120239 og
+TestResult | Positive 68 147 0888
+Negative | 216 2234 ppv- 8 _ - 3165,
+Total 284 2381 fe+w7)
+Sensitivity = 68/284 = 23.9% NPV = __2234 = 912%
+Specificity = 2234/2381 = 93.8% (2234+ 216)
+
+Figure 4. Interpreting test results: practical example using FOBT testin
+Source: Cli Lieberman, Dubin, etal. curacy of ceeing for ecal occut ood ona snl sto sample cba
+
+sampling practice. Ann Intern Med 2005 42: 81-85
+
+advanced colon cancer
+by Gigitalrectalexamination: a comparison with recommended
+
+Toronto Notes 2025
+
+Figure 5. Understanding sensitivity
+and specificity
+
+Scarce: Loong TW, Understanding sestivtyand specify
+vith the ight side ofthe rai, 8420033327716
+
+‘© —Wwel person
+© — person wth disease
+
+Figure 5a. Hypothetical poulation
+
+Dark grey— postive test rest
+Light grey — negative testresut
+
+Figure 5b. Results of diagnostic test
+‘on hypothetical poulation
+
+Figure 5c. Sensitivi
+(e.g. 24/30 = 80% sensitivity)
+
+o0000000
+e0000000
+oe0000000
+oeo0000000
+e00000
+
+Figure 5d. Specificity of test
+(e.g. 56/70 = 80% specific)

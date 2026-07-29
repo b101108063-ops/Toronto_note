@@ -1,0 +1,84 @@
+c70 Cardiology and Cardiac Surgery Toronto Notes 2025
+
+Cerebral Protection
+
++ cerebral protection techniques are required when CPB cannot supply the head vessels, such as during
+surgery on the aortic arch
+
++ methods of cerebral protection to reduce oxygen demands include: hypothermia (most important) and
+antegrade/retrograde cerebral perfusion (ACP/RCP)
+
+Deep Hypothermic Circulatory Arrest (DHCA)
++ deep hypothermic circulatory arrest reduces cerebral metabolism and oxygen consumption to the point
+that CPB can be discontinued
+= (30-40 min safe circulatory arrest at 20°C; 45-60 min safe circulatory arrest at 16°C)
+* concurrent ACP enables circulatory arrest at higher temperatures than DHCA alone
+«= EEG monitoring occurs throughout to confirm adequate cerebral protection
+= mannitol (reduces cerebral edema) and steroids (decrease cerebral inflammation) are used adjunctively
+= complications related to deep hypothermic circulatory arrest include: coagulopathy and platelet
+dysfunction, systemic inflammatory response, neurological injury secondary to ischemia in watershed
+areas (neurologic dysfunction may be persistent or transient depending on etiology)
+
+Common Medications
+
+Table 20. Commonly Used Cardiac Therapeutics
+Drug Class Examples Mechanism of Action Indications Contraindications Side Effects
+ANGIOTENSIN CONVERTING ENZYME INHIBITORS (ACE!)
+
+‘enalapril, perindopril, ramipril, Inhibit ACE-mediated conversion of HTN, CAD, CHF, post-MI, DM teral renal artery stenosis, Dry cough (10%), hypotension,
+lisinopril angotensin| pregnancy, cautonindecreased GFR fatigue, hyperkalemia, renal
+toangitensin ATI, causing insufciency, angioedema
+peripheral
+vasodilation and decreased
+
+‘aldosterone synthesis
+
+ANGIOTENSIN I RECEPTOR BLOCKERS (ARBs)
+
+candesartan, itbesartan, BlockATItreceptors, causing similar Same as ACEI, although evidenceis Sameas ACEI Similar toACEL, but lss likely to
+losartan olmesartan elmisartan, effects asACEL general less for ARBs; often used cause dry cough
+valsartan ‘when ACElarenot tolerated
+[ANGIOTENSIN RECEPTOR-NEPRILYSIN INHIBITOR (ARN)
+sacubitril/vasartan Sacubitil inhibits nepriysin which HFLEF Angioedema, pregnancy Angioedema, hyperkalemia,
+leads tovasodiation and natriuresis hypotension, renalinsuficiency
+Valsartan (ARB) -see above
+B-BLOCKERS
+flantagonists atenolol, metoprolol bisopolol, BlockB-adrenergic receptors, HTN, CAD, acute M,post-MI,CHF Sinus bradycardia, 2nd or 3d degree Hypotension, fatigue, light-
+proprandll, decreasing HR, BP, contractility, and _(startlowand o slow), AFib,SVT heart Block, hypotension hheadedness, depression,
+BUBZantagonists labetall,carvediol,acebutolol myocardial oxygen demand: also Cautionin asthma, claudication, bradycardia hyperkalemia,
+‘at/B1/82 antagonists slow conductionthrough the AV node Raynaud'sphenomenon, and bronchospasm, impotence,
+antagonists with decompensated CHF depression of counterregulatory
+intrinsic sympathomimetic response to hypoglycemia,
+activity exacerbation of Raynaud's
+‘CALCIUM CHANNEL BLOCKERS
+Bencothiazepines diltiazem, verapamil Blocksmooth muscle and myocardial HTN, CAD,SVT,AFi, diastolic Sinus bradycardia, 2nd or 3rd degree Hypotension, bradycardia, edema
+Phenlalkylamines ‘aldum chamelscausing effects dysfunction heart block, hypotension, CHE
+(non-<ihydropyriines) similar to f-bbckers
+‘so vasodiate
+Ditydropyriines amlodipine, nifedipine, flodipine Blocksmooth muscle calcium HTH, CAD Severe AS and iver failure Hypotension, edema shing,
+channels causing peripheral headache, lightheadedness
+vasodilation
+‘SODIUM-GLUCOSE COTRANSPORTER-2 (SGLT2) INHIBITORS
+<anagliflzin Proposed meckanisms include: gifozn trial (OAPA-HF) Severe CKD dapagiitiozin Yeast infections, Urinary tract
+apagifozin ‘osmotic diuresis and natriuresis dcates potential usein HFEF contraindicated patients with eGFR infections, hypoglycemic episodes,
+‘empagitiozin reducing preload;vasodilation with DM/non-DM, with muttple <3) mL/min/1.73m2),T1DM, history of diabetic ketoacidosis, decreased
+ertugiftozin leading o reduced afterload, other SGLT2 inhibitors trials DKA, advise holding during sick days bone mineral density
+
+myocardial metabolic stabifzation underway. Although dapagifiozin
+hasteceived guideline
+recommendations inCanada, US,
+andEU for use in HFEF, noSGLT2
+inhibitors have formal approval for
+HFTEF without OM by Health Canada
+HFpEF (see EMPEROR. Preserved
+
+trial)
+DIURETICS
+Thiazides hydrochlorothiazide, Reduce Na+ reabsorption inthe HTN (drugs of choicefor Sultaallergy, pregnancy Hypotension, hypokalemia, polyuria
+chlorthalidone, metolazone distal convoluted tubule (OCT) ‘uncomplicated HTN)
+Loop diuretics furosemide (Lasix®) BlocksNav/K-ATPasein thick CHF, pulmonary o peripheral Hypovolemia, hypokalemia Hypovolemia, hypokalemic
+ascending limb oftheloop of Henle edema metabolic alkalosis
+Mineralocorticoid receptor spironolactone ‘Antagorizealdosteronereceptors HTH, CHF, hypokalemia Renal insufficiency, hyperkalemia, Edema, hyperkalemia, gynecomastia
+
+antagonists eplerenone Pregnancy
+

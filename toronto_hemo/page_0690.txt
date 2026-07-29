@@ -1,0 +1,159 @@
+136 Hematology
+
+Congenital Dysfibrinogenemia
++ may predispose to thromboembolic disease, bleeding, or both
+
+Disorders of Fibrinolysis
++ includes congenital plasminogen deficiency and tPA deficiency, but association with VTE risk is not clear
+
+Antiphospholipid Antibody Syndrome
+«+ Revised Sapporo Criteria: 21 clinical and 21 laboratory criteria
+« clinical: arterial or venous thrombosis, unexplained recurrent (> 3) consecutive early pregnancy losses
+<10 wk, one late fetal loss >10 wk (morphologically normal), or premature birth before 34 wk due to
+(preeclampsia or placental insufficiency
+« laboratory (must be confirmed on two occasions, tested >12 wk apart): anticardiolipin IgG and IgM,
+anti-B2 glycoprotein-I Ab, or lupus anticoagulant
++ mechanism: not well understood, Abs interact with platelet membrane phospholipids causing increased
+activation; can also interfere with thrombin regulation, fibrinolysis, and inhibit the protein C pathway
+
+«+ see Rheumatology, RH13
+
+Venous Thromboembolis
+
+Definition
+
++ thrombus formation and subsequent inflammatory response in a superficial or deep vein
+
++ includes superficial vein thrombosis, DVT, and PE
+
++ thrombi propagate in the direction of blood flow (commonly originating in calf veins)
+
++ DVT is more common in lower extremity than upper extremity (upper extremity DVT are increasing due to
+more central venous access lines)
+
+incidence ~1% if age >60 yr
+
+most important sequelae of DVT are PE (~50% chance with proximal DVT) and post-thrombotic syndrome
+(chronic venous insufficiency)
+
+acutely, PE can result in cardiorespiratory failure and death (rare in treated patients). Most severe chronic
+sequela of PE is chronic thromboembolic pulmonary hypertension (CTEPH)
+
+Etiology (Virchow’s Triad)
++ endothelial damage
+= exposure of procoagulant proteins on dysfunctional endothelium promotes thrombosis
+«= decreased inhibition of coagulation and local fibrinolysis
+= changes to vessel wall integrity may result in turbulent blood flow
+* venous stasis
+= immobilization (e.g. post-MI, CHF, stroke, and postoperative) inhibits clearance and dilution of
+coagulation factors
++ hypercoagulability
+= inherited (see Hypercoagulable Disorders, H35)
+= acquired
+age (risk increases with age)
+surgery (especially orthopedic, thoracic, GI, and GU)
+trauma (especially fractures of spine, pelvis, femur, or tibia, and spinal cord injury)
+neoplasms (especially pancreas, stomach, lung, lymphoma, bladder, testicular, colorectal, and
+gynecologic - based on the Khorana score)
+blood dyscrasias (MPNs, especially PV, ET), PNH, hyperviscosity (multiple myeloma, polycythemia,
+leukemia, and SCD), hemolytic anemias
+prolonged immobilization (e.g. CHE, stroke, MI, and leg injury)
+hormone related (combined OCP, hormone replacement therapy, and selective estrogen receptor
+modulators)
+= pregnancy
+APS
+heart failure (risk of DVT greatest with right heart failure and peripheral edema)
++ New York Heart Association (NYHA) Class III and IV
++ idiopathic (10-20% are later found to have cancer)
+
+Clinical Features of DVT
+
+absence of physical findings does not rule out disease
+
+unilateral leg edema, erythema, warmth, and tenderness; purple-blue colour may indicate severe limb-
+threatening thrombus
+
+palpable cord (i.e. thrombosed vein)
+
+phlegmasia alba dolens (white appearance) and phlegmasia cerula dolens (acute pain and edema) with
+massive thrombosis
+
+Homan’s sign (pain or resistance with foot dorsiflexion) is unreliable
+
+Differential Diagnosis of DVT
++ muscle strain or tear, lymphangitis or lymph obstruction, venous valvular insufficiency, ruptured popliteal
+cysts, cellulitis, and arterial occlusive disease
+
+Toronto Notes 2025
+
+Malignancy is a Common Cause of
+‘Acquired Hypercoagulability
+
+Workup should include:
+
+Complete history and physical
+
+‘Age appropriate screening:
+
+‘Mammogram, Pap, PSA, colonoscopy
+Additional imaging/laboratory testing based
+‘on clinical suspicion
+
+Close follow-up
+
+Screening for Occult Cancer in Unprovoked VIE
+
+(SOME)
+
+NeJM2015;373:697704
+
+Purpose: To asses the efcacy ofa screening program
+forocclt cancer thatemploysCT ofthe abdomen and
+pers patents experiencing their first unprowked
+episode of IE
+
+Methods Patients (1-854) were randomly assigned to
+Anite ocult cance screening orlinited occut-ancer
+screening pis CT.
+
+Results: 3.2% of patentsin the limted-screening
+group and 45% of patients inthe mited-screening
+us CT group recived anew dagnossof occult
+cancer between the randomization point an 1-year
+foloaup (0.28). Four oct cancers were missed
+by thelmited screening strategy, whee acut
+cancers were missed by the limited screening pus CT
+strategy (10)
+
+Conclusion: Routine screening with Tin patients who
+hada fst unprovoked VTE didnot provide a cinkaly
+signfcant beef.
+
+Although lupus anticoagulant prolongs
+PTT, this is a misnomer, as its main clinical
+feature is thrombosis
+
+Risk of VTEin Hospitalized Patients
+
+Receiving Ineffective Antithrombotic
+Therapy
+RiskFacor RR(Q5%C) Peale
+ge 179 (118271) 0.007
+Cancer 158(.01251) 0.07
+Previous VIE 1.67(L0¥277) 0.08
+Obesity 0.94(059451) 0.91
+Homone therapy 0:51(0.08-338) 0.70
+Heartfiwe ——1.08(0.72162) 0.82
+NHN 0.89(055143) 0.72
+vHAv 14308426) 0.7
+Acteintecious —1.50(1002.25) 0.06,
+Gisease
+Acitetheumatic — 145(0.84-250) 0.27
+Gsease
+
+‘Source: JAMA 2004;164:963-968
+
+Virchow’s Triad
+Endothelial damage
+Blood stasis
+Hypercoagulability,

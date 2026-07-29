@@ -1,0 +1,85 @@
+PS13 Psychiatry
+
+= ECT: currently fastest and most effective treatment for MDD. Consider in severe, psychotic, or
+treatment-resistant cases
+«= rTMS: Ist line treatment for MDD for patients who have failed at least 1 antidepressant treatment.
+Efficacy equivalent to medications (but not to ECT) with good safety and tolerability
++ psychological
+« individual therapy (CBT, interpersonal, behavioural activation, dynamic), group therapy, family
+therapy
++ social: vocational rehabilitation, social skills training
++ experimental: magnetic seizure therapy, deep brain stimulation, ketamine
+
+Prognosis
+
+«+ Lyrafter diagnosis of MDD without treatment: 40% of individuals will still have symptoms that are
+sufficiently severe to meet criteria for MDD, 20% will continue to have some symptoms that no longer meet
+criteria for MDD, 40% will have no symptoms
+
+PERSISTENT DEPRESSIVE DISORDER
+
+DSM-5 DIAGNOSTIC CRITERIA FOR PERSISTENT DEPRESSIVE DISORDER
+Note: in DSM-IV-TR this was referred tas ysthymic Disorder
+Reprinted with pemission rom the Diagnostic and Statistical Manual of Mental Disorders, Sthed. 2013. American Psychiatric Association
+
+A. depressed mood for most of the day, for more days than not, as indicated either by subjective account or
+observation by others, for >2 yr
+Note: In children and adolescents, mood can be irritable and duration must be at least 1 yr
+
+B, presence, while depressed, of 22 of the following
+= poor appetite or overeating
+= insomnia or hypersomnia
+= low energy or fatigue
+= low self-esteem
+. poor concentration or difficulty making decisions
+= feelings of hopelessness
+C. during the 2 yr period (1 yr for children or adolescents) of the disturbance, the person has never been
+without the symptoms in criteria A and B for more than 2 mo at a time
+
+D. criteria fora major depressive disorder may be continuously present for 2 yr
+
+E. there has never been a manic episode or a hypomanic episode, and criteria have never been met for
+cyclothymic disorder
+
+F, the disturbance is not better explained by a persistent schizoaffective disorder, schizophrenia, delusional
+disorder, or other specified or unspecified schizophrenia spectrum and other psychotic disorder
+
+G. the symptoms are not due to the direct physiological effects of a substance or another medical condition
+
+H. the symptoms cause clinically significant distress or impairment in social, occupational, or other
+important areas of functioning
+
++ specifiers:
+
+«= with anxious distress, mixed features, melancholic features, atypical features, mood-congruent
+psychotic features, mood-incongruent psychotic features, catatonia, peripartum onset, seasonal pattern
+partial remission, full remission
+early onset (<21 y/o), late onset (>21 y/o)
+with pure dysthymic syndrome (full criteria for MDE have not been met in at least preceding 2 yr), with
+persistent MDE (full criteria for MDE have been met throughout preceding 2 yr)
+with intermittent MDEs, with current episode: full criteria for a MDE are currently met, but there have
+been periods of at least 8 wk in at least the preceding 2 yr with symptoms below the threshold for a full
+MDE
+with intermittent MDEs, without current episode: full criteria fora MDE are not currently met, but
+there has been one or more MDEs in at least the preceding 2 yr
+specify current severity: mild, moderate, severe
+
+Epidemiology
+«lifetime prevalence: 2-3%; M=F
+
+Treatment
++ psychological
+= traditionally, psychotherapy was the principal treatment for persistent depressive disorder; recent
+evidence suggests some (but generally inferior) benefit for pharmacological treatment. Combinations of
+the two may be most efficacious
++ biological
+= antidepressant therapy: SSRIs (e.g. sertraline, escitalopram), TCAs (e.g. nortriptyline)
+
+Toronto Notes 2025
+
+See Landmark Psychiatry Trials table
+
+for more information on TRANSFORM-2,
+which details the use of esketamine nasal
+spray for patients with treatment-resistant
+depression,

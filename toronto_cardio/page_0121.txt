@@ -1,0 +1,134 @@
+fer Cardiology and Cardiac Surgery
+
+Chronic Stable Angina
+
+Definition
++ symptom complex resulting from an imbalance between oxygen supply and myocardial oxygen demand in
+the myocardium
+
+Etiology and Pathophysiology
++ factors that decrease myocardial oxygen supply:
+«= decreased luminal diameter: atherosclerosis, vasospasm
+= decreased duration of diastole: tachycardia (decreased duration of diastolic coronary perfusion)
+= decreased hemoglobin: anemia
+= decreased Sa0:: hypoxemia
+= congenital anomalies
++ factors that increase myocardial oxygen demand:
+= increased HR: hyperthyroidism, exercise, anemia, pregnancy
+«= increased contractility: hyperthyroidism
+= increased wall stress: myocardial hypertrophy, AS
+
+Signs and Symptoms
++ typical
+1. retrosternal chest pain, tightness or discomfort radiating to left (+ right) shoulder/arm/neck/jaw,
+associated with diaphoresis, nausea, anxiety
+2. predictably precipitated by the “3 Es”: exertion, emotion, eating
+3. brief duration, lasting <10-15 min and typically relieved by rest and nitrates
+. atypial/probable angina (meets 2 of the above)
++ non-cardiac chest pain (meets none or | of the above)
++ Levine's sign: clutching fist over sternum when describing chest pain
++ anginal equivalents: dyspnea, acute LV failure, flash pulmonary edema
++ ischemia may present differently in understudied populations
+
+‘al Assessment
++ history including directed risk factor assessment and physical exam
++ labs: Hb, fasting glucose, fasting lipid profile, HbA Ic, renal function tests, liver function tests, and thyroid
+function test
++ 12-lead ECG (at rest and during episode of chest pain if possible)
+CXR (suspected HF, valvular disease, pericardial disease, aortic dissection/aneurysm, or signs/symptoms
+of pulmonary disease)
+stress testing (see Stress Testing, C15) or angiography
+echo for other causes of chest pain:
+= aortic dissection
+» valvular heart disease
+«= HCM
+« LV dysfunction and/or wall motion abnormality
+= pericardial disease/effusion
+
+Differential Diagnosis
++ see Differential Diagnoses of Common Presentations, C5
+
+Treatment of Chronic Stable Angina
++ refer to 2019 European Society of Cardiology guidelines, and 2023 AHA/ACC/ACCP/ASPC/NLA/PCNA
+Guideline for the Management of Patients With Chronic Coronary Disease for more information
+
+1. General Measures
+= goals: to reduce myocardial oxygen demand and/or increase oxygen supply
+« lifestyle modification (diet, exercise, smoking cessation)
+= treatment of risk factors: e.g. statins (see Endocrinology, E5, Family Medicine, FM11 for target lipid
+guidelines), antihypertensives
+= pharmacological therapy to stabilize the coronary plaque which will prevent rupture and thrombosis
+
+v
+
+. Antiplatelet Therapy (first-line therapy)
+= ASA
+= clopidogrel when ASA is contraindicated
+«= low dose rivaroxaban in combination with ASA (based on COMPASS trial)
+
+3. B-blockers (first-line therapy improves survival in patients with HTN)
+= increase coronary perfusion and decrease demand (HR, contractility) and BP (afterload)
+= cardioselective agents preferred (e.g. metoprolol, atenolol) to avoid peripheral effects (inhibition of
+vasodilation and bronchodilation via B2 receptors)
+avoid intrinsic sympathomimetics (e.g. acebutolol) which increase demand
+
+Toronto Notes 2025
+
+Chronic stable angina is most often due to
+a fixed stenosis caused by an atheroma
+AACSs are the result of plaque rupture which
+causes a cascade resulting in thrombosis.
+
+Canadian Cardiovascular Society (CCS)
+Functional Classification of Angina
+
+Class I: ordinary physical activity (walking,
+climbing stars) does not cause angina;
+‘angina with strenuous, rapid, or prolonged
+activity
+
+Class Ik slight limitation of ordinary activity
+angina brought on at>2 blocks on level or
+climbing >1 fight of stairs, or by emotional
+stress
+
+Class Ill: marked limitation of ordinary
+activity: angina brought on at <2 blocks on
+level or climbing <1 fight of stairs
+
+Class IV: inability to carry out any physical
+activity without discomfort; angina may be
+present at rest
+
+Aspirin the PrimaryPreventionof Cardiovascular
+Disease onDiabetic Patients: Systematic Review and
+Meta-analysis
+Primary Care Diabetes 2020;14:213-21
+
+Purpose: This study sought to conducta systematic
+review of all randomized controlled trials that assessed
+the clinical effects of aspirin in dia betic patients for
+primary prevention purposes.
+
+‘Methods: A comprehensive search was conducted in
+(MEDLINE, EMBASE, and CENTRAL for RCTs exar
+
+‘mortal andthe composite outcome of majoradverse
+cardiovascular events
+
+Results: No significant reduction in all-<ause morality
+was found (RO.96, 95% C1 0,90-1.03; 7 RCTs, 27585
+patients). However, there was an 8% riskreduton in
+majradverse cardiovascular events (RRO.92, 95%
+(10.84-0.999; 8RCIs; 29814 patients. Theiss of
+major bleeding (BR 1.30, 95% C1110-153;2RCTs,
+18019 patents) and major gastrointestinal bleeding (RR
+139, 95% C1.08-180; 2RCIs, 18019 patients) were
+significantly increased
+
+Condusion: The we of asin in primary prevention
+for diabetic patents was inke do. c
+major bleeding, modest edu
+cardiovascular events, and no observed beneftin terms
+of mortality.
+

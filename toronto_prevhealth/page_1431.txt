@@ -1,0 +1,122 @@
+PHI3 Public Health and Preventive Medicine
+
++ standardization prevents bias that can occur when crude rates from two dissimilar populations are
+compared (e.g. crude death rates over a number of decades are not comparable as the population age
+distribution has changed with time)
+
+this allows for the calculation of a Standardized Mortality Ratio (SMR), where SMR = (observed number of
+deaths)/(expected number of deaths)
+
+MEASURES OF MORTALITY
+
+Life Expectancy
++ the expected number of years to be lived by a newborn based on age-specific mortality rates at a selected
+time
+
+Crude Death Rate
++ mortality from all causes of death per 1000 in the population
+
+Infant Mortality Rate (IMR)
++ number of reported deaths among children <1 yr of age during a given time period divided by the number
+of reported live births during the same time period and expressed as per 1000 live births per year
+
+Maternal Mortality Rate (MMR)
++ number of deaths of women during pregnancy and due to puerperal causes per 1000 live births in the same
+year
+
+MEASURES OF DISEASE BURDEN
+
+Potential Years of Life Lost (PYLL)
+
+. calculated for a population using the difference between the actual age at death and a standard/expected
+age at deat
+
++ increased weighting of mortality at a younger age
+
+Disability Adjusted Life Year (DALY)
++ number of years lost due to premature mortality + number of years lost due to disability, where 0 = a year of
+erfect health and 1 = death
++ both premature death and time spent with disability accounted for; these disabilities can be physical or
+mental
++ used to assess burden of diseases in a population
+
+Quality Adjusted Life Year (QALY)
++ years of life weighted by quality (utility is a proxy for quality), ranging from 0 (= death) to 1 (= perfect
+ealth). Weights are assigned based on large studies that assessed the effect of various conditions on quality
+of life (e.g. blindness = 0.3)
++ itis possible to have “states worse than death” (e.g. QALY <0 for extremely serious conditions)
++ usually used as an economic measure to assess the value for money of medical interventions
+
+For additional rate calculations see Steps to Control an Outbreak, PH25
+
+Consult the Public Health Agency of Canada for examples and latest statistics
+
+‘overnmentof Canada: Chapter 3: Te chit pubic eal ofice'seprt on he state of public heath in Canada 2008 - or health Interet]. Our population, ourheath andthe dstbutions
+‘of ur health; updated 2008 Jun 6. vaabl rom: ips: wr. canada ca/n/pub i heatcorporate/pblcationschie-pabiheah-oficer-reports-tae-public heath canada Report
+‘on-stte-pbiichelth-canada-2008/captet 3.
+
+‘Sources: Sah, CP. Healthindcatrs and datasources, Pubic Heath and Preventive Medicine in Canada, Se. Toronto: Eee, 2003
+
+Thedssocaton of Faculties of Medicine of Canada Public Health Educators’ Network. AFC primer on population heath interne). Methods: measuring heathy ted 2006 Mar 25) Avalable
+‘ramntips:phprimeratnecafen!
+
+pidemiology
+
+Population
++ adefined collection of individuals/regions/institutions/etc. (e.g. individuals defined by geographic region,
+sex, age)
+
+Sample
++ aselection of individuals from a population
++ types
+= Probability sampling
++ simple random: all individuals are have a known and equal chance of being selected
+« systematic random: a rule or algorithm is used to select a subset of individuals (e.g. every third
+person on alist)
+* stratified random: population is divided into distinct subgroups (e.g. age groups), individuals are
+randomly selected from within each subgroup
++ cluster: a group of persons clustered in space/time (e.g. all persons living ina city block) is selected
+rather than an individual
++ Non-probability sampling
+* convenience: sampling based on convenience or accessibility (e.g. persons attending a booth at a
+health fair)
++ snowball sampling: existing subjects nominate subjects they know, so the sample increases in size
+like a rolling snowball; useful for recruiting members of “hidden” populations (e.g. persons who
+inject drugs)
+
+Toronto Notes 2025
+
+Top 10 Causes of DALYs in Canada, 2019
+Neoplasms
+
+Cardiovascular diseases
+
+Musculoskeletal disorders
+
+Neurological disorders
+
+Mental disorders
+
+Other non-communicabl diseases
+‘Unintentional injuries
+
+Chronicrespiratory diseases
+
+Diabetes and kidney diseases
+
+10, Substance usedisoders
+
+Source: Global Burden of Disease Compare Vi Hub
+[Ierne) Seattle WA: University of Washington,
+Institute for Heath Metrics an Evaluation (ME);
+2021|cted 2021 Mar 28) Avaabe rom: ts:
+veh. eathdaa.org/gb<ompare!
+
+SPIN: use a SPecifictest torule IN a
+hypothesis. Note that specific tests have
+very few false positives. ryougeta
+positive test, its likely atrue positive
+SNOUT: use a SENsitive testto rule OUT
+a hypothesis, Note that sensitive tests
+have very few false negatives. Ifyou get a
+negative test, itis likely a true negative
