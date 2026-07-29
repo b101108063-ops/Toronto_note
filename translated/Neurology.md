@@ -6,93 +6,97 @@
 
 ## 導讀摘要
 
-常見神經症狀處理方法
+本節涵蓋常見神經症狀之系統性處理方法。
 
-無力
+---
 
-處理方法
-+ 發病模式: abrupt (vascular, toxic, metabolic), 亞急性 (neoplastic, infective, inflammatory), insidious
-(genetic, degenerative, endocrine, neoplastic)
+### 一、無力（Weakness）
 
-course: 發作時惡化 (vascular), 漸進性 (neoplastic, degenerative, infective, genetic), 陣發性
-(vascular, inflammatory, epileptic), 活動依賴性 (neuromuscular junction, muscular)
+**病史詢問重點**
 
-pattern: 客觀性 vs. 主觀性, 全身性 vs. 局部性, 不對稱 vs. 對稱, 近端 vs. 遠端,
-上運動神經元 vs. 下運動神經元, peripheral vs. myotomal
++ **發病模式**：
+  - 突發性（abrupt）：血管性、毒性、代謝性
+  - 亞急性（subacute）：腫瘤性、感染性、發炎性
+  - 漸進性（insidious）：遺傳性、退化性、內分泌性、腫瘤性
 
-associated symptoms: 感覺, 皮質, 自律神經, 脊髓 (i.e. bowel/bladder dysfunction), signs/
-symptoms specific to various etiologies
++ **病程演變**（course）：
+  - 發作時惡化：血管性
+  - 漸進性惡化：腫瘤性、退化性、感染性、遺傳性
+  - 陣發性：血管性、發炎性、癲癇性
+  - 活動依賴性：神經肌肉接合處、肌肉性疾病
 
-history: family history, developmental history, medications, risk factors, recent/preceding exposures
-investigations for 下運動神經元: 神經傳導/E重症肌無力
++ **障礙型態**（pattern）：
+  - 客觀性 vs. 主觀性
+  - 全身性 vs. 局部性
+  - 不對稱 vs. 對稱
+  - 近端 vs. 遠端
+  - **上運動神經元**（UMN）vs. **下運動神經元**（LMN）
+  - 周邊型（peripheral）vs. 肌節型（myotomal）
 
-investigations for 上運動神經元: imaging (brain and/or 脊髓 cord)
++ **相關症狀**：
+  - 感覺症狀、皮質症狀、自律神經症狀
+  - 脊髓症狀（如：腸道/膀胱功能障礙）
+  - 各病因之特定徵兆/症狀
 
-investigations for suspected 肌肉病變: muscle biopsy, creatine kinase level, 神經傳導/E重症肌無力.
++ **病史要素**：
+  - 家族史、發育史、用藥史、風險因子
+  - 近期暴露史
 
-investigations for suspected 神經肌肉接合處 disorder: 神經傳導/E重症肌無力 (with repetitive nerve
-stimulation and single fibre E重症肌無力), antibodies (e.g. acetylcholine receptor antibodies and muscle-specific
-kinase antibodies for 重症肌無力, voltage-gated calcium channel antibodies for 蘭伯特-伊頓肌無力症候群)
+**實驗室檢查**
 
-鑑別診斷
-+客觀性肌肉無力; also, differentiate between真正的肌肉無力 vs.疲勞
-= 全身性
-* 肌肉病變 (近端 > 遠端無力)
-— endocrine: hypothyroidism, hyperthyroidism, Cushing's syndrome
-— rheumatologic: dermatomyositis, polymyositis, vasculitis
-— infectious: 愛滋病, influenza
-— other: collagen vascular disorders, 皮質類固醇, statins, 酒精, electrolyte disorders
-neuromuscular junction (重症肌無力, botulism, 蘭伯特-伊頓肌無力症候群, organophosphate poisoning)
-polyradiculopathy (infection, malignancy, 格林-巴利症候群, 慢性發炎性脫髓鞘性神經病變)
-cachexia
-局部性
-¢ 上運動神經元 (vasculitis, abscess, brain tumour, vitamin Bu deficiency, 多發性硬化症, 中風)
-+ radicular pain (i.e. nerve root)
-前 horn cell Gpinal muscular 萎縮, 肌萎縮性脊髓側索硬化症, polio, paraneoplastic)
-+ peripheral 神經病變 (peroneal muscle 萎縮, 格林-巴利症候群, leprosy, amyloid, myeloma, 糖尿病, lead toxicity)
-+ no客觀性肌肉無力
-= 慢性 illness (cardiac, pulmonary, anemia, infection, malignancy)
-= deconditioning
-«= functional neurologic disorder
++ 懷疑**下運動神經元**病變：神經傳導（NCV）/肌電圖（EMG）
++ 懷疑**上運動神經元**病變：腦部及/或脊髓影像學
++ 懷疑**肌肉病變**：肌肉切片、肌酸激酶（CK）數值、神經傳導/肌電圖
++ 懷疑**神經肌肉接合處**疾病：
+  - 神經傳導/肌電圖（含反覆刺激測驗及單纖維肌電圖）
+  - 抗體檢測（如：重症肌無力之乙醯膽鹼受體抗體、肌肉特異性激酶抗體；蘭伯特-伊頓肌無力症候群之電壓門控鈣離子通道抗體）
 
-麻木/感覺異常
+---
 
-處理方法
-+ positive 感覺症狀: 感覺異常/dysesthesia = 刺痛, pins and needles, prickling, 燒灼感, ©
-stabbing, itching, sensation of wetness
-+ negative 感覺症狀: 感覺減退/anesthesia = 麻木, reduction/absence of feeling The presence of 感覺症狀
-+ determine distribution of 感覺 loss: excludes pure motor neuron,
+### 二、麻木/感覺異常（Numbness/Tingling）
 
-neuromuscular junction, or muscle
+**病史詢問重點**
 
-= nerve root vs. peripheral nerve pathologies
++ **陽性感覺症狀**（positive sensory symptoms）：
+  - 感覺異常（dysesthesia）= 刺痛感、針刺感、蟻爬感、灼熱感、刺痛、搔癢、潮濕感
 
-= 對稱 襪套式 pattern (indicative of 遠端 對稱 多發性神經病變)
-= dissociated 感覺 loss: dorsal column (fine touch, proprioception, vibration) vs. spinothalamic tract
-(pain and temperature)
-+ investigations: 神經傳導, blood glucose, HbAIC, vitamin Bi. level, serum protein electrophoresis, serum
-immunofixation, imaging based on associated findings
++ **陰性感覺症狀**（negative sensory symptoms）：
+  - 感覺減退（anesthesia）= 麻木、感覺減弱或消失
 
-鑑別診斷
-+ cerebral: 中風, demyelination, tumour
-= symptoms: 偏癱, aphasia, apraxia
-+ brainstem: 中風, demyelination, tumour
-= symptoms: 複視, 眩暈, 構音障礙, 吞嚥困難, crossed 感覺, and/or motor findings
-spinal cord/radiculopathy: cord infarction, tumour, 多發性硬化症, syringomyelia, vitamin Buz deficiency, disc lesion
-= symptoms: back/neck pain,無力 (paraparesis or Brown-Séquard pattern), bowel and bladder
-dysfunction
-neuropathy: focal compressive 神經病變 (based on location and distribution), 糖尿病, uremia, vasculitis,
-vitamin Bi2 deficiency, 愛滋病, Lyme disease, alcohol, paraneoplastic, amyloid
-= 多發性神經病變 (length-dependent 神經病變) will have a 襪套式 distribution of 感覺
-abnormalities
-other: dermatological (e.g. herpes zoster, angioedema), psychiatric disorders (e.g. panic attacks)
--e 
++ **感覺障礙分佈**有助於定位病灶：
+  - 排除純運動神經元、神經肌肉接合處或肌肉疾病
+  - 神經根 vs. 周邊神經病變
+  - 對稱性襪套式分佈（提示：遠端對稱性多發性神經病變）
+  - 分離性感覺障礙：背柱（精細觸覺、本體感覺、震動感）vs. 脊髓丘腦徑（痛覺與溫度覺）
 
++ **檢查項目**：
+  - 神經傳導、血糖、HbA1C、維生素B12、血清蛋白電泳、免疫固定電泳
+  - 依相關發現安排影像學
+
+**鑑別診斷**
+
++ **腦部病變**（cerebral）：中風、脫髓鞘、腫瘤
+  - 症狀：偏癱、失語症、失用症
+
++ **腦幹病變**（brainstem）：中風、脫髓鞘、腫瘤
+  - 症狀：複視、眩暈、構音障礙、吞嚥困難、交叉性感覺及/或運動徵兆
+
++ **脊髓/神經根病變**（spinal cord/radiculopathy）：
+  - 病因：脊髓梗塞、腫瘤、**多發性硬化症**（MS）、脊髓空洞症、維生素B12缺乏、椎間盤病灶
+  - 症狀：背部/頸部疼痛、無力（截癱或Brown-Séquard型態）、腸道及膀胱功能障礙
+
++ **神經病變**（neuropathy）：
+  - 局部壓迫性神經病變（依位置與分佈）、糖尿病、尿毒症、血管炎、維生素B12缺乏、HIV、萊姆病、酒精、腫瘤旁症候群、類澱粉沉積
+  - 多發性神經病變（長度依賴性）呈現襪套式感覺異常分佈
+
++ **其他**：皮膚病（如：帶狀皰疹、血管性水腫）、精神科疾病（如：恐慌症）
+
+-e
 ## Page 881
 
 NUL Neurology
 
-Abnormal Gai
+異常步態（Abnormal Gait）
 
 處理方法
 
@@ -110,56 +114,25 @@ incontinence)
 
 + workup based on etiology (blood work, neuroimaging, urgent neurologist referral)
 
-表 7. Types of Gait Disturbance
+表 7. 步態障礙類型（Types of Gait Disturbance）
 
-Location Description Disorder
+| 位置 | 描述 | 疾病 |
+|------|------|------|
+| **視力喪失** | 寬基底步態，謹慎邁步 | 白內障手術未置換水晶體 |
+| **本體感覺喪失** | 感覺性運動失調：寬基底、高抬腿步態，Romberg氏徵陽性 | 脫髓鞘性神經病變、腫瘤旁症候群、脊髓癆（tabes dorsalis）、**多發性硬化症**（MS）、壓迫性脊髓病變、維生素B12缺乏 |
+| **周邊前庭病灶** | 前庭性運動失調 | 腫瘤創傷、感染、梅尼爾氏症、耳毒性藥物 |
+| **下肢神經疾病** | 跨閾步態（steppage gait）、足下垂 | 後天或遺傳性周邊神經病變、腓神經病變、L4-L5神經根病變 |
+| **肌肉病變** | 搖擺步態（waddling gait）：寬基底、短步距，腰椎前凸明顯，骨盆旋轉 | 肌肉失養症、發炎性肌肉病變 |
+| **皮質脊髓徑病灶** | 痙攣步態：痙攣性足下垂、划圈、剪刀式步態或蹮腳尖走路合併雙側划圈 | 單側：腦中風（缺血性/出血性）；雙側：頸椎退化、腦性麻痺、脊髓腫瘤、合併脊髓退化、**多發性硬化症**（MS）、運動神經元疾病 |
+| **基底核** | 帕金森氏步態：小碎步、駝背姿勢、擺臂減少；舞蹈性/半身性/肌張力障礙步態 | 梗塞、帕金森氏症、進行性核上麻痺、**多發性硬化症**（MS）、亨汀頓舞蹈症、西登漢姆舞蹈症、威爾森氏症、系統性紅斑狼瘡、神經安定藥物、真性紅血球增多症、遺傳性肌張力障礙 |
+| **小腦** | 小腦性運動失調步態：寬基底但無高抬腿；向病灶側偏斜 | 原發或續發性腫瘤、毒素（酒精）、維生素E缺乏、甲狀腺功能減退、低血糖、腫瘤旁症候群、血管性病變 |
 
-Visual Loss Broad based gait with tentative steps Cataract surgery without lens replacement
+---
 
-Proprioceptive Loss ‘Sensory 運動失調: wide-based with high stepping posture Demyelinating neuropathies, paraneoplastic syndrome, tabes
-‘and positiveRomberg dorsalis, 多發性硬化症, compressive myelopathy, vitamin Bu deficiency
+### 顱神經檢查（Cranial Nerve Exam）
 
-Peripheral Vestibular Lesion Vestibular 運動失調 Tumour, trauma, infectious, Méniére’s disease ototoxic drugs
-Disequilibrium
+請參閱「顱神經檢查」章節，N3 頁。
 
-Lower Limb Nerve Disorder Foot drop ‘Acquitedhereditary peripheral 神經病變, compressive
-Steppage gait peroneal 神經病變, L4-L5 radiculopathy,
-
-Myopathies Waddling gait: broad based, short stepped gatwith Muscular dystropty, inflammatory 肌肉病變
-
-pronounced lumbar lordsis, rotation of pelvis
-
-Spastic gat: spastic foot drop, ciumduction,
-scissoring oflegsor toe walking with 雙側
-crcumduction
-
-CorticospinalTractLesion
-
-Basal Ganglia Parkinsonian gait:shortstridelength, stooped posture,
-reduced armswing
-Choreicemiballsic/dystonic gait
-
-Cerebellum Cerebellar ataxic gait, wide-based without high
-
-‘stepping; veers to side of lesion
-Alcoholic gait
-
-Uni外側: 中風 (schemic/ hemorrhagic)
-Bi外側: cervical spondylosis, cerebral palsy, 脊髓 cord tumour,
-combined 脊髓 corddegeneration, 多發性硬化症, motor neuron disease
-
-Infarct, 帕金森氏症, 漸進性 supranuclar palsy, 多發性硬化症A, 亨汀頓舞蹈症,
-Sydenham’s 舞蹈症, Wilson's disease, 全身性紅斑狼瘡, neuroleptic
-medications, polycythemia vera, genetic 肌張力障礙
-
-imary and secondary neoplasm, toxins (酒精), vitamin €
-
-Aeficiency, hypothyroid, hypoxia, typoglycemia, paraneoplastic
-syndrome, vascular lesion
-
-nial Nerve De
-
-see 顱神經 Exam, N3
 
 CN I: Olfactory Nerve
 
@@ -840,7 +813,7 @@ Neural tube defects (inetus)
 
 Copper yelopathy, myeloneuropathy, 感覺 運動失調, Serum copper and ceruloplasmin Discontinue inc; copper 8 mg/d PO daly fort
 spasticgait(similartovitamin Bx deficiency) Urinary copper wk, then4 mgPO daily for2 wk, then2mg PO
-Severe 感覺 ass MR spine; E重症肌無力I神經傳導 daly thereater
+Severe 感覺 ass MR spine; EMGI神經傳導 daly thereater
 
 Vitamin € Ophthalmoplegia retinopathy, spinocerebellar Serumvitamin E Vitamin€ 2200 mg/kg/d PO or IM
 
@@ -853,7 +826,7 @@ Thiamine (Vitamin 81)
 Three manifestations include: beriber (dry and
 ‘wet infantileberiberi, Wernicke-Korsakott
 
-and triglycerides; E重症肌無力I神經傳導
+and triglycerides; EMGI神經傳導
 
 Clinical diagnosis
 MRI brain
@@ -871,7 +844,7 @@ intractable 癲癇 in infants, contusion
 Pellagra: 腦病變, 失智症, and
 
 Serum pyridoxal phosphate
-E重症肌無力I神經傳導
+EMGI神經傳導
 FE ininfants and children
 
 Usinary nicotinamide mononucleotide
@@ -3031,7 +3004,7 @@ diaphragm)
 
 檢查
 
-+ E重症肌無力: to assess active and 慢性 denervation and reinnervation, 肌束震顙
++ EMG: to assess active and 慢性 denervation and reinnervation, 肌束震顙
 
 + 神經傳導: to rule out peripheral 神經病變 (e.g. multifocal motor 神經病變 with conduction block)
 
@@ -3121,11 +3094,11 @@ Sensory Sx, predominant pain, bowel or
 bladder incontinence, extraocular muscle
 weakness
 
-Denervation on E重症肌無力
+Denervation on EMG
 Fibrillations, positive sharp waves, complex
 repetitive discharges
 
-Reinnervation on E重症肌無力
+Reinnervation on EMG
 Increased amplitude and duration of motor
 units
 -e 
@@ -3197,7 +3170,7 @@ tunnel at wrist
 grip strength
 signs: Tinel’s sign, positive Phalen’s test, thenar muscle 萎縮
 risk factors: pregnancy, 糖尿病, rheumatoid arthritis, acromegaly, hypothyroidism
-diagnosis: clinical, E重症肌無力/神經傳導
+diagnosis: clinical, EMG/神經傳導
 
 Toronto Notes 2025
 
@@ -3281,7 +3254,7 @@ etiology: 糖尿病 (most common), renal disease, substances, toxins, genetic, �
 vitamin Bn deficiency
 慢性發炎性脫髓鞘性神經病變
 慢性 relapsing sensorimotor 多發性神經病變 or 多神經根病變 with increased protein in CSF
-and demyelination (shown on E重症肌無力/神經傳導)
+and demyelination (shown on EMG/神經傳導)
 * course is fluctuating, in contrast with the 急性 onset of 格林-巴利症候群
 treatment: first-line is prednisone; alternatives are 血漿置換, 靜脈免疫球蛋白, and azathioprine
 
@@ -3295,8 +3268,8 @@ Infectious hv ‘onal Chronic sin HW serology
 Leprosy Infitrative Acute or 慢性 sin Leprosy serology
 Nerve biopsy
 lyme ‘ronal Chronic 4 lyme serology
-Immunes GBs Demyelination eute 4 腰椎穿刺(¢ protein, no ¢ cel) E重症肌無力
-cioP Demyelination Chronic sm 腰椎穿刺 (+ protein) E重症肌無力
+Immunes GBs Demyelination eute 4 腰椎穿刺(¢ protein, no ¢ cel) EMG
+cioP Demyelination Chronic sm 腰椎穿刺 (+ protein) EMG
 Hereditary 多發性硬化症H ‘xonal/demyelination Chronic sm Genetic testing
 Neoplastic Paraneoplastic ‘xonal/demyelination Chronic sm Paraneoplasticantibodies
 Myeloma ‘xonal/demyelination Chronic sm SPER
@@ -3366,7 +3339,7 @@ that often starts in the 遠端 lower limbs and ascends
 
 + CSF: albuminocytologic dissociation (high protein, normal WBC)
 
-+ E重症肌無力I神經傳導: conduction block, differential or focal (motor>sensory) slowing, decreased F-wave, sural
++ EMGI神經傳導: conduction block, differential or focal (motor>sensory) slowing, decreased F-wave, sural
 sparing
 
 治療
@@ -3390,7 +3363,7 @@ Reflexes " + 7
 Anticholinergic Sx - + ”
 Sensory 5x - - -
 Associated Conditions Thymoma Smal cel carcinoma Glsigns and symptoms,
-Repetitive E重症肌無力 Stimulation Decremental response Incremental response +# (rapid stimulation)
+Repetitive EMG Stimulation Decremental response Incremental response +# (rapid stimulation)
 4 (Sow stimulation)
 Myasthenia Gravis
 
@@ -3418,7 +3391,7 @@ abnormalities
 檢查
 + repetitive stimulation: decrement in amplitude >10%
 
-single fibre E重症肌無力: shows increased jitter (80-100% sensitivity)
+single fibre EMG: shows increased jitter (80-100% sensitivity)
 
 spirometry: forced vital capacity may be used to monitor adequacy of respiratory effort over time
 acetylcholine receptor antibody assay (50-90% sensitivity); muscle-specific kinase antibody may be used if
@@ -3522,11 +3495,11 @@ prominent anticholinergic 自律神經 symptoms (dry mouth>impotence>constipatio
 rapid (>10 Hz) repetitive nerve stimulation: incremental response
 
 anti-P/O-type vol tage gated calcium channel antibodies: are 出現於 85-95% of patients with 蘭伯特-伊頓肌無力症候群
-E重症肌無力: 典型地 normal in 蘭伯特-伊頓肌無力症候群
+EMG: 典型地 normal in 蘭伯特-伊頓肌無力症候群
 
 edrophonium test: no response
 
-E重症肌無力: incremental response (facilitation) with exercise
+EMG: incremental response (facilitation) with exercise
 
 screen for malignancy, 特別是 small cell lung cancer
 
@@ -3710,7 +3683,7 @@ respiratory: hypoventilation 2° to muscle無力
 
 ocular: subcapsular cataracts, retinal degeneration, decreased intraocular pressure
 other: 糖尿病, infertility, testicular 萎縮
-E重症肌無力: electrical myotonia (waxing and waning discharges, sound like “dive-bomber”)
+EMG: electrical myotonia (waxing and waning discharges, sound like “dive-bomber”)
 
 Toronto Notes 2025
 -e 
@@ -4253,7 +4226,7 @@ Recommendations
 + many older patients have reduced sleep as a consequence of underlying sleep disorders
 
 Sleep Architecture
-+ polysomnography measures: EEG, eye movements (electro-oculogram - EOG), E重症肌無力, respiratory effort,
++ polysomnography measures: EEG, eye movements (electro-oculogram - EOG), EMG, respiratory effort,
 oxygenation, ECG
 
 表 25. Sleep Stage Characteristics
