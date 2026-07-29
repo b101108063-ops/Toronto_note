@@ -1,0 +1,37 @@
+// Dark mode overrides for Hugo Book theme
+// Force dark theme by overriding the root selector
+:root {
+  --body-background: #1a1a2e;
+  --body-background-tint: none;
+  --body-font-color: #e4e4e7;
+
+  --color-link: #93c5fd;
+  --color-visited-link: #c4b5fd;
+
+  --icon-filter: brightness(0) invert(1);
+
+  --gray-100: #27272a;
+  --gray-200: #3f3f46;
+  --gray-500: #a1a1aa;
+
+  --color-accent-default: #93c5fd;
+  --color-accent-note: #60a5fa;
+  --color-accent-tip: #86efac;
+  --color-accent-important: #c4b5fd;
+  --color-accent-warning: #fcd34d;
+  --color-accent-caution: #fca5a5;
+
+  --color-accent-info: #60a5fa;
+  --color-accent-success: #86efac;
+  --color-accent-danger: #fca5a5;
+
+  // Navigation/header dark
+  --body-background-secondary: #16162a;
+
+  // Code blocks
+  --code-background: #27272a;
+  --code-font-color: #e4e4e7;
+
+  // Border colors
+  --border-color: #3f3f46;
+}
