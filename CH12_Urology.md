@@ -1,4730 +1,2134 @@
-Ul0 Urology Toronto Notes 2025
+# CH12 泌尿科（Urology）
 
-+ Hx and P/E (urologic and general neurologic)
-+ voiding diary, assess for incontinence, urinary symptoms, and UTI risk (hydration status, catheterization, “Spinal shock” intially manifests as atonic
-voiding frequency) badder
-catheterization volumes in patients with CIC
-all patients: U/A, PVR, renal profile
-= moderate/high-risk (spinal cord injury, spina bifida, MS): urodynamics, renal U/S, renal profile
-imagin;
-. Tisto rule out hydronephrosis and stones; occasionally CT scanning with or without contrast
-cystoscopy (if suspicion of bladder tumour, hematuria)
-urodynamic studies
-= uroflowmetry to assess flow rate, pattern
-« filling CMG to assess capacity, compliance, detrusor overactivity
-voiding CMG (pressure-flow study) to assess bladder contractility and extent of bladder outflow
-obstruction
-video study to visualize bladder/bladder neck/urethra during CMG using x-ray contrast
-= EMG and video ascertains presence of coordinated or uncoordinated voiding, allows accurate diagnosis
-of DSD
+## 章節導讀
 
-Neuro-Urologic Evaluation ©
+- 泌尿系統涵蓋腎臟、輸尿管、膀胱、尿道及男性攝護腺與生殖器官，常見問題包括感染、結石、腫瘤及功能性障礙
+- 泌尿道感染（UTI）是最常見的泌尿系統疾病，女性發生率高，治療以抗生素為主，預防復發需從生活習慣著手
+- 泌尿系統腫瘤依部位不同，臨床表徵各異：腎細胞癌好發於中老年人，常為偶發性；膀胱癌以無痛性血尿為主要症狀；攝護腺癌為男性最常見癌症之一
+- 結石疾病的治療方式多元，從保守治療到體外震波碎石（SWL）、輸尿管鏡取石及經皮腎造口取石（PCNL）均有不同適應症
+- 兒童泌尿科常見先天構造異常，如後尿道瓣膜、膀胱輸尿管逆流（VUR）及隱睪症，需早期診斷與治療
 
-Treatment
-+ goals of treatment
-= prevent renal deterioration
-= prevent infections (UTI)
-= achieve social continence
-+ CIC (if there is associated inability to void)
-+ treatment options depend on status of bladder and urethra
-= bladder hyperactivity > antimuscarinic medications to relax bladder (see Urinary Incontinence, U6)
-+ ifrefractory
-— botulinum toxin injections into bladder wall (detrusor muscle)
-— occasionally augmentation cystoplasty (enlarging bladder volume and improving
-compliance by grafting section of detubularized bowel onto the bladder)
-— occasionally urinary diversion (ileal conduit or continent diversion) in severe cases if
-bladder management unsuccessful
-= flaccid bladder > CIC
+---
 
-Dysuria
+## 泌尿系統評估
 
-Definition
+### 神經泌尿學評估（Neuro-Urologic Evaluation）
 
-+ painful urination
+**病史與理學檢查（Hx and P/E）**
 
-Etiology
+- 泌尿系統病史及神經學檢查
+- 排尿日誌（voiding diary）：評估尿失禁、泌尿道症狀及 UTI 風險（水分攝取狀態、導尿管留置、「脊髓休克」初期表現為無張力性膀胱）
+- 間歇性自我導尿（CIC）患者的導尿量評估
+- 所有患者：U/A、PVR、腎功能檢查
+- 中/高風險患者（脊髓損傷、脊柱裂、多發性硬化症）：尿路動力學檢查、腎臟超音波、腎功能檢查
 
-Table 6. Differential Diagnosis of Dysuria
+**影像學檢查**
 
-Infectious ysis, urethtis, prostatitis, epiidymitislorhtis(itassociated with lower tract inflammation) cervicits, ahovagints, perineal
-inflammation/nfcton, tuberculosis, vestulits
+- 超音波排除水腎及結石；必要時使用電腦斷層（CT）掃描（含或不含顯影劑
+- 膀胱鏡檢查（若懷疑膀胱腫瘤、血尿）
+- 尿路動力學檢查（Urodynamic studies）
 
-Neoplasm Kidney, bladder, prostate, penis, vagina/vulva, BPH
+**尿路動力學檢查項目**
 
-Calcul Bladder stone, wethal stone, ureteral stone
+- 尿流速測量（uroflowmetry）：評估流速及模式
+- 儲尿期膀胱壓力圖（filling CMG）：評估膀胱容量、順應性及逼尿肌過動
+- 排尿期膀胱壓力圖（voiding CMG / pressure-flow study）：評估膀胱收縮力及膀胱出口阻塞程度
+- 影像尿路動力學檢查（video study）：以 X 光顯影劑在膀胱測壓時觀察膀胱/膀胱頸/尿道
+- EMG 配合影像確診為協調性或非協調性排尿，準確診斷肛門外括約肌協同障礙（DSD）
 
-Inflammatory Seronegative arthropathies (reactiveartritis: arthritis, uveitis, urethritis, drugside effects, autoimmune disorders, chronic pelvic pain
-symdrome CPPS) interstitial cystitis
+**治療目標**
 
-Hormonal Endometriosis, ypoestrogenism
+- 預防腎功能惡化
+- 預防感染（UTI）
+- 達到社交性禁尿（social continence）
 
-Trauma Catheter insertion, pot-cital cystitis (honeymoon cystitis)
+**治療方式（取決於膀胱及尿道狀態）**
 
-Psychogenic Somatiaton disorder, depression, stresslansiety disorder
+- 無法自行排尿：CIC
+- 膀胱過動：抗膽鹼藥物（見 Urinary Incontinence）
+- 藥物治療無效：肉毒桿菌素注射至膀胱壁（逼尿肌）、或少數嚴重案例接受膀胱擴大整形術或尿路分流術
+- 鬆弛性膀胱：CIC
 
-Other Contact sensitivity, foreign body radaton/chemical cystitis, diverticulum
+---
 
-Investigations
+## 排尿障礙症狀（Voiding Symptoms and Dysuria）
 
-+ focused Hx and P/E to determine cause (fever, d/c, conjunctivitis, CVA tenderness, back/joint pain)
-any dic (urethral, vaginal, cervical) should be sent for gonococcus/chlamydia testing; wet mount if
+### 排尿困難（Dysuria）
 
-vaginal d/c
+**定義**
 
-U/A and urine C&S
+- 排尿時疼痛
 
-if suspect infection, may start empiric ABx treatment (see Table 9, U16)
+**病因（Table 6. Dysuria 鑑別診斷）**
 
-+ imaging of urinary tract (tumour, stones)
--e 
+| 類別 | 說明 |
+|------|------|
+| 感染性 | 膀胱炎、尿道炎、攝護腺炎、附睪炎/睪丸炎（與下泌尿道的炎症相關）、，子宮頸炎、陰道炎、會陰部發炎/感染、結核病、前列腺炎 |
+| 腫瘤 | 腎臟、膀胱、攝護腺、陰莖、陰道/外陰、BPH |
+| 結石 | 膀胱結石、尿道結石、輸尿管結石 |
+| 發炎性 | 血清陰性關節病變（反應性關節炎：關節炎、葡萄膜炎、尿道炎）、藥物副作用、自體免疫疾病、慢性骨盆腔疼痛症候群（CPPS）、間質性膀胱炎 |
+| 荷爾蒙 | 子宮內膜異位症、低雌激素狀態 |
+| 創傷 | 導尿管置入、術後膀胱炎（蜜月膀胱炎） |
+| 心因性 | 身體化障礙、憂鬱症、壓力/焦慮症 |
+| 其他 | 接觸性過敏、異物、放射/化學性膀胱炎、憩室 |
 
-## Page 1541
+**診斷檢查**
 
-ULL Urology Toronto Notes 2025
+- 重點病史詢問及理學檢查：發燒、分泌物、結膜炎、CVA 壓痛、背部/關節疼痛
+- 任何尿道、陰道、子宮頸分泌物應送驗淋球菌/披衣菌；陰道分泌物做濕式鏡檢
+- U/A 及尿液培養與敏感性（U/A and urine C&S）
+- 若懷疑感染，可開始經驗性抗生素治療（見 Table 9, U16）
+- 泌尿系統影像檢查（腫瘤、結石）
 
-Hydronephrosis
+---
 
-Definition
+## 水腎（Hydronephrosis）
 
-+ the upper urinary tract consists of the kidneys and ureters
+### 定義
 
-+ dilation of the renal pelvis, calyces, and ureters, generally caused by obstruction of antegrade urine flow
-(i.e. pelvicaliectasis)
+- 上泌尿系統包括腎臟及輸尿管
+- 腎盂、腎盞及輸尿管擴張，通常因順行尿液流動受阻而造成（即腎盞腎炎擴張）
 
-Etiology
-+ mechanical
-= congenital: see Congenital Abnormalities, U39
-= acquired
-intrinsic: trauma, inflammation and bleeding, calculi, urologic neoplasms, BPH, ureteral or
-urethral stricture, phimosis, previous urological surgery
-extrinsic: trauma, neoplasms (uterine fibroid; colorectal, uterine, and cervical malignancies;
-lymphoma), aortic aneurysm, pregnancy (gravid uterus)
-+ functional
-= neuropathi
-* hormonal:
-
-neurogenic bladder, diabetic neuropathy, spinal cord disease
-regnancy (progesterone decreases ureteral tone)
-
-Investigations
-+ focused Hx, inquiring about pain (flank, lower abdomen, testes, labia), U/O, medication use, pregnancy,
-trauma, fever,Hx of UT, calcul, PID, and urological surgery
-+ CBC, electrolytes, Cr, BUN, U/A, urine C&S
-+ imaging studies (U/S is >90% sensitive and specific)
-= CT: helps delineate anatomy and potential causes (e.g. obstructing stone), but does not provide much
-functional information
-= mercaptoacetyltriglycine (MAG3) diuretic renogram: provides little anatomic/structural information,
-but evaluates differential renal function and demonstrates if functional obstruction exists (i.e. delayed
-drainage of radiotracer)
-= retrograde pyelogram: helps to delineate anatomy and can allow for stent insertion to decompress if
-obstruction is present
+### 病因
 
-Treatment
+**機械性**
 
-+ hydronephrosis can be physiologic (e.g. pregnancy)
+- 先天性：見先天性異常（U39）
+- 後天性
+  - 內在性：創傷、發炎與出血、結石、泌尿系統腫瘤、BPH、輸尿管或尿道狹窄、包莖、泌尿系統手術史
+  - 外在性：創傷、腫瘤（，子宮肌瘤；大腸、子宮及頸部惡性腫瘤；淋巴瘤）、主動脈瘤、懷孕（妊娠子宫）
 
-+ treatment should be guided at improving symptoms, treating infections, or improving renal function
+**功能性**
 
-* urgent treatment may require percutaneous nephrostomy tube or ureteral stenting to relieve pressure
+- 神經性：神經源性膀胱、糖尿病神經病變、脊髓疾病
+- 荷爾蒙：妊娠（黃體素降低輸尿管張力）
 
-+ treatment can include pyeloplasty to repair an obstructed UPJ in congenital or acquired UPJ obstruction
+### 診斷檢查
 
-Post-Obstructive Diuresis
+- 重點病史詢問：疼痛（腰部、下腹、睪丸、陰唇）、尿量、藥物使用、懷孕、創傷、發燒、UTI 病史、結石、PID、泌尿系統手術史
+- CBC、電解質、Cr、BUN、U/A、尿液培養與敏感性
+- 影像學檢查（U/S 敏感度及特異性均 >90%）
+  - CT：有助於釐清解剖構造及可能原因（如：阻塞性結石），但功能資訊有限
+  - MAG3 利尿性腎圖（mercapt oacetyltriglycine diuretic renogram）：提供結構資訊有限，但可評估分側腎功能並顯示是否有功能性阻塞（即放射性追蹤劑延遲排出）
+  - 逆行性腎盂攝影（retrograde pyelogram）：有助於釐清解剖構造，必要時可置入支架減壓
 
-Definition
-+ polyuria resulting from relief of obstructive uropathy (i.e. elevated Cr)
-+ >31L/24h or >200 cc/h for two consecutive hours
+### 治療
 
-Pathophysiology
-+ physiologic POD secondary to excretion of retained urea, Na’, and H:0 (high osmotic load) after relief of
-obstruction
-= self-limiting; usually resolves in 48 h with PO fluids but may persist to pathologic POD
-+ pathologic POD is a Na*-wasting nephropathy secondary to impaired concentrating ability of the renal
-tubules due to:
-= decreased reabsorption of NaCl in the thick ascending limb and urea in the collecting tubule
-= increased medullary blood flow (solute washout)
-«= increased flow and solute concentration in the distal nephrons
-
-Management
-+ admit patient and closely monitor hemodynamic status and electrolytes (Na* and K* q6-12h and replace
-pn; follow Cr and BUN to baseline)
-
-monitor U/O q2 h and ensure total fluid intake <U/O by replacing every 1 mL U/O with 0.5 mL 1/2 normal
-saline (NS) IV (PO fluids if physiologic POD)
-
-avoid glucose-containing fluid replacement (iatrogenic diuresis)
--e 
-
-## Page 1542
-
-Toronto Notes 2025
-
-Definition
-+ a symptom complex that includes urinary urgency with or without incontinence, urinary frequency
-(voiding >8 times in a 24 h period), and nocturia (awakening one or more times at night to void)
-
-Etiology
-
-+ multiple etiologies proposed (neurogenic, myogenic, idiopathic)
-
-+ symptoms thought to be from involuntary contractions of the detrusor muscle
-
-+ may be associated with other conditions such as SUI in women and BPH in men (see Table 5, U8)
-
-+ prevalence increases with age. 42% in males 275 y/o; 31% in females 275 y/o
-+ women experience incontinence more commonly than men
-
-Diagnosis
-+ the diagnostic process should document symptoms that define overactive bladder and exclude other
-disorders that could cause the patient’s symptoms
-+ minimal requirements for the process consist of:
-= focused history including past genitourinary disorders and conditions outlined in Table 7,
-questionnaires of LUTS and diaries of urination frequency, volume, and pattern (3 d micturition diary)
-+ P/Eincluding genitourinary, pelvic, and rectal examination
-= U/A to rule out hematuria and infection
-+ in some patients, the following investigations could be considered
-= post-void residual
-= cystoscopy to rule out recurrent infections, carcinoma in situ, and other intravesical abnormalities
-+ urodynamics to rule out obstruction in older men
-
-Treatment
-+ non-pharmacological: behaviour therapies such as bladder training, bladder control strategies, pelvic floor
-muscle training, fluid management, weight reduction (if overweight), and avoidance of caffeine and alcohol
-+ pharmacological (see Table 29, U48)
-= antimuscarinics: oxybutynin hydrochloride, tolterodine, solifenacin, fesoterodine, darifenacin,
-ropiverine, or trospium
-. Ba-adrenoceptor agonist mirabegron
-+ refractory patients may be treated with:
-= neuromuscular-junction inhibition: botulinum toxin bladder injection
-+ others
-= percutaneous tibial nerve stimulation (not used commonly in Canada)
-= sacral neuromodulation
-
-Table 7. Conditions that Could Contribute to Symptoms of Overactive Bladder
-
-Lower Urinary Tract Conditions UII obstruction, impaired bladder contractility
-
-Neurological Conditions Stroke, MS, dementia, diabetic neuropathy
-
-Systemic Diseases CHE sleep disorders (primarily nocturia)
-
-Functional and Behavioural Excessive caffeine and alcohol, constipation, impaired mobility
-
-Medication Diuretics, cholinergic agents, narcotics, calcium-chamnel blocker, cholinesterase inhibitors
-
--e 
-
-## Page 1543
-
-Ul3 Urology Toronto Notes 2025
+- 水腎可能是生理性的（如：懷孕）
+- 治療應針對改善症狀、治療感染或改善腎功能
+- 緊急治療可能需要經皮腎造口管或輸尿管支架緩解壓力
+- 先天性或後天性 UPJ 阻塞可做腎盂整形術（pyeloplasty）修復
 
-Infectious and Inflammatory Diseases
-
-iotic Treatment of Urological Infections
+---
 
-Drug Duration
-Non-Gonococcal
-aithronyecin(t gO) xd
-oR
-doxycycline (100 mg PO BID) 14 Antibiotic therapy should always be based
-Gonococcal ‘on local resistance patterns and adjusted
-ceftriaxone (250-mg IM) AND treat for Chlamydia trachomatis u corine locale sn semtiviy renity
-Simple, Uncomplicated UT TMPISMX (160 mg/800 mg PO BID) 34
-oR
-ritrofurantoin (100mg PO.ID) 54
-oR
-fosfomycin 39 PO) ‘time administration
-Complicated UTI iprofloxacin(t gPO once daily 08400 mgIV g12) wpto23wk
-OR
-ampiclin(1 gIVq6h)+ gentamicin (1mg/kg VqBh) (used forreatvely short courses upto23wk
-because of toxicity)
-OR
-ceftriaxone (1-2 g IV q24 Hy wpto23wk
-RecurrentiChronic Cystitis Prophylactic Treatment
-‘Continuous: TMP-SMX (40 mg/200 mgPO OHS OR 3x/k) 6-12mo
-oR
-nitrofurantoin (50-100 mg PO OHS) 6-12mo
-Post-Coital: TMP-SMX (40 mg/200 mg-80 mg/400 mg) within 2h of coitus
-oR
-ritrofurantoin (50-100 mg PO once daly) within 2h of coitus
-‘Acute Prostatitis ‘iprotlocacin(500-750 mg POBID) 24wk
-oR
-TMP-SMX(160 mg/800 mg PO BID) wk
-oR
+## 阻塞後利尿（Post-Obstructive Diuresis, POD）
 
-WV therapy withgentamicin and ampicilin,pencilin with Pactamase inhibitor, 3nd gen 4wk(W andor step-down)
-cephalosporin, OR afluoroqunolone
+### 定義
 
-Chronic Prostatitis <iprfloracin(500 mg POBID) 460k
-sablokes, ant-inflammateries
-EpididymitilOrchitis <35 (resumed ST) ceftriaxone (200mg IM) "
-AND
-doxyycine (100g PO BID) ne
-2354 (presumed inary sure)
-cfloxacin (300 mgPO BID) od ©
-Acute Uncomplicated <iprflrain(500 mg POBID) 14
-Pyelonephrts + ceftiaone(1g1V)OR cproflorain (400 mg N) au Acute uncomplicated pyeloneptrits:
-oR suspected or confirmed Enterococcus
-Wtherapy witha forequitlone, gentamicin and ampiciin, extended spectrum 14 total Vand oral step-down infection requires treatment with ampcilin
+- 緩解阻塞性尿路病變後出現的多尿（即 Cr 升高）
+- 定義：>3 L/24h 或連續兩小時 >200 cc/h
 
-«cephalosporin, extended spectrum penicilin, ORa carbapenem
+### 病理生理學
 
-Urinary Tract Infec’
+- 生理性 POD：阻塞緩解後排出滯留的尿素、Na⁺、H₂O（高滲透壓負荷）
+  - 具自限性；通常 PO 補液下 48 小時內緩解，但可能持續演變為病理性 POD
+- 病理性 POD 為 Na⁺ 耗損性腎病變，因腎小管濃縮能力受損：
+  - 厚升段對 NaCl 再吸收減少、集合管對尿素再吸收減少
+  - 髓質血流增加（溶質沖刷）
+  - 遠端腎元流率及溶質濃度增加
 
-+ for UTIs during pregnancy, see Obstetrics, OB13
+### 治療
 
-Definition
-+ symptoms suggestive of UTI + evidence of pyuria and bacteriuria on U/A or urine C&S
-= ifasymptomatic + 100,000 CFU/mL = asymptomatic bacteriuria; only requires treatment in certain
-patients (e.g. pregnancy, immunosuppressed, prior to urologic surgery)
+- 收治住院，密切監測血液動力學及電解質（Na⁺ 及 K⁺ 每 6-12 小時監測並補充；追蹤 Cr 及 BUN 至基準線）
+- 每 2 小時監測尿量，確保總攝入液量 <尿量；以 0.5 mL 1/2 NS IV 補充每 1 mL 尿量（生理性 POD 可 PO 補液）
+- 避免使用含葡萄糖的液體補充（醫源性利尿）
 
-Classification
+---
 
-+ uncomplicated: lower UTI ina setting of functionally and structurally normal urinary tract
+## 膀胱過動症（Overactive Bladder, OAB）
 
-+ complicated: structural and/or functional abnormality, male patients, immunocompromised, diabetic,
-iatrogenic complication, pregnancy, pyelonephritis, catheter-associated
+### 定義
 
-* recurrent: see Recurrent/Chronic Cystitis, U14
+- 症狀複合體，包括尿急（有或無尿失禁）、頻尿（24 小時內排尿 >8 次）及夜尿（夜間醒來排尿一次或以上）
 
-Risk Factors
-+ stasis and obstruction
-= residual urine due to impaired urine flow (e.g. PUVs, reflux, medication, BPH, urethral stricture,
-cystocele, neurogenic bladder)
-+ foreign body
-«= introduce pathogen or act as nidus of infection (e.g. catheter, instrumentation)
-+ decreased resistance to organisms
-= DM, malignancy, immunosuppression, spermicide use, estrogen depletion, antimicrobial use
-+ other factors
-= trauma, anatomic abnormalities, female, sexual activity, menopause, fecal incontinence
--e 
+### 病因
 
-## Page 1544
+- 多種可能病因（神經性、肌源性、特發性）
+- 症狀可能來自逼尿肌不自主收縮
+- 可能與其他疾病相關：女性應力性尿失禁（SUI）及男性 BPH（見 Table 5, U8）
+- 發生率隨年齡增加：男性 ≥75 歲 42%；女性 ≥75 歲 31%
+- 女性尿失禁發生率比男性高
 
-Ul4 Urology Toronto Notes 2025
+### 診斷
 
-Clinical Features
+- 病史詢問（過去泌尿生殖系統疾病及 Table 7 所列疾病）、LUTS 問卷、3 天排尿日誌
+- 理學檢查包括泌尿生殖系統、骨盆腔及直腸檢查
+- U/A 排除血尿及感染
+- 特定患者可考慮：PVR、膀胱鏡（排除復發感染、的原位癌及其他膀胱內病變）、尿路動力學（排除老年男性之阻塞）
 
-storage symptoms: frequency, urgency
+### 治療
 
-voiding symptoms: hesitancy, post-void dribbling, dysuria
+- 非藥物：行為治療（膀胱訓練、膀胱控制策略、骨盆底肌肉訓練、液體管理、減重（若過重）、避免咖啡因及酒精
+- 藥物（見 Table 29, U48）：抗膽鹼藥物（oxybutynin hydrochloride、tolterodine、solifenacin、fesoterodine、darifenacin、ropiverine 或 trospium）；β-腎上腺素受體促效劑 mirabegron
+- 頑固型患者：神經肌肉接頭抑制：肉毒桿菌素膀胱注射；其他：經皮脛神經刺激（加拿大不常用）
 
-other: suprapubic pain, hematuria, foul-smelling urine, cloudy urine
+**Table 7. 可能導致膀胱過動症症狀的疾病**
 
-pyelonephritis — if present: typically presents with more severe symptoms (e.g. fever/chills, CVA tenderness,
-flank pain)
+| 類別 | 說明 |
+|------|------|
+| 下泌尿道疾病 | UTI、膀胱出口阻塞、膀胱收縮力受損 |
+| 神經系統疾病 | 中風、MS、失智症、糖尿病神經病變 |
+| 全身性疾病 | CHF、睡眠障礙（主要為夜尿） |
+| 功能/行為因素 | 過量咖啡因及酒精、便祕、行動不便 |
+| 藥物 | 利尿劑、膽鹼性藥物、麻醉藥物、鈣離子通道阻斷劑、膽鹼酯酶抑制劑 |
 
-Indications for Investigations
-pyelonephritis
+---
 
-persistence of pyuria/symptoms following adequate antibiotic therapy
-severe infection with an increase in Cr
+## 泌尿道感染（Urinary Tract Infections）
 
-recurrent/persistent infections
+### 抗生素治療（Table 8. 泌尿系統感染之抗生素治療）
 
-atypical pathogens (urea splitting organisms)
+| 感染類型 | 藥物 | 療程 | 備註 |
+|----------|------|------|------|
+| 非淋病性尿道炎 | 阿黴素（azithromycin）1 g PO 單次 或 DOXY 100 mg PO BID | 14 天 | 抗生素治療應根據當地抗藥性模式調整 |
+| 淋病性 | ceftriaxone 250 mg IM + 治療披衣菌 | — | |
+| 簡單、非複雜性 UTI | TMP-SMX（160/800 mg）PO BID 或 nitrofurantoin 100 mg PO QID 或 fosfomycin 3 g PO | 3-5 天 | |
+| 複雜性 UTI | ciprofloxacin 500 mg PO QD 或 400 mg IV q12h | 7-14 天 | 根據當地敏感性調整 |
+| | ampicillin 1 g IV q6h + gentamicin 1 mg/kg IV q8h 或 ceftriaxone 1-2 g IV q24h | 達 3 週 | |
+| 反覆性/慢性膀胱炎預防性治療 | 連續性：TMP-SMX（40/200 mg）PO QD 或 3x/週 或 nitrofurantoin 50-100 mg PO QD | 6-12 個月 | |
+| | 性交後：TMP-SMX（40/200 mg 或 80/400 mg）於性交後 2 小時內 或 nitrofurantoin 50-100 mg PO 單次 | | |
+| 急性攝護腺炎 | ciprofloxacin 500-750 mg PO BID 或 TMP-SMX（160/800 mg）PO BID 或 IV（gentamicin + ampicillin 或 β- lactamase 抑制劑、第 3 代cephalosporin）或 fluoroquinolone | 2-4 週 | |
+| 慢性攝護腺炎 | ciprofloxacin 500 mg PO BID | 4-6 週 | α-阻斷劑、抗發炎藥物 |
+| 附睪炎/睪丸炎 | <35 歲（疑似 STI）：ceftriaxone 200 mg IM + DOXY 100 mg PO BID | 14 天 | |
+| | ≥35 歲（或無 STI 證據）：ciprofloxacin 300 mg PO BID | 14 天 | |
+| 急性非複雜性腎盂腎炎 | ciprofloxacin 500 mg PO BID 或 ceftriaxone 1 g IV 或 ciprofloxacin 400 mg IV | 14 天 | 急性非複雜性腎盂腎炎：疑似或確認腸球菌感染需使用 ampicillin；靜脈注射至口服降級治療共 14 天 |
 
-Hx of structural abnormalities/decreased flow
+### 定義
 
-Investigations
-+ U/A, urine C&S (only if symptomatic)
+- 符合 UTI 症狀 + U/A 或尿液培養有膿尿及菌尿證據
+- 若無症狀 + 100,000 CFU/mL = 無症狀菌尿；僅特定患者需要治療（如：懷孕、免疫抑制、泌尿系統手術前）
 
-= U/A: leukocytes + nitrites + hematuria
+### 分類
 
-= C&S: midstream, catheterized, or suprapubic aspirate
-if hematuria present, retest post-treatment, if persistent need hematuria workup (see Microscopic
-Hematuria, U5)
-+ U/S, CT scan if recurrent or treatment-resistant UTIs, suspected anatomic abnormalities, history indicates
+- 非複雜性：下 UTI 且泌尿系統功能及結構正常
+- 複雜性：結構/功能異常、男性、免疫抑制、糖尿病、醫源性併發症、懷孕、腎盂腎炎、導尿管相關
+- 反覆性：見反覆性/慢性膀胱炎（U14）
 
-complicated cystitis
+### 危險因子
 
-+ pelvic examination for women if recurrent UTI
+- 尿液滯留及阻塞：殘尿（因尿流受損，如：PUV、逆流、藥物、BPH、尿道狹窄、膀胱脫垂、神經源性膀胱）
+- 異物：引入病原體或作為感染核心（如：導尿管、器械操作）
+- 對病原體抵抗力下降：糖尿病、惡性腫瘤、免疫抑制、殺精劑使用、雌激素缺乏、抗生素使用
+- 其他：創傷、解剖構造異常、女性、性行為、更年期、糞便失禁
 
-Treatment
+### 臨床表徵
 
-« see Table 8, Antibiotic Treatment of Urological Infections, U13
+- 儲尿症狀：頻尿、尿急
+- 排尿症狀：遲滯、排尿後滴瀝、排尿困難
+- 其他：恥骨上疼痛、血尿、臭味尿、混濁尿
+- 腎盂腎炎：若存在，通常症狀更嚴重（如：發燒/寒顫、CVA 壓痛、腰痛）
 
-+ asymptomatic bacteriuria should not be treated (exceptions: pregnancy, before urological procedure)
-+ if febrile, consider admission with IV therapy and rule out obstruction
+### 檢查時機（需進一步檢查）**
 
-Prevention of UTIs
+- 腎盂腎炎
+- 適當抗生素治療後膿尿/症狀持續
+- 嚴重感染且 Cr 上升
+- 反覆/持續感染
+- 非典型病原體（尿素分解菌）
+- 結構異常/尿流下降病史
 
-maintain good hydration (emerging evidence re: cranberry preparations and D-mannose)
+### 診斷檢查
 
-void regularly (do not hold urine for prolonged periods of time)
+- U/A、尿液培養與敏感性（僅有症狀時）
+  - U/A：白血球 + 亞硝酸鹽 + 血尿
+  - C&S：中段尿、導尿或恥骨上穿刺取尿
+  - 若有血尿，治療後重新檢測；持續性血尿需做血尿檢查（見顯微性血尿，U5）
+- 若復發性或治療無效之 UTI、懷疑解剖構造異常或有相關病史：超聲波、CT
+- 女性復發性 UTI：骨盆腔檢查
 
-avoid feminine hygiene sprays and scented douches
+### 治療
 
-empty bladder immediately before and after intercourse
+- 見 Table 8，U13 抗生素治療
+- 無症狀菌尿不需治療（例外：懷孕、泌尿系統器械操作前）
+- 若發燒，考慮住院 IV 治療並排除阻塞
 
-vaginal estrogen therapy for peri- and post-menopausal women with recurrent UTIs, particularly with
-evidence of atrophic vaginitis
+### UTI 預防
 
-future directions: UTI vaccines on the horizon
+- 維持充足水分（蔓越莓製劑及 D-mannose 有新興證據）
+- 規律排尿（不要長時間憋尿）
+- 避免陰道沖洗及含香精的灌洗劑
+- 性交前後立即排空膀胱
+- 停經後女性復發性 UTI 考虑陰道雌激素治療，特別是萎縮性陰道炎證據
+- 未來方向：UTI 疫苗在研究中
 
-Organisms
-+ typical organisms: SEEK PP (E. coli 75-95%)
-+ atypical organisms
-= tuberculosis (TB)
-= Chlamydia trachomatis
-= Mycoplasma (Ureaplasma urealyticum)
-= fungi (Candida)
+### 病原體
 
-Recurrent/Chronic Cystitis
+- 常見病原體：SEEK PP（E. coli 75-95%）
+- 非典型病原體：結核菌（TB）、披衣菌（Chlamydia trachomatis）、黴漿菌（Ureaplasma urealyticum）、真菌（Candida）
 
-Definition
-+ 23 UTIs/yr or 22 UTIs per six mo
+---
 
-Etiology
-+ bacterial reinfection (80%) vs. bacterial persistence (relapse)
-= bacterial reinfection
-+ recurrence of infection with either 1) a different organism, 2) the same organism if cultured >2 wk
-following therapy, or 3) with any organism with an intermittent sterile culture
-= bacterial persistence
-* same organism cultured within 2 wk of sensitivity-based therapy
+## 反覆性/慢性膀胱炎（Recurrent/Chronic Cystitis）
 
-Investigations
-+ assess predisposing factors
-+ investigations may include cystoscopy, U/S, CT
+### 定義
 
-Treatment
+- 每年 ≥3 次 UTI 或每六個月 ≥2 次
 
-+ lifestyle changes (limit caffeine intake, increase fluid/H20 intake)
+### 病因
 
-ABx (various strategies): continuous low-dose daily suppression vs. post-coital only vs. self-start therapy
-post-menopausal women: consider topical estrogen therapy
+- 細菌再感染（80%）vs. 細菌持續存在（復發）
+  - 細菌再感染：復發感染為 1）不同病原體、2）同一病原體若於治療後 >2 週培養陽性、或 3）任何病原體且培養間歇性無菌
+  - 細菌持續存在：同一病原體於敏感度基礎治療後 2 週內培養仍為陽性
 
-no treatment for asymptomatic bacteriuria except in pregnant women or patients undergoing urinary tract
-instrumentation
--e 
+### 診斷檢查
 
-## Page 1545
+- 評估易感因素
+- 檢查可能包括：膀胱鏡、超音波、CT
 
-vUIS Urology
+### 治療
 
-Interstitial Cystitis (Painful Bladder or Bladder Pain Syndrome)
+- 生活型態改變（限制咖啡因攝入、增加水分/H₂O 攝入）
+- 抗生素（多種策略）：連續低劑量每日抑制 vs. 性交後 vs. 自我啟動治療
+- 停經後女性：考虑局部雌激素治療
+- 無症狀菌尿不需治療（除孕婦或泌尿系統器械操作前）
 
-Definition
-+ bladder pain, chronic urgency, and frequency without other identifiable causation
+---
 
-Classification
-+ non-ulcerative (more common) and ulcerative (Hunner's lesions)
+## 間質性膀胱炎（Interstitial Cystitis / Painful Bladder / Bladder Pain Syndrome）
 
-Etiology
-+ unknown
+### 定義
 
-Epidemiology
+- 膀胱疼痛、慢性尿急及頻尿，無其他可識別原因
 
-+ prevalence: 20 in 100,000
+### 分類
 
-+ 90% of cases are in females, 94% are white
+- 非潰瘍型（較常見）及潰瘍型（Hunner's lesions）
 
-+ median age is 40 yr (non-ulcerative seen in younger to middle-aged, while ulcerative seen in middle-aged to
-older)
+### 病因
 
-Clinical Features
+- 不明
 
-+ pelvic pain (typically supra-pubic tenderness)
+### 流行病學
 
-+ storage symptoms (frequency > urgency > nocturia)
+- 盛行率：20/100,000
+- 90% 為女性，94% 為白種人
+- 中位年齡 40 歲（非潰瘍型：年輕至中年；潰瘍型：中年至老年）
 
-+ negative U/A, urine C&S, urine cytology
+### 臨床表徵
 
-+ cystoscopy: glomerulations (submucosal petechiae), Hunner’s lesions
+- 骨盆腔疼痛（通常為恥骨上壓痛）
+- 儲尿症狀（頻尿 >尿急 >夜尿）
+- U/A、尿液培養、尿細胞學均陰性
+- 膀胱鏡：腎小球化（黏膜下瘀點）、Hunner's lesions
 
-Differential Diagnosis
+### 鑑別診斷
 
-. urology: non-infectious cystitis (radiation, chemical, eosinophilic, TB), OAB, bladder calculi, prostate-
-related pain
+- 泌尿科：非感染性膀胱炎（放射、化學、嗜酸性、TB）、OAB、膀胱結石、攝護腺相關疼痛
+- 婦科： 子宮內膜異位症、外陰疾病
+- 神經科：陰部神經夾擊
+- 肌肉骨骼：骨盆底障礙
+- 藥物：ketamine、tiaprofenic acid
 
-gynecology: endometriosis, vulvar disorders
+### 診斷檢查
 
-neurology: pudendal nerve entrapment
+- 病史、理學檢查、頻尿量表
+- 症狀評分量表以建立基準及治療反應
+- U/A、尿液培養、尿細胞學
+- 膀胱鏡
 
-MSK: pelvic floor disorders
+### 治療
 
-drugs: ketamine, tiaprofenic acid
+- 第一線：患者衛教、飲食調整、膀胱再訓練、壓力管理
+- 可加入骨盆底物理治療（針對骨盆底功能障礙或骨盆腔疼痛患者）
+- 第二線：根據症狀表現型導向治療
+  - 口服：amitriptyline、cimetidine、hydroxyzine、pentosan polysulfate（PPS）、gabapentin、quercetin
+  - 膀胱內：dimethylsulfoxide、heparin、lidocaine、PPS、oxybutynin
+- 第三線：液壓擴張、肉毒桿菌素 A、薦神經調控
+  - 若有 Hunner's lesions：內視鏡治療（燒灼、切除、triamcinolone 注射）
+- 第四線：根治性手術（替代膀胱整形術或膀胱切除 + 尿路分流術）
 
-Investigations
+---
 
-+ Hx, P/E, frequency volume chart
+## 急性腎盂腎炎（Acute Pyelonephritis）
 
-+ symptom scores to establish baseline and response to treatment
-+ U/A, urine C&S, urine cytology
+### 定義
 
-+ cystoscopy
+- 腎臟實質感染，伴局部及全身表現
+- 臨床診斷：腰痛、發燒及白血球升高
 
-Treatment
-« first line: patient education, dietary modifications, bladder retraining, stress management
-= pelvic floor physiotherapy can be added for patients with pelvic floor dysfunction or pelvic pain
-+ second line: guided by symptom phenotype
-= oral: amitriptyline, cimetidine, hydroxyzine, pentosan polysulfate (PPS), gabapentin, quercetin
-= intravesical: dimethylsulfoxide, heparin, lidocaine, PPS, oxybutynin
-+ third line: hydrodistension, botulinum toxin A, sacral neuromodulation
-= endoscopic treatment if Hunner’s lesions (cauterization, resection, triamcinolone injection)
-+ fourth line: radical surgery (substitution cystoplasty or urinary diversion + cystectomy)
+### 病因
 
-Acute Pyeloneph
+- 從下泌尿道上行（通常為革蘭氏陰性桿菌）或血源性途徑（通常為革蘭氏陽性球菌）
+- 致病微生物
+  - 革蘭氏陽性菌：Enterococcus faecalis、S. aureus、S. saphrophyticus
+  - 革蘭氏陰性菌：E. coli、Klebsiella、Proteus、Pseudomonas、Enterobacter
+- 常見潛在原因：結石、狹窄、攝護腺阻塞、膀胱輸尿管逆流、神經源性膀胱、導尿管、糖尿病、鐮刀型貧血、PCKD、免疫抑制、腎移植後、器械操作、懷孕
 
-Definition
-«+ infection of the renal parenchyma with local and systemic manifestations
-+ dlinical diagnosis of flank pain, fever, and elevated WBC
+### 臨床表徵
 
-Etiology
-+ ascending from lower UTI (usually Gram-negative bacilli) or hematogenous route (usually Gram-positive
-cocci)
-+ causative microorganisms
-= Gram positives: Enterococcus faecalis, S. aureus, S. saphrophyticus
-= Gram negatives: E. coli, Klebsiella, Proteus, Pseudomonas, Enterobacter
-+ common underlying causes of pyelonephritis
-= stones, strictures, prostatic obstruction, vesicoureteric reflux, neurogenic bladder, catheters, DM,
-sickle-cell disease, PCKD, immunosuppression, post-renal transplant, instrumentation, pregnancy
+- 快速發作（<24 小時）
+- LUTS 包括頻尿、尿急、血尿；若無同時膀胱炎通常無排尿困難
+- 發燒、寒顫、噁心、嘔吐、肌肉痛、倦怠
+- CVA 壓痛及/或嚴重腰痛
 
-Clinical Features
+**膀胱鏡檢查非診斷必要**
 
-+ rapid onset (<24 h)
+### 診斷檢查
 
-+ LUTS including frequency, urgency, hematuria; NOT dysuria unless concurrent cystitis
-+ fever, chills, nausea, vomiting, myalgia, malaise
+- U/A、尿液培養與敏感性
+- CBC 及分類：白血球增多、左偏移
+- 若複雜性腎盂腎炎或治療 48-72 小時後症狀未改善：影像學檢查
+  - 腹部/骨盆腔超聲波
+  - CT
+- 核醫：DMSA 掃描可幫助確診
+  - 攝取缺損表示活動性感染或疤痕；若正常則應考慮其他診斷
 
-+ CVA tenderness and/or exquisite flank pain
+### 治療
 
-Toronto Notes 2025
+- 血流動力學穩定：門診口服抗生素 + 單次初始 IV 劑量（見 Table 8, U13）
+- 嚴重或治療無效：住院、補液、IV 抗生素治療（見 Table 8, U13）
+- 氣腫性腎盂腎炎：大多數患者在開始 IV 抗生素及患者穩定後接受腎切除術；考虑暫時性腎造口引流
+- 腎臟阻塞：住院緊急支架置入或經皮腎造口管
 
-Cystoscopic evaluation is not necessary to
-make a diagnosis
--e 
+---
 
-## Page 1546
+## 攝護腺炎/攝護腺疼痛（Prostatitis/Prostatodynia）
 
-U6 Urology
+### 流行病學
 
-Investigations
-+ U/A, urine C&S
-+ CBCand differential: leukocytosis, left shift
-+ imaging if complicated pyelonephritis or symptoms do not improve with 48-72 h of treatment
-= abdominal/pelvic U/S
-= CT
-+ nuclear medicine: DMSA scan can be used to help secure the diagnosis
-= aphotopenic defect indicates active infection or scar; if normal alternative diagnoses should be
-considered
+- 盛行率：男性每年 9%，有困擾症狀者 6%
+- 50 歲以下男性最常見的泌尿科診斷；50 歲以上男性排名第 3
 
-Treatment
-+ hemodynamically stable
-= outpatient oral ABx treatment + single initial IV dose (see Table 8, U13)
-+ severe or non-resolving
-= admit, hydrate, and treat with IV ABx (see Table 8, U13)
-+ emphysematous pyelonephritis
-= most patients receive nephrectomy after IV ABx started and patient stabilized
-= consider temporization with nephrostomy tubes
-+ renal obstruction
-= admit for emergent stenting or percutaneous nephrostomy tube
+### 分類（Table 9. 四型攝護腺炎比較）**
 
-Prostatitis/Prostatodyni:
+| | 急性細菌性攝護腺炎（第一類） | 慢性細菌性攝護腺炎（第二類） | 慢性骨盆腔疼痛症候群（第三類） | 無症狀攝護腺炎（第四類） |
+|---|---|---|---|---|
+| 病因 | 急性感染 SEEK PP（80% E. coli） | 慢性感染 | 發炎性/非發炎性 | 偶發性發炎 |
+| 臨床表徵 | LUTS、骨盆腔疼痛 | LUTS、骨盆腔疼痛 | LUTS、骨盆腔疼痛 | 無症狀 |
+| 全身症狀 | 發燒、寒顫、倦怠 | 無全身症狀 | 無 | 前列腺液中白血球增多 |
+| 檢體 | 前列腺液中白血球增多、復發性 UTI、陽性細菌培養 | 前列腺液中白血球增多、陽性細菌培養 | IB：前列腺液中無白血球增多 | 前列腺液中白血球增多（治療 PSA 升高、不孕症時） |
+| 診斷檢查 | 病史、理學檢查（腹部、外生殖器、會陰、攝護腺）、U/A、尿液 C&S、4 杯試驗 | 病史、理學檢查（同第一類 + 骨盆底）、症狀評分量表（NIH-CPSI） | 病史、理學檢查（同第二類）、考慮心理評估 | 無（除非考虑對 PSA 升高或不孕症進行治療） |
+| 治療 | 抗生素（見 Table 8, U13）、嚴重阻塞時導尿、膿場引流 | 抗生素（見 Table 8, U13）、α-阻斷劑（若阻塞） | 支持性治療；α-阻斷劑（若抗生素無效）；多模式治療根據 UPOINT 表現型 | 若 PSA 升高、不孕症或計劃做攝護腺切片，考慮抗生素 |
 
-Epidemiology
-+ prevalence: 9% of men/yr, 6% with bothersome symptoms
-+ most common urologic diagnosis in men <50 y/o, 3rd most common in men >50 y/o
+---
 
-Classification
-Table 9. Comparison of the Four Types of Prostatitis
+## 附睪炎與睪丸炎（Epididymitis and Orchitis）
 
-‘cuteBacteral Prostatitis ‘Chronic Bacterial Prostatitis ChronicPelvicPainSyndrome Asymptomatic Prostatitis
-(Category!) (Category tl) {Category ll) (Category IV)
-Etiology Acute infection Chronicinfecions prostatitis Symptomswithout evidence of Incidental inflammation
-SEEK PP (BO%E. coll symptoms infection
-IWAinflammatory
-I8:non inflammatory
-Clinical Features LUTS, pelvic pain UTS, pelvic pain UTS, pelvic pain No symptoms
-Systemic sgns:fever, chils,malaise No systemic signs Ileukocytosisin prostatic fluid Leukocytosisinprostatcfuid
-Leukocytosis inprostatictluid Recurrent UIls IB:no leukocytosis in prostatic
-Positive bacterial cultures Leukocytosis in prostatic fluid fluid
-Positive bacterial cultures
-Investigations Hx, /E(abdominal extemal genitalia, Hx, PIE(sameasCategoryl+ Hx, PE (same as No investigationsunless
-perineum, prostate) pelvic floor) Category Il) considering ABx for elevated PSA
-U/A, urine C&S. Aglass test for culture: Symptom score (NIH-CPSI") or infertility
-TRUSif suspect abscess ¥B1 (urethra) ‘A-glasstest
-VB2 (bladder) Consider psychological assessment
-PS (post-massage)
-¥B3 post massage)
-Treatment ‘ABx (see Table 8, U13) ‘Bx (see Table 8 U13) Supportive measures. ABxif elevated PSA, infertility, or
-Catheterization if severe obstructive _a-blockerif obstruction ‘ABxif ABx naive planned prostate biopsy
-Drainage if abscess ispresent Multimodal therapy based on
-UPOINT phenotype
-Including:
-a-blockers, anti-inflammatories,
-and phytotherapy (quercetin,
-cemilton)
+### 病因
 
-“NIH-CPSI: National Institute of Health Chronic Prostatitis Symptom Index
+- 常見感染原因
+  - <35 歲：Neisseria gonorrhoeae 或 Chlamydia trachomatis
+  - ≥35 歲或有肛交：腸道菌（特別是大腸桿菌）
+- 其他原因
+  - 腮腺炎感染可能涉及睪丸炎（腮腺炎後）
+  - TB
+  - 梅毒
+  - 老年人肉芽腫性（自體免疫）
+  - amiodarone（僅涉及附睪頭部）
+  - 化學性：尿液逆流至射精管
 
-Toronto Notes 2025
--e 
+### 危險因子
 
-## Page 1547
+- UTI
+- 無保護性行為接觸
+- 器械操作/導尿
+- 攝護腺尿道內壓力增加（用力、排尿、提重物）可能導致尿液沿輸精管逆流 > 無菌性附睪炎
+- 免疫抑制
 
-vUI7 Urology
+### 臨床表徵
 
-Epididymitis and Orchitis
+- 突發性陰囊疼痛及腫脹 + 沿索狀物向腰部放射
+- 陰囊紅斑及壓痛
+- Prehn's 徵象（抬高睪丸時疼痛緩解）
+- 發燒
+- 儲尿症狀、膿性分泌物
+- 反應性陰囊積水
 
-iology
-* common infectious causes
-= <35 yr: Neisseria gonorrhoeae or Chlamydia trachomatis
-= 235 yr or penetrative anal intercourse: GI organisms (especially E. coli)
-+ other causes
-= mumps infection may involve orchitis, post-parotitis
-TB
+**若無法確定診斷，必須排除睪丸扭轉（超聲都卜勒）。記住：扭轉 >6 小時預後不良。**
 
-syphilis
+### 診斷檢查
 
-granulomatous (autoimmune) in elderly men
-amiodarone (involves only head of epididymis)
-chemical: reflux of urine into ejaculatory ducts
+- U/A、尿液 C&S
+- 若有尿道分泌物：革蘭氏染色/培養
+- 若診斷不確定，必須排除睪丸扭轉（U/S 都卜勒）
+- 超聲波可確認診斷（血管增加）
 
-Risk Factors
+### 治療
 
-+ UTI
+- 排除扭轉（見 Table 23, Investigations, U32）
+- 抗生素治療（見 Table 8, U13）
+- 陰囊支撐、臥床休息、冰敷、止痛
 
-unprotected sexual contact
+### 併發症
 
-instrumentation/catheterization
+- 嚴重時：睪丸萎縮
+- 30% 有持續性不孕問題
+- 未適當治療急性附睪炎可能導致慢性附睪炎或附睪睪丸炎
 
-increased pressure in prostatic urethra (straining, voiding, heavy lifting) may cause reflux of urine along
-vas deferens > sterile epididymitis
+---
 
-+ immunocompromised
+## 尿道炎（Urethritis）
 
-Clinical Features
+### 病因
 
-sudden onset scrotal pain and swelling + radiation along cord to flank
-scrotal erythema and tenderness
+- 感染性或發炎性（如：反應性關節炎）
 
-Prehn’s Sign (relief of pain with lifting of testicle)
+**Table 10. 感染性尿道炎：淋菌性 vs. 非淋菌性**
 
-fever
+| | 淋菌性 | 非淋菌性 |
+|---|---|---|
+| 致病菌 | Neisseria gonorrhoeae | 通常為 Chlamydia trachomatis |
+| 診斷 | 性接觸史、膿性（厚、黃灰色）分泌物、LUTS；革蘭氏染色可見革蘭氏陰性雙球菌 | 性接觸史、黏液性黃白色膿性分泌物、儲尿型 LUTS；革蘭氏染色顯示 >4 WBC/油浸視野；尿液 PCR/培養 |
+| 治療 | 見 Table 8, U13 | 見 Table 8, U13 |
 
-storage symptoms, purulent d/c
+**若培養陰性或治療無效，考虑：Ureaplasma urealyticum、Mycoplasma genitalium、Trichomonas vaginalis、HSV 或腺病毒。**
 
-reactive hydrocele
+---
 
-Investigations
+## 反應性關節炎（Reactive Arthritis，原名 Reiter's 症候群）
 
-+ U/A, urine C&S
+### 定義
 
-+ +urethral d/c: Gram stain/culture
+- 無菌性尿道炎、葡萄膜炎（或結膜炎）及關節炎的臨床三聯徵
+- （不能尿、不能看、不能爬樹）
 
-+ ifdiagnosis uncertain, MUST rule out testicular torsion (U/S Doppler)
-+ U/Scan confirm diagnosis with increased vascularity
+---
 
-Treatment
+## 結石疾病（Urolithiasis / Kidney Stones）
 
-+ rule out torsion (see Table 23, Investigations, U32)
-* see Table 8, U13 for ABx therapy
+### 流行病學
 
-+ scrotal support, bed rest, ice, analgesia
+- 盛行率：~8% 且持續增加
+- 男女比 = 2:1
+- 高峰年齡 30-50 歲
+- 復發率：1 年 10%、5 年 50%、終身 60-80%
+- 草酸鈣是最常見結石類型；其他包括尿酸、鳥糞石（磷酸銨鎂）、磷酸鈣、胱胺酸等
 
-Complications
+### 危險因子
 
-+ ifsevere > testicular atrophy
+- 遺傳性：RTA、葡萄糖-6-磷酸鹽去氫酶缺乏、胱胺酸尿（近端腎小管對胱胺酸再吸收障礙）、COLA 症候群（對胱胺酸、鳥氨酸、離胺酸及精胺酸的再吸收障礙）、黃嘌呤尿、高草酸尿等
+- 生活方式：水分攝取不足（最常見危險因子）；過量維生素 C、草酸、普林、鈣；在極熱環境生活或工作
+- 藥物：loop 利尿劑（furosemide、bumetanide）、acetazolamide、topiramate、zonisamide、indinavir、acyclovir、sulfadiazine、triamterene
+- 疾病狀態：UTI（尿素分解菌：Proteus、Pseudomonas、Providencia、Klebsiella、Mycoplasma、Serratia、S. aureus）、骨髓增生性疾病、發炎性腸道疾病、痛風、糖尿病、高血鈣疾病（副甲狀腺功能亢進、腫瘤溶解症候群、結節病、組織漿菌病）、肥胖（BMI >30）
+- 膀胱結石：膀胱出口阻塞、導尿管、神經疾病、糖尿病（需不同治療方式）
 
-+ 30% have persistent infertility problems
+### 臨床表徵
 
-+ inadequately treated acute epididymitis may lead to chronic epididymitis or epididymo-orchitis
+- 泌尿阻塞 > 上游擴張 > 疼痛
+  - 腰痛（腎包膜擴張所致，非絞痛性）
+  - 嚴重且起伏的疼痛，可從腰部放射至腹股溝、睪丸或陰莖尖端（集合系統或輸尿管擴張）
+  - 翻滾、持續不適、噁心、嘔吐、血尿（90% 顯微性）、發汗、心搏過速、呼吸急促
+  - 若結石在靠近輸尿管膀胱交界處的下端輸尿管，偶有三角區刺激症狀（頻尿、尿急）
+- 膀胱結石導致：儲尿及排尿 LUTS、末期血尿、恥骨上疼痛
+- 若有發燒，排除同時存在的腎盂腎炎及/或阻塞
+- 也可能無疼痛或症狀（偶然發現）
 
-Urethritis
+**Table 11. 腎絞痛鑑別診斷**
 
-Etiology
-+ infectious or inflammatory (e.g. reactive arthritis)
+| 腹部 | 神經 |
+|------|------|
+| 腎盂腎炎 | 腹部主動脈瘤（AAA） |
+| 其他原因之輸尿管阻塞：UPJ 阻塞、哥倫巴結石繼發於大量血尿、剝脫乳頭 | 胰臟炎 |
+| 膽囊結石 | 神經根炎（皰疹後神經痛、神經根受壓） |
+| Gynecological： 子宮外孕、卵巢囊腫扭轉/破裂、PID | 肌肉骨骼（MSK）背痛 |
+| 其他急腹症（闌尾炎、膽囊炎、憩室炎） | |
 
-Table 10. Infectious Urethriti
+### 結石位置
 
-Gonococcal vs. Non-Gonococcal
+- 腎盞：可能導致腰痛、持續感染、持續血尿；但若非阻塞性，可能終生無症狀
+- 腎盂：容易在 UPJ 造成阻塞，可能導致持續感染
+- 輸尿管：直徑 <5 mm 的結石 75% 可自行排出，但疼痛程度各異
 
-Gonococcal Non-Gonococcal
-Causative Organism Neisseria gonorthoeae Usually Chlamydia trachomatis
-Diagnosis Hof sexual contact, thick, profuse, yellow-grey Hx of serual contact, mucoidwhitish purulent dc, + storageLUTS
+### 結石形成機制
 
-purulent dc, LUTS Gramstain demonstrates >4 PMNailimmersion field, evidence
-Gramstain (6H diplococc) urine PCR andlor culture of W. gonorthoece, urine PCR andlor culture from urethral
-‘rom wethral specimen specimen
+- 結石成分過飽和（適當溫度及 pH 下）
+- 尿液滯留、流速低、容積少（脫水）
+- 結晶形成及結石核心
+- 抑制因子流失
+  - 檸檬酸鹽（與鈣形成可溶性複合物）
+  - 鎂（與草酸形成可溶性複合物）
+  - 焦磷酸鹽
+  - Tamm-Horsfall 醣蛋白
 
-Treatment See Table8, UI3 See Table8, UI3
+**結石病史要點：飲食（特別是水分攝取）、易感疾病、易感藥物、以前發作/檢查/治療、家族史（第一親等）**
 
-Toronto Notes 2025
+### 上泌尿系統結石的四個最窄通道
 
-{Hf unsure between diagnoses of
-epididymitis and torsion, always goto OR
-Remember: torsion >6 h has poor
-prognosis
+1. 骨盆邊緣
+2. 輸精管/圓韌帶下方
 
-Reactive Arthritis (formerly known as
-Reiter's syndrome)
+### 結石 X 光顯影特性
 
-Urethrits, weitis or conjunctivtis), and
-arthritis
+| 顯影 | 半透明 |
+|------|--------|
+| 草酸鈣、磷酸鈣、鳥糞石、膀胱結石 | 尿酸、indinavir、atazanavir、胱胺酸 |
+| 草酸鈣、鳥糞石 | 尿酸 |
+| 鳥糞石 | Atazanavir |
+| 磷酸鈣 | Indinavir |
+| 胱胺酸 | |
 
-(can't pee, can't see, can't climb a tree)
+---
 
-If culture negative or unresponsive
-to treatment consider: Ureaplasma
-urealyticum, Mycoplasma genitalium,
-Trichimonas vaginalis, HSV, or adenovirus
--e 
+## 腎結石處理流程
 
-## Page 1548
+**影像檢查策略**
 
-UI8 Urology
+| | 超音波 | KUB X 光 | CT（非顯影） | 腹部 | 膀胱鏡 | 尿酸結石 | 其他 |
+|---|---|---|---|---|---|---|---|
+| 誰要做 | 每個人 | 首次腎絞痛 | 懷疑結石 | 兒童 | 結石在 KUB 上未顯示、復發性胱胺酸結石 | 保守治療失敗 | |
+| 為何做 | 顯示感染跡象、結石 | 90% 結石顯影 | 最佳診斷工具（可看到其他器官、結石位置、協助手術規劃） | 評估腎功能 | 視覺化鄰近器官 | 排除尿酸結石 | |
+| 限制 | 非所有結石在 X 光上可見 | 女性、放射性敏感年齡 | 需為非顯影掃描 | 可能有輻射暴露 | | | |
 
-Epidemiology
+**結石治療概述（Figure 11-12）**
 
-+ prevalence: ~8% and increasing
+- 急性治療：
+  - 若膿毒症：緊急減壓（輸尿管支架或經皮腎造口），膿毒症清除後再做結石治療
+  - 入院治療適應症：頑固性疼痛或嘔吐、阻塞危及患者（如：膿毒症、腎衰竭）
+- 選擇性治療：
+  - <10 mm：藥物排出治療（MET）+保守治療
+  - >10 mm 或有併發症：介入治療
 
-SF=2:1
+### 介入選擇
 
-peak incidence 30-50 yr
+1. 保守藥物管理
+2. 體外震波碎石（SWL）：較不具侵入性（僅需鎮靜，無內部器械操作），成功率較低
+3. 輸尿管鏡雷射碎石（URS laser lithotripsy）：稍具侵入性（通常需全身或脊椎麻醉、需器械操作，通常門診），成功率較高
+4. 經皮腎造口碎石術（PCNL）：較侵入性（需全身麻醉、腎穿刺，通常需住院），對大結石最成功
+5. 腹腔鏡或開放手術：現代少用（除非同時做其他手術，如 UPJ 阻塞修復）
 
-recurrence rate: 10% at 1 yr, 50% at 5 yr, 60-80% lifetime
+### 預防
 
-calcium oxalate most common stone type; others include uric acid, struvite, calcium phosphate, cystine,
-etc.
+- 飲食調整：增加水分（>2 L/天）、檸檬酸攝入（檸檬汁、柳橙汁）；減少動物蛋白、草酸、鈉、蔗糖及果糖攝入；避免高劑量維生素 C 補充劑
+- 藥物：高草酸鈣尿：thiazide 利尿劑；高尿酸尿：allopurinol；低檸檬酸尿、高尿酸尿：檸檬酸鉀
 
-Risk Factors
+### 結石分類（Table 13）
 
-hereditary: RTA, glucose-6-phosphate dehydrogenase deficiency, cystinuria (defect in the proximal renal
-tubular reabsorption of cystine), COLA syndrome (defect in resorption of cystine, ornithine, lysine and
-arginine), xanthinuria, hyperoxaluria, etc.
+| 結石類型 | 草酸鈣（75-85%） | 尿酸（5-10%） | 鳥糞石（5-10%） | 胱胺酸（1%） |
+|----------|------------------|----------------|-----------------|--------------|
+| 病因 | 高草酸鈣尿、高尿酸尿（25%）、高草酸尿（<5%）、低檸檬酸尿（12%）、低鎂血症、其他 | 尿酸在低容量、酸性尿液中高濃度沉澱；藥物（ASA、thiazide）；普林豐富飲食；高細胞周轉（白血病、細胞毒性藥物） | 尿素分解菌感染（Proteus、Pseudomonas、Providencia、Klebsiella、Mycoplasma、Serratia、S. aureus）導致鸚鹼性尿液及鳥糞石沉澱 | 遺傳性小腸黏膜及腎小管對雙鹼基胺基酸吸收缺陷，導致尿液中 COLA（胱胺酸、鳥氨酸、離胺酸、精胺酸） |
+| 影像特徵 | KUB 顯影；CT 顯影 | KUB 半透明；CT 顯影 | KUB 半透明；CT 顯影 | 復發性結石；常為鹿角形結石；KUB 顯影；nitroprusside 試驗陽性；尿液 dip 結晶 |
+| 治療 | 增加尿量至 >2 L/天；若有結石 <5 mm 且無併發症：藥物治療；增加飲食中檸檬酸鹽、減少鹽分、適量草酸飲食；thiazide；檸檬酸鉀 | 完全清除結石；增加水分至 2-4 L/天；檸檬酸鹼化尿液（碳酸氫鹽、檸檬酸鉀）；penicillamine、2-mercaptopropionylglycine 或 Captopril（與胱胺酸形成複合物） | 增加水分攝入；結石及所有異物必須清除以避免復發；混合草酸鈣及鳥糞石：抗生素 | SWL 效果不佳；可观察選擇性無症狀腎結石 |
 
-lifestyle: minimal fluid intake (most common risk factor); excess vitamin C, oxalate, purines, calcium;
-living or working in extreme heat
+**α-阻斷劑作為藥物排出治療（Medical Expulsive Therapy）：Cochrane 2018 研究顯示 α-阻斷劑可增加結石清除率（RR 1.45），但對較小結石（<5 mm）可能效果較差。**
 
-medications: loop diuretics (furosemide, bumetanide), acetazolamide, topiramate, zonisamide, indinavir,
-acyclovir, sulfadiazine, triamterene
+---
 
-medical conditions: UTI (with urea-splitting organisms: Proteus, Pseudomonas, Providencia, Klebsiella,
-Mycoplasma, Serratia, S. aureus), myeloproliferative disorders, inflammatory bowel disease, gout, DM,
-hypercalcemia disorders (hyperparathyroidism, tumour lysis syndrome, sarcoidosis, histoplasmosis),
-obesity (BMI >30)
+## 腎臟腫塊（Small Solid Renal Masses）
 
-bladder stones: bladder outlet obstruction, catheters, neurologic disease, DM (requires different
-management)
+### 腎臟囊性疾病（Cystic Kidney Disease）
 
-Clinical Features
-+ urinary obstruction > upstream distention > pain
-= flank pain from renal capsular distention (non-colicky)
-= severe waxing and waning pain that can radiate from flank to groin, testis, or tip of penis from
-distended collecting system or ureter (ureteral colic)
-withing, persistent discomfort, nausea, vomiting, hematuria (90% microscopic), diaphoresis, tachycardia,
-tachypnea
-occasionally symptoms of trigonal irritation (frequency, urgency) if the stone is in the lower ureter near the
-ureterovesical junction
-bladder stones result in: storage and voiding LUTS, terminal hematuria, suprapubic pain
-if fever, rule out concurrent pyelonephritis and/or obstruction
-+ can also present incidentally, without any pain or symptoms
+- 單純性囊泡：通常單獨或單側；50 歲時達 50% 盛行率；通常為影像學偶然發現
+  - Bosniak 分類（Table 14）用於根據 CT 顯影特徵對囊腫惡性風險分層
+- PCKD：
+  - 體隱性：雙側多囊腫，嬰兒常導致早期腎衰竭
+  - 體顯性：漸進性雙側疾病，導致高血壓及腎衰竭，成人發病
+- 髓質海綿腎：集合管囊狀擴張；通常良性過程，但患者易患結石疾病
+- von Hippel-Lindau 症候群：多發性雙側囊腫及/或腎細胞癌（50% RCC 發生率）
 
-Table 11. Differential Diagnosis of Renal Colic
+**Table 14. Bosniak 腎囊腫分類**
 
-ou Abdominal Neurological
+| 分類 | 特徵 | 惡性風險 | 處理 |
+|------|------|----------|------|
+| I | 單純囊腫：圓形、無間隔/鈣化、無顯影增強、均質性、<20 HU | 接近零 | 不需追蹤 |
+| II | 簡單囊腫：薄間隔（<1 mm）、細微鈣化、無顯影增強、<3 cm、>20 HU | 輕微 | 不需追蹤 |
+| IIF | 輕度複雜囊腫：多發薄間隔、鈣化、無顯影增強、>3 cm、>20 HU | ~20% | 追蹤，影像 q6-12 個月；若病變演變則手術切除 |
+| III | 複雜囊腫：不規則、增厚、鈣化間隔伴 >50% 顯影增強 | ~50% | 手術切除 |
+| IV | 很可能惡性：不規則、增厚、鈣化間隔伴顯影增強、顯影軟組織成分 | >90% | 手術切除 |
 
-Pyelonephriis ‘Abdominal aortic aneurysm (AAA) Radicultis (1): herpes zoster, nerve rot
-Ureteral obstruction from other couse: UPJ Bowel ischemia compression
+### 良性腎臟腫塊（Table 15）
 
-obstruction, dot colic secondary to gross, Pancreatitis Neuromuscular (MSK) back pain
+**血管肌肉脂肪瘤（Angiomyolipoma / Renal Hamartoma）**
 
-hematuria, sloughed papil
-‘Gynecological: ectopic pregnancy, torsioniruptare
-of ovarian yst, PID
+- 流行病學：<10% 成人腎臟腫瘤；20% 與結節性硬化症相關（特別是復發性）
+- 特性：由血管、平滑肌及脂肪組成的克隆性腫瘤；可能延伸到區域淋巴結及其他器官並出現症狀
+- 診斷：CT 偶然發現；CT 上陰性衰減（20 HU）是特異性徵象；罕見表現為血尿、腰痛及可觸及腫塊
+- 處理：若有症狀（疼痛、出血）或高出血風險（如：懷孕），考虑手術切除或栓塞；大腫塊做部分或根治性腎切除；不可切除/轉移性疾病中 TOR 抑制劑可能有角色；大部分以系列超聲波追蹤
 
-‘Other acite abdominal rss (appendicitis,
-cholecystitis, diverticulitis)
+**腎臟腺瘤（Renal Oncocytoma）**
 
-Location of Stones
+- 流行病學：3-7% 腎臟腫瘤
+- 特性：球形、有包膜，可能有中央疤痕；由嗜酸性細胞的有組織聚集組成；起源於集合管 intercalated cell；也見於腎上腺、甲狀腺及副甲狀腺
+- 診斷：CT 偶然發現；難以與 RCC 區分—在確立為良性前當作 RCC 治療；可做切片排除惡性
+- 處理：大部分以追蹤；若有症狀则手術切除
 
-calyx: may cause flank discomfort, persistent infection, persistent hematuria, but if non-obstructive, likely
-remains asymptomatic
+---
 
-pelvis: tend to cause obstruction at UPJ, may cause persistent infection
+## 腎細胞癌（Renal Cell Carcinoma, RCC）
 
-ureter: <5 mm diameter will pass spontaneously in 75% of patients but can do so with varying degrees of
-pain
+### 病因
 
-Stone Pathogenesis
-+ supersaturation of stone constituents (at appropriate temperature and pH)
-+ stasis, low flow, and low volume of urine (dehydration)
-+ crystal formation and stone nidus
-+ loss of inhibitory factors
+- 起源於近端曲小管上皮細胞（透明細胞亞型，最常見）
+- 遺傳形式：von Hippel-Lindau 症候群、遺傳性乳頭狀腎癌、Birt Hogg Dubé 症候群及遺傳性平滑肌肉瘤 RCC
 
-® citrate (forms soluble complex with calcium)
+### 流行病學
 
-= magnesium (forms soluble complex with oxalate)
+- 腎臟原發惡性腫瘤的 85%，約佔所有惡性腫瘤的 3%
+- 男女比 = 1.5:1
+- 高峰發生率 50-60 歲
 
-= pyrophosphate
+### 病理
 
-= Tamm-Horsfall glycoprotein
+- 組織學亞型：透明細胞（75-85%）、乳頭狀（10-15%）、嫌色細胞（5-10%）、集合管（<1%）、其他（<1%）
+- 任何亞型中的肉瘤樣或橫紋肌樣成分均為預後不良標誌
 
-Toronto Notes 2025
+### 危險因子
 
-Key Points in Stone Hx
-Diet (especially FLUID INTAKE)
-Predisposing medical conditions
-Predisposing medications
+- 前三大危險因子：吸菸、高血壓、肥胖
+- 末期腎疾病（後天性腎囊性疾病）
+- 環境暴露的角色（芳香烴等）仍為未經證實的 RCC 危險因子
 
-Previous episodes/investigations!
-treatments
+### 臨床表徵
 
-FMHx (Ist degree relative)
+- 通常無症狀：常因 U/S 或 CT 偶然發現（>50%）
+- 預後不良指標：體重減輕、虛弱、貧血、骨痛
+- 經典「延誤三聯徵」見於 10-15%：顯微或巨觀血尿 50%；腰痛 <50%；可觸及腫塊 <30%
+- 轉移：1/3 新病例可見轉移；另有 20-40% 將來會發生轉移（多為晚期或大腫瘤）
+  - 最常見部位：骨頭、腦、肺、肝
+  - 可能侵犯腎靜脈及下腔靜脈（IVC）腔
+  - 可能導致腹水、肝功能障礙、右心房腫瘤、精索靜脈曲張及肺栓塞
 
-The Four Narrowest Passage Points for
-Upper Tract Stones
+### 診斷檢查
 
-Pelvic brim
-Under vas deferens/broad ligament
-uw
+- 副腫瘤症候群常規實驗室檢查（CBC、ESR、LFTs Extended electrolytes）
+- U/A
+- 腎臟 U/S：實性 vs. 囊性病灶
+- 顯影增強 CT：比 U/S 有更高敏感性檢測腎臟病灶及分期
+- 腎臟切片：確認診斷，若考慮觀察或其他非手術消融治療
+- 基因檢測：若有 von Hippel-Lindau 症候群家族史、非透明細胞癌、雙側/多發性腫瘤、發病 <45 歲、腎臟腫瘤家族史或任何伴有氣胸病史、皮肤病學發現、相關腫瘤、淋巴管肌瘤病或兒童癲癇病史的腎臟腫瘤，考虑基因檢測
+- MRI：對 CT 上複雜囊性病灶 indeterminate 時有用；評估 IVC 血栓的良好方式
 
-Radiopaque —_Radiolucent
+**RCC 全身性效應：副腫瘤症候群（10-40% 患者）**
 
-UB Caldum Wicacid
-Struvite Indinavir
-Opting Atazanavit
-Calcium ‘ndinavir
-Struvite Atazanavir
-Opstine
-Uicacid
--e 
+- 造血功能障礙：貧血、紅血球增多、ESR 升高
+- 內分泌病變：高血鈣（增加維生素 D 水合作用）、紅血球增多（紅血球生成素增加）、高血壓（腎素增加）、其他激素（泌乳激素、促性腺激素、TSH、胰島素及皮質醇）
+- 肝細胞功能障礙或 Stauffer 症候群：異常 LFTs、WBC 減少、發燒、肝臟局部壞死；無轉移證據；移除原發腫瘤後可逆
+- 血液動力學改變：收縮期高血壓（因動靜脈分流）、周邊水腫（因腔靜脈阻塞）
 
-## Page 1549
+### 分期（Table 16. 2018 TNM Classification, AJCC 8th edition）**
 
-Ul9 Urology Toronto Notes 2025
+| T | N | M |
+|---|---|---|
+| TX：無法評估原發腫瘤 | NX：無法評估區域淋巴結 | MO：無遠處轉移 |
+| T1：腫瘤 <7 cm，侷限於腎實質 | NO：無區域淋巴結轉移 | M1：有遠處轉移 |
+| T1a：<4 cm | N1：區域淋巴結轉移 | |
+| T1b：4-7 cm | | |
+| T2：腫瘤 >7 cm，侷限於腎實質 | | |
+| T2a：>7 cm 但 ≤10 cm | | |
+| T2b：>10 cm | | |
+| T3：腫瘤侵犯主要靜脈或腎周組織，但未超出同側腎上腺或 Gerota's 筋膜 | | |
+| T3a：侵犯腎靜脈或竇脂肪 | | |
+| T3b：侵犯橫膈膜下腔靜脈 | | |
+| T3c：侵犯橫膈膜上腔靜脈 | | |
+| T4：腫瘤超出 Gerota's 筋膜，包括侵犯同側腎上腺 | | |
 
-Approach to Renal Stones
+### 治療
 
-Although hypercalei tisk factor
-for stone formation, decreasing dietary
+- 手術（開放、腹腔鏡、機械手臂）
+  - 根治性腎切除術：en bloc 移除腎臟、腫瘤、同側腎上腺（上極腫瘤）及完整 Gerota's 筋膜
+  - 部分腎切除術（腎元保留）：小腫瘤（大致 <4 cm）或孤立腎/雙側腫瘤
+  - 若條件允許，考虑切除孤立性轉移
+- 消融技術（經皮或腹腔鏡輔助）：射頻消融（RFA）、冷凍消融
+- 姑息性放射治療：針對疼痛性骨病灶
+- 體部放射治療（SBRT）：非手術候選者
+- 晚期治療：免疫檢查點抑制劑（如：pembrolizumab、ipilimumab、nivolumab）；酪氨酸激酶抑制劑（如：sunitinib、sorafenib、axitinib、lenvatinib）；HIF-2α 抑制劑（belzutifan）；干擾素 α：單藥治療大多已被上述分子標靶藥物取代
 
-calcium is NOT recommended to prevent
-CT shows stone ‘CT shows no stone — stone formation. Low dietary calcium leads
+### 預後
 
-to increased Gl oxalate absorption and
-hhigher urine levels of calcium oxalate
+- 分期是最重要的預後因素
+  - T1：5 年存活率 90-100%
+  - T2-3：5 年存活率 60%
+  - 轉移性疾病：10 年存活率 <5%
+- 復發預測因子：腫瘤分級、原發腫瘤局部範圍、局部轉移的存在、組織學亞型
 
-3. Intractable pain or vomiting carr
-GETS If septic, urgent decompression via ureteric
-stent or percutaneous nephrostomy is
-indicated, Definitive treatment ofthe stone
-should be delayed until the sepsis has,
+---
 
-cleared
-Indications for PCNL
-Figure 10. Approach to renal stones Size >2.cm
-oo. Staghor
-Investigations UPJ obstruction with corection of
-Table 12. Investigations for Renal Stones comin
-CBC,U/A, Urine KUBXray (CTScannon-contrast) Abdominal Cystoscopy Uric Acid PTH, 24hurinex 2 ee
-cas Ultrasound for volume, Cr, Ca®, Large cystine stones (poorly fragmented
-“PO, Mg, with SWL)
-onaate,citrate,* Anatomical abnormalities preventing
-gsstine retrograde access
-Whogetsit? Everyone Most Fistepisode renal colic Pediatriccases, Those Stone notseen  RecurrentCastone Failure of less invasive modalities
-egrantpatients, conceringfor on KUB formers
-recurrentstone bladder stone pediatric cases
-formers, unsure
-ofDe
-Whyisit — Mayshowsigns 90% ofstonesare —Abletoseeadjacent organs, dentfyandifoliow Visualize ——Suspectedurke —_Needtorue out
-done?’ ofinfection,+ radiopaque ‘exact location ofstones), upstone without bladder axidstone(urine metabolic cause for
-sensitivities Good forfolow-up plan for surgery, et. ratiation exposure Canprovide pH<5.Smight stones,
-Helpsrule out uricadd Canassess demsityof stone Visualize acessto suggest uri
-stones (notvisible Gold standard diagnostic hydronephrosis ureterforstent acid stone)
-onx-ray) test placement it
-reeded
-Cautions Presence of _—Notallstonesvsible Radiation especiallyit — — - - -
-leukocytesNOT —onx-ray female of cid bearing age)
-awaysindicaive Do not mistake Must be anon-contrast scan
-infection __phebolth forstonest
-Treatment
+## 腎盂及輸尿管癌（Carcinoma of the Renal Pelvis and Ureter）
 
-KIDNEY STONE Acute Treatment
+### 病因
 
-MEDICAL
+- 危險因子：吸菸、飲食/化學暴露（馬兜鈴酸、工業染料及溶劑：苯胺染料）、巴爾幹地方性腎病（因慢性飲食馬兜鈴酸暴露）、止痛藥濫用（acetaminophen、ASA 及 phenacetin）、接觸 cyclophosphamide
 
-admit to
-hospital
+### 流行病學
 
-if obstruction
+- 罕見：佔所有泌尿道上皮癌（UC）的 5%
+- 常為多發性，2-5% 為雙側
+- 男女比 = 3:1
+- 相對發生率：膀胱:腎:輸尿管 = 100:10:1
+- 若有病史或泌尿道上皮癌、大腸癌、胃癌、攝護腺癌、子宮內膜癌及其他惡性腫瘤家族史，考虑 Lynch 症候群
 
-endangers the patient
-INDICATIONS for (e.g. sepsis, renal failure)
-HOSPITAL TREATMENT
+### 病理
 
-Interventional
-‘stline: ureteric stent
+- 85% 為泌尿道上皮癌（UC）；其他包括鱗狀細胞癌（SCC）及腺癌
+- 輸尿管及腎盂的 UC 與膀胱 UC 組織學上相似
 
-(© Sarah Crawley 2019
+### 臨床表徵
 
-(via cystoscopy)
-2nd line: percutaneou
-nept
+- 巨觀/顯微血尿
+- 腰痛
+- 儲尿或排尿症狀（僅下泌尿系統受影響時才會排尿困難）
+- 腰痛性腫塊 + 水腎（10-20%）
 
-Figure 11. Acute treatment of kidney stone
--e 
+### 診斷檢查
 
-## Page 1550
+- CTU（CT 尿路攝影）
+- 膀胱鏡及逆行性腎盂攝影
 
-u20 Urology
+### 治療
 
-KIDNEY STONE
-Elective Treatment
+- 根治性腎輸尿管切除術 + 同側膀胱袖口切除
+- 遠端輸尿管腫瘤：遠端輸尿管切除術 + 同期輸尿管重新植入
+- 某些中段輸尿管腫瘤可做節段性切除 + 輸尿管對輸尿管吻合術
+- 輔助化學治療（gemcitabine-platinum）
+- 低惡性度疾病或基線腎功能較差的患者：內視鏡雷射消融新興角色
 
-URETER, >10 mm
+---
 
-INTERVENTIONAL
-(if symptoms worsen
-or fail to improve)
+## 膀胱癌（Bladder Carcinoma）
 
-©Amy C20 2019
+### 病因
 
-Figure 12. Elective treatment of kidney stone
+- 未知，但環境危險因子包括：
+  - 吸菸（主因，約 60% 新病例與之相關）
+  - 芳香胺：napthylamines、benzidine、tryptophan、phenacetin 代謝物
+  - cyclophosphamide
+  - 骨盆腔放射治療病史
+  - 埃及血吸蟲感染（與 SCC 相關）
+  - 慢性刺激：膀胱炎、慢性導尿、膀胱結石（與 SCC 相關）
+  - 馬兜鈴酸：與巴爾幹地方性腎病（腎衰竭、上泌尿道上皮癌）及中草藥腎病相關
 
-Prevention
+### 流行病學
 
-+ dietary modification
+- 第 2 常見泌尿系統惡性腫瘤
+- 男女比 = 3:1；白種人比非裔美國人更常見
+- 診斷時平均年齡 65 歲
 
-= increase fluid (>2 L/d), citrate intake (lemon juice, orange juice)
-= reduce animal protein, oxalate, Na’, sucrose, and fructose intake
-= avoid high-dose vitamin C supplements
+### 病理
 
-+ medications
+- 分類：UC >90%；SCC 5-7%；腺癌 1%；其他 <1%
+- UC 分期及預後
+  - 非肌肉浸潤性（75%）：5 年整體存活率 >80%；15% 會進展為侵襲性 UC；大部分會復發
+  - 侵襲性（25%）：5 年存活率 50-60%；85% 無淺層 UC 病史（即原發性）；50% 在診斷時已有隱匿性轉移，多數在 1 年內發展為明顯臨床轉移—淋巴結、肺、腹膜、肝、骨
+  - 原位癌（CIS）：扁平、非乳頭狀紅色病變，以侷限於泌尿上皮內的發育異常為特徵；放射抵抗；通常為多發性；可能進展為侵襲性 UC
 
-= thiazide diuretics for hypercalciuria
-= allopurinol for hyperuricosuria
-= potassium citrate for hypocitraturia, hyperuricosuria
+### 臨床表徵
 
-Table 13, Stone Classification
+- 無症狀（20%）
+- 血尿（關鍵症狀：85-90% 在診斷時）
+- 疼痛（50%）：位置由腫瘤大小/範圍決定（如：腰、恥骨上、會陰、腹）
+- 血塊滯留（17%）
+- 儲尿泌尿症狀 > 考虑 CIS
+- 雙手檢查時可觸及腫塊 > 可能為肌肉浸潤
+- 輸尿管阻塞 > 水腎及尿毒症（嘔吐、腹瀉）；為不良預後因素；可能為肌肉浸潤
 
-Type of Stone Calcium (75-85%) Uric Acid (5.10%) ‘Struvite (510°) Cystine 1%)
+### 診斷檢查
 
-Etiology Hypercalciuia UWicacdpreciitatesinlow Infection with urea- ‘Autosomal recessive defect insmall
-Hyperuricosuria(25%of patients volume, acidicurinewith a high —spliting organisms bowel mucosal absorption and renal
-witha stones) uric acid concentration: (Proteus, Pseudomonas, tubular absorption of dibasic amino
-Hyperoxalurin(<5%of patients) Hyperuricosuria alone Providenda, Kebsiella, _acidsresultsin“COLA” inurine
-Hypocitraturia(12%ofpatients} Drugs (ASA, thizides) ‘Mycoplasma, Serati, (cystine, ornithine, lysine, arginine)
-Other causes: Diet (putine-rchredmeats) _S.aureus)results in
+- U/A、尿液 C&S、尿細胞學
+- 超音波
+- 顯影 CT：檢查上泌尿道填充缺損及轉移
+- 膀胱鏡及切片（若病灶較小）
+- TURBT（Gold standard，診斷且常具治療性）> 確診及判斷浸潤深度
+  - 侵犯肌肉層確認肌肉浸潤（T2）
+  - 特定膀胱腫瘤標記（如：NMP-22、BTA、Immunocyt、FDP）；臨床應用價值有爭議
 
-Hypomagnesemia associated Hyperuricosuria with ‘alkaline urinary pH and
-with hyperoxaluria and hyperuricemia precipitation of struvite
-hypocttraturia Gout (magnesium ammonium
-Highdietary Nar High rate ofcellturnover phosphate)
+### 分級
 
-Decreased winary proteins ‘orcell death (leukemia,
+- 低惡性度：<10% 侵襲，60% 局部復發
+- 高惡性度
 
-Highurinary pH, low urine ‘cytotoxic drugs)
+### 分期（Table 17. 2018 TNM Classification, AJCC 8th edition）**
 
-volume e.g. 61 water oss)
+| T（原發腫瘤） | N（區域淋巴結） | M（遠處轉移） |
+|---|---|---|
+| Ta：非侵襲性乳頭狀癌 | NX：無法評估淋巴結 | MO：無遠處轉移 |
+| Tis：原位癌（"平坦腫瘤"） | NO：無區域淋巴結轉移 | M1：遠處轉移 |
+| T1：腫瘤侵犯黏膜下結締組織 | N1：真骨盆單一區域淋巴結轉移（腹下、閉孔、外髂或恥骨前淋巴結） | |
+| T2：腫瘤侵犯肌肉層 | N2：真骨盆多發區域淋巴結轉移 | |
+| T2a：侵犯淺層肌肉層（內半） | N3：總髂淋巴結轉移 | |
+| T2b：侵犯深層肌肉層（外半） | | |
+| T3：腫瘤侵犯膀胱周圍組織 | | |
+| T3a：顯微鏡下 | | |
+| T3b：巨觀性（膀胱外腫塊） | | |
+| T4：腫瘤侵犯以下任一：攝護腺基質、貯精囊、子宮、陰道、骨盆壁、腹壁 | | |
 
-Hyperparathyoidism, obesity,
+**「區域缺陷」理論有助於解釋為何 UC 有多發病灶且復發率高。整個泌尿上皮（腎盂至膀胱）浸泡在致癌物中。任何血尿患者必須評估整個泌尿道，除非有明確證據顯示為腎絲球性出血（如：紅血球圓柱、變形紅血球等）。膀胱鏡是確診泌尿上皮惡性腫瘤的首選程序。任何 ≥40 歲個體若有不明原因血尿，必須檢查排除惡性腫瘤。腫瘤分級是進展的最重要單一預後因子。**
 
-gout, OM
+### 治療（Figure 17）
 
-KeyFeatures Radiopaque on KUB Radiolucent on KUB x+ay PerpetuatesUTI because Aggressivestone disease seen in
-Reducing dietaryCa® isNOT an Radiopaque on CT ‘thestoneitself harbours children and young adults
-‘fective method of prevention) Acidicurine, pH<5.5 NOT axgarism Recurentstone formation,
-treatment necessarlyelevatedurinay Stone andallforeign Flix
+**非肌肉浸潤性**
 
-uric acd) todiesmustbe dearedto Oftenstaghorn calcul
-‘avoid recurrence opaque onKUBx-ray
-Associated with staghorn nitroprusside
-calcul test, wine chromatography for
-Pesitiveurinedipand cystine
-cultures
-Note:E.clfinfection does
-rot causestruvite stones,
-ME=3:1, Ul morecommon
-infemale
+- 低風險（Ta 低惡性度）：TURBT + 膀胱內化療；門診追蹤膀胱鏡及細胞學
+- 中度風險（多發性、復發性 Ta）：TURBT + 膀胱內化療；BCG（可選）
+- 高風險（T1、高惡性度 Ta、原位癌）：TURBT + 膀胱內化療；T1 僅在 2-6 週重複 TURBT；BCG（3 年）
 
-Treatment Fluids toincrease urinevolume Compltestone clearance Increasedfludintake (2-4 Lof
+**肌肉浸潤性**
 
-Medicalifstone<5mm andno to>2Ud 18s for 6 wk urinetd)
+- 根治性膀胱切除術 + 骨盆腔淋巴結切除
+- 男性：移除膀胱及攝護腺
+- 女性：移除膀胱、子宮及陰道前壁
 
-complications For calcium stones: increase Regular follow-up urine _Alkalinizeurine (bicarbonate,
-citrate in det, reduce salt, caltures potassium crate), penicillamine!
+**晚期/轉移性**
 
-Procedural’Surgical moderate oxalatetichfoods, <-mercaptopropinyiglycine or
+- 化學治療 + 放射治療
+- 化學放射聯合治療（見 Landmark Trials）
 
-‘reatmentifstone>5mmor weightloss Captopril (form complex with
+**BCG 標準療程：誘導期每週灌注 6 週，之後在誘導開始後 3、6、12、18、24、30 及 36 個月給予每週 3 週的 BCG 維持治療。**
 
-presenceofcomplictions _Calciumoxalatethiazdes, gsstine)
-+potassium citrate, +llopurinol SWLnotetfective
+### 預後
 
-Can observe selected,
-asymptomatic rena stones
+- 取決於分期、分級、大小、病灶數量、復發及是否存在 CIS
+  - T1：5 年存活率 90%
+  - T2：5 年存活率 55%
+  - T3：5 年存活率 30%
+  - N+/M+：5 年存活率 <5%
 
-Mixedcalcium and struvite: ABx
-{stone mustbe removed totreat
-infection)
+---
 
-Toronto Notes 2025
+## 攝護腺癌（Prostate Cancer）
 
-«:Blochersas Medical Expulsive Therapyfor Ureteral
-Stones
+### 病因
 
-Cochrane DBSyst Rev 2018:4:C0008509
+- 不明，危險因子包括：
+  - 年齡 >50 歲，65 歲後每年增加 1%
+  - 非裔美國人發生率較高
+  - 高膳食脂肪（2 倍）
+  - 家族史
+    - 第一親等（2 倍）
+    - 第一及第二親等（9 倍）
+  - BRCA 突變陽性
 
-Purpose: Toassesseffecs of -bockers compared with
-standard therapy for weer stones cm or smal in
-adultpatients presenting with symptoms of ureteral
-stone disease,
+### 流行病學
 
-Methods: Meta-analysis of 67RCTsfor ureteral stone
-passagein 10509 adult patients,
+- 男性最常見的癌症
+- 男性癌症死因第 3 位（僅次於肺癌及結腸癌）
+- 50 歲時終身風險達 50%
+- 死於攝護腺癌的終身風險為 3%
+- 75% 在 60-85 歲之間確診；診斷時平均年齡為 65 歲
 
-Results: Treatment with ana-blockr resulted in
-increased stone clearance (RR1.45, 95% CL1.364.55,
-low quay evidence} Subgroup analyses suggest that
-cebloclersmay beless effective fr smaller stones
-(<Smn).
-Conclusions: ablocers ike increase stone
-cdearance,butalso slightly increase the risk of major
-adverse events,
+### 病理
 
-Main Elective Treatment Options
+- 腺癌 >95%，常為多發性
+- Gleason 分數用於根據細胞分化及模式分級
+- 攝護腺尿道上皮癌（4.5%）：與膀胱 UC 相關；不遵循以下 TNM 分期；不對荷爾蒙治療有反應
+- 子宮內膜型（罕見）：源於攝護腺囊
+- 其他：鱗狀細胞癌、小細胞癌
 
-1. Conservative medical management
+### 解剖
 
-2. Extracorporeal SWL: less invasive
-{sedation only, no internal
-instrumentation), less successful
+- 60-70% 結節起源於周邊區
+- 10-20% 起源於過渡區
+- 5-10% 起源於中央區
 
-3. URSlaser Ithotripsy slightly more
-invasive (usualy GA or spinal,
-instrumentation required, usually
-outpatient), more successful
+### 臨床表徵
 
-4. PCNL: more invasive (requires GA,
-involves puncture of kidney, often
-needs admission), most successful for
-larger stones
+- 通常無症狀
+- 最常通過 DRE、PSA 升高或 TURP 偶然發現
+  - DRE：單側或雙葉彌漫性緻密變硬結節或不規則結節
+  - PSA：見 PSA 篩檢（U28）
+- 局部晚期疾病：儲尿及排尿症狀、ED（無擴散通常不會發生）
+- 轉移性疾病：骨轉移至中軸骨骼常見；內臟轉移較少見（肝、肺及腎上腺最常見）；淋巴結轉移阻塞淋巴及靜脈引流導致腿部疼痛及水腫
 
-5. Laparoscopic or open surgery: rare in
-‘modem era unless performing other
-concomitant procedure (e.g. UPJ
-obstruction correction)
--e 
+### 轉移方式
 
-## Page 1551
+- 局部侵犯
+- 淋巴擴散至區域淋巴結：閉孔 > 髂 > 恥骨前/主動脈旁
+- 血行擴散發生較早
 
-U21 Urology Toronto Notes 2025
+### 診斷檢查
 
-Thereis controversy over optimal
-‘management of small renal masses
+- DRE
+- PSA：大多數攝護腺癌患者升高
+- 經直腸超聲波引導切片（TRUS-guided needle biopsy）
+- 骨骼掃描（僅有骨痛、高風險疾病、Gleason 分數 >7 或 PSA >20 ng/mL）
+- CT 評估轉移
+- MRI：現已確認在檢測、分期、MRI 引導切片及主動監測中的作用
 
-Percutaneous needle biopsies of cystic
-renal masses may lead to peritoneal
-seeding
+**Table 18. 2018 TNM Classification of Prostate Carcinoma (AJCC 8th edition)**
 
-Tuberous Sclerosis
+| T | N | M |
+|---|---|---|
+| TX：無法評估原發腫瘤 | NX：區域淋巴結未評估 | MO：無遠處轉移 |
+| TO：無原發腫瘤證據 | NO：無區域淋巴結轉移 | M1：遠處轉移 |
+| T1：臨床不可測得腫瘤（正常 PSA 及 DRE） | N1：區域淋巴結轉移 | M1a：非區域淋巴結 |
+| T1a：組織學意外發現 ≤5% | | M1b：骨轉移 |
+| T1b：組織學意外發現 >5% | | M1c：其他部位有或無骨轉移 |
+| T1c：因 PSA 升高穿刺切片確診 | | |
+| T2：觸及，侷限於攝護腺 | | |
+| T2a：腫瘤涉及單葉 ≤50% | | |
+| T2b：腫瘤涉及單葉 >50%，但非雙葉 | | |
+| T2c：腫瘤涉及雙葉 | | |
+| T3：腫瘤超出攝護腺被膜 | | |
+| T3a：被膜外延伸（單側或雙側） | | |
+| T3b：腫瘤侵犯貯精囊 | | |
+| T4：腫瘤侵犯鄰近結構（除貯精囊外） | | |
 
-‘Syndrome characterized by mental
-retardation, epilepsy, and adenoma
-sebaceum
+### 治療
 
-45-80% of patients also present with
-Figure 13, Workup of a renal mass 2fee oo are often multiple
-“Imaging modality may be differentin cases of contrast allergy or elevated creatinine and bilateral
+**T1/T2（局部， 低風險）**
 
-Approach to Small Solid Renal Masses
+- 若預期壽命足夠或無其他顯著共病症，考量主動監測 vs. 明確局部治療（根治性攝護腺切除術、近距離放射治療或體外放射治療）
+- 主動監測：對低風險、小病灶、Gleason 分數 <7 的攝護腺癌被證明對大部分患者安全
+- 明確治療方式間治癒或復發率差異極小
+- 年長族群：觀察式等待（watchful waiting）及症狀進展時的姑息治療
+- 其他治療選項：HIFU、冷凍消融、聚焦雷射消融
 
-+ initial workup: kidney function (Cr, GFR), CXR, contrast CT or MRI, + renal biopsy
+**T1/T2（中度或高風險）**
 
-+ iflimited life expectancy: watchful waiting
+- 明確治療優先於主動監測
+- 年長或體弱者：觀察式等待
 
-+ <2 cm: active surveillance with imaging q3-6 mo, proceed to intervention if growth >2 cm, or growth >0.5
-cm/yr, or patient preference
+**T3/T4**
 
-2-4 cm: active surveillance or definitive therapy (biopsy + thermal ablation or partial nephrectomy,
+- ADT（+ 鈣、維生素 D、雙磷酸鹽）+ EBRT/docetaxel/abiraterone
+- 局部晚期：enzalutamide、apalutamide、abiraterone + ADT
+- 放射治療：寡轉移疾病的案例評估（個案評估）
 
-+ iffeasible)
+**N>0 或 M>0**
 
-Cystic Kidney Disease
-+ simple cysts: usually solitary or unilateral
-= very common: up to 50% at age 50
-= usually incidental finding on abdominal imaging
-= Bosniak Classification (Table 14) is used to stratify for risk of malignancy based on cyst features from
-contrast CT
-+ PCKD
-= autosomal recessive: multiple bilateral cysts, often leading to early renal failure in infants
-= autosomal dominant: progressive bilateral disease leading to HTN and renal failure, adult-onset
-+ medullary sponge kidney: cystic dilatation of the collecting ducts
-= usually benign course, but patients are predisposed to stone disease
-+ von Hippel-Lindau syndrome: multiple bilateral cysts and/or renal cell carcinomas (50% incidence of RCC)
-= renal cysts, cerebellar, spinal and retinal hemangioblastomas, pancreatic and epididymal cysts,
+- 需要荷爾蒙治療/轉移灶姑息放射治療；可考虑聯合雄性激素阻斷（ADT + 抗雄性激素）
+- 雙側睪丸切除術：使睪固酮產生減少 90%
+- GnRH 促效劑（如：leuprolide、goserelin）；GnRH 拮抗劑（如：degarelix）+ enzalutamide、apalutamide、darolutamide + docetaxel、abiraterone、docetaxel 單獨
+- 抗雄性激素（如：bicalutamide）
+- 疼痛性繼發灶局部放射治療或半身放射治療
 
-pheochromocytomas
+**CRPC（去勢抵抗性攝護腺癌）**
 
-Table 14. Bosniak Classification of Renal Cysts
+- 維持 ADT
+- 非轉移性 CRPC：觀察 vs. apalutamide、enzalutamide 或 darolutamide
+- 轉移性 CRPC：abiraterone、enzalutamide、docetaxel 為基礎的化學治療
+- docetaxel 後第二線化學治療：cabazitaxel
+- 若有症狀但無內臟轉移：radium-223
+- 同源重組修復（HRR）突變：olaparib
+- 骨轉移：denosumab 及/或 zoledronic acid + 姑息放射治療
+- docetaxel 及 ARPI（enzalutamide/abiraterone）後：Lutetium-177
 
-Class Features Risk of Malignancy Management Plan
+**Table 20. 局部攝護腺癌治療選項**
 
-U( simple cyst) Round, no septalalifcations! Neat zero No follow-up
-‘enhancement, homogeneous, <20 HU
+| 方式 | 考慮族群 | 限制 |
+|------|----------|------|
+| 觀察式等待 | 預期壽命 <5-10 年；將來可能只接受非根治性荷爾蒙治療 | |
+| 主動監測（系列 PSA、DRE 及切片） | 低度病灶、良好追蹤；仍在考慮更根治性治療 | 疾病進展；與系列檢測相關的生活品質下降；切片相關風險；尚無最佳監測時間表 |
+| 近距離放射治療（BRT） | 低體積、低 PSA（<10）、低分級 | |
+| 體外放射治療（EBRT） | 局部晚期疾病、年長患者 | |
+| 根治性攝護腺切除術（RP） | 年輕患者（≤75）、高風險疾病 | 疾病進展；ED（60%）、尿失禁（<5%） |
+| 其他選項包括：冷凍手術、HIFU、荷爾蒙消融 | | ED（25-50%）；放射治療後的直腸炎（5%）；膀胱及直腸癌風險 |
 
-1 {simple cyst) Thin septum(<1 mn), finecalcfication,no Minimal No follow-up
-‘enhancement, <3 cm, >20 HU
+### 預後
 
-IF (minimally complexcyst) Multiple thin septa, calcifications, no 520% Follow-up, imaging q6-12 mo, sugical
-‘enhancement, >3.cm,>20 HU resectionit lesion evolves
+- T1-T2：與正常壽命相當
+- T3-T4：10 年存活率 40-70%
+- N+ 及/或 M+：5 年存活率 4%
+- 預後因子：腫瘤分期、腫瘤分級、PSA 值、PSA 倍增時間
 
-(complex cyst) Irregular, thickened, cakified septawith >50% Surgical resection
-‘enhancement * growing terature suggesting might * growing lteraturesuggesting
+### PSA 篩檢
 
-belower surveilance mightbe safe
-WV Gikely malignant Irregular, thickened, cakified septawith — >90% Surgical resection
+**數位直腸檢查（DRE）**
 
-‘enhancement, enhancing soft-tissue
-components
+- 應作為初始篩檢的一部分
+- 可疑發現：異常觸感、結節、局灶性病變、質地/飽滿度/對稱性有明確變化
 
--e 
+**攝護腺特異性抗原（PSA）**
 
-## Page 1552
+- 由攝護腺腺上皮細胞產生的醣蛋白
+- 當腺體結構完整性受損時釋放入循環
+- <4 ng/mL 傳統上作為區分正常與病理數值的截止點，但無單一合理截止點
+- 測量血清 PSA 為游離（15%）及結合（85%）PSA 之和
+- 游離/總 PSA 比例降低、PSA 速率升高及 PSA 密度升高與攝護腺癌發生率增加相關
 
-U22
+**PSA 升高原因（PSA 對攝護腺特異，非對攝護腺癌特異）**
 
-Urology
+- BPH、攝護腺炎、攝護腺缺血/梗塞、攝護腺切片/手術、攝護腺按摩、急性尿瀦留、尿道導管、膀胱鏡、TRUS、劇烈運動、會陰創傷、射精、急性腎衰竭、心臟手術相關缺血、放射治療
 
-Table 15. Benign Renal Masses
+### PSA 篩檢建議（2017 加拿大泌尿科協會）**
 
-‘Angiomyolipoma (Renal Hamartoma)
+- 平均風險男性選擇 PSA 篩檢：50 歲開始
+- 增加風險男性：45 歲開始
+- 選擇 PSA 篩檢者，檢測間隔應根據先前 PSA 數值個人化：
+  - PSA <3 ng/mL → 每 4 年一次
+  - PSA 3-10 ng/mL → 每 2 年一次
+  - PSA >10 ng/mL → 更頻繁
+- 考虑在 PSA 數值及預期壽命基礎上決定停止篩檢年齡
+  - 60 歲時 PSA 1 ng/mL：考虑停篩
+  - 其他所有男性：70 歲停篩
+  - 預期壽命 <10 年：停篩
 
-Renal Oncocytoma
+---
 
-Epidemiology “<10% ofadut renal tumours 37% of renal tumours
-PI
-20% associated withtuberous sclerosis (especially # multiple, Oncocytomas also found in adrenal thyroid, andparathyroid
-recurrent) gands
+## 睪丸腫瘤（Testicular Tumours）
 
-Characteristics Clonal neoplasm consistingof blood vessels(angio}), smooth Spherical, capsulated with possible central scar
-muscle (myo-),andfat ipoma) Histologically organizedaggregates of eosinophilic cells
-May extend into regional lymphatics and other organs and become —riginatng from intercalated cellsof collecting duct
-symptomatic
+### 病因/危險因子
 
-Diagnosis Incidental finding on CT Incidental finding on CT
-Negative attenuation (20 HU) onCTis pathognomonic Difficultto distinguishfromRCC on imaging -treatedas RCC
-Rare presentation of hematuria flankpain and palpable mass until provenotherwise
-(sameas RCC) Biopsy may be performed to rule outmalignancy
+- 隱睪症、萎縮、異常性激素暴露、HIV 感染、不孕症、家族史、個人病史
 
-Management May consider surgical excision or embolization f symptomatic Surveillance for most
+### 流行病學
 
-(pain, bleeding) or higher risk of bleeding (e.g. pregnancy)
+- 罕見，但為 15-35 歲年輕男性最常見的實性惡性腫瘤
+- 年輕患者有任何實性睪丸腫塊或急性陰囊積水：必須排除惡性腫瘤
+- 右側稍多（與右側隱睪症發生率略高相對應）
+- 2-3% 為雙側（同時性或異時性）
 
-Partatradical nephrectomy for lage masses
+### 病理
 
-Potential role for mechanistic target of rapamycin (TOR)
-inhibitors in unresectable/metastatic disease
-Follow with serial US
+- 原發性：佔男性所有惡性腫瘤的 1%
+  - 隱睪症增加惡性風險（10-40 倍）
+  - 95% 為生殖細胞腫瘤（均為惡性）
+    - 精上皮細胞瘤（seminoma）（50%）：經典型、間變型、spermatocytic
+    - 非精上皮細胞瘤（NSGCT）：胚胎細胞癌（10%）、畸胎瘤（5%）、絨毛膜癌（<1%）、卵黃囊癌（<1%）、混合細胞型（35%）
+  - 5% 為非生殖細胞腫瘤（通常為良性）> Leydig 細胞（睪固酮、性早熟）、Sertoli 細胞（女性化乳房、性慾減退）
+- 續發性：>50 歲男性；通常為淋巴瘤或轉移（如：肺癌、攝護腺、胃腸道）
 
-Malignant Renal Neoplasms
+### 臨床表徵
 
-Renal Cell Carcinoma
+- 無痛性睪丸增大（若睪丸內出血或梗塞可能疼痛）
+- 下腹、肛門或陰囊區域的沈悶/沈重感
+- 相關陰囊積水（10%）
+- 偶然創傷（10%）
+- 不孕症（很少是主訴）
+- 由分泌性腫瘤引起的女性化乳房
+- 鎖骨上及腹股溝淋巴結病
+- 腹部腫塊（主動脈旁淋巴結轉移）
 
-Etiology
+### 轉移方式
 
-+ originates from proximal convoluted tubule epithelial cells in clear cell subtype (most common)
+- 局部擴散沿淋巴管：右側 > 內側、腔靜脈旁、前及外側淋巴結；左側 > 左外側及前主動脈旁淋巴結；右向左「交叉」轉移相當常見，但無左向右的報告
+- 血行最常轉移到肺、肝、骨及腎
 
-+ hereditary forms seen with von Hippel-Lindau syndrome, hereditary papillary renal carcinoma, Birt Hogg
-Dubé syndrome, and hereditary leiomyomatosis and renal cell cancer
+**睪丸及陰囊有不同的淋巴引流，因此經陰囊途徑做切片或睪丸切除術應避免。**
 
-Epidemiology
+### 診斷檢查
 
-+ 85% of primary malignant tumours in kidney, ~3% of all malignancies
-+ M:F=L5:1
+- 病理評估確診：通過根治性腹股溝睪丸切除術取得標本
+- 腫瘤標記（B-hCG、LDH、AFP）：非精上皮細胞瘤中 85% B-hCG 及 AFP 陽性；術後標記降至正常若無轉移；7% 純精上皮細胞瘤 B-hCG 陽性，精上皮細胞瘤 AFP 不會升高
+- 睪丸 U/S（ tunica albuginea 內低回音區 = 高度的睪丸癌懷疑）
+- 睪丸微石症不是睪丸癌的危險因子
+- 穿刺抽吸禁忌（因有腫瘤播散風險）
 
-+ peak incidence at ages 50-60
+### 分期（Table 21. 2018 TNM Classification, AJCC 8th edition）**
 
-Pathology
+| T | N | M |
+|---|---|---|
+| TX：原發腫瘤無法評估 | NX：區域淋巴結未評估 | MO：無遠處轉移 |
+| TO：無原發腫瘤證據 | NO：無區域淋巴結轉移 | M1：遠處轉移 |
+| Tis：管內生殖細胞腫瘤 | N1：淋巴結腫塊 ≤2 cm 或多發淋巴結，最大徑皆 ≤2 cm | M1a：非主動脈旁淋巴結或肺部轉移 |
+| T1：侷限於睪丸及附睪，無淋巴血管侵犯 | N2：淋巴結腫塊 >2 cm 但 ≤5 cm | M1b：非肺部內臟轉移 |
+| T2：侷限於睪丸及附睪伴淋巴血管侵犯或侵犯睪丸門軟組織或附睪，或穿透覆蓋 tunica albuginea 外表面的臟層間皮，伴或不伴淋巴血管侵犯 | N3：淋巴結腫塊 >5 cm | |
+| T3：侵犯輸精管伴淋巴血管侵犯 | | |
+| T4：侵犯陰囊伴淋巴血管侵犯 | | |
 
-+ histological subtypes: clear cell (75-85%), papillary (10-15%), chromophobe (5-10%), collecting duct (<1%),
-other (<1%)
+### 治療
 
-* sarcomatoid or rhabdoid elements in any subtype are markers of poor prognosis
+- 根治性腹股溝睪丸切除術（所有分期）- 在腹股溝管內結紮輸精管
+- 考虑精子銀行及睪丸假體
+- 輔助治療（見 Figure 20）
 
-Risk Factors
+### 預後
 
-+ top 3 risk factors: smoking, HTN, obesity
+- 第一及第二期疾病：99% 治癒
+- 晚期疾病：70-80% 完全緩解
 
-+ end-stage renal disease (acquired renal cystic disease)
+---
 
-+ role of environmental exposures (aromatic hydrocarbons, etc.) remains an unproven risk factor for
-development of RCC
+## 陰囊腫塊（Scrotal Masses）
 
-Clinical Features
-+ usually asymptomatic: frequently diagnosed incidentally by U/S or CT (>50%)
-+ indicators for poor Prognosis: weight loss, weakness, anemia, bone pain
-+ classic “too late triad” found in 10-15%
-= gross hematuria 50%
-«= flank pain <50%
-= palpable mass <30%
-+ metastases: seen ina 1/3 of new cases; additional 20-40% will go on to develop metastases (mostly in late
-presentations or large tumours)
-= most common sites: bone, brain, lung, and liver
-= may invade renal veins and inferior vena cava (IVC) lumen
-= this may result in ascites, hepatic dysfunction, right atrial tumour, varicocele, and pulmonary emboli
+**Table 22. 陰囊腫塊鑑別**
 
-Investigations
-+ routine labs for paraneoplastic syndromes (CBC, ESR, LFTs, extended electrolytes)
+| 疾病 | 疼痛 | 觸診 | 附加發現 | 透光 |
+|------|------|------|----------|------|
+| 扭轉 | + | 瀰漫性壓痛；睪丸呈橫向位置；缺乏提睪反射；Prehn's 徵陰性 | Grade 1：僅 Valsalva 可觸及；Grade 2：無需 Valsalva 可觸及；Grade 3：陰囊皮膚可見 | |
+| 附睪炎/睪丸炎 | + | 附睪壓痛；存在提睪反射；Prehn's 徵陽性 | | |
+| 血囊 | + | 瀰漫性壓痛 | 無法透光 | |
+| 陰囊積水 | - | 睪丸與積水無法分離，可觸及索狀物 | 透光；創傷後 | |
+| 正常 | - | 腫大 | | |
+| 精液囊腫 | - | 睪丸與囊腫可分離，透光 | 索狀物可觸及 | |
+| 精索靜脈曲張 | - |「一袋蟲」；Valsalva 時變大；平躺時變小 | 無法透光 | |
+| 間接腹股溝疝氣 | -（若嵌頓或絞窄則+） | 睪丸與疝氣可分離；索狀物不可觸及；咳嗽衝動可傳遞；可能可復位 | 無法透光 | |
+| 腫瘤（若出血性） | +/- | 硬結/結節 | | |
+| 全身性/依賴性水腫 | - | 瀰漫性腫脹 | 常為術後或固定患者；檢查肝功能 | |
+| 特發性 | - | | | |
 
-+ UA
+**Table 23. 良性陰囊腫塊**
 
-+ renal U/S: solid vs. cystic lesion
+| 類型 | 精索靜脈曲張 | 精液囊腫 | 陰囊積水 | 睪丸扭轉 | 腹股溝疝氣 |
+|------|--------------|----------|----------|----------|------------|
+| 定義 | 睪丸靜脈蔓狀靜脈叢靜脈曲張/靜脈功能不全 | 附睪良性囊腫或精子滯留 | tunica vaginalis 積液 | 睪丸扭轉造成靜脈阻塞及缺血 | 腹腔內容物通過腹股溝管突出進入陰囊 |
+| 病因 | 18% 男性；睪丸靜脈瓣膜功能不全；80% 左側 | 多種理論，包括遠端阻塞、腫瘤、外傷/感染 | 通常為特發性；隱睪症常見 | | |
+| 處理 | 保守；手術結紮睪丸靜脈；經皮靜脈栓塞 | 保守；若有症狀切除 | 保守；針吸（復發率高）；手術修復 | 緊急手術探查及雙側睪丸固定術 | 手術修復 |
+| 治療指徵 | 精子品質/數量受損；疼痛或影響生活品質；青少年患側睪丸發育停滞 | | | | |
 
-+ contrast-enhanced CT: higher sensitivity than U/S for detection of renal masses and for staging purposes
+**睪丸/附睪附件扭轉（Torsion of Testicular/Epididymal Appendix）**
 
-renal biopsy: to confirm diagnosis, if considering observation or other non-surgical ablative therapy
-genetic testing: consider if FHx of von Hippel-Lindau syndrome, non-dlear cell carcinoma, bilateral/
-multifocal tumour, onset <45 yr, FHx of renal tumour, or any renal tumour with Hx of pneumothorax,
-dermatologic findings, associated tumours, lymphangiomyomatosis, or childhood seizure disorder
+- 睪丸/附睪 vestigial appendix 扭轉
+- 臨床類似睪丸扭轉，但睪丸呈垂直位置且提睪反射存在
+- 「藍點徵」：兒童可在陰囊皮膚看到藍色壞死附件（通常可觸及為小且壓痛結節）
 
-MRI: useful for evaluation of complex cystic lesions indeterminate on CT; good way to assess IVC thrombus
+**治療：**
 
-Toronto Notes 2025
+- 止痛；大部分在 5-7 天內消退
+- 若疼痛難治：手術探查及切除
 
-Role of environmental exposures (aromatic
-hydrocarbons, et.) remains an unproven
-tisk factor for development of RCC
+**年輕男孩急性陰囊腫脹/疼痛：扭轉直到證明不是**
 
-RCC Systemic Effects: Paraneoplastic
-‘Syndromes (10-40% of Patients)
+---
 
-Hematopoietic disturbances: anemia,
-polycythemia, raised Erythrocyte
-Sedimentation Rate (ESR)
-Endocrinopathies: hypercalcemia
-{increased vitamin D hydroxylation),
-erythrocytosis (increased erythropoietin),
-HTN (increased renin), production of other
-hormones (prolactin, gonadotropins, TSH,
-insulin, and cortisol)
+## 陰莖疾病（Penile Complaints）
 
-Hepatic cell dysfunction or Stauffer
-syndrome: abnormal LFTs, decreased WBC
-count, fever, areas of hepatic necrosis;
+**Table 24. 陰莖問題**
 
-‘no evidence of metastases; reversible
-following removal of primary tumour
-Hemodynamic alterations: systolic HTN
-(due to arteriovenous shunting), peripheral
-‘edema (due to caval obstruction)
--e 
+| 類型 | 陰莖彎曲（Peyronie's Disease） | 陰莖異常勃起（Priapism） | 包莖嵌頓（Paraphimosis） | 包莖（Phimosis） | 早發性射精（Premature Ejaculation） | 陰囊/睪丸/腹股溝腫塊 |
+|------|------------------------------|------------------------|--------------------------|-----------------|-----------------------------------|---------------------|
+| 定義 | tunica albuginea 纖維增厚導致陰莖勃起時彎曲 | 缺乏性刺激時持續勃起 >4 小時 | 包皮退縮（至龜頭後）無法復位 | 無法將包皮退至龜頭 | 射精早於任一伴侶期望的時間 | |
+| 病因 | 病因不明；創傷/重複發炎；家族傾向；與糖尿病、血管疾病、自體免疫、Dupuytren's 攣縮、勃起功能障礙、尿道器械相關 | 50% 為特發性；缺血性（常見）：血栓栓塞性；創傷；藥物 | 醫源性（術後清潔）；處理不當 | 先天性（90% 3 歲前自然分離）；病理（疤痕） | 心理因素；無有機病因 | |
+| 臨床表現 | 勃起時陰莖彎曲/縮短；疼痛；勃起功能障礙；彎曲處斑塊遠端勃起不良 | 疼痛性勃起：壞死徵象；非缺血性：無痛/高流量 | 疼痛性、腫脹龜頭； note：非缺血性可能無痛 | 退縮困難/疼痛；包皮開口限制；包皮炎（兒童感染） | 延遲障礙；無法控制或延遲射精；心理困擾 | |
+| 治療 | 支持性：PDE5 抑制劑（若 ED）；NSAID 止痛；物理治療（牵引裝置）；病灶內 verapamil；病灶內膠原蛋白酶；手術：斑塊切除/摺疊術；陰莖植入物 | 治療可逆性原因；高流量：止痛觀察；低流量：去血栓（穿刺/分流）；酚胺福林病灶內注射 | 手動加壓；背側切開；緊急包皮環切術 | 適當衛生；局部類固醇；包皮環切術 | 排除醫學病因；心理諮詢；行為治療；藥物 | |
 
-## Page 1553
+---
 
-U23 Urology
+## 勃起功能障礙（Erectile Dysfunction, ED）
 
-Staging
-+ involves abdomen/pelvis CT, CXR, liver enzymes and LFTs, bone/head imaging (if symptoms dictate)
+### 定義
 
-Table 16. 2018 TNM Classification of Renal Cell Carcinoma (AJCC 8th edition)
+- 持續（>3 個月）或復發性無法獲得或維持足夠勃起以達到滿意的性表現
 
-1 N u
+### 生理學
 
-1K: primary tumour cannot be assessed NX:regionallymph nodes cannot be assessed ‘MO: no evidence of distant metastasis
+**勃起（「POINT」）：**
 
-Tt: tumour <7 cm, confined to renal parenchyma
-Tar<4.em
+- 副交感神經 > NO 釋放 > 增強陰莖海綿體內 cGMP：
+  1. 細动脉擴張
+  2. 海綿體平滑肌鬆弛 > 動脈流入增加及陰莖靜脈回流受壓（靜脈流出減少）
 
-NO:no regional lymph node metastasis Mt: presence of distant metastasis
+**射出（「SHOOT」）：**
 
-Ttb:47.om Mt metastasis inregional lymph nodes pM: presenceof distant metastasis, microscopi
-confirmed
-T2:tumour>7.m, confined torenal parenchyma N Sufix
-Tea: >Tembut 10m (sn): regional lymphnode metastasisidentitied by SLN
-Tab: >10cm biopsy only
+- 感覺傳入來自龜頭
+- 攝護腺、貯精囊及射精管分泌進入攝護腺尿道（交感神經）
 
-(regional lymphnodemetastasisidentified by FNA or
-TB:tumourextends into majorveinsor perinephric core needle biopsy only
-tissues, but NOT into ipsilateral adrenal or beyond
+**射精（「SHOOT」）：**
 
-Gerota’s fascia
+- 膀胱頸關閉（交感神經）
+- 球海綿體肌及骨盆底肌肉痙攣收縮（軀體神經）
 
-Ta: ito renal vein or sinus fat
+**消腫：**
 
-3b: into infradiaphragmatic IVC
+- 交感神經、正腎上腺素、endothelin-1 > 細动脉及海綿體收縮 > 陰莖鬆弛
 
-3c: into supradiaphragmatic VC
+**Table 25. 勃起功能障礙分類**
 
-‘é:tumour extends beyond Gerota’s fascia induding
-‘extension int ipsilateral adrenal
+| | 心因性 | 器質性 |
+|---|---|---|
+| 盛行率 | 較少 | 較多 |
+| 發作 | 突然 | 漸進 |
+| 頻率 | 偶發 | 所有情境 |
+| 變異 | 隨伴侶及情境 | 無 |
+| 年齡 | 較年輕 | 較年長 |
+| 有機危險因子 | 無 | 有（HTN、DM、血脂異常） |
+| 夜間/晨間勃起 | 存在 | 缺席 |
 
-TSuffix
-(mj: ifsynchronous primary tumoursare found in
-single organ
+### 病因（「IMPOTENCE」）
 
-Toronto Notes 2025
+- **I**atrogenic：骨盆腔手術、骨盆腔放射
+- **M**echanical：Peyronie's、陰莖異常勃起後
+- **P**sychological：憂鬱症、壓力、焦慮、PTSD、鰥夫症候群
+- **O**cclusive：动脉性 HTN、DM、吸菸、高血脂、周邊血管疾病、靜脈閉合功能受損
+- **T**rauma：陰莖/骨盆、騎單車
+- **E**xtra factors：腎衰竭、肝硬化、COPD、睡眠呼吸中止、營養不良
+- **N**eurogenic：CNS（如：帕金森、MS、脊髓損傷、Guillain-Barré、脊柱裂、中風）、PNS（如：DM、周邊神經病變）
+- **C**hemical：抗高血壓藥、鎮靜劑、抗憂鬱藥、抗精神病藥物、抗焦慮藥、抗膽鹼藥、抗組織胺、抗雄性激素（包括 5α-還原酶抑制劑）、statin、GnRH 促效劑、非法藥物
+- **E**ndocrine：DM、性腺功能減退、高泌乳素血症、甲狀腺功能低下/亢進
 
-Gerota’s fascia
+**睪固酮缺乏是 ED 的罕見原因。PDE5 抑制劑禁用於服用硝酸鹽類患者。**
 
-Artery
+### 診斷
 
-Ureter
+- 完整病史（包括性、醫學及心理社會方面）
+- 自我評估問卷（如：IIEF、SHIM、EDITS、勃起硬度量表）
+- 重點理學檢查，包括血管及神經學檢查、第二性徵
+- 實驗室檢查（根據臨床情況）：空腹血糖或 HbA1c、膽固醇 profile；可選：TSH、CBC、U/A、睪固酮（游離及總）、泌乳素、LH
+- 特殊檢查（含夜間陰莖腫脹監測）通常不需要
+- 陰莖血管評估僅與創傷病史（如：骨盆骨折）相關時有意義
 
-Renal
-capsule
+### 治療
 
-Renal cortex
+- 常可由家庭醫師處理；頑固病例轉診泌尿科
+- 考虑早期性心理諮詢
+- 完全告知患者/伴侶選項、好處及併發症
+- 非侵入性：生活型態改變（酒精、戒菸、身體活動）、心理（性諮商及教育）、改變誘發藥物、治療根本原因（DM、CVD、HTN、內分泌病變）
+- 最低侵入性：
+  - 口服藥物（見常用藥物，U47）：sildenafil、tadalafil、vardenafil、avanafil（加拿大無）：抑制 PDE5 增加陰莖海綿體 cGMP；四者效果相似；tadalafil 半衰期較長、無視覺障礙副作用、可空腹或進食服用；tadalafil 應按需服用而非固定每日劑量
+  - 真空裝置：負壓將血液吸入陰莖，然後在陰莖根部套上止血帶
+  - MUSE：陰莖尿道內插入含血管活性物質（PGE1）的膠囊
+  - 對適當候選者有新興證據支持低能量震波治療（通常為非糖尿病及未接受攝護腺手術者）
+  - 睪固酮低下患者：以 dual 睪固酮 + PDE5 抑制劑治療
+- 侵入性：
+  - 陰莖海綿體血管擴張劑注射/自我注射
+  - 三合一療法（papaverine、phentolamine、PGE1）、雙合一（papaverine 及 phentolamine）或單獨 PGE1
+  - 併發症：陰莖異常勃起（過量）、重複注射處 tunica albuginea 纖維化（Peyronie's 斑塊）、注射處損傷（疼痛、血腫等）
+- 手術：陰莖植入物：可彎曲或充氣式
 
-Renal medulla © Carly Vanderlee
+**陰莖血管異常可能是心血管疾病的標記。血管性 ED 年輕男性發生心血管事件風險高 50 倍。**
 
-Treatment
-+ surgical (open, laparoscopic, robotic)
-= radical nephrectomy: en bloc removal of kidney, tumour, ipsilateral adrenal gland (in upper pole
-tumours), and intact Gerota’s fascia
-= partial nephrectomy (nephron-sparing): small tumour (roughly <4 cm) or solitary kidney/ bilateral
-tumours
-= surgical removal of solitary metastasis may be considered
-+ ablative techniques (percutaneous or lap-assisted)
-= radiofrequency ablation (RFA)
-= cryoablation
-= palliative radiation to painful bony lesions
-+ stereotactic body radiation therapy (SBRT)
-«= for non-surgical candidates
-+ therapy for advanced stage
-= newimmune checkpoint inhibitors (e.g. pembrolizumab, ipilimumab, nivolumab)
-= tyrosine kinase inhibitors for metastatic disease (e.g. sunitinib, sorafenib, axitinib lenvatinib)
-«= HIF-2a inhibitors (belzutifan)
-= IFNa: monotherapy has been largely replaced by molecularly targeted agents listed above
+---
 
-Prognosis
-+ stage at diagnosis most important prognostic factor
-= T1:90-100% 5 yr survival
-= 12-13: 60% 5 yr survival
-= metastatic disease: <5% 10 yr survival
-+ predictors of relapse: tumour grade, local extent of the primary tumour, presence of local metastases,
-histological subtype
+## 泌尿生殖系統創傷（Urological Trauma）
 
-Carcinoma of the Renal Pelvis and Ureter
+### 腎創傷（Renal Trauma）
 
-Etiology
-+ risk factors include:
+**分級（根據嚴重程度）**
 
-= smoking
-dietary/chemical exposures (aristolochic acid, industrial dyes and solvents: aniline dyes)
-Balkan endemic nephropathy (due to chronic dietary exposure to aristolochic acid)
-analgesic misuse (acetaminophen, ASA, and phenacetin)
-prior exposure to cyclophosphamide
+- 輕度：挫傷及淺層裂傷/血腫；佔所有鈍傷的 90%，很少需要手術探查
+- 重度：延伸至髓質及集合系統的裂傷、主要腎血管損傷、腎臟碎裂
 
-Epidemiology
+**病因**
 
-* rare: accounts for 5% of all UC
+- 80% 鈍傷（MVC、攻擊、跌倒）vs. 20% 穿透傷（刺傷及槍傷）
 
-+ frequently multifocal, 2-5% are bilateral
+**臨床表徵**
 
-« M:F=3:1
+- 受傷機轉提高警覺
+- 可能因腎血管損傷及/或其他受傷而血流動力學不穩定：ABCs
+- 上腹壓痛、腰部壓痛、腰部瘀傷、下肋骨/脊椎橫突骨折
 
-relative incidence: bladder:renal:ureter=100:10:1
+**診斷檢查**
 
-consider Lynch syndrome if PMHx or family Hx for other malignancies (e.g. colorectal, stomach, prostate,
-endometrial, etc.)
+- 實驗室：U/A：血尿需檢查，但程度與受傷嚴重程度無相關性；標準創傷實驗室（CBC 及全套代謝面板）
+- 影像：若患者穩定：顯影 CT（三期）：查找腎裂傷、顯影劑外滲、腹膜後血腫及相關腹腔器官損傷
 
-Figure 14. RCC staging
--e 
+**分期**
 
-## Page 1554
+- I：挫傷/血腫；<1 cm 裂傷無尿液外滲
+- II：>1 cm 裂傷無尿液外滲
+- III：>1 cm 裂傷無尿液外滲
+- IV：裂傷導致尿液外滲及/或主要腎動脈或靜脈損傷伴包囊性血腫
+- V：腎碎裂或蒂撕脫
 
-U24 Urology Toronto Notes 2025
+**治療**
 
-Pathology
+- 顯微血尿 + 單獨分期良好的輕度損傷 > 不需住院
+- 巨觀血尿 + 挫傷/輕度裂傷 > 住院、臥床休息、若出血持續重複 CT
+- 手術干預/微侵入性血管攝影及栓塞（大部現以保守、非手術處理）
+  - 絕對適應症：出血及血流動力學不穩定
+  - 相對適應症：無活性組織及大裂傷；尿液外滲；血管損傷；擴張或搏動性腎周腫塊；因相關損傷需開腹手術
+- 出院前以 U/S 或 CT 追蹤，6 週時再追蹤
 
-+ 85% are UG; others include SCC and adenocarcinoma
-+ UC of ureter and renal pelvis are histologically similar to bladder UC
+**併發症**
 
-Clinical Features
-* gross/microscopic hematuria
-+ flank pain
+- 5% 腎創傷患者發生高血壓
 
-storage or voiding symptoms (dysuria only if lower urinary tract involved)
-flank mass + hydronephrosis (10-20%)
+### 膀胱創傷（Bladder Trauma）
 
-Investigations
+**分類**
 
-CTU
-cystoscopy and retrograde pyelogram
+- 挫傷：無尿液外滲，黏膜或肌肉層受損
+- 腹膜內破裂：常涉及膀胱頂部
+- 腹膜外破裂：涉及膀胱充盈時的前壁或側壁
 
-Treatment
+**病因**
 
-radical nephroureterectomy with excision of ipsilateral bladder cuff
-distal ureterectomy for distal ureteral tumours with concomitant ureteral reimplant
+- 鈍傷（MVC、跌落、碾壓傷）vs. 下腹、骨盆或會陰穿透傷
+- 鈍傷與 97% 病例中的骨盆骨折相關
 
-segmental resection with uretero-ureterostomy for some mid-ureteral tumours is also done
+**臨床表徵**
 
-adjuvant chemotherapy (gemcitabine-platinum)
+- 腹部壓痛、腫脹、腹膜炎、無法排尿
+- 可能因骨盆骨折、其他受傷而血流動力學不穩定：ABCs
+- 恥骨上疼痛
 
-emerging role for endoscopic laser ablation in patients with low grade disease, poor baseline renal health
+**診斷檢查**
 
-Bladder Carcinoma
+- U/A：90% 有巨觀血尿
+- 影像（包括 CT 膀胱攝影及引流後影像以檢測外滲）
 
-Etiology
+**治療**
 
-unknown, but environmental risk factors include:
-smoking (main factor ~ implicated in 60% of new cases)
+- 穿透傷 > 手術探查
+- 挫傷 > 留置導尿直到血尿完全緩解
+- 腹膜外膀胱穿孔 > 通常保守治療（留置 Foley）+ 追蹤膀胱攝影
+  - 若感染尿液、直腸/陰道穿孔、骨刺突入膀胱、為相關損傷開腹手術、膀胱頸受累、持續尿漏及保守治療失敗，則需手術
+- 腹膜內破裂通常需手術修復及恥骨上導尿
 
-» aromatic amines: naphthylamines, benzidine, tryptophan, phenacetin metabolites Ureter
-+ cyclophosphamide Segment
-= prior Hx of radiation treatment to the pelvis teocecal
-«= Schistosoma hematobium infection (associated with SCC) valve
-= chronic irritation: cystitis, chronic catheterization, bladder stones (associated with SCC) Stoma
-« aristolochic acid: associated with Balkan endemic nephropathy (renal failure, upper tract UC) and Indiana pouch
+**併發症**
 
-Chinese herbal nephropathy
+- 膀胱損傷本身的併發症罕見
+- 死亡率約 20%，通常因相關損傷而非膀胱破裂
 
-Epidemiology
+### 尿道創傷（Urethral Injuries）
 
-2nd most common urological malignancy
-M:F=3:1, more common among whites than blacks
+**病因**
 
-© Carly Vanderlee
+- 後尿道：常見受傷部位為膜性及攝護腺尿道交界處，因鈍傷、MVCs、骨盆骨折；固定性膜性尿道與移動性攝護腺尿道間的剪切力
+- 前尿道：跨桿損傷可壓迫球部尿道至恥骨枝
+- 其他原因：醫源性（器械操作、假體植入）、陰莖骨折、陰莖操作的自慰
 
-Ureter
+**臨床表徵**
 
-Segment
-of intestine
+- 總是檢查相關膀胱破裂
+- 尿道口血尿
+- DRE 時攝護腺高位置
+- 腫脹及蝴蝶狀會陰血腫
+- 陰莖及/或陰囊血腫
+- 有尿意但無尿排出感覺
+- 膀胱膨隆
 
-‘stoma
-lleal conduit
+**診斷檢查**
 
-© Jerusha Ellis
+- 通常在嘗試導管置入前行逆行性尿道攝影（RUG）或膀胱鏡檢查
 
-* mean age at diagnosis is 65 yr
+**治療**
 
-Pathology
+- 簡單挫傷：無需治療
+- 部分尿道斷裂：泌尿科醫師非常溫和地嘗試導管置入；無阻力 > Foley 導尿 2-3 週；有阻力 > 恥骨上膀胱造口或尿道導管對齊
+- 定期尿流速/尿道攝影評估狹窄形成
+- 完全斷裂：患者穩定立即修復，不穩定延遲修復（先行恥骨上管）
 
-+ classification
-= UC>90%
-= SCC 5-7% Ureter
-= adenocarcinoma 1% Segment
-= others <1% of intestine
+**併發症**
 
-stages and prognoses of UC at diagnosis
-= non-muscle invasive (75%) > >80% overall survival
-+ 15% of these will progress to invasive UC
-* majority of these patients will have recurrence
-= invasive (25%) > 50-60% 5 yr survival
-* 85% have no prior history of superficial UC (i.e. de novo)
-+ 50% have occult metastases at diagnosis, and most of these will develop overt clinical evidence of
-metastases within 1 yr - lymph nodes, lung, peritoneum, liver, bone
-carcinoma in situ (CIS)> flat, non-papillary erythematous lesion characterized by dysplasia confined to
-urothelium
+- 狹窄
 
-radioresistance
-usually multifocal
-= may progress to invasive UC
+---
 
-Clinical Features
+## 男性不孕症（Male Infertility）
 
-asymptomatic (20%)
+### 定義
 
-hematuria (key symptom: 85-90% at the time of diagnosis)
+- 正常時間及條件下無保護性行為 1 年後無法懷孕
+- 盛行率：所有伴侶的 15%（女性因素 35-40%；男性因素 20%；共同因素 25-30%）
 
-pain (50%) > location determined by size/extent of tumour (e.g. flank, suprapubic, perineal, abdominal,
-etc.)
+### 男性因素
 
-clot retention (17%)
+**男性生殖生理學**
 
-storage urinary symptoms > consider CIS
+- HPTA：下視丘脈衝式 GnRH 作用於腦下垂體前葉刺激 LH 及 FSH 釋放
+  - LH 作用於 Leydig（間質）細胞 > 睪固酮合成及分泌
+  - FSH 作用於 Sertoli 細胞 > 發育中精子發生細胞的結構及代謝支持
+  - FSH 及睪固酮支持生殖細胞（負責精子發生）
+- 精子路徑：附睪 > 輸精管 > 射精管 > 攝護腺尿道
 
-palpable mass on bimanual exam > likely muscle invasion
+**病因**
 
-obstruction of ureters > hydronephrosis and uremia (N/V and diarrhea); bad prognostic factor; likely
-muscle invasive
+- 不明（40-50% 不孕男性）
+- 睪丸因素：精索靜脈曲張（35-40% 不孕男性）；腫瘤；先天性（Klinefelter's 三聯：小型、堅硬睪丸、女性化乳房及無精子症）；感染後（附睪睪丸炎、STI、病毒性睪丸炎特別是腮腺炎）；未矫正扭轉；隱睪症（<5%）；阻塞性
+  - 醫源性（見下文）；感染（淋病、披衣菌）；創傷；先天性（輸精管缺如、CF）；雙側射精管阻塞；Kartagener's 症候群（自體隱性遺傳導致纖毛運動障礙）
+- 內分泌（見內分泌學，E51）：HPTA（2-39%）如 Kallmann's 症候群（先天性下視丘性腺功能減退）、泌乳激素過多、雄性激素過多、雌激素過多
+- 其他：逆行性射精（術後或藥物）；藥物；接觸化學治療或骨盆腔放射；藥物：大麻、古柯鹼、菸草、酒精；睪丸溫度增加（桑拿、熱水澡、緊身褲或內衣）；慢性病：肝、腎
 
-more aggressive, worse prognosis, higher recurrence rates following radical cystectomy, associated with
+**病史**
 
-Urethra
-Ileal neobladder
+- 雙方年齡
+- 過去病史：DM、創傷、CF、基因症候群、STI、隱睪症
+- 過去手術：輸精管切除術、疝氣修補術、睪丸固定術、攝護腺手術
+- 生育力：青春期發病、过去懷孕、不孕時間長度、治療
+- 性史：性慾、勃起/射精、時機、頻率
+- 家族史
+- 藥物：細胞毒性藥物、GnRH 促效劑、合成代謝類固醇、nitrofurantoin、cimetidine、sulfasalazine、spironolactone、α-阻斷劑
+- 社會史：酒精、菸草、古柯鹼、大麻、學校表現/學習障礙（提示 Klinefelter 症候群）
+- 職業暴露：輻射、重金屬
 
-Figure 15. Ileal conduit, Indiana
-pouch, ileal neobladder
+**理學檢查**
 
-Differential Diagnosis of Filling Defect in
-Urinary Tract
+- 一般外觀：性發育、女性化乳房、肥胖、陰毛
+- 陰囊檢查：睪丸大小、硬度及結節感；觸診確認輸精管存在；DRE；Valsalva（精索靜脈曲張）
 
-Urothelial carcinoma (differentiate via
-cytology and CT scan)
+**常見 SA 術語**
 
-Uric acid stone (differentiate via cytology
-and CT scan)
+- Teratospermia：形態異常
+- Asthenospermia：活動力異常
+- Oligospermia：精子數量減少
+- Azoospermia：精液中無精子
 
-Blood dot
-Pyeltis cystica
+**WHO 男性不孕因素指南**
 
-Papillary necrosis,
+- 精子數量：全身因素/吸菸；心理疾病；內分泌病變；逆行性射精；藥物；慢性病；阻塞性；不明原因
 
-Fungus ball
+**正常精液數值**
 
-Gas bubble from gas producing organisms
--e 
+- 容積：1.5-7.6 mL
+- 濃度：>15 百萬精子/mL
+- 形態：30% 正常型態
+- 活動力：>40% 有足夠向前動力
+-液化：20 分鐘內完全液化
+- pH：7.2-7.8
+- WBC：<10/HPF 或 <10⁶ WBC/mL 精液
 
-## Page 1555
+**診斷檢查**
 
-U25 Urology
-Investigations
+- 精液分析（SA）：2 份檢體，間隔 1-2 週
+- 荷爾蒙評估：若 SA 異常（SA 正常很少會異常）；睪固酮及 FSH；若睪固酮或 FSH 異常則測血清 LH 及泌乳激素
+- 基因評估：染色體研究（Klinefelter 症候群 - XXY）；基因研究（Y 染色體微缺失、CF 基因突變）
+- 免疫學研究（精液及血液中抗精子抗體）
+- 睪丸切片
+- 陰囊 U/S（精索靜脈曲張、睪丸大小）
+- 輸精管攝影（評估輸精管通暢性）
 
-+ UIA, urine C&S, urine cytology
-+ US
+**治療**
 
-+ CT scan with contrast > look for filling defects in upper tracts and metastases
-+ cystoscopy with biopsy (if small lesion)
-+ TURBT (gold standard, diagnostic, and often therapeutic) > establish diagnosis and determine depth of
+- 評估伴侶
+- 生活型態：規律運動、健康飲食；戒除酒精、菸草及非法藥物
+- 藥物：內分泌治療（見內分泌學，E51）；逆行性射精治療；停用抗交感神經藥物，可開始 α-腎上腺素刺激（phenylpropanolamine、pseudoephedrine 或 ephedrine）；治療潛在感染
+- 手術：精索靜脈曲張切除術（若有適應症）；輸精管切除術逆轉（vasovasostomy）或附睪輸精管造口術（epididymovasostomy）；經尿道切除阻塞射精管
+- 輔助生殖技術（ART）：轉診不孕症專家；精子洗滌 + 子宮內人工授精（IUI）；體外受精（IVF）；卵細胞質內精子注射（ICSI）；先天性雙側輸精管缺如患者及伴侶需做 CF 篩檢
 
-penetration
+---
 
-= involvement of muscularis propria confirms muscle invasion (T2)
-«specific bladder tumour markers (e.g. NMP-22, BTA, Immunocyt, FDP); utility in clinical practice
+## 睪固酮缺乏症（Testosterone Deficiency）
 
-debatable
+### 臨床表徵
 
-Grading
+- 性方面：性慾減退、延遲射精、射出量減少、高潮強度降低、勃起功能障礙、失去晨間勃起、不孕症
+- 認知方面：疲勞、情緒變化、憂鬱、失眠、易怒
+- 身體方面：能量減少、貧血、女性化乳房、發熱、肌肉量減少及內臟脂肪增加、骨密度減少、睪丸萎縮、雄性毛髮減少
 
-+ low grade: <10% invasive, 60% recur locally
+### 診斷
 
-+ high grad
+- 臨床表徵 + 早晨抽血測總睪固酮 <10 nmol/L
+- LH 排除續發性性腺功能減退原因
 
-Staging
+### 治療考量
 
-+ for invasive disease: examination under anesthesia following TURBT, CT, or MRI of abdomen and pelvis,
-CT or MR urography, CT chest or CXR, bone scan in setting of bony pain/hypercalcemia/clevated ALP
+- 目標：改善生活品質及減少臨床表徵（包括貧血及骨質減少）的同時達到正常性腺功能
+- 若有臨床表徵但睪固酮正常：排除憂鬱、甲狀腺功能低下、睡眠障礙；若低正常而非中等範圍，考虑 3 個月監督下試驗性睪固酮治療（注射、口服、經皮貼片）
+- 若睪固酮低但無臨床表徵：考虑其他診斷：貧血、肌肉減少、慢性 glucocorticoid/類鴉片藥物使用、HIV 作为治療適應症；對希望保持生育力的睪固酮缺乏男性，可考慮非標籤適應症的人類絨毛膜促性腺激素或選擇性雌激素受體調節劑
+- 所有接受外源性睪固酮治療的患者：3、6、12 個月監測症狀、不良事件、血清睪固酮、血球容積比及 PSA；以後每年監測；建議基準線及每年 DRE
+- 絕對禁忌症：男性乳癌、希望保持生育力、晚期或轉移性攝護腺癌
 
-(metastatic workup)
+---
 
-'0-80% are invasive or are expected to progress to invasive over time
+## 兒童泌尿科（Pediatric Urology）
 
-Table 17. 2018 TNM Classification of Bladder Carcinoma (AJCC 8th edition)
+### 先天性異常（Congenital Abnormalities）
 
-1
+- 不罕見；每 200 名嬰兒有 1 名泌尿生殖道先天性異常
+- 六種常見先天性泌尿科異常表現
 
-1X: primary tumour cannot be assessed
+---
 
-T0:no evidence of primary tumour
-Ta: noninvasive papiary carcinoma
-Tis: (5: "flat tumour
+#### 1. 產前水腎（Antenatal Hydronephrosis）
 
-Tt: tumour invades subepithelial comective tissue
+**流行病學**
 
-Tastumour invades muscularis propria
-pl2a: tumour invadessupertcial muscularis,
-propria (inner half)
-1p12b: tumour invades deep muscularis propria.
-(outer half)
+- 產前 U/S 1-5%，有些早在第一孕期即可檢測
+- 最常見的圍產期泌尿科會診及最常見的妊娠 U/S 異常之一
 
-T3:tumourinvades perivesical tissue
-‘pI 3a:microscopically
-‘3b: macroscopically (extravesial mass)
+**鑑別診斷**
 
-4: tumour ivades ny ofthe following: prostatic
-stroma, seminal vesicles, wterus, vagina, pelvic
-wall, abdominal wall
+- 暫時性原發性水腎
+- UPJ 阻塞
+- 膀胱輸尿管逆流（VUR）
+- UVJ 阻塞或原發性非阻塞性巨輸尿管
+- 輸尿管囊腫
+- 迷走輸尿管
+- 巨膀胱原因（如：PUV、Prune Belly 症候群）
 
-‘Ta: tumour invades prostatic stroma, uterus,
+**治療**
 
-vagina
+- 產前宮內介入很少有適應症，除非有下泌尿道阻塞及羊水過少證據
+- 出生時 ABx 預防性治療以減少高程度水腎、擴張輸尿管或膀胱異常嬰兒的 UTI 發生率有爭議，但可能有幫助：常用 ABx 包括 amoxicillin、cephalexin 及 trimethoprim
 
-‘Tbs tumour invades pelvic wall, abdominal wall
+**大多數產前水腎在懷孕期間或出生後第一年內自行緩解。**
 
-Tsuffix
-(rm); synchronous primary tumours are foundin
-single organ
+---
 
-NX lymph nodes cannot be assessed ‘MO: no distant metastasis,
+#### 2. 後尿道瓣膜（Posterior Urethral Valves, PUV）
 
-‘Mt: distant metastasis
-‘cia: distant metastasis limited to lymphnodes
-beyond the common it
-‘eMitb: nondymph-node distant metastasis
+**流行病學**
 
-NO: no lymphnode metastasis,
+- 男性嬰兒最常見的先天性尿道阻塞病變
 
-At single regional lymph node metastasisin the
-true pelvis (hypogastric, obturator external iliac or
-presacral lymph node)
+**病理生理學**
 
-pM1: distant metastasis, microscopically
-confirmed
-pMta: dstant metastasis limited tolymph nodes
-beyond the common ics, miaoscopically
-confirmed
-Mtb: non-lymph-node distant metastasis
-microscopkcally confirmed
+- 遠端攝護腺尿道黏膜皺褶異常，造成不同程度阻塞
 
-N2:mutiple regional ymph node metastasis inthe
-true pelvis (hypogastric, obturator external iliac or
-presacral ymph node metastasis)
+**臨床表徵（取決於年齡）**
 
-N3:lymphnodemetastasist the common iliac
-Iymph nodes
+- 產前：雙側水腎、膨隆膀胱、羊水過少
+- 新生兒（出生時發現）：可觸及腹部腫塊（膨隆膀胱、水腎）、尿囊（腹膜後尿液滲出）、呼吸窘迫（羊水過少導致肺發育不全）、尿流微弱
+- 新生兒（出生時未發現）：數天至數週出現泌尿道感染、脫水、電解質異常、生長遲滞；排除幽門狹窄（可能類似）
+- 幼兒：UTI 或排尿功能障礙
+- 學齡男孩：排尿功能障礙 > 尿失禁
+- 相關發現包括腎發育不良及續發性 VUR
 
-Suffix
-(s0}: regional lymph node metastasis identified by
-SINbiopsy only
+**診斷檢查**
 
-(f: regional ymph node metastasis identified by
-FN or core neede biopsy only
+- 最常在產前 U/S 識別 > 雙側水腎、增厚及黏膜化膀胱、擴張後尿道（「鎖眼徵」）、男性胎兒羊水過少
+- VCUG：擴張及延長後尿道、黏膜化膀胱、VUR
 
-Superficial Muscle
+**治療**
 
-Deep Muscle Perivesical Fat
+- 立即導尿緩解阻塞，待嬰兒穩定後做內視鏡瓣膜切除
+- 若無法做瓣膜切除，行膀胱造口術
 
-Pelvic Wall or
-Abdominal Wall
+---
 
-— Prostate
+#### 3. 腎盂輸尿管連接處阻塞（Ureteropelvic Junction Obstruction, UPJ Obstruction）
 
-© Chiistine Kenney
+**病因**
 
-Figure 16. UC of bladder
+- 不明：輸尿管動力學異常段、狹窄、外在壓迫、異常血管
+- 兒童少數可為腫瘤、結石等續發性
 
-Toronto Notes 2025
+**流行病學**
 
-The “field defect” theory helps to explain
-why UC has multiple lesions and has a
+- 最常見的先天性輸尿管缺陷
+- 男女比 = 2:1
+- 高達 40% 為雙側，可能預後較差
 
-hhigh recurrence rate. The entire urothelium
-{pelvis to bladder) is bathed in carcinogens
+**臨床表徵**
 
-The ENTIRE urinary tract must be evaluated
-in patients with hematuria unless there is
-clear evidence of glomerular bleeding (e.g.
-ted cell casts, dysmorphic RBCs, etc.)
+- 症狀取決於嚴重程度及診斷年齡（大部分為產前 U/S 偶然發現）
+- 嬰兒：腹部腫塊、泌尿道感染
+- 兒童：疼痛、嘔吐、生長遲滞
+- 部分病例在青春期後及成年才診斷
+- 青少年及成人：症狀可能由尿量增加（如：饮酒後）引發（Dietl's crisis）
 
-Cystoscopy i the intial procedure of
-choice for the diagnosis and staging of
-urothelial malignancy
+**治療**
 
-Unexplained hematuria in any individual
-40 ylo must be investigated to rule out a
-‘malignancy
+- 手術修復（腎盂整形術）；若分側腎功能 <15% 考虑腎切除
 
-Tumour grade isthe single most important
-prognostic factor for progression
+---
 
-See Landmai Vology Trias table or mre information
-om neoadjuant chemotherapy pls ctectomy
-compared with ystecomy alone for improved
-catcome inpatients with ool advanced Bladder
-cancer
+#### 4. 膀胱輸尿管逆流（Vesicoureteral Reflux, VUR）
 
-NMIBC and BCG
+**定義**
 
-ARO Publication 2015:15-EHCOT-EF #153
+- 尿液從膀胱經 UVJ 逆流至輸尿管
 
-Purpose: BCGis the onl intravesiealtherapy
-associated with decreased risko bladder cancer
-progression; however, itis abo associated with high
-rate adverse events. More esearchis needed to
-define optimal doselregimen.
+**分類**
 
-Methods: Review of Ovid Medline, Cochrane Cental
-Register of Controlled rials, Cochrane Database of
-SR, Health Technology Assessment, National Health
-Sciences Economic Evaluation, Database of Abstract of
-of fects for studies on NMIBC interventions,
-inuding intravesical therapy.
+- 原發性逆流：UVJ 關閉不全或關閉不當；輸尿管側向插入、黏膜下段過短
+- 續發性逆流：膀胱內壓過高導致 UVJ 關閉失敗；常與解剖（PUV）或功能性（神經病變）膀胱功能障礙相關
 
-Results: BCG issuperior in prevention of bladder
+**流行病學**
 
--e 
+- 估計新生兒約 1%，但不太明確
+- 有發燒性 UTI 及產前水腎兒童中發生率及臨床相關性較高
+- 危險因子：種族（白種人 > 非裔）、女性、年齡（<2 歲）、遺傳傾向
 
-## Page 1556
+**診斷檢查**
 
-u26 Urology
+- 重點病史詢問，特別是排尿功能障礙（頻尿、尿急、日間遺尿、便祕、糞便失禁）
+- 篩檢感染（UTI、腎盂腎炎、泌尿道敗血症）及腎衰竭（尿毒症、HTN）
+- 任何 VUR 兒童因腎疤痕發生率相對較高，需做腎狀態、生長參數及血壓的初始評估
+  - 身高、體重、血壓
+  - 血清 Cr
+  - U/A、C&S
+  - 腎臟 U/S
+  - 若高風險：DMSA 腎掃描（檢測與發育不良、腎疤痕或腎盂腎炎相關結構缺陷較敏感；含輻射暴露）
+  - 家族篩檢有爭議
+- 以 VCUG 診斷 VUR 並分級
 
-Treatment
-Non-muscle invasive Muscle invasive Advanced/Metastatic
+**VUR 分級（根據膀胱攝影）**
 
-Low risk (Ta low-grade) RB TAN Me
+- Grade I：僅輸尿管顯影
+- Grade II：輸尿管及腎盂顯影
+- Grade III-V：逐漸嚴重的輸尿管、腎盂及腎盞顯影伴擴張及扭曲
 
-TURET + intravesical chemo Radical cystectomy + PLND ‘Chemo = radiation +
+**治療**
 
-Follow up with cystoscopy and cytology Feuer ee Casey)
+- 原發性逆流 60% 可自行緩解
+- 低程度（I-III）治療目標為以內科治療預防感染或腎損傷
+- 內科治療：每日 ABx 預防性治療（劑量為急性感染治療劑量的一半）（見 Table 8, U13 - TMP/SMX、trimethoprim、amoxicillin 或 nitrofurantoin）
+- 手術治療：輸尿管重新植入 + 輸尿管整形術，或黏膜下注射填充劑（Deflux® 或 Macroplastique®）
+  - 適應症：內科治療失敗、腎疤痕（如：腎功能不全、HTN）、突破性 UTI、持續高程度（IV 或 V）逆流
 
-— Radical cystectomy (male}:
+---
 
-Intermediate risk (Multifocal, recurrent Ta} Removal of bladder and
+#### 5. 尿道下裂（Hypospadias）
 
-TURET + intravesical chemo Prostate cn bioc
+**定義**
 
-BCG (ty) Racal cystectomy eal}
+- 尿道口開孔於龜頭正常位置腹側近端
+- 根據嚴重程度，可能導致尿流方向困難、性交困難或精子無法置入陰道
 
-‘ovaries and anterior vagina
+**流行病學**
 
-High risk (11, Tis, Ta high-grade) | Pat vith anterior eee
+- 很常見；每 300 名活產男嬰中有 1 名
+- 遠端尿道下裂比近端常見
+- 盛行率：白種人 > 非裔
+- 可能與陰莖腹側彎曲、性分化障礙、隱睪症或腹股溝疝氣相關
 
-TURET « intravesical chemo
-Repeat TURBT in 2-6 wk (T1 only)
-BCG (3 yr)
+**治療**
 
-‘The standard course of BCG is induction with weekly intillations for 6 weeks followed by BCG maintenance therapy administered
-weekly over 3 weeks at 3,6, 12,18, 24, 30, and 36 months from the start of induction
+- 早期手術修復；最佳修復時間為 2 歲前
+- 新生兒包皮環切術應推遲，因為包皮可能用於修復
 
-Radical local treatment
-Maximal TURBT +
-‘chemoradiation
+---
 
-Amy Cao 2019
+#### 6. 膀胱外翻-尿道上裂複合症（Exstrophy-Epispadias Complex）
 
-Figure 17. Treatment for bladder carcinoma
+**定義**
 
-Prognosis
-+ depends on stage, grade, size, number of lesions, recurrence, and presence of CIS
-= T1:90% 5 yr survival
-= 12: 55% 5 yr survival
-= 13: 30% 5 yr survival
-= TA/N+/M+: <5% 5 yr survival
+- 取決於洩殖腔膜破裂時間的不同缺陷譜系
+  - 膀胱外翻：下腹及膀胱前壁部分先天性缺陷，膀胱腔暴露
+  - 洩殖腔外翻：膀胱及腸道暴露伴肛門閉鎖；>50% 伴脊柱裂
+  - 尿道上裂（最輕）：尿道開孔於陰莖背側，常伴陰莖彎曲
 
-Prostate Cancer
+**病因**
 
-+ Etiology
-+ not known, but risk factors include:
-= age >50 yr, risk increases 1% Per ye after 65 yr
-= increased incidence in persons of African descent
-= high dietary fat (2x)
-« FMHx
-* Ist degree relative (2x)
-* Istand 2nd degree relatives (9x)
-= positive BRCA (BReast CAncer gene) mutation
+- 代表洩殖腔膜關閉失敗，導致膀胱及尿道直接通過腹壁開孔
 
-Epidemiology
+**流行病學**
 
-most prevalent cancer in males
+- 罕見：發生率 1/30,000；男女比 = 3:1
+- 高發病率 > 多次重建手術、尿失禁、不孕症、逆流
 
-3rd leading cause of male cancer deaths (following lung and colon)
-up to 50% risk of CaP at age 50
+**治療**
 
-lifetime risk of death from CaP is 3%
+- 出生時手術修復
+- 之後可能需針對尿失禁、VUR 及低膀胱容量再做修復
 
-75% diagnosed between ages 60 and 85; mean age at diagnosis is 65
+---
 
-Pathology
-+ adenocarcinoma
-= 595%, often multifocal
-= Gleason score used to grade based on cellular differentiation and pattern
-+ urothelial carcinoma of the prostate (4.5%)
-= associated with UC of bladder; does NOT follow TNM staging below; not hormone-responsive
-+ endometrial (rare)
-= carcinoma of the utricle
-= other: squamous cell, small cell
+### 威爾姆氏瘤（Wilms' Tumour / Nephroblastoma）
 
-Anatomy
+**定義**
 
-+ 60-70% of nodules arise in the peripheral zone
-+ 10-20% arise in the transition zone
+- 起源於干擾正常腎小管及腎絲球分化的不成熟腎細胞的胚胎性腫瘤
 
-+ 5-10% arise in the central zone
+**病因**
 
-Clinical Features
+- 起源於 metanephric blastema（兩種胚胎結構之一，構成腎臟）異常增殖
 
-+ usually asymptomatic
+**流行病學**
 
-+ most commonly detected by DRE, elevated PSA, or as an incidental finding on TURP
-= DRE: hard irregular nodule or diffuse dense induration involving one or both lobes
-= PSA: see PSA Screening, U28
+- 佔所有兒童癌症的 5%，5% 為雙側，10% 與先天性畸形症候群相關
+- 兒童最常見的原發性腎臟惡性腫瘤
+- 平均發病年齡 3.5 歲
 
-Toronto Notes 2025
+**臨床表徵**
 
-Vas
-deferens
+- 腹部腫塊：大、坚实、單側（80%）
+- 腰痛（30-40%）
+- 顯微血尿（12-25%）
+- 噁心/嘔吐
 
-Seminal
+**威爾姆氏瘤相關症候群**
 
-© Jeah Kim 2025
+- WAGR 症候群（Wilms' tumour-aniridia-genital anomaly-retardation）
+- Beckwith-Wiedemann 症候群
+- Denys-Drash 症候群
 
-[Prostate Gland]
+**治療**
 
-Transitional H
+- 總是檢查對側腎臟及腎靜脈（腫瘤血栓）
+- 單側疾病：根治性腎切除或腎元保留手術 + 放射 + 化學治療
+- 雙側疾病：新輔助化學治療後做腎元保留手術
 
-Figure 18. Anatomic Zones of the
-Prostate
--e 
+**預後**
 
-## Page 1557
+- 5 年存活率 90%
+- 5 年復發率 15%
 
-W27 Urology
+---
 
-+ locally advanced disease
-«= storage and voiding symptoms, ED (all uncommon without spread)
-+ metastatic disease
-= bony metastases to axial skeleton common
-«= visceral metastases are less common (liver, lung, and adrenal gland most common sites)
-«= leg pain and edema with nodal metastases obstructing lymphatic and venous drainage
+### 隱睪症/異位睪丸（Cryptorchidism / Ectopic Testes）
 
-Methods of Spread
-+ local invasion
-+ lymphatic spread to regional nodes
+**定義**
 
-= obturator > iliac > presacral/para-aortic
-+ hematogenous dissemination occurs early
+- 睪丸沿正常下降路徑的異常位置（外腹股溝環 > 腹股溝管 > 腹腔）
+- Denis Browne pouch（在腹外斜肌筋膜及 Scarpa's 筋膜之間）最常見
+- 鑑別診斷：回縮性睪丸；萎縮性睪丸；性分化障礙（雙側不可觸及性腺）
 
-Investigations
-+ DRE
+**流行病學**
 
-+ PSA elevated in the majority of patients with CaP
+- 足月新生兒 1.0-4.6%，早產兒增加
+- 1 歲時約 0.7-0.8%
 
-+ TRUS-guided needle biopsy
+**臨床表徵**
 
-+ bone scan (only if bone pain, high-risk disease, Gleason score >7, or PSA >20 ng/mL)
+- 空虛或皺褶不多的陰囊
+- 10% 為雙側
+- 20% 患者至少有一側睪丸不可觸及
+- 出生時大多數未下降睪丸會在出生後前 4 個月完成下降
 
-+ CT scan to assess metastases
+**發育時間線**
 
-+ MRI: now established role in detection, staging, MRI-guided biopsy, and active surveillance
+- 2 個月：睪丸開始形成
+- 4 個月：開始呈現正常外觀並從腎臟起源處遷移至內腹股溝環
+- 7 個月：被 tunica vaginalis 包繞，通過內環、腹股溝管及外環下降至陰囊
 
-Table 18. 2018 TNM Classification of Prostate Carcinoma (AJCC 8th edition)
+**治療**
 
-T N M
-TX: primary tumour cannot be assessed NX:regionallymph nodeswere not assessed MO: no distant metastasis
-TO: no evidence of primary tumour NO: no regional lymph node metastasis Mt: distant metastasis,
+- 睪丸固定術（orchiopexy）
+- 荷爾蒙治療未被證明比標準手術治療更有效
 
-dita: non-regionallymphnodes
-Tt: clinical undetectable tumour, normal ORE and: spread to regional lymph nodes tb: bones)
+**預後**
 
-TRUS dtc: other ste withor without bone dsease
-Tfa: tumour incidental histlogicfinding in-S% of NSufix
+- 生育力降低：未治療的雙側隱睪症：100% 不孕症，因 Leydig 及生殖細胞丟失；曾有雙側隱睪症、曾有單側隱睪症及正常男性各組的 paternity rates 分別為 33-65%、90% 及 93%
+- 惡性腫瘤風險增加：腹腔內 > 腹股溝；手術修復有助於睪丸監測並可能降低惡性腫瘤風險
+- 睪丸扭轉風險增加（手術修復可降低）
 
-tissue resected on TURP
-1b: tumour incidental histologic finding in>5% of biopsy only
-tissue resected on TURP (fcregionallymphnodemetastasisidentified by NA.or confirmed
-TYe:tumour identified by needle biopsy (due to _—_creneedlebiopsy only pM: bones) micrscop
-clevated PSAlevel)
+---
 
-confirmed
+### 性分化障礙（Disorders of Sexual Differentiation, DSD）
 
-microscopically confirmed
-12: palpable, confined to prostate
+**定義**
 
-2a: tumour involving sone half one abe
+- 原名間性障礙：被視為社會緊急情況
+- 因男性雄性化不足或女性雄性化過剩導致染色體性別的異常外生殖器
 
-2b: tumourinvolving> one halfof on lobe, but
+**分類**
 
-notboth lobes
+1. 46 XY DSD
+   - 睪丸雄激素合成缺陷
+   - 目標組織雄激素抵抗
+2. 46 XX DSD
+   - 大部分為先天性腎上腺增生（CAH）（21-羥化酶缺乏最常見）
+   - 未診斷及治療的 CAH 可能與新生兒危及生命的電解質異常相關（失鹽型 CAH）
+3. 卵睪 DSD
+4. 混合性腺發育不全（46 XY/45 XO 最常見染色體型）
 
-2c: tumour invlving both obes
+**臨床表徵**
 
-T3:tumour extends through prostate capsule
-3a: extracapsular extension (urilateral or bilateral)
-3b: tumour invading seminal vesicles
+1. 46 XY DSD：陰莖短小；隱睪症；尿道下裂；男性第二性徵發育不完全
+2. 46 XX DSD：陰蒂增大；部分融合的陰唇；突出尿生殖竇；雄激素過多；月經延遲或缺失
 
-TA: tumour imadesadjacent structures (besides
-seminal vesicles)
+**診斷**
 
-TPrefix
-(9:clinicalT
-(0): pathological . There i no pathological 71.
+- 仔細詢問家族史（任何血親婚姻）；母親病史（特別是懷孕期間藥物/藥物使用（母體雄激素過多））
+- 理學檢查：可觸及性腺（= 染色體男性）、色素沉著脫水證據、HTN、拉伸陰莖長度、尿道口位置
+- 實驗室檢查：血漿 17-OH-progesterone（出生 36 小時後）> CAH 升高；血漿 11-deoxycortisol > 11-β-羥化酶缺乏升高；基礎腎上腺類固醇；血清睪固酮及 DHT 注射 hCG 前後（2000 IU/d × 4 天）；血清電解質；染色體評估包括性染色體；腎上腺、性腺、子宮及闊韌帶 U/S；尿生殖竇內視鏡及尿道顯影
 
-Tsutfix
-(tm): synchronous primary tumours are foundin single
-organ
+**治療**
 
-(sn regional lymph node metastasis Wentied bySLN pM: distant metastasis, microscopically confirmed
-pMta:non-regional lymph nodes, microscopically
+- 類固醇補充（如：CAH）
+- 廣泛家族諮詢後決定性別指派
+  - 必須考慮成年期性功能正常運作的生殖器能力、生育潛力及心理影響
+- 6-12 個月之間重建外生殖器
+- 對患者及家人長期心理支持及引導
 
-pMccother sites) with or without bone disease,
+---
 
-Table 19. Prostate Cancer Mortality Risk
+### 遺尿症（Enuresis）
 
-Low-Risk Intermediate-Risk High Risk
-(itany offollowing) (itany offollowing) {if any offollowing)
-PSA 10 10:20 >20
-Gleason Score 1 Grade Group) T Grade Group 2and 3 8-10 Grade Group 4 and 5)
-Stage pra prab-T2e pra
-Treatment
+- 見小兒科，P12
 
-+ TI/T2 (localized, low-risk)
-= ifadequate life expectancy or no other significant comorbidities, consider active surveillance vs.
-definitive local treatment (RP, brachytherapy, or EBRT)
-= active surveillance for low-risk, small volume Gleason score <7 prostate cancer shown to be safe for
-most
-= minimal differences in cure or recurrence rates between definitive treatment modalities
-«= in older population: watchful waiting and palliative treatment for symptomatic progression
-= alternative treatment options include: HIFU, cryoablation, focal laser ablation
-« Ti/T2 (intermediate or high-risk)
-« definitive therapy over active surveillance
-= watchful waiting in elderly or infirm
+---
 
-Toronto Notes 2025
+### 膀胱與腸道功能障礙（Bladder and Bowel Dysfunction）
 
-2022 Canadian Urological Assocation
-Recommendations on Prostate Cancer Saeening and
-Early Diagnosis. CUAI 2022; 165): 184-96
+**定義**
 
-Men with an average riskof prostate cancer electing
-toundergo PSAscrening should start at age 50. Men
-with an increased risk of prostate cancer should stat
-ataged5
+- 膀胱及腸道功能障礙描述無神經性或解剖性原因的排尿及排便症狀
 
-Formen electing to undergo PSA screening the
-interalsbetween esting sould beindviualzed
-based on previous PSAlevls:
+**臨床表徵**
 
-PSA<tngimL-+q4yr
+- 儲尿症狀（尿急、頻尿、急迫性尿失禁）
+- 排尿症狀（遲滯、流速緩慢、間歇性）
+- 胃腸道症狀（便祕及糞便失禁）
 
-PSAT3ngiml + 4q2yr
+**治療**
 
-PSA> 3ngiml + mor frequent PSAtesting intervals
+- 軟便劑（如：polyethylene glycol 3350）
+- 泌尿治療及膀胱再訓練
+- 骨盆底物理治療
+- 抗膽鹼藥物（solifenacin、propiverine、tolterodine）
+- 經皮電神經刺激（TENS）神經調控
 
-oxadjunctve testing strategies
+---
 
-Formen undergoing PSAscrening, the age at wich to
-iscontnue screening sould be based on curt PSA
-levelsand life expectancy
+## 常見泌尿科處置（Selected Urological Procedures）
 
-For men aged 60 with PSA 1nginl consider
-discontinuing
+### 膀胱導尿（Bladder Catheterization）
 
-For allother men » discontinue atage70
+- 導尿管尺寸以 French（Fr）測量 = 圓周（mm）（30 Fr = 1 cm 直徑）
+- 每增加 1 mm 直徑約增加 3 Fr（標準尺寸 14-18 Fr）
+- 應盡快移除以降低 UTI 風險
 
-For menvith life expectancy <10yr- discontinue
+**連續導尿適應症**
 
-See Landmark Urology Trials table for mor information
-on 10-r outcomes for patients with localized prostate
-cance after monitoring, surgery, or radiotherapy
--e 
+- 準確監測尿量（U/O）
+- 緩解藥物、神經源性膀胱或膀胱內阻塞引起的尿瀦留
+- 尿失禁的臨時治療
+- 會陰傷口
+- 血塊預防（22-24 Fr）用於持續性膀胱灌洗
+- 術中及術後
+- 臨終舒適照護
 
-## Page 1558
+**連續導尿替代方案**
 
-U28 Urology Toronto Notes 2025
-+ 73,74
-= ADT (with calcium, vitamin D, bisphosphonates) + EBRT/docetaxel/abiraterone
-= enzalutamide, apalutamide, abiraterone with ADT iflocally advanced
-« radiation therapy for oligometastatic disease (case-by-case basis)
-+ N>0orM>0
-requires hormonal therapy/palliative radiotherapy for metastases; may consider combined androgen.
-blockade (ADT + anti-androgen)
-bilateral orchiectomy - decreases testosterone production by 90%
-GnRH agonists (e.g. leuprolide, goserelin), see Table 28, U47, GnRH antagonist (e.g. degarelix) with one
-of enzalutamide, apalutamide, darolutamide + docetaxel, abiraterone, docetaxel alone
-antiandrogens (e.g. bicalutamide)
-local irradiation of painful secondaries or half-body irradiation
-+ CRPC (Castration Resistant Prostate Cancer)
-« ADT should be maintained
-= non-metastatic CRPC: observation vs. apalutamide, enzalutamide, or darolutamide
-= metastatic CRPC: abiraterone, enzalutamide, docetaxel-based chemotherapy
-+ post-docetaxel: second-line chemotherapy cabazitaxel
-+ ifsymptomatic without visceral metastases: radium-223
-* Homologous Recombination Repair (HRR) mutation: olaparib
-.
-.
+- 間歇性導尿：PVR 測量；獲取無菌診斷標本做 U/A、尿液 C&S；神經源性膀胱或慢性尿瀦留管理
+- 保險套導尿
+- 恥骨上導尿
 
-bone metastases: denosumab and/or zoledronic acid is recommended + palliative radiation
-Lutetium-177 post docetaxel and ARPI (enzalutamide/abiraterone)
+**困難導尿原因及處理**
 
-Table 20. Treatment Options for Localized Prostate Cancer
+- 患者不適：使用足夠潤滑（含 xylocaine）
+- 導管塌陷：潤滑同上 + 更硬或更大導管（矽膠導管）
+- 尿道口/尿道狹窄：以漸進性導管/球囊導管擴張
+- 創傷性損傷：先前多次導尿操作造成創傷性假通道
+- BPH：使用 Coudé 導管（angled tip 可幫助繞過增大攝護腺）（總是向上/向前）
+- 尿道斷裂/阻塞：filiform 及 followers 或恥骨上導尿
+- 焦慮患者：抗焦慮藥物
 
-Modality
+**導尿併發症**
 
-Population Considered
+- 感染：UTI、膀胱瘻管、膀胱穿孔（罕見）
+- 尿道口/尿道創傷
 
-Limitations
+**禁忌症**
 
-Watchful Waiting
+- 創傷：尿道口有血、陰囊血腫、骨盆骨折及/或高位置攝護腺
 
-Active Surveillance (serial PSA, DRE, and
-iopsies)
+---
 
-Brachytherapy
-BRT
+### 包皮環切術（Circumcision）
 
-Short life expectancy (<5-10 yr); will likely only receive:
-non-curative hormonal therapy if disease progresses
+**定義**
 
-Low grade disease, good follow-up;is stil considering
-more curative treatment if disease progresses
+- 移除陰莖的部分或全部包皮
 
-Low volume, low PSA (<10), low grade
-Locally advanced disease older patients
+**流行病學**
 
-Young patients (75), high-risk disease
+- 全球 30%
+- 頻率因地理、宗教歸屬及社會經濟狀態而異
 
-Disease progression
+**醫療適應症**
 
-Disease progression; decrease in0OL associated with
-serial testing; risks associated with biopsies; no optimal
-monitoring schedule has been defined to date
+- 病理性包莖及復發性包莖嵌頓
+- 復發性 UTI（特別是嬰兒及伴有其他泌尿系統異常）
+- 乾燥性閉塞性龜頭炎或其他慢性發炎狀態
 
-ED (60%), incontinence (<5%), invasive
+**禁忌症**
 
-Radiation proctitis (5%), ED (25-50%), rsk of rectal and
-bladder cancer
+- 不穩定或生病嬰兒
+- 先天性生殖器異常（尿道下裂、尿道上裂、陰莖陰囊網狀構造、隱匿性陰莖、腹側彎曲）；可能需要包皮協助重建
+- 有出血性疾病家族史者，環切前需做檢查
 
-Incontinence (10%), ED (30-50%)
+**併發症**
 
-“other optionsincude cryosurgery, HIFU, hormonal ablation
+- 早期：出血、感染、龜頭損傷、切除、環切裝置滑脫、很少死亡
+- 晚期：多餘包皮、美容問題、囊腫、黏連/皮膚橋接、縫線竇、腹部彎曲、繼發性包埋陰莖、瘻管、尿道口狹窄
+- 0.6-2% 併發症率
 
-Prognosis
+---
 
-+ T1-T2; comparable to normal life expectancy
+### 輸精管切除術（Vasectomy）
 
-+ T3-T4: 40-70% 10 yr survival
+**目標**
 
-+ N* and/or M*: 4% 5 yr survival
+- 高可逆性的永久避孕形式
 
-+ prognostic factors: tumour stage, tumour grade, PSA value, PSA doubling time
+**特點**
 
-PSA Screening
+- 無手術刀輸精管切除術比傳統輸精管切除術早期術後併發症風險較低
+- 筋膜間置及電燒輸精管降低避孕失敗風險
+- 術後約 3 及 4 個月做精液分析
+- 輸精管切除術後使用其他避孕方法，直到一次無精子射出或兩次連續射出 <100,000 不動精子
 
-Digital Rectal Exam
+**適應症**
 
-+ should be included as part of initial screening
+- 完全知情的患者希望永久手術絕育
 
-* suspicious findings: abnormal feeling, nodularity, focal lesion, discrete change in texture/fullness/
-symmetry
+**併發症**
 
-Prostate Specific Antigen
+- 早期：感染（0.2-1.5%）、出血或血腫（4-20%）、因再通或技術失敗導致主要手術失敗（0.2-5%）
+- 晚期：慢性陰囊疼痛（1-14%）、延遲性輸精管切除術失敗（0.05-1%）
+- 輸精管切除術後懷孕風險約 0.1%
+- 精子肉芽腫及充血性附睪炎
 
-glycoprotein produced by epithelial cells of prostate gland
+**術後追蹤**
 
-+ Teaks into circulation in setting of disrupted glandular architecture
+- 術後 3（或 4）個月做 1（或 2）次精液分析
+- 若無精子或 <100,000 不動精子在任何時候可放棄避孕
+- 若 >100,000 不動精子或再次精液分析發現活動精子，4-8 週後重複並考慮重做輸精管切除術
 
-value of <4 ng/mL traditionally considered as cut-off to differentiate normal from pathologic value, but no
-single justifiable cut-off point
+---
 
-measured serum PSA is a combination of free (15%) and bound PSA (85%)
+### 膀胱鏡檢查（Cystoscopy）
 
-decreased free:total PSA, elevated PSA velocity, and elevated PSA density associated with increased CaP
-rates
+**目標**
 
-Causes of Increased PSA
+- 下泌尿道（尿道、攝護腺、膀胱及輸尿管口）的內視鏡檢查，樣本做細胞學
+- 可用軟式或硬式鏡
+- 絕大多數在局部麻醉下進行，不需特殊準備（不需禁食、不需抗生素）
 
-BPH, prostatitis, prostatic ischemia
-infarction, prostate biopsy/surgery,
-prostatic massage, acute urinary retention,
-Urethral catheterization, cystoscopy, TRUS,
-strenuous exercise, perineal trauma,
-ejaculation, acute rena failure, cardiac
-surgery-telated ischemia, radiation therapy
+**適應症**
 
-PSAs specificto the PROSTATE, but NOT to
-prostate cancer
--e 
+- 血尿
+- LUTS（儲尿或排尿）
+- 尿道及膀胱頸狹窄
+- 膀胱結石
+- 膀胱腫瘤追蹤
+- 以逆行性腎盂攝影（ureteric stents、catheters）評估上泌尿道
 
-## Page 1559
+**併發症**
 
-29 Urology
+- 術中（非常罕見）：出血；麻醉相關；穿孔（罕見）
+- 術後（短期）：感染（高風險、免疫抑制患者建議抗生素預防）；尿瀦留
+- 術後（長期）：狹窄
 
-Screening Recommendations
+---
 
-Beevated PSA
-(or Abnormal DRE
+### 根治性攝護腺切除術（Radical Prostatectomy）
 
-Figure 19. Canadian Urological Association guidelines on PSA screening (2017)
+**目標**
 
-Testicular Tumours
+- 通過下正中腹切口、腹腔鏡或機械手臂移除整個攝護腺及攝護腺被膜
+- 開放手術為腹膜外途徑，微創手術通常為腹膜內途徑
+- 可能也做內髂及閉孔淋巴結切除並送病理（取決於風險：臨床分期、分級、PSA）
+- 也部分或完全切除貯精囊（根治性攝護腺切除術後無射精）
 
-Etiology/Risk Factors
-+ cryptorchidism, atrophy, abnormal sex hormone exposure, HIV infection, infertility, FMHx, PMHx of
-testicular cancer
+**適應症**
 
-Epidemiology
+- 局部攝護腺癌的治療
+- 與局部晚期膀胱癌做根治性膀胱切除術時同時進行
 
-+ rare, but most common solid malignancy in young males 15-35 yr
+**併發症**
 
-* any solid testicular mass or acute hydrocoele in young patient - must rule out malignancy
+- 立即（術中）：出血；直腸損傷（極罕見）；輸尿管損傷（極罕見）；閉孔神經損傷（極罕見）
+- 術圍手術期：若同時做骨盆腔淋巴結切除可能有淋巴囊腫；出血；吻合口尿漏
+- 晚期：輕度至重度應力性尿失禁（3-10% 嚴重；20-30% 輕度）；ED（~30-50%，取決於是否切除一個、兩個或無神經血管束）
 
-+ slightly more common in right testis (corresponds with slightly higher incidence of right-sided
-cryptorchidism)
+---
 
-+ 2-3% bilateral (simultaneously/synchronous or successively/metachronous)
+### 經尿道攝護腺切除術（Transurethral Resection of the Prostate, TURP）
 
-Pathology
-+ primary
-= 1% ofall malignancies in males
-= cryptorchidism has increased risk (10-40x) of malignancy
-= 95% are germ cell tumours (all are malignant)
-* seminoma (50%) > classic, anaplastic, spermatocytic
-¢ NSGCT > embryonal cell carcinoma (10%), teratoma (5%), choriocarcinoma (<1%), yolk sac (<1%),
-mixed cell type (35%)
-= 5% are non-germ cell tumours (usually benign) > Leydig (testosterone, precocious puberty), Sertoli
-(gynecomastia, decreased libido)
-+ secondary
-= male >50yr
-= usuallylymphoma or metastases (e.g. lung, prostate, GI)
+**目標**
 
-Clinical Features
+- 部分切除尿道周圍攝護腺（過渡區）以減少泌尿道阻塞症狀
+- 通過經尿道（膀胱鏡）途徑使用電刀環、灌流（glycine）及照明完成
+- 不是癌症手術
+- 標準 TURP 以電燒（原本單極，雙極也有）；較新 BPH 手術選項包括綠光雷射光汽化、激光剜除及微侵入性手術（MIST如水蒸氣治療（Rezum™）、UroLift™、iTind™ 等）
 
-painless testicular enlargement (painful if intratesticular hemorrhage or infarction)
-dull, heavy ache in lower abdomen, anal area, or scrotum
+**適應症**
 
-associated hydrocele (10%)
+- 阻塞性尿路病變（大膀胱憩室、腎功能不全）
+- 兩次或多次尿瀦留
+- 復發性 UTI
+- 復發性巨觀血尿
+- 膀胱結石
+- 藥物治療不耐/失敗
+- 良性攝護腺增生
 
-coincidental trauma (10%)
+**併發症**
 
-infertility (rarely presenting complaint)
+- 急性：尿失禁；切除輸尿管口（後續逆流或輸尿管狹窄）；出血；附睪炎；敗血症；經尿道切除症候群（也稱「術後 TURP 症候群」）：由吸收大量使用的低滲灌流液（glycine）引起，通常通過穿孔的靜脈竇吸收，導致高血容量性低鈉血症；以利尿治療（若嚴重則用高滲鹽水）；雙極 TURP 不會發生（灌流為生理鹽水）；膀胱穿孔（罕見）；直腸穿孔（罕見）
+- 慢性：逆行射精（>75%）；ED（5-10%，隨電燒使用增加而增加）；尿失禁（<1%）；尿道狹窄；膀胱頸攣縮
 
-gynecomastia due to secretory tumour effects
+---
 
-supraclavicular and inguinal lymphadenopathy
+### 體外震波碎石術（Extracorporeal Shock Wave Lithotripsy, SWL）
 
-abdominal mass (retroperitoneal lymph node metastases)
+**目標**
 
-Methods of Spread
-+ local spread follows lymphatics
+- 治療無法自然通過泌尿道的小腎及輸尿管結石（近端、中或遠端）
+- 通常僅需鎮靜；不需內部器械操作；最不具侵入性但也最不成功
+- 震波聚焦於結石，使用螢光透視 > 碎石，讓結石碎片可較不疼痛地自行排出
 
-= right > medial, paracaval, anterior, and lateral nodes
+**適應症**
 
-« left left lateral and anterior paraaortic nodes
+- 腎結石 <1.5 cm 及輸尿管結石的一線治療選擇
+- 孤立腎患者（有結石者考虑置入支架以防阻塞）
+- 患者偏好及等待時間在結石處理中扮演重要角色
+- 以螢光透視導引，因此結石需為 radio-opaque（即不適用於尿酸結石）
 
-= “cross-over” metastases from right to left are fairly common, but no reports from left to right
-+ hematogenous most commonly to lung, liver, bones, and kidney
+**禁忌症**
 
-Toronto Notes 2025
+- 急性 UTI 或泌尿道敗血症
+- 出血性疾病或凝血病
+- 懷孕
+- 未控制的高血壓
+- 主動脈瘤
+- 結石遠端阻塞（SWL 可在置入支架或腎造口後使用）
+- 不是禁忌但對非常緻密結石及肥胖患者 SWL 較不成功
 
-Long Term Follow-Up on PSAS ening
+**併發症**
 
-Lancet 201; 384: 20772035,
+- 菌尿症
+- 菌血症
+- 術後血尿（輕度巨觀血尿常見）
+- 輸尿管阻塞（結石碎片）
+- 腎周血腫
 
-See Landmark Prostate Cancer ils table for more
-information on ERSPC which details the impact of PSA
-testing on prostate cancer mortality at13yrfllow-up
-inmen504yts,
--e 
+---
 
-## Page 1560
+## 變性相關手術（Transition-Related Surgeries）
 
-U30 Urology
+- 確保適當使用性別代名詞
+- 某些程序需要 1 年試驗性荷爾蒙治療、心理衛生專業人員的術前評估信件及根據 WPATH Standards of Care - Version 8 指南的文檔
 
-Investigations
+**Table 26. 性別轉換手術選項**
 
-+ diagnosis is established by pathological evaluation of specimen obtained by radical inguinal orchiectomy
-+ tumour markers (B-hCG, LDH, AFP)
+| 程序 | 說明 | 追蹤 |
+|------|------|------|
+| 睪丸切除術 | 陰囊切口移除雙側睪丸；消除對睪固酮阻斷劑的需求；部分患者做陰囊切除術；使陰道黏貼更容易 | |
+| 陰莖倒轉陰道成形術 | 使用陰莖及陰囊皮膚形成陰道腔及外陰（陰蒂、尿道、陰阜、陰唇） | 需要潤滑才能穿透；前列腺檢查以陰道方式進行；需規律擴張陰道腔以避免狹窄；併發症包括：肉芽組織、泌尿症狀、瘻管形成、陰道內毛髮生長 |
+| 游離前臂皮瓣陰莖重建術 | 最常見的陰莖重建技術 | 形成陰莖使用前臂皮瓣皮膚、血管及神羅；尿道延伸；未來陰莖及睪丸植入物 |
+| 股薄肌皮瓣（ALT） Phalloplasty | 使用大腿皮膚、血管、神經及肌肉組織形成陰莖 | 併發症極罕見；皮瓣可能因大腿皮下脂肪而非常厚；感覺恢復可能比前臂皮瓣差 |
+| 陰蒂整形術 | 從周圍韌帶釋放荷爾蒙增大的陰蒂形成陰莖 | 併發症低；不能進行穿透性性交；主要併發症可能需修復手術：尿道狹窄、尿道瘻管；泌尿重建術；陰道切除術及陰囊整形術 |
 
-= B-hCG and AFP are positive in 85% of non-seminomatous tumours
+---
 
-«= elevated marker levels return to normal postoperatively if no metastasis
+## 常用藥物（Common Medications）
 
-«= B-hCG positive in 7% of pure seminomas, AFP never elevated with seminoma
-+ testicular U/S (hypoechoic area within tunica albuginea = high suspicion of testicular cancer)
-+ evidence of testicular microlithiasis is not a risk factor for testicular cancer
-+ needle aspiration contraindicated due to risk of tumour seeding
+### 勃起功能障礙藥物（Table 27）
 
-Staging
+| 藥物類別 | 機制 | 不良反應 |
+|----------|------|----------|
+| sildenafil、tadalafil、vardenafil | PDE5 抑制劑（抑制降解 cGMP 的酶）；導致海綿體平滑肌鬆弛、血流增加及勃起 | 嚴重低血壓（非常罕見）；潮紅、頭痛、消化不良 |
+| alprostadil（MUSE®，尿道內給藥） | 前列腺素 E1；啟動 cAMP，鬆弛海綿體平滑肌 | 陰莖疼痛；暈厥前驅 |
+| alprostadil、papaverine（病灶內注射） | 見上 | tunica albuginea 增厚（ Peyronie's 斑塊）；疼痛性勃起 |
 
-+ clinical: CT chest (lung metastases), markers for staging (B-hCG, AFP, LDH), CT abdomen/pelvis
+---
 
-(retroperitoneal lymphadenopathy)
+### 良性攝護腺增生藥物（Table 28）
 
-= stage I: disease limited to testis, epididymis, or spermatic cord
-«= stage II: disease limited to the retroperitoneal nodes
-« stage III: disease metastatic to supradiaphragmatic nodal or visceral sites
+| 藥物類別 | 機制 | 不良反應 |
+|----------|------|----------|
+| terazosin、doxazosin、alfuzosin、silodosin | α-阻斷劑；減少基質平滑肌張力；減少膀胱出口阻塞的動態成分 | 暈厥前驅；腿部水腫；逆行性射精；頭痛；倦怠；鼻塞 |
+| tamsulosin | 選擇性 α1A-阻斷劑 | 上述症狀；若白內障手術可能發生「floppy iris 症候群」 |
+| finasteride、dutasteride | 5α-還原酶抑制劑；阻斷睪固酮轉化為 DHT；減少靜態阻塞成分；降低攝護腺體積 | 性功能障礙；PSA 下降 |
 
-Table 21. 2018 TNM Classification of Testicular Carcinoma (AJCC 8th edition)
+---
 
-T
+### 攝護腺癌藥物（Table 29）**
 
-TX: primary tumour cannot beassessed
-TO: no evidence of primary tumour
+| 藥物類別 | 機制 | 不良反應 |
+|----------|------|----------|
+| leuprolide、goserelin、triptorelin（GnRH 促效劑） | 初始刺激 LH 導致初期「爆發」（若骨轉移可能增加骨痛）；之後降低睪固酮 | 發熱；頭痛；性慾減退 |
+| bicalutamide（非類固醇抗雄性激素） | 阻斷雄激素受體 | 女性化乳房；性慾減退 |
+| abiraterone（非類固醇抗雄性激素） | 不可逆抑制 CYP17，干擾腫瘤、睪丸及腎上腺的雄激素合成 | 腎上腺功能不足（需同時類固醇治療）；高三酸甘油酯血症；周邊水腫 |
+| enzalutamide（非類固醇抗雄性激素） | 雄激素受體信號抑制劑（完全拮抗劑） | 周邊水腫；倦怠；發熱 |
 
-Tis: intratubular germ cell neoplasia
+---
 
-14: limited to testisand epididymis without
-Iymphovascular invasion
+### 禁尿藥物及膀胱過動症藥物（Table 30）
 
-Ta: tumour <3 cm
-Tb tumour >3 cm
+| 藥物類別 | 機制 | 適應症 | 不良反應 |
+|----------|------|--------|----------|
+| oxybutynin | 抗痙攣藥；抑制平滑肌上的乙醯膽鹼作用 | 膀胱過動：急迫性尿失禁 + 尿急 + 頻尿 | 口乾；視力模糊；便祕；心搏過速 |
+| tolterodine、trospium、solifenacin、darifenacin、fesoterodine、propiverine | 抗膽鹼藥 | 膀胱過動：急迫性尿失禁 + 尿急 + 頻尿 | 同上 |
+| mirabegron | β3 促效劑 | 膀胱過動：急迫性尿失禁 + 尿急 + 頻尿 | 需監測血壓 |
+| imipramine | 三環抗憂鬱藥 | 壓力性及急迫性尿失禁 | 體重增加；姿位性低血壓；PR 間期延長 |
+| 肉毒桿菌素 A 膀胱注射 | 神經毒素 | 頑固性 OAB（神經性及非神經性尿失禁） | 尿瀦留、UTI |
 
-12: limited totestis and epididymis withiymphovascular
+---
 
-invasion or invading hilar soft tissue or epididymis,
-‘or penetrating visceral mesothelial layer covering the
-external surface of tunica albuginea withor without
-Iymphovascular invasion
+## 重要泌尿科臨床試驗（Landmark Urology Trials）
 
-13: invasion ofthe spermaticcord
-« lymphovascular invasion
+### 腎臟癌
 
-14: invasion ofthe scrotum «lymphovasculr invasion
+**EORTC-30904**
+- 目的：比較腎元保留手術（NSS）與根治性腎切除術（RN）對低分期腎細胞癌的腫瘤學結果
+- 方法：541 名小、孤立、低分期腎細胞癌患者隨機分至 NSS 及 RN
+- 結果：確診小、孤立、低分期 RCC 患者，10 年存活率 RN 79.6% vs. NSS 78.0%
+- 結論：兩種手術均提供優異的腫瘤學結果
 
-TPrefix
-{c):clinicalT. extentof the primary tumour, whichis
-determined by performing a radical orchiectomy, except
-{or cases of Tis and 1 tumours
+### 良性攝護腺增生
 
-(p): pathological. subclasificationof pT applies only
-to pure seminoma
+**PCPT（NEJM 2003）**
+- 目的：評估 Finasteride 是否能預防 55 歲及以上男性攝護腺癌
+- 結果：Finasteride 組 7 年內攝護腺癌發生率降低 24.8%；但高級別疾病增加（6.4% vs. 5.1%）
+- 結論：Finasteride 減少低度癌症的發生；高級別癌症增加歸因於疾病檢測改善而非藥物使用
 
-NX: regional lymph nodes were not assessed
-NO: no regional ymphnodemetastasis
+**MTOPS（NEJM 2003）**
+- 目的：評估 doxazosin、finasteride 或兩者聯合對 BPH 臨床進展的長期效果
+- 結果：doxazosin（39%）、finasteride（34%）及聯合治療（66%）顯著降低臨床進展風險
+- 結論：doxazanin + finasteride 聯合治療比單一治療更有效減少 BPH 臨床進展
 
-M4: metastasis with alymphnodemass
-2cmorlessingreatest dimension; or multiple lymph
-nodes, none morethan 2 cm in greatest dimension
+### 抗利尿治療用於輸尿管結石（α-阻斷劑）**
 
-N2:metastaiswith a ymph rode mass more than 2
-‘mut not more than 5 cmin greatest dimension
+- Cochrane 2018：α-阻斷劑增加結石清除率（RR 1.45），但對 <5 mm 結石可能效果較差
 
-N3:metastass wth alymph node massmorethan5
-«mingreates dimension
+---
 
-NPrefix
-(@):cinicalN
-(p):pathological
+**參考文獻**
 
-NSutfix
-(s0): regional lymph node metastasis identified by
-SUNiopsy only
-
-(f:reglonallymph node metastasis identified by HA
-‘orcore needlebiopsy only
-
-MO: no distant metastases
-
-distant metastases
-citta: non-retroperitoneal nodal or pulmonary
-metastases
-
-tte non- pulmonary visceral metastases
-
-pMt: distant metastases, microscopical confirmed
-pMta:non-retroperitoneal nodal or pumonary
-metastases, microscopically confirmed
-Mtb: non-pulmonary visceral metastases,
-microscopically confirmed
-
-Management
-
-+ radical orchiectomy through inguinal incision for all stages - ligate spermatic cord inside inguinal canal
-+ consider sperm banking, testicular prosthesis
-+ adjuvant therapies (see Figure 20, U31)
-
-Prognosis
-
-+ 99% cured with stage I and II disease
-+ 70-80% complete remission with advanced disease
-
-Toronto Notes 2025
-
-Testes and scrotum have different
-lymphatic drainage, therefore trans-scrotal
-approach for biopsy or orchiectomy should
-be avoided
-
-Orchiopexy
-Surgical descent (orchiopexy) of
-undescended testis does not eliminate the
-tisk of malignancy, but allows for earlier
-detection by self-examination and reduces
-the risk of infertility
--e 
-
-## Page 1561
-
-UBL Urology
-
-Germ Cell Testis Tumour Teratoma
-Embryonal CA
-
-Germinal cell
-
-Mixed cell type
-50% 50%
-. . Yolk CA
-vthets Seminoma Non Seminoma omsac
-Epithelium Chorio CA
-90% 10% 40% 20% 20%
-Stage | Stage II+IIl Stage | Stage Il Stage Ill
-Surveillance v v
-RPLND + v ¥ (residual mass)
-
-Figure 20. Adjuvant management of testicular cancer post-orchiectomy
-Adapted fom Dr. MAS Jewett
-
-Penile Tumours
-
-Epidemiology
-+ rare (<1% of cancer in males in U.S.)
-* most common in ages 50-59
-
-Benign
-+ cyst, hemangioma, nevus, papilloma
-
-Pre-Malignant
-+ balanitis xerotica obliterans, leukoplakia, Buschke-Lowenstein tumour (large condyloma)
-
-Pre-invasive Cancer
-* carcinoma in situ
-= Bowen's disease > crusted, red plaques on the shaft
-= erythroplasia of Queyrat > velvet red, ulcerated plaques on the glans
-= treatment options: local excision, laser, radiation, topical 5-fluorouracil, topical imiquimod
-
-Malignant
-+ risk factors
-= chronic inflammatory disease
-« STI
-= phimosis
-= uncircumcised penis
-+ 2% of all urogenital cancers
-+ SCC (>95%), basal cell, melanoma, Paget’s disease of the penis (extremely rare)
-+ definitive diagnosis requires full thickness biopsy of lesion
-+ lymphatic spread (superficial/deep inguinal nodes > iliac nodes) >> hematogenous
-Treatment
-+ wide surgical excision with tumour-free margins (dependent on extent and area of penile involvement) +
-inguinal lymphadenectomy
-+ consider less aggressive treatment modalities in CIS (cryotherapy, laser therapy, etc.), if available
-
-Toronto Notes 2025
-
-Layers of the Scrotum,
-
-SDECITT
-skin
-
-Dartos muscle and fascia
-External spermatic fascia
-Cremasteric fascia
-Internal spermatic fascia
-Tunica vaginalis
-
-Tunica albuginea
--e 
-
-## Page 1562
-
-U32 Urology Toronto Notes 2025
-
-Scrotal Masses
-
-Table 22. Differentiating Between Scrotal Masses ©
-Conditic Pain Pi ic Additional Findi
-ion ain alpation ndings Gers
-
-Torsion + Diffuse tenderness ‘Absent cemaster refer, negative Pren's sign Grade: palpable only with Valsalva
-
-Horizontal ie of testicle maneuver
-
-Grade 2: palpable without Valsalva
-Epididymitis, + Epididymal tenderness Present cremasterrefler, positive Prein's sign Grade 3: visible through scrotal skin
-Orchitis + Diffuse tenderness Present cemaster reflex, positive Prehn's sign
-Hematocele tk Diffuse tenderness No transilumination
-Hydrocele - Testis not separable from hydrocele, cord palpable _Transillumination, Hof trauma
-Nomal Enlarged
-
-Spermatocele - Testis separable rom Tarsilluination permatc cord Pampiniorm
-
-spermatacele,cordpalpable Plexus
-Varicocele ” “Bag of worms” No transilumination, increases in size with
-
-valsalva, decrease insizeifsupine
-
-IndirectInguinal Hernia ~(eifstrangulated) Tests separable from hernia, cord not palpable, cough No transilumination
-
-impulse may transmit, may be reducible
-Tumour (+ithemorthagic) Hard ump/nodule
-Generalied/Dependent Edema — Dittuse swelling Often postoperative or immobilized, check or
-
-Iver dysfunction
-
-Idiopathic -
-
-Table 23. Benign Scrotal Masses
-
-Type Varicocele Spermatocele __Hydrocele Testicular Torsion Inguinal Hernia
-Definition Dilatation andtortuostyof benign, sperm Collection ofserous uid Twistingofthetesticle __Protusinofabdoninal
-pampiniorm plexus filled epididymal thatresutsfroma defect causingvenousocclsion contents trough the inguinal
-Fetention cyst oriritation inthetunica -_andeengorgement as well_—_canalnto the scrotum Varicocele
-vaginalis 2s arterial ischemia and Wen 2024
-stecton Figure 21. Varicocele
-Etiology 18%ofmen Multiple theories, Usual idiopathic Trauma Indirect through internal ing,
-Due to incompetent valves in including: Foundin 510% testicuar Cryptorcidism often intoscrotun): congenital
-the testicular veins Distalobstuction  tumous “Bellclpper deformity” Direct (hroughesternal
-80% let-sided Aneurysmal Associated with trauma/ — Manyoccuinsleep (60%) rng, rarelinto scrotum)
-dilations ofthe infection Necrosis oftestculartssue abdominal muscle weakness
-epididymis Communicating patent in 5-64
-Agglutnated germ processus vaginas, Ve)
-calls changes size during day
-tpediatrig Indications for Treatment of Varicocele
-Non-communicating: non- Impaired sperm qualty or quantity
-patent processus vaginal Pain or dull ache affecting QOL
-(edut) Affected testis fails to grow in adolescents
-HIE “Bagot worms” Non-tender, cystic Non-tender,intrascrotal Acute onsetsevere scotal small bulgein the groin Cee Indications (especially in
-Otten painless mass mass pain, swelling that may increase in szewith wa]
-Pulsates with Translluminates Cystic Glupsets cases Valsalva and disappear when
-Transiluminates Retractedand transverse Iyingdown
-testicle (orizontal lie Can present asa swollen or
-NegativePhren's sign enlarged scrotum
-Absent cemasterc reflex Discomfortor sharp
-
-Investigations P/E Pie UsStorule out tumour WS Doppler with robe over
-Valsava UStorule out testicular artery
-‘tumour Decrease uptake on99mfc-
-scan doughnut sign)
-Treatment Conservative Conservative Conservative Emergency surgical Surgical repair
-Surgical ligation of testicular Exciseit Needle drainage(bigh rate explorationand bilateral
-veins symptomatic ofrecurrence) cchiopexy
-Percutaneous vein occlusion Surgical Definitive diagnosis NOT
-(cols) necessary to take to OR
-Repair may improve sperm Orchiectomy ifabsent
-<ountimotilty restoration offlow totestcle
-
-ular Appendix
-+ twisting of testicular/epididymal vestigial appendix
-
-Signs and Symptoms
-+ clinically similar to testicular torsion, but vertical lie and cremaster reflex preserved
-+ “blue dot sign”
-= blue infarcted appendage seen through scrotal skin in children (can usually be palpated as small, tender
-lump)
--e 
-
-## Page 1563
-
-U33 Urology Toronto Notes 2025
-
-Treatment
-
-+ analgesia ~ most will subside over 5-7 d (a)
-
-+ surgical exploration and excision if refractory pain Acute scrotal swelling/pain in young boys is
-torsion until proven otherwise
-
-Hematocele
-
-+ trauma with bleed into tunica vaginalis ie)
-
-+ U/Shelpful to exclude fracture of testis which requires surgical repair Transilurination refers tolight being
-transmitted through tissue (i.e. due to
-
-Treatment excess fluid)
-
-+ ice packs, analgesics, surgical drainage, and hydrocele repair
-
-Penile Complaints Dire of a Benign Serta Mass
-
-His ITs,
-ir Hydrocele
-Table 24. Penile Complaints Infection (epididymitis/orchitis)
-Type Peyronie’ Disease Priapism Paraphimsis Phimosis Premature Fjaculation Sperm (spermatocele)
-Definition ‘Acquired curvature ofpenile Prolonged erection Retracted foreskin (behind Inability to etractforeskin Ejaculationprior to when Blood (hematocele)
-shaftsecondary to fibrous lasting >4h in the ‘glans penis) that cannot over glans penis ‘one or both partners desire Intestines (hernia)
-‘thickening of tunica albuginea —_absenceof sexual bereduced 4, either before or soon Torsion
-cexcitementdesire after intimacy SECO (EERE)
-Etiology Etiology unknown 50°sidiopathic Iatrogenic (post cleaning! Congenital (90% natural Psychological factors
-Traumafrepeated inflammation Ischemic (common}: instrumentation) separation byage 3) Primary: noperiodof
-Familial predisposition Thromboembolc (sickle Trauma Balantis axceptablecontol
-Associatedwith DM, vascular cell Infectious balanitis, Poor hygiene Secondary: symptoms after
-disease, autoimmunity, NonAschemic: balanopostitis), sexual aperid of contol, not
-Dupuyten’s contracture, Trauma activity associated with general
-erectile dysfunction, urethral Medications medial condition
-instrumentation Newrogenic
-HosPIE Penilecurvaturelshortening _Painfulerecions:signs Painful, swollen glans —_Limitationand pain when —_Ejaculatory latency <1 min
-Pain witherection of necrosis pens, foreskin attemptingto retract Iabiltyto contol or delay
-Poor erectiondistaltoplague Note:nonschemic —_Constiting band foreskin joailation
-(high ow priapism may proximal to corona Balanoposthitis(infection Psychological distress
-present without pain Dysuria, decreased of prepuce) e
-urinary stream inchilren
-Investigations Hand PIE Hix and PIE Hand PE Hirand PE HxandPie
-Cavernosal bloodgas Testosterone levels iin
-analysis Conjunction withimpotence
-Doppler US ofthe penis
-Treatment ‘Supportive measures: Treat reversible causes Manual pressure(with _Properygiene Rule out medical condition
-POES inhibitor for ED Highflow: analgesia) Topical cartcesteroids Address psychiatric
-NSAID for pain Selimited generally, Dorsal it Dorsal slit concerns, counseling
-Medical management: Consider arterial Circumcision urgent Grcumcision
-Traction device ‘embolization orelectiveto prevent
-Intralesional verapamil Loveflowe recurrence)
-Intralesional colagenase Needle aspirated
-Surgical management: Incision! decompression
-excision of plaque Phenylephrine
-Plication surgery intracorporel injection
-Penileprosthesis 35min
-Surgical shunt ino
-response
-
-Erectile Dysfunction
-
-Definition
-* consistent (>3 mo duration) or recurrent inability to obtain or maintain an adequate erection for
-satisfactory sexual performance
-
-Physiology 1. Fibrous plaque
-+ erection involves the coordination of psychologic, neurologic, hemodynamic, mechanical, and endocrine 2. Tunica albuginea
-components +3. Corpus cavernosum
-
-4, Buck's fascia
-5. Corpus spongiosum
-6. Urethra © June Li
-
-+ nerves: sympathetic (T11-L2), parasympathetic (S2-4), somatic (dorsal penile/pudendal nerves ($2-4))
-+ erection (“POINT”)
-= parasympathetics > NO release > increased cGMP within corpora cavernosa leading to:
-1, arteriolar dilatation Figure 22. Peyronie's disease
-2. sinusoidal smooth muscle relaxation > increased arterial inflow and compression of penile
-venous drainage (decreased venous outflow)
-+ emission (“SHOOT”)
-= sensory afferents from glans
-= secretions from prostate, seminal vesicles, and ejaculatory ducts enter prostatic urethra (sympathetics)
-
--e 
-
-## Page 1564
-
-U34 Urology
-
-+ ejaculation (“SHOOT”)
-= bladder neck closure (sympathetic)
-= spasmodic contraction of bulbocavernosus and pelvic floor musculature (somatic)
-+ detumescence
-= sympathetic nerves, norepinephrine, endothelin-1 > arteriolar and sinusoidal constriction > penile
-
-flaccidity
-Classification
-Table 25. Classification of Erectile Dysfunction
-
-Psychogenic” Organic”
-
-Prevalence Less common More common
-Onset Sudden Gradual
-Frequency Sporadic ‘Al circumstances
-Variation With partner and circumstance No
-Age Younger Older
-Organic Risk Factors (HTN, DM, dyslipidemia) No organic riskactors Risk factors present
-Nocturnal/Morning Erection Present Absent
-“Combination canco-east
-Diagnosis
-
-+ complete Hx (include sexual, medical, and psychosocial aspects)
-+ self-administered questionnaires (e.g, International Index of Erectile Function, Sexual Health Inventory for
-Men Questionnaire, ED Intensity Scale, ED Impact Scale, erection hardness scale)
-focused P/E, including vascular and neurologic examinations, secondary sexual characteristics
-+ lab investigations, dependent on clinical picture
-« risk factor evaluation: fasting blood glucose or HbAIc, cholesterol profile
-= optional: TSH, CBC, U/A, testosterone (free and total), prolactin, LH
-specialized testing including nocturnal penile tumescence monitoring usually unnecessary
-evaluation of penile vasculature only relevant with past history of trauma (e.g. pelvic fracture)
-
-Treatment
-+ can often be managed by family physician, see sidebar for when to refer
-+ consider early sexual counseling referral
-+ fully inform patient/partner of options, benefits and complications
-* non-invasive
-= lifestyle changes (alcohol, smoking, physical activity), psychological (sexual counseling and education)
-= change precipitating medications
-= treat underlying causes (DM, CVD, HTN, endocrinopathies)
-+ minimally invasive
-= oral medication (see Common Medications, U47)
-+ sildenafil, tadalafil, vardenafil, avanafil (not available in Canada): inhibits PDES to increase
-intracavernosal cGMP levels
-— all four have similar effectiveness, difference in onset of action is not clinically significant
-— tadalafil has longer half-life, no cyanopsia, and can be taken on empty or full stomach
-— tadalafil should be taken when needed instead of a set daily dose
-= vacuum devices: draw blood into penis via negative pressure, then put ring at base of penis
-= MUSE: male urethral suppository for erection ~ vasoactive substance (PGE1) capsule inserted into
-urethra
-some evidence supporting low-intensity shockwave therapy in appropriate candidates (generally
-nondiabetics and those who haven't had prostate surgery)
-= in patients with low testosterone, treat with dual testosterone and PDES inhibitor
-+ invasive
-= intracavernous vasodilator injection/self-injection
-= triple therapy (papaverine, phentolamine, PGE1), bimix (papaverine and phentolamine) or PGE1 alone
-= complications: priapism (overdose), fibrosis of tunica albuginea at site of repeated injections (Peyronie's
-plaque), and injection site injuries (pain, hematoma, etc.)
-+ surgical
-= penile implant: malleable or inflatable
-
-Toronto Notes 2025
-
-Erections POINT AND SHOOT
-parasympathetics = point
-sympathetics/somatics = shoot
-
-Etiology (“IMPOTENCE”)
-Iatrogenic: pelvic surgery, pelvic
-radiation
-
-Mechanical: Peyronie's, post-priapism
-Psychological: depression, stress,
-anxiety, PTSD, widower syndrome
-Occlusive: arterial HTN, DM, smoking,
-hyperlipidemia, PVD, impaired veno-
-occlusion
-
-Trauma: penile/pelvic, bicycling
-
-Extra factors: renal failure, cirrhosis,
-COPD, sleep apnea, malnutrition
-‘Neurogenic: CNS (e.g. Parkinson's, MS,
-spinal cord injury, Guillain-Barré, spina
-bifida, stroke), PNS (e.g. DM, peripheral
-neuropathy)
-
-Chemical: antihypertensives, sedatives,
-antidepressants, antipsychotics,
-anxiolytics, anticholinergics,
-antihistamines, antiandrogens (including
-5-areductase inhibitors), statins, GnRH
-agonists, ilicitdrugs
-
-Endocrine: DM, hypogonadism,
-hyperprolactinemia, hypo/hyperthyroid
-
-Testosterone deficiency is an uncommon
-cause of ED
-
-PDES inhibitors are contraindicated in
-patients on nitratesinitroglycerin due to
-severe hypotension
-
-Initial trial of MUSE® or intracavernosal
-injection should be done under medical
-supervision
-
-Penile vascular abnormalities may be a
-marker of risk for CV disease. Young men
-with vascular ED have 50x higher risk of
-having a CV event
--e 
-
-## Page 1565
-
-U35 Urology
-
-« see Emergency Medicine, ER7
-
-Renal Trauma
-
-Classification According to Severity
-+ minor
-= contusions and superficial lacerations/hematomas: 90% of all blunt traumas, surgical exploration
-seldom necessary
-+ major
-« laceration that extends into medulla and collecting system, major renal vascular injury, shattered
-kidney
-
-Etiology
-+ 80% blunt (MVC, assaults, falls) vs. 20% penetrating (stab wounds and gunshots)
-
-al Features
-
-mechanism of injury raises suspicion
-
-can be hemodynamically unstable secondary to renal vascular injury and/or other sustained injuries: ABCs
-
-upper abdominal tenderness, flank tenderness, flank contusions, lower rib/vertebral transverse process
-racture
-
-Investigations
-+ labs
-= U/A: hematuria requires workup, but degree does not correlate with the severity of injury
-= standard trauma labs (CBC and comprehensive metabolic panel)
-+ imagin;
-. cr (contrast, triphasto) if patient stable: look for renal laceration, extravasation of contrast,
-retroperitoneal hematoma, and associated intra-abdominal organ injury
-
-Staging (does not necessarily correlate well with clinical status)
-
-+ I:contusion/hematoma
-
-<1 cm laceration without urinary extravasation
-
-+ III: >1 cm laceration without urinary extravasation
-
-+ IV: laceration causing urinary extravasation and/or main arterial or vein injury with contained hematoma
-+ V: shattered kidney or avulsion of pedicle
-
-Treatment
-* microscopic hematuria + isolated well-staged minor injuries > no hospitalization
-+ gross hematuria + contusion/minor lacerations > hospitalize, bedrest, repeat CT if bleeding persists
-+ surgical intervention/minimally invasive angiography and embolization (majority now managed
-conservatively, nonoperatively)
-= absolute indications
-+ hemorrhage and hemodynamic instability
-
-« relative indications
-non-viable tissue and major laceration
-urinary extravasation
-vascular injury
-expanding or pulsating perirenal mass
-laparotomy for associated injury
-+ follow-up with U/S or CT before discharge, and at 6 wk
-
-.
-
-eeee
-
-Complications
-+ HTN in 5% of renal trauma
-
-Bladder Trauma
-
-Classification
-
-contusions: no urinary extravasation, damage to mucosa or muscularis
-intraperitoneal ruptures: often involve the bladder dome
-
-extraperitoneal ruptures: involve anterior or lateral bladder wall in full bladder
-
-Etiology
-+ blunt (MVC, falls, and crush injury) vs. penetrating trauma to lower abdomen, pelvis, or perineum
-+ blunt trauma is associated with pelvic fracture in 97% of cases
-
-Toronto Notes 2025
--e 
-
-## Page 1566
-
-U36 Urology Toronto Notes 2025
-
-Clinical Features
-
-+ abdominal tenderness, distention, peritonitis, and inability to void
-
-+ can be hemodynamically unstable secondary to pelvic fracture, other sustained injuries: ABCs
-+ suprapubic pain
-
-Investigations
-+ U/A: gross hematuria in 90% of cases
-+ imaging (including CT cystogram and post-drainage films for extravasation)
-
-Treatment
-
-+ penetrating trauma > surgical exploration
-
-+ contusion > urethral catheter until hematuria completely resolves
-
-+ extraperitoneal bladder perforations > typically non-operative with Foley insertion, and follow with
-
-cystograms
-= surgery if: infected urine, rectal/vaginal perforation, bony spike into bladder, laparotomy for
-
-concurrent injury, bladder neck involvement, persistent urine leak, and failed conservative
-management
-
-+ intraperitoneal rupture usually requires surgical repair and suprapubic catheterization
-
-Complications
-+ complications of bladder injury itself are rare
-+ mortality is around 20%, and is usually due to associated injuries rather than bladder rupture
-
-Urethral Injuries
-
-Etiology
-+ posterior urethra
-= common site of injury is junction of membranous and prostatic urethra due to blunt trauma, MVCs,
-pelvic fracture
-= shearing force on fixed membranous and mobile prostatic urethra
-+ anterior urethra
-= straddle injury can crush bulbar urethra against pubic rami
-+ other causes
-= iatrogenic (instrumentation, prosthesis insertion), penile fracture, masturbation with urethral
-manipulation
-+ always look for associated bladder rupture
-
-+ blood at urethral meatus
-
-+ high-riding prostate on DRE
-
-+ swelling and butterfly perineal hematoma
-+ penile and/or scrotal hematoma
-sensation of voiding without U/O
-
-+ distended bladder
-
-Investigations ie)
-
-+ generally will perform RUG or cystoscopy prior to attempt at catheterization a
-should undergo RUG
-
-Treatment
-+ simple contusions
-= no treatment
-+ partial urethral disruption
-= very gentle attempt at catheterization by urologist
-= with no resistance to catheterization > Foley x 2-3 wk
-= with resistance to catheterization > suprapubic cystostomy or urethral catheter alignment
-+ periodic flow rates/urethrograms to evaluate for stricture formation
-+ complete disruption
-= immediate repair if patient stable, delayed repair if unstable (suprapubic tube in interim)
-
-Complications
-+ stricture
--e 
-
-## Page 1567
-
-+ failure to conceive after 1 yr of unprotected and properly timed intercourse
-+ incidence
-= 15% of all couples (35-40% female, 20% male, 25-30% combined)
-
-Female Factors
-« see Gynecology, GY23
-
-Male Factors
-
-Male Reproduction
-+ HPTA
-« pulsatile GnRH from hypothalamus acts on anterior pituitary stimulating release of LH and FSH
-= LHacts on Leydig (interstitial) cells > testosterone synthesis and secretion
-= FSH acts on Sertoli cells > structural and metabolic support to developing spermatogenic cells
-«= FSH and testosterone support germ cells (responsible for spermatogenesis)
-= sperm route: epididymis > vas deferens > ejaculatory ducts > prostatic urethra
-
-Etiology
-. idiopathic (40-50% infertile males)
-+ testicular
-varicocele (35-40% infertile males)
-tumour
-congenital (Klinefelter’s triad: small, firm testes, gynecomastia, and azoospermia)
-post-infectious (epididymo-orchitis, STIs, viral orchitis especially mumps)
-uncorrected torsion
-cryptorchidism (<5% of cases)
-obstructive
-
-= iatrogenic (surgery: see below)
-infectious (gonorrhea, chlamydia)
-trauma
-congenital (absence of vas deferens, CF)
-bilateral ejaculatory duct obstruction, epididymal obstructions
-Kartagener’s syndrome (autosomal recessive disorder causing defect in action of cilia)
-endocrine (see Endocrinology, E51)
-HPTA (2-39%) e.g. Kallmann’s syndrome (congenital hypothalamic hypogonadism), excess prolactin, excess
-androgens, excess estrogens
-+ other
-
-= retrograde ejaculation secondary to surgery or medications
-
-= medications
-prior exposure to chemotherapy or pelvic radiation
-drugs: cannabis, cocaine, tobacco, alcohol
-increased testicular temperature (sauna, hot baths, tight pants, or underwear)
-chronic disease: e.g. liver, renal
-
-History
-
-+ age of both partners
-
-|: past illness, DM, trauma, CF, genetic syndromes, STIs, cryptorchidism
-
-asectomy, herniorrhaphy, orchidopexy, prostate surgery
-
-fertility: pubertal onset, previous pregnancies, duration of infertility, treatments
-
-sexual: libido, erection/ejaculation, timing, frequency
-
-FMHx
-
-+ medications: cytotoxic agents, GnRH agonists, anabolic steroids, nitrofurantoin, cimetidine, sulfasalazine,
-spironolactone, a-blockers
-
-social Hx: alcohol, tobacco, cocaine, cannabis, school performance/earning disabilities (suggestive of
-
-Klinefelter syndrome)
-
-+ occupational exposures: radiation, heavy metals
-
-Physical Exam
-
-+ general appearance: sexual development, gynecomastia, obesity, pubic hair
-
-+ scrotal exam: size, consistency, and nodularity of testicles; palpation of cord for presence of vas deferens;
-DRE; valsalva for varicocele
-
-Toronto Notes 2025
-
-Common Terminology on SA
-Teratospermia: Abnormal morphology
-Asthenospermia: Abnormal motility
-Oligospermia: Decreased sperm count
-Azoospermia: Absent sperm in semen
-Mixed types: e.g, oligoasthenospermia
-
-Mutation of cystic fibrosis transmembrane
-conductance regulator (CFTR) gene is
-associated with congenital bilateral
-absence of vas deferens and epididymal
-cysts, even if patient manifests no
-symptoms of CF
-
-WHO Guidelines
-Male Infertility Factors
-
-‘SPERM COUNT
-‘Systemic factor/Smoking
-Psychological illness
-Endocrinopathy
-Retrograde ejaculation
-Medications
-
-Chronic disease
-Obstructive
-Unexplained
-
-Narcotics
-
-Testicular
-
-Normal Semen Values
-
-Volume: 1.5-7.6 ml.
-
-Concentration: >15 milion sperm/mL
-Morphology: 30% normal forms
-Motility: >40% adequate forward
-progression
-
-Liquefaction: complete in 20 min
-pH:72-78
-
-WBC: <10/HPF or <106 WBC/mL semen
-
-Hypo-gonadal patients interested infertility
-preservation should be cautioned against
-the isolated use of exogenous testosterone
-and be counseled to pursue treatments that
-increase endogenous serum testosterone
-production
--e 
-
-## Page 1568
-
-U38 Urology
-
-Investigations
-+ SA22specimens, collected 1-2 wk apart
-+ hormonal evaluation
-« indicated with abnormal SA (rare to be abnormal with normal SA)
-= testosterone and FSH
-= serum LH and prolactin are measured if testosterone or FSH are abnormal
-genetic evaluation
-= chromosomal studies (Klinefelter syndrome - XXY)
-= genetic studies (Y-chromosome microdeletion, CF gene mutation)
-immunologic studies (antisperm antibodies in ejaculate and blood)
-testicular biopsy
-scrotal U/S (varicocele, testicular size)
-vasography (assess patency of vas deferens)
-
-Treatment
-+ assessment of partner
-+ lifestyle
-= regular exercise, healthy diet
-= eliminate alcohol, tobacco, and illicit drugs
-+ medical
-= endocrine therapy (see Endocrinology, E51)
-= treat retrograde ejaculation
-= discontinue anti-sympathomimetic agents, may start a-adrenergic stimulation (phenylpropanolamine,
-pseudoephedrine, or ephedrine)
-= treat underlying infections
-+ surgical
-= varicocelectomy (if indicated)
-= vasovasostomy (vasectomy reversal) or epididymovasostomy
-= transurethral resection of blocked ejaculatory ducts
-+ assisted reproductive technologies (ART)
-= refer to infertility specialist
-sperm washing + intrauterine insemination (IUI)
-in vitro fertilization (IVF)
-intracytoplasmic sperm injection (ICSI) after CF screening of patient and partner in patients with
-congenital bilateral absence of vas deferens
-
-Biateraltesticular | Normal or unilateral
-‘atrophy testicular atrophy
-
-+e for spem_| -ve forsperm
-
-‘Abnormal anatomy | Normal anatomy
-
-Figure 23. Infertility workup
-Note: azoospermic patients with normal FSH may be assumed tobe obstructive without a testicular biopsy
-
-Toronto Notes 2025
--e 
-
-## Page 1569
-
-39 Urology
-
-Testosterone Deficiency
-
-« see Endocrinology, E51
-
-ical Features
-
-+ sexual: decreased libido, delayed ejaculation, reduced ejaculate volume, decreased orgasm intensity, erectile
-dysfunction, loss of morning erections, infertility
-
-+ cognitive: fatigue, mood changes, depression, insomnia, irritability
-
-+ physical: decreased energy, anemia, gynecomastia, hot flashes, decreased muscle mass and increased
-visceral body fat, osteopenia, testicular atrophy, loss of androgenic hair
-
-Diagnosis
-+ clinical features + total testosterone (morning draw) <10 nmol/L
-+ LH to rule out causes of secondary hypogonadism
-
-Treatment Considerations
-+ see Endocrinology, E51
-+ goal: improve quality of life and reduce clinical features (including anemia and osteopenia) while achieving
-eugonadal testosterone
-+ ifclinical features with normal testosterone
-= rule out depression, hypothyroidism, sleep disorders
-= consider measuring sex-hormone binding globulin and determine free/total testosterone ratio
-= supervised trial of testosterone therapy for three months if low-normal but not if mid-range (injectable,
-oral, transdermal patch)
-+ iflow testosterone without clinical features
-= consider other diagnoses: anemia, sarcopenia, chronic glucocorticoid/opioid use, HIV as indications for
-treatment
-= use of off-label human chorionic gonadotropin or selective estrogen receptor modulators, in men with
-testosterone deficiency desiring to maintain fertility.
-+ inall patients treated with exogenous testosterone: monitor symptoms, adverse events, serum testosterone,
-hematocrit, and PSA at 3, 6, and 12 mo, then qlyr, DRE recommended at baseline and qlyr
-+ absolute contraindications: male breast cancer, desiring fertility, advanced or metastatic prostate cancer
-
-Pediatric Urology
-
-Congenital Abnormalities
-
-* not uncommon; | in 200 have congenital abnormalities of the GU tract
-+ six common presentations of congenital urological abnormalities
-
-41. ANTENATAL HYDRONEPHROSIS
-
-Epidemiology
-
-+ 1-5% fetal U/S, some detectable as early as first trimester
-
-+ most common urological consultation in perinatal period and one of most common U/S abnormalities of
-pregnancy
-
-Differential Diagnosis
-
-transient primary hydronephrosis
-
-UPJ obstruction
-
-VUR
-
-UV] obstruction or primary non-obstructive megaureter
-ureterocele
-
-ectopic ureter
-
-causes of megacystitis (e.g. PUV, Prune Belly syndrome)
-
-Treatment
-+ antenatal in utero intervention rarely indicated unless evidence of lower urinary tract obstruction with
-oligohydramnios
-+ ABx prophylaxis at birth to reduce UTI rates is controversial but may be beneficial to infants with high
-grade hydronephrosis, dilated ureter, or bladder abnormality
-= commonly used ABx include: amoxicillin, cephalexin, and trimethoprim
-
-Toronto Notes 2025
-
-‘SFU Grading of Hydronephrosis,
-Grade 0
-
-No dilation, calyceal walls are opposed to
-eachother
-
-Grade 1 (mild)
-
-Dilation of renal pelvis without dilation of
-the calyces
-
-'No parenchymal atrophy
-
-Grade 2 (mild)
-
-Dilation of renal pelvis and calyces
-(pelvicalyceal patter is retained)
-
-‘No parenchymal atrophy
-
-Grade 3 (moderate)
-
-Moderate dilation of renal pelvis and
-calyces
-
-Mild calyceal thinning, blunting of fornices,
-
-Note: SFU grading should besupplemented with UTD
-grading to address theshortcomings of ths grading
-system
-
-‘Alexandra Ho 2022
-
-Figure 24. SFU grading (based on
-ultrasound)
--e 
-
-## Page 1570
-
-u40 Urology
-2. POSTERIOR URETHRAL VALVES
-
-Epidemiology
-+ the most common congenital obstructive urethral lesion in male infants
-
-Pathophysiology
-+ abnormal mucosal folds at the distal prostatic urethra causing varying degrees of obstruction
-
-Clinical Features
-
-+ dependent on age
-
-antenatal: bilateral hydronephrosis, distended bladder, oligohydramnios
-
-= neonatal (recognized at birth): palpable abdominal mass (distended bladder, hydronephrosis), urinary
-ascites (transudation of retroperitoneal urine), respiratory distress (pulmonary hypoplasia from
-oligohydramnios), weak urinary stream
-
-neonatal (not recognized at birth): within days to weeks present with urosepsis, dehydration,
-electrolyte abnormalities, failure to thrive; rule out pyloric stenosis, which may present similarly
-«= toddlers: UTIs or voiding dysfunction
-
-school-aged boys: voiding dysfunction > urinary incontinence
-
-+ associated findings include renal dysplasia and secondary VUR
-
-Investigations
-
-+ most commonly recognized on prenatal U/S > bilateral hydronephrosis, thickened and trabeculated
-bladder, dilated posterior urethra (“keyhole sign”), oligohydramnios in a male fetus
-
-+ VCUG » dilated and elongated posterior urethra, trabeculated bladder, VUR
-
-Treatment
-
-+ immediate catheterization to relieve obstruction, followed by cystoscopic resection of PUV when baby is
-stable
-
-+ if resection of PUV is not possible, vesicostomy is indicated
-
-3. URETEROPELVIC JUNCTION OBSTRUCTION
-
-Etiology
-+ unclear: adynamic ureteral segment, stenosis, strictures, extrinsic compression, aberrant blood vessels
-+ can rarely be secondary to tumour, stone, etc. in children
-
-Epidemiology
-
-+ the most common congenital defect of the ureter
-
-+ M:F=2:1
-
-+ up to 40% bilateral, which may be associated with worse prognosis
-
-Clinical Features
-+ symptoms depend on severity and age at diagnosis (mostly asymptomatic finding on antenatal U/S)
-« infants: abdominal mass, urinary infection
-= children: pain, vomiting, failure to thrive
-+ some cases are diagnosed after puberty and into adulthood
-» in adolescents and adults, the symptoms may be triggered by episodes of increased diuresis, such as
-following alcohol ingestion (Dietl’s crisis)
-
-Investigations
-+ antenatal: serial U/S most common, and renal scan with furosemide
-
-Treatment
-+ surgical correction (pyeloplasty), consider nephrectomy if <15% differential renal function
-
-4. VESICOURETERAL REFLUX
-
-Definition
-+ retrograde passage of urine from the bladder, through the UVJ, into the ureter
-
-Classification
-
-+ primary reflux: incompetent or inadequate closure of UV}
-« lateral ureteral insertion, short submucosal segment
-
-+ secondary reflux: abnormally high intravesical pressure resulting in failure of UVJ closure
-= often associated with anatomic (PUV) or functional (neuropathic) bladder dysfunction
-
-Epidemiology
-
-+ estimated ~1% of newborns, but not well known
-
-+ incidence and clinical relevance higher in children with febrile UTIs and prenatal hydronephrosis
-+ risk factors: race (white > black), female gender, age (<2 yr), genetic predisposition
-
-Toronto Notes 2025
-
-Majority of antenatal hydronephroses
-resolve during pregnancy or within the first
-year of life
-
-UR Grading (based on cystogram)
-Grade I: ureters only fill
-
-eters and pelvis fil
-
-‘ureters and pelvis fill with some
-
-Grade IV: ureters, pelvis, and calyces fill
-with significant dilatation
-
-Grade V: ureters, pelvis, and calyces fill
-with major dilatation and tortuosity
-
-7 ee
-© Merry Wang
-
-Figure 25. VUR grading
-(based on cystogram)
--e 
-
-## Page 1571
-
-U4l Urology
-
-Investigations
-+ focused Hx, particularly of voiding dysfunction (frequency, urgency, diurnal enuresis, constipation,
-encopresis)
-= also screen for infections (UTI, pyelonephritis, urosepsis) and renal failure (uremia, HTN)
-initial evaluation of renal status, growth parameters, and blood pressure is warranted in any child with
-VUR due to relatively high incidence of renal scarring
-height, weight, blood pressure
-serum Cr
-= U/A, C&S
-= renal U/S
-= DMSA renal scan if at high-risk (greater sensitivity in detecting structural defects associated with
-dysplasia, renal scarring, or pyelonephritis; entails radiation exposure)
-= sibling family screening is controversial
-+ diagnose VUR and determine grade with VCUG
-
-Treatment
-+ spontaneous resolution in 60% of primary reflux
-«= in lower grades (I-III), goal is to prevent infection or renal damage via medical treatment
-+ medical treatment: daily ABx prophylaxis at half the treatment dose for acute infection
-+ (see Table 8, U13 - TMP/SMX, trimethoprim, amoxicillin, or nitrofurantoin)
-+ surgical treatment: ureteral reimplantation + ureteroplasty, or subureteric injection with bulking agents
-(Deflux® or Macroplastique’)
-= indications include failure of medical management, renal scarring (e.g. renal insufficiency, HTN),
-breakthrough UTIs, persistent high grade (IV or V) reflux
-
-5. HYPOSPADIAS
-
-Definition
-
-+ acondition in which the urethral meatus opens on the ventral side of the penis, proximal to the normal
-location in the glans penis
-
-+ depending on severity, may result in difficulty directing urinary stream, having intercourse, or depositing
-sperm in vagina
-
-Epidemiology
-
-+ very common; 1 in 300 live male births
-
-+ distal hypospadias more common than proximal
-
-+ prevalence: white >black
-
-+ may be associated with ventral penile curvature, disorders of sexual differentiation, undescended testicles,
-or inguinal hernia
-
-Treatment
-+ early surgical correction; optimal repair before 2 yr
-* neonatal circumcision should be deferred because the foreskin may be utilized in the correction
-
-6. EXSTROPHY-EPISPADIAS COMPLEX
-
-Definition
-+ aspectrum of defects depending on the timing of the rupture of the cloacal membrane
-= bladder exstrophy: congenital defect of a portion of lower abdominal and anterior bladder wall, with
-exposure of the bladder lumen
-= cloacal exstrophy
-+ exposed bladder and bowel with imperforate anus
-+ associated with spina bifida in >50%
-= epispadias (least severe)
-¢ urethra opens on dorsal aspect of the penis, often associated with penile curvature
-
-Etiology
-+ represents failure of closure of the cloacal membrane, resulting in the bladder and urethra opening directly
-through the abdominal wall
-
-Epidemiology
-+ rare: incidence 1 in 30,000, M:F=3:1 predominance
-+ high morbidity > multiple reconstructive surgeries, incontinence, infertility, reflux
-
-Treatment
-+ surgical correction at birth
-+ later corrections for incontinence, VUR, and low bladder capacity may be needed
-
-Toronto Notes 2025
-
-a
-
-Antimicrobial Prophylaxis for Children with
-Vesicoureteral Reflux
-
-NEM 2014;370:23672376
-
-Purpose: To determine whether long-term
-antimicrobial prophylaxisis effective in preventing
-recurrences of UT and reducing the Hkethood of renal
-scarring.
-
-Methods: 2yrmuitcentreplaebo- controled RCT
-iwovin 67 children with vesioureteral refx
-ingnsed after a fist or second symptomatic
-‘UMlrandomied to receive ether trimethoprin-
-sulfamethoxazole ora placebo
-
-Results: Prophylaxis reduced the risk of recurrences by
-50% and was particulary effective in chen whose
-indexinfetion was febrile andin those with baseline
-badder and bowel dstunction, The ocurenceof
-renal caring didnot fr significantly between the
-two groups.
-
-Condusions: Antibiotic rophyfans given to children
-with vesioureteral efluxatera UTI resuedina
-‘eduction of subse quent UTs, but wasnotasociated
-with reduced risk of enalscaring.
-
-Glanular*
-Coronal’
-Subcoronal
-
-Distal Penile
-
-Midshatt
-
-Proximal Penile
-
-© Leslie Predy
-
-Figure 26. Classification of
-hypospadias (‘account for 75%)
-
-Defer circumcision in patients with
-hypospadias
--e 
-
-## Page 1572
-
-u42 Urology Toronto Notes 2025
-
-Wilms’ Tumour (Nephroblastoma)
-
-Definition
-+ embryonal tumour developing from immature kidney cells that interferes with normal tubular and
-glomerular differentiation
-
-Etiology
-+ arises from abnormal proliferation of metanephric blastema (one of two embryological structures giving
-rise to the kidneys)
-
-logy
-): 5% of all childhood cancers, 5% bilateral, 10% associated with congenital malformation syndromes
-+ most common primary malignant renal tumour of childhood
-+ average age of incidence is 3.5 yrs
-
-al Features ie)
-
-+ abdominal mass: large, firm, unilateral (80%) Aesodated Syndromes of Wilms’ Tumour
-© HTN (25%) 1
-
-+ flank tenderness (30-40%) Wilms’ aniridia genital anomaly retardation
-+ microscopic hematuria (12-25%) ‘Beckwith-Wiedemann syndrome
-
-+ nausea/vomiting Denys-Drash syndrome
-Treatment
-
-+ always investigate contralateral kidney and renal vein (for tumour thrombus)
-+ unilateral disease: radical nephrectomy or nephron: sparing surgery + radiation + chemotherapy
-+ bilateral disease: nephron-sparing surgery following neoadjuvant chemotherapy
-
-Prognosis
-+ 5 yr survival 90%
-+ Syr recurrence 15%
-
-Cryptorchidism/Ectopic Testes
-
-Definition
-+ abnormal location of testes somewhere along the normal path of descent (external inguinal ring > inguinal
-canal > abdominal) ie)
-
-+ Denis Browne pouch (between external oblique fascia and Scarpa’s fascia) most common
-+ differential diagnosis: pe Development and
-
-= retractile testes 2nd mo: Testicle begins to form
-
-= atrophic testes ‘4th mo: Begins to take on its normal
-
-« disorders of sexual differentiation (bilateral impalpable gonads) appearance and migrates from its origin at
-
-the kidney to the internal inguinal ring
-
-Epidemiolo: 7th mo: The testis, surrounded in
-
-+ 1,0-4,6% on tll term newborns, increased risk in preterms panera eon ea
-
-= o7.0%atl yr ough the internal ring, inguinal canal,
-y! ‘and external ring to terminate in the
-
-scrotum
-
-Clinical Features
-
-+ empty or poorly rugated scrotum
-
-bilateral in 10% of cases
-
-at least one testis nonpalpable in 20% of patients
-
-most undescended testes at birth complete descent within first 4 mo of life
-
-Treatment
-+ orchiopexy
-+ hormonal therapy not proven to be of benefit over standard surgical treatment
-
-Prognosis
-+ reduction in fertility
-= untreated bilateral cryptorchidism: ~100% infertility, due to Leydig and germ cell loss
-= paternity rates: 33-65%, 90%, and 93% in formerly bilateral cryptorchid, formerly unilateral
-cryptorchid, and normal men, respectively
-+ increased malignancy risk
-= intra-abdominal > inguinal
-= surgical correction facilitates testicular monitoring and may reduce malignancy risk
-+ increased risk of testicular torsion (reduced by surgical correction)
-
-Disorders of Sexual Differentiation
-
-Definition
-+ formerly known as intersex disorders: considered social emergency
-+ abnormal genitalia for chromosomal sex due to the under-virilization of males or the virilization of females
--e 
-
-## Page 1573
-
-43 Urology Toronto Notes 2025
-
-Classification
-+ 146XYDSD
-. defect in testicular synthesis of androgens Reneren sealer encore
-= an rogen resistance in target tissues bilateral non-palpable testicles should be
-= palpable gonad considered 46 XX with salt-wasting CAH
-+ 2.46XX DSD and must undergo proper evaluation prior
-= most due to CAH (21-hydroxylase deficiency most common enzymatic defect) > shunt in steroid to discharge
-
-biosynthetic pathway leading to excess androgens
-= undiagnosed and untreated CAH can be associated with life-threatening electrolyte abnormalities in
-the newborn (salt-wasting CAH)
-+ 3. ovotesticular DSD
-+ 4, mixed gonadal dysgenesis (46 XY/45 XO most common karyotype)
-= presence of Y chromosome + partial testis determination to varying degrees
-
-Clinical Features
-1.46 XY DSD
-= micropenis
-= undescended testes (cryptorchidism)
-= hypospadias
-= incomplete development of male secondary sexual characteristics
-2.46 XX DSD
-= enlarged clitoris
-= partially fused labial folds
-= prominent urogenital sinus
-= excess androgen production
-«= delayed or absent menstruation
-Diagnosis
-. thorough FM Hx noting any consanguinity
-+ maternal Hx, especially medication) drug use during pregnancy (maternal hyperandrogenemia)
-+ P/E: palpable gonad (= chromosomal male), hyperpigmentation, evidence of dehydration, HTN, stretched
-enile length, position of urethral meatus
-+ laboratory tests
-= plasma 17-OH-progesterone (after 36 h of life) > increased in CAH
-. plasma 11-deoxycortisol > increased in 11-6-hydroxylase deficiency
-« basal adrenal steroid levels
-= serum testosterone and DHT pre- and post-hCG stimulation (2000 I U/d for 4 d)
-= serum electrolytes
-= chromosomal evaluation including sex karyotype
-+ U/Sofadrenals, gonads, uterus, and fal ian tubes
-+ endoscopy and genitography of urogenital sinus
-
-Treatment
-+ steroid supplementation as indicated (e.g. CAH)
-+ sex assignment after extensive family consultation
-= must consider capacity for sexually functioning genitalia in adulthood, fertility potential, and
-psychological impact
-+ reconstruction of external genitalia between 6 and 12 mo
-+ long-term psychological guidance and support for both patient and family
-
-Enuresis
-
-« see Pediatrics, P12
-
-Bladder and Bowel Dysfunction
-
-Definition
-+ bladder and bowel dysfunction describes voiding and defecation symptoms without a neurogenic or
-anatomic cause
-
-Clinical Features
-
-+ storage symptoms (urgency, frequency, urge incontinence)
-+ voiding symptoms (hesitancy, slow flow, intermittency)
-
-+ gastrointestinal symptoms (constipation and encopresis)
-
-Treatment
-+ stool softeners (ie. polyethylene glycol 3350)
-urotherapy and bladder retraining
-pelvic floor physiotherapy
-anticholinergics (solifenacin, propiverine, tolterodine)
-neuromodulation via transcutaneous electrical nerve stimulation
--e 
-
-## Page 1574
-
-u44 Urology
-
-Selected Urological Procedures
-
-Bladder Catheterization
-
-+ catheter size measured by the French (Fr) scale - circumference in mm (30 Fr = 1 cm diameter)
-+ each 1 mm increase in diameter = approximately 3 Fr increase (standard size 14-18 Fr)
-+ should be removed as soon as possible to reduce the risk of UTI
-
-Continuous Catheterization
-
-+ indications
-
-accurate monitoring of U/O
-
-relief of urinary retention due to medication, neurogenic bladder, or intravesical obstruction
-temporary therapy for urinary incontinence
-
-perineal wounds
-
-clot prevention (22-24 Fr) for CBI
-
-intra- and postoperative
-
-comfort for end of life care
-
-Alternatives to Continuous Catheterization
-+ intermittent catheterization
-= PVR measurement
-= to obtain sterile diagnostic specimens for U/A, urine C&S
-= management of neurogenic bladder or chronic urinary retention
-+ condom catheter
-+ suprapubic catheter
-
-Causes of Difficult Catheterizations and Treatment
-
-patient discomfort > use sufficient lubrication (+ xylocaine)
-
-collapsing catheter > lubrication as above + firmer or larger catheter (silastic catheter)
-meatal/urethral stricture > dilate with progressively larger catheters/balloon catheter
-
-traumatic injury: repeated prior attempts at catheterization have created traumatic false passage
-BPH > use Coudé catheter as angled tip can help navigate around enlarged prostate (always angle up/
-anteriorly)
-
-urethral disruption/obstruction > filiform and followers or suprapubic catheterization
-
-anxious patient > anxiolytic medication
-
-Complications of Catheterization
-+ infection: UTI, bladder fistula, bladder perforation (rare)
-+ meatal/urethral trauma
-
-Contraindications
-+ trauma: blood at the urinary meatus, scrotal hematoma, pelvic fracture, and/or high riding prostate
-
-Circumcision
-
-Definition
-+ removal of some or all of the foreskin from the penis
-
-Epidemiology
-+ 30% worldwide
-+ frequency varies with geography, religious affiliation, socioeconomic status
-
-Medical Indications
-
-+ pathological phimosis and recurrent paraphimosis
-
-+ recurrent UTIs (particularly in infants and in association with other urinary abnormalities)
-+ balanitis xerotica obliterans or other chronic inflammatory conditions
-
-Contraindications
-
-+ unstable or sick infant
-
-+ congenital genital abnormalities (hypospadias, epispadias, penoscrotal webbing, concealed penis, ventral
-curvature); may need foreskin to aid in reconstruction
-
-+ FMHx of bleeding disorders warrants investigation prior to circumcision
-
-Complications
-
-+ early: bleeding, infection, glans injury, amputation, slippage of circumcision device, rarely death
-
-+ late: redundant foreskin, cosmetic issues, inclusion cysts, adhesions/skin bridges, suture sinus tracts,
-ventral curvature, secondary buried penis, phimosis, fistula, meatal stenosis
-
-+ 0.6-2% complication rate
-
-Toronto Notes 2025
-
-Coudé tip
-
-Inflation port
-
-— urine:
-‘Two-way Foley
-
-Inflation port
-
-— Urine
-
-Irrigation port
-Three-way Foley
-
-© Tobi Lam
-
-Figure 27. Transurethral (Foley)
-catheters
-
-Newborn Male Greumcsion
-
-Paediatr Child Health 201520 31.315
-
-‘Stuy: Postion Statement by the Canadian pediatric
-Society (CP) reaffrmed Feb 28,2018
-Recommendations: With the exception of some high
-‘isk populations and drcumstances where circumcision
-' indicated for disease prevention, reduction andlor
-treatment, the routine circumcision of every newborn
-rmakisnotrecommended.
-
-)
-
-Male Circumcision for Prevention of Heterosexual
-Acquisition of Vin Men
-
-Cochrane DBSyst Rey 2009;2:C0003362
-
-Purpose: To evaluate theefectiveness and safety of
-male crcumesion fr preventing acquistion of HIVin
-heterosemsalmen
-
-Methods: MEDLINE, EMBASE and CENTRAL electronic
-journal and trl databases were searched toidentty
-relevant RTson mae cicumdsonversusno
-crumdsionin HV-negativeheteroseral men with HIV
-incidence asthe primary outcome
-
-Results: Medical male circumsion reduces the
-acquisition of IVbyheteraserual men (38-66%
-
-cover 24m. Additionally, the incidence of averse
-events following surgical circumcision waslowinall
-othe RCs.
-
-Conclisions: Induson of malecrcumcision into
-carrent HW prevention measures guideinesis
-warranted based on the reduced rats of HIV acquisition
-and ow adverseeventsassocated with the procedure
-
--e 
-
-## Page 1575
-
-u45, Urology
-
-Vasectomy
-
-Objective
-+ permanent form of contraception with high probability of reversibility
-
-no-scalpel vasectomy has lower risks of carly postoperative complications than conventional vasectomy
-fascial interposition and cautery of the vas deferens reduce risk of contraceptive failure
-post-vasectomy semen analyses at approximately 3and4mo
-other contraceptive methods should be used ost vasectomy until one azoospermic ejaculate or two
-consecutive ejaculates with <100,000 immotile spermatozoa
-
-Indications
-+ fully informed patient desiring permanent surgical sterilization
-
-Complications
-
-+ early: infection (0.2-1.5%), bleeding or hematoma (4-20%), primary surgical failure due to recanalization or
-
-technical failure (0.2-5%)
-
-late: chronic scrotal pain (1-14%), delayed vasectomy failure (0.05-1%)
-+ risk of pregnancy after vasectomy is ~0.1%
-
-+ sperm granuloma and congestive epididymitis
-
-Post-vasectomy Follow-up
-+ 1 (or 2) semen analyses at 3 (or 4) mo post-vasectomy
-+ abandon contraception: if azoospermic or <100,000 immotile sperm at any time post-vasectomy
-
-+ re-do vasectomy: if >100,000 immotile sperm or motile sperm on repeat semen analysis 4-8 wk after initial
-
-Cystoscopy
-
-Objective
-
-+ endoscopic inspection of the lower urinary tract (urethra, prostate, bladder, and ureteral orifices), samples
-
-for cytology
-
-scopes can be flexible or rigid
-
-done under local anesthesia only for vast majority, with no special preparation needed (no NPO, no
-antibiotics)
-
-Indications
-
-hematuria
-
-LUTS (storage or voiding)
-
-urethral and bladder neck strictures
-
-bladder stones
-
-bladder tumour surveillance
-
-evaluation of upper tracts with retrograde pyelography (ureteric stents, catheters)
-
-Complications
-+ during procedure (very rare)
-« bleeding
-= anesthetic-related
-= perforation (rare)
-+ post-procedure (short-term)
-= infections (antibiotic prophylaxis recommended only for high-risk, immunosuppressed)
-= urinary retention
-+ post-procedure (long-term)
-= stricture
-
-Radical Prostatectomy
-
-Objective
-+ the removal of the entire prostate and prostatic capsule via a lower midline abdominal incision,
-laparoscopically, or robotically
-= open surgery is extraperitoneal, minimally-invasive surgery is usually intraperitoneal approach
-= internal iliac and obturator lymph nodes may also be dissected and sent for pathology (dependent on
-risk: clinical stage, grade, PSA)
-= seminal vesicles are also partially or completely removed (no ejaculate after radical prostatectomy)
-
-Indications
-+ treatment for localized prostate cancer
-= done concurrently with radical cystectomy for locally advanced bladder cancer
-
-Complications
-+ immediate (intraoperative)
-
-= blood loss
-
-«= rectal injury (extremely rare)
-
-«= ureteral injury (extremely rare)
-
-= obturator nerve injury (extremely rare)
-
-Toronto Notes 2025
-
-Laparoscopic and Robotic Assisted vs. Open Radical
-Prostatectomy forthe Treatment of Localised
-ProstateCancer
-
-Cochrane DB Syst Rev 20179:00009625
-
-Purpose: To compare the effecsf laparoscopic
-radical prostatectomy (LR) androbaticasssted
-state tomy (RARP} othe retropubic open
-radical prostatectomy (ORP) in men with localised
-state cancer
-
-Methods: Thereviewidentfid two unique RTS with
-direct comparison of RP and ARP o ORPin 445
-patients.
-
-Results When compared to ORP, rnary and sexual
-‘quality of fe related outcomes appear simdarfor LRP
-and RARP. Men who undergo LRPand ARP mayhave
-shorter hospital stays (MD-172, 95% Cl-219to-1.25)
-and require fewer blood transfusions (@RO.24, 95% C:
-(0.12-0.46. The inta- and postoperative complication
-
-Condusions:Athough there iso high-qualty
-evidence to compare LRPand RARP to ORPin terms of
-ncological outcomes, patients undergoing LRP or RARE
-may receive fewer blood transfusion and have shorter
-hospital stay. The interventions dd not fer in terms
-of urinary and sexual qualtyofife-rlated outcomes
-and serous postoperative complication rates.
--e 
-
-## Page 1576
-
-U46 Urology Toronto Notes 2025
-
-+ perioperative
-= lymphocele formation (if concurrent pelvic lymphadenectomy performed)
-= blood loss
-= urine leak from anastomosis
-+ late
-= moderate to severe stress urinary incontinence (3-10%)
-= mild stress urinary incontinence (20-30%)
-= ED (~30-50%, depending on whether one, both, or neither of the neurovascular bundles are resected)
-
-Transurethral Resection of the Prostate
-
-Objective
-+ to partially resect the periurethral portion of the prostate (transition zone) to decrease symptoms of
-urinary tract obstruction
-accomplished via a transurethral (cystoscopic) approach using an electrocautery loop, irrigation (glycine),
-and illumination
-+ nota cancer operation
-= standard TURP done with electrocautery (originally monopolar, bipolar also available); newer surgical
-options for BPH include green-light laser photovaporization, laser enucleation, and minimally-invasive
-surgical therapies (M ISD such as water-vapour therapy (Rezum”, Uro-Lift”, iTind”, etc.)
-
-Indications
-
-obstructive uropathy (large bladder diverticula, renal insufficiency)
-two or more episodes of urinary retention
-
-recurrent Utk
-
-recurrent gross hematuria
-
-bladder stones
-
-intolerance/failure of medical therapy
-
-benign prostate hyperplasia
-
-Complications
-* acute
-= incontinence
-resection of the ureteral orifice (with subsequent reflux or ureteral stricture)
-hemorrhage
-epididymitis
-sepsis
-transurethral resection syndrome (also called “post-TURP syndrome”)
-caused by absorption of a large volume of the hypotonic irrigation solution used (glycine), usually
-through perforated venous sinusoids, leading to a hypervolemic hyponatremic state
-characterized by dilutional hyponatremia, confusion, nausea, vomiting, HTN, bradycardia, visual
-disturbances, CHF, and pulmonary edema
-treat with diuresis and (if severe) hypertonic saline administration
-does not occur with bipolar TURP as irrigation is saline
-= intra- or extraperitoneal rupture of the bladder (rare)
-= rectal perforation (rare)
-+ chronic
-= retrograde ejaculation (>75%)
-ED (5-10% risk increases with increasing use of cautery)
-incontinence (<1%)
-urethral stricture
-bladder neck contracture
-
-.
-
-.
-
-oe
-
-Extracorporeal Shock Wave Lithotripsy
-
-Objective
-+ totreat renal and ureteral calculi (proximal, middle, or distal) which cannot pass through the urinary tract
-naturall
-. usually performed under sedation only; no internal instrumentation required; least invasive treatment
-option but also least successful
-+ shockwaves focused onto stone using fluoroscopy > fragmentation, allowing stone fragments to pass
-spontaneously and less painfully
-
-Indications
-+ potential first-line therapy for renal calculi <1.5 cm and ureteral calculi
-+ individuals with calculi in solitary kidney (consider stenting kidney to prevent obstruction)
-+ patient preference and wait-times play a large role in stone management
-= per formed under fluoroscopic-guidance, so stone needs to be radio-opaque (i.e. NOT for uric acid
-stones
-
-Contraindications
-+ acute UTI or urosepsis
-
-+ bleeding disorder or coagulopathy
-+ pregnanc
-
-+ uncontrolled HTN
--e 
-
-## Page 1577
-
-U47 Urology Toronto Notes 2025
-
-+ aortic aneurysm
-+ obstruction distal to stone (SWL can be used after stent or nephrostomy inserted)
-= nota contraindication but SWL less successful for very dense stones and in obese patients
-
-Complications
-
-+ bacteriuria
-
-+ bacteremia
-
-* post-procedure hematuria (common to have mild gross hematuria)
-+ ureteric obstruction (by stone fragments)
-
-+ perinephric hematoma
-
-Transition-Related Surgeries
-
-+ ensure appropriate use of gender pronouns
-
-+ some procedures require 1 yr trial of hormone therapy, preoperative letters of evaluation and
-documentation from mental health professionals as outlined by the World Professional Association for
-Transgender Health Standards of Care - Version 8 guidelines
-
-Table 26. Surgical Options for Gender Transition (Also known as Gender Affirmation Surgery)
-Procedure Description Follow-Up
-
-Scrota incisionand removal of bilateral testides Eliminates need for testosterone blockers
-Scrotectomy insome patients ‘Allows fortuckwith greatease
-
-Orchiectomy
-
-Penile Inversion Vaginoplasty Formation of vaginal cavity and vuiva (clitoris, urethra, mons, labia) using penile
-
-and scrotal skin
-
-Lubrication required for penetration
-Prostate exams conducted vaginally
-
-Regular diation of vaginal cavity to avid stenosis
-
-Complications: ganuation tissue, urinary symptoms, fistula formation, hair growthin
-neovagina
-
-High complication rates related to urethral connection (uretva fistula, stricture, post void
-Atibbing/tteam spraying, urinary retention, skin complications and impantissues
-
-Radial Forearm Palloplasty
-Mostcommontechnique for phallic reconstruction
-
-Formation of penis using radial forearm grattof skin, blood vessels and nerves
-Urethra extension
-
-«future penileandtesticular implants
-
-Formation of penis using skin, bloodvessels, nerves and muscular ssuefrom
-thigh
-
-Urethral extension
-
-«future penileandtesticlar implants
-
-Anterolatra Thigh (ALT) Phalloplasty compat aasobra
-ede fap faire very rare
-Phallus maybe ery thick dv to subcutaneous at of thigh
-
-Sensory recovery maybe poorer than radial arm fap
-
-Netoidioplasty
-
-Formation ofa penis trough release of hormonaly-enlarged clitoris om
-‘surrounding Egaments
-Girth added from neighbouring tissue
-
-Lower complicationrates when compared tophallopasty
-Not capable of penetrative intercourse
-Majo complications ay require revision surgery: urethra strictures, wera fistulas
-
-¢ wethroplsty
-¢ vaginectomy andscrotoplasty
-
-Common Medica
-
-Table 27. Erectile Dysfunction Medications
-
-Drug Class Mechanism Adverse Effects
-sildenafil Phosphodiesterase 5 inhibitor Selective inhibition of PDES Severe hypotension (very rare)
-tadalafil (enzyme which degrades cGMP) Flushing, headaches, dyspepsia
-
-vardenafil (PDESs forusewhen some
-‘erection present)
-
-Leads to sinusoidal smooth muscle relaxation, increased blood
-flow and erection
-
-Contraindicated it Hx of priapism, orinconditions predisposing
-to priapism (leukemia, myelofibrosis, polycythemia, sickle cell
-disease)
-
-Contraindicated withnitrates,
-alprostadil (MUSES), PGE1 + phentolamine Prostaglandin Et ‘Activation of cAMP, relaxing sinusoidal smooth muscle Penile pai
-+ papaverine mixture Local release (urethral suppository) Presyncope
-alprostadil, papaverine See above Seeabove Thickening of tunica albugins
-(intacavernosa injection) (Peyronie's plaque)
-Painful erection
-triple therapy also used:
-papaverine, phentolamine, PGE
-Table 28. Benign Prostatic Hyperplasia Medications
-Drug Class Mechanism Adverse Effects
-terazosin al blockers ‘c-acrenergic antagonists reducestromal smooth musde tone Presyncope
-doxazosin Reduce dynamic component of bladder outlet obstruction Legedema
-Retrograde ejaculation
-Headache
-Asthenia
-Nasal congestion
-tamsulosin iAseective Selectiven-adrenergicantagonists mechanismas above) As above; loppyiris syndromeif cataract surgery
-affuzosin
-silodosin
-finasteride S-areductaseinhibitor Blocks conversion of testosterone to DAT Sexual dysfunction
-dutasteride Reduces static component of bladder outlet obstruction PSAdecreases
-
-Reduces prostatic volume
-
--e 
-
-## Page 1578
-
-U48
-
-Urology
-
-Toronto Notes 2025
-
-Table 29. Prostatic Carcinoma Medications (N>O, M>0)
-
-Drug Class: Mechanism Adverse Effects
-leuprolide, gosereln, triptorelin GnRH agonist Initially timdates LH, inceasing testosterone and causing “flare” (initially Hot flashes
-“androgen deprivation therapy” increases bone pain ifbonemets) Headache
-Later causeslow testosterone Decreased libido
-bicalutamide Nonsteroidal antiandrogen Blocks androgen receptors Gnecomast
-Diminished libido
-abiraterone Non-steroidal antiandrogen Irreversible cytochrome P450 (CYP) 7 inhibition, blocking synthesis of _Adrenalinsuffiiency(concurrenttreatmentwith steroids required)
-androgens intumour, tests, nd adrenal glands Hypertrigyceridemia
-Peripheral edema
-cemzalutamide Non-steroidal antiandrogen Androgen receptor signaling inhibitor (ull antagonist) Peripheral edema
-Fatigueand weakness
-Hot ashes
-
-Table 30. Continence Agents and Overactive Bladder Medications
-
-Drug Class Mechanism Indication Aaverse Effects
-‘onybutynin Antispasmodic Inhibitsactionofacetyichaline on smooth muscle (Overactive bladder Drymouth
-Decreases frequency ofuninhibiteddetrusor contraction Urge incontinence + urgency +requency Bhrredvision
-Diminishes initial urgeto void Constipation
-Supraventricular tachycardia
-conybutynin Antchotinergic fsympatheticreceptr blocker inthe bladder;relaxes Overactive bladder As above
-toterodine bladder during toragephase Urge incontinence + urgency frequency
-‘rospium
-solifenacin
-darifenacin
-fesoterodine
-propiverine
-mmirabegron 3 agonist Sympathomimetic effects: Overactive bladder Blood pressure shouldbe monitored
-Urinary sphincter contraction Uige incontinence» urgency frequency
-Anticholiergic effects:
-Detrusor relaxation
-imipramine Ticyclic antidepressant Prevents the release of neurotransmitter Stress and urgeincontinence As above
-Weight gain
-Orthostaic hypotension
-Prolonged PR interval
-BotuinumtoxinAbladder — Neurotoxin Prevents the release of neurotransmitters Refractory OABincontnence both neurogenic and _Urinaryretention, UTI
-injections non-neurogenic
-
-ote Alantchliner gis are equally fective andiong- acting formulations ae beter tolerate. Newer muscarinic M3 receptor specific agents soffenacin,daifenaci) are equally efcacous as oder drgs, however, RCTs based on Nead-fo-head
-‘comparison to long acting formulation are lacking
-
-Landmark Urology Trials
-
-Trial Name Reference linical Trial Details
-RENALCANCER
-EORTC-30904 Eur Urol 2011; Title: AProspective, Randomized EORTC Intergroup Phase 3 Study Comparing the Oncologic Outcome of Elective Nephron-Sparing Surgery and Radical Nephrectomy for Low-Stage Renal
-59(4):543-552 Cell Carcinoma
-Purpose: To assess the oncologic effectiveness of nephron sparing surgery (SS) versus radical nephrectomy (RN),
-Methods: 541 patients withsmal, solitary, low stage tumorssuspcious for renal cell carcinoma (RCC) were randomized to NSS and RN. Primary outcome was overall survival.
-Results: Among patients confirmed tohavesmal,slitary, lw stage RCC, 10-yr survival was 79.6% for RNand78.0% for NSS (HR, 1.34; p= 0.17). Only 12 of 117 deaths during follow-up
-were due toRCC with 4in RN group and 8 in NSS group.
-Conclusions: Both radical and partialnephrectomy provide excellent oncologic results. Ina targeted population of early RCC, there was no significant difference in overall survival
-BENIGN PROSTATIC HYPERPLASIA
-PCPT NEJM 2003;349:215- Title: The Influence of Finasteride on the Development of Prostate Cancer
-24 Purpose: Todetermine whether the drug Finasteride (-alpha reductase inhibitor) could prevent prostate cancer in men ages55 and oder
-Methods: 18882_men 55 yr or older with a normal digital rectal examination anda (PSA) level equal to or ess than 3.0 ngper milliliter were randomly to receive finasteride (5 mg per
-day) placebo for yt.
-Results: There was a 24.8% reduction in prostate cancer prevalence over the 7-r period among the Finasteride arm compared tothe placeboarm (95 % confidence interval, 8.6 t0 30.6
-percent; P0,001). However there wasa significant increase in high-grade disease among men inthe finasteride group compared to the placebo (6.4 Sovs. 5.1% P=0.008).
-‘Conclusion: The PCPT tril in 2003 was the first study toshow thata medication Finasteride) reduces the likelitoodof developing prostate cancer. Upon long term follow-upin 2013,
-this eduction in risk has been attributed toless likelihood of low-grade cancers in men taking finasteride. Although participants who developed prostate cancer while taking finasteride
-‘were more likely to have high-grade cancers, thisincreasewas attributedto better detection of disease rather than medication use.
-TOPS NEJM Title: The Long-Term Effect of Doxazosin, Finasteride, and Combination Therapy onthe Ginical Progression of Benign Prostatic Hyperplasia.
-2003;349:2387- Purpose: Todetermine whether therapy with doxazosin a-blocker or finasteride 5a-teductase inhibitor), alone orin combination, would delay or prevent nical progression of benign
-2398 prostatic hyperplasia (BPH).
-
-Methods: Participants werefolowed-up for a meantime of 45 yrto compare the effectsof the interventions. The primary outcome was overall clinical progression of BPH (>4 points
-‘rom baseline in AUA symptoms score, acute urinary retention, urinary incontinence, renal insufficiency, or recurrent UTI.
-
-Results: The risk of overall cinical progression was signicantly reduced by doxazosin (39% risk reduction, P<O,001) and finasteride (34% riskreduction P-0.002), as compared with
-placebo, and the risk was reducedeven more with combination therapy 66% fr the comparison with placebo, P<0.001) compared with doxazosin (P<0.001) or finasteride (P<0.001)
-alone.
-
-Conclusions: Lng-termombination therapy with doxazosin and finasteride reduced the cinical progression of BPH significantly more thaneachtherapy alone, as well as reduce the
-need forinvasivetherapy inthe longterm.
-
--e 
-
-## Page 1579
-
--e 
-
-## Page 1580
-
-U50 Urology Toronto Notes 2025
-
-Nickel JC Prostatitis. CUA 20115:306-315.
-Pearle MS, Goldfarb DS, Assimos 6, etal. Meical management o kidney stones: AUA quieline, J Urol. 2014: 192(2)316-324,
-
-Rashid M, Taminy MS. Phaliopast: the dream andthe realty. Indian journal of plastic surgery: offical publication of the Assocation of Pastic Surgeons of India. 2013 May:46(2)283.
-
-Rendon RA, Mason RJ, MarzoukK, etal. Canadian Urological Association recommendations on prostate cancer screening and erly diagnosis. CUAJ. 20111298. 308
-
-Rourke KF WelkB, Kodama R etal. Canadian Urological Association quieline on male urethral stricture. Can. Ural. Assoc. .2020;14(10).
-
-‘Saad, Aprikian A Fel eal. 2021 Canadian Urological Assocation (CUA)-Canadian Uo Oncology Group (CUO) guideline: Management of astration-resitant prostate cancer (CRPC). Can. Urol. Assoc. .2021;15(2):E81
-SantuciRA. Uethralcompications after transgender phalloplasty: strategies to teat them and minimze their occurence. Cin Anat. 2018;31(2)187-190.
-
-SelusB, SubediR. Urinary Retention in Adults: Diagnosis and Initial Management. Am Fam Physician. 2008,775): 643-650.
-
-‘Sen. Recurtent cystitis in non-pregnant women. BM, Clin Evid. 2008;0801
-
-‘SoA, Chik, Danielson, etal. Canadian Urological Assocation Canadian Urologic Oncology Group guideline on metastatic castratin-naive and castration sensitive prostatecancer. CUAJ. 2020;14(2)
-
-Rosenblum ND. Developmental biology ofthe human kidney Seminars in Fetal& Neonatal Medicine. 2008 Jun; 3(1): P125-32. dot 1.1016) sny. 2007.10.05
-
-Servaes SE, HotferF, Smith A, et al Imaging of Wims tumor: an update. paediatric ncologic Imaging. 2019 Mar, 49.1441-452. dot 10.1007S00247-019-04423-3
-
-‘SpreaficoF, Fernandez CV, BrokJ, etal. Wis tumour, Nature Reviews Disease Primers. 2021 Oct; 75 (2021). dot 10.1038/s41572-021-00308-8
-
-‘Springer A, van den Heikant M, Baumann S. Worldwide prevalence of hypospadias. Journal of paeiatric Urology. 2016;12{3}:152.e-152.e7. di: 10-1016 puro. 2015.12.02
-
-‘StangA,RusnerC, Trabert 8, etal Incidence of testicular tumor subtypes according to the upéated WHO classification, North Rhine-Westphalia, Germany, 2008-2013. Andrology. 2019 ut74)402-407. do: 10.111 andr 12565. Epub 2018 Dec, PMID:
-‘30578617; PMCID: PMC8TI9128
-
-Teichman JMH, Acute renal colic om ureteral calculus. NEJM. 2004 350:684-693,
-
-Traber B,Zugna ,RichiariL, etal Congenital malformations and testicular germ cel tumors. Int J Cancer 2013 Oct 15; 13{8}:1900-4. do: 101002/jc 28207, Epub 2013 May15, PMID: 23580254; PMCID: PMC 4037852
-\VerlaW, Oostertnck W,Spinoit AF, etal. AComprehensive Review Emphasizing Anatomy, Etiology, Diagnosis, and Treatment of Male Urethral Sticture Dsease. Biomed Res Int. 2019; 2018
-
-Virtanen HE, Bjerknes, Cotes, etal. Cyplorchidism: classification, prevalence and long-term consequences. Acta paesatrica. 2007 Apr 24; 596): 611-616. dot 10.1111, 1651-2227. 2007.00241
-
-Tin, Gantmyte J, Chan, CUAguideline: Vasectomy. CUAL. 2016 Ju 1(7-8:£274
-
-Overactive Bladder
-usinde 6, Management of overactive badder, NEM 2004250.785-79
-
-YandanyT,Jakus Waldman’, Jeppson PC al. American Urogynecologi Society Systematic Review: The pact of Weigh os Itervention on Lower Urinary Tract Symptoms and nary Incontinence in Overweight and Obese Women. Female Pelvic Med
-Reconst Surg 202021: 16-2
-
-Urological Neoplasms
-
-‘Chan C, Liv, PavloviéNM, Chan W.Eilogy of Balkan Endemic Nephropathy: An Update on ristlochic Acids Exposure Mechanisms. Chem Res Toxicol. 20183111 108-110.
-Israel GM, Bosniak MA An update of Bosniak renal cyst classification system, Urology. 2005;66:484-488,
-
-Jewett MA, Rendon R, Lacombe Let al. Canadian guidelines forthe management ofsmallenal masses. CUAL 2015:9(5-6 160
-Leapman WS, Stone NX, Mok’, etal, Urinary Incontinence Following Prostate Brachytherapy. Urology. 2016 Sep:95: 157
-Richard PO Violette PD, Jewett MAS, eta. CUA guideline onthe management of ysticrenal sions. CUA 2017, 11:£66£73.
-Taber B, Zugna , Richard, eta, Congenital malformation and testicular germ cel tumors. It J Cancer. 2013 Oct 15; 133(8}-1900-4,
-
-Testicular Cancer Incidence by Tumor ype and Age | COC Available om: hitps:rwiv.c6, gov ancer/uscsfabout Gata briesesticulr-cancet. htm
-
-Urological Emergencies
-Gales LE, Diagnosis and treat ment ofthe acute scrotum, Am Fam Phys 1999;5:817-828,
-
-Anfertlityand Andrology
-SGrober ED, KrakowskyY, KheraM, etal. Canadian Urological Association guideline on testosterone deficiency in men: Evidence-base€ OLA. Can, Urol. ASSO 42021, 15(5)-£234,
-
-Medications
-
-Bil-Axeson A, Holmberg, RuutuM, etal. SPC6-4 investigators. Radical prostatectomy ws, watchul wating in earty prostate cancer NEJM. 201;364:1108-717,
-
-‘Compendiumot Pharmaceuticals and Specates Avaible rom: htps/www.e-therapeutc.ca.
-
-icrome dexheath care seis, Available trom tp” micromedex.com,
-
-RiniB, Halabi S, Rosenberg eal Bevacizumab plus interferon alta compared with interferon alfa monotherapy in patients with metastatic enalcel carcinoma: CALGB 90206 tra, Jin Oncol, 2008;26:5422-5428,
-
-eM
-Bil-Axeson A, Holmberg, RuutuM, etal. Radical prostatectomy s, watchul wating in early prostate cancer, NEM. 201;368-1708-177,
-
-‘CampschrerT, Zhu, Vernon RW, tal. Alpha-blackers as medical expusive therapy for reteralstones. Cochrane DB Syst Rev, 201:4:CD008509.
-
-Carter HB, Abertsen PC, Bary Md etal: Early detection of prostate cancer: AUAGuideline,JUroL 2013; 190: 419.
-
-Coelho RF, Rocco B, Patel MB, et.al. Retropubic, laparoscopic, and robot-assisted radical prostatectony: a ita review of outcomes reported by high-volume center. J Endourol, 201;28:2003-2015.
-
-Escudie 8, Eisen, Sadler WM, et al. Sorafenb in advanced clear-elena-cellcarinom NEM, 2007;356:125-134,
-
-Grossman HB, Natale RB, Tangen CM, etal. Neoadjuvant chemotherapy plus cystectomy compared with ystctony alone forlocay advanced blader cance, NEJM. 2003;348:858-866.
-
-Hottman RM, Monga M, Eo SP, etal. Microwave themotherapy for benign prostatic hyperplasia. Cochrane DB Sys Rev. 20129:CD004135.
-
-licD, EvansSM, Allan CA, eta Laparoscopic androboticassstedvs. open radical prostate tony forthe treatment of localised prostate cancer. Cochrane DBSyst Rev 20179: CDOO9625.
-
-James NO, HusainSA, Halle, eta. Radiotherapy with or without chemotherapy in musce-nvesive Bader cancer, NEJM. 2012366: 477-488.
-
-KimsC, SeoKK.Eicacy and saety of fuoxetine, sertraline and clomipramine inpatients with premature ejaculation: a double-blind placebo controlled study. J Uo. 1998; 159:425 477
-
-NeDonnell JD, Roenrborn C6, Bautista OM, eal. The longterm efecto dxazosin, finasteride, and combination therapy onthe dnl progression of benign prostatic hyperplasia. NEM. 2003;249:2387.2398
-
-otzerR, EScuie B,Tomczak etal. Astin w,sorafenbasSecond-ne treatment for advanced renal cellcarcinoma:overallsurvval analysand updated results from a randomized phase’ tial. Lancet Oncol 2013;14:552-562
-
-Parsons IK, Hergan LA, Sakamoto K, etal. Etficacy ot aipha-blackersfor the treatment of wera stones. J Urol 2007;17:883-987.
-
-‘Schr der FH, Hugosson J, Roobol Wel. Screening and prostate-cancer mortality na randomized European study. NEJM. 2008;360:1320-1328,
-
-‘Wiysonge CS, Kongnyuy E, Shey Met al. Male circumcision fo prevention of heterosexual acquistion of IV in men. Cochrane DBSyst Rev. 201;6.CD007496,
-
-Takin J, Fink WA, MactonaldR etal Finasteride for benign prostatic hyperplasia. Cochrane DBSyst Rev. 201, 10:CD006015.
-
-‘Wiesenthal 0, Ghicult ,D'A Honey Ry etal. A comparison oftrestment modalities orrenl calcul between 100 and 300 mm: are shockwave ithotipsy, wreteroscopy and percutaneous nephrothotomy equivalent? Endourol, 201;25:41-485
-WILT), BrawertM, Jones KM, eal. Racal prostatecony vs observation for localized prostate cancer. NEM. 2012;367:203-213.
-
--e 
-
-## Page 1581
-
-Vascular Surgery
-
-Salar Farokhi Boroujeni and Laura Tang, chapter editors
-Audrey Jong, Wafa Baqri, and Meera Chopra, associate editors
-Jonathan Chung and Martin Profant, EBM editors
-
-Dr. Elisa Greco and Dr. George Oreopoulos, staff editors
-
-Acronyms. 2.0... ee eee eee eee eee eee vs2
-
-Arterial Disease... 6. ee ee ee ee eee vs2
-Acute Limb Ischemia
-Peripheral Arterial Disease
-
-Aortic Disease... eee eee eee eee vs6
-Aortic Dissection
-Aortic Aneurysm
-
-Carotid Stenosis... .. 2... ee eee ee ee eee vs9
-
-Venous Disease... 0.2... eee eee eee eee vsto
-Venous Thromboembolism
-Chronic Venous Insufficiency
-
-lymphedema .... 20.0.0. c ee eee eee eee vst
-Landmark Vascular Surgery Trials... ......0.2.. vsi2
-References... 6... eee eee cece eee eens vsi4
-
-‘Vascular Surgery Toronto Notes 2025
--e 
-
-## Page 1582
-
-vs2 ‘Vascular Surgery
-
-Toronto Notes 2025
-
-AAA abdominal aortic aneurysm CEAP dlinical, etiological, anatomical, Dus duplex WS
-ABI ankle-brachial index pathophysiological (classification Echo echocardiogram
-ACEI —_ angiotensin converting enzyme of venous disease) EVAR endovascular aortic aneurysm
-inhibitor cLTI chronic limb threatening ischemia repair
-AKI acute kidney injury CTA computed tomography HITT heparin-induced
-ALL acute limb ischemia angiography thrombocytopenia with
-ARB angiotensin Il receptor blocker CVA cerebrovascular accident thrombosis
-BMT best medical therapy cvD cerebrovascular disease INR intemational normalized ratio
-CAS carotid artery angioplasty + cv chronic venous insufficiency LDL-C low-density lipoprotein cholesterol
-stenting DIC disseminated intravascular w left ventricular
-CCB calcium channel blocker coagulation MRA magnetic resonance angiography
-CEA carotid endarterectomy DVT deep vein thrombosis MSK musculoskeletal
-Arterial Disease
-Anterior Posterior
-
-‘Abdominal aorta & VC
-Common iliac a. & v.
-Intemal liaca. & .
-
-Exemal liaca.&v. |
-Inguinal igament
-Common femoral a. &
-
-Deep femoral a. & v.
-
-Superficial femoral a. & v.
-Great saphenous v
-
-‘Adductor hiatus
-Popliteal a &v.
-
-Tibioperoneal trunk
-Small saphenous v
-Anterior tibial &v.
-Posterior tibial a. &v
-Fibula (peroneal) a. & v
-Dorsalis pedis a. & v.
-
-Kim Nipp 2019
-
-Figure 1. Peripheral vascular anatomy
-
-Acute Limb Ischemia
-
-Definition
-+ acute occlusion of a peripheral artery that often threatens limb viability with symptom duration <2 wk
-= urgent management required as skeletal muscle can tolerate 6 h of total ischemia before irreversible
-damage
-= exception is acute-on-chronic occlusion, where previously developed collaterals provide minimal
-perfusion
-+ tends to be lower extremity > upper extremity; femoropopliteal > aortoiliac
-+ paralysis with complete loss of sensation is sign of late ischemia
-
-Etiology and Risk Factors
-+ the most common causes of ALI is cardiogenic embolism; other causes include: in-situ thrombosis,
-peripheral artery aneurysm (with distal embolization or thrombosis), arterial dissection, and traumatic
-arterial injury
-+ embolism
-= cardiac: arrhythmias (most common cause is atrial fibrillation), endocarditis, MI, LV aneurysm,
-myxoma/cardiac tumour, paradoxical embolism with PFO, valvular heart disease
-= non-cardiac: mural thrombus within arterial aneurysms, atheroembolism, ulcerated plaque with distal
-embolism
-+ thrombosis (in situ)
-= progression of high-grade atherosclerotic plaque (stenosis) to acute occlusion
-«= bypass graft (or stent) occlusion (most common etiology of arterial thrombosis in setting of previous
-open or endovascular reconstruction)
-= hypercoagulable states
-+ hypercoagulability, low flow arterial states, or hyperviscosity
-« HITT
-
-PAD
-PFO
-PT
-
-PIT
-
-TAA
-TBI
-TEE
-
-TEVAR
-TIA
-is
-
-peripheral arterial disease
-patent foramen ovale
-
-prothrombin time
-
-partial thromboplastin time (ie.
-aPTT)
-
-thoracic aortic aneurysm
-toe-brachial index
-transesophageal
-echocardiography
-
-thoracic endovascular aortic repair
-transient ischemic attack
-ultrasound
--e 
-
-## Page 1583
-
-‘vs3 ‘Vascular Surgery
-
-= aortic or arterial dissection
-aortic dissection typically caused by hypertensive crisis
-« isolated arterial dissection of vessels supplying lower limbs is uncommon but can occur from
-trauma or collagen disorders
-
-= trauma (e.g. arterial transection, compression)
-
-= vasospasm/vasculitis
-
-= iatrogenic (e.g. occlusion at arterial access site)
-+ differentiating between embolism and thrombosis
-
-= embolism is more common than thrombosis
-
-= embolus typically lodges at arterial bifurcations, where the vessel narrows
-
-= embolism generally resuts in greater degree of ischemia due to relative lack of collaterals
-+ suspect embolism in patients with the following features:
-
-= acute onset (patient able to accurately recall the moment of the event)
-
-= history of embolism
-
-= known embolic source (e.g. cardiac arrhythmias), lapse in prescribed anticoagulation
-
-«= no prior history of intermittent claudication or prior arterial intervention
-
-= normal pulse and/or Doppler U/S or DUS in unaffected limb
-+ suspect in-situ thrombus in patients with the following features:
-
-« prior history of intermittent claudication
-
-« prior vascular intervention/bypass
-
-= abnormal pulse examination of the unaffected limb
-
-Clinical Features
-+ 6Ps ~ may notall be present
-«= Polar/Poikilothermia/Perishing cold
-+ leg becomes cold
-= Pallor: pale
-+ within a few h becomes mottled cyanosis
-= Pain
-+ may be constant or elicited by passive movement
-+ absent in 20% of cases
-= Pulselessness
-¢ helpful to determine site of occlusion
-= Paresthesia (late sign of ischemia)
-light touch lost first then other sensory modalities
-= Paralysis/Power loss (late sign of ischemia):
-+ heralds impending non-salvageable limb
-
-Investigations
-
-+ history and physical exam are essential: depending on degree of ischemia one may have to forego
-investigations and go straight to the OR (i.e. an immediately threatened limb)
-
-+ DUS: bilateral U/S examination; greater accuracy than pulse examination alone; absent arterial signals in
-foot indicates threatened limb
-
-+ determine Rutherford classification (see Table 1, VS4) based on physical findings and Doppler U/S
-
-+ ABI: extension of physical exam, easily performed at bedside (limited reliability in diabetic patients due to
-the presence of calcified and non-compressible arteries, which can result in falsely elevated ABI values. )
-
-+ ECG, troponin: rule out recent MI or arrhythmia
-
-+ CBC: rule out leukocytosis, thrombocytosis, or thrombocytopenia in patients receiving heparin (may
-suggest HITT)
-
-PT/INR, PTT: patient anticoagulated/sub-therapeutic INR
-
-echo: identify wall motion abnormalities, intracardiac thrombus, valvular disease, or aortic dissection
-
-(Type A) (see Aortic Dissection, VS6)
-
-+ CTA: most often used but not a requirement for decision making and sometimes performed after operative
-
-intervention; identify underlying atherosclerosis, aneurysm, aortic dissection, embolic sources, emboli in
-
-other end organs (e.g. splenic/renal infarcts), and level of occlusion and extent
-
-angiography: can be obtained in OR as part of intervention or endovascular treatment
-
-Toronto Notes 2025
-
-Virschow’s Tr
-
-Hypercoagulabilty
-Stasis of flow
-
-Endothelial injury
-
-Hypercoagulable States,
-‘ongenital
-
-Group | (reduced anticoagulants)
-
-Antithrombin
-
-Protein C
-
-Protein S
-
-Group Il (increased coaguiants)
-
-Factor VLeiden
-
-Prothrombin
-
-Factor Vil
-
-Other
-
-Sickle cell disease
-
-Hyperhomocysteinemia
-
-Acquired
-Age
-Obesity
-Smoking
-immobility
-Cancer
-
-Pregnancyisystemic hormonal
-contraceptives
-
-Antiphospholipid antibody syndrome
-Inflammatory disorders
-Myeloproliferative disorders
-
-‘Nephrotic syndrome (acquired deficit in
-Protein C and S)
--e 
-
-## Page 1584
-
-vs4 ‘Vascular Surgery
-
-Table 1. Rutherford ALI Classification
-
-Category Description/Prognosis Findings Doppler Signals Treatment
-Sensoryloss Muscle SkinChanges Arterial Venous
-Weakness
-Wiable Notimmediately threatened None None Normal ‘Audible ‘Audible Delay treatment until
-imestigations result
-HaMarginally Salvageableifprompt Minimal toes) None Cook with Inautible —Audible-—_Investigatebefore
-Threatened treated ornone prolonged treatment, but reat soon
-copillary refill,
-IbImmediately Salvageable with immediate Morethantoes, Mild, Coldwithnon- Inaudible Audible. Emergency reperfusion
-Threatened revascularization associatedwith moderate ‘fixed motting
-rest pain
-Mireversible Major tissue loss or Profound, Profound, Fixed ottingor Inaudible Inaudible Amputation likely
-permanent nerve damage anesthetic paralysis gangrene
-
-inevitable igor)
-
-‘Adapted from: Rutherford RB, Baker JD, Ernst etal. Recommended standards for reports dealing with ower extremity ischemia: revised version, JVasc Sug, 1997,2651738.
-
-Treatment
-+ immediate unfractionated heparinization with weight-based bolus (70-100 IU/kg) and continuous infusion
-to titrate PTT to 70-90
-+ IV fluids, urine output monitoring, analgesia, supplemental O2
-+ if impaired neurovascular status: emergent revascularization (Rutherford category IIb)
-+ if intact neurovascular status: may have time for workup (including CTA)
-+ identify and treat underlying cause
-» embolus: embolectomy
-* thrombus: thrombectomy + bypass graft + endovascular therapy
-= irreversible ischemia (ie. Rutherford category II): primary amputation or palliation
-= arterial aneurysm: bypass/stent graft
-+ continue heparin postoperatively; start oral anticoagulant postoperatively when stable x3 mo or longer
-depending on underlying etiology and other comorbidities
-
-Complications
-
-+ local: compartment syndrome secondary to reperfusion (see , OR10) with prolonged
-ischemia; requires 4-compartment (anterior/lateral/superficial and deep posterior) fasciotomy in cal!
-
-+ heart: risk ‘of arthythmi. MI, cardiac arrest, and death with reperfusion injury
-
-+ kidneys/other organs: renal failure and multi-organ failure due to toxic metabolites from ischemic muscle,
-rhabdomyolysis
-
-* up to 10% chance of metachronous embolism
-
-Prognosis
-+ 40% 1-yr mortality rate
-+ 5-40% morbidity rate (amputation)
-
-Peripheral Arterial Disease
-
-Definition
-
-+ chronic ischemia due to inadequate arterial supply to meet cellular metabolic demands during walking
-(claudication) or at rest (CLT)
-
-Etiology and Risk Factors
-
-+ predominantly due to atherosclerosis (for pathogenesis, see Cardiology and Cardiac Surgery, C30);
-primarily occurs in the lower extremities
-
-+ modifiable risk factors: smoking, DM, hyperlipidemia, HTN, obesity, and sedentary lifestyle
-
-+ non-modifiable risk factors: advanced age, and PMHx or FMHx of PAD/CAD/CVD
-
-Clinical Features
-+ claudication:
-1. pain with exertion: usually in calves or any exercising muscle group
-2. relieved by short rest: less than 5 min and no postural changes necessary
-3. reproducible: same distance or time to elicit pain, same location of pain, same amount of rest to
-relieve pain
-4, an asymptomatic pulse deficit: mandates medical management
-— the presence of the preceding features differentiates vascular claudication from
-neurogenic claudication or MSK pain
-
-+ CLTI:
-1. includes rest pain, night pain, and/or tissue loss (ulceration or gangrene) in a patient with existing
-PAD for at least 2 wk
-2. pain most commonly over the forefoot/toes, waking person from sleep, and often relieved by hanging
-foot off bed
-
-Toronto Notes 2025
-
-Distinction between CLTI and ALI
-
-ALI:A precipitous decrease and/
-
-‘or cessation in blood flow to a limb
-threatening viability. Typically, due to
-arterial embolism or thrombosis, or other
-acute cause. Characterized by rapidly
-worsening leg pain that is present for <2 wk
-{usually hto d); may occur in patients with
-‘oF without history of claudication
-
-CTI: Severe manifestation of PAD where
-blood flow to the extremities is markedly
-
-reduced. Defined as ischemic foot pain at
-test or at night, occurring >2 wk, wounds,
-‘or gangrene in patients who may (or may
-not) have a history of claudication
-
-Acute Aortoiliac Occlusion
-Ifa patient presents with new onset
-bilateral ALI, suspect possible occlusion of
-the aorta or aortoiliac segment. Etiologies
-include thrombosis or rupture of AAA, aortic
-dissection, of large saddle embolism
--e 
-
-## Page 1585
-
-vss ‘Vascular Surgery
-
-3. ankle pressure 50 mmHg, toe pressure <30 mmHg, and/or ABI <0.40
-— distal pulses are absent
-— signs of poor perfusion: hair loss, hypertrophic nails, shiny skin, atrophic muscle,
-ulcerations and infections, slow capillary refill, prolonged pallor with elevation and
-rubor on dependency, and venous troughing (Buerger’s sign/Buerger’s angle) (collapse of
-superficial veins of foot)
-4. high-risk of 1 yr limb amputation (25%) and mortality (25%)
-5. usually the result of multilevel occlusive arterial disease in the lower extremity
-
-Investigations
-+ routine blood work, fasting metabolic profile
-+ ABl and/or a TBI study are recommended to confirm diagnosis of PAD
-+ ankle pressure and ABI: The highest systolic foot pulse (dorsalis pedis or posterior tibialis) is divided by the
-systolic brachial pressure. Arterial occlusive disease more commonly affects the lower extremities so ankle
-pressure is the numerator, while arm pressure serves as the standard (denominator). Lower ratios indicate
-more severe arterial disease, while values above 1.3 suggest noncompressible heavily calcified arteries,
-common in diabetes. (see Table 2 for Cut-Offs)
-+ toe pressure and TBI: highest pressure in the great toe for each side divided by highest brachial pressure;
-useful in patients with non-compressible vessels
-+ arterial DUS: combines b-mode and Doppler U/S to visualize blood vessels and characterize flow and
-laques
-. hom invasive CTA and MRA excellent for large arteries (aorta, iliac, femoral, popliteal) but may have
-difficulty with tibial arteries (especially in the presence of significant wall calcification)
-= requires IV injection of iodinated contrast for CTA (contrast-induced nephropathy risk), gadolinium
-for MRA (avoid in patients with severe renal failure)
-= used primarily for planning interventions
-+ invasive: arteriography
-* superior resolution to CTA/MRA, better for tibial arteries, can be done intraoperatively as part of
-intervention
-= can be diagnostic and/or therapeutic
-
-Table 2. Ankle-Brachial Index Cut-Offs
-
-‘ABIRecording Degree of PAD
-71.30 Non-compressile vessel (e. wall calcification, common in DM)
-0914.30 Normal
-07-080 itd
-050-0.70 Moderate
-<05 Severe
-Treatment
-+ goals
-
-= preserve life (avoid complicated procedures in sick patients)
-= preserve viability (save the leg)
-= improve function and alleviate symptoms
-= prevent deterioration and recurrence
-+ conservative
-= risk factor modification (smoking cessation, glucose control, treatment of HTN and hyperlipidemia)
-= structured exercise program (30-45 min 3x/wk): improves collateral circulation and muscle
-oxygenation
-= foot care (especially in DM): trim toenails, check between toes for skin breaks, wear socks and shoes,
-clear shoes of any debris, keep wounds clean/dry, avoid trauma and pressure on wounds
-+ pharmacotherapy
-= for global cardiovascular protection since patients with PAD are at increased risk for CAD and CVD
-antiplatelet agents (e.g. ASA, clopidogrel)
-anticoagulants (e.g. low-dose rivaroxaban)
-statin + icosapent ethyl
-ACEV/ARB
-= SGLT-2 inhibitor if HbAlc >7%
-+ surgical
-= indications: severe lifestyle impairment, vocational impairment, CLTI
-= revascularization
-+ endovascular (angioplasty + stenting, may also include atherectomy in select cases)
-endarterectomy: removal of plaque and repair with patch (usually distal aorta or common/deep
-femoral)
-+ bypass graft sites:
-— anatomic: aortofemoral, femoropopliteal, femorotibial bypass, popliteal-tibial bypass
-— extra-anatomic: axillofemoral, femorofemoral
-graft choices: saphenous vein graft (reversed or in situ), synthetic (polytetrafluoroethylene graft,
-e.g. Gore-Tex" or Dacron’), cryo-preserved homograft
-+ not offered to asymptomatic patients
-
-Toronto Notes 2025
-
-Letiche Syndrome
-Chronic aortoiliac occlusive disease
-presenting with a triad of
-
-1. Claudication (of buttocks and thighs)
-2. Decreased/absent femoral pulses
-
-3. Erectile dysfunction/impotence
-
-‘Subclavian Steal Syndrome
-A chronic arterial disease of the upper limb
-where stenosis or occlusion of the proximal
-subclavian artery results in retrograde flow
-from the vertebral artery, compromising
-vertebrobasilar circulation. Patients can
-present with pre/syncope and neurological
-deficits especially upon exertion of the
-limb (rare)
-
-Differential Diagnosis of Lower Extremity
-Pain
-
-Vascular
-
-Atherosclerotic disease
-Fibromuscular dysplasia
-
-Popliteal entrapment syndrome
-Venous daudication/typertension
-{extremely rare)
-
-Neurogenic
-‘Neurospinal disease (e.g. spinal stenosis)
-‘Complex regional pain syndrome
-Radiculopathies
-
-Diabetic neuropathy
-
-Msk
-Osteoarthritis
-
-Rheumatoid arthritis/connective tissue
-disease
-
-Remote trauma
-
-Medial tibial stress syndrome
-Sprain/strain
-
-Treating PAD
-Note that symptoms do not necessarily
-correlate with ABI measurement, eg,
-patient with ABI of 0.45 may be
-asymptomatic. Intervention is guided by the
-patient's clinical presentation
-
-The ABCDEs of PAD Treatment
-ANTIPLATELET (ASA, clopidogrel), anti-
-coagulant (low dose rivaroxabar), ACEV
-ARB
-
-BP control; target sBP <140 mmHg,
-B-blocker (if indicated)
-
-Cholesterol management (statin); target
-LDL-C <2 mmol/L, smoking cessation
-betic control; target HbATC <7%, diet!
-weight management
-
-Exercise (3x/wk, 30-45 min per session)
-
+請參閱 Toronto Notes 2025 原文或相應資料庫。
