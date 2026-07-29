@@ -2,7 +2,8 @@
 title: "精神醫學 (Psychiatry)"
 description: "*Toronto Notes 2025*"
 slug: "Psychiatry"
-weight: 30
+weight: 5
+chapterCode: "PS"
 ---
 
 

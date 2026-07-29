@@ -2,7 +2,8 @@
 title: "神經外科 (Neurosurgery)"
 description: "*Toronto Notes 2025*"
 slug: "Neurosurgery"
-weight: 22
+weight: 5
+chapterCode: "NS"
 ---
 
 

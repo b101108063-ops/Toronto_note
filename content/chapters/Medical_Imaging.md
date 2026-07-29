@@ -2,7 +2,8 @@
 title: "醫學影像學"
 description: "- **CXR 判讀 ABCDEF**：ID/film quality → Body position → Confirm name → Comparison → Bones → Cardiac/Costophrenic → Fields "
 slug: "Medical_Imaging"
-weight: 19
+weight: 5
+chapterCode: "MI"
 ---
 
 

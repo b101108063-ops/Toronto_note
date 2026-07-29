@@ -2,7 +2,8 @@
 title: "神經內科 (Neurology)"
 description: "*Toronto Notes 2025*"
 slug: "Neurology"
-weight: 21
+weight: 5
+chapterCode: "N"
 ---
 
 

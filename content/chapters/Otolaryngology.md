@@ -2,7 +2,8 @@
 title: "Otolaryngology 耳鼻喉科學"
 description: "本章節涵蓋耳鼻喉科學的核心內容，摘要如下："
 slug: "Otolaryngology"
-weight: 26
+weight: 5
+chapterCode: "OT"
 ---
 
 

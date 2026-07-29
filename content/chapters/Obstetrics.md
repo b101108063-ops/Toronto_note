@@ -2,7 +2,8 @@
 title: "產科學（Obstetrics）"
 description: "- **妊娠期間的生理變化**涵蓋全身多系統適應，包括 cardiovascular（CO 增加 40-50%）、respiratory（minute ventilation 增加導致輕度 respiratory alkalosis）、re"
 slug: "Obstetrics"
-weight: 23
+weight: 5
+chapterCode: "OB"
 ---
 
 

@@ -2,7 +2,8 @@
 title: "皮膚醫學（Dermatology）"
 description: "- 皮膚是人體最大的器官，負責屏障、防禦、體溫調節、維生素 D 合成及感覺輸入等功能；皮膚病灶的評估需系統性整合病史、理學檢查與必要時的切片檢查"
 slug: "Dermatology"
-weight: 8
+weight: 5
+chapterCode: "D"
 ---
 
 

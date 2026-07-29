@@ -2,7 +2,8 @@
 title: "老年醫學 (Geriatric Medicine)"
 description: "*Toronto Notes 2025*"
 slug: "Geriatric_Medicine"
-weight: 14
+weight: 5
+chapterCode: "GM"
 ---
 
 

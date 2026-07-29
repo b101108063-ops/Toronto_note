@@ -2,7 +2,8 @@
 title: "血液學 (Hematology)"
 description: "*Toronto Notes 2025*"
 slug: "Hematology"
-weight: 16
+weight: 5
+chapterCode: "H"
 ---
 
 

@@ -2,7 +2,8 @@
 title: "家庭醫學（Family Medicine）"
 description: "家庭醫學為綜合性專科，涵蓋各年齡層患者從健康促進到慢性病管理的全面照護。以下為本章核心重點："
 slug: "Family_Medicine"
-weight: 11
+weight: 5
+chapterCode: "FM"
 ---
 
 

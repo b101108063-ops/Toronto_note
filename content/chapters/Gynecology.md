@@ -2,7 +2,8 @@
 title: "婦科學（Gynecology）"
 description: "- **月經失調**涵蓋 amenorrhea、abnormal uterine bleeding（AUB）、dysmenorrhea 等常見問題；AUB 的鑑別診斷使用 PALM-COEIN 結構（polyp、adenomyosis、le"
 slug: "Gynecology"
-weight: 15
+weight: 5
+chapterCode: "GY"
 ---
 
 
