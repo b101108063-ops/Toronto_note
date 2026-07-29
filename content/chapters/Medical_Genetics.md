@@ -2,7 +2,7 @@
 title: "Medical Genetics 醫學遺傳學"
 description: "> Toronto Notes 2025"
 slug: "Medical_Genetics"
-weight: 1
+weight: 18
 ---
 
 

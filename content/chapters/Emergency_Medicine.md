@@ -2,7 +2,7 @@
 title: "急診醫學 (Emergency Medicine)"
 description: "*Toronto Notes 2025*"
 slug: "Emergency_Medicine"
-weight: 1
+weight: 9
 ---
 
 

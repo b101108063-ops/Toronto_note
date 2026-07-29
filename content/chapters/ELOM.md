@@ -2,7 +2,7 @@
 title: "Ethical, Legal, and Organizational Medicine（倫理、法律與醫療組織）"
 description: "- **Confidentiality 與 Fiduciary Duty**：醫師對患者負有保密義務（confidentiality），源於 fiduciary duty（忠實義務），構成醫病關係的基石"
 slug: "ELOM"
-weight: 1
+weight: 4
 ---
 
 

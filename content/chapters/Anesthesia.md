@@ -2,7 +2,7 @@
 title: "Anesthesia 麻醉學"
 description: "- **吸入、異物風險**：未禁食、意識障礙、胃排空延遲（糖尿病、GLP-1 agonist）、胃食道逆流、肥胖、妊娠等情況會增加 **aspiration** 風險，需採用 RSI 與保護性氣道（ETT）管理"
 slug: "Anesthesia"
-weight: 1
+weight: 5
 ---
 
 
