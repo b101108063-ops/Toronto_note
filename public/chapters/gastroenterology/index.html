@@ -5,31 +5,55 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>胃腸學 (Gastroenterology) - Toronto Notes 2025 繁體中文</title>
   <style>
+    :root {
+      --bg-primary: #ffffff;
+      --bg-secondary: #f8fafc;
+      --text-primary: #1e293b;
+      --text-secondary: #64748b;
+      --accent: #2563eb;
+      --border: #e2e8f0;
+      --code-bg: #f1f5f9;
+      --link: #2563eb;
+      --link-visited: #5500bb;
+    }
+    [data-theme="dark"] {
+      --bg-primary: #1a1a2e;
+      --bg-secondary: #16162a;
+      --text-primary: #e4e4e7;
+      --text-secondary: #a1a1aa;
+      --accent: #93c5fd;
+      --border: #3f3f46;
+      --code-bg: #27272a;
+      --link: #93c5fd;
+      --link-visited: #c4b5fd;
+    }
     * { box-sizing: border-box; }
-    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; line-height: 1.6; color: #333; max-width: 900px; margin: 0 auto; padding: 20px; }
-    header { border-bottom: 2px solid #2563eb; padding-bottom: 10px; margin-bottom: 20px; }
-    header h1 { margin: 0; font-size: 1.5em; color: #2563eb; }
-    nav a { margin-right: 15px; color: #2563eb; text-decoration: none; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; line-height: 1.6; color: var(--text-primary); background: var(--bg-primary); max-width: 900px; margin: 0 auto; padding: 20px; }
+    header { border-bottom: 2px solid var(--accent); padding-bottom: 10px; margin-bottom: 20px; display: flex; justify-content: space-between; align-items: center; }
+    header h1 { margin: 0; font-size: 1.5em; color: var(--accent); }
+    nav a { margin-right: 15px; color: var(--link); text-decoration: none; }
     nav a:hover { text-decoration: underline; }
-    h1, h2, h3 { color: #1e293b; }
-    h1 { font-size: 1.8em; border-bottom: 1px solid #e2e8f0; padding-bottom: 8px; }
-    h2 { font-size: 1.4em; border-bottom: 1px solid #e2e8f0; padding-bottom: 5px; }
+    h1, h2, h3 { color: var(--text-primary); }
+    h1 { font-size: 1.8em; border-bottom: 1px solid var(--border); padding-bottom: 8px; }
+    h2 { font-size: 1.4em; border-bottom: 1px solid var(--border); padding-bottom: 5px; }
     h3 { font-size: 1.15em; }
-    pre { background: #f1f5f9; padding: 15px; border-radius: 6px; overflow-x: auto; }
-    code { background: #f1f5f9; padding: 2px 5px; border-radius: 3px; font-size: 0.9em; }
+    pre { background: var(--code-bg); padding: 15px; border-radius: 6px; overflow-x: auto; }
+    code { background: var(--code-bg); padding: 2px 5px; border-radius: 3px; font-size: 0.9em; }
     pre code { background: none; padding: 0; }
-    blockquote { border-left: 4px solid #2563eb; margin: 0; padding: 5px 15px; color: #64748b; background: #f8fafc; }
+    blockquote { border-left: 4px solid var(--accent); margin: 0; padding: 5px 15px; color: var(--text-secondary); background: var(--bg-secondary); }
     table { border-collapse: collapse; width: 100%; margin: 15px 0; }
-    th, td { border: 1px solid #cbd5e1; padding: 8px 12px; text-align: left; }
-    th { background: #f1f5f9; font-weight: 600; }
-    tr:nth-child(even) { background: #f8fafc; }
+    th, td { border: 1px solid var(--border); padding: 8px 12px; text-align: left; }
+    th { background: var(--bg-secondary); font-weight: 600; }
+    tr:nth-child(even) { background: var(--bg-secondary); }
     .content-body { line-height: 1.8; }
-    footer { border-top: 1px solid #e2e8f0; margin-top: 30px; padding-top: 15px; color: #64748b; font-size: 0.9em; }
-    .breadcrumb { font-size: 0.9em; color: #64748b; margin-bottom: 15px; }
-    .breadcrumb a { color: #2563eb; text-decoration: none; }
-    a { color: #2563eb; }
+    footer { border-top: 1px solid var(--border); margin-top: 30px; padding-top: 15px; color: var(--text-secondary); font-size: 0.9em; }
+    .breadcrumb { font-size: 0.9em; color: var(--text-secondary); margin-bottom: 15px; }
+    .breadcrumb a { color: var(--link); text-decoration: none; }
+    a { color: var(--link); }
     a:hover { text-decoration: underline; }
     img { max-width: 100%; height: auto; }
+    .theme-toggle { background: none; border: 1px solid var(--border); color: var(--text-primary); cursor: pointer; padding: 4px 10px; border-radius: 4px; font-size: 0.85em; }
+    .theme-toggle:hover { background: var(--bg-secondary); }
   </style>
 </head>
 <body>
@@ -38,6 +62,7 @@
       <a href="https://b101108063-ops.github.io/Toronto_note/">首頁</a>
       <a href="/Toronto_note/categories/">章節</a>
     </nav>
+    <button class="theme-toggle" onclick="toggleTheme()">🌙 暗色</button>
   </header>
 
   <main>
@@ -49,7 +74,7 @@
       <div class="content-body">
         <p><em>Toronto Notes 2025</em></p>
 <hr>
-<h2 id="導讀摘要">導讀摘要</h2>
+<h2 id="導讀摘要">導讀摘要<a class="anchor" href="#%e5%b0%8e%e8%ae%80%e6%91%98%e8%a6%81">#</a></h2>
 <p>本章節涵蓋胃腸學的核心內容，摘要如下：</p>
 <ul>
 <li><strong>急性腹瀉（Acute Diarrhea）</strong>：病因評估、補液治療、何時使用抗微生物製劑；旅客腹瀉、infectious diarrhea（細菌性、寄生蟲性、病毒性）之鑑別與處理</li>
@@ -59,16 +84,16 @@
 <li><strong>上消化道出血</strong>：peptic ulcer disease、esophageal varices 的內視鏡處理；下消化道出血：diverticular bleeding、hematochezia</li>
 </ul>
 <hr>
-<h2 id="胃腸學概論">胃腸學概論</h2>
-<h3 id="胃腸道檢查原則">胃腸道檢查原則</h3>
+<h2 id="胃腸學概論">胃腸學概論<a class="anchor" href="#%e8%83%83%e8%85%b8%e5%ad%b8%e6%a6%82%e8%ab%96">#</a></h2>
+<h3 id="胃腸道檢查原則">胃腸道檢查原則<a class="anchor" href="#%e8%83%83%e8%85%b8%e9%81%93%e6%aa%a2%e6%9f%a5%e5%8e%9f%e5%89%87">#</a></h3>
 <ul>
 <li><strong>內視鏡檢查</strong>：EGD（上消化道）、colonoscopy（下消化道）、ERCP（膽胰管）、wireless capsule endoscopy（小腸）</li>
 <li><strong>影像學</strong>：CT abdomen/pelvis、MRI/MRCP、腹部 X-ray（sentinel loop、colonic cut-off sign）</li>
 <li><strong>實驗室</strong>：CBC、electrolytes、LFTs、amylase/lipase、coagulation profile、stool studies</li>
 </ul>
 <hr>
-<h2 id="急性腹瀉acute-diarrhea">急性腹瀉（Acute Diarrhea）</h2>
-<h3 id="治療原則">治療原則</h3>
+<h2 id="急性腹瀉acute-diarrhea">急性腹瀉（Acute Diarrhea）<a class="anchor" href="#%e6%80%a5%e6%80%a7%e8%85%b9%e7%80%89acute-diarrhea">#</a></h2>
+<h3 id="治療原則">治療原則<a class="anchor" href="#%e6%b2%bb%e7%99%82%e5%8e%9f%e5%89%87">#</a></h3>
 <ul>
 <li>液體及電解質補充：大部分口服，嚴重症狀（低血壓、脱水、老人/昏迷）則靜脈注射</li>
 <li>抗腹瀉藥物
@@ -88,10 +113,9 @@
 <li>腹瀉疾病應向公共衛生單位通報</li>
 </ul>
 <p><strong>Figure 7. Approach to acute diarrhea</strong></p>
-<blockquote>
+<blockquote class='book-hint '>
 <p>注意：S. typhi 可能出現薔薇疹（transient maculopapular rash，分布於前胸及上腹部），並有高燒、心搏徐緩、頭痛、腹痛的先兆期。腹瀉非初期表現</p>
-</blockquote>
-<h3 id="table-9-感染性腹瀉之細菌bacteria-in-infectious-diarrhea">Table 9. 感染性腹瀉之細菌（Bacteria in Infectious Diarrhea）</h3>
+</blockquote><h3 id="table-9-感染性腹瀉之細菌bacteria-in-infectious-diarrhea">Table 9. 感染性腹瀉之細菌（Bacteria in Infectious Diarrhea）<a class="anchor" href="#table-9-%e6%84%9f%e6%9f%93%e6%80%a7%e8%85%b9%e7%80%89%e4%b9%8b%e7%b4%b0%e8%8f%8cbacteria-in-infectious-diarrhea">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -215,7 +239,7 @@
       </tr>
   </tbody>
 </table>
-<h3 id="table-10-感染性腹瀉之寄生蟲parasites-in-infectious-diarrhea">Table 10. 感染性腹瀉之寄生蟲（Parasites in Infectious Diarrhea）</h3>
+<h3 id="table-10-感染性腹瀉之寄生蟲parasites-in-infectious-diarrhea">Table 10. 感染性腹瀉之寄生蟲（Parasites in Infectious Diarrhea）<a class="anchor" href="#table-10-%e6%84%9f%e6%9f%93%e6%80%a7%e8%85%b9%e7%80%89%e4%b9%8b%e5%af%84%e7%94%9f%e8%9f%b2parasites-in-infectious-diarrhea">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -258,7 +282,7 @@
       </tr>
   </tbody>
 </table>
-<h3 id="table-11-感染性腹瀉之病毒viruses-in-infectious-diarrhea">Table 11. 感染性腹瀉之病毒（Viruses in Infectious Diarrhea）</h3>
+<h3 id="table-11-感染性腹瀉之病毒viruses-in-infectious-diarrhea">Table 11. 感染性腹瀉之病毒（Viruses in Infectious Diarrhea）<a class="anchor" href="#table-11-%e6%84%9f%e6%9f%93%e6%80%a7%e8%85%b9%e7%80%89%e4%b9%8b%e7%97%85%e6%af%92viruses-in-infectious-diarrhea">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -292,7 +316,7 @@
       </tr>
   </tbody>
 </table>
-<h3 id="旅客腹瀉travellers-diarrhea">旅客腹瀉（Traveller&rsquo;s Diarrhea）</h3>
+<h3 id="旅客腹瀉travellers-diarrhea">旅客腹瀉（Traveller&rsquo;s Diarrhea）<a class="anchor" href="#%e6%97%85%e5%ae%a2%e8%85%b9%e7%80%89travellers-diarrhea">#</a></h3>
 <p><strong>流行病學</strong></p>
 <ul>
 <li>旅客最常見疾病：至開發中國家旅遊者前 2 週有達 50% 感染，返國後 10-20%</li>
@@ -318,7 +342,7 @@
 <li>Dukoral® 口服疫苗：對 V. cholerae（~80%）及 ETEC（~50-67%）有保護效力</li>
 </ul>
 <hr>
-<h2 id="慢性腹瀉chronic-diarrhea">慢性腹瀉（Chronic Diarrhea）</h2>
+<h2 id="慢性腹瀉chronic-diarrhea">慢性腹瀉（Chronic Diarrhea）<a class="anchor" href="#%e6%85%a2%e6%80%a7%e8%85%b9%e7%80%89chronic-diarrhea">#</a></h2>
 <p><strong>定義</strong>：頻繁解軟便 &gt;4 週（相較於持續性腹瀉 14-30 天）</p>
 <p><strong>病因</strong></p>
 <ul>
@@ -334,7 +358,7 @@
 </ul>
 <p><strong>治療</strong>：取決於根本病因</p>
 <hr>
-<h2 id="消化不良與吸收不良maldigestion-and-malabsorption">消化不良與吸收不良（Maldigestion and Malabsorption）</h2>
+<h2 id="消化不良與吸收不良maldigestion-and-malabsorption">消化不良與吸收不良（Maldigestion and Malabsorption）<a class="anchor" href="#%e6%b6%88%e5%8c%96%e4%b8%8d%e8%89%af%e8%88%87%e5%90%b8%e6%94%b6%e4%b8%8d%e8%89%afmaldigestion-and-malabsorption">#</a></h2>
 <p><strong>定義</strong></p>
 <ul>
 <li>Maldigestion：無法將大分子分解為小分子</li>
@@ -458,7 +482,7 @@
 </ul>
 <p><strong>治療</strong>：取決於根本病因</p>
 <hr>
-<h2 id="celiac-disease乳糜瀉">Celiac Disease（乳糜瀉）</h2>
+<h2 id="celiac-disease乳糜瀉">Celiac Disease（乳糜瀉）<a class="anchor" href="#celiac-disease%e4%b9%b3%e7%b3%9c%e7%80%89">#</a></h2>
 <p><strong>定義</strong>：小腸黏膜對麩質（gluten）之異常免疫反應；麩質來自小麥、大麥、黑麥、可能燕麥</p>
 <p><strong>病因</strong></p>
 <ul>
@@ -510,7 +534,7 @@
 <li>無麩質飲食可能降低淋巴瘤風險</li>
 </ul>
 <hr>
-<h2 id="發炎性腸道疾病inflammatory-bowel-disease-ibd">發炎性腸道疾病（Inflammatory Bowel Disease, IBD）</h2>
+<h2 id="發炎性腸道疾病inflammatory-bowel-disease-ibd">發炎性腸道疾病（Inflammatory Bowel Disease, IBD）<a class="anchor" href="#%e7%99%bc%e7%82%8e%e6%80%a7%e8%85%b8%e9%81%93%e7%96%be%e7%97%85inflammatory-bowel-disease-ibd">#</a></h2>
 <p><strong>定義</strong>：胃腸道發炎及潰瘍性疾病；主要包括 Crohn&rsquo;s disease（CD）及 Ulcerative colitis（UC）</p>
 <p><strong>病因</strong></p>
 <ul>
@@ -525,7 +549,7 @@
 <li>多基因模式：200+ 相關基因位點</li>
 <li>CARD15/NOD2 基因突變與 CD 相關（異型合子相對風險 3；同型合子 40）；尤其 Ashkenazi 猶太人、早發、迴腸侵犯、瘻管/纖維狹窄疾病</li>
 </ul>
-<h3 id="table-13-crohns-disease-與-ulcerative-colitis-之鑑別診斷">Table 13. Crohn&rsquo;s Disease 與 Ulcerative Colitis 之鑑別診斷</h3>
+<h3 id="table-13-crohns-disease-與-ulcerative-colitis-之鑑別診斷">Table 13. Crohn&rsquo;s Disease 與 Ulcerative Colitis 之鑑別診斷<a class="anchor" href="#table-13-crohns-disease-%e8%88%87-ulcerative-colitis-%e4%b9%8b%e9%91%91%e5%88%a5%e8%a8%ba%e6%96%b7">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -617,7 +641,7 @@
       </tr>
   </tbody>
 </table>
-<h3 id="table-14-ibd-之腸道外表現extraintestinal-manifestations-of-ibd">Table 14. IBD 之腸道外表現（Extraintestinal Manifestations of IBD）</h3>
+<h3 id="table-14-ibd-之腸道外表現extraintestinal-manifestations-of-ibd">Table 14. IBD 之腸道外表現（Extraintestinal Manifestations of IBD）<a class="anchor" href="#table-14-ibd-%e4%b9%8b%e8%85%b8%e9%81%93%e5%a4%96%e8%a1%a8%e7%8f%beextraintestinal-manifestations-of-ibd">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -749,7 +773,7 @@
       </tr>
   </tbody>
 </table>
-<h3 id="crohns-disease">Crohn&rsquo;s Disease</h3>
+<h3 id="crohns-disease">Crohn&rsquo;s Disease<a class="anchor" href="#crohns-disease">#</a></h3>
 <p><strong>定義</strong>：慢性透壁性發炎疾病，可侵犯口腔至肛門之整個腸道（「口到肛」）</p>
 <p><strong>流行病學</strong></p>
 <ul>
@@ -774,7 +798,7 @@
 <li>常見：瘻管、裂隙、膿腫</li>
 <li>深裂隙有局部穿孔至鄰近臟器風險（導致瘻管及膿腫）</li>
 </ul>
-<h3 id="crohns-disease-之治療">Crohn&rsquo;s Disease 之治療</h3>
+<h3 id="crohns-disease-之治療">Crohn&rsquo;s Disease 之治療<a class="anchor" href="#crohns-disease-%e4%b9%8b%e6%b2%bb%e7%99%82">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -813,7 +837,7 @@
       </tr>
   </tbody>
 </table>
-<h3 id="ulcerative-colitis潰瘍性結腸炎">Ulcerative Colitis（潰瘍性結腸炎）</h3>
+<h3 id="ulcerative-colitis潰瘍性結腸炎">Ulcerative Colitis（潰瘍性結腸炎）<a class="anchor" href="#ulcerative-colitis%e6%bd%b0%e7%98%8d%e6%80%a7%e7%b5%90%e8%85%b8%e7%82%8e">#</a></h3>
 <p><strong>定義</strong>：始於直腸之瀰漫性黏膜發炎，連續性向近端發展，不侵犯小腸</p>
 <p><strong>流行病學</strong></p>
 <ul>
@@ -836,7 +860,7 @@
 <li>結腸直腸癌：病程 &gt;30% 結腸侵犯、PSC 併發；spy surveillance colonoscopy（見下）</li>
 <li>骨質疏鬆</li>
 </ul>
-<h3 id="ulcerative-colitis-之治療">Ulcerative Colitis 之治療</h3>
+<h3 id="ulcerative-colitis-之治療">Ulcerative Colitis 之治療<a class="anchor" href="#ulcerative-colitis-%e4%b9%8b%e6%b2%bb%e7%99%82">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -868,7 +892,7 @@
   </tbody>
 </table>
 <p><strong>大腸癌監測</strong>：從診斷起 8 年開始，每 1-3 年 colonoscopic surveillance；PANCA 監測無證據支持可減少癌變</p>
-<h3 id="irritable-bowel-syndrome腸躁症ibs">Irritable Bowel Syndrome（腸躁症，IBS）</h3>
+<h3 id="irritable-bowel-syndrome腸躁症ibs">Irritable Bowel Syndrome（腸躁症，IBS）<a class="anchor" href="#irritable-bowel-syndrome%e8%85%b8%e8%ba%81%e7%97%87ibs">#</a></h3>
 <p><strong>定義</strong>：反覆腹痛，伴隨排便習慣改變，無結構或器官異常</p>
 <p><strong>Table. Rome IV Criteria for Diagnosing IBS</strong></p>
 <ul>
@@ -910,7 +934,7 @@
 <li>疼痛為主：antispasmodics、low-dose TCAs、SSRIs</li>
 </ul>
 <hr>
-<h2 id="上消化道出血upper-gastrointestinal-bleeding">上消化道出血（Upper Gastrointestinal Bleeding）</h2>
+<h2 id="上消化道出血upper-gastrointestinal-bleeding">上消化道出血（Upper Gastrointestinal Bleeding）<a class="anchor" href="#%e4%b8%8a%e6%b6%88%e5%8c%96%e9%81%93%e5%87%ba%e8%a1%80upper-gastrointestinal-bleeding">#</a></h2>
 <p><strong>定義</strong>：Treitz 韌帶近端出血</p>
 <p><strong>病因</strong></p>
 <ul>
@@ -949,7 +973,7 @@
 <li>抗凝劑/抗血小板：停用（血栓風險 vs 出血風險權衡）</li>
 <li>手術：內視鏡/介入放射學失敗時</li>
 </ul>
-<h3 id="peptic-ulcer-disease消化性潰痬">Peptic Ulcer Disease（消化性潰痬）</h3>
+<h3 id="peptic-ulcer-disease消化性潰痬">Peptic Ulcer Disease（消化性潰痬）<a class="anchor" href="#peptic-ulcer-disease%e6%b6%88%e5%8c%96%e6%80%a7%e6%bd%b0%e7%97%ac">#</a></h3>
 <p><strong>定義</strong>：胃或十二指腸黏膜糜爛/潰痬</p>
 <p><strong>病因</strong></p>
 <ul>
@@ -976,7 +1000,7 @@
 <li><strong>NSAID 相關</strong>：停用 NSAIDs + PPI；繼續 NSAID + PPI；COX-2 selective inhibitor + PPI</li>
 <li><strong>出血</strong>：內視鏡止血（見上）</li>
 </ul>
-<h3 id="esophageal-varices食道靜脈曲張">Esophageal Varices（食道靜脈曲張）</h3>
+<h3 id="esophageal-varices食道靜脈曲張">Esophageal Varices（食道靜脈曲張）<a class="anchor" href="#esophageal-varices%e9%a3%9f%e9%81%93%e9%9d%9c%e8%84%88%e6%9b%b2%e5%bc%b5">#</a></h3>
 <p><strong>定義</strong>：門脈高壓導致食道靜脈曲張</p>
 <p><strong>治療</strong></p>
 <ul>
@@ -1001,7 +1025,7 @@
 </li>
 </ul>
 <hr>
-<h2 id="下消化道出血lower-gastrointestinal-bleeding">下消化道出血（Lower Gastrointestinal Bleeding）</h2>
+<h2 id="下消化道出血lower-gastrointestinal-bleeding">下消化道出血（Lower Gastrointestinal Bleeding）<a class="anchor" href="#%e4%b8%8b%e6%b6%88%e5%8c%96%e9%81%93%e5%87%ba%e8%a1%80lower-gastrointestinal-bleeding">#</a></h2>
 <p><strong>定義</strong>：Treitz 韌帶遠端出血</p>
 <p><strong>病因</strong></p>
 <ul>
@@ -1023,7 +1047,7 @@
 <li>Colonoscopy：定位出血來源；嚴重時考慮 radionuclide imaging 或 angiography</li>
 <li>治療根本病因</li>
 </ul>
-<h3 id="憩室出血diverticular-bleeding">憩室出血（Diverticular Bleeding）</h3>
+<h3 id="憩室出血diverticular-bleeding">憩室出血（Diverticular Bleeding）<a class="anchor" href="#%e6%86%a9%e5%ae%a4%e5%87%ba%e8%a1%80diverticular-bleeding">#</a></h3>
 <ul>
 <li>無痛性血便（急性）</li>
 <li>糞便可從鮮紅至暗紅褐色；常混合膠凍狀血塊</li>
@@ -1031,8 +1055,8 @@
 <li>結腸鏡定位出血點（少見）；持續則考慮栓塞或手術</li>
 </ul>
 <hr>
-<h2 id="肝膽疾病hepatobiliary-disease">肝膽疾病（Hepatobiliary Disease）</h2>
-<h3 id="肝功能檢查liver-function-tests">肝功能檢查（Liver Function Tests）</h3>
+<h2 id="肝膽疾病hepatobiliary-disease">肝膽疾病（Hepatobiliary Disease）<a class="anchor" href="#%e8%82%9d%e8%86%bd%e7%96%be%e7%97%85hepatobiliary-disease">#</a></h2>
+<h3 id="肝功能檢查liver-function-tests">肝功能檢查（Liver Function Tests）<a class="anchor" href="#%e8%82%9d%e5%8a%9f%e8%83%bd%e6%aa%a2%e6%9f%a5liver-function-tests">#</a></h3>
 <p><strong>Table 17. 肝功能檢查</strong></p>
 <table>
   <thead>
@@ -1084,8 +1108,8 @@
 </table>
 <p><strong>ALP 不成比例上升（相對於 ALT/AST）</strong>：考慮膽道阻塞（結石、胰頭癌、膽管癌、primary sclerosing cholangitis）、肝臟浸潤（轉移、淋巴瘤、肉芽腫、澱粉樣變）、原發性膽道膽管炎（PBC）、藥物、懷孕膽汁淤積</p>
 <hr>
-<h2 id="病毒性肝炎viral-hepatitis">病毒性肝炎（Viral Hepatitis）</h2>
-<h3 id="急性病毒性肝炎一般">急性病毒性肝炎（一般）</h3>
+<h2 id="病毒性肝炎viral-hepatitis">病毒性肝炎（Viral Hepatitis）<a class="anchor" href="#%e7%97%85%e6%af%92%e6%80%a7%e8%82%9d%e7%82%8eviral-hepatitis">#</a></h2>
+<h3 id="急性病毒性肝炎一般">急性病毒性肝炎（一般）<a class="anchor" href="#%e6%80%a5%e6%80%a7%e7%97%85%e6%af%92%e6%80%a7%e8%82%9d%e7%82%8e%e4%b8%80%e8%88%ac">#</a></h3>
 <p><strong>定義</strong>：病毒性肝炎持續 &lt;6 個月</p>
 <p><strong>臨床特徵</strong></p>
 <ul>
@@ -1101,7 +1125,7 @@
 </ul>
 <p><strong>治療</strong>：支持性（補液、飲食）；自限性</p>
 <p><strong>預後不良指標</strong>：共病症、膽紅素持續高（&gt;340 μmol/L = 20 mg/dL）、INR 上升、白蛋白下降、低血糖</p>
-<h3 id="hepatitis-a-virusa-型肝炎">Hepatitis A Virus（A 型肝炎）</h3>
+<h3 id="hepatitis-a-virusa-型肝炎">Hepatitis A Virus（A 型肝炎）<a class="anchor" href="#hepatitis-a-virusa-%e5%9e%8b%e8%82%9d%e7%82%8e">#</a></h3>
 <ul>
 <li>單股 RNA 病毒；糞口傳染；潛伏期 4-6 週</li>
 <li>診斷：transaminases 上升、anti-HAV IgM 陽性</li>
@@ -1111,7 +1135,7 @@
 <li>可復發（罕見）；從不慢性化</li>
 <li>支持治療；可疫苗預防；接觸後可用免疫球蛋白預防</li>
 </ul>
-<h3 id="hepatitis-b-virusb-型肝炎">Hepatitis B Virus（B 型肝炎）</h3>
+<h3 id="hepatitis-b-virusb-型肝炎">Hepatitis B Virus（B 型肝炎）<a class="anchor" href="#hepatitis-b-virusb-%e5%9e%8b%e8%82%9d%e7%82%8e">#</a></h3>
 <p><strong>Table 19. Hepatitis B Serology</strong></p>
 <table>
   <thead>
@@ -1184,31 +1208,31 @@
 <li>併發症：肝硬化（5-10%/5年未治療）、HCC</li>
 <li>治療：急性 HBV（自限性，嚴重時用 tenofovir 或 entecavir）；慢性 HBV（tenofovir/entecavir 抑制複製）</li>
 </ul>
-<h3 id="hepatitis-c-virusc-型肝炎">Hepatitis C Virus（C 型肝炎）</h3>
+<h3 id="hepatitis-c-virusc-型肝炎">Hepatitis C Virus（C 型肝炎）<a class="anchor" href="#hepatitis-c-virusc-%e5%9e%8b%e8%82%9d%e7%82%8e">#</a></h3>
 <ul>
 <li>急性 C 型肝炎通常無症狀；10-50% 自行清除，50-90% 慢性化</li>
 <li>診斷：anti-HCV 抗體 + HCV RNA（確診）</li>
 <li>治療：直接作用抗病毒藥物（DAA）- elbasvir/grazoprevir、ledipasvir/sofosbuvir、sofosbuvir/velpatasvir、glecaprevir/pibrentasvir</li>
 <li>DAA 治療可達 &gt;95% SVR（持續病毒學反應）</li>
 </ul>
-<h3 id="hepatitis-d-virusd-型肝炎">Hepatitis D Virus（D 型肝炎）</h3>
+<h3 id="hepatitis-d-virusd-型肝炎">Hepatitis D Virus（D 型肝炎）<a class="anchor" href="#hepatitis-d-virusd-%e5%9e%8b%e8%82%9d%e7%82%8e">#</a></h3>
 <ul>
 <li>需要 HBsAg 才能複製；與 HBV 重複感染或超感染</li>
 <li>使 HBV 感染更嚴重；增加急性肝衰竭及 cirrhosis 風險</li>
 </ul>
-<h3 id="autoimmune-hepatitis自體免疫性肝炎">Autoimmune Hepatitis（自體免疫性肝炎）</h3>
+<h3 id="autoimmune-hepatitis自體免疫性肝炎">Autoimmune Hepatitis（自體免疫性肝炎）<a class="anchor" href="#autoimmune-hepatitis%e8%87%aa%e9%ab%94%e5%85%8d%e7%96%ab%e6%80%a7%e8%82%9d%e7%82%8e">#</a></h3>
 <ul>
 <li>慢性進行性肝臟疾病；女性為主（70%）</li>
 <li>類型 1：ANA、SMA 陽性；類型 2：抗 LKM-1 陽性</li>
 <li>免疫抑制治療：prednisone ± azathioprine</li>
 </ul>
-<h3 id="drug-induced-liver-injury藥物性肝損傷">Drug-Induced Liver Injury（藥物性肝損傷）</h3>
+<h3 id="drug-induced-liver-injury藥物性肝損傷">Drug-Induced Liver Injury（藥物性肝損傷）<a class="anchor" href="#drug-induced-liver-injury%e8%97%a5%e7%89%a9%e6%80%a7%e8%82%9d%e6%90%8d%e5%82%b7">#</a></h3>
 <ul>
 <li>Acetaminophen（對乙醯胺酚）：劑量依賴性；N-acetylcysteine 解毒</li>
 <li>其他常見：isoniazid、methotrexate、valproic acid、amiodarone、statins</li>
 </ul>
 <hr>
-<h2 id="酒精相關肝病alcohol-related-liver-disease">酒精相關肝病（Alcohol-Related Liver Disease）</h2>
+<h2 id="酒精相關肝病alcohol-related-liver-disease">酒精相關肝病（Alcohol-Related Liver Disease）<a class="anchor" href="#%e9%85%92%e7%b2%be%e7%9b%b8%e9%97%9c%e8%82%9d%e7%97%85alcohol-related-liver-disease">#</a></h2>
 <p><strong>疾病譜</strong></p>
 <ul>
 <li>單純性脂肪肝（可逆）</li>
@@ -1224,7 +1248,7 @@
 <li>死亡率：中重度 30-50%</li>
 </ul>
 <hr>
-<h2 id="cirrhosis肝硬化">Cirrhosis（肝硬化）</h2>
+<h2 id="cirrhosis肝硬化">Cirrhosis（肝硬化）<a class="anchor" href="#cirrhosis%e8%82%9d%e7%a1%ac%e5%8c%96">#</a></h2>
 <p><strong>定義</strong>：不可逆性瀰漫性肝纖維化 + 結節再生</p>
 <p><strong>病因</strong></p>
 <ul>
@@ -1306,7 +1330,7 @@
   </tbody>
 </table>
 <p><strong>MELD Score</strong>（終末期肝病模型）：用於 liver transplant allocation；範圍 6-40</p>
-<h3 id="肝硬化併發症">肝硬化併發症</h3>
+<h3 id="肝硬化併發症">肝硬化併發症<a class="anchor" href="#%e8%82%9d%e7%a1%ac%e5%8c%96%e4%bd%b5%e7%99%bc%e7%97%87">#</a></h3>
 <ul>
 <li><strong>Portal Hypertension（門脈高壓）</strong>：
 <ul>
@@ -1321,7 +1345,7 @@
 <li><strong>Hepatocellular Carcinoma（HCC，肝細胞癌）</strong></li>
 <li><strong>Hepatorenal Syndrome（肝腎症候群）</strong></li>
 </ul>
-<h3 id="ascites腹水">Ascites（腹水）</h3>
+<h3 id="ascites腹水">Ascites（腹水）<a class="anchor" href="#ascites%e8%85%b9%e6%b0%b4">#</a></h3>
 <p><strong>病因</strong>：門脈高壓 → 內臟血管擴張 → RAAS/SNS 活化 → 鈉水滯留</p>
 <p><strong>Table 23. SAAG（Serum-Ascites Albumin Gradient）</strong></p>
 <ul>
@@ -1337,7 +1361,7 @@
 <li>難治性腹水：TIPS 或 liver transplant</li>
 </ul>
 <p><strong>SBP 預防</strong>：既往 SBP 病史或 GI 出血 + 肝硬化：norfoxacin 或 ciprofloxacin</p>
-<h3 id="hepatic-encephalopathy肝性腦病變">Hepatic Encephalopathy（肝性腦病變）</h3>
+<h3 id="hepatic-encephalopathy肝性腦病變">Hepatic Encephalopathy（肝性腦病變）<a class="anchor" href="#hepatic-encephalopathy%e8%82%9d%e6%80%a7%e8%85%a6%e7%97%85%e8%ae%8a">#</a></h3>
 <p><strong>定義</strong>：肝衰竭導致氨等毒素累積，影響腦功能</p>
 <p><strong>病因/誘發因素</strong></p>
 <ul>
@@ -1355,14 +1379,14 @@
 <li>Rifaximin（利福昔明）： Lactulose 失敗或附加治療</li>
 <li>排除/治療誘發因素</li>
 </ul>
-<h3 id="spontaneous-bacterial-peritonitissbp自發性細菌性腹膜炎">Spontaneous Bacterial Peritonitis（SBP，自發性細菌性腹膜炎）</h3>
+<h3 id="spontaneous-bacterial-peritonitissbp自發性細菌性腹膜炎">Spontaneous Bacterial Peritonitis（SBP，自發性細菌性腹膜炎）<a class="anchor" href="#spontaneous-bacterial-peritonitissbp%e8%87%aa%e7%99%bc%e6%80%a7%e7%b4%b0%e8%8f%8c%e6%80%a7%e8%85%b9%e8%86%9c%e7%82%8e">#</a></h3>
 <ul>
 <li>定義：無明確腹腔內感染源之腹水感染</li>
 <li>診斷：腹水 PMN ≥250 cells/mm³；培養通常單一菌種（E. coli、Klebsiella、Enterococcus）</li>
 <li>經驗性治療：ceftriaxone 或 cefotaxime（覆蓋 Gram-negative）；加白蛋白（1.5 g/kg 第 1 天 + 1 g/kg 第 3 天）預防 HRS</li>
 <li>預防：既往 SBP 後需 long-term prophylaxis（norfoxacin 或 trimethoprim-sulfamethoxazole）</li>
 </ul>
-<h3 id="jaundice黃疸">Jaundice（黃疸）</h3>
+<h3 id="jaundice黃疸">Jaundice（黃疸）<a class="anchor" href="#jaundice%e9%bb%83%e7%96%b8">#</a></h3>
 <p><strong>定義</strong>：膽紅素 &gt;42 μmol/L（2.5 mg/dL）→ 皮膚/鞏膜黃染</p>
 <p><strong>類型</strong></p>
 <ul>
@@ -1377,14 +1401,14 @@
 <li>膽道擴張 → 膽道阻塞（結石、腫瘤、狹窄）</li>
 <li>膽道不擴張 → 肝細胞性（肝炎、藥物）或非阻塞性膽汁淤積（PBC、PSC）</li>
 </ul>
-<h3 id="primary-biliary-cholangitispbc原發性膽道膽管炎">Primary Biliary Cholangitis（PBC，原發性膽道膽管炎）</h3>
+<h3 id="primary-biliary-cholangitispbc原發性膽道膽管炎">Primary Biliary Cholangitis（PBC，原發性膽道膽管炎）<a class="anchor" href="#primary-biliary-cholangitispbc%e5%8e%9f%e7%99%bc%e6%80%a7%e8%86%bd%e9%81%93%e8%86%bd%e7%ae%a1%e7%82%8e">#</a></h3>
 <ul>
 <li>自身免疫性進行性膽道破壞；中年女性（90%）</li>
 <li>抗粒線體抗體（AMA）陽性（&gt;95%）</li>
 <li>症狀：疲倦、搔癢、右上腹痛；晚期肝硬化</li>
 <li>治療：ursodeoxycholic acid（UDCA）；obeticholic acid（對 UDCA 反應不佳者）</li>
 </ul>
-<h3 id="primary-sclerosing-cholangitispsc原發性硬化性膽管炎">Primary Sclerosing Cholangitis（PSC，原發性硬化性膽管炎）</h3>
+<h3 id="primary-sclerosing-cholangitispsc原發性硬化性膽管炎">Primary Sclerosing Cholangitis（PSC，原發性硬化性膽管炎）<a class="anchor" href="#primary-sclerosing-cholangitispsc%e5%8e%9f%e7%99%bc%e6%80%a7%e7%a1%ac%e5%8c%96%e6%80%a7%e8%86%bd%e7%ae%a1%e7%82%8e">#</a></h3>
 <ul>
 <li>膽管發炎、纖維化、狹窄；年輕男性（70%）</li>
 <li>60-70% 合併 IBD（通常 UC）</li>
@@ -1392,7 +1416,7 @@
 <li>治療：UDCA；內視鏡擴張顯著狹窄；末期 liver transplant</li>
 </ul>
 <hr>
-<h2 id="膽結石gallstones">膽結石（Gallstones）</h2>
+<h2 id="膽結石gallstones">膽結石（Gallstones）<a class="anchor" href="#%e8%86%bd%e7%b5%90%e7%9f%b3gallstones">#</a></h2>
 <p><strong>類型</strong></p>
 <ul>
 <li><strong>Cholesterol stones（膽固醇結石）</strong>（80%）：肥胖、Fibrogenic diseases、pregnancy、迴腸疾病、Crohn&rsquo;s disease</li>
@@ -1410,8 +1434,8 @@
 <li>膽管結石：ERCP + sphincterotomy + stone extraction；必要時外科手術</li>
 </ul>
 <hr>
-<h2 id="胰臟疾病pancreatic-disease">胰臟疾病（Pancreatic Disease）</h2>
-<h3 id="胰臟酶異常">胰臟酶異常</h3>
+<h2 id="胰臟疾病pancreatic-disease">胰臟疾病（Pancreatic Disease）<a class="anchor" href="#%e8%83%b0%e8%87%9f%e7%96%be%e7%97%85pancreatic-disease">#</a></h2>
+<h3 id="胰臟酶異常">胰臟酶異常<a class="anchor" href="#%e8%83%b0%e8%87%9f%e9%85%b6%e7%95%b0%e5%b8%b8">#</a></h3>
 <p><strong>Amylase 上升原因</strong></p>
 <ul>
 <li>胰臟疾病：胰臟炎、胰管阻塞、假囊腫、膿腫、腹水、外傷、癌症</li>
@@ -1425,10 +1449,9 @@
 <li>非胰臟腹部（輕微上升）：同上</li>
 <li>非腹部：macrolipasemia、腎功能不足</li>
 </ul>
-<blockquote>
+<blockquote class='book-hint '>
 <p>Amylase &gt;5x 正常：幾乎一定是胰臟炎或腎病</p>
-</blockquote>
-<h3 id="急性胰臟炎acute-pancreatitis">急性胰臟炎（Acute Pancreatitis）</h3>
+</blockquote><h3 id="急性胰臟炎acute-pancreatitis">急性胰臟炎（Acute Pancreatitis）<a class="anchor" href="#%e6%80%a5%e6%80%a7%e8%83%b0%e8%87%9f%e7%82%8eacute-pancreatitis">#</a></h3>
 <p><strong>病因（I GET SMASHED）</strong></p>
 <ul>
 <li><strong>I</strong>diopathic（特發性）：可能為高血壓性括約肌或微結石</li>
@@ -1524,7 +1547,7 @@
 <li>營養支持：NJ feeding tube 或 TPN（無法口服時）</li>
 <li>侵入性介入：引流、壞死清除（necrosectomy）；適應症：假囊腫或 WON 感染</li>
 </ul>
-<h3 id="慢性胰臟炎chronic-pancreatitis">慢性胰臟炎（Chronic Pancreatitis）</h3>
+<h3 id="慢性胰臟炎chronic-pancreatitis">慢性胰臟炎（Chronic Pancreatitis）<a class="anchor" href="#%e6%85%a2%e6%80%a7%e8%83%b0%e8%87%9f%e7%82%8echronic-pancreatitis">#</a></h3>
 <p><strong>定義</strong>：胰臟持續性發炎 → 纖維化 → 不可逆性外/內分泌功能不足</p>
 <p><strong>病因</strong>：酒精（70-80%）、胰臟阻塞（創傷、狹窄）、囊腫纖維化、遺傳性（PRSS1、SPINK1、CFTR）、特發性</p>
 <p><strong>臨床特徵</strong></p>
@@ -1549,7 +1572,7 @@
 <li>內視鏡：胰管支架、結石移除</li>
 <li>手術：Pancreaticojejunostomy（Puestow）、胰臟切除</li>
 </ul>
-<h3 id="胰臟癌pancreatic-cancer">胰臟癌（Pancreatic Cancer）</h3>
+<h3 id="胰臟癌pancreatic-cancer">胰臟癌（Pancreatic Cancer）<a class="anchor" href="#%e8%83%b0%e8%87%9f%e7%99%8cpancreatic-cancer">#</a></h3>
 <ul>
 <li>胰管腺癌（90%）；好發於胰頭（60-70%）</li>
 <li>風險因子：吸菸、慢性胰臟炎、diabetes、obesity、familial syndromes</li>
@@ -1574,5 +1597,19 @@
   <footer>
     <p>Powered by Hugo | Toronto Notes 2025 繁體中文翻譯</p>
   </footer>
+  <script>
+    function toggleTheme() {
+      const html = document.documentElement;
+      const current = html.getAttribute('data-theme');
+      const next = current === 'dark' ? 'light' : 'dark';
+      html.setAttribute('data-theme', next);
+      localStorage.setItem('theme', next);
+    }
+    const saved = localStorage.getItem('theme');
+    if (saved) document.documentElement.setAttribute('data-theme', saved);
+    else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+      document.documentElement.setAttribute('data-theme', 'dark');
+    }
+  </script>
 </body>
 </html>

@@ -6,25 +6,49 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Toronto Notes 2025 繁體中文</title>
   <style>
+    :root {
+      --bg-primary: #ffffff;
+      --bg-secondary: #f8fafc;
+      --bg-intro: #f0f9ff;
+      --border-intro: #bae6fd;
+      --text-primary: #1e293b;
+      --text-secondary: #64748b;
+      --text-intro: #0c4a6e;
+      --accent: #2563eb;
+      --border: #e2e8f0;
+    }
+    [data-theme="dark"] {
+      --bg-primary: #1a1a2e;
+      --bg-secondary: #16162a;
+      --bg-intro: #1e3a5f;
+      --border-intro: #3b82f6;
+      --text-primary: #e4e4e7;
+      --text-secondary: #a1a1aa;
+      --text-intro: #93c5fd;
+      --accent: #93c5fd;
+      --border: #3f3f46;
+    }
     * { box-sizing: border-box; }
-    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; line-height: 1.6; color: #333; max-width: 900px; margin: 0 auto; padding: 20px; }
-    header { border-bottom: 2px solid #2563eb; padding-bottom: 10px; margin-bottom: 30px; }
-    header h1 { margin: 0; font-size: 1.8em; color: #2563eb; }
-    nav a { margin-right: 15px; color: #2563eb; text-decoration: none; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; line-height: 1.6; color: var(--text-primary); background: var(--bg-primary); max-width: 900px; margin: 0 auto; padding: 20px; }
+    header { border-bottom: 2px solid var(--accent); padding-bottom: 10px; margin-bottom: 30px; display: flex; justify-content: space-between; align-items: center; }
+    header h1 { margin: 0; font-size: 1.8em; color: var(--accent); }
+    nav a { margin-right: 15px; color: var(--accent); text-decoration: none; }
     nav a:hover { text-decoration: underline; }
-    h1, h2 { color: #1e293b; }
+    h1, h2 { color: var(--text-primary); }
     h1 { font-size: 2em; text-align: center; margin-bottom: 10px; }
-    h2 { font-size: 1.3em; border-bottom: 1px solid #e2e8f0; padding-bottom: 5px; }
-    .subtitle { text-align: center; color: #64748b; font-size: 1.1em; margin-bottom: 30px; }
+    h2 { font-size: 1.3em; border-bottom: 1px solid var(--border); padding-bottom: 5px; }
+    .subtitle { text-align: center; color: var(--text-secondary); font-size: 1.1em; margin-bottom: 30px; }
     .card-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 15px; margin-top: 20px; }
-    .card { background: #f8fafc; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; padding: 15px; border-radius: 4px; }
-    .card a { color: #1e293b; text-decoration: none; font-weight: 600; font-size: 1.05em; display: block; }
-    .card a:hover { color: #2563eb; text-decoration: underline; }
-    .intro { background: #f0f9ff; border: 1px solid #bae6fd; padding: 20px; border-radius: 8px; margin-bottom: 30px; }
-    .intro p { margin: 0; color: #0c4a6e; }
-    footer { border-top: 1px solid #e2e8f0; margin-top: 30px; padding-top: 15px; color: #64748b; font-size: 0.9em; text-align: center; }
-    a { color: #2563eb; }
+    .card { background: var(--bg-secondary); border: 1px solid var(--border); border-left: 4px solid var(--accent); padding: 15px; border-radius: 4px; }
+    .card a { color: var(--text-primary); text-decoration: none; font-weight: 600; font-size: 1.05em; display: block; }
+    .card a:hover { color: var(--accent); text-decoration: underline; }
+    .intro { background: var(--bg-intro); border: 1px solid var(--border-intro); padding: 20px; border-radius: 8px; margin-bottom: 30px; }
+    .intro p { margin: 0; color: var(--text-intro); }
+    footer { border-top: 1px solid var(--border); margin-top: 30px; padding-top: 15px; color: var(--text-secondary); font-size: 0.9em; text-align: center; }
+    a { color: var(--accent); }
     a:hover { text-decoration: underline; }
+    .theme-toggle { background: none; border: 1px solid var(--border); color: var(--text-primary); cursor: pointer; padding: 4px 10px; border-radius: 4px; font-size: 0.85em; }
+    .theme-toggle:hover { background: var(--bg-secondary); }
   </style>
 </head>
 <body>
@@ -33,6 +57,7 @@
       <a href="https://b101108063-ops.github.io/Toronto_note/">首頁</a>
       <a href="/Toronto_note/categories/">章節</a>
     </nav>
+    <button class="theme-toggle" onclick="toggleTheme()">🌙 暗色</button>
   </header>
 
   <main>
@@ -51,18 +76,6 @@
       </div>
       
       <div class="card">
-        <a href="/Toronto_note/chapters/publichealth/">CH09 公共衛生學（Public Health and Preventive Medicine）</a>
-      </div>
-      
-      <div class="card">
-        <a href="/Toronto_note/chapters/urology/">CH12 泌尿科（Urology）</a>
-      </div>
-      
-      <div class="card">
-        <a href="/Toronto_note/chapters/infectious_diseases/">CH14 傳染病學（Infectious Diseases）</a>
-      </div>
-      
-      <div class="card">
         <a href="/Toronto_note/chapters/common_acronyms/">Commonly Used Abbreviations (醫學常用縮寫)</a>
       </div>
       
@@ -71,7 +84,15 @@
       </div>
       
       <div class="card">
+        <a href="/Toronto_note/chapters/infectious_diseases/">Infectious Diseases 傳染病學</a>
+      </div>
+      
+      <div class="card">
         <a href="/Toronto_note/chapters/medical_genetics/">Medical Genetics 醫學遺傳學</a>
+      </div>
+      
+      <div class="card">
+        <a href="/Toronto_note/chapters/orthopedics/">Orthopedics 骨科學</a>
       </div>
       
       <div class="card">
@@ -87,15 +108,23 @@
       </div>
       
       <div class="card">
-        <a href="/Toronto_note/chapters/respirology/">Respirology</a>
+        <a href="/Toronto_note/chapters/publichealth/">Public Health 公共衛生學</a>
       </div>
       
       <div class="card">
-        <a href="/Toronto_note/chapters/rheumatology/">RH11 - 風濕病學（Rheumatology）</a>
+        <a href="/Toronto_note/chapters/respirology/">Respirology 胸腔醫學</a>
       </div>
       
       <div class="card">
-        <a href="/Toronto_note/chapters/vascular_surgery/">Vascular Surgery</a>
+        <a href="/Toronto_note/chapters/rheumatology/">Rheumatology 風濕病學</a>
+      </div>
+      
+      <div class="card">
+        <a href="/Toronto_note/chapters/urology/">Urology 泌尿科</a>
+      </div>
+      
+      <div class="card">
+        <a href="/Toronto_note/chapters/vascular_surgery/">Vascular Surgery 血管外科</a>
       </div>
       
       <div class="card">
@@ -182,15 +211,25 @@
         <a href="/Toronto_note/chapters/medical_imaging/">醫學影像學</a>
       </div>
       
-      <div class="card">
-        <a href="/Toronto_note/chapters/orthopedics/">骨科學 (Orthopedics)</a>
-      </div>
-      
     </div>
   </main>
 
   <footer>
     <p>Powered by Hugo | Toronto Notes 2025 繁體中文翻譯</p>
   </footer>
+  <script>
+    function toggleTheme() {
+      const html = document.documentElement;
+      const current = html.getAttribute('data-theme');
+      const next = current === 'dark' ? 'light' : 'dark';
+      html.setAttribute('data-theme', next);
+      localStorage.setItem('theme', next);
+    }
+    const saved = localStorage.getItem('theme');
+    if (saved) document.documentElement.setAttribute('data-theme', saved);
+    else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+      document.documentElement.setAttribute('data-theme', 'dark');
+    }
+  </script>
 </body>
 </html>

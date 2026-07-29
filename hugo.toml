@@ -3,9 +3,16 @@ languageCode = "zh-tw"
 title = "Toronto Notes 2025 繁體中文"
 enableEmoji = true
 hasCJKLanguage = true
+theme = "hugo-book"
 
 [markup.goldmark.renderer]
 unsafe = true
 
 [taxonomies]
   category = "categories"
+
+[params]
+  BookTheme = "dark"
+  BookMenuFormat = "full"
+  BookSearch = true
+  BookPublic = true

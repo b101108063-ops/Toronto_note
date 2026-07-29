@@ -5,31 +5,55 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>臨床藥理學 (Clinical Pharmacology) - Toronto Notes 2025 繁體中文</title>
   <style>
+    :root {
+      --bg-primary: #ffffff;
+      --bg-secondary: #f8fafc;
+      --text-primary: #1e293b;
+      --text-secondary: #64748b;
+      --accent: #2563eb;
+      --border: #e2e8f0;
+      --code-bg: #f1f5f9;
+      --link: #2563eb;
+      --link-visited: #5500bb;
+    }
+    [data-theme="dark"] {
+      --bg-primary: #1a1a2e;
+      --bg-secondary: #16162a;
+      --text-primary: #e4e4e7;
+      --text-secondary: #a1a1aa;
+      --accent: #93c5fd;
+      --border: #3f3f46;
+      --code-bg: #27272a;
+      --link: #93c5fd;
+      --link-visited: #c4b5fd;
+    }
     * { box-sizing: border-box; }
-    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; line-height: 1.6; color: #333; max-width: 900px; margin: 0 auto; padding: 20px; }
-    header { border-bottom: 2px solid #2563eb; padding-bottom: 10px; margin-bottom: 20px; }
-    header h1 { margin: 0; font-size: 1.5em; color: #2563eb; }
-    nav a { margin-right: 15px; color: #2563eb; text-decoration: none; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; line-height: 1.6; color: var(--text-primary); background: var(--bg-primary); max-width: 900px; margin: 0 auto; padding: 20px; }
+    header { border-bottom: 2px solid var(--accent); padding-bottom: 10px; margin-bottom: 20px; display: flex; justify-content: space-between; align-items: center; }
+    header h1 { margin: 0; font-size: 1.5em; color: var(--accent); }
+    nav a { margin-right: 15px; color: var(--link); text-decoration: none; }
     nav a:hover { text-decoration: underline; }
-    h1, h2, h3 { color: #1e293b; }
-    h1 { font-size: 1.8em; border-bottom: 1px solid #e2e8f0; padding-bottom: 8px; }
-    h2 { font-size: 1.4em; border-bottom: 1px solid #e2e8f0; padding-bottom: 5px; }
+    h1, h2, h3 { color: var(--text-primary); }
+    h1 { font-size: 1.8em; border-bottom: 1px solid var(--border); padding-bottom: 8px; }
+    h2 { font-size: 1.4em; border-bottom: 1px solid var(--border); padding-bottom: 5px; }
     h3 { font-size: 1.15em; }
-    pre { background: #f1f5f9; padding: 15px; border-radius: 6px; overflow-x: auto; }
-    code { background: #f1f5f9; padding: 2px 5px; border-radius: 3px; font-size: 0.9em; }
+    pre { background: var(--code-bg); padding: 15px; border-radius: 6px; overflow-x: auto; }
+    code { background: var(--code-bg); padding: 2px 5px; border-radius: 3px; font-size: 0.9em; }
     pre code { background: none; padding: 0; }
-    blockquote { border-left: 4px solid #2563eb; margin: 0; padding: 5px 15px; color: #64748b; background: #f8fafc; }
+    blockquote { border-left: 4px solid var(--accent); margin: 0; padding: 5px 15px; color: var(--text-secondary); background: var(--bg-secondary); }
     table { border-collapse: collapse; width: 100%; margin: 15px 0; }
-    th, td { border: 1px solid #cbd5e1; padding: 8px 12px; text-align: left; }
-    th { background: #f1f5f9; font-weight: 600; }
-    tr:nth-child(even) { background: #f8fafc; }
+    th, td { border: 1px solid var(--border); padding: 8px 12px; text-align: left; }
+    th { background: var(--bg-secondary); font-weight: 600; }
+    tr:nth-child(even) { background: var(--bg-secondary); }
     .content-body { line-height: 1.8; }
-    footer { border-top: 1px solid #e2e8f0; margin-top: 30px; padding-top: 15px; color: #64748b; font-size: 0.9em; }
-    .breadcrumb { font-size: 0.9em; color: #64748b; margin-bottom: 15px; }
-    .breadcrumb a { color: #2563eb; text-decoration: none; }
-    a { color: #2563eb; }
+    footer { border-top: 1px solid var(--border); margin-top: 30px; padding-top: 15px; color: var(--text-secondary); font-size: 0.9em; }
+    .breadcrumb { font-size: 0.9em; color: var(--text-secondary); margin-bottom: 15px; }
+    .breadcrumb a { color: var(--link); text-decoration: none; }
+    a { color: var(--link); }
     a:hover { text-decoration: underline; }
     img { max-width: 100%; height: auto; }
+    .theme-toggle { background: none; border: 1px solid var(--border); color: var(--text-primary); cursor: pointer; padding: 4px 10px; border-radius: 4px; font-size: 0.85em; }
+    .theme-toggle:hover { background: var(--bg-secondary); }
   </style>
 </head>
 <body>
@@ -38,6 +62,7 @@
       <a href="https://b101108063-ops.github.io/Toronto_note/">首頁</a>
       <a href="/Toronto_note/categories/">章節</a>
     </nav>
+    <button class="theme-toggle" onclick="toggleTheme()">🌙 暗色</button>
   </header>
 
   <main>
@@ -49,7 +74,7 @@
       <div class="content-body">
         <p><em>Toronto Notes 2025 - Pages 176-250</em></p>
 <hr>
-<h2 id="導讀摘要">導讀摘要</h2>
+<h2 id="導讀摘要">導讀摘要<a class="anchor" href="#%e5%b0%8e%e8%ae%80%e6%91%98%e8%a6%81">#</a></h2>
 <ul>
 <li><strong>藥物動力學 (PK)</strong> 涵蓋藥物在體內的吸收、分布、代謝及排泄 (ADME)，其中肝臟 CYP450 系統是藥物代謝的核心樞紐，需特別注意藥物交互作用</li>
 <li><strong>藥效學 (PD)</strong> 探討藥物對人體的作用，包含劑量-反應關係、藥物受器交互作用（agonist vs. antagonist），以及療效與安全性的平衡</li>
@@ -58,7 +83,7 @@
 <li><strong>自律神經系統 (ANS)</strong> 掌握交感/副交感神經的神經傳導路徑與受器分布，是理解心血管、呼吸系統藥物的基礎</li>
 </ul>
 <hr>
-<h2 id="常用縮寫對照表">常用縮寫對照表</h2>
+<h2 id="常用縮寫對照表">常用縮寫對照表<a class="anchor" href="#%e5%b8%b8%e7%94%a8%e7%b8%ae%e5%af%ab%e5%b0%8d%e7%85%a7%e8%a1%a8">#</a></h2>
 <table>
   <thead>
       <tr>
@@ -156,8 +181,8 @@
   </tbody>
 </table>
 <hr>
-<h2 id="1-臨床藥理學概論">1. 臨床藥理學概論</h2>
-<h3 id="11-藥物命名-drug-nomenclature">1.1 藥物命名 (Drug Nomenclature)</h3>
+<h2 id="1-臨床藥理學概論">1. 臨床藥理學概論<a class="anchor" href="#1-%e8%87%a8%e5%ba%8a%e8%97%a5%e7%90%86%e5%ad%b8%e6%a6%82%e8%ab%96">#</a></h2>
+<h3 id="11-藥物命名-drug-nomenclature">1.1 藥物命名 (Drug Nomenclature)<a class="anchor" href="#11-%e8%97%a5%e7%89%a9%e5%91%bd%e5%90%8d-drug-nomenclature">#</a></h3>
 <ul>
 <li><strong>DIN 或 NDC</strong>：Drug Identification Number（加拿大）、National Drug Code（美國 FDA）</li>
 <li><strong>DIN-HM</strong>：加拿大順勢療法產品註冊識別碼</li>
@@ -166,7 +191,7 @@
 <li><strong>非專利（學名）名稱 (Non-proprietary/Generic name)</strong>：經命名委員會核准的官方名稱，常含有同類藥物的特徵詞尾（例如：atorvastatin、pravastatin、simvastatin 皆為 statin 類）</li>
 <li><strong>專利（商品名）名稱 (Proprietary/Trade name)</strong>：品牌名稱或註冊商标（例如：Lipitor®）</li>
 </ul>
-<h3 id="12-藥物臨床試驗階段-phases-of-clinical-drug-testing">1.2 藥物臨床試驗階段 (Phases of Clinical Drug Testing)</h3>
+<h3 id="12-藥物臨床試驗階段-phases-of-clinical-drug-testing">1.2 藥物臨床試驗階段 (Phases of Clinical Drug Testing)<a class="anchor" href="#12-%e8%97%a5%e7%89%a9%e8%87%a8%e5%ba%8a%e8%a9%a6%e9%a9%97%e9%9a%8e%e6%ae%b5-phases-of-clinical-drug-testing">#</a></h3>
 <ul>
 <li><strong>Pre-clinical（臨床前）</strong>：在人體試驗前進行的評估，包括細胞、組織、器官或動物實驗，研究 PK、PD 特性及潛在毒性</li>
 <li><strong>Phase I</strong>：首次在人體（小數量健康志願者）進行，評估 PK 及安全性</li>
@@ -174,7 +199,7 @@
 <li><strong>Phase III</strong>：對比研究（新藥 vs. 安慰劑或標準治療），在大樣本患者中建立安全性與療效，通常為雙盲 RCT</li>
 <li><strong>Phase IV</strong>：上市後監測，廣泛 distribution，確定藥物有效性（不同於療效）、監測長期效果，並發現先前未注意到的 ADR</li>
 </ul>
-<h3 id="13-藥物不良反應-adverse-drug-reactions-adr">1.3 藥物不良反應 (Adverse Drug Reactions, ADR)</h3>
+<h3 id="13-藥物不良反應-adverse-drug-reactions-adr">1.3 藥物不良反應 (Adverse Drug Reactions, ADR)<a class="anchor" href="#13-%e8%97%a5%e7%89%a9%e4%b8%8d%e8%89%af%e5%8f%8d%e6%87%89-adverse-drug-reactions-adr">#</a></h3>
 <p><strong>定義</strong>：</p>
 <ul>
 <li><strong>ADE (Adverse Drug Event)</strong>：患者服用藥物期間（不論劑量是否適當）發生的不良事件，不要求具有因果關係</li>
@@ -232,12 +257,11 @@
 <li><strong>通報</strong>：所有疑似 ADR 若為（1）非預期、（2）嚴重、（3）新上市藥物（&lt;5 年）引起，無論性質或嚴重度如何皆應通報</li>
 </ol>
 <hr>
-<h2 id="2-藥物動力學-pharmacokinetics-pk">2. 藥物動力學 (Pharmacokinetics, PK)</h2>
-<blockquote>
+<h2 id="2-藥物動力學-pharmacokinetics-pk">2. 藥物動力學 (Pharmacokinetics, PK)<a class="anchor" href="#2-%e8%97%a5%e7%89%a9%e5%8b%95%e5%8a%9b%e5%ad%b8-pharmacokinetics-pk">#</a></h2>
+<blockquote class='book-hint '>
 <p>「what the body does to the drug」— 藥物進入體內後的命運</p>
-</blockquote>
-<p>定義：藥物給予後，在體內進行的吸收、分布、代謝及排泄（ADME）過程與速率。</p>
-<h3 id="21-藥物給藥途徑-drug-administration">2.1 藥物給藥途徑 (Drug Administration)</h3>
+</blockquote><p>定義：藥物給予後，在體內進行的吸收、分布、代謝及排泄（ADME）過程與速率。</p>
+<h3 id="21-藥物給藥途徑-drug-administration">2.1 藥物給藥途徑 (Drug Administration)<a class="anchor" href="#21-%e8%97%a5%e7%89%a9%e7%b5%a6%e8%97%a5%e9%80%94%e5%be%91-drug-administration">#</a></h3>
 <p>給藥途徑的選擇取決於：可用劑型、局部與全身效應、期望的作用開始時間與/或持續時間、患者配合度及其他患者特質。</p>
 <p><strong>表 1. 藥物給藥途徑比較</strong></p>
 <table>
@@ -311,7 +335,7 @@
       </tr>
   </tbody>
 </table>
-<h3 id="22-吸收-absorption">2.2 吸收 (Absorption)</h3>
+<h3 id="22-吸收-absorption">2.2 吸收 (Absorption)<a class="anchor" href="#22-%e5%90%b8%e6%94%b6-absorption">#</a></h3>
 <p>定義：藥物從給藥部位進入循環血液的移動過程。</p>
 <p><strong>藥物吸收機制</strong>：</p>
 <ul>
@@ -352,7 +376,7 @@
 <li>有些藥物（如大部分 macrolide 抗生素）抑制 P-gp，導致 P-gp 基質藥物的血清濃度增加；P-gp 誘導劑（如 rifampin、St. John&rsquo;s wort）則增加外排活性，導致 P-gp 基質藥物血清濃度降低</li>
 <li>某些腫瘤過度表達 P-gp，導致化療藥物的多重抗藥性</li>
 </ul>
-<h3 id="23-分布-distribution">2.3 分布 (Distribution)</h3>
+<h3 id="23-分布-distribution">2.3 分布 (Distribution)<a class="anchor" href="#23-%e5%88%86%e5%b8%83-distribution">#</a></h3>
 <p>定義：藥物在不同體腔之間的移動，包括其作用部位。</p>
 <p>主要體液腔室包括：血漿、間質液、細胞內液及跨細胞液（如 CSF、腹膜、胸膜）。</p>
 <p><strong>影響藥物分布速率與程度的因素</strong>：</p>
@@ -398,7 +422,7 @@
 <li>需考慮給藥途徑及/或藥物交互作用以穿透這些屏障</li>
 <li>屏障對於確定藥物作用部位與副作用 profile 很重要（如藥物穿透 BBB 的 CNS 抑制風險、穿透胎盤的胎兒傷害風險）</li>
 </ul>
-<h3 id="24-代謝--生物轉化-metabolism--biotransformation">2.4 代謝 / 生物轉化 (Metabolism / Biotransformation)</h3>
+<h3 id="24-代謝--生物轉化-metabolism--biotransformation">2.4 代謝 / 生物轉化 (Metabolism / Biotransformation)<a class="anchor" href="#24-%e4%bb%a3%e8%ac%9d--%e7%94%9f%e7%89%a9%e8%bd%89%e5%8c%96-metabolism--biotransformation">#</a></h3>
 <p>定義：藥物在體內的化學轉化。</p>
 <p>生物轉化的部位包括：肝臟（主要）、GI tract、肺、血漿、腎臟及大部分其他組織。</p>
 <p><strong>生物轉化的結果</strong>：</p>
@@ -451,7 +475,7 @@
 <li><strong>酒精</strong>：急性攝入抑制 CYP2E1；慢性攝入誘導 CYP2E1，增加 acetaminophen 毒性代謝物 NAPQI 的產生，增加肝細胞損傷風險</li>
 <li><strong>吸菸</strong>：誘導 CYP1A2，增加某些藥物（如 theophylline、clozapine）的代謝</li>
 </ul>
-<h3 id="25-排泄-excretion">2.5 排泄 (Excretion)</h3>
+<h3 id="25-排泄-excretion">2.5 排泄 (Excretion)<a class="anchor" href="#25-%e6%8e%92%e6%b3%84-excretion">#</a></h3>
 <p>定義：藥物從體內的清除。</p>
 <p><strong>藥物排泄途徑</strong>：</p>
 <p><strong>腎臟（主要排泄器官）</strong>：</p>
@@ -469,7 +493,7 @@
 <p><strong>糞便</strong>：部分藥物與代謝物可主動分泌到膽汁或直接分泌到 GI tract；enterohepatic recirculation（腸肝循環）發生於藥物從腸道再吸收並返回肝臟，可在腸道與肝臟間循環，延長藥物在體內的作用時間</p>
 <p><strong>肺臟</strong>：吸入性麻醉氣體與蒸氣經呼氣排出</p>
 <p><strong>其他途徑</strong>：汗液、唾液與母乳一般為次要途徑，但部分藥物的唾液濃度與血漿濃度平行（如 rifampin）；藥物分泌到母乳是部分藥物的考量</p>
-<h3 id="26-藥物動力學考慮-pharmacokinetic-considerations">2.6 藥物動力學考慮 (Pharmacokinetic Considerations)</h3>
+<h3 id="26-藥物動力學考慮-pharmacokinetic-considerations">2.6 藥物動力學考慮 (Pharmacokinetic Considerations)<a class="anchor" href="#26-%e8%97%a5%e7%89%a9%e5%8b%95%e5%8a%9b%e5%ad%b8%e8%80%83%e6%85%ae-pharmacokinetic-considerations">#</a></h3>
 <p><strong>藥物作用時間過程 (Time Course of Drug Action)</strong>：</p>
 <ul>
 <li>吸收、分布與排泄可透過濃度對時間圖形表示</li>
@@ -518,9 +542,9 @@
 <li>維持劑量可給予間歇性口服劑量（常見）或持續輸注（少見）</li>
 </ul>
 <hr>
-<h2 id="3-藥效學-pharmacodynamics-pd">3. 藥效學 (Pharmacodynamics, PD)</h2>
+<h2 id="3-藥效學-pharmacodynamics-pd">3. 藥效學 (Pharmacodynamics, PD)<a class="anchor" href="#3-%e8%97%a5%e6%95%88%e5%ad%b8-pharmacodynamics-pd">#</a></h2>
 <p>定義：研究藥物對人體的作用。</p>
-<h3 id="31-劑量-反應關係-dose-response-relationship">3.1 劑量-反應關係 (Dose-Response Relationship)</h3>
+<h3 id="31-劑量-反應關係-dose-response-relationship">3.1 劑量-反應關係 (Dose-Response Relationship)<a class="anchor" href="#31-%e5%8a%91%e9%87%8f-%e5%8f%8d%e6%87%89%e9%97%9c%e4%bf%82-dose-response-relationship">#</a></h3>
 <p><strong>漸進式劑量-反應關係 (Graded dose-response relationship)</strong>：將劑量與效應強度相關聯</p>
 <p><strong>療效 (Efficacy)</strong>：</p>
 <ul>
@@ -532,7 +556,7 @@
 <li>以 EC50（產生 50% Emax 所需的藥物濃度）測量；如使用劑量則為 ED50（從漸進式劑量-反應曲線導出）</li>
 <li>達到 EC50 所需濃度較低的藥物效力較強</li>
 </ul>
-<h3 id="32-藥物對受器的影響-effects-of-drugs-on-receptors">3.2 藥物對受器的影響 (Effects of Drugs on Receptors)</h3>
+<h3 id="32-藥物對受器的影響-effects-of-drugs-on-receptors">3.2 藥物對受器的影響 (Effects of Drugs on Receptors)<a class="anchor" href="#32-%e8%97%a5%e7%89%a9%e5%b0%8d%e5%8f%97%e5%99%a8%e7%9a%84%e5%bd%b1%e9%9f%bf-effects-of-drugs-on-receptors">#</a></h3>
 <p><strong>激動劑 (Agonists)</strong>：</p>
 <ul>
 <li>模擬內源性配體效果並在與受器結合時引發反應的藥物</li>
@@ -585,7 +609,7 @@
       </tr>
   </tbody>
 </table>
-<h3 id="33-有效性與安全性-effectiveness-and-safety">3.3 有效性與安全性 (Effectiveness and Safety)</h3>
+<h3 id="33-有效性與安全性-effectiveness-and-safety">3.3 有效性與安全性 (Effectiveness and Safety)<a class="anchor" href="#33-%e6%9c%89%e6%95%88%e6%80%a7%e8%88%87%e5%ae%89%e5%85%a8%e6%80%a7-effectiveness-and-safety">#</a></h3>
 <p><strong>有效性 (Effectiveness)</strong>：</p>
 <ul>
 <li><strong>ED50 (Effective dose)</strong>：在 50% 測試族群中產生治療效果所需的藥物劑量（從 quantal 劑量-反應曲線導出）</li>
@@ -595,7 +619,7 @@
 <li><strong>LD50 (Lethal dose)</strong>：在 50% 測試族群中導致死亡的藥物劑量（通常從動物或細胞數據導出）</li>
 <li><strong>TD50 (Toxic dose)</strong>：在 50% 測試族群中引起有害效果的藥物劑量（通常從動物或細胞數據導出）</li>
 </ul>
-<h3 id="34-治療指數-therapeutic-indices">3.4 治療指數 (Therapeutic Indices)</h3>
+<h3 id="34-治療指數-therapeutic-indices">3.4 治療指數 (Therapeutic Indices)<a class="anchor" href="#34-%e6%b2%bb%e7%99%82%e6%8c%87%e6%95%b8-therapeutic-indices">#</a></h3>
 <p><strong>治療指數 (Therapeutic Index, TI)</strong>：TD50/ED50（LD50/ED50，通常從非人類研究導出）</p>
 <ul>
 <li>相對藥物安全性的度量，比較藥物產生嚴重毒性或死亡的治療劑量可能性</li>
@@ -608,7 +632,7 @@
 <li>比較在至少 99% 族群中有效且在&lt;1% 族群中引起毒性的劑量</li>
 <li>監管機構通常要求安全因子或安全邊際 &gt;100</li>
 </ul>
-<h3 id="35-藥物反應的變異性-variability-in-drug-response">3.5 藥物反應的變異性 (Variability in Drug Response)</h3>
+<h3 id="35-藥物反應的變異性-variability-in-drug-response">3.5 藥物反應的變異性 (Variability in Drug Response)<a class="anchor" href="#35-%e8%97%a5%e7%89%a9%e5%8f%8d%e6%87%89%e7%9a%84%e8%ae%8a%e7%95%b0%e6%80%a7-variability-in-drug-response">#</a></h3>
 <p>建議的患者劑量基於臨床研究，代表特定族群的平均值，但每個人可能因年齡、遺傳、疾病狀態、藥物交互作用、飲食、環境因素等而有獨特的劑量需求。</p>
 <p><strong>藥物反應個體變異的可能原因</strong>：</p>
 <ul>
@@ -619,7 +643,7 @@
 <li><strong>生物轉化與排泄 (Biotransformation and Elimination)</strong>：藥物代謝相關的特定遺傳多態性或酶缺乏（如 acetylcholinesterase 缺乏、CYP 多態性）、腎或肝功能障礙</li>
 <li><strong>PD</strong>：藥物反應的遺傳變異性（如免疫媒介反應）、影響藥物 PD 的疾病、藥物耐受性或交叉耐受性</li>
 </ul>
-<h3 id="36-治療藥物監測-therapeutic-drug-monitoring-tdm">3.6 治療藥物監測 (Therapeutic Drug Monitoring, TDM)</h3>
+<h3 id="36-治療藥物監測-therapeutic-drug-monitoring-tdm">3.6 治療藥物監測 (Therapeutic Drug Monitoring, TDM)<a class="anchor" href="#36-%e6%b2%bb%e7%99%82%e8%97%a5%e7%89%a9%e7%9b%a3%e6%b8%ac-therapeutic-drug-monitoring-tdm">#</a></h3>
 <p>定義：使用血清藥物濃度數據優化藥物治療（如劑量調整、監測配合度）。血清藥物樣本通常在藥物達到 steady-state 後（即約 4-5 個半衰期後）採集。</p>
 <p><strong>TDM 的常見應用</strong>：</p>
 <ul>
@@ -630,8 +654,8 @@
 </ul>
 <p><strong>有時需要 TDM 的藥物例子</strong>：vancomycin、aminoglycosides（gentamicin、tobramycin）、digoxin、phenytoin 及其他抗癲癇藥、warfarin、lithium</p>
 <hr>
-<h2 id="4-自律神經系統藥理學-autonomic-pharmacology">4. 自律神經系統藥理學 (Autonomic Pharmacology)</h2>
-<h3 id="41-自律神經系統概述">4.1 自律神經系統概述</h3>
+<h2 id="4-自律神經系統藥理學-autonomic-pharmacology">4. 自律神經系統藥理學 (Autonomic Pharmacology)<a class="anchor" href="#4-%e8%87%aa%e5%be%8b%e7%a5%9e%e7%b6%93%e7%b3%bb%e7%b5%b1%e8%97%a5%e7%90%86%e5%ad%b8-autonomic-pharmacology">#</a></h2>
+<h3 id="41-自律神經系統概述">4.1 自律神經系統概述<a class="anchor" href="#41-%e8%87%aa%e5%be%8b%e7%a5%9e%e7%b6%93%e7%b3%bb%e7%b5%b1%e6%a6%82%e8%bf%b0">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -665,7 +689,7 @@
 </ul>
 <p><strong>ACh 作用的終止</strong>：由突觸裂隙中的 acetylcholinesterase 代謝與血漿中的 pseudocholinesterase 代謝終止</p>
 <p><strong>NE 作用的終止</strong>：由突觸前膜再攝取、從突觸裂隙擴散出去、以及被 MAO 與 COMT 降解終止</p>
-<h3 id="42-副交感神經系統-parasympathetic-ns">4.2 副交感神經系統 (Parasympathetic NS)</h3>
+<h3 id="42-副交感神經系統-parasympathetic-ns">4.2 副交感神經系統 (Parasympathetic NS)<a class="anchor" href="#42-%e5%89%af%e4%ba%a4%e6%84%9f%e7%a5%9e%e7%b6%93%e7%b3%bb%e7%b5%b1-parasympathetic-ns">#</a></h3>
 <ul>
 <li>血管、汗腺、脾臟被膜與腎上腺髓質<strong>沒有</strong>副交感神經支配</li>
 <li>副交感神經節前纖維起源於腦幹（下段）與骶段脊髓 S2-S4；因此亦稱「顱骶 (craniosacral)」神經系統</li>
@@ -676,7 +700,7 @@
 </ul>
 </li>
 </ul>
-<h3 id="43-交感神經系統-sympathetic-ns">4.3 交感神經系統 (Sympathetic NS)</h3>
+<h3 id="43-交感神經系統-sympathetic-ns">4.3 交感神經系統 (Sympathetic NS)<a class="anchor" href="#43-%e4%ba%a4%e6%84%9f%e7%a5%9e%e7%b6%93%e7%b3%bb%e7%b5%b1-sympathetic-ns">#</a></h3>
 <ul>
 <li>交感神經節前纖維起源於脊髓胸腰段 (T1-L2/L3)；因此亦稱「胸腰 (thoracolumbar)」神經系統</li>
 <li>神經節後纖維與效應組織結合，透過：
@@ -788,8 +812,8 @@
   </tbody>
 </table>
 <hr>
-<h2 id="5-類鴉片藥物與慢性非癌症疼痛-opioid-therapy-and-chronic-non-cancer-pain">5. 類鴉片藥物與慢性非癌症疼痛 (Opioid Therapy and Chronic Non-Cancer Pain)</h2>
-<h3 id="51-一般管理原則">5.1 一般管理原則</h3>
+<h2 id="5-類鴉片藥物與慢性非癌症疼痛-opioid-therapy-and-chronic-non-cancer-pain">5. 類鴉片藥物與慢性非癌症疼痛 (Opioid Therapy and Chronic Non-Cancer Pain)<a class="anchor" href="#5-%e9%a1%9e%e9%b4%89%e7%89%87%e8%97%a5%e7%89%a9%e8%88%87%e6%85%a2%e6%80%a7%e9%9d%9e%e7%99%8c%e7%97%87%e7%96%bc%e7%97%9b-opioid-therapy-and-chronic-non-cancer-pain">#</a></h2>
+<h3 id="51-一般管理原則">5.1 一般管理原則<a class="anchor" href="#51-%e4%b8%80%e8%88%ac%e7%ae%a1%e7%90%86%e5%8e%9f%e5%89%87">#</a></h3>
 <ul>
 <li>慢性非癌症疼痛患者首次考慮治療時，優先優化非類鴉片藥物治療與非藥物治療，而非開始類鴉片試驗（強烈建議）</li>
 <li>一般方法：避免高劑量；可能的話，採用緩慢、協作方式遞減</li>
@@ -798,7 +822,7 @@
 <li>對有明顯遞減困難者：建議正式多學科計劃</li>
 <li>詳見國家類鴉片指南（https://www.cmaj.ca/content/189/18/E659）</li>
 </ul>
-<h3 id="52-mme-換算表常用類鴉片藥物">5.2 MME 換算表（常用類鴉片藥物）</h3>
+<h3 id="52-mme-換算表常用類鴉片藥物">5.2 MME 換算表（常用類鴉片藥物）<a class="anchor" href="#52-mme-%e6%8f%9b%e7%ae%97%e8%a1%a8%e5%b8%b8%e7%94%a8%e9%a1%9e%e9%b4%89%e7%89%87%e8%97%a5%e7%89%a9">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -842,7 +866,7 @@
   </tbody>
 </table>
 <hr>
-<h2 id="6-常見藥物詞尾-common-drug-endings">6. 常見藥物詞尾 (Common Drug Endings)</h2>
+<h2 id="6-常見藥物詞尾-common-drug-endings">6. 常見藥物詞尾 (Common Drug Endings)<a class="anchor" href="#6-%e5%b8%b8%e8%a6%8b%e8%97%a5%e7%89%a9%e8%a9%9e%e5%b0%be-common-drug-endings">#</a></h2>
 <table>
   <thead>
       <tr>
@@ -940,7 +964,7 @@
   </tbody>
 </table>
 <hr>
-<h2 id="7-危險縮寫符號與劑量標示-dangerous-abbreviations">7. 危險縮寫、符號與劑量標示 (Dangerous Abbreviations)</h2>
+<h2 id="7-危險縮寫符號與劑量標示-dangerous-abbreviations">7. 危險縮寫、符號與劑量標示 (Dangerous Abbreviations)<a class="anchor" href="#7-%e5%8d%b1%e9%9a%aa%e7%b8%ae%e5%af%ab%e7%ac%a6%e8%99%9f%e8%88%87%e5%8a%91%e9%87%8f%e6%a8%99%e7%a4%ba-dangerous-abbreviations">#</a></h2>
 <p>以下縮寫、符號與劑量標示在溝通藥物資訊時<strong>永遠不應使用</strong>，因常被誤解並涉及有害藥物錯誤。</p>
 <p><strong>表 3. 危險縮寫、符號與劑量標示</strong></p>
 <table>
@@ -1034,15 +1058,15 @@
   </tbody>
 </table>
 <hr>
-<h2 id="8-重要藥理學試驗-landmark-pharmacology-trials">8. 重要藥理學試驗 (Landmark Pharmacology Trials)</h2>
-<h3 id="coumagen-i">CoumaGen I</h3>
+<h2 id="8-重要藥理學試驗-landmark-pharmacology-trials">8. 重要藥理學試驗 (Landmark Pharmacology Trials)<a class="anchor" href="#8-%e9%87%8d%e8%a6%81%e8%97%a5%e7%90%86%e5%ad%b8%e8%a9%a6%e9%a9%97-landmark-pharmacology-trials">#</a></h2>
+<h3 id="coumagen-i">CoumaGen I<a class="anchor" href="#coumagen-i">#</a></h3>
 <p><strong>Reference</strong>：Circulation. 2012;125:1997-2005<br>
 <strong>Title</strong>：A Randomized and Clinical Effectiveness Trial Comparing Two Pharmacogenetic Algorithms and Standard Care for Individualizing Warfarin Dosing<br>
 <strong>Purpose</strong>：比較兩種藥物遺傳學算法與標準治療用於 warfarin 劑量調整，確定藥物遺傳學是否能改善治療結果。<br>
 <strong>Methods</strong>：將 504 例患者隨機分為一步或三步藥物遺傳學算法，與 1866 例接受標準劑量的對照患者比較其 INR 範圍與治療範圍內時間。<br>
 <strong>Results</strong>：兩種藥物遺傳學算法均非劣於標準劑量。藥物遺傳學劑量在 1 個月時減少超出範圍的 INR（31% vs. 42%），增加治療範圍內時間（63% vs. 58%）。<br>
 <strong>Conclusions</strong>：藥物遺傳學劑量改善 warfarin 治療結果，具有更廣泛臨床應用的潛力。</p>
-<h3 id="rivaroxaban-qt-interval-study">Rivaroxaban QT Interval Study</h3>
+<h3 id="rivaroxaban-qt-interval-study">Rivaroxaban QT Interval Study<a class="anchor" href="#rivaroxaban-qt-interval-study">#</a></h3>
 <p><strong>Reference</strong>：Drug Safety. 2008;31:67-77<br>
 <strong>Title</strong>：Randomized, Double-Blind, Crossover Study to Investigate the Effect of Rivaroxaban on T-Interval Prolongation<br>
 <strong>Purpose</strong>：使用隨機、雙盲、安慰劑對照交叉設計，評估 rivaroxaban 對健康受試者 QT 間期延長的效果。<br>
@@ -1050,7 +1074,7 @@
 <strong>Results</strong>：Rivaroxaban 與安慰劑相比未引起顯著 QT 間期延長。Moxifloxacin 以預期 QT 延長確認測定敏感性，驗證研究設計。<br>
 <strong>Conclusions</strong>：Rivaroxaban 不太可能引起顯著 QT 間期延長，表明具有良好心臟安全性 profile。</p>
 <hr>
-<h2 id="參考文獻">參考文獻</h2>
+<h2 id="參考文獻">參考文獻<a class="anchor" href="#%e5%8f%83%e8%80%83%e6%96%87%e7%8d%bb">#</a></h2>
 <ul>
 <li>ACOG Practice Bulletin. The Use of Hormonal Contraception in Women With Coexisting Medical Conditions. 2000.</li>
 <li>Ament PW, Bertolino JG, Liszewski JL. Clinical significant drug interactions. Am Fam Physician. 2000;61(6):1745-1754.</li>
@@ -1071,5 +1095,19 @@
   <footer>
     <p>Powered by Hugo | Toronto Notes 2025 繁體中文翻譯</p>
   </footer>
+  <script>
+    function toggleTheme() {
+      const html = document.documentElement;
+      const current = html.getAttribute('data-theme');
+      const next = current === 'dark' ? 'light' : 'dark';
+      html.setAttribute('data-theme', next);
+      localStorage.setItem('theme', next);
+    }
+    const saved = localStorage.getItem('theme');
+    if (saved) document.documentElement.setAttribute('data-theme', saved);
+    else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+      document.documentElement.setAttribute('data-theme', 'dark');
+    }
+  </script>
 </body>
 </html>

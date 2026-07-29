@@ -5,31 +5,55 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Medical Genetics 醫學遺傳學 - Toronto Notes 2025 繁體中文</title>
   <style>
+    :root {
+      --bg-primary: #ffffff;
+      --bg-secondary: #f8fafc;
+      --text-primary: #1e293b;
+      --text-secondary: #64748b;
+      --accent: #2563eb;
+      --border: #e2e8f0;
+      --code-bg: #f1f5f9;
+      --link: #2563eb;
+      --link-visited: #5500bb;
+    }
+    [data-theme="dark"] {
+      --bg-primary: #1a1a2e;
+      --bg-secondary: #16162a;
+      --text-primary: #e4e4e7;
+      --text-secondary: #a1a1aa;
+      --accent: #93c5fd;
+      --border: #3f3f46;
+      --code-bg: #27272a;
+      --link: #93c5fd;
+      --link-visited: #c4b5fd;
+    }
     * { box-sizing: border-box; }
-    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; line-height: 1.6; color: #333; max-width: 900px; margin: 0 auto; padding: 20px; }
-    header { border-bottom: 2px solid #2563eb; padding-bottom: 10px; margin-bottom: 20px; }
-    header h1 { margin: 0; font-size: 1.5em; color: #2563eb; }
-    nav a { margin-right: 15px; color: #2563eb; text-decoration: none; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; line-height: 1.6; color: var(--text-primary); background: var(--bg-primary); max-width: 900px; margin: 0 auto; padding: 20px; }
+    header { border-bottom: 2px solid var(--accent); padding-bottom: 10px; margin-bottom: 20px; display: flex; justify-content: space-between; align-items: center; }
+    header h1 { margin: 0; font-size: 1.5em; color: var(--accent); }
+    nav a { margin-right: 15px; color: var(--link); text-decoration: none; }
     nav a:hover { text-decoration: underline; }
-    h1, h2, h3 { color: #1e293b; }
-    h1 { font-size: 1.8em; border-bottom: 1px solid #e2e8f0; padding-bottom: 8px; }
-    h2 { font-size: 1.4em; border-bottom: 1px solid #e2e8f0; padding-bottom: 5px; }
+    h1, h2, h3 { color: var(--text-primary); }
+    h1 { font-size: 1.8em; border-bottom: 1px solid var(--border); padding-bottom: 8px; }
+    h2 { font-size: 1.4em; border-bottom: 1px solid var(--border); padding-bottom: 5px; }
     h3 { font-size: 1.15em; }
-    pre { background: #f1f5f9; padding: 15px; border-radius: 6px; overflow-x: auto; }
-    code { background: #f1f5f9; padding: 2px 5px; border-radius: 3px; font-size: 0.9em; }
+    pre { background: var(--code-bg); padding: 15px; border-radius: 6px; overflow-x: auto; }
+    code { background: var(--code-bg); padding: 2px 5px; border-radius: 3px; font-size: 0.9em; }
     pre code { background: none; padding: 0; }
-    blockquote { border-left: 4px solid #2563eb; margin: 0; padding: 5px 15px; color: #64748b; background: #f8fafc; }
+    blockquote { border-left: 4px solid var(--accent); margin: 0; padding: 5px 15px; color: var(--text-secondary); background: var(--bg-secondary); }
     table { border-collapse: collapse; width: 100%; margin: 15px 0; }
-    th, td { border: 1px solid #cbd5e1; padding: 8px 12px; text-align: left; }
-    th { background: #f1f5f9; font-weight: 600; }
-    tr:nth-child(even) { background: #f8fafc; }
+    th, td { border: 1px solid var(--border); padding: 8px 12px; text-align: left; }
+    th { background: var(--bg-secondary); font-weight: 600; }
+    tr:nth-child(even) { background: var(--bg-secondary); }
     .content-body { line-height: 1.8; }
-    footer { border-top: 1px solid #e2e8f0; margin-top: 30px; padding-top: 15px; color: #64748b; font-size: 0.9em; }
-    .breadcrumb { font-size: 0.9em; color: #64748b; margin-bottom: 15px; }
-    .breadcrumb a { color: #2563eb; text-decoration: none; }
-    a { color: #2563eb; }
+    footer { border-top: 1px solid var(--border); margin-top: 30px; padding-top: 15px; color: var(--text-secondary); font-size: 0.9em; }
+    .breadcrumb { font-size: 0.9em; color: var(--text-secondary); margin-bottom: 15px; }
+    .breadcrumb a { color: var(--link); text-decoration: none; }
+    a { color: var(--link); }
     a:hover { text-decoration: underline; }
     img { max-width: 100%; height: auto; }
+    .theme-toggle { background: none; border: 1px solid var(--border); color: var(--text-primary); cursor: pointer; padding: 4px 10px; border-radius: 4px; font-size: 0.85em; }
+    .theme-toggle:hover { background: var(--bg-secondary); }
   </style>
 </head>
 <body>
@@ -38,6 +62,7 @@
       <a href="https://b101108063-ops.github.io/Toronto_note/">首頁</a>
       <a href="/Toronto_note/categories/">章節</a>
     </nav>
+    <button class="theme-toggle" onclick="toggleTheme()">🌙 暗色</button>
   </header>
 
   <main>
@@ -47,11 +72,10 @@
     <article>
       <h1>Medical Genetics 醫學遺傳學</h1>
       <div class="content-body">
-        <blockquote>
+        <blockquote class='book-hint '>
 <p>Toronto Notes 2025</p>
-</blockquote>
-<hr>
-<h2 id="導讀摘要">導讀摘要</h2>
+</blockquote><hr>
+<h2 id="導讀摘要">導讀摘要<a class="anchor" href="#%e5%b0%8e%e8%ae%80%e6%91%98%e8%a6%81">#</a></h2>
 <ul>
 <li><strong>Genetic variation</strong> 的分類（benign → pathogenic）是單基因疾病診斷的核心，臨床上以 ACMG guideline 為標準</li>
 <li><strong>Chromosomal aneuploidy syndromes</strong>（Trisomy 13/18/21）各有獨特的臨床特徵與預後，可透過 karyotype、FISH、microarray 確認</li>
@@ -60,8 +84,8 @@
 <li><strong>Genetic testing</strong> 涵蓋從 karyotype 到 (W)ES/(W)GS 的多種技術，各有不同的解析度與適應症</li>
 </ul>
 <hr>
-<h2 id="遺傳學概論">遺傳學概論</h2>
-<h3 id="常用術語">常用術語</h3>
+<h2 id="遺傳學概論">遺傳學概論<a class="anchor" href="#%e9%81%ba%e5%82%b3%e5%ad%b8%e6%a6%82%e8%ab%96">#</a></h2>
+<h3 id="常用術語">常用術語<a class="anchor" href="#%e5%b8%b8%e7%94%a8%e8%a1%93%e8%aa%9e">#</a></h3>
 <p><strong>Penetrance（外顯率）</strong>：攜帶某基因 variant 的個體，該 variant 在臨床上可被觀察表達出來的機率。</p>
 <p><strong>Expressivity（表現度）</strong>：基因表現的程度——指某一 genotype 所對應之 phenotype 的變異範圍。</p>
 <p><strong>Genetic heterogeneity（遺傳異質性）</strong>：同一 phenotype 或 genetic disorder 可由不同 genotype 導致，原因是同一基因內的遺傳變異（allelic heterogeneity）或不同基因的變異（locus heterogeneity）。</p>
@@ -71,7 +95,7 @@
 <p><strong>Uniparental disomy（單親二體性）</strong>：一對 chromosome 的兩個完整或部分拷貝來自同一親代，而另一親代沒有對應的拷貝。</p>
 <p><strong>Allele（等位基因）</strong>：DNA 序列的其中一種形式。</p>
 <hr>
-<h3 id="genetic-variation遺傳變異">Genetic Variation（遺傳變異）</h3>
+<h3 id="genetic-variation遺傳變異">Genetic Variation（遺傳變異）<a class="anchor" href="#genetic-variation%e9%81%ba%e5%82%b3%e8%ae%8a%e7%95%b0">#</a></h3>
 <p><strong>Variant</strong> 是相對於最常見之核苷酸序列（reference sequence）的永久性改變。Variant 的分類根據其影響 gene product 功能的可能性，美國醫學遺傳學與基因體學學會（ACMG）制訂了單基因疾病 variant 分類的標準指引：</p>
 <table>
   <thead>
@@ -103,11 +127,10 @@
       </tr>
   </tbody>
 </table>
-<blockquote>
+<blockquote class='book-hint '>
 <p><strong>已不再使用的術語</strong>：<strong>Mutation</strong>（過去與 pathogenic variant 同義，現只用於描述 genetic change 的過程本身）；<strong>Polymorphism</strong>（在族群中相對常見的 variant，通常與 genetic disease 無關，用於族群遺傳學情境）。</p>
-</blockquote>
-<hr>
-<h3 id="types-of-genetic-variation遺傳變異的類型">Types of Genetic Variation（遺傳變異的類型）</h3>
+</blockquote><hr>
+<h3 id="types-of-genetic-variation遺傳變異的類型">Types of Genetic Variation（遺傳變異的類型）<a class="anchor" href="#types-of-genetic-variation%e9%81%ba%e5%82%b3%e8%ae%8a%e7%95%b0%e7%9a%84%e9%a1%9e%e5%9e%8b">#</a></h3>
 <ol>
 <li>
 <p><strong>Whole gene 刪除或重複</strong>
@@ -133,7 +156,7 @@
 </li>
 </ol>
 <hr>
-<h3 id="single-gene-disorders單基因疾病">Single Gene Disorders（單基因疾病）</h3>
+<h3 id="single-gene-disorders單基因疾病">Single Gene Disorders（單基因疾病）<a class="anchor" href="#single-gene-disorders%e5%96%ae%e5%9f%ba%e5%9b%a0%e7%96%be%e7%97%85">#</a></h3>
 <p>由特定基因內的變異所決定的性狀或疾病，常見 <strong>Mendelian inheritance pattern</strong>。</p>
 <p><strong>Autosomal inheritance（體染色體遺傳）</strong>：疾病由位於 chromosomes 1–22（autosomes）上基因的 pathogenic variants 引起。</p>
 <ul>
@@ -141,36 +164,32 @@
 <li><strong>Autosomal recessive（體染色體隱性）</strong>：必須兩條拷貝都有 pathogenic variants 才會致病；只有一條拷貝者為 carrier</li>
 </ul>
 <p><strong>Sex-linked inheritance（性聯遺傳）</strong>：疾病由 X 或 Y chromosome 上基因的 pathogenic variants 引起。由於 X chromosome 包含的基因遠多於 Y chromosome，幾乎所有 sex-linked traits 都是 X-linked。X-linked inheritance 通常導致男性比女性更常見或更嚴重的表觀。</p>
-<blockquote>
+<blockquote class='book-hint '>
 <p>例如：Hemophilia A、Duchenne muscular dystrophy。</p>
-</blockquote>
-<hr>
-<h2 id="染色體異常">染色體異常</h2>
-<h3 id="triplet-repeat-expansions三核苷酸重複擴增疾病">Triplet Repeat Expansions（三核苷酸重複擴增疾病）</h3>
+</blockquote><hr>
+<h2 id="染色體異常">染色體異常<a class="anchor" href="#%e6%9f%93%e8%89%b2%e9%ab%94%e7%95%b0%e5%b8%b8">#</a></h2>
+<h3 id="triplet-repeat-expansions三核苷酸重複擴增疾病">Triplet Repeat Expansions（三核苷酸重複擴增疾病）<a class="anchor" href="#triplet-repeat-expansions%e4%b8%89%e6%a0%b8%e8%8b%b7%e9%85%b8%e9%87%8d%e8%a4%87%e6%93%b4%e5%a2%9e%e7%96%be%e7%97%85">#</a></h3>
 <p>某些基因內的 trinucleotide repeats 數目超出正常範圍，導致 gene expression 改變或產生異常蛋白質。此類疾病可呈現 <strong>genetic anticipation</strong>：因重複次數逐代增加，後代症狀更嚴重、發病年齡更早。重複擴增的長度常與臨床 phenotype 嚴重程度成正比。</p>
-<blockquote>
+<blockquote class='book-hint '>
 <p>例如：Fragile X syndrome、Huntington disease。</p>
-</blockquote>
-<h3 id="imprinting-disorders基因銘印疾病">Imprinting Disorders（基因銘印疾病）</h3>
+</blockquote><h3 id="imprinting-disorders基因銘印疾病">Imprinting Disorders（基因銘印疾病）<a class="anchor" href="#imprinting-disorders%e5%9f%ba%e5%9b%a0%e9%8a%98%e5%8d%b0%e7%96%be%e7%97%85">#</a></h3>
 <p><strong>Imprinted genes（銘印基因）</strong>：根據基因不同，僅由母系或父系 allele 完整表現（parent-of-origin gene expression）。</p>
 <p>銘印由 allele-specific epigenetic mechanisms 決定（如 DNA methylation、histone modifications，而非改變底層序列）。</p>
 <p>當 pathogenic variant 破壞了銘印基因的正常表現 allele，或透過 normally silenced allele 的 uniparental disomy 時，就會致病。</p>
-<blockquote>
+<blockquote class='book-hint '>
 <p>例如：Prader-Willi syndrome、Angelman syndrome、Beckwith-Wiedemann syndrome。</p>
-</blockquote>
-<h3 id="mitochondrial-disorders粒線體疾病">Mitochondrial Disorders（粒線體疾病）</h3>
+</blockquote><h3 id="mitochondrial-disorders粒線體疾病">Mitochondrial Disorders（粒線體疾病）<a class="anchor" href="#mitochondrial-disorders%e7%b2%92%e7%b7%9a%e9%ab%94%e7%96%be%e7%97%85">#</a></h3>
 <p>由 mitochondrial DNA 或對於粒線體功能重要的 nuclear genes 的 pathogenic variants 引起。</p>
 <ul>
 <li>表型異質性（phenotypic heterogeneity）高</li>
 <li>由 nuclear genes pathogenic variants 引起的粒線體疾病呈 Mendelian inheritance（例如：POLG 的 autosomal recessive pathogenic variants 導致 Alpers syndrome）</li>
 <li>由 mitochondrial DNA pathogenic variants 引起的疾病為母系遺傳（maternal inheritance），所有子女皆遺傳自母親的卵子，父親的粒線體不會貢獻</li>
 </ul>
-<blockquote>
+<blockquote class='book-hint '>
 <p>例如：MELAS (mitochondrial encephalomyopathy and lactic acidosis with stroke-like episodes) syndrome。</p>
-</blockquote>
-<hr>
-<h2 id="基因疾病">基因疾病</h2>
-<h3 id="common-indications-for-genetic-referrals常見遺傳學轉介適應症">Common Indications for Genetic Referrals（常見遺傳學轉介適應症）</h3>
+</blockquote><hr>
+<h2 id="基因疾病">基因疾病<a class="anchor" href="#%e5%9f%ba%e5%9b%a0%e7%96%be%e7%97%85">#</a></h2>
+<h3 id="common-indications-for-genetic-referrals常見遺傳學轉介適應症">Common Indications for Genetic Referrals（常見遺傳學轉介適應症）<a class="anchor" href="#common-indications-for-genetic-referrals%e5%b8%b8%e8%a6%8b%e9%81%ba%e5%82%b3%e5%ad%b8%e8%bd%89%e4%bb%8b%e9%81%a9%e6%87%89%e7%97%87">#</a></h3>
 <p><strong>孕前與產前</strong></p>
 <ul>
 <li>異常產前篩檢結果</li>
@@ -203,7 +222,7 @@
 <li>代謝疾病</li>
 </ul>
 <hr>
-<h3 id="pedigrees家系圖">Pedigrees（家系圖）</h3>
+<h3 id="pedigrees家系圖">Pedigrees（家系圖）<a class="anchor" href="#pedigrees%e5%ae%b6%e7%b3%bb%e5%9c%96">#</a></h3>
 <p>家系圖是顯示遺傳疾病在家族中分布模式的家族樹狀圖，通常跨越多個世代。</p>
 <p>家系圖一般標示出生時指定性別（phenotypic sex），有或無 sex chromosomes 的基因確認；在為跨性別與非二元性別患者提供諮詢時，醫師應肯定患者的性別認同，同時澄清出生時指定性別或染色體性別在判斷遺傳特徵時的角色。</p>
 <p><strong>常用符號說明</strong></p>
@@ -261,18 +280,17 @@
       </tr>
   </tbody>
 </table>
-<blockquote>
+<blockquote class='book-hint '>
 <p><strong>Genogram symbols and conventions</strong> 需熟悉，以便正確判讀與繪製家系圖。</p>
-</blockquote>
-<hr>
-<h2 id="遺傳檢測與諮詢">遺傳檢測與諮詢</h2>
-<h3 id="常用術語-1">常用術語</h3>
+</blockquote><hr>
+<h2 id="遺傳檢測與諮詢">遺傳檢測與諮詢<a class="anchor" href="#%e9%81%ba%e5%82%b3%e6%aa%a2%e6%b8%ac%e8%88%87%e8%ab%ae%e8%a9%a2">#</a></h2>
+<h3 id="常用術語-1">常用術語<a class="anchor" href="#%e5%b8%b8%e7%94%a8%e8%a1%93%e8%aa%9e-1">#</a></h3>
 <p><strong>Presymptomatic genetic testing（症狀前遺傳檢測）</strong>：用於判斷無 current symptoms 但有已知遺傳疾病家族史的個體是否攜帶家族性 pathogenic variant。</p>
 <p><strong>Newborn screening（新生兒篩檢）</strong>：出生後數日內進行，目標在症狀出現前偵測可治療且可能致命的疾病，以早期介入。</p>
 <p><strong>Preconception genetic counselling（孕前遺傳諮詢）</strong>：懷孕前評估，評估下一代患有遺傳疾病的風險。</p>
 <p><strong>Preimplantation genetic diagnosis（胚胎植入前基因診斷）</strong>：體外受精胚胎在，子宮移植前針對特定遺傳疾病進行基因檢測。</p>
 <hr>
-<h3 id="table-1-常見遺傳學檢測方法比較">Table 1. 常見遺傳學檢測方法比較</h3>
+<h3 id="table-1-常見遺傳學檢測方法比較">Table 1. 常見遺傳學檢測方法比較<a class="anchor" href="#table-1-%e5%b8%b8%e8%a6%8b%e9%81%ba%e5%82%b3%e5%ad%b8%e6%aa%a2%e6%b8%ac%e6%96%b9%e6%b3%95%e6%af%94%e8%bc%83">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -320,13 +338,13 @@
   </tbody>
 </table>
 <hr>
-<h2 id="先天性異常">先天性異常</h2>
-<h3 id="minor-vs-major-anomalies">Minor vs. Major Anomalies</h3>
+<h2 id="先天性異常">先天性異常<a class="anchor" href="#%e5%85%88%e5%a4%a9%e6%80%a7%e7%95%b0%e5%b8%b8">#</a></h2>
+<h3 id="minor-vs-major-anomalies">Minor vs. Major Anomalies<a class="anchor" href="#minor-vs-major-anomalies">#</a></h3>
 <ul>
 <li><strong>Minor anomaly（輕微異常）</strong>：對患者無重大醫療或美容影響的物理差異（如 ear pit/tag、single palmar crease）</li>
 <li><strong>Major anomaly（主要異常）</strong>：對患者造成重大醫療、外科或美容問題的物理差異（如先天性心臟缺陷、cleft lip）</li>
 </ul>
-<h3 id="mechanisms-for-anomalies異常機制">Mechanisms for Anomalies（異常機制）</h3>
+<h3 id="mechanisms-for-anomalies異常機制">Mechanisms for Anomalies（異常機制）<a class="anchor" href="#mechanisms-for-anomalies%e7%95%b0%e5%b8%b8%e6%a9%9f%e5%88%b6">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -358,13 +376,13 @@
       </tr>
   </tbody>
 </table>
-<h3 id="multiple-anomalies多發異常">Multiple Anomalies（多發異常）</h3>
+<h3 id="multiple-anomalies多發異常">Multiple Anomalies（多發異常）<a class="anchor" href="#multiple-anomalies%e5%a4%9a%e7%99%bc%e7%95%b0%e5%b8%b8">#</a></h3>
 <ul>
 <li><strong>Association（關聯）</strong>：多個獨立異常非隨機地共同出現，發生頻率高於隨機預期，但尚未發現單一潛在病因（如 VACTERL association）</li>
 <li><strong>Sequence（序列）</strong>：源自單一初始 major anomaly 或誘發因子，進而改變周圍或相關組織或結構的發育（如 Potter sequence、Pierre-Robin sequence）</li>
 <li><strong>Syndrome（症候群）</strong>：已知或推測由單一病因引起的一組共同異常（如 CHARGE syndrome）</li>
 </ul>
-<h3 id="vacterl-association">VACTERL Association</h3>
+<h3 id="vacterl-association">VACTERL Association<a class="anchor" href="#vacterl-association">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -404,20 +422,20 @@
   </tbody>
 </table>
 <hr>
-<h2 id="身體差異患者的評估方法">身體差異患者的評估方法</h2>
-<h3 id="general-approach一般原則">General Approach（一般原則）</h3>
+<h2 id="身體差異患者的評估方法">身體差異患者的評估方法<a class="anchor" href="#%e8%ba%ab%e9%ab%94%e5%b7%ae%e7%95%b0%e6%82%a3%e8%80%85%e7%9a%84%e8%a9%95%e4%bc%b0%e6%96%b9%e6%b3%95">#</a></h2>
+<h3 id="general-approach一般原則">General Approach（一般原則）<a class="anchor" href="#general-approach%e4%b8%80%e8%88%ac%e5%8e%9f%e5%89%87">#</a></h3>
 <ol>
 <li>異常是 major 還是 minor？</li>
 <li>異常的 underlying mechanism 是什麼？</li>
 <li>異常是否屬於 association、sequence 或 syndrome？</li>
 <li>家族其他成員是否也有這些異常？</li>
 </ol>
-<h3 id="history病史">History（病史）</h3>
+<h3 id="history病史">History（病史）<a class="anchor" href="#history%e7%97%85%e5%8f%b2">#</a></h3>
 <ul>
 <li>產科病史（注意 potential teratogenic exposures）、發育史、過去病史</li>
 <li>完成三代家系圖，包括健康史、consanguinity、多次流產/死產、新生兒死亡、先天缺陷、發育遲緩/自閉症、種族背景</li>
 </ul>
-<h3 id="physical-exam身體檢查">Physical Exam（身體檢查）</h3>
+<h3 id="physical-exam身體檢查">Physical Exam（身體檢查）<a class="anchor" href="#physical-exam%e8%ba%ab%e9%ab%94%e6%aa%a2%e6%9f%a5">#</a></h3>
 <ul>
 <li>與家族成員特徵比較</li>
 <li><strong>顏面</strong>：gestalt、placement、rotation</li>
@@ -438,10 +456,9 @@
 <li><strong>手腳</strong>：creases、structure、nails</li>
 <li>生長參數（頭圍、身高、體重）</li>
 </ul>
-<blockquote>
+<blockquote class='book-hint '>
 <p><strong>注意</strong>：檢查臍帶是否有兩條 arteries 和一條 vein。單一臍帶 artery 可能與其他先天性異常相關。</p>
-</blockquote>
-<h3 id="investigations檢查">Investigations（檢查）</h3>
+</blockquote><h3 id="investigations檢查">Investigations（檢查）<a class="anchor" href="#investigations%e6%aa%a2%e6%9f%a5">#</a></h3>
 <ul>
 <li>TORCH infections 篩檢（toxoplasmosis、syphilis、varicella-zoster、parvovirus B19、rubella、cytomegalovirus、herpes infection）</li>
 <li>系列照片</li>
@@ -459,14 +476,14 @@
 <li>單基因檢測、gene panel、(W)ES、(W)GS</li>
 <li>感覺功能評估：聽力學、眼科學或驗光</li>
 </ul>
-<h3 id="management處置">Management（處置）</h3>
+<h3 id="management處置">Management（處置）<a class="anchor" href="#management%e8%99%95%e7%bd%ae">#</a></h3>
 <ul>
 <li>復發風險與產前諮詢</li>
 <li>轉介專科醫療或遺傳科以針對症狀管理</li>
 <li>患者教育、連結社會與心理支持服務</li>
 </ul>
 <hr>
-<h2 id="table-2-常見染色體非整倍體症候群">Table 2. 常見染色體非整倍體症候群</h2>
+<h2 id="table-2-常見染色體非整倍體症候群">Table 2. 常見染色體非整倍體症候群<a class="anchor" href="#table-2-%e5%b8%b8%e8%a6%8b%e6%9f%93%e8%89%b2%e9%ab%94%e9%9d%9e%e6%95%b4%e5%80%8d%e9%ab%94%e7%97%87%e5%80%99%e7%be%a4">#</a></h2>
 <table>
   <thead>
       <tr>
@@ -570,7 +587,7 @@
   </tbody>
 </table>
 <hr>
-<h2 id="table-3-性染色體常見遺傳疾病">Table 3. 性染色體常見遺傳疾病</h2>
+<h2 id="table-3-性染色體常見遺傳疾病">Table 3. 性染色體常見遺傳疾病<a class="anchor" href="#table-3-%e6%80%a7%e6%9f%93%e8%89%b2%e9%ab%94%e5%b8%b8%e8%a6%8b%e9%81%ba%e5%82%b3%e7%96%be%e7%97%85">#</a></h2>
 <table>
   <thead>
       <tr>
@@ -650,7 +667,7 @@
   </tbody>
 </table>
 <hr>
-<h2 id="table-4-其他遺傳疾病範例">Table 4. 其他遺傳疾病範例</h2>
+<h2 id="table-4-其他遺傳疾病範例">Table 4. 其他遺傳疾病範例<a class="anchor" href="#table-4-%e5%85%b6%e4%bb%96%e9%81%ba%e5%82%b3%e7%96%be%e7%97%85%e7%af%84%e4%be%8b">#</a></h2>
 <table>
   <thead>
       <tr>
@@ -707,7 +724,7 @@
   </tbody>
 </table>
 <hr>
-<h2 id="table-5-家族性癌症症候群範例">Table 5. 家族性癌症症候群範例</h2>
+<h2 id="table-5-家族性癌症症候群範例">Table 5. 家族性癌症症候群範例<a class="anchor" href="#table-5-%e5%ae%b6%e6%97%8f%e6%80%a7%e7%99%8c%e7%97%87%e7%97%87%e5%80%99%e7%be%a4%e7%af%84%e4%be%8b">#</a></h2>
 <table>
   <thead>
       <tr>
@@ -775,7 +792,7 @@
   </tbody>
 </table>
 <hr>
-<h2 id="table-6-可遺傳結締組織疾病範例">Table 6. 可遺傳結締組織疾病範例</h2>
+<h2 id="table-6-可遺傳結締組織疾病範例">Table 6. 可遺傳結締組織疾病範例<a class="anchor" href="#table-6-%e5%8f%af%e9%81%ba%e5%82%b3%e7%b5%90%e7%b7%a0%e7%b5%84%e7%b9%94%e7%96%be%e7%97%85%e7%af%84%e4%be%8b">#</a></h2>
 <table>
   <thead>
       <tr>
@@ -818,7 +835,7 @@
   </tbody>
 </table>
 <hr>
-<h2 id="table-7-細胞內細胞外轉運受體疾病範例">Table 7. 細胞內/細胞外轉運受體疾病範例</h2>
+<h2 id="table-7-細胞內細胞外轉運受體疾病範例">Table 7. 細胞內/細胞外轉運受體疾病範例<a class="anchor" href="#table-7-%e7%b4%b0%e8%83%9e%e5%85%a7%e7%b4%b0%e8%83%9e%e5%a4%96%e8%bd%89%e9%81%8b%e5%8f%97%e9%ab%94%e7%96%be%e7%97%85%e7%af%84%e4%be%8b">#</a></h2>
 <table>
   <thead>
       <tr>
@@ -856,13 +873,12 @@
   </tbody>
 </table>
 <hr>
-<h2 id="其他單基因疾病">其他單基因疾病</h2>
-<h3 id="sickle-cell-disease鐮刀型紅血球疾病">Sickle Cell Disease（鐮刀型紅血球疾病）</h3>
+<h2 id="其他單基因疾病">其他單基因疾病<a class="anchor" href="#%e5%85%b6%e4%bb%96%e5%96%ae%e5%9f%ba%e5%9b%a0%e7%96%be%e7%97%85">#</a></h2>
+<h3 id="sickle-cell-disease鐮刀型紅血球疾病">Sickle Cell Disease（鐮刀型紅血球疾病）<a class="anchor" href="#sickle-cell-disease%e9%90%ae%e5%88%80%e5%9e%8b%e7%b4%85%e8%a1%80%e7%90%83%e7%96%be%e7%97%85">#</a></h3>
 <p>Autosomal recessive disease，由 HBB gene 的 pathogenic variants 引起，導致異常 β-globin 產生，進而造成紅血球變形。</p>
-<blockquote>
+<blockquote class='book-hint '>
 <p>更多資訊見 Hematology, H21。</p>
-</blockquote>
-<h3 id="duchenne-muscular-dystrophy-dmd">Duchenne Muscular Dystrophy (DMD)</h3>
+</blockquote><h3 id="duchenne-muscular-dystrophy-dmd">Duchenne Muscular Dystrophy (DMD)<a class="anchor" href="#duchenne-muscular-dystrophy-dmd">#</a></h3>
 <p><strong>發生率</strong>：1/4000 男性。</p>
 <p><strong>病因</strong></p>
 <ul>
@@ -901,10 +917,9 @@
 <li>早期關節攣縮、脊椎側彎、骨質減少、骨折風險增加</li>
 <li>第二至第三個十年因肺炎/呼吸衰竭或 CHF 死亡</li>
 </ul>
-<blockquote>
+<blockquote class='book-hint '>
 <p><strong>Gowers&rsquo; Sign</strong>：當從地上起身時，患者利用手和手臂「爬」上大腿，反映骨盆與近端下肢肌肉無力。</p>
-</blockquote>
-<h3 id="huntingtons-disease-hd">Huntington&rsquo;s Disease (HD)</h3>
+</blockquote><h3 id="huntingtons-disease-hd">Huntington&rsquo;s Disease (HD)<a class="anchor" href="#huntingtons-disease-hd">#</a></h3>
 <p><strong>發生率</strong>：世界各地區各異；歐洲裔後裔中更常見。</p>
 <p><strong>病因</strong></p>
 <ul>
@@ -936,7 +951,7 @@
 <li>安寧療護與預先照護計劃</li>
 <li>Gene therapy trials 進行中</li>
 </ul>
-<h3 id="tay-sachs-disease">Tay-Sachs Disease</h3>
+<h3 id="tay-sachs-disease">Tay-Sachs Disease<a class="anchor" href="#tay-sachs-disease">#</a></h3>
 <p><strong>發生率</strong></p>
 <ul>
 <li>特定族群有較高帶因率：
@@ -971,11 +986,10 @@
 <li>Gene therapy trials 與 enzyme replacement therapy 研究中</li>
 </ul>
 <hr>
-<h2 id="代謝疾病">代謝疾病</h2>
-<blockquote>
+<h2 id="代謝疾病">代謝疾病<a class="anchor" href="#%e4%bb%a3%e8%ac%9d%e7%96%be%e7%97%85">#</a></h2>
+<blockquote class='book-hint '>
 <p>個別罕見，但整體發生率達 <strong>1/1500 出生</strong>。為 inherited disorders of metabolism；大多為 autosomal recessive。嬰兒與較大兒童可能以生長停滯或發育遲緩就診。Organelle disorders 可出現異常面容（dysmorphism）。Ontario, Canada 的 universal newborn screening 已納入部分可治療的代謝疾病。</p>
-</blockquote>
-<h3 id="table-8-代謝疾病分類">Table 8. 代謝疾病分類</h3>
+</blockquote><h3 id="table-8-代謝疾病分類">Table 8. 代謝疾病分類<a class="anchor" href="#table-8-%e4%bb%a3%e8%ac%9d%e7%96%be%e7%97%85%e5%88%86%e9%a1%9e">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -1017,11 +1031,10 @@
       </tr>
   </tbody>
 </table>
-<blockquote>
+<blockquote class='book-hint '>
 <p><strong>註</strong>：VLCAD = very long chain acyl-CoA dehydrogenase deficiency；LCHAD = long chain 3-hydroxyacyl-CoA dehydrogenase deficiency；MCADD = medium chain acyl-CoA dehydrogenase deficiency；GSD = glycogen storage disease；MPS = mucopolysaccharidosis。</p>
-</blockquote>
-<hr>
-<h2 id="疑似先天性代謝錯誤急性发作儿童的初步檢查">疑似先天性代謝錯誤急性发作儿童的初步檢查</h2>
+</blockquote><hr>
+<h2 id="疑似先天性代謝錯誤急性发作儿童的初步檢查">疑似先天性代謝錯誤急性发作儿童的初步檢查<a class="anchor" href="#%e7%96%91%e4%bc%bc%e5%85%88%e5%a4%a9%e6%80%a7%e4%bb%a3%e8%ac%9d%e9%8c%af%e8%aa%a4%e6%80%a5%e6%80%a7%e5%8f%91%e4%bd%9c%e5%84%bf%e7%ab%a5%e7%9a%84%e5%88%9d%e6%ad%a5%e6%aa%a2%e6%9f%a5">#</a></h2>
 <ul>
 <li>在初始表現時送檢實驗室檢查，以促進立即診斷與治療</li>
 <li>檢查新生兒篩檢結果</li>
@@ -1033,13 +1046,13 @@
 <li>Carnitine levels 與 acylcarnitine profile</li>
 <li>其他：urate、尿 nitroprusside、CSF glycine、free fatty acids（β-hydroxybutyrate 比值 &gt;4 為 fatty acid oxidation defect）</li>
 </ul>
-<h3 id="treatment治療">Treatment（治療）</h3>
+<h3 id="treatment治療">Treatment（治療）<a class="anchor" href="#treatment%e6%b2%bb%e7%99%82">#</a></h3>
 <ul>
 <li>根據各先天性代謝錯誤而異，包括 dietary restrictions、toxic metabolite sequestrants、enzyme replacement 等</li>
 <li>急性失代償可能由先天性代謝錯誤引起時，停止餵食以防止有毒代謝物進一步堆積</li>
 </ul>
 <hr>
-<h2 id="table-9-特定代謝疾病的表現與治療">Table 9. 特定代謝疾病的表現與治療</h2>
+<h2 id="table-9-特定代謝疾病的表現與治療">Table 9. 特定代謝疾病的表現與治療<a class="anchor" href="#table-9-%e7%89%b9%e5%ae%9a%e4%bb%a3%e8%ac%9d%e7%96%be%e7%97%85%e7%9a%84%e8%a1%a8%e7%8f%be%e8%88%87%e6%b2%bb%e7%99%82">#</a></h2>
 <table>
   <thead>
       <tr>
@@ -1092,8 +1105,8 @@
   </tbody>
 </table>
 <hr>
-<h2 id="landmark-medical-genetics-trials遺傳學重要臨床試驗">Landmark Medical Genetics Trials（遺傳學重要臨床試驗）</h2>
-<h3 id="phenylketonuria-pku">Phenylketonuria (PKU)</h3>
+<h2 id="landmark-medical-genetics-trials遺傳學重要臨床試驗">Landmark Medical Genetics Trials（遺傳學重要臨床試驗）<a class="anchor" href="#landmark-medical-genetics-trials%e9%81%ba%e5%82%b3%e5%ad%b8%e9%87%8d%e8%a6%81%e8%87%a8%e5%ba%8a%e8%a9%a6%e9%a9%97">#</a></h2>
+<h3 id="phenylketonuria-pku">Phenylketonuria (PKU)<a class="anchor" href="#phenylketonuria-pku">#</a></h3>
 <p><strong>Glycomacropeptide or Nutritional Management of PKU — Randomized, Controlled, Crossover Trial (Am J Clin Nutr 2016;104(2):334-345)</strong></p>
 <ul>
 <li><strong>目的</strong>：評估 PKU 患者低 phenylalanine (Phe) 飲食搭配 glycomacropeptide medical foods (GMP-MFs) 或傳統氨基酸醫療食品 (AA-MFs) 的療效與安全性</li>
@@ -1108,7 +1121,7 @@
 <li><strong>結果</strong>：261 名受試者接受治療；24 個月內 68.4% 達到血 Phe &lt;600 µmol/L；血 Phe 下降與神經精神結果改善相關，且長期治療維持效果；绝大多数不良事件 (93%) 為輕度或中度</li>
 <li><strong>結論</strong>：Pegvaliase 治療成人 PKU 安全有效</li>
 </ul>
-<h3 id="cystic-fibrosis">Cystic Fibrosis</h3>
+<h3 id="cystic-fibrosis">Cystic Fibrosis<a class="anchor" href="#cystic-fibrosis">#</a></h3>
 <p><strong>Elexacaftor/Tezacaftor/Ivacaftor in Children 6–11 Years (Am J Respir Crit Care Med 2021;203:1522)</strong></p>
 <ul>
 <li><strong>目的</strong>：評估 Elexacaftor/Tezacaftor/Ivacaftor 組合療法用於 6–11 歲且攜帶至少一個 F508del allele 的囊狀纖維化患者的療效</li>
@@ -1116,7 +1129,7 @@
 <li><strong>結果</strong>：常見副作用包括咳嗽、頭痛、發燒；治療後 FEV₁ 改善 10%、Cystic Fibrosis Questionnaire-Revised respiratory domain score 改善 7.0 分</li>
 <li><strong>結論</strong>：對年齡 &lt;12 歲的 F508del CF 患者使用 Elexacaftor/Tezacaftor/Ivacaftor 治療可獲得顯著改善</li>
 </ul>
-<h3 id="non-small-cell-lung-cancer">Non-Small Cell Lung Cancer</h3>
+<h3 id="non-small-cell-lung-cancer">Non-Small Cell Lung Cancer<a class="anchor" href="#non-small-cell-lung-cancer">#</a></h3>
 <p><strong>FLAURA Trial (N Engl J Med 2018;378:113-125)</strong></p>
 <ul>
 <li><strong>目的</strong>：比較 Osimertinib（第三代 EGFR tyrosine kinase inhibitor）與現有標準 EGFR-TKI 治療未經治療的 EGFR 突變陽性非小細胞肺癌患者</li>
@@ -1124,7 +1137,7 @@
 <li><strong>結果</strong>：Osimertinib 組中位無惡化存活期優於標準 EGFR-TKI（18.9 個月 vs. 10.2 個月）</li>
 <li><strong>結論</strong>：Osimertinib 療效優於標準 EGFR-TKI</li>
 </ul>
-<h3 id="alkaptonuria">Alkaptonuria</h3>
+<h3 id="alkaptonuria">Alkaptonuria<a class="anchor" href="#alkaptonuria">#</a></h3>
 <p><strong>SONIA-2 Trial (Lancet Diabetes Endocrinol 2020;8:762-772)</strong></p>
 <ul>
 <li><strong>目的</strong>：評估 nitisinone 治療 alkaptonuria 的療效</li>
@@ -1132,7 +1145,7 @@
 <li><strong>結果</strong>：Nitisinone 組 u-HGA/24h 顯著下降 99.7%</li>
 <li><strong>結論</strong>：Nitisinone 耐受性良好，是 alkaptonuria 的有效治療選擇</li>
 </ul>
-<h3 id="achondroplasia">Achondroplasia</h3>
+<h3 id="achondroplasia">Achondroplasia<a class="anchor" href="#achondroplasia">#</a></h3>
 <p><strong>C-Type Natriuretic Peptide Analogue Therapy in Children with Achondroplasia (N Engl J Med 2019;378:25-35)</strong></p>
 <ul>
 <li><strong>目的</strong>：評估 vosoritide 治療軟骨發育不全兒童的療效與安全性</li>
@@ -1141,7 +1154,7 @@
 <li><strong>結論</strong>：Vosoritide 可能有輕度副作用，但隨著更大規模試驗的進行，可作為軟骨發育不全的治療選擇</li>
 </ul>
 <hr>
-<h2 id="參考文獻">參考文獻</h2>
+<h2 id="參考文獻">參考文獻<a class="anchor" href="#%e5%8f%83%e8%80%83%e6%96%87%e7%8d%bb">#</a></h2>
 <ol>
 <li>Ay J, Kruszka P. Novel insights in Turner syndrome. Curr Opin Psychiatry 2022;34(4):447-460.</li>
 <li>Amato RS. Nelson&rsquo;s essentials of pediatrics, 4th ed. Philadelphia: WB Saunders; 2002.</li>
@@ -1158,10 +1171,9 @@
 <li>Vissers LE, et al. Mutations in a new member of the chromodomain gene family cause CHARGE syndrome. Nat Genet 2004;36:955-957.</li>
 </ol>
 <hr>
-<blockquote>
+<blockquote class='book-hint '>
 <p><strong>MG2–MG12 · Medical Genetics · Toronto Notes 2025</strong></p>
 </blockquote>
-
       </div>
     </article>
   </main>
@@ -1169,5 +1181,19 @@
   <footer>
     <p>Powered by Hugo | Toronto Notes 2025 繁體中文翻譯</p>
   </footer>
+  <script>
+    function toggleTheme() {
+      const html = document.documentElement;
+      const current = html.getAttribute('data-theme');
+      const next = current === 'dark' ? 'light' : 'dark';
+      html.setAttribute('data-theme', next);
+      localStorage.setItem('theme', next);
+    }
+    const saved = localStorage.getItem('theme');
+    if (saved) document.documentElement.setAttribute('data-theme', saved);
+    else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+      document.documentElement.setAttribute('data-theme', 'dark');
+    }
+  </script>
 </body>
 </html>

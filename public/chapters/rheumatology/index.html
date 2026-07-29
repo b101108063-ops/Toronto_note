@@ -3,33 +3,57 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>RH11 - 風濕病學（Rheumatology） - Toronto Notes 2025 繁體中文</title>
+  <title>Rheumatology 風濕病學 - Toronto Notes 2025 繁體中文</title>
   <style>
+    :root {
+      --bg-primary: #ffffff;
+      --bg-secondary: #f8fafc;
+      --text-primary: #1e293b;
+      --text-secondary: #64748b;
+      --accent: #2563eb;
+      --border: #e2e8f0;
+      --code-bg: #f1f5f9;
+      --link: #2563eb;
+      --link-visited: #5500bb;
+    }
+    [data-theme="dark"] {
+      --bg-primary: #1a1a2e;
+      --bg-secondary: #16162a;
+      --text-primary: #e4e4e7;
+      --text-secondary: #a1a1aa;
+      --accent: #93c5fd;
+      --border: #3f3f46;
+      --code-bg: #27272a;
+      --link: #93c5fd;
+      --link-visited: #c4b5fd;
+    }
     * { box-sizing: border-box; }
-    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; line-height: 1.6; color: #333; max-width: 900px; margin: 0 auto; padding: 20px; }
-    header { border-bottom: 2px solid #2563eb; padding-bottom: 10px; margin-bottom: 20px; }
-    header h1 { margin: 0; font-size: 1.5em; color: #2563eb; }
-    nav a { margin-right: 15px; color: #2563eb; text-decoration: none; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; line-height: 1.6; color: var(--text-primary); background: var(--bg-primary); max-width: 900px; margin: 0 auto; padding: 20px; }
+    header { border-bottom: 2px solid var(--accent); padding-bottom: 10px; margin-bottom: 20px; display: flex; justify-content: space-between; align-items: center; }
+    header h1 { margin: 0; font-size: 1.5em; color: var(--accent); }
+    nav a { margin-right: 15px; color: var(--link); text-decoration: none; }
     nav a:hover { text-decoration: underline; }
-    h1, h2, h3 { color: #1e293b; }
-    h1 { font-size: 1.8em; border-bottom: 1px solid #e2e8f0; padding-bottom: 8px; }
-    h2 { font-size: 1.4em; border-bottom: 1px solid #e2e8f0; padding-bottom: 5px; }
+    h1, h2, h3 { color: var(--text-primary); }
+    h1 { font-size: 1.8em; border-bottom: 1px solid var(--border); padding-bottom: 8px; }
+    h2 { font-size: 1.4em; border-bottom: 1px solid var(--border); padding-bottom: 5px; }
     h3 { font-size: 1.15em; }
-    pre { background: #f1f5f9; padding: 15px; border-radius: 6px; overflow-x: auto; }
-    code { background: #f1f5f9; padding: 2px 5px; border-radius: 3px; font-size: 0.9em; }
+    pre { background: var(--code-bg); padding: 15px; border-radius: 6px; overflow-x: auto; }
+    code { background: var(--code-bg); padding: 2px 5px; border-radius: 3px; font-size: 0.9em; }
     pre code { background: none; padding: 0; }
-    blockquote { border-left: 4px solid #2563eb; margin: 0; padding: 5px 15px; color: #64748b; background: #f8fafc; }
+    blockquote { border-left: 4px solid var(--accent); margin: 0; padding: 5px 15px; color: var(--text-secondary); background: var(--bg-secondary); }
     table { border-collapse: collapse; width: 100%; margin: 15px 0; }
-    th, td { border: 1px solid #cbd5e1; padding: 8px 12px; text-align: left; }
-    th { background: #f1f5f9; font-weight: 600; }
-    tr:nth-child(even) { background: #f8fafc; }
+    th, td { border: 1px solid var(--border); padding: 8px 12px; text-align: left; }
+    th { background: var(--bg-secondary); font-weight: 600; }
+    tr:nth-child(even) { background: var(--bg-secondary); }
     .content-body { line-height: 1.8; }
-    footer { border-top: 1px solid #e2e8f0; margin-top: 30px; padding-top: 15px; color: #64748b; font-size: 0.9em; }
-    .breadcrumb { font-size: 0.9em; color: #64748b; margin-bottom: 15px; }
-    .breadcrumb a { color: #2563eb; text-decoration: none; }
-    a { color: #2563eb; }
+    footer { border-top: 1px solid var(--border); margin-top: 30px; padding-top: 15px; color: var(--text-secondary); font-size: 0.9em; }
+    .breadcrumb { font-size: 0.9em; color: var(--text-secondary); margin-bottom: 15px; }
+    .breadcrumb a { color: var(--link); text-decoration: none; }
+    a { color: var(--link); }
     a:hover { text-decoration: underline; }
     img { max-width: 100%; height: auto; }
+    .theme-toggle { background: none; border: 1px solid var(--border); color: var(--text-primary); cursor: pointer; padding: 4px 10px; border-radius: 4px; font-size: 0.85em; }
+    .theme-toggle:hover { background: var(--bg-secondary); }
   </style>
 </head>
 <body>
@@ -38,16 +62,17 @@
       <a href="https://b101108063-ops.github.io/Toronto_note/">首頁</a>
       <a href="/Toronto_note/categories/">章節</a>
     </nav>
+    <button class="theme-toggle" onclick="toggleTheme()">🌙 暗色</button>
   </header>
 
   <main>
     <div class="breadcrumb">
-      <a href="https://b101108063-ops.github.io/Toronto_note/">首頁</a> &gt; <a href="/Toronto_note/chapters/">Chapters</a> &gt; <a href="/Toronto_note/">Toronto Notes 2025 繁體中文</a> &gt; RH11 - 風濕病學（Rheumatology）
+      <a href="https://b101108063-ops.github.io/Toronto_note/">首頁</a> &gt; <a href="/Toronto_note/chapters/">Chapters</a> &gt; <a href="/Toronto_note/">Toronto Notes 2025 繁體中文</a> &gt; Rheumatology 風濕病學
     </div>
     <article>
-      <h1>RH11 - 風濕病學（Rheumatology）</h1>
+      <h1>Rheumatology 風濕病學</h1>
       <div class="content-body">
-        <h2 id="章節導讀">章節導讀</h2>
+        <h2 id="章節導讀">章節導讀<a class="anchor" href="#%e7%ab%a0%e7%af%80%e5%b0%8e%e8%ae%80">#</a></h2>
 <ul>
 <li>風濕病涵蓋多種自體免疫疾病，主要影響關節、軟組織及結締組織</li>
 <li>診斷需結合臨床表現、實驗室檢查（自體抗體）與影像學發現</li>
@@ -56,13 +81,13 @@
 <li>血管炎依侵犯血管大小分類，對預後與治療方式有重要影響</li>
 </ul>
 <hr>
-<h2 id="退化性關節炎osteoarthritis-oa">退化性關節炎（Osteoarthritis, OA）</h2>
-<h3 id="定義">定義</h3>
+<h2 id="退化性關節炎osteoarthritis-oa">退化性關節炎（Osteoarthritis, OA）<a class="anchor" href="#%e9%80%80%e5%8c%96%e6%80%a7%e9%97%9c%e7%af%80%e7%82%8eosteoarthritis-oa">#</a></h2>
+<h3 id="定義">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9">#</a></h3>
 <ul>
 <li>退化性關節疾病，以軟骨磨損、軟骨下骨重塑、骨刺（osteophyte）形成為特徵</li>
 <li>非系統性發炎疾病，但可能伴隨區域性發炎</li>
 </ul>
-<h3 id="table-9-oa-的徵候與症狀">Table 9. OA 的徵候與症狀</h3>
+<h3 id="table-9-oa-的徵候與症狀">Table 9. OA 的徵候與症狀<a class="anchor" href="#table-9-oa-%e7%9a%84%e5%be%b5%e5%80%99%e8%88%87%e7%97%87%e7%8b%80">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -109,7 +134,7 @@
       </tr>
   </tbody>
 </table>
-<h3 id="table-10-oa-的-x-光特徵">Table 10. OA 的 X 光特徵</h3>
+<h3 id="table-10-oa-的-x-光特徵">Table 10. OA 的 X 光特徵<a class="anchor" href="#table-10-oa-%e7%9a%84-x-%e5%85%89%e7%89%b9%e5%be%b5">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -144,7 +169,7 @@
       </tr>
   </tbody>
 </table>
-<h3 id="關節侵犯">關節侵犯</h3>
+<h3 id="關節侵犯">關節侵犯<a class="anchor" href="#%e9%97%9c%e7%af%80%e4%be%b5%e7%8a%af">#</a></h3>
 <ul>
 <li><strong>全身性退化性關節炎</strong>：≥3 個關節群</li>
 <li><strong>不對稱分布</strong>（膝蓋通常雙側受影響）</li>
@@ -185,7 +210,7 @@
 </ul>
 </li>
 </ul>
-<h3 id="檢查">檢查</h3>
+<h3 id="檢查">檢查<a class="anchor" href="#%e6%aa%a2%e6%9f%a5">#</a></h3>
 <ul>
 <li><strong>血液檢查</strong>
 <ul>
@@ -196,7 +221,7 @@
 <li><strong>影像學</strong>：4 個典型 X 光特徵（見側邊欄）</li>
 <li><strong>關節液</strong>：非發炎性（見 Table 8, RH4）</li>
 </ul>
-<h3 id="治療">治療</h3>
+<h3 id="治療">治療<a class="anchor" href="#%e6%b2%bb%e7%99%82">#</a></h3>
 <ul>
 <li><strong>目前無治療可改變 OA 的自然病程</strong></li>
 <li><strong>預防</strong>：預防傷害、體重管理、體能活動（維持肌肉力量）</li>
@@ -223,13 +248,12 @@
 </ul>
 </li>
 </ul>
-<blockquote>
+<blockquote class='book-hint '>
 <p><strong>臨床焦點：退化性膝關節炎的運動</strong>
 Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療性運動可顯著減少疼痛（12 分/100，95% CI: 10-18）及改善身體功能（10 分/100，95% CI: 8-13）。</p>
-</blockquote>
-<hr>
-<h2 id="血清陽性風濕病seropositive-rheumatic-disease">血清陽性風濕病（Seropositive Rheumatic Disease）</h2>
-<h3 id="診斷-vs-分類">診斷 vs. 分類</h3>
+</blockquote><hr>
+<h2 id="血清陽性風濕病seropositive-rheumatic-disease">血清陽性風濕病（Seropositive Rheumatic Disease）<a class="anchor" href="#%e8%a1%80%e6%b8%85%e9%99%bd%e6%80%a7%e9%a2%a8%e6%bf%95%e7%97%85seropositive-rheumatic-disease">#</a></h2>
+<h3 id="診斷-vs-分類">診斷 vs. 分類<a class="anchor" href="#%e8%a8%ba%e6%96%b7-vs-%e5%88%86%e9%a1%9e">#</a></h3>
 <ul>
 <li><strong>診斷標準</strong>：選擇敏感性高於特異性的標準，因此可能誤診某些病例</li>
 <li><strong>分類標準</strong>：為特異性而開發，以便在臨床試驗中研究定義明確的病例</li>
@@ -237,7 +261,7 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
 <li>血清陽性關節病變的特徵是存在血清學標記，如 positive RF 或 ANA</li>
 <li>少部分血管炎（小血管 ANCA 相關血管炎）有可測量的血清學成分，但專家通常將其視為獨立於血清陽性疾病的類別</li>
 </ul>
-<h3 id="table-11-自體抗體及其在風濕性疾病中的盛行率">Table 11. 自體抗體及其在風濕性疾病中的盛行率</h3>
+<h3 id="table-11-自體抗體及其在風濕性疾病中的盛行率">Table 11. 自體抗體及其在風濕性疾病中的盛行率<a class="anchor" href="#table-11-%e8%87%aa%e9%ab%94%e6%8a%97%e9%ab%94%e5%8f%8a%e5%85%b6%e5%9c%a8%e9%a2%a8%e6%bf%95%e6%80%a7%e7%96%be%e7%97%85%e4%b8%ad%e7%9a%84%e7%9b%9b%e8%a1%8c%e7%8e%87">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -545,12 +569,11 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
       </tr>
   </tbody>
 </table>
-<blockquote>
+<blockquote class='book-hint '>
 <p><strong>注意</strong>：部分正常人可測得 RF 和/或 ANA，但並無相關疾病（如上所述）。</p>
-</blockquote>
-<hr>
-<h2 id="結締組織疾病connective-tissue-disorders">結締組織疾病（Connective Tissue Disorders）</h2>
-<h3 id="table-12-血清陽性關節病變的特徵">Table 12. 血清陽性關節病變的特徵</h3>
+</blockquote><hr>
+<h2 id="結締組織疾病connective-tissue-disorders">結締組織疾病（Connective Tissue Disorders）<a class="anchor" href="#%e7%b5%90%e7%b7%a0%e7%b5%84%e7%b9%94%e7%96%be%e7%97%85connective-tissue-disorders">#</a></h2>
+<h3 id="table-12-血清陽性關節病變的特徵">Table 12. 血清陽性關節病變的特徵<a class="anchor" href="#table-12-%e8%a1%80%e6%b8%85%e9%99%bd%e6%80%a7%e9%97%9c%e7%af%80%e7%97%85%e8%ae%8a%e7%9a%84%e7%89%b9%e5%be%b5">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -670,14 +693,14 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
   </tbody>
 </table>
 <hr>
-<h2 id="類風濕性關節炎rheumatoid-arthritis-ra">類風濕性關節炎（Rheumatoid Arthritis, RA）</h2>
-<h3 id="定義-1">定義</h3>
+<h2 id="類風濕性關節炎rheumatoid-arthritis-ra">類風濕性關節炎（Rheumatoid Arthritis, RA）<a class="anchor" href="#%e9%a1%9e%e9%a2%a8%e6%bf%95%e6%80%a7%e9%97%9c%e7%af%80%e7%82%8erheumatoid-arthritis-ra">#</a></h2>
+<h3 id="定義-1">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-1">#</a></h3>
 <ul>
 <li>慢性、對稱性、侵蝕性周邊關節滑膜炎（如手腕、MCP、MTP）</li>
 <li>特徵為發炎性關節疾病 + 多種關節外特徵</li>
 <li>≥1 個關節有明確臨床滑膜炎（腫脹）且無其他疾病解釋</li>
 </ul>
-<h3 id="table-13-2010-acreular-ra-分類標準">Table 13. 2010 ACR/EULAR RA 分類標準</h3>
+<h3 id="table-13-2010-acreular-ra-分類標準">Table 13. 2010 ACR/EULAR RA 分類標準<a class="anchor" href="#table-13-2010-acreular-ra-%e5%88%86%e9%a1%9e%e6%a8%99%e6%ba%96">#</a></h3>
 <p>（採計分演算法：將 A-D 類別分數相加；確診 RA 需總分 ≥6/10）</p>
 <table>
   <thead>
@@ -770,17 +793,16 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
       </tr>
   </tbody>
 </table>
-<blockquote>
+<blockquote class='book-hint '>
 <p><em>Arthritis Rheum 2010;62:2569-2581</em></p>
-</blockquote>
-<h3 id="共同表現">共同表現</h3>
+</blockquote><h3 id="共同表現">共同表現<a class="anchor" href="#%e5%85%b1%e5%90%8c%e8%a1%a8%e7%8f%be">#</a></h3>
 <ul>
 <li>早晨僵硬 &gt;1 小時，使用時改善</li>
 <li>對稱性關節侵犯</li>
 <li>初始侵犯手腳小關節</li>
 <li>全身性症狀</li>
 </ul>
-<h3 id="病理生理學">病理生理學</h3>
+<h3 id="病理生理學">病理生理學<a class="anchor" href="#%e7%97%85%e7%90%86%e7%94%9f%e7%90%86%e5%ad%b8">#</a></h3>
 <ul>
 <li>自體免疫疾病，病因不明；可能與遺傳和環境因素相關</li>
 <li>複雜的遺傳與環境交互作用導致免疫耐受破壞，最終引起滑膜發炎
@@ -796,13 +818,13 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
 </ul>
 </li>
 </ul>
-<h3 id="流行病學">流行病學</h3>
+<h3 id="流行病學">流行病學<a class="anchor" href="#%e6%b5%81%e8%a1%8c%e7%97%85%e5%ad%b8">#</a></h3>
 <ul>
 <li>最常見的發炎性關節炎：盛行率 1%</li>
 <li>M:F = 1:3</li>
 <li>發病年齡通常 20-40 歲</li>
 </ul>
-<h3 id="臨床表現">臨床表現</h3>
+<h3 id="臨床表現">臨床表現<a class="anchor" href="#%e8%87%a8%e5%ba%8a%e8%a1%a8%e7%8f%be">#</a></h3>
 <ul>
 <li>病情起伏波動（加劇與緩解交替）</li>
 <li>早晨僵硬 &gt;1 小時，使用時改善，休息時惡化</li>
@@ -832,7 +854,7 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
 </li>
 <li><strong>不良預後因素</strong>：發病年齡輕、RF 高滴度、ESR 升高、&gt;20 個關節活動、關節外特徵存在</li>
 </ul>
-<h3 id="table-14-ra-關節外特徵按潛在病理生理分類">Table 14. RA 關節外特徵（按潛在病理生理分類）</h3>
+<h3 id="table-14-ra-關節外特徵按潛在病理生理分類">Table 14. RA 關節外特徵（按潛在病理生理分類）<a class="anchor" href="#table-14-ra-%e9%97%9c%e7%af%80%e5%a4%96%e7%89%b9%e5%be%b5%e6%8c%89%e6%bd%9b%e5%9c%a8%e7%97%85%e7%90%86%e7%94%9f%e7%90%86%e5%88%86%e9%a1%9e">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -884,14 +906,14 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
       </tr>
   </tbody>
 </table>
-<h3 id="功能狀態分類">功能狀態分類</h3>
+<h3 id="功能狀態分類">功能狀態分類<a class="anchor" href="#%e5%8a%9f%e8%83%bd%e7%8b%80%e6%85%8b%e5%88%86%e9%a1%9e">#</a></h3>
 <ul>
 <li><strong>Class I</strong>：可執行日常活動（自我照護、職業、業餘活動）</li>
 <li><strong>Class II</strong>：可執行自我照護和職業活動，業餘活動受限</li>
 <li><strong>Class III</strong>：可執行自我照護，職業和業餘活動受限</li>
 <li><strong>Class IV</strong>：自我照護、職業和業餘活動能力受限</li>
 </ul>
-<h3 id="檢查-1">檢查</h3>
+<h3 id="檢查-1">檢查<a class="anchor" href="#%e6%aa%a2%e6%9f%a5-1">#</a></h3>
 <ul>
 <li><strong>血液檢查</strong>
 <ul>
@@ -915,7 +937,7 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
 </ul>
 </li>
 </ul>
-<h3 id="治療-1">治療</h3>
+<h3 id="治療-1">治療<a class="anchor" href="#%e6%b2%bb%e7%99%82-1">#</a></h3>
 <ul>
 <li><strong>治療目標</strong>：緩解或最低可能的疾病活動度
 <ul>
@@ -985,7 +1007,7 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
 </ul>
 </li>
 </ul>
-<h3 id="追蹤管理與臨床預後">追蹤管理與臨床預後</h3>
+<h3 id="追蹤管理與臨床預後">追蹤管理與臨床預後<a class="anchor" href="#%e8%bf%bd%e8%b9%a4%e7%ae%a1%e7%90%86%e8%88%87%e8%87%a8%e5%ba%8a%e9%a0%90%e5%be%8c">#</a></h3>
 <ul>
 <li>最初每月臨床重新評估，如持續活動則每 3-6 個月一次，發炎抑制後每 6-12 個月一次</li>
 <li>檢查關節是否有活躍發炎——如有，考慮調整藥物、物理/職能治療</li>
@@ -996,17 +1018,16 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
 <li>RA 患者其他嚴重疾病的盛行率增加：感染（如肺臟、皮膚、關節）、骨質疏鬆、精神健康障礙、腎功能受損、淋巴增生性疾病、心血管疾病（與疾病活動度和持續時間相關）</li>
 <li>過早死亡風險增加、預期壽命減少（大部死亡非直接由 RA 引起）</li>
 </ul>
-<blockquote>
+<blockquote class='book-hint '>
 <p><strong>注意</strong>：RA 是動脈粥狀硬化和心血管疾病的獨立風險因素。RA 與所有原因的整體死亡率/發病率增加相關：心血管疾病、腫瘤（尤其淋巴瘤）、感染。</p>
-</blockquote>
-<hr>
-<h2 id="全身性紅斑狼瘡systemic-lupus-erythematosus-sle">全身性紅斑狼瘡（Systemic Lupus Erythematosus, SLE）</h2>
-<h3 id="定義見-nephrology-np26">定義（見 Nephrology, NP26）</h3>
+</blockquote><hr>
+<h2 id="全身性紅斑狼瘡systemic-lupus-erythematosus-sle">全身性紅斑狼瘡（Systemic Lupus Erythematosus, SLE）<a class="anchor" href="#%e5%85%a8%e8%ba%ab%e6%80%a7%e7%b4%85%e6%96%91%e7%8b%bc%e7%98%a1systemic-lupus-erythematosus-sle">#</a></h2>
+<h3 id="定義見-nephrology-np26">定義（見 Nephrology, NP26）<a class="anchor" href="#%e5%ae%9a%e7%be%a9%e8%a6%8b-nephrology-np26">#</a></h3>
 <ul>
 <li>病因不明的慢性自體免疫疾病，導致多系統發炎</li>
 <li>特徵為自體抗體產生和多樣化臨床表現</li>
 </ul>
-<h3 id="table-15-sle-分類標準">Table 15. SLE 分類標準*</h3>
+<h3 id="table-15-sle-分類標準">Table 15. SLE 分類標準*<a class="anchor" href="#table-15-sle-%e5%88%86%e9%a1%9e%e6%a8%99%e6%ba%96">#</a></h3>
 <p><strong>門檻標準</strong>：ANA 滴度 ≥1:80 且…</p>
 <ol>
 <li>如有比 SLE 更可能的解釋，則不計入該標準</li>
@@ -1108,7 +1129,7 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
   </tbody>
 </table>
 <p><em>分類 SLE 需要臨床標準總分 ≥10 分。</em></p>
-<h3 id="病因學與病理生理學">病因學與病理生理學</h3>
+<h3 id="病因學與病理生理學">病因學與病理生理學<a class="anchor" href="#%e7%97%85%e5%9b%a0%e5%ad%b8%e8%88%87%e7%97%85%e7%90%86%e7%94%9f%e7%90%86%e5%ad%b8">#</a></h3>
 <ul>
 <li>細胞毒性自體抗體和免疫複合體形成</li>
 <li>多因素病因
@@ -1147,7 +1168,7 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
 </ul>
 </li>
 </ul>
-<h3 id="流行病學-1">流行病學</h3>
+<h3 id="流行病學-1">流行病學<a class="anchor" href="#%e6%b5%81%e8%a1%8c%e7%97%85%e5%ad%b8-1">#</a></h3>
 <ul>
 <li>盛行率：0.05%</li>
 <li>M:F = 1:10</li>
@@ -1160,11 +1181,11 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
 </ul>
 </li>
 </ul>
-<h3 id="臨床表現-1">臨床表現</h3>
+<h3 id="臨床表現-1">臨床表現<a class="anchor" href="#%e8%87%a8%e5%ba%8a%e8%a1%a8%e7%8f%be-1">#</a></h3>
 <ul>
 <li>特徵為發作和緩解交替</li>
 </ul>
-<h3 id="table-16-sle-的徵候與症狀">Table 16. SLE 的徵候與症狀</h3>
+<h3 id="table-16-sle-的徵候與症狀">Table 16. SLE 的徵候與症狀<a class="anchor" href="#table-16-sle-%e7%9a%84%e5%be%b5%e5%80%99%e8%88%87%e7%97%87%e7%8b%80">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -1223,17 +1244,16 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
       </tr>
   </tbody>
 </table>
-<h3 id="檢查-2">檢查</h3>
+<h3 id="檢查-2">檢查<a class="anchor" href="#%e6%aa%a2%e6%9f%a5-2">#</a></h3>
 <ul>
 <li>ANA（98% 敏感性，但特異性差——作為篩檢試驗；ANA 滴度對追蹤疾病過程無用）</li>
 <li>Anti-dsDNA 和 anti-Sm 特異（95-99%）</li>
 <li>Anti-dsDNA 滴度和血清補體（C3、C4）可用於監測臨床和血清學一致的患者之治療反應（anti-dsDNA 上升、C3 和 C4 下降與疾病活動度相關）</li>
 <li>APLA（抗心磷脂抗體、狼瘡抗凝血劑、抗 B2 醣蛋白 I 抗體），可能導致血栓風險增加和 aPTT 延長</li>
 </ul>
-<blockquote>
+<blockquote class='book-hint '>
 <p><strong>臨床考慮</strong>：對侵犯 ≥2 個器官系統的患者應考慮 SLE。</p>
-</blockquote>
-<h3 id="治療-2">治療</h3>
+</blockquote><h3 id="治療-2">治療<a class="anchor" href="#%e6%b2%bb%e7%99%82-2">#</a></h3>
 <ul>
 <li><strong>治療目標</strong>
 <ul>
@@ -1276,12 +1296,11 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
 </ul>
 </li>
 </ul>
-<blockquote>
+<blockquote class='book-hint '>
 <p><strong>參見 Landmark Rheumatology Trials</strong>：TULIP-2 試驗——研究 anifrolumab 治療 SLE 的療效。</p>
-</blockquote>
-<hr>
-<h2 id="抗磷脂症候群antiphospholipid-syndrome-aps">抗磷脂症候群（Antiphospholipid Syndrome, APS）</h2>
-<h3 id="定義-2">定義</h3>
+</blockquote><hr>
+<h2 id="抗磷脂症候群antiphospholipid-syndrome-aps">抗磷脂症候群（Antiphospholipid Syndrome, APS）<a class="anchor" href="#%e6%8a%97%e7%a3%b7%e8%84%82%e7%97%87%e5%80%99%e7%be%a4antiphospholipid-syndrome-aps">#</a></h2>
+<h3 id="定義-2">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-2">#</a></h3>
 <ul>
 <li>多系統血管病變，表現為復發性血栓事件、自發性流產和血小板減少</li>
 <li>循環抗磷脂自體抗體干擾凝血</li>
@@ -1289,7 +1308,7 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
 <li><strong>繼發性 APS</strong>：發生於結締組織疾病背景下（包括 SLE）、惡性腫瘤、藥物（hydralazine、procainamide、phenytoin、干擾素、quinidine）和感染（HIV、TB、C 型肝炎、傳染性單核球增多症）</li>
 <li><strong>災難性 APS</strong>：1 週內在 ≥3 個器官系統發生小血管血栓性閉塞，APLA 陽性（高死亡率）</li>
 </ul>
-<h3 id="table-17-aps-分類標準">Table 17. APS 分類標準*</h3>
+<h3 id="table-17-aps-分類標準">Table 17. APS 分類標準*<a class="anchor" href="#table-17-aps-%e5%88%86%e9%a1%9e%e6%a8%99%e6%ba%96">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -1330,23 +1349,22 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
 </table>
 <p><em>必須存在至少一個臨床和一個實驗室標準。</em></p>
 <p><em>Thromb Haemost 2006;4:295-306</em></p>
-<h3 id="臨床表現-2">臨床表現</h3>
+<h3 id="臨床表現-2">臨床表現<a class="anchor" href="#%e8%87%a8%e5%ba%8a%e8%a1%a8%e7%8f%be-2">#</a></h3>
 <ul>
 <li>見臨床標準（Table 17）</li>
 <li><strong>血液</strong>：血小板減少、溶血性貧血、嗜中性球減少</li>
 <li><strong>皮膚</strong>：網狀青斑、Raynaud&rsquo;s 現象、紫斑、腿部潰瘡、壞疽</li>
 </ul>
-<h3 id="apla-表現">APLA 表現</h3>
+<h3 id="apla-表現">APLA 表現<a class="anchor" href="#apla-%e8%a1%a8%e7%8f%be">#</a></h3>
 <ul>
 <li>血栓栓塞事件</li>
 <li>自發性流產</li>
 <li>血小板減少</li>
 </ul>
-<blockquote>
+<blockquote class='book-hint '>
 <p><strong>相關</strong>：網狀青斑、偏頭痛
 动脉和靜脈血栓通常互斥。</p>
-</blockquote>
-<h3 id="治療-3">治療</h3>
+</blockquote><h3 id="治療-3">治療<a class="anchor" href="#%e6%b2%bb%e7%99%82-3">#</a></h3>
 <ul>
 <li><strong>血栓</strong>
 <ul>
@@ -1369,26 +1387,25 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
 </li>
 </ul>
 <hr>
-<h2 id="硬皮症systemic-sclerosis-scleroderma">硬皮症（Systemic Sclerosis, Scleroderma）</h2>
-<h3 id="定義-3">定義</h3>
+<h2 id="硬皮症systemic-sclerosis-scleroderma">硬皮症（Systemic Sclerosis, Scleroderma）<a class="anchor" href="#%e7%a1%ac%e7%9a%ae%e7%97%87systemic-sclerosis-scleroderma">#</a></h2>
+<h3 id="定義-3">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-3">#</a></h3>
 <ul>
 <li>非發炎性自體免疫疾病，特徵為廣泛性小血管血管病變、自體抗體產生，以及導致纖維化的纖維母細胞功能障礙</li>
 </ul>
-<h3 id="疾病分類">疾病分類</h3>
+<h3 id="疾病分類">疾病分類<a class="anchor" href="#%e7%96%be%e7%97%85%e5%88%86%e9%a1%9e">#</a></h3>
 <pre tabindex="0"><code>硬皮症（Systemic sclerosis）
 ├── 侷限性（Limited）/ 全身性（Diffuse）
 │   ├── 侷限性全身性硬化症（CREST：腎、肺纖維化）
 │   └── 瀰漫性全身性硬化症（早期內臟侵犯）
 ├── 局部性（Morphea）：皮膚橢圓形硬斑
-└── 線狀（Linear）：沿線狀分布的增厚皮膚
-</code></pre><h3 id="病因學與病理生理學-1">病因學與病理生理學</h3>
+└── 線狀（Linear）：沿線狀分布的增厚皮膚</code></pre><h3 id="病因學與病理生理學-1">病因學與病理生理學<a class="anchor" href="#%e7%97%85%e5%9b%a0%e5%ad%b8%e8%88%87%e7%97%85%e7%90%86%e7%94%9f%e7%90%86%e5%ad%b8-1">#</a></h3>
 <ul>
 <li>特發性血管病變（非血管炎），導致組織萎縮和纖維化</li>
 <li>特徵為數個關鍵致病特徵：小血管血管病變導致組織缺氧、自體抗體產生，以及纖維母細胞功能障礙導致細胞外基質沉積增加</li>
 <li>類似惡性 HTN</li>
 <li>肺病是發病率和死亡率的最常見原因</li>
 </ul>
-<h3 id="table-18-acreular-硬皮症分類標準">Table 18. ACR/EULAR 硬皮症分類標準*</h3>
+<h3 id="table-18-acreular-硬皮症分類標準">Table 18. ACR/EULAR 硬皮症分類標準*<a class="anchor" href="#table-18-acreular-%e7%a1%ac%e7%9a%ae%e7%97%87%e5%88%86%e9%a1%9e%e6%a8%99%e6%ba%96">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -1466,13 +1483,13 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
   </tbody>
 </table>
 <p><em>總分 ≥9 可分類為明確硬皮症（敏感性 0.95，特異性 0.93）。</em></p>
-<h3 id="流行病學-2">流行病學</h3>
+<h3 id="流行病學-2">流行病學<a class="anchor" href="#%e6%b5%81%e8%a1%8c%e7%97%85%e5%ad%b8-2">#</a></h3>
 <ul>
 <li>M:F = 1:3-4，�峰在 50 歲</li>
 <li>與 HLA-DR1 和環境暴露相關（矽土、環氧樹酯、毒油、芳香烴、聚氯乙烯）</li>
 <li>侷限性全身性硬化症預後較好（10 年存活率 &gt;70%），瀰漫性全身性硬化症較差（10 年存活率 40-60%）</li>
 </ul>
-<h3 id="crest-症候群">CREST 症候群</h3>
+<h3 id="crest-症候群">CREST 症候群<a class="anchor" href="#crest-%e7%97%87%e5%80%99%e7%be%a4">#</a></h3>
 <ul>
 <li><strong>C</strong>alcinosis（鈣化）</li>
 <li><strong>R</strong>aynaud&rsquo;s phenomenon（雷諾現象）</li>
@@ -1480,7 +1497,7 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
 <li><strong>S</strong>clerodactyly（指端硬化）</li>
 <li><strong>T</strong>elangiectasia（毛細血管擴張）</li>
 </ul>
-<h3 id="table-19-硬皮症的臨床表現">Table 19. 硬皮症的臨床表現</h3>
+<h3 id="table-19-硬皮症的臨床表現">Table 19. 硬皮症的臨床表現<a class="anchor" href="#table-19-%e7%a1%ac%e7%9a%ae%e7%97%87%e7%9a%84%e8%87%a8%e5%ba%8a%e8%a1%a8%e7%8f%be">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -1523,14 +1540,14 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
       </tr>
   </tbody>
 </table>
-<h3 id="檢查-3">檢查</h3>
+<h3 id="檢查-3">檢查<a class="anchor" href="#%e6%aa%a2%e6%9f%a5-3">#</a></h3>
 <ul>
 <li><strong>血液</strong>：CBC、Cr、ANA；anti-topoisomerase I/anti-Scl-70 抗體：對瀰漫性全身性硬化症特異但不敏感；anti-centromere 抗體：支持 CREST（侷限性全身性硬化症）；anti-RNA polymerase III 抗體：與嚴重皮膚侵犯和腎危機風險增加相關</li>
 <li><strong>肺功能測試</strong>：評估和監測 ILD</li>
 <li><strong>超聲心動圖</strong>：篩檢肺高壓</li>
 <li><strong>影像</strong>：基準線 CXR 排除 ILD；必要時進行肺部高解析 CT（如瀰漫性皮膚 SSc）</li>
 </ul>
-<h3 id="治療-4">治療</h3>
+<h3 id="治療-4">治療<a class="anchor" href="#%e6%b2%bb%e7%99%82-4">#</a></h3>
 <ul>
 <li><strong>皮膚</strong>：良好皮膚衛生；低劑量 prednisone（&gt;20 mg 可能使易感者引發腎危機）、MTX（證據有限）</li>
 <li><strong>血管</strong>：Raynaud&rsquo;s：保持手和核心體溫暖、戒菸；血管擴張劑（CCBs、局部 nitroglycerine 乳膏、全身性 PGE2 抑制劑、PDE5 抑制劑）、fluoxetine</li>
@@ -1547,19 +1564,18 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
 <li><strong>肌肉骨骼</strong>：關節炎使用 NSAIDs；肌炎使用全身性類固醇</li>
 <li>如因嚴重胃腸道侵犯懷疑或確認吸收不良，應篩檢營養缺乏</li>
 </ul>
-<blockquote>
+<blockquote class='book-hint '>
 <p><strong>硬皮症是最常見的次發性 Raynaud&rsquo;s 現象原因。</strong></p>
-</blockquote>
-<hr>
-<h2 id="特發性發炎性肌病變idiopathic-inflammatory-myopathies">特發性發炎性肌病變（Idiopathic Inflammatory Myopathies）</h2>
-<h3 id="定義-4">定義</h3>
+</blockquote><hr>
+<h2 id="特發性發炎性肌病變idiopathic-inflammatory-myopathies">特發性發炎性肌病變（Idiopathic Inflammatory Myopathies）<a class="anchor" href="#%e7%89%b9%e7%99%bc%e6%80%a7%e7%99%bc%e7%82%8e%e6%80%a7%e8%82%8c%e7%97%85%e8%ae%8aidiopathic-inflammatory-myopathies">#</a></h2>
+<h3 id="定義-4">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-4">#</a></h3>
 <ul>
 <li>自體免疫疾病，特徵為近端肌肉無力 + 疼痛</li>
 <li>肌肉因非化膿性淋巴球發炎過程而受損</li>
 <li>與惡性腫瘤相關</li>
 <li>與其他 CTD、Raynaud&rsquo;s 現象、自體免疫疾病相關</li>
 </ul>
-<h3 id="分類">分類</h3>
+<h3 id="分類">分類<a class="anchor" href="#%e5%88%86%e9%a1%9e">#</a></h3>
 <ul>
 <li>包括 DMM、PM、IBM 和其他</li>
 <li>成人和青少年形式</li>
@@ -1573,25 +1589,25 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
 </ul>
 </li>
 </ul>
-<h3 id="包含體肌炎inclusion-body-myositis-ibm">包含體肌炎（Inclusion Body Myositis, IBM）</h3>
+<h3 id="包含體肌炎inclusion-body-myositis-ibm">包含體肌炎（Inclusion Body Myositis, IBM）<a class="anchor" href="#%e5%8c%85%e5%90%ab%e9%ab%94%e8%82%8c%e7%82%8einclusion-body-myositis-ibm">#</a></h3>
 <ul>
 <li>年齡 &gt;50 歲，M&gt;F，緩慢進行性，切片可見細胞內空泡</li>
 <li>患者對治療無反應</li>
 <li>遠端無力為主（非近端）</li>
 <li>肌肉切片有空泡體陽性</li>
 </ul>
-<h3 id="皮肌炎dermatomyositis-dm-多發性肌炎polymyositis-pm">皮肌炎（Dermatomyositis, DM）/ 多發性肌炎（Polymyositis, PM）</h3>
-<h4 id="定義-5">定義</h4>
+<h3 id="皮肌炎dermatomyositis-dm-多發性肌炎polymyositis-pm">皮肌炎（Dermatomyositis, DM）/ 多發性肌炎（Polymyositis, PM）<a class="anchor" href="#%e7%9a%ae%e8%82%8c%e7%82%8edermatomyositis-dm-%e5%a4%9a%e7%99%bc%e6%80%a7%e8%82%8c%e7%82%8epolymyositis-pm">#</a></h3>
+<h4 id="定義-5">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-5">#</a></h4>
 <ul>
 <li>PM 和 DM 是特發性發炎性肌病變，特徵為發炎和近端骨骼肌無力</li>
 <li>DM 常有特徵性皮膚表現</li>
 </ul>
-<h4 id="病因學與病理生理學-2">病因學與病理生理學</h4>
+<h4 id="病因學與病理生理學-2">病因學與病理生理學<a class="anchor" href="#%e7%97%85%e5%9b%a0%e5%ad%b8%e8%88%87%e7%97%85%e7%90%86%e7%94%9f%e7%90%86%e5%ad%b8-2">#</a></h4>
 <ul>
 <li>PM 是 T 細胞介導的過程，肌細胞是主要目標，特徵為局灶性肌膜周圍浸潤（CD8+ T 細胞）包圍肌纖維（見於成人）</li>
 <li>DM 是補體介導的過程，血管周圍發炎浸潤（CD4+ T 細胞 &gt; CD8+ T 細胞）導致肌纖維束周圍萎縮</li>
 </ul>
-<h4 id="臨床表現-3">臨床表現</h4>
+<h4 id="臨床表現-3">臨床表現<a class="anchor" href="#%e8%87%a8%e5%ba%8a%e8%a1%a8%e7%8f%be-3">#</a></h4>
 <ul>
 <li>進行性對稱近端肌肉無力（肩膀和髖部）在數週至數月內發展；難以將頭部抬離枕頭、從椅子上站起、爬樓梯</li>
 <li><strong>皮膚</strong>
@@ -1613,7 +1629,7 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
 <li><strong>胃腸道</strong>：口咽和食道遠端吞嚥困難、食道逆流</li>
 <li><strong>肺部</strong>：呼吸肌無力、ILD、吸入性肺炎</li>
 </ul>
-<h4 id="檢查-4">檢查</h4>
+<h4 id="檢查-4">檢查<a class="anchor" href="#%e6%aa%a2%e6%9f%a5-4">#</a></h4>
 <ul>
 <li>一般實驗室：CK、CBC、ESR 和/或 CRP、TSH</li>
 <li>血清學：ANA、anti-Jo-1（DM）、anti-Mi-2、anti-SRP（通常商業實驗室無此檢測）</li>
@@ -1621,10 +1637,9 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
 <li>EMG：肌肉發炎和損傷的特徵發現</li>
 <li>肌肉切片有助於診斷，但經典型皮膚發現和肌肉無力的患者不需切片</li>
 </ul>
-<blockquote>
+<blockquote class='book-hint '>
 <p><strong>注意</strong>：Gottron&rsquo;s papules 和 Gottron&rsquo;s sign 是 DM 的病理特徵（見於 70% 患者）。</p>
-</blockquote>
-<h4 id="治療-5">治療</h4>
+</blockquote><h4 id="治療-5">治療<a class="anchor" href="#%e6%b2%bb%e7%99%82-5">#</a></h4>
 <ul>
 <li><strong>非藥物</strong>：PT 和 OT，語言治療用於食道功能障礙</li>
 <li><strong>藥物</strong>
@@ -1644,8 +1659,8 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
 </li>
 </ul>
 <hr>
-<h2 id="休格蘭氏症候群sjögrens-syndrome">休格蘭氏症候群（Sjögren&rsquo;s Syndrome）</h2>
-<h3 id="定義-6">定義</h3>
+<h2 id="休格蘭氏症候群sjögrens-syndrome">休格蘭氏症候群（Sjögren&rsquo;s Syndrome）<a class="anchor" href="#%e4%bc%91%e6%a0%bc%e8%98%ad%e6%b0%8f%e7%97%87%e5%80%99%e7%be%a4sj%c3%b6grens-syndrome">#</a></h2>
+<h3 id="定義-6">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-6">#</a></h3>
 <ul>
 <li>自體免疫疾病，特徵為眼睛乾燥（乾性角膜結膜炎/xerophthalmia）和口腔乾燥（xerostomia），由淚腺和唾液腺的淋巴球浸潤引起</li>
 <li>存在於一個光譜中，可能發展為全身性障礙（20%）——外分泌腺活動減少和腺外特徵</li>
@@ -1653,7 +1668,7 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
 <li>盛行率 0.5%，F&raquo;M 為 10:1，40-60 歲</li>
 <li>非霍奇金淋巴瘤風險增加（終生盛行率 6-7%）</li>
 </ul>
-<h3 id="table-20-acreular-原發性休格蘭氏症候群分類標準">Table 20. ACR/EULAR 原發性休格蘭氏症候群分類標準*</h3>
+<h3 id="table-20-acreular-原發性休格蘭氏症候群分類標準">Table 20. ACR/EULAR 原發性休格蘭氏症候群分類標準*<a class="anchor" href="#table-20-acreular-%e5%8e%9f%e7%99%bc%e6%80%a7%e4%bc%91%e6%a0%bc%e8%98%ad%e6%b0%8f%e7%97%87%e5%80%99%e7%be%a4%e5%88%86%e9%a1%9e%e6%a8%99%e6%ba%96">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -1691,7 +1706,7 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
   </tbody>
 </table>
 <p><em>至少 1 個納入標準，無排除標準，分數 ≥4。</em></p>
-<h3 id="臨床表現-4">臨床表現</h3>
+<h3 id="臨床表現-4">臨床表現<a class="anchor" href="#%e8%87%a8%e5%ba%8a%e8%a1%a8%e7%8f%be-4">#</a></h3>
 <ul>
 <li><strong>「乾燥複合體」</strong>：眼睛乾燥（乾性角膜結膜炎/xerophthalmia）、口腔乾燥（xerostomia），併發葡萄球菌眼瞼炎</li>
 <li>齲齒、口腔念珠菌病、放射性唇炎（口腔唇角發炎和裂開）</li>
@@ -1708,44 +1723,44 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
 </ul>
 </li>
 </ul>
-<h3 id="經典型三聯徵辨識-93-的休格蘭氏患者">經典型三聯徵（辨識 93% 的休格蘭氏患者）</h3>
+<h3 id="經典型三聯徵辨識-93-的休格蘭氏患者">經典型三聯徵（辨識 93% 的休格蘭氏患者）<a class="anchor" href="#%e7%b6%93%e5%85%b8%e5%9e%8b%e4%b8%89%e8%81%af%e5%be%b5%e8%be%a8%e8%ad%98-93-%e7%9a%84%e4%bc%91%e6%a0%bc%e8%98%ad%e6%b0%8f%e6%82%a3%e8%80%85">#</a></h3>
 <ol>
 <li>眼睛乾燥</li>
 <li>口腔乾燥（xerostomia）+ 吞嚥困難</li>
 <li>關節炎（小關節、非對稱、非侵蝕性）——但可能與類風濕性關節炎相關，在此情況下關節炎為侵蝕性和對稱性</li>
 </ol>
-<h3 id="治療-6">治療</h3>
+<h3 id="治療-6">治療<a class="anchor" href="#%e6%b2%bb%e7%99%82-6">#</a></h3>
 <ul>
 <li><strong>眼睛</strong>：人工淚液/淚膜（嚴重時）、保濕護目鏡、加濕器，或乾燥眼睛的手術性淚管封閉</li>
 <li><strong>口腔</strong>：良好牙齒衛生、補水；避免酒精和菸草；刺激唾液流量的副交感神經藥物（如 pilocarpine）；口腔念珠菌病使用局部 nystatin 或 clotrimazole 4-6 週</li>
 </ul>
 <hr>
-<h2 id="混合性結締組織疾病mixed-connective-tissue-disease-mctd">混合性結締組織疾病（Mixed Connective Tissue Disease, MCTD）</h2>
-<h3 id="定義-7">定義</h3>
+<h2 id="混合性結締組織疾病mixed-connective-tissue-disease-mctd">混合性結締組織疾病（Mixed Connective Tissue Disease, MCTD）<a class="anchor" href="#%e6%b7%b7%e5%90%88%e6%80%a7%e7%b5%90%e7%b7%a0%e7%b5%84%e7%b9%94%e7%96%be%e7%97%85mixed-connective-tissue-disease-mctd">#</a></h2>
+<h3 id="定義-7">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-7">#</a></h3>
 <ul>
 <li>具有 3 種不同 CTD 特徵的症候群（如 SLE、硬皮症、肌炎）</li>
 <li>常見症狀：Raynaud&rsquo;s 現象、手指腫脹</li>
 </ul>
-<h3 id="檢查-5">檢查</h3>
+<h3 id="檢查-5">檢查<a class="anchor" href="#%e6%aa%a2%e6%9f%a5-5">#</a></h3>
 <ul>
 <li>血液：anti-RNP（見 Table 12, RH8）</li>
 </ul>
-<h3 id="治療-7">治療</h3>
+<h3 id="治療-7">治療<a class="anchor" href="#%e6%b2%bb%e7%99%82-7">#</a></h3>
 <ul>
 <li>治療通常根據症狀嚴重程度和器官系統侵犯引導</li>
 </ul>
-<h3 id="預後">預後</h3>
+<h3 id="預後">預後<a class="anchor" href="#%e9%a0%90%e5%be%8c">#</a></h3>
 <ul>
 <li>預後多變：部分緩解、部分發展為明確 CTD（如 SLE、SSc）、部分疾病過程嚴重</li>
 <li>肺動脈高壓是主要死亡原因</li>
 </ul>
 <hr>
-<h2 id="重疊症候群overlap-syndrome">重疊症候群（Overlap Syndrome）</h2>
-<h3 id="定義-8">定義</h3>
+<h2 id="重疊症候群overlap-syndrome">重疊症候群（Overlap Syndrome）<a class="anchor" href="#%e9%87%8d%e7%96%8a%e7%97%87%e5%80%99%e7%be%a4overlap-syndrome">#</a></h2>
+<h3 id="定義-8">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-8">#</a></h3>
 <ul>
 <li>具有 ≥2 種不同 CTD 足夠診斷特徵的症候群</li>
 </ul>
-<h3 id="定義-9">定義</h3>
+<h3 id="定義-9">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-9">#</a></h3>
 <ul>
 <li>血管發炎及後續壞死導致任何器官系統的組織缺血或梗塞</li>
 <li><strong>診斷</strong>
@@ -1758,8 +1773,8 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
 <li>治療通常涉及皮質類固醇和/或免疫抑制劑</li>
 </ul>
 <hr>
-<h2 id="血管炎vasculitis">血管炎（Vasculitis）</h2>
-<h3 id="table-21-血管炎分類與特徵">Table 21. 血管炎分類與特徵</h3>
+<h2 id="血管炎vasculitis">血管炎（Vasculitis）<a class="anchor" href="#%e8%a1%80%e7%ae%a1%e7%82%8evasculitis">#</a></h2>
+<h3 id="table-21-血管炎分類與特徵">Table 21. 血管炎分類與特徵<a class="anchor" href="#table-21-%e8%a1%80%e7%ae%a1%e7%82%8e%e5%88%86%e9%a1%9e%e8%88%87%e7%89%b9%e5%be%b5">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -1855,8 +1870,8 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
   </tbody>
 </table>
 <hr>
-<h2 id="小血管非-anca-相關血管炎">小血管非 ANCA 相關血管炎</h2>
-<h3 id="皮膚血管炎">皮膚血管炎</h3>
+<h2 id="小血管非-anca-相關血管炎">小血管非 ANCA 相關血管炎<a class="anchor" href="#%e5%b0%8f%e8%a1%80%e7%ae%a1%e9%9d%9e-anca-%e7%9b%b8%e9%97%9c%e8%a1%80%e7%ae%a1%e7%82%8e">#</a></h2>
+<h3 id="皮膚血管炎">皮膚血管炎<a class="anchor" href="#%e7%9a%ae%e8%86%9a%e8%a1%80%e7%ae%a1%e7%82%8e">#</a></h3>
 <ul>
 <li><strong>分類</strong>：
 <ul>
@@ -1866,7 +1881,7 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
 </ul>
 </li>
 </ul>
-<h3 id="病因學與病理生理學-3">病因學與病理生理學</h3>
+<h3 id="病因學與病理生理學-3">病因學與病理生理學<a class="anchor" href="#%e7%97%85%e5%9b%a0%e5%ad%b8%e8%88%87%e7%97%85%e7%90%86%e7%94%9f%e7%90%86%e5%ad%b8-3">#</a></h3>
 <ul>
 <li>皮膚血管炎可因：
 <ul>
@@ -1878,16 +1893,16 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
 <li>小血管受侵犯（毛細血管後靜脈最常見）</li>
 <li>通常導致白血球破碎性血管炎：中性粒細胞碎片圍繞血管</li>
 </ul>
-<h3 id="臨床表現-5">臨床表現</h3>
+<h3 id="臨床表現-5">臨床表現<a class="anchor" href="#%e8%87%a8%e5%ba%8a%e8%a1%a8%e7%8f%be-5">#</a></h3>
 <ul>
 <li>可觸摸紫斑（通常在下肢）+ 皰疹和潰瘡、蕁麻疹、斑疹、丘疹、囊皰、皮下結節</li>
 <li>可能發生腎臟或關節侵犯，兒童尤甚</li>
 </ul>
-<h3 id="檢查-6">檢查</h3>
+<h3 id="檢查-6">檢查<a class="anchor" href="#%e6%aa%a2%e6%9f%a5-6">#</a></h3>
 <ul>
 <li>皮膚切片確認血管侵犯（動靜脈）</li>
 </ul>
-<h3 id="治療-8">治療</h3>
+<h3 id="治療-8">治療<a class="anchor" href="#%e6%b2%bb%e7%99%82-8">#</a></h3>
 <ul>
 <li>停用可能的致病藥物；治療潛在原發疾病</li>
 <li>NSAIDs、低劑量皮質類固醇</li>
@@ -1895,15 +1910,15 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
 <li>通常自我限制，但 % 案例可能復發</li>
 </ul>
 <hr>
-<h2 id="小血管-anca-相關血管炎">小血管 ANCA 相關血管炎</h2>
-<h3 id="肉芽腫性多血管炎granulomatosis-with-polyangiitis-gpa">肉芽腫性多血管炎（Granulomatosis with Polyangiitis, GPA）</h3>
-<h4 id="定義-10">定義</h4>
+<h2 id="小血管-anca-相關血管炎">小血管 ANCA 相關血管炎<a class="anchor" href="#%e5%b0%8f%e8%a1%80%e7%ae%a1-anca-%e7%9b%b8%e9%97%9c%e8%a1%80%e7%ae%a1%e7%82%8e">#</a></h2>
+<h3 id="肉芽腫性多血管炎granulomatosis-with-polyangiitis-gpa">肉芽腫性多血管炎（Granulomatosis with Polyangiitis, GPA）<a class="anchor" href="#%e8%82%89%e8%8a%bd%e8%85%ab%e6%80%a7%e5%a4%9a%e8%a1%80%e7%ae%a1%e7%82%8egranulomatosis-with-polyangiitis-gpa">#</a></h3>
+<h4 id="定義-10">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-10">#</a></h4>
 <ul>
 <li>侵犯上下呼吸道（鼻炎、鼻竇炎）和腎臟（腎絲球腎炎、腎衰竭）的肉芽腫性血管炎</li>
 <li>與 c-ANCA（免疫螢光法）和 PR3-ANCA（ELISA）高度相關；但 ANCA 濃度變化不能預測緩解或復發</li>
 <li>發生率：每 100,000 人 2-3 例；北方緯度更常見</li>
 </ul>
-<h4 id="table-22-gpa-分類標準acr-2022">Table 22. GPA 分類標準（ACR 2022）</h4>
+<h4 id="table-22-gpa-分類標準acr-2022">Table 22. GPA 分類標準（ACR 2022）<a class="anchor" href="#table-22-gpa-%e5%88%86%e9%a1%9e%e6%a8%99%e6%ba%96acr-2022">#</a></h4>
 <table>
   <thead>
       <tr>
@@ -1959,13 +1974,13 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
   </tbody>
 </table>
 <p><em>確診分數 ≥5</em></p>
-<h4 id="病因學與病理生理學-4">病因學與病理生理學</h4>
+<h4 id="病因學與病理生理學-4">病因學與病理生理學<a class="anchor" href="#%e7%97%85%e5%9b%a0%e5%ad%b8%e8%88%87%e7%97%85%e7%90%86%e7%94%9f%e7%90%86%e5%ad%b8-4">#</a></h4>
 <ul>
 <li>發病依賴遺傳易感性和環境觸發（如感染）</li>
 <li>失調的免疫反應導致 B 和 T 細胞耐受喪失</li>
 <li>由中性粒細胞和單核細胞媒介急性血管損傷</li>
 </ul>
-<h4 id="臨床表現-6">臨床表現</h4>
+<h4 id="臨床表現-6">臨床表現<a class="anchor" href="#%e8%87%a8%e5%ba%8a%e8%a1%a8%e7%8f%be-6">#</a></h4>
 <ul>
 <li><strong>全身性</strong>：不適、發燒、無力、體重減輕</li>
 <li><strong>頭眼耳鼻喉</strong>：鼻竇炎或鼻炎、鼻殼和血性鼻分泌物、鼻中隔穿孔、鞍鼻畸形；由於侵犯眼外肌的發炎/血管炎或上呼吸道團塊直接擴展的肉芽腫性球後佔位性病變導致眼球突出；侵犯第八對腦神經導致聽力喪失</li>
@@ -1973,14 +1988,14 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
 <li><strong>腎臟</strong>：血尿、蛋白尿、Cr 上升、腎絲球腎炎</li>
 <li><strong>其他</strong>：關節、皮膚、眼——虹彩炎、血管炎性神經病變</li>
 </ul>
-<h4 id="檢查-7">檢查</h4>
+<h4 id="檢查-7">檢查<a class="anchor" href="#%e6%aa%a2%e6%9f%a5-7">#</a></h4>
 <ul>
 <li>血液：貧血（正常細胞性）、WBC 上升、Cr 上升、CRP 上升、血小板升高、ANCA（PR3 &gt; MPO）</li>
 <li>尿液分析：蛋白尿、血尿、RBC 圓柱</li>
 <li>CXR/CT：肺炎、肺結節、浸潤、空洞性病變</li>
 <li>切片確診：皮膚、腎臟（節段性壞死少免疫腎絲球腎炎）、肺（血管炎、壞死）</li>
 </ul>
-<h4 id="治療-9">治療</h4>
+<h4 id="治療-9">治療<a class="anchor" href="#%e6%b2%bb%e7%99%82-9">#</a></h4>
 <ul>
 <li><strong>嚴重、危及生命或器官的疾病</strong>
 <ul>
@@ -2007,20 +2022,19 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
 </ul>
 </li>
 </ul>
-<blockquote>
+<blockquote class='book-hint '>
 <p><strong>參見 Landmark Rheumatology Trials</strong>：RAVE 試驗——研究 rituximab 用於 ANCA 相關血管炎誘導和維持緩解的療效。MAINRITSAN3 試驗——研究 rituximab 延長維持治療在 ANCA 相關血管炎患者中的療效。</p>
-</blockquote>
-<hr>
-<h2 id="中等血管血管炎">中等血管血管炎</h2>
-<h3 id="結節性多動脈炎polyarteritis-nodosa-pan">結節性多動脈炎（Polyarteritis Nodosa, PAN）</h3>
-<h4 id="定義-11">定義</h4>
+</blockquote><hr>
+<h2 id="中等血管血管炎">中等血管血管炎<a class="anchor" href="#%e4%b8%ad%e7%ad%89%e8%a1%80%e7%ae%a1%e8%a1%80%e7%ae%a1%e7%82%8e">#</a></h2>
+<h3 id="結節性多動脈炎polyarteritis-nodosa-pan">結節性多動脈炎（Polyarteritis Nodosa, PAN）<a class="anchor" href="#%e7%b5%90%e7%af%80%e6%80%a7%e5%a4%9a%e5%8b%95%e8%84%88%e7%82%8epolyarteritis-nodosa-pan">#</a></h3>
+<h4 id="定義-11">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-11">#</a></h4>
 <ul>
 <li>侵犯內臟动脉及其分支的中等大小血管之全身性、壞死性血管炎</li>
 <li>ANCA 陰性，典型地不侵犯肺</li>
 <li>5-10% 與 B 型肝炎陽性相關</li>
 <li>發生率：每 100,000 人 0.7 例；影響 40-60 歲個體</li>
 </ul>
-<h4 id="table-23-pan-分類標準acr-1980">Table 23. PAN 分類標準（ACR 1980）</h4>
+<h4 id="table-23-pan-分類標準acr-1980">Table 23. PAN 分類標準（ACR 1980）<a class="anchor" href="#table-23-pan-%e5%88%86%e9%a1%9e%e6%a8%99%e6%ba%96acr-1980">#</a></h4>
 <table>
   <thead>
       <tr>
@@ -2072,13 +2086,13 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
   </tbody>
 </table>
 <p><em>如存在 ≥3/10 標準則確診。</em></p>
-<h4 id="病因學與病理生理學-5">病因學與病理生理學</h4>
+<h4 id="病因學與病理生理學-5">病因學與病理生理學<a class="anchor" href="#%e7%97%85%e5%9b%a0%e5%ad%b8%e8%88%87%e7%97%85%e7%90%86%e7%94%9f%e7%90%86%e5%ad%b8-5">#</a></h4>
 <ul>
 <li>小和中等大小动脉的局灶性全壁壞死性血管炎</li>
 <li>病變部位可能發生血栓、動脉瘤或擴張</li>
 <li>康復後的病變顯示纖維組織和內皮細胞增殖，可能導致管腔閉塞</li>
 </ul>
-<h4 id="臨床表現-7">臨床表現</h4>
+<h4 id="臨床表現-7">臨床表現<a class="anchor" href="#%e8%87%a8%e5%ba%8a%e8%a1%a8%e7%8f%be-7">#</a></h4>
 <ul>
 <li><strong>全身性</strong>：疲勞、體重減輕、無力、發燒、關節痛</li>
 <li><strong>皮膚</strong>：網狀青斑、結節、紫斑、疹子</li>
@@ -2086,13 +2100,13 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
 <li><strong>神經</strong>：運動和感覺神經的單神經炎多重</li>
 <li><strong>腹部</strong>：腹痛、腸繫膜血管炎</li>
 </ul>
-<h4 id="檢查-8">檢查</h4>
+<h4 id="檢查-8">檢查<a class="anchor" href="#%e6%aa%a2%e6%9f%a5-8">#</a></h4>
 <ul>
 <li>血液：CBC、CRP、Cr、BUN、尿液分析、肝酶、p-ANCA、B 和 C 型肝炎血清學</li>
 <li>影像：CT 或 MRI 血管攝影顯示血管「珠串」外觀</li>
 <li>切片：受影響器官（如皮膚、神經）；不建議對高血管化組織（如肝臟）切片，因动脉瘤破裂風險</li>
 </ul>
-<h4 id="治療-10">治療</h4>
+<h4 id="治療-10">治療<a class="anchor" href="#%e6%b2%bb%e7%99%82-10">#</a></h4>
 <ul>
 <li>根據五因素評分（FSS）指導——PAN 和 EGPA 患者的生存預後評分
 <ul>
@@ -2118,9 +2132,9 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
 </li>
 </ul>
 <hr>
-<h2 id="大血管血管炎">大血管血管炎</h2>
-<h3 id="巨細胞动脉炎顳动脉炎giant-cell-arteritis-gca">巨細胞动脉炎/顳动脉炎（Giant Cell Arteritis, GCA）</h3>
-<h4 id="table-24-gca-分類標準acr-2022">Table 24. GCA 分類標準（ACR 2022）</h4>
+<h2 id="大血管血管炎">大血管血管炎<a class="anchor" href="#%e5%a4%a7%e8%a1%80%e7%ae%a1%e8%a1%80%e7%ae%a1%e7%82%8e">#</a></h2>
+<h3 id="巨細胞动脉炎顳动脉炎giant-cell-arteritis-gca">巨細胞动脉炎/顳动脉炎（Giant Cell Arteritis, GCA）<a class="anchor" href="#%e5%b7%a8%e7%b4%b0%e8%83%9e%e5%8a%a8%e8%84%89%e7%82%8e%e9%a1%b3%e5%8a%a8%e8%84%89%e7%82%8egiant-cell-arteritis-gca">#</a></h3>
+<h4 id="table-24-gca-分類標準acr-2022">Table 24. GCA 分類標準（ACR 2022）<a class="anchor" href="#table-24-gca-%e5%88%86%e9%a1%9e%e6%a8%99%e6%ba%96acr-2022">#</a></h4>
 <p>| 絕對要求 | |
 |&mdash;&mdash;&mdash;-|
 | 發病年齡 ≥50 歲 |</p>
@@ -2179,14 +2193,14 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
   </tbody>
 </table>
 <p><em>將上述 10 項分數相加。總分 ≥6 分可分類為 GCA。敏感性 87%，特異性 95%。</em></p>
-<h4 id="流行病學-3">流行病學</h4>
+<h4 id="流行病學-3">流行病學<a class="anchor" href="#%e6%b5%81%e8%a1%8c%e7%97%85%e5%ad%b8-3">#</a></h4>
 <ul>
 <li>北美最常見的血管炎</li>
 <li>患者 &gt;50 歲；高峰 70-80 歲</li>
 <li>南北梯度（北歐和美國占優勢）</li>
 <li>侵犯顱外动脉</li>
 </ul>
-<h4 id="臨床表現-8">臨床表現</h4>
+<h4 id="臨床表現-8">臨床表現<a class="anchor" href="#%e8%87%a8%e5%ba%8a%e8%a1%a8%e7%8f%be-8">#</a></h4>
 <ul>
 <li>新發暫時性頭痛 + 头皮壓痛（覆蓋顳动脉）</li>
 <li>因眼动脉或睫後动脉（PCA 更常見）狹窄導致突發、無痛性視力喪失和/或複視；可影響雙眼</li>
@@ -2195,11 +2209,11 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
 <li>主動脈弓症候群（侵犯鎖骨下和主動脈分支導致無脈疾病）、主動脈瘤和破裂是晚期併發症</li>
 <li>全身性症狀（如不明原因發燒，患者 &gt;65 歲）</li>
 </ul>
-<h4 id="檢查-9">檢查</h4>
+<h4 id="檢查-9">檢查<a class="anchor" href="#%e6%aa%a2%e6%9f%a5-9">#</a></h4>
 <ul>
 <li>診斷基於臨床懷疑、ESR 或 CRP 升高，以及影像（顳和腋动脉彩色都卜勒超聲 + halo sign、顳血管 MRI、顯示整個主動脈發炎的 PET 掃描）或陽性顳动脉切片</li>
 </ul>
-<h4 id="治療-11">治療</h4>
+<h4 id="治療-11">治療<a class="anchor" href="#%e6%b2%bb%e7%99%82-11">#</a></h4>
 <ul>
 <li><strong>blindness 和其他血管併發症是高血壓緊急情況</strong></li>
 <li><strong>如懷疑 GCA，立即開始高劑量 prednisone 1 mg/kg PO 分次服用 2-4 週，然後症狀緩解時每 1-2 週減量 10 mg</strong>；治療和預防高度有效</li>
@@ -2208,12 +2222,11 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
 <li>Tocilizumab（IL-6 受體單株抗體）也已與 glucocorticoids 聯合使用</li>
 <li>每年 CXR + 腹部超聲作為篩檢（主動脈瘤和主動脈夾層風險增加）</li>
 </ul>
-<blockquote>
+<blockquote class='book-hint '>
 <p><strong>醫療緊急情況</strong>：如未治療，GCA 可導致 20-25% 患者永久失明。根據臨床懷疑治療。</p>
-</blockquote>
-<hr>
-<h2 id="血清陰性脊椎關節病變seronegative-spondyloarthropathies">血清陰性脊椎關節病變（Seronegative Spondyloarthropathies）</h2>
-<h3 id="table-25-脊椎關節病變比較">Table 25. 脊椎關節病變比較</h3>
+</blockquote><hr>
+<h2 id="血清陰性脊椎關節病變seronegative-spondyloarthropathies">血清陰性脊椎關節病變（Seronegative Spondyloarthropathies）<a class="anchor" href="#%e8%a1%80%e6%b8%85%e9%99%b0%e6%80%a7%e8%84%8a%e6%a4%8e%e9%97%9c%e7%af%80%e7%97%85%e8%ae%8aseronegative-spondyloarthropathies">#</a></h2>
+<h3 id="table-25-脊椎關節病變比較">Table 25. 脊椎關節病變比較<a class="anchor" href="#table-25-%e8%84%8a%e6%a4%8e%e9%97%9c%e7%af%80%e7%97%85%e8%ae%8a%e6%af%94%e8%bc%83">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -2305,14 +2318,14 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
   </tbody>
 </table>
 <hr>
-<h2 id="僵直性脊椎炎ankylosing-spondylitis-as">僵直性脊椎炎（Ankylosing Spondylitis, AS）</h2>
-<h3 id="定義-12">定義</h3>
+<h2 id="僵直性脊椎炎ankylosing-spondylitis-as">僵直性脊椎炎（Ankylosing Spondylitis, AS）<a class="anchor" href="#%e5%83%b5%e7%9b%b4%e6%80%a7%e8%84%8a%e6%a4%8e%e7%82%8eankylosing-spondylitis-as">#</a></h2>
+<h3 id="定義-12">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-12">#</a></h3>
 <ul>
 <li>侵犯骶髂關節和脊椎的慢性發炎性關節炎</li>
 <li>附着點炎是主要特徵（如阿基里斯腱炎、足底筋膜炎的跟骨附著處）</li>
 <li>原型脊椎關節病變</li>
 </ul>
-<h3 id="table-26-asas-軸向脊椎關節炎分類標準">Table 26. ASAS 軸向脊椎關節炎分類標準*</h3>
+<h3 id="table-26-asas-軸向脊椎關節炎分類標準">Table 26. ASAS 軸向脊椎關節炎分類標準*<a class="anchor" href="#table-26-asas-%e8%bb%b8%e5%90%91%e8%84%8a%e6%a4%8e%e9%97%9c%e7%af%80%e7%82%8e%e5%88%86%e9%a1%9e%e6%a8%99%e6%ba%96">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -2375,16 +2388,16 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
   </tbody>
 </table>
 <p><em>脊椎關節病變：脊椎關節的發炎性疼痛。</em></p>
-<h3 id="病因學與病理生理學-6">病因學與病理生理學</h3>
+<h3 id="病因學與病理生理學-6">病因學與病理生理學<a class="anchor" href="#%e7%97%85%e5%9b%a0%e5%ad%b8%e8%88%87%e7%97%85%e7%90%86%e7%94%9f%e7%90%86%e5%ad%b8-6">#</a></h3>
 <ul>
 <li>發炎 &gt; 骨質疏鬆 &gt; 侵蝕 &gt; 骨化 &gt; 骨增生（軟骨內骨化）</li>
 </ul>
-<h3 id="流行病學-4">流行病學</h3>
+<h3 id="流行病學-4">流行病學<a class="anchor" href="#%e6%b5%81%e8%a1%8c%e7%97%85%e5%ad%b8-4">#</a></h3>
 <ul>
 <li>M:F = 3:1；女性疾病較輕（可能診斷不足）、更多周邊關節炎、上脊椎侵犯</li>
 <li>90-95% 患者 HLA-B27 陽性（一般人口 9% HLA-B27 陽性）</li>
 </ul>
-<h3 id="臨床表現-9">臨床表現</h3>
+<h3 id="臨床表現-9">臨床表現<a class="anchor" href="#%e8%87%a8%e5%ba%8a%e8%a1%a8%e7%8f%be-9">#</a></h3>
 <ul>
 <li><strong>軸向</strong>
 <ul>
@@ -2414,7 +2427,7 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
 </ul>
 </li>
 </ul>
-<h3 id="檢查-10">檢查</h3>
+<h3 id="檢查-10">檢查<a class="anchor" href="#%e6%aa%a2%e6%9f%a5-10">#</a></h3>
 <ul>
 <li><strong>骶髂關節 X 光</strong>：因侵蝕導致關節「假性增寬」然後骨融合（晚期）、對稱性骶髂關節炎</li>
 <li><strong>脊椎 X 光</strong>：脊椎體角落侵蝕和硬化導致「方角」（閃爍角落徵），導致纖維環外層纖維骨化（橋接軟骨性骨刺）&gt; X 光上的「竹竿脊柱」</li>
@@ -2422,7 +2435,7 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
 <li><strong>DEXA 掃描</strong>：骨質密度降低</li>
 <li><strong>實驗室</strong>：CBC、ESR/CRP 升高、ALP、Ca²⁺、HLA-B27、血清蛋白電泳（SPEP）</li>
 </ul>
-<h3 id="治療-12">治療</h3>
+<h3 id="治療-12">治療<a class="anchor" href="#%e6%b2%bb%e7%99%82-12">#</a></h3>
 <ul>
 <li><strong>非藥物治療</strong>
 <ul>
@@ -2444,29 +2457,28 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
 </ul>
 </li>
 </ul>
-<h3 id="預後-1">預後</h3>
+<h3 id="預後-1">預後<a class="anchor" href="#%e9%a0%90%e5%be%8c-1">#</a></h3>
 <ul>
 <li>自發性緩解和復發常見，可發生在任何年齡</li>
 <li>儘管脊椎變形，功能可能很好</li>
 <li>女性和發病年齡 &gt;40 歲預後較好</li>
 <li>早期發病伴髖關節疾病可能導致嚴重殘疾；可能需要關節置換</li>
 </ul>
-<blockquote>
+<blockquote class='book-hint '>
 <p><strong>考慮 AS 作為主動脈逆流的鑑別診斷。</strong></p>
 <p><strong>2 規則</strong>：AS 發生於：</p>
 <ul>
 <li>HLA-B27 陽性個體的 2%</li>
 <li>有受影響家族成員的 HLA-B27 陽性個體的 20%</li>
 </ul>
-</blockquote>
-<hr>
-<h2 id="牛皮癬關節炎psoriatic-arthritis-psa">牛皮癬關節炎（Psoriatic Arthritis, PsA）</h2>
-<h3 id="定義-13">定義</h3>
+</blockquote><hr>
+<h2 id="牛皮癬關節炎psoriatic-arthritis-psa">牛皮癬關節炎（Psoriatic Arthritis, PsA）<a class="anchor" href="#%e7%89%9b%e7%9a%ae%e7%99%ac%e9%97%9c%e7%af%80%e7%82%8epsoriatic-arthritis-psa">#</a></h2>
+<h3 id="定義-13">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-13">#</a></h3>
 <ul>
 <li>與牛皮癬相關的一種血清陰性脊椎關節病變</li>
 <li>可導致關節疼痛、僵硬和腫脹，可能導致關節損傷</li>
 </ul>
-<h3 id="table-29-psa-的-caspar-分類標準">Table 29. PsA 的 CASPAR 分類標準*</h3>
+<h3 id="table-29-psa-的-caspar-分類標準">Table 29. PsA 的 CASPAR 分類標準*<a class="anchor" href="#table-29-psa-%e7%9a%84-caspar-%e5%88%86%e9%a1%9e%e6%a8%99%e6%ba%96">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -2498,7 +2510,7 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
   </tbody>
 </table>
 <p><em>要滿足 CASPAR 標準，患者必須有發炎性關節疾病（關節、脊椎或附着點）+ 來自上述 5 類別的分數。</em></p>
-<h3 id="治療-13">治療</h3>
+<h3 id="治療-13">治療<a class="anchor" href="#%e6%b2%bb%e7%99%82-13">#</a></h3>
 <ul>
 <li>治療皮膚病灶（如類固醇乳膏、水楊酸和/或視網酸、焦油、UV 光）</li>
 <li>NSAIDs 和/或關節內類固醇（作為輔助），應在數週內見到益處，不應作為唯一治療 &gt;3 個月</li>
@@ -2510,13 +2522,13 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
 </li>
 </ul>
 <hr>
-<h2 id="反應性關節炎reactive-arthritis-rea">反應性關節炎（Reactive Arthritis, ReA）</h2>
-<h3 id="定義-14">定義</h3>
+<h2 id="反應性關節炎reactive-arthritis-rea">反應性關節炎（Reactive Arthritis, ReA）<a class="anchor" href="#%e5%8f%8d%e6%87%89%e6%80%a7%e9%97%9c%e7%af%80%e7%82%8ereactive-arthritis-rea">#</a></h2>
+<h3 id="定義-14">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-14">#</a></h3>
 <ul>
 <li>血清陰性脊椎關節病變，患者在胃腸道或泌尿生殖道某些感染後不久出現周邊關節炎和一個或多個關節外表現</li>
 <li>此術語不應與風濕熱或病毒關節炎混淆</li>
 </ul>
-<h3 id="病因學">病因學</h3>
+<h3 id="病因學">病因學<a class="anchor" href="#%e7%97%85%e5%9b%a0%e5%ad%b8">#</a></h3>
 <ul>
 <li>GI 或 GU 感染後發作
 <ul>
@@ -2525,13 +2537,13 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
 </ul>
 </li>
 </ul>
-<h3 id="流行病學-5">流行病學</h3>
+<h3 id="流行病學-5">流行病學<a class="anchor" href="#%e6%b5%81%e8%a1%8c%e7%97%85%e5%ad%b8-5">#</a></h3>
 <ul>
 <li>20-40 歲更常見</li>
 <li>GU 相關 M&gt;F，GI 相關 M=F</li>
 <li>HLA-B27 陽性患者，軸向 &gt; 周邊侵犯</li>
 </ul>
-<h3 id="臨床表現-10">臨床表現</h3>
+<h3 id="臨床表現-10">臨床表現<a class="anchor" href="#%e8%87%a8%e5%ba%8a%e8%a1%a8%e7%8f%be-10">#</a></h3>
 <ul>
 <li><strong>肌肉骨骼</strong>：不對稱周邊關節炎、脊椎炎/骶髂關節炎、附着點炎（阿基里斯腱炎、足底筋膜炎）、指/趾炎</li>
 <li><strong>眼科</strong>：虹彩炎（前葡萄膜炎）、結膜炎</li>
@@ -2539,7 +2551,7 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
 <li><strong>胃腸道</strong>：口腔潰瘡、腹瀉</li>
 <li><strong>泌尿生殖</strong>：尿道炎、攝護腺炎、子宮頸炎、膀胱炎、無菌性膿尿；存在與初始感染部位無關</li>
 </ul>
-<h3 id="檢查-11">檢查</h3>
+<h3 id="檢查-11">檢查<a class="anchor" href="#%e6%aa%a2%e6%9f%a5-11">#</a></h3>
 <ul>
 <li>診斷是臨床 + 實驗室</li>
 <li>前驅或同時感染的證據（糞便培養、尿液和生殖器拭子檢測）</li>
@@ -2547,7 +2559,7 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
 <li>無菌培養</li>
 <li>血清學：HLA-B27 陽性、ESR/CRP 升高</li>
 </ul>
-<h3 id="治療-14">治療</h3>
+<h3 id="治療-14">治療<a class="anchor" href="#%e6%b2%bb%e7%99%82-14">#</a></h3>
 <ul>
 <li>非關節感染用抗生素</li>
 <li>NSAIDs（naproxen 500 mg PO BID/TID、diclofenac 50 mg PO TID、indomethacin 50 mg PO TID/QID）、PT、運動</li>
@@ -2565,14 +2577,14 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
 </ul>
 </li>
 </ul>
-<h3 id="預後-2">預後</h3>
+<h3 id="預後-2">預後<a class="anchor" href="#%e9%a0%90%e5%be%8c-2">#</a></h3>
 <ul>
 <li>自我限制，通常 3-5 個月，基於病原體和患者遺傳背景而異</li>
 <li>15-20% 案例為慢性</li>
 </ul>
 <hr>
-<h2 id="結晶性關節病變crystal-induced-arthropathies">結晶性關節病變（Crystal-Induced Arthropathies）</h2>
-<h3 id="table-30-痛風-vs-假痛風">Table 30. 痛風 vs. 假痛風</h3>
+<h2 id="結晶性關節病變crystal-induced-arthropathies">結晶性關節病變（Crystal-Induced Arthropathies）<a class="anchor" href="#%e7%b5%90%e6%99%b6%e6%80%a7%e9%97%9c%e7%af%80%e7%97%85%e8%ae%8acrystal-induced-arthropathies">#</a></h2>
+<h3 id="table-30-痛風-vs-假痛風">Table 30. 痛風 vs. 假痛風<a class="anchor" href="#table-30-%e7%97%9b%e9%a2%a8-vs-%e5%81%87%e7%97%9b%e9%a2%a8">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -2650,24 +2662,24 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
   </tbody>
 </table>
 <hr>
-<h2 id="痛風gout">痛風（Gout）</h2>
-<h3 id="定義-15">定義</h3>
+<h2 id="痛風gout">痛風（Gout）<a class="anchor" href="#%e7%97%9b%e9%a2%a8gout">#</a></h2>
+<h3 id="定義-15">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-15">#</a></h3>
 <ul>
 <li>普林代謝失常導致高尿酸血症；尿酸單鈉結晶沉積於組織（tophi）和滑膜（microtophi）</li>
 </ul>
-<h3 id="病因學與病理生理學-7">病因學與病理生理學</h3>
+<h3 id="病因學與病理生理學-7">病因學與病理生理學<a class="anchor" href="#%e7%97%85%e5%9b%a0%e5%ad%b8%e8%88%87%e7%97%85%e7%90%86%e7%94%9f%e7%90%86%e5%ad%b8-7">#</a></h3>
 <ul>
 <li>尿酸可從飲食獲取或由黃嘌呤氧化酶內源性產生，將黃嘌呤轉化為尿酸</li>
 <li>尿酸過量導致高尿酸血症</li>
 <li>尿酸可沉積在皮膚/皮下組織（tophi）、滑膜（microtophi）和腎臟，在那裡可結晶形成單鈉尿酸鹽結晶，導致痛風</li>
 </ul>
-<h3 id="風險因素">風險因素</h3>
+<h3 id="風險因素">風險因素<a class="anchor" href="#%e9%a2%a8%e9%9a%aa%e5%9b%a0%e7%b4%a0">#</a></h3>
 <ul>
 <li><strong>不可改變</strong>：遺傳突變、男性、性別、年齡</li>
 <li><strong>可改變</strong>：飲食（酒精、富含普林食物如肉類和海鮮、果糖/糖甜味食物）；見下面誘發因素清單</li>
 <li><strong>其他</strong>：腎衰竭、代謝症候群、脫水（如利尿劑）</li>
 </ul>
-<h3 id="臨床表現-11">臨床表現</h3>
+<h3 id="臨床表現-11">臨床表現<a class="anchor" href="#%e8%87%a8%e5%ba%8a%e8%a1%a8%e7%8f%be-11">#</a></h3>
 <ul>
 <li>單一發作進展為復發性急性發炎性關節炎</li>
 <li><strong>急性痛風性關節炎</strong>
@@ -2684,8 +2696,8 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
 </ul>
 </li>
 </ul>
-<h3 id="痛風誘發因素">痛風誘發因素</h3>
-<blockquote>
+<h3 id="痛風誘發因素">痛風誘發因素<a class="anchor" href="#%e7%97%9b%e9%a2%a8%e8%aa%98%e7%99%bc%e5%9b%a0%e7%b4%a0">#</a></h3>
+<blockquote class='book-hint '>
 <p><strong>「FACT」</strong>
 <strong>F</strong>urosemide
 <strong>A</strong>lcohol
@@ -2696,14 +2708,13 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
 <strong>A</strong>lcohol (beer and spirits)
 <strong>L</strong>iver and kidney
 <strong>T</strong>urkey (meat)</p>
-</blockquote>
-<h3 id="檢查-12">檢查</h3>
+</blockquote><h3 id="檢查-12">檢查<a class="anchor" href="#%e6%aa%a2%e6%9f%a5-12">#</a></h3>
 <ul>
 <li><strong>關節抽吸</strong>：&gt;90% 在病程早期顯示單鈉尿酸鹽結晶（負性雙折射、針形）</li>
 <li>X 光可能顯示 tophi 為軟組織腫脹、骨/關節——穿鑿樣病灶、侵蝕伴「懸垂」邊緣</li>
 <li>超聲顯示雙輪廓徵</li>
 </ul>
-<h3 id="治療-15">治療</h3>
+<h3 id="治療-15">治療<a class="anchor" href="#%e6%b2%bb%e7%99%82-15">#</a></h3>
 <ul>
 <li><strong>急性痛風</strong>
 <ul>
@@ -2739,23 +2750,23 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
 </li>
 </ul>
 <hr>
-<h2 id="焦磷酸鈣沉積症calcium-pyrophosphate-deposition-cppd">焦磷酸鈣沉積症（Calcium Pyrophosphate Deposition, CPPD）</h2>
-<h3 id="定義-16">定義</h3>
+<h2 id="焦磷酸鈣沉積症calcium-pyrophosphate-deposition-cppd">焦磷酸鈣沉積症（Calcium Pyrophosphate Deposition, CPPD）<a class="anchor" href="#%e7%84%a6%e7%a3%b7%e9%85%b8%e9%88%a3%e6%b2%89%e7%a9%8d%e7%97%87calcium-pyrophosphate-deposition-cppd">#</a></h2>
+<h3 id="定義-16">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-16">#</a></h3>
 <ul>
 <li>關節發炎由鈣離子焦磷酸鹽（CPP）結晶沉積於結締組織導致</li>
 </ul>
-<h3 id="病因學與病理生理學-8">病因學與病理生理學</h3>
+<h3 id="病因學與病理生理學-8">病因學與病理生理學<a class="anchor" href="#%e7%97%85%e5%9b%a0%e5%ad%b8%e8%88%87%e7%97%85%e7%90%86%e7%94%9f%e7%90%86%e5%ad%b8-8">#</a></h3>
 <ul>
 <li>由於嗜中性粒細胞吞噬 IgG 包被的 CPP 結晶，然後在關節腔內釋放發炎介質導致的急性發炎性關節炎</li>
 <li>通常單關節</li>
 <li>發作比痛風慢，持續最多 2-3 週但自我限制</li>
 </ul>
-<h3 id="風險因素-1">風險因素</h3>
+<h3 id="風險因素-1">風險因素<a class="anchor" href="#%e9%a2%a8%e9%9a%aa%e5%9b%a0%e7%b4%a0-1">#</a></h3>
 <ul>
 <li>高齡、晚期 OA、神經病變關節</li>
 <li>其他相關病症：甲狀旁腺功能亢進、甲狀腺功能減退、低鎂血症、低磷磷酸酶血症（低 ALP）、血色素沉著症</li>
 </ul>
-<h3 id="臨床表現-12">臨床表現</h3>
+<h3 id="臨床表現-12">臨床表現<a class="anchor" href="#%e8%87%a8%e5%ba%8a%e8%a1%a8%e7%8f%be-12">#</a></h3>
 <ul>
 <li>侵犯膝蓋、腕蓋、MCP、髖關節、肩膀；不太可能侵犯肘部、踝關節、大腳趾、脊椎</li>
 <li>無症狀結晶沉積（僅 X 光可見）</li>
@@ -2764,33 +2775,33 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
 <li>假性 RA（對稱性多關節模式，伴早晨僵硬和全身性症狀）</li>
 <li>常由脫水、急性疾病、手術創傷觸發</li>
 </ul>
-<h3 id="檢查-13">檢查</h3>
+<h3 id="檢查-13">檢查<a class="anchor" href="#%e6%aa%a2%e6%9f%a5-13">#</a></h3>
 <ul>
 <li>關節抽吸：排除敗毒性關節炎和痛風</li>
 <li>CPP 結晶：60% 患者存在，常僅少數結晶，陽陛雙折射（藍色）和菱形</li>
 <li>X 光顯示 75% 有軟骨鈣化：纖維軟骨結構（如膝半月板）或透明軟骨線性不透射線</li>
 </ul>
-<h3 id="治療-16">治療</h3>
+<h3 id="治療-16">治療<a class="anchor" href="#%e6%b2%bb%e7%99%82-16">#</a></h3>
 <ul>
 <li><strong>急性 CPPD</strong>：關節抽吸、關節內類固醇注射、NSAIDs、冷敷、休息和副木</li>
 <li><strong>慢性 CPPD</strong>：NSAIDs 配合胃腸保護和/或低劑量預防性 colchicine 0.6-1.2 mg/d PO（爭議性）</li>
 </ul>
 <hr>
-<h2 id="非關節性風濕病non-articular-rheumatism">非關節性風濕病（Non-Articular Rheumatism）</h2>
-<h3 id="定義-17">定義</h3>
+<h2 id="非關節性風濕病non-articular-rheumatism">非關節性風濕病（Non-Articular Rheumatism）<a class="anchor" href="#%e9%9d%9e%e9%97%9c%e7%af%80%e6%80%a7%e9%a2%a8%e6%bf%95%e7%97%85non-articular-rheumatism">#</a></h2>
+<h3 id="定義-17">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-17">#</a></h3>
 <ul>
 <li>主要影響軟組織或關節周圍結構的疾病</li>
 <li>包括滑囊炎、肌腱炎、腱鞘炎、纖維肌痛和 PMR</li>
 </ul>
 <hr>
-<h2 id="風濕性多肌痛polymyalgia-rheumatica-pmr">風濕性多肌痛（Polymyalgia Rheumatica, PMR）</h2>
-<h3 id="定義-18">定義</h3>
+<h2 id="風濕性多肌痛polymyalgia-rheumatica-pmr">風濕性多肌痛（Polymyalgia Rheumatica, PMR）<a class="anchor" href="#%e9%a2%a8%e6%bf%95%e6%80%a7%e5%a4%9a%e8%82%8c%e7%97%9bpolymyalgia-rheumatica-pmr">#</a></h2>
+<h3 id="定義-18">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-18">#</a></h3>
 <ul>
 <li>特徵為近端肢體（帶狀區域）疼痛和僵硬</li>
 <li>與 GCA 常見相關</li>
 <li>無肌肉無力</li>
 </ul>
-<h3 id="table-31-pmr-分類標準評分演算法">Table 31. PMR 分類標準評分演算法*</h3>
+<h3 id="table-31-pmr-分類標準評分演算法">Table 31. PMR 分類標準評分演算法*<a class="anchor" href="#table-31-pmr-%e5%88%86%e9%a1%9e%e6%a8%99%e6%ba%96%e8%a9%95%e5%88%86%e6%bc%94%e7%ae%97%e6%b3%95">#</a></h3>
 <p><strong>必要標準</strong>：年齡 &gt;50 歲、雙側肩部疼痛、異常 ESR/CRP</p>
 <table>
   <thead>
@@ -2834,23 +2845,23 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
   </tbody>
 </table>
 <p><em>無超聲標準分數 ≥4 或有超聲標準分數 ≥5 分類為 PMR。</em></p>
-<h3 id="流行病學-6">流行病學</h3>
+<h3 id="流行病學-6">流行病學<a class="anchor" href="#%e6%b5%81%e8%a1%8c%e7%97%85%e5%ad%b8-6">#</a></h3>
 <ul>
 <li>發生率：50/100,000/週（&gt;50 歲）</li>
 <li>發病年齡通常 &gt;50 歲，M:F = 1:2</li>
 </ul>
-<h3 id="臨床表現-13">臨床表現</h3>
+<h3 id="臨床表現-13">臨床表現<a class="anchor" href="#%e8%87%a8%e5%ba%8a%e8%a1%a8%e7%8f%be-13">#</a></h3>
 <ul>
 <li>全身性症狀明顯（發燒、體重減輕、不適）</li>
 <li>對稱近端肌肉（頸部、肩帶和髖帶、大腿）疼痛和僵硬</li>
 <li>延長的早晨僵硬</li>
 <li>理學檢查顯示肌肉壓痛，但無真實無力或萎縮</li>
 </ul>
-<h3 id="檢查-14">檢查</h3>
+<h3 id="檢查-14">檢查<a class="anchor" href="#%e6%aa%a2%e6%9f%a5-14">#</a></h3>
 <ul>
 <li>血液：通常顯示慢性疾病貧血、血小板升高、ESR 和 CRP 升高、CK 正常；高達 5% PMR 報告炎症標記正常</li>
 </ul>
-<h3 id="治療-17">治療</h3>
+<h3 id="治療-17">治療<a class="anchor" href="#%e6%b2%bb%e7%99%82-17">#</a></h3>
 <ul>
 <li><strong>治療目標</strong>：症狀緩解</li>
 <li>開始 prednisone 12.5-25 mg PO 每天一次，如數天內無反應重新考慮診斷</li>
@@ -2860,12 +2871,12 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
 <li>監測類固醇副作用、糖皮質激素誘發骨質疏鬆預防，並追蹤 GCA 症狀（H/A、顎跛行、头皮壓痛）</li>
 </ul>
 <hr>
-<h2 id="纖維肌痛fibromyalgia">纖維肌痛（Fibromyalgia）</h2>
-<h3 id="定義-19">定義</h3>
+<h2 id="纖維肌痛fibromyalgia">纖維肌痛（Fibromyalgia）<a class="anchor" href="#%e7%ba%96%e7%b6%ad%e8%82%8c%e7%97%9bfibromyalgia">#</a></h2>
+<h3 id="定義-19">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-19">#</a></h3>
 <ul>
 <li>慢性（&gt;3 個月）、廣泛性（軸向、左側和右側、上段和下段）、非關節性疼痛，伴特徵性壓痛點</li>
 </ul>
-<h3 id="table-32-2010-acr-纖維肌痛初步診斷標準">Table 32. 2010 ACR 纖維肌痛初步診斷標準</h3>
+<h3 id="table-32-2010-acr-纖維肌痛初步診斷標準">Table 32. 2010 ACR 纖維肌痛初步診斷標準<a class="anchor" href="#table-32-2010-acr-%e7%ba%96%e7%b6%ad%e8%82%8c%e7%97%9b%e5%88%9d%e6%ad%a5%e8%a8%ba%e6%96%b7%e6%a8%99%e6%ba%96">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -2904,7 +2915,7 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
       </tr>
   </tbody>
 </table>
-<h3 id="流行病學-7">流行病學</h3>
+<h3 id="流行病學-7">流行病學<a class="anchor" href="#%e6%b5%81%e8%a1%8c%e7%97%85%e5%ad%b8-7">#</a></h3>
 <ul>
 <li>M:F = 1:3</li>
 <li>主要年齡 25-45 歲，部分青少年</li>
@@ -2912,7 +2923,7 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
 <li>與慢性疲勞症候群和肌筋膜疼痛症候群重疊</li>
 <li>與精神疾病強烈相關</li>
 </ul>
-<h3 id="臨床表現-14">臨床表現</h3>
+<h3 id="臨床表現-14">臨床表現<a class="anchor" href="#%e8%87%a8%e5%ba%8a%e8%a1%a8%e7%8f%be-14">#</a></h3>
 <ul>
 <li>廣泛性疼痛、僵硬</li>
 <li>容易疲勞</li>
@@ -2922,13 +2933,13 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
 <li>與腸道或膀胱症候群、偏頭痛、緊張性 H/A、不寧腿症候群、肥胖、憂鬱和焦慮相關</li>
 <li>理學檢查應僅顯示軟組織按壓時壓痛，無壓痛/觸發點特異性</li>
 </ul>
-<h3 id="檢查-15">檢查</h3>
+<h3 id="檢查-15">檢查<a class="anchor" href="#%e6%aa%a2%e6%9f%a5-15">#</a></h3>
 <ul>
 <li>血液：包括 TSH；通常正常，除非存在無關的潛在疾病</li>
 <li>血清學：除非有 CTD 或發炎性關節炎的臨床懷疑，否則不訂 ANA 或 RF</li>
 <li>實驗室睡眠評估</li>
 </ul>
-<h3 id="治療-18">治療</h3>
+<h3 id="治療-18">治療<a class="anchor" href="#%e6%b2%bb%e7%99%82-18">#</a></h3>
 <ul>
 <li><strong>非藥物治療</strong>
 <ul>
@@ -2946,11 +2957,11 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
 </ul>
 </li>
 </ul>
-<h3 id="預後-3">預後</h3>
+<h3 id="預後-3">預後<a class="anchor" href="#%e9%a0%90%e5%be%8c-3">#</a></h3>
 <ul>
 <li>多變；通常慢性、起伏，部分疼痛和疲勞通常持續</li>
 </ul>
-<h3 id="table-33-發炎性肌病變-vs-pmr-vs-纖維肌痛臨床特徵比較">Table 33. 發炎性肌病變 vs. PMR vs. 纖維肌痛臨床特徵比較</h3>
+<h3 id="table-33-發炎性肌病變-vs-pmr-vs-纖維肌痛臨床特徵比較">Table 33. 發炎性肌病變 vs. PMR vs. 纖維肌痛臨床特徵比較<a class="anchor" href="#table-33-%e7%99%bc%e7%82%8e%e6%80%a7%e8%82%8c%e7%97%85%e8%ae%8a-vs-pmr-vs-%e7%ba%96%e7%b6%ad%e8%82%8c%e7%97%9b%e8%87%a8%e5%ba%8a%e7%89%b9%e5%be%b5%e6%af%94%e8%bc%83">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -3012,8 +3023,8 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
   </tbody>
 </table>
 <hr>
-<h2 id="常用藥物common-medications">常用藥物（Common Medications）</h2>
-<h3 id="table-34-退化性關節炎常用藥物">Table 34. 退化性關節炎常用藥物</h3>
+<h2 id="常用藥物common-medications">常用藥物（Common Medications）<a class="anchor" href="#%e5%b8%b8%e7%94%a8%e8%97%a5%e7%89%a9common-medications">#</a></h2>
+<h3 id="table-34-退化性關節炎常用藥物">Table 34. 退化性關節炎常用藥物<a class="anchor" href="#table-34-%e9%80%80%e5%8c%96%e6%80%a7%e9%97%9c%e7%af%80%e7%82%8e%e5%b8%b8%e7%94%a8%e8%97%a5%e7%89%a9">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -3093,7 +3104,7 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
   </tbody>
 </table>
 <hr>
-<h3 id="table-35-dmards">Table 35. DMARDs</h3>
+<h3 id="table-35-dmards">Table 35. DMARDs<a class="anchor" href="#table-35-dmards">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -3184,7 +3195,7 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
       </tr>
   </tbody>
 </table>
-<h3 id="生物製劑和-jak-抑制劑">生物製劑和 JAK 抑制劑</h3>
+<h3 id="生物製劑和-jak-抑制劑">生物製劑和 JAK 抑制劑<a class="anchor" href="#%e7%94%9f%e7%89%a9%e8%a3%bd%e5%8a%91%e5%92%8c-jak-%e6%8a%91%e5%88%b6%e5%8a%91">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -3294,7 +3305,7 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
   </tbody>
 </table>
 <hr>
-<h2 id="重要風濕病學試驗landmark-rheumatology-trials">重要風濕病學試驗（Landmark Rheumatology Trials）</h2>
+<h2 id="重要風濕病學試驗landmark-rheumatology-trials">重要風濕病學試驗（Landmark Rheumatology Trials）<a class="anchor" href="#%e9%87%8d%e8%a6%81%e9%a2%a8%e6%bf%95%e7%97%85%e5%ad%b8%e8%a9%a6%e9%a9%97landmark-rheumatology-trials">#</a></h2>
 <table>
   <thead>
       <tr>
@@ -3451,5 +3462,19 @@ Cochrane 系統性回顧（Sports Med 2015;49:1954-1567）顯示：陸地治療�
   <footer>
     <p>Powered by Hugo | Toronto Notes 2025 繁體中文翻譯</p>
   </footer>
+  <script>
+    function toggleTheme() {
+      const html = document.documentElement;
+      const current = html.getAttribute('data-theme');
+      const next = current === 'dark' ? 'light' : 'dark';
+      html.setAttribute('data-theme', next);
+      localStorage.setItem('theme', next);
+    }
+    const saved = localStorage.getItem('theme');
+    if (saved) document.documentElement.setAttribute('data-theme', saved);
+    else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+      document.documentElement.setAttribute('data-theme', 'dark');
+    }
+  </script>
 </body>
 </html>

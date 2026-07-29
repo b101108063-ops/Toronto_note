@@ -5,31 +5,55 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Otolaryngology 耳鼻喉科學 - Toronto Notes 2025 繁體中文</title>
   <style>
+    :root {
+      --bg-primary: #ffffff;
+      --bg-secondary: #f8fafc;
+      --text-primary: #1e293b;
+      --text-secondary: #64748b;
+      --accent: #2563eb;
+      --border: #e2e8f0;
+      --code-bg: #f1f5f9;
+      --link: #2563eb;
+      --link-visited: #5500bb;
+    }
+    [data-theme="dark"] {
+      --bg-primary: #1a1a2e;
+      --bg-secondary: #16162a;
+      --text-primary: #e4e4e7;
+      --text-secondary: #a1a1aa;
+      --accent: #93c5fd;
+      --border: #3f3f46;
+      --code-bg: #27272a;
+      --link: #93c5fd;
+      --link-visited: #c4b5fd;
+    }
     * { box-sizing: border-box; }
-    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; line-height: 1.6; color: #333; max-width: 900px; margin: 0 auto; padding: 20px; }
-    header { border-bottom: 2px solid #2563eb; padding-bottom: 10px; margin-bottom: 20px; }
-    header h1 { margin: 0; font-size: 1.5em; color: #2563eb; }
-    nav a { margin-right: 15px; color: #2563eb; text-decoration: none; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; line-height: 1.6; color: var(--text-primary); background: var(--bg-primary); max-width: 900px; margin: 0 auto; padding: 20px; }
+    header { border-bottom: 2px solid var(--accent); padding-bottom: 10px; margin-bottom: 20px; display: flex; justify-content: space-between; align-items: center; }
+    header h1 { margin: 0; font-size: 1.5em; color: var(--accent); }
+    nav a { margin-right: 15px; color: var(--link); text-decoration: none; }
     nav a:hover { text-decoration: underline; }
-    h1, h2, h3 { color: #1e293b; }
-    h1 { font-size: 1.8em; border-bottom: 1px solid #e2e8f0; padding-bottom: 8px; }
-    h2 { font-size: 1.4em; border-bottom: 1px solid #e2e8f0; padding-bottom: 5px; }
+    h1, h2, h3 { color: var(--text-primary); }
+    h1 { font-size: 1.8em; border-bottom: 1px solid var(--border); padding-bottom: 8px; }
+    h2 { font-size: 1.4em; border-bottom: 1px solid var(--border); padding-bottom: 5px; }
     h3 { font-size: 1.15em; }
-    pre { background: #f1f5f9; padding: 15px; border-radius: 6px; overflow-x: auto; }
-    code { background: #f1f5f9; padding: 2px 5px; border-radius: 3px; font-size: 0.9em; }
+    pre { background: var(--code-bg); padding: 15px; border-radius: 6px; overflow-x: auto; }
+    code { background: var(--code-bg); padding: 2px 5px; border-radius: 3px; font-size: 0.9em; }
     pre code { background: none; padding: 0; }
-    blockquote { border-left: 4px solid #2563eb; margin: 0; padding: 5px 15px; color: #64748b; background: #f8fafc; }
+    blockquote { border-left: 4px solid var(--accent); margin: 0; padding: 5px 15px; color: var(--text-secondary); background: var(--bg-secondary); }
     table { border-collapse: collapse; width: 100%; margin: 15px 0; }
-    th, td { border: 1px solid #cbd5e1; padding: 8px 12px; text-align: left; }
-    th { background: #f1f5f9; font-weight: 600; }
-    tr:nth-child(even) { background: #f8fafc; }
+    th, td { border: 1px solid var(--border); padding: 8px 12px; text-align: left; }
+    th { background: var(--bg-secondary); font-weight: 600; }
+    tr:nth-child(even) { background: var(--bg-secondary); }
     .content-body { line-height: 1.8; }
-    footer { border-top: 1px solid #e2e8f0; margin-top: 30px; padding-top: 15px; color: #64748b; font-size: 0.9em; }
-    .breadcrumb { font-size: 0.9em; color: #64748b; margin-bottom: 15px; }
-    .breadcrumb a { color: #2563eb; text-decoration: none; }
-    a { color: #2563eb; }
+    footer { border-top: 1px solid var(--border); margin-top: 30px; padding-top: 15px; color: var(--text-secondary); font-size: 0.9em; }
+    .breadcrumb { font-size: 0.9em; color: var(--text-secondary); margin-bottom: 15px; }
+    .breadcrumb a { color: var(--link); text-decoration: none; }
+    a { color: var(--link); }
     a:hover { text-decoration: underline; }
     img { max-width: 100%; height: auto; }
+    .theme-toggle { background: none; border: 1px solid var(--border); color: var(--text-primary); cursor: pointer; padding: 4px 10px; border-radius: 4px; font-size: 0.85em; }
+    .theme-toggle:hover { background: var(--bg-secondary); }
   </style>
 </head>
 <body>
@@ -38,6 +62,7 @@
       <a href="https://b101108063-ops.github.io/Toronto_note/">首頁</a>
       <a href="/Toronto_note/categories/">章節</a>
     </nav>
+    <button class="theme-toggle" onclick="toggleTheme()">🌙 暗色</button>
   </header>
 
   <main>
@@ -48,7 +73,7 @@
       <h1>Otolaryngology 耳鼻喉科學</h1>
       <div class="content-body">
         <hr>
-<h2 id="導讀摘要">導讀摘要</h2>
+<h2 id="導讀摘要">導讀摘要<a class="anchor" href="#%e5%b0%8e%e8%ae%80%e6%91%98%e8%a6%81">#</a></h2>
 <p>本章節涵蓋耳鼻喉科學的核心內容，摘要如下：</p>
 <ul>
 <li><strong>眩暈與聽力障礙</strong>：BPPV、Ménière&rsquo;s disease、vestibular neuronitis、acoustic neuroma 的診斷與治療；conductive vs. sensorineural hearing loss 的鑑別與聽力檢查判讀</li>
@@ -58,8 +83,8 @@
 <li><strong>頭頸部腫瘤與頸部腫塊</strong>：H&amp;N malignancy 的風險因子與分期；branchial cleft cyst、thyroglossal duct cyst 的診療；甲狀腺結節的評估與甲狀腺癌的分類治療</li>
 </ul>
 <hr>
-<h2 id="耳鼻喉科學概論">耳鼻喉科學概論</h2>
-<h3 id="眩暈dizziness的鑑別診斷">眩暈（Dizziness）的鑑別診斷</h3>
+<h2 id="耳鼻喉科學概論">耳鼻喉科學概論<a class="anchor" href="#%e8%80%b3%e9%bc%bb%e5%96%89%e7%a7%91%e5%ad%b8%e6%a6%82%e8%ab%96">#</a></h2>
+<h3 id="眩暈dizziness的鑑別診斷">眩暈（Dizziness）的鑑別診斷<a class="anchor" href="#%e7%9c%a9%e6%9a%88dizziness%e7%9a%84%e9%91%91%e5%88%a5%e8%a8%ba%e6%96%b7">#</a></h3>
 <p>眩暈是指旋轉性、直線性或傾斜感的錯覺，為自我或環境的移動幻覺，由周邊（內耳）或中樞（腦幹—小腦）刺激所產生。臨床上區分眩暈與其他「頭暈」原因相當重要。</p>
 <p><strong>周邊型與中樞型眩暈的比較</strong></p>
 <table>
@@ -131,8 +156,8 @@
 <li><strong>Trauma（創傷）</strong></li>
 </ol>
 <hr>
-<h2 id="聽覺生理學與聽力檢查">聽覺生理學與聽力檢查</h2>
-<h3 id="正常聽覺生理學">正常聽覺生理學</h3>
+<h2 id="聽覺生理學與聽力檢查">聽覺生理學與聽力檢查<a class="anchor" href="#%e8%81%bd%e8%a6%ba%e7%94%9f%e7%90%86%e5%ad%b8%e8%88%87%e8%81%bd%e5%8a%9b%e6%aa%a2%e6%9f%a5">#</a></h2>
+<h3 id="正常聽覺生理學">正常聽覺生理學<a class="anchor" href="#%e6%ad%a3%e5%b8%b8%e8%81%bd%e8%a6%ba%e7%94%9f%e7%90%86%e5%ad%b8">#</a></h3>
 <p><strong>傳導路徑（Conductive Pathway）</strong></p>
 <p>聲音的 AC 傳導：外耳道（EAC）→ 鼓膜（TM）振動 → 聽覺小骨順序振動（malleus、incus、stapes）→ stapes footplate 將放大後的振動傳至耳蝸卵圓窗 → 振動透過耳蝸液刺激基底膜產生移動</p>
 <p><strong>神經路徑（Neural Pathway）</strong></p>
@@ -145,7 +170,7 @@
 <li>IV、V：外側蹄系（Lateral lemniscus）</li>
 <li>V：下丘（Inferior colliculus）</li>
 </ul>
-<h3 id="聽力損失的類型">聽力損失的類型</h3>
+<h3 id="聽力損失的類型">聽力損失的類型<a class="anchor" href="#%e8%81%bd%e5%8a%9b%e6%90%8d%e5%a4%b1%e7%9a%84%e9%a1%9e%e5%9e%8b">#</a></h3>
 <ol>
 <li>
 <p><strong>Conductive Hearing Loss（傳導性聽力損失）</strong></p>
@@ -168,7 +193,7 @@
 </ul>
 </li>
 </ol>
-<h3 id="聽覺敏銳度檢查">聽覺敏銳度檢查</h3>
+<h3 id="聽覺敏銳度檢查">聽覺敏銳度檢查<a class="anchor" href="#%e8%81%bd%e8%a6%ba%e6%95%8f%e9%8a%b3%e5%ba%a6%e6%aa%a2%e6%9f%a5">#</a></h3>
 <p><strong>Whispered-voice test</strong>：遮住一耳，對另一耳輕聲說話</p>
 <p>** Tuning fork tests（音叉測驗）**</p>
 <ul>
@@ -223,7 +248,7 @@
       </tr>
   </tbody>
 </table>
-<h3 id="pure-tone-audiometry純音聽力檢查">Pure Tone Audiometry（純音聽力檢查）</h3>
+<h3 id="pure-tone-audiometry純音聽力檢查">Pure Tone Audiometry（純音聽力檢查）<a class="anchor" href="#pure-tone-audiometry%e7%b4%94%e9%9f%b3%e8%81%bd%e5%8a%9b%e6%aa%a2%e6%9f%a5">#</a></h3>
 <ul>
 <li><strong>Threshold</strong>：患者能在 50% 聽到刺激的最低強度</li>
 <li>檢測頻率：250、500、1000、2000、4000、8000 Hz</li>
@@ -276,7 +301,7 @@
 <li><strong>Noise-induced HL</strong>：典型於 4000 Hz（&ldquo;boilermaker&rsquo;s notch&rdquo;）</li>
 <li><strong>Otosclerosis</strong>：典型於 2000 Hz（Carhart&rsquo;s notch）</li>
 </ul>
-<h3 id="speech-audiometry">Speech Audiometry</h3>
+<h3 id="speech-audiometry">Speech Audiometry<a class="anchor" href="#speech-audiometry">#</a></h3>
 <p><strong>Speech Reception Threshold（SRT）</strong></p>
 <ul>
 <li>能重複 50% 雙音節詞（如 baseball、cupcake）的最低聽力級</li>
@@ -288,7 +313,7 @@
 <li>正常聽力或 CHL：&gt;90%</li>
 <li>Rollover effect（閾值上調時分辨力下降）：典型於回歸性病變（如 acoustic neuroma）</li>
 </ul>
-<h3 id="impedance-audiometry">Impedance Audiometry</h3>
+<h3 id="impedance-audiometry">Impedance Audiometry<a class="anchor" href="#impedance-audiometry">#</a></h3>
 <p><strong>Tympanogram（鼓室圖）</strong></p>
 <ul>
 <li>測量中耳系統在不同壓力下的順應性</li>
@@ -330,19 +355,19 @@
 <li>Cochlear HL：反射閾值 25–60 dB</li>
 <li>Retrocochlear HL（acoustic neuroma）：反射消失或顯著反射衰減（5 秒內 &gt;50%）</li>
 </ul>
-<h3 id="auditory-brainstem-responseabr">Auditory Brainstem Response（ABR）</h3>
+<h3 id="auditory-brainstem-responseabr">Auditory Brainstem Response（ABR）<a class="anchor" href="#auditory-brainstem-responseabr">#</a></h3>
 <ul>
 <li>測量 5 個不同解剖部位的神經電位（波）</li>
 <li>腦幹反應延遲 → 耳蝸或回歸性病變</li>
 <li>不需患者主觀配合（對兒童或詐病者有用）</li>
 </ul>
-<h3 id="otoacoustic-emissionsoae">Otoacoustic Emissions（OAE）</h3>
+<h3 id="otoacoustic-emissionsoae">Otoacoustic Emissions（OAE）<a class="anchor" href="#otoacoustic-emissionsoae">#</a></h3>
 <ul>
 <li>點擊刺激後耳蝸產生的回聲</li>
 <li>來自外毛細胞（為內毛細胞功能的指標）
 -常用於新生兒聽力篩檢</li>
 </ul>
-<h3 id="aural-rehabilitation">Aural Rehabilitation</h3>
+<h3 id="aural-rehabilitation">Aural Rehabilitation<a class="anchor" href="#aural-rehabilitation">#</a></h3>
 <p><strong>助聽器類型</strong></p>
 <ul>
 <li><strong>BTE</strong>：掛耳式</li>
@@ -353,8 +378,8 @@
 <li><strong>CROS</strong>：對側訊號路由</li>
 </ul>
 <hr>
-<h2 id="周邊眩暈疾病">周邊眩暈疾病</h2>
-<h3 id="benign-paroxysmal-positional-vertigobppv">Benign Paroxysmal Positional Vertigo（BPPV）</h3>
+<h2 id="周邊眩暈疾病">周邊眩暈疾病<a class="anchor" href="#%e5%91%a8%e9%82%8a%e7%9c%a9%e6%9a%88%e7%96%be%e7%97%85">#</a></h2>
+<h3 id="benign-paroxysmal-positional-vertigobppv">Benign Paroxysmal Positional Vertigo（BPPV）<a class="anchor" href="#benign-paroxysmal-positional-vertigobppv">#</a></h3>
 <p><strong>定義</strong></p>
 <ul>
 <li>短暫性（&lt;1 分鐘）旋轉性眩暈的急性發作，由特定頭位變化所引發，伴隨 torsion（旋轉性）眼球震顫（geotropic = 快相朝向地板）</li>
@@ -364,10 +389,9 @@
 <ul>
 <li>Canalithiasis（耳石游離飄浮於半規管內淋巴中）或 cupulolithiasis（耳石附著於半規管 cupula）</li>
 <li>
-<blockquote>
+<blockquote class='book-hint '>
 <p>90% 影響後半規管</p>
-</blockquote>
-</li>
+</blockquote></li>
 <li>病因：頭部外傷、病毒感染（URTI）、退化性疾病、特發性</li>
 </ul>
 <p><strong>診斷</strong></p>
@@ -382,7 +406,7 @@
 <li>止吐劑</li>
 <li>藥物抑制前庭系統會延遲康復，故不建議使用</li>
 </ul>
-<h3 id="ménières-disease內淋巴水腫">Ménière&rsquo;s Disease（內淋巴水腫）</h3>
+<h3 id="ménières-disease內淋巴水腫">Ménière&rsquo;s Disease（內淋巴水腫）<a class="anchor" href="#m%c3%a9ni%c3%a8res-disease%e5%85%a7%e6%b7%8b%e5%b7%b4%e6%b0%b4%e8%85%ab">#</a></h3>
 <p><strong>定義</strong></p>
 <ul>
 <li>發作性眩暈、耳鳴、聽力損失、耳悶感，持續分鐘至數小時</li>
@@ -411,7 +435,7 @@
 <li>對側耳需監測（35% 為雙側）</li>
 <li>頑固性：選擇性前庭神經切除術、迷路切除術</li>
 </ul>
-<h3 id="vestibular-neuronitis--labyrinthitis">Vestibular Neuronitis / Labyrinthitis</h3>
+<h3 id="vestibular-neuronitis--labyrinthitis">Vestibular Neuronitis / Labyrinthitis<a class="anchor" href="#vestibular-neuronitis--labyrinthitis">#</a></h3>
 <p><strong>定義</strong></p>
 <ul>
 <li>急性發作的失能性眩暈，常伴隨噁心嘔吐和失衡，無聽力損失，數天內緩解，但殘留失衡持續數天至數週</li>
@@ -433,7 +457,7 @@
 <li>急性期：臥床休息、前庭抑制藥、皮質類固醇 + 抗病毒藥</li>
 <li>康復期：漸進活動、前庭康復訓練</li>
 </ul>
-<h3 id="acoustic-neuromavestibular-schwannoma">Acoustic Neuroma（Vestibular Schwannoma）</h3>
+<h3 id="acoustic-neuromavestibular-schwannoma">Acoustic Neuroma（Vestibular Schwannoma）<a class="anchor" href="#acoustic-neuromavestibular-schwannoma">#</a></h3>
 <p><strong>定義</strong></p>
 <ul>
 <li>CN VIII 前庭部分的 Schwannoma</li>
@@ -457,23 +481,23 @@
 <li>其他選項：gamma knife、放射治療</li>
 </ul>
 <hr>
-<h2 id="耳部疾病">耳部疾病</h2>
-<h3 id="外耳疾病">外耳疾病</h3>
-<h4 id="cerumen-impaction耳垢嵌塞">Cerumen Impaction（耳垢嵌塞）</h4>
+<h2 id="耳部疾病">耳部疾病<a class="anchor" href="#%e8%80%b3%e9%83%a8%e7%96%be%e7%97%85">#</a></h2>
+<h3 id="外耳疾病">外耳疾病<a class="anchor" href="#%e5%a4%96%e8%80%b3%e7%96%be%e7%97%85">#</a></h3>
+<h4 id="cerumen-impaction耳垢嵌塞">Cerumen Impaction（耳垢嵌塞）<a class="anchor" href="#cerumen-impaction%e8%80%b3%e5%9e%a2%e5%b5%8c%e5%a1%9e">#</a></h4>
 <ul>
 <li><strong>病因</strong>：耳垢為 ceruminous 和 pilosebaceous 腺體分泌物、表皮鱗屑、灰塵和碎屑的混合物</li>
 <li><strong>風險因子</strong>：毛髮多或耳道窄、助聽器、棉花棒使用、骨疣</li>
 <li><strong>臨床特徵</strong>：CHL、耳鳴、悶脹感、癢、耳痛、引流、臭味、咳嗽</li>
 <li><strong>治療</strong>：觀察、cerumenolytic 製劑、灌洗、手動移除</li>
 </ul>
-<h4 id="exostoses外耳道骨質增生">Exostoses（外耳道骨質增生）</h4>
+<h4 id="exostoses外耳道骨質增生">Exostoses（外耳道骨質增生）<a class="anchor" href="#exostoses%e5%a4%96%e8%80%b3%e9%81%93%e9%aa%a8%e8%b3%aa%e5%a2%9e%e7%94%9f">#</a></h4>
 <ul>
 <li>由層狀骨組成的外耳道骨質突起</li>
 <li>與冷水游泳可能相關</li>
 <li>通常為偶然發現</li>
 <li>治療：無症狀不需治療</li>
 </ul>
-<h4 id="otitis-externa外耳炎">Otitis Externa（外耳炎）</h4>
+<h4 id="otitis-externa外耳炎">Otitis Externa（外耳炎）<a class="anchor" href="#otitis-externa%e5%a4%96%e8%80%b3%e7%82%8e">#</a></h4>
 <p><strong>定義</strong></p>
 <ul>
 <li>外耳道或耳廓的發炎</li>
@@ -505,7 +529,7 @@
 <li>保持耳道乾燥</li>
 <li>口服抗生素（感染擴散至耳道外時）</li>
 </ul>
-<h4 id="malignant-otitis-externa惡性壞死性外耳炎">Malignant Otitis Externa（惡性/壞死性外耳炎）</h4>
+<h4 id="malignant-otitis-externa惡性壞死性外耳炎">Malignant Otitis Externa（惡性/壞死性外耳炎）<a class="anchor" href="#malignant-otitis-externa%e6%83%a1%e6%80%a7%e5%a3%9e%e6%ad%bb%e6%80%a7%e5%a4%96%e8%80%b3%e7%82%8e">#</a></h4>
 <p><strong>定義</strong></p>
 <ul>
 <li>乳突或顳骨的骨髓炎</li>
@@ -534,15 +558,15 @@
 <li>影像學：高分辯率顳骨 CT、gadolinium 增強 MRI</li>
 <li>住院、静脈抗生素、清創</li>
 </ul>
-<h3 id="中耳疾病">中耳疾病</h3>
-<h4 id="acute-otitis-mediaaom">Acute Otitis Media（AOM）</h4>
+<h3 id="中耳疾病">中耳疾病<a class="anchor" href="#%e4%b8%ad%e8%80%b3%e7%96%be%e7%97%85">#</a></h3>
+<h4 id="acute-otitis-mediaaom">Acute Otitis Media（AOM）<a class="anchor" href="#acute-otitis-mediaaom">#</a></h4>
 <p>詳見《小兒耳鼻喉科學》章節。</p>
-<h4 id="chronic-otitis-media">Chronic Otitis Media</h4>
+<h4 id="chronic-otitis-media">Chronic Otitis Media<a class="anchor" href="#chronic-otitis-media">#</a></h4>
 <ul>
 <li><strong>慢性漿液性 OM</strong>：中耳持續性漿液（稻草色）液體</li>
 <li><strong>慢性化膿性 OM</strong>：持續性（&gt;6 週）化膿性引流通過穿孔 TM 或通氣管</li>
 </ul>
-<h4 id="cholesteatoma膽脂瘤">Cholesteatoma（膽脂瘤）</h4>
+<h4 id="cholesteatoma膽脂瘤">Cholesteatoma（膽脂瘤）<a class="anchor" href="#cholesteatoma%e8%86%bd%e8%84%82%e7%98%a4">#</a></h4>
 <p><strong>定義</strong></p>
 <ul>
 <li>由角化脫屑上皮細胞組成，發生於中耳、乳突和顳骨</li>
@@ -572,7 +596,7 @@
 <ul>
 <li>手術：乳突切除術 + 鼓室成形術 + 聽小骨重建</li>
 </ul>
-<h4 id="mastoiditis乳突炎">Mastoiditis（乳突炎）</h4>
+<h4 id="mastoiditis乳突炎">Mastoiditis（乳突炎）<a class="anchor" href="#mastoiditis%e4%b9%b3%e7%aa%81%e7%82%8e">#</a></h4>
 <p><strong>定義</strong></p>
 <ul>
 <li>乳突氣房的感染（通常為骨膜下），最常見於 AOM 未治療或治療不當後約兩週</li>
@@ -594,7 +618,7 @@
 <li>可能需額外切開引流耳後膿腫</li>
 <li>皮質乳突切除術</li>
 </ul>
-<h4 id="otosclerosis耳硬化症">Otosclerosis（耳硬化症）</h4>
+<h4 id="otosclerosis耳硬化症">Otosclerosis（耳硬化症）<a class="anchor" href="#otosclerosis%e8%80%b3%e7%a1%ac%e5%8c%96%e7%97%87">#</a></h4>
 <p><strong>定義</strong></p>
 <ul>
 <li>stapes footplate 融合於卵圓窗，無法振動</li>
@@ -618,8 +642,8 @@
 <li>Stapedectomy 或 stapedotomy（雷射或電鑽）→ 明確治療</li>
 </ul>
 <hr>
-<h2 id="內耳疾病">內耳疾病</h2>
-<h3 id="congenital-sensorineural-hearing-loss先天性感音神經性聽力損失">Congenital Sensorineural Hearing Loss（先天性感音神經性聽力損失）</h3>
+<h2 id="內耳疾病">內耳疾病<a class="anchor" href="#%e5%85%a7%e8%80%b3%e7%96%be%e7%97%85">#</a></h2>
+<h3 id="congenital-sensorineural-hearing-loss先天性感音神經性聽力損失">Congenital Sensorineural Hearing Loss（先天性感音神經性聽力損失）<a class="anchor" href="#congenital-sensorineural-hearing-loss%e5%85%88%e5%a4%a9%e6%80%a7%e6%84%9f%e9%9f%b3%e7%a5%9e%e7%b6%93%e6%80%a7%e8%81%bd%e5%8a%9b%e6%90%8d%e5%a4%b1">#</a></h3>
 <p><strong>遺傳缺陷</strong></p>
 <ul>
 <li>非症候群性（70%）：通常為特發性，體隱性；connexin 26（GJB2 基因）最常見</li>
@@ -641,7 +665,7 @@
 <li>有風險因子的嬰兒：在離開 NICU 前和糾正年齡 3 個月時進行 ABR 檢查</li>
 <li>早期康復改善語言和學校表現</li>
 </ul>
-<h3 id="presbycusis老年性聽力損失">Presbycusis（老年性聽力損失）</h3>
+<h3 id="presbycusis老年性聽力損失">Presbycusis（老年性聽力損失）<a class="anchor" href="#presbycusis%e8%80%81%e5%b9%b4%e6%80%a7%e8%81%bd%e5%8a%9b%e6%90%8d%e5%a4%b1">#</a></h3>
 <p><strong>定義</strong></p>
 <ul>
 <li>與老化相關的 SNHL（始於 50-60 歲）</li>
@@ -658,7 +682,7 @@
 <li>助聽器（若功能困難、HL &gt;30–35 dB 且言語分辨良好）</li>
 <li>唇讀、聽力訓練、聽覺輔具</li>
 </ul>
-<h3 id="sudden-sensorineural-hearing-loss突發性感音神經性聽力損失">Sudden Sensorineural Hearing Loss（突發性感音神經性聽力損失）</h3>
+<h3 id="sudden-sensorineural-hearing-loss突發性感音神經性聽力損失">Sudden Sensorineural Hearing Loss（突發性感音神經性聽力損失）<a class="anchor" href="#sudden-sensorineural-hearing-loss%e7%aa%81%e7%99%bc%e6%80%a7%e6%84%9f%e9%9f%b3%e7%a5%9e%e7%b6%93%e6%80%a7%e8%81%bd%e5%8a%9b%e6%90%8d%e5%a4%b1">#</a></h3>
 <p><strong>病因</strong></p>
 <ul>
 <li>通常為特發性（80–90%）；需排除其他原因
@@ -684,7 +708,7 @@
 <li>20% 部分緩解</li>
 <li>10% 永久性聽力損失</li>
 </ul>
-<h3 id="drug-ototoxicity藥物耳毒性">Drug Ototoxicity（藥物耳毒性）</h3>
+<h3 id="drug-ototoxicity藥物耳毒性">Drug Ototoxicity（藥物耳毒性）<a class="anchor" href="#drug-ototoxicity%e8%97%a5%e7%89%a9%e8%80%b3%e6%af%92%e6%80%a7">#</a></h3>
 <p><strong>Aminoglycosides</strong></p>
 <ul>
 <li>Streptomycin 和 gentamicin（前庭毒性）；kanamycin 和 tobramycin（耳蝸毒性）</li>
@@ -699,7 +723,7 @@
 <ul>
 <li>Acetaminophen、NSAIDs、salicylates：聽力損失伴耳鳴，停藥可逆</li>
 </ul>
-<h3 id="noise-induced-sensorineural-hearing-loss噪音性感音神經性聽力損失">Noise-Induced Sensorineural Hearing Loss（噪音性感音神經性聽力損失）</h3>
+<h3 id="noise-induced-sensorineural-hearing-loss噪音性感音神經性聽力損失">Noise-Induced Sensorineural Hearing Loss（噪音性感音神經性聽力損失）<a class="anchor" href="#noise-induced-sensorineural-hearing-loss%e5%99%aa%e9%9f%b3%e6%80%a7%e6%84%9f%e9%9f%b3%e7%a5%9e%e7%b6%93%e6%80%a7%e8%81%bd%e5%8a%9b%e6%90%8d%e5%a4%b1">#</a></h3>
 <p><strong>致病機制</strong></p>
 <ul>
 <li>85–90 dB 持續數月或數年、單次聲音脈衝 &gt;135 dB 或重複振動損傷</li>
@@ -716,7 +740,7 @@
 <li>限制噪音暴露頻率</li>
 <li>定期聽力追蹤</li>
 </ul>
-<h3 id="temporal-bone-fractures顳骨骨折">Temporal Bone Fractures（顳骨骨折）</h3>
+<h3 id="temporal-bone-fractures顳骨骨折">Temporal Bone Fractures（顳骨骨折）<a class="anchor" href="#temporal-bone-fractures%e9%a1%b3%e9%aa%a8%e9%aa%a8%e6%8a%98">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -766,8 +790,8 @@
 <li>Hemotympanum</li>
 </ul>
 <hr>
-<h2 id="facial-nervecn-vii麻痺">Facial Nerve（CN VII）麻痺</h2>
-<h3 id="周邊型面部麻痺">周邊型面部麻痺</h3>
+<h2 id="facial-nervecn-vii麻痺">Facial Nerve（CN VII）麻痺<a class="anchor" href="#facial-nervecn-vii%e9%ba%bb%e7%97%ba">#</a></h2>
+<h3 id="周邊型面部麻痺">周邊型面部麻痺<a class="anchor" href="#%e5%91%a8%e9%82%8a%e5%9e%8b%e9%9d%a2%e9%83%a8%e9%ba%bb%e7%97%ba">#</a></h3>
 <p><strong>病因（KITTENS）</strong></p>
 <ul>
 <li><strong>K</strong>：先天性</li>
@@ -822,8 +846,8 @@
 <li>特發性：嚴重至完全麻痺時皮質類固醇 + 抗病毒藥</li>
 </ul>
 <hr>
-<h2 id="鼻部疾病">鼻部疾病</h2>
-<h3 id="rhinitis鼻炎的分類">Rhinitis（鼻炎）的分類</h3>
+<h2 id="鼻部疾病">鼻部疾病<a class="anchor" href="#%e9%bc%bb%e9%83%a8%e7%96%be%e7%97%85">#</a></h2>
+<h3 id="rhinitis鼻炎的分類">Rhinitis（鼻炎）的分類<a class="anchor" href="#rhinitis%e9%bc%bb%e7%82%8e%e7%9a%84%e5%88%86%e9%a1%9e">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -854,7 +878,7 @@
       </tr>
   </tbody>
 </table>
-<h3 id="allergic-rhinitis過敏性鼻炎">Allergic Rhinitis（過敏性鼻炎）</h3>
+<h3 id="allergic-rhinitis過敏性鼻炎">Allergic Rhinitis（過敏性鼻炎）<a class="anchor" href="#allergic-rhinitis%e9%81%8e%e6%95%8f%e6%80%a7%e9%bc%bb%e7%82%8e">#</a></h3>
 <p><strong>定義</strong></p>
 <ul>
 <li>對外來過敏原的 IgE 媒介過敏反應</li>
@@ -880,7 +904,7 @@
 <li>白三烯受體拮抗劑</li>
 <li>過敏原免疫療法</li>
 </ul>
-<h3 id="vasomotor-rhinitis血管運動性鼻炎">Vasomotor Rhinitis（血管運動性鼻炎）</h3>
+<h3 id="vasomotor-rhinitis血管運動性鼻炎">Vasomotor Rhinitis（血管運動性鼻炎）<a class="anchor" href="#vasomotor-rhinitis%e8%a1%80%e7%ae%a1%e9%81%8b%e5%8b%95%e6%80%a7%e9%bc%bb%e7%82%8e">#</a></h3>
 <p><strong>定義</strong></p>
 <ul>
 <li>由傷害感受器和自主神經失調導致血管通透性增加引起的鼻炎</li>
@@ -900,7 +924,7 @@
 <li>以鼻塞為主：鼻腔抗組織胺 + 口服去充血劑（注意 rhinitis medicamentosa）</li>
 <li>以流鼻水為主：鼻腔抗膽鹼劑（如 ipratropium）</li>
 </ul>
-<h3 id="rhinosinusitis鼻竇炎">Rhinosinusitis（鼻竇炎）</h3>
+<h3 id="rhinosinusitis鼻竇炎">Rhinosinusitis（鼻竇炎）<a class="anchor" href="#rhinosinusitis%e9%bc%bb%e7%ab%87%e7%82%8e">#</a></h3>
 <p><strong>分類</strong></p>
 <ul>
 <li>急性：&lt;4 週</li>
@@ -976,7 +1000,7 @@
 <li>無息肉：INCS、抗生素、鹽水沖洗、口服類固醇（嚴重時）</li>
 <li>藥物治療失敗：功能性鼻竇內視鏡手術（ESS）、balloon sinuplasty</li>
 </ul>
-<h3 id="epistaxis鼻出血">Epistaxis（鼻出血）</h3>
+<h3 id="epistaxis鼻出血">Epistaxis（鼻出血）<a class="anchor" href="#epistaxis%e9%bc%bb%e5%87%ba%e8%a1%80">#</a></h3>
 <p><strong>解剖</strong></p>
 <ul>
 <li>90% 的鼻出血發生在鼻中隔前下部（Little&rsquo;s area）</li>
@@ -1015,8 +1039,8 @@
 </li>
 </ol>
 <hr>
-<h2 id="喉部疾病">喉部疾病</h2>
-<h3 id="hoarseness聲音嘶啞的鑑別診斷">Hoarseness（聲音嘶啞）的鑑別診斷</h3>
+<h2 id="喉部疾病">喉部疾病<a class="anchor" href="#%e5%96%89%e9%83%a8%e7%96%be%e7%97%85">#</a></h2>
+<h3 id="hoarseness聲音嘶啞的鑑別診斷">Hoarseness（聲音嘶啞）的鑑別診斷<a class="anchor" href="#hoarseness%e8%81%b2%e9%9f%b3%e5%98%b6%e5%95%9e%e7%9a%84%e9%91%91%e5%88%a5%e8%a8%ba%e6%96%b7">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -1063,16 +1087,15 @@
       </tr>
   </tbody>
 </table>
-<blockquote>
+<blockquote class='book-hint '>
 <p><strong>警示</strong>：吸煙者聲音嘶啞 &gt;2 週 → 必須進行 laryngoscopy 排除惡性腫瘤</p>
-</blockquote>
-<h3 id="vocal-cord-paralysis聲帶麻痺">Vocal Cord Paralysis（聲帶麻痺）</h3>
+</blockquote><h3 id="vocal-cord-paralysis聲帶麻痺">Vocal Cord Paralysis（聲帶麻痺）<a class="anchor" href="#vocal-cord-paralysis%e8%81%b2%e5%b8%b6%e9%ba%bb%e7%97%ba">#</a></h3>
 <ul>
 <li><strong>單側</strong>：聲帶位於旁正中位置，發聲時聲門關閉不全 → 微弱、氣息性聲音。通常隨時間內收，發聲和誤吸改善</li>
 <li><strong>雙側</strong>：聲帶靜止於正中位置，聲音不變但呼吸功能受損（可能為喘鳴）</li>
 <li>肺癌是聲帶麻痺最常見的原因</li>
 </ul>
-<h3 id="acute-laryngitis急性喉炎">Acute Laryngitis（急性喉炎）</h3>
+<h3 id="acute-laryngitis急性喉炎">Acute Laryngitis（急性喉炎）<a class="anchor" href="#acute-laryngitis%e6%80%a5%e6%80%a7%e5%96%89%e7%82%8e">#</a></h3>
 <p><strong>定義</strong></p>
 <ul>
 <li>接觸誘發因素後，喉黏膜 &lt;2 週的發炎變化</li>
@@ -1096,7 +1119,7 @@
 <li>有細菌性咽炎共存時抗生素治療</li>
 <li>有胃食道逆流證據時質子泵抑制劑治療</li>
 </ul>
-<h3 id="chronic-laryngitis慢性喉炎">Chronic Laryngitis（慢性喉炎）</h3>
+<h3 id="chronic-laryngitis慢性喉炎">Chronic Laryngitis（慢性喉炎）<a class="anchor" href="#chronic-laryngitis%e6%85%a2%e6%80%a7%e5%96%89%e7%82%8e">#</a></h3>
 <p><strong>定義</strong></p>
 <ul>
 <li>喉黏膜 &gt;3 週的發炎變化</li>
@@ -1116,7 +1139,7 @@
 <li>治療相關疾病（如逆流病的抗分泌治療）</li>
 <li>語言治療搭配聲音休息</li>
 </ul>
-<h3 id="vocal-cord-polyps聲帶息肉">Vocal Cord Polyps（聲帶息肉）</h3>
+<h3 id="vocal-cord-polyps聲帶息肉">Vocal Cord Polyps（聲帶息肉）<a class="anchor" href="#vocal-cord-polyps%e8%81%b2%e5%b8%b6%e6%81%af%e8%82%89">#</a></h3>
 <p><strong>定義</strong></p>
 <ul>
 <li>聲帶刺激的結構表現</li>
@@ -1133,7 +1156,7 @@
 <li>語言治療可改善聲音</li>
 <li>持續性或惡性風險高：內視鏡顯微手術切除</li>
 </ul>
-<h3 id="vocal-cord-nodules聲帶結節">Vocal Cord Nodules（聲帶結節）</h3>
+<h3 id="vocal-cord-nodules聲帶結節">Vocal Cord Nodules（聲帶結節）<a class="anchor" href="#vocal-cord-nodules%e8%81%b2%e5%b8%b6%e7%b5%90%e7%af%80">#</a></h3>
 <p><strong>定義</strong></p>
 <ul>
 <li>聲帶繭，雙側且對稱</li>
@@ -1150,7 +1173,7 @@
 <li>補水、避免刺激物</li>
 <li>頑固性才考慮手術</li>
 </ul>
-<h3 id="recurrent-respiratory-papillomatosis復發性呼吸道乳頭狀瘤病">Recurrent Respiratory Papillomatosis（復發性呼吸道乳頭狀瘤病）</h3>
+<h3 id="recurrent-respiratory-papillomatosis復發性呼吸道乳頭狀瘤病">Recurrent Respiratory Papillomatosis（復發性呼吸道乳頭狀瘤病）<a class="anchor" href="#recurrent-respiratory-papillomatosis%e5%be%a9%e7%99%bc%e6%80%a7%e5%91%bc%e5%90%b8%e9%81%93%e4%b9%b3%e9%a0%ad%e7%8b%80%e7%98%a4%e7%97%85">#</a></h3>
 <p><strong>定義</strong></p>
 <ul>
 <li>呼吸道的小良性疣狀生長（乳頭狀瘤）</li>
@@ -1172,8 +1195,8 @@
 <li>高復發患者：系統性輔助治療（HPV 重組疫苗、bevacizumab、cidofovir）</li>
 </ul>
 <hr>
-<h2 id="唾液腺疾病">唾液腺疾病</h2>
-<h3 id="sialadenitis唾液腺炎">Sialadenitis（唾液腺炎）</h3>
+<h2 id="唾液腺疾病">唾液腺疾病<a class="anchor" href="#%e5%94%be%e6%b6%b2%e8%85%ba%e7%96%be%e7%97%85">#</a></h2>
+<h3 id="sialadenitis唾液腺炎">Sialadenitis（唾液腺炎）<a class="anchor" href="#sialadenitis%e5%94%be%e6%b6%b2%e8%85%ba%e7%82%8e">#</a></h3>
 <p><strong>定義</strong></p>
 <ul>
 <li>唾液腺的發炎</li>
@@ -1193,7 +1216,7 @@
 <li>按摩、止痛/抗生素、催涎劑、熱敷/補水</li>
 <li>細菌性：cloxacillin + 膿腫引流</li>
 </ul>
-<h3 id="sialolithiasis唾液腺結石">Sialolithiasis（唾液腺結石）</h3>
+<h3 id="sialolithiasis唾液腺結石">Sialolithiasis（唾液腺結石）<a class="anchor" href="#sialolithiasis%e5%94%be%e6%b6%b2%e8%85%ba%e7%b5%90%e7%9f%b3">#</a></h3>
 <p><strong>定義</strong></p>
 <ul>
 <li>導管結石（主要為成年人羥基磷灰石，兒童為沙/淤泥），導致慢性唾液腺炎</li>
@@ -1210,7 +1233,7 @@
 <li>催涎、手動表達、止痛、抗生素、催涎劑（如檸檬）</li>
 <li>內視鏡或手術移除</li>
 </ul>
-<h3 id="salivary-gland-neoplasms唾液腺腫瘤">Salivary Gland Neoplasms（唾液腺腫瘤）</h3>
+<h3 id="salivary-gland-neoplasms唾液腺腫瘤">Salivary Gland Neoplasms（唾液腺腫瘤）<a class="anchor" href="#salivary-gland-neoplasms%e5%94%be%e6%b6%b2%e8%85%ba%e8%85%ab%e7%98%a4">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -1248,8 +1271,8 @@
 <li>腮腺手術併發症：血腫、感染、唾液瘻、面部部分/完全麻痺、Frey&rsquo;s syndrome（味覺性出汗）、sialocele</li>
 </ul>
 <hr>
-<h2 id="頸部腫塊">頸部腫塊</h2>
-<h3 id="頸部腫塊的評估">頸部腫塊的評估</h3>
+<h2 id="頸部腫塊">頸部腫塊<a class="anchor" href="#%e9%a0%b8%e9%83%a8%e8%85%ab%e5%a1%8a">#</a></h2>
+<h3 id="頸部腫塊的評估">頸部腫塊的評估<a class="anchor" href="#%e9%a0%b8%e9%83%a8%e8%85%ab%e5%a1%8a%e7%9a%84%e8%a9%95%e4%bc%b0">#</a></h3>
 <p><strong>年齡相關 differential diagnosis</strong></p>
 <table>
   <thead>
@@ -1273,8 +1296,8 @@
       </tr>
   </tbody>
 </table>
-<h3 id="先天性頸部腫塊">先天性頸部腫塊</h3>
-<h4 id="branchial-cleft-cystssinusesfistulae鰓裂囊腫竇道瘻管">Branchial Cleft Cysts/Sinuses/Fistulae（鰓裂囊腫/竇道/瘻管）</h4>
+<h3 id="先天性頸部腫塊">先天性頸部腫塊<a class="anchor" href="#%e5%85%88%e5%a4%a9%e6%80%a7%e9%a0%b8%e9%83%a8%e8%85%ab%e5%a1%8a">#</a></h3>
+<h4 id="branchial-cleft-cystssinusesfistulae鰓裂囊腫竇道瘻管">Branchial Cleft Cysts/Sinuses/Fistulae（鰓裂囊腫/竇道/瘻管）<a class="anchor" href="#branchial-cleft-cystssinusesfistulae%e9%b0%93%e8%a3%82%e5%9b%8a%e8%85%ab%e7%ab%87%e9%81%93%e7%98%bb%e7%ae%a1">#</a></h4>
 <p><strong>胚胎學</strong></p>
 <ul>
 <li>第二鰓裂畸形最常見</li>
@@ -1286,7 +1309,7 @@
 <li>囊腫或竇道/瘻管手術移除</li>
 <li>若感染：待感染控制後再手術（可能需要抗生素）</li>
 </ul>
-<h4 id="thyroglossal-duct-cysts甲狀舌管囊腫">Thyroglossal Duct Cysts（甲狀舌管囊腫）</h4>
+<h4 id="thyroglossal-duct-cysts甲狀舌管囊腫">Thyroglossal Duct Cysts（甲狀舌管囊腫）<a class="anchor" href="#thyroglossal-duct-cysts%e7%94%b2%e7%8b%80%e8%88%8c%e7%ae%a1%e5%9b%8a%e8%85%ab">#</a></h4>
 <p><strong>胚胎學</strong></p>
 <ul>
 <li>甲狀腺從舌底盲孔向下遷移過程中的殘留遺跡</li>
@@ -1301,7 +1324,7 @@
 <ul>
 <li>Sistrunk 手術：囊腫完整切除 + 管道組織至舌根 + 舌骨中央部分切除</li>
 </ul>
-<h4 id="lymphaticvenous-malformations淋巴靜脈混合淋巴靜脈畸形">Lymphatic/Venous Malformations（淋巴/靜脈/混合淋巴靜脈畸形）</h4>
+<h4 id="lymphaticvenous-malformations淋巴靜脈混合淋巴靜脈畸形">Lymphatic/Venous Malformations（淋巴/靜脈/混合淋巴靜脈畸形）<a class="anchor" href="#lymphaticvenous-malformations%e6%b7%8b%e5%b7%b4%e9%9d%9c%e8%84%88%e6%b7%b7%e5%90%88%e6%b7%8b%e5%b7%b4%e9%9d%9c%e8%84%88%e7%95%b8%e5%bd%a2">#</a></h4>
 <p><strong>臨床特徵</strong></p>
 <ul>
 <li>通常 2 歲前顯現</li>
@@ -1315,8 +1338,8 @@
 <li>Micro cystic：困難，可減積或硬化治療（bleomycin）</li>
 </ul>
 <hr>
-<h2 id="頭頸部腫瘤">頭頸部腫瘤</h2>
-<h3 id="癌前病變">癌前病變</h3>
+<h2 id="頭頸部腫瘤">頭頸部腫瘤<a class="anchor" href="#%e9%a0%ad%e9%a0%b8%e9%83%a8%e8%85%ab%e7%98%a4">#</a></h2>
+<h3 id="癌前病變">癌前病變<a class="anchor" href="#%e7%99%8c%e5%89%8d%e7%97%85%e8%ae%8a">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -1343,7 +1366,7 @@
       </tr>
   </tbody>
 </table>
-<h3 id="head-and-neck-惡性腫瘤概述">Head and Neck 惡性腫瘤概述</h3>
+<h3 id="head-and-neck-惡性腫瘤概述">Head and Neck 惡性腫瘤概述<a class="anchor" href="#head-and-neck-%e6%83%a1%e6%80%a7%e8%85%ab%e7%98%a4%e6%a6%82%e8%bf%b0">#</a></h3>
 <p><strong>風險因子</strong></p>
 <ul>
 <li>吸菸、酒精（與吸菸有協同作用）</li>
@@ -1363,7 +1386,7 @@
 <li>Nasopharynx、oropharynx、hypopharynx、larynx 惡性腫瘤：首選放射治療，手術保留用於 salvage</li>
 <li>化學治療作為誘導治療</li>
 </ul>
-<h3 id="甲狀腺癌">甲狀腺癌</h3>
+<h3 id="甲狀腺癌">甲狀腺癌<a class="anchor" href="#%e7%94%b2%e7%8b%80%e8%85%ba%e7%99%8c">#</a></h3>
 <p><strong>分類</strong></p>
 <table>
   <thead>
@@ -1442,8 +1465,8 @@
 <li>Anaplastic：氣管切開術、放射治療、化學治療、標靶治療</li>
 </ul>
 <hr>
-<h2 id="小兒耳鼻喉科學">小兒耳鼻喉科學</h2>
-<h3 id="acute-otitis-mediaaom-1">Acute Otitis Media（AOM）</h3>
+<h2 id="小兒耳鼻喉科學">小兒耳鼻喉科學<a class="anchor" href="#%e5%b0%8f%e5%85%92%e8%80%b3%e9%bc%bb%e5%96%89%e7%a7%91%e5%ad%b8">#</a></h2>
+<h3 id="acute-otitis-mediaaom-1">Acute Otitis Media（AOM）<a class="anchor" href="#acute-otitis-mediaaom-1">#</a></h3>
 <p><strong>定義</strong></p>
 <ul>
 <li>中耳空間感染，同時有 MEE/MEI 和急性發病</li>
@@ -1481,7 +1504,7 @@
 <li>顱外：CHL 和言語發育遲緩、TM 穿孔、進展至乳突炎、cholesteatoma</li>
 <li>顱內：腦膜炎、腦/硬膜外/硬膜下膿腫、乙狀竇血栓</li>
 </ul>
-<h3 id="otitis-media-with-effusion積液性中耳炎">Otitis Media with Effusion（積液性中耳炎）</h3>
+<h3 id="otitis-media-with-effusion積液性中耳炎">Otitis Media with Effusion（積液性中耳炎）<a class="anchor" href="#otitis-media-with-effusion%e7%a9%8d%e6%b6%b2%e6%80%a7%e4%b8%ad%e8%80%b3%e7%82%8e">#</a></h3>
 <p><strong>定義</strong></p>
 <ul>
 <li>中耳有液體但無感染徵象或症狀</li>
@@ -1496,7 +1519,7 @@
 <li>期待療法：90% 在 3 個月內緩解</li>
 <li>手術：鼓膜切開術 + 通氣管 + 腺樣體切除術（&gt;4 歲建議）</li>
 </ul>
-<h3 id="adenoid-hypertrophy腺樣體肥大">Adenoid Hypertrophy（腺樣體肥大）</h3>
+<h3 id="adenoid-hypertrophy腺樣體肥大">Adenoid Hypertrophy（腺樣體肥大）<a class="anchor" href="#adenoid-hypertrophy%e8%85%ba%e6%a8%a3%e9%ab%94%e8%82%a5%e5%a4%a7">#</a></h3>
 <p><strong>定義</strong></p>
 <ul>
 <li>腺樣體增大的阻塞性疾病</li>
@@ -1513,7 +1536,7 @@
 <li>抗生素（感染時）</li>
 <li>反覆/持續性阻塞或感染症狀：腺樣體切除術</li>
 </ul>
-<h3 id="sleep-disordered-breathing-in-children兒童睡眠呼吸障礙">Sleep-Disordered Breathing in Children（兒童睡眠呼吸障礙）</h3>
+<h3 id="sleep-disordered-breathing-in-children兒童睡眠呼吸障礙">Sleep-Disordered Breathing in Children（兒童睡眠呼吸障礙）<a class="anchor" href="#sleep-disordered-breathing-in-children%e5%85%92%e7%ab%a5%e7%9d%a1%e7%9c%a0%e5%91%bc%e5%90%b8%e9%9a%9c%e7%a4%99">#</a></h3>
 <p><strong>定義</strong></p>
 <ul>
 <li>從打鼾到阻塞性睡眠呼吸暫停（OSA）的睡眠呼吸異常範圍</li>
@@ -1529,7 +1552,7 @@
 <li>藥物：鼻腔類固醇、白三烯受體拮抗劑</li>
 <li>手術：雙側扁桃體切除術 + 腺樣體切除術（首選）</li>
 </ul>
-<h3 id="peritonsillar-abscess扁桃體周圍膿腫--quinsy">Peritonsillar Abscess（扁桃體周圍膿腫 / Quinsy）</h3>
+<h3 id="peritonsillar-abscess扁桃體周圍膿腫--quinsy">Peritonsillar Abscess（扁桃體周圍膿腫 / Quinsy）<a class="anchor" href="#peritonsillar-abscess%e6%89%81%e6%a1%83%e9%ab%94%e5%91%a8%e5%9c%8d%e8%86%bf%e8%85%ab--quinsy">#</a></h3>
 <p><strong>定義</strong></p>
 <ul>
 <li>扁桃體囊外軟組織的蜂窩組織炎，延伸至軟顎</li>
@@ -1547,7 +1570,7 @@
 <li>經驗性口服抗生素 14 天</li>
 <li>扁桃體切除術（康復後或第二次發作後考慮）</li>
 </ul>
-<h3 id="airway-problems-in-children兒童氣道問題">Airway Problems in Children（兒童氣道問題）</h3>
+<h3 id="airway-problems-in-children兒童氣道問題">Airway Problems in Children（兒童氣道問題）<a class="anchor" href="#airway-problems-in-children%e5%85%92%e7%ab%a5%e6%b0%a3%e9%81%93%e5%95%8f%e9%a1%8c">#</a></h3>
 <p><strong>年齡相關 Differential Diagnosis</strong></p>
 <p><strong>新生兒（強制鼻呼吸者）</strong></p>
 <ul>
@@ -1570,7 +1593,7 @@
 <li>Stridor（喘鳴）：吸氣性（聲門或上方）、雙相性（聲門、聲門下）、呼氣性（遠端氣管）</li>
 <li>呼吸窘迫：鼻翼震顫、氣管牽扯、胸骨凹陷</li>
 </ul>
-<h3 id="acute-laryngotracheobronchitiscroup">Acute Laryngotracheobronchitis（Croup）</h3>
+<h3 id="acute-laryngotracheobronchitiscroup">Acute Laryngotracheobronchitis（Croup）<a class="anchor" href="#acute-laryngotracheobronchitiscroup">#</a></h3>
 <p><strong>定義</strong></p>
 <ul>
 <li>聲門下空間和氣管—支氣管樹的發炎</li>
@@ -1595,7 +1618,7 @@
 <li>充足補液、濕化氧氣</li>
 <li>若無改善：考慮 alternate 診斷（如 bacterial tracheitis）</li>
 </ul>
-<h3 id="acute-epiglottitis急性會厭炎">Acute Epiglottitis（急性會厭炎）</h3>
+<h3 id="acute-epiglottitis急性會厭炎">Acute Epiglottitis（急性會厭炎）<a class="anchor" href="#acute-epiglottitis%e6%80%a5%e6%80%a7%e6%9c%83%e5%8e%ad%e7%82%8e">#</a></h3>
 <p><strong>定義</strong></p>
 <ul>
 <li>喉部聲門上結構的急性發炎，不涉及聲帶</li>
@@ -1614,7 +1637,7 @@
 <li>抗生素：cefuroxime、cefotaxime、ceftriaxone（10–14 天）</li>
 <li>注意：管理時不要激動兒童，可能導致完全阻塞</li>
 </ul>
-<h3 id="laryngomalacia喉軟化">Laryngomalacia（喉軟化）</h3>
+<h3 id="laryngomalacia喉軟化">Laryngomalacia（喉軟化）<a class="anchor" href="#laryngomalacia%e5%96%89%e8%bb%9f%e5%8c%96">#</a></h3>
 <p><strong>定義</strong></p>
 <ul>
 <li>聲門上組織先天的軟化，導致組織塌陷至聲門和吸氣性喘鳴</li>
@@ -1630,7 +1653,7 @@
 <li>觀察 + 質子泵抑制劑（打破酸逆流循環）→ 足夠，&gt;90% 在 12–18 個月自發緩解</li>
 <li>嚴重（10%）：聲門上成形術</li>
 </ul>
-<h3 id="foreign-body異物">Foreign Body（異物）</h3>
+<h3 id="foreign-body異物">Foreign Body（異物）<a class="anchor" href="#foreign-body%e7%95%b0%e7%89%a9">#</a></h3>
 <p><strong>誤吸</strong></p>
 <ul>
 <li>通常卡在右主支氣管</li>
@@ -1644,10 +1667,9 @@
 <li>硬幣、玩具、電池（緊急！）</li>
 <li>流口水、吞嚥困難、喘鳴（大時）</li>
 </ul>
-<blockquote>
+<blockquote class='book-hint '>
 <p><strong>警示</strong>：紐扣電池必須排除——可在 X 光上形成暈輪徵（halo sign），能腐蝕食道，極度危險</p>
-</blockquote>
-<h3 id="deep-neck-space-infection深頸部空間感染">Deep Neck Space Infection（深頸部空間感染）</h3>
+</blockquote><h3 id="deep-neck-space-infection深頸部空間感染">Deep Neck Space Infection（深頸部空間感染）<a class="anchor" href="#deep-neck-space-infection%e6%b7%b1%e9%a0%b8%e9%83%a8%e7%a9%ba%e9%96%93%e6%84%9f%e6%9f%93">#</a></h3>
 <p><strong>定義</strong></p>
 <ul>
 <li>源自下頜牙齒（成人最常見）、扁桃體（兒童最常見）、唾液腺、深頸部淋巴結的感染</li>
@@ -1664,8 +1686,8 @@
 <li>最大劑量靜脈抗生素</li>
 </ul>
 <hr>
-<h2 id="常用藥物">常用藥物</h2>
-<h3 id="抗生素">抗生素</h3>
+<h2 id="常用藥物">常用藥物<a class="anchor" href="#%e5%b8%b8%e7%94%a8%e8%97%a5%e7%89%a9">#</a></h2>
+<h3 id="抗生素">抗生素<a class="anchor" href="#%e6%8a%97%e7%94%9f%e7%b4%a0">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -1692,7 +1714,7 @@
       </tr>
   </tbody>
 </table>
-<h3 id="耳部製劑">耳部製劑</h3>
+<h3 id="耳部製劑">耳部製劑<a class="anchor" href="#%e8%80%b3%e9%83%a8%e8%a3%bd%e5%8a%91">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -1715,7 +1737,7 @@
       </tr>
   </tbody>
 </table>
-<h3 id="鼻腔製劑">鼻腔製劑</h3>
+<h3 id="鼻腔製劑">鼻腔製劑<a class="anchor" href="#%e9%bc%bb%e8%85%94%e8%a3%bd%e5%8a%91">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -1762,5 +1784,19 @@
   <footer>
     <p>Powered by Hugo | Toronto Notes 2025 繁體中文翻譯</p>
   </footer>
+  <script>
+    function toggleTheme() {
+      const html = document.documentElement;
+      const current = html.getAttribute('data-theme');
+      const next = current === 'dark' ? 'light' : 'dark';
+      html.setAttribute('data-theme', next);
+      localStorage.setItem('theme', next);
+    }
+    const saved = localStorage.getItem('theme');
+    if (saved) document.documentElement.setAttribute('data-theme', saved);
+    else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+      document.documentElement.setAttribute('data-theme', 'dark');
+    }
+  </script>
 </body>
 </html>

@@ -5,31 +5,55 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>神經外科 (Neurosurgery) - Toronto Notes 2025 繁體中文</title>
   <style>
+    :root {
+      --bg-primary: #ffffff;
+      --bg-secondary: #f8fafc;
+      --text-primary: #1e293b;
+      --text-secondary: #64748b;
+      --accent: #2563eb;
+      --border: #e2e8f0;
+      --code-bg: #f1f5f9;
+      --link: #2563eb;
+      --link-visited: #5500bb;
+    }
+    [data-theme="dark"] {
+      --bg-primary: #1a1a2e;
+      --bg-secondary: #16162a;
+      --text-primary: #e4e4e7;
+      --text-secondary: #a1a1aa;
+      --accent: #93c5fd;
+      --border: #3f3f46;
+      --code-bg: #27272a;
+      --link: #93c5fd;
+      --link-visited: #c4b5fd;
+    }
     * { box-sizing: border-box; }
-    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; line-height: 1.6; color: #333; max-width: 900px; margin: 0 auto; padding: 20px; }
-    header { border-bottom: 2px solid #2563eb; padding-bottom: 10px; margin-bottom: 20px; }
-    header h1 { margin: 0; font-size: 1.5em; color: #2563eb; }
-    nav a { margin-right: 15px; color: #2563eb; text-decoration: none; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; line-height: 1.6; color: var(--text-primary); background: var(--bg-primary); max-width: 900px; margin: 0 auto; padding: 20px; }
+    header { border-bottom: 2px solid var(--accent); padding-bottom: 10px; margin-bottom: 20px; display: flex; justify-content: space-between; align-items: center; }
+    header h1 { margin: 0; font-size: 1.5em; color: var(--accent); }
+    nav a { margin-right: 15px; color: var(--link); text-decoration: none; }
     nav a:hover { text-decoration: underline; }
-    h1, h2, h3 { color: #1e293b; }
-    h1 { font-size: 1.8em; border-bottom: 1px solid #e2e8f0; padding-bottom: 8px; }
-    h2 { font-size: 1.4em; border-bottom: 1px solid #e2e8f0; padding-bottom: 5px; }
+    h1, h2, h3 { color: var(--text-primary); }
+    h1 { font-size: 1.8em; border-bottom: 1px solid var(--border); padding-bottom: 8px; }
+    h2 { font-size: 1.4em; border-bottom: 1px solid var(--border); padding-bottom: 5px; }
     h3 { font-size: 1.15em; }
-    pre { background: #f1f5f9; padding: 15px; border-radius: 6px; overflow-x: auto; }
-    code { background: #f1f5f9; padding: 2px 5px; border-radius: 3px; font-size: 0.9em; }
+    pre { background: var(--code-bg); padding: 15px; border-radius: 6px; overflow-x: auto; }
+    code { background: var(--code-bg); padding: 2px 5px; border-radius: 3px; font-size: 0.9em; }
     pre code { background: none; padding: 0; }
-    blockquote { border-left: 4px solid #2563eb; margin: 0; padding: 5px 15px; color: #64748b; background: #f8fafc; }
+    blockquote { border-left: 4px solid var(--accent); margin: 0; padding: 5px 15px; color: var(--text-secondary); background: var(--bg-secondary); }
     table { border-collapse: collapse; width: 100%; margin: 15px 0; }
-    th, td { border: 1px solid #cbd5e1; padding: 8px 12px; text-align: left; }
-    th { background: #f1f5f9; font-weight: 600; }
-    tr:nth-child(even) { background: #f8fafc; }
+    th, td { border: 1px solid var(--border); padding: 8px 12px; text-align: left; }
+    th { background: var(--bg-secondary); font-weight: 600; }
+    tr:nth-child(even) { background: var(--bg-secondary); }
     .content-body { line-height: 1.8; }
-    footer { border-top: 1px solid #e2e8f0; margin-top: 30px; padding-top: 15px; color: #64748b; font-size: 0.9em; }
-    .breadcrumb { font-size: 0.9em; color: #64748b; margin-bottom: 15px; }
-    .breadcrumb a { color: #2563eb; text-decoration: none; }
-    a { color: #2563eb; }
+    footer { border-top: 1px solid var(--border); margin-top: 30px; padding-top: 15px; color: var(--text-secondary); font-size: 0.9em; }
+    .breadcrumb { font-size: 0.9em; color: var(--text-secondary); margin-bottom: 15px; }
+    .breadcrumb a { color: var(--link); text-decoration: none; }
+    a { color: var(--link); }
     a:hover { text-decoration: underline; }
     img { max-width: 100%; height: auto; }
+    .theme-toggle { background: none; border: 1px solid var(--border); color: var(--text-primary); cursor: pointer; padding: 4px 10px; border-radius: 4px; font-size: 0.85em; }
+    .theme-toggle:hover { background: var(--bg-secondary); }
   </style>
 </head>
 <body>
@@ -38,6 +62,7 @@
       <a href="https://b101108063-ops.github.io/Toronto_note/">首頁</a>
       <a href="/Toronto_note/categories/">章節</a>
     </nav>
+    <button class="theme-toggle" onclick="toggleTheme()">🌙 暗色</button>
   </header>
 
   <main>
@@ -49,7 +74,7 @@
       <div class="content-body">
         <p><em>Toronto Notes 2025</em></p>
 <hr>
-<h2 id="導讀摘要">導讀摘要</h2>
+<h2 id="導讀摘要">導讀摘要<a class="anchor" href="#%e5%b0%8e%e8%ae%80%e6%91%98%e8%a6%81">#</a></h2>
 <p>Treatment of Elevated ICP</p>
 <ul>
 <li>
@@ -178,7 +203,7 @@ normal CSF</p>
 -e</p>
 </li>
 </ol>
-<h2 id="page-941">Page 941</h2>
+<h2 id="page-941">Page 941<a class="anchor" href="#page-941">#</a></h2>
 <p>NSO ‘Neurosurgery</p>
 <p>Clinical Features</p>
 <ul>
@@ -325,7 +350,7 @@ functonin patients with Hand mild visual ss.</p>
 <p>© Kari Francis 2004</p>
 <p>Figure 8. The flow of CSF
 -e</p>
-<h2 id="page-942">Page 942</h2>
+<h2 id="page-942">Page 942<a class="anchor" href="#page-942">#</a></h2>
 <p>NS1O ‘Neurosurgery</p>
 <p>Etiology</p>
 <ul>
@@ -430,7 +455,7 @@ adhesions, arachnoidtis,</p>
 <p>ETV: 56% success rate, hypothalamic injury,
 iatrogenic basilar aneurysm
 -e</p>
-<h2 id="page-943">Page 943</h2>
+<h2 id="page-943">Page 943<a class="anchor" href="#page-943">#</a></h2>
 <p>NSIL ‘Neurosurgery</p>
 <p>ontaneous Intracranial Hypotens</p>
 <ul>
@@ -491,7 +516,7 @@ iverticula</p>
 Figue courtesy ofr. rc M Masscotte</p>
 <p>Toronto Notes 2025
 -e</p>
-<h2 id="page-944">Page 944</h2>
+<h2 id="page-944">Page 944<a class="anchor" href="#page-944">#</a></h2>
 <p>NS12 ‘Neurosurgery</p>
 <p>Ventricular: colloid cyst, choroid plexus</p>
 <p>papilloma, ependymoma,
@@ -601,7 +626,7 @@ Rarely undergo metastasis
 ‘Adults = mostly supratentorial
 Children = mostly infratentorial</p>
 <p>-e</p>
-<h2 id="page-945">Page 945</h2>
+<h2 id="page-945">Page 945<a class="anchor" href="#page-945">#</a></h2>
 <p>NSI3 ‘Neurosurgery</p>
 <p>Table 9. WHO 2021 Classification of Tumours of the CNS</p>
 <p>Choroid Plexus Tumours</p>
@@ -681,7 +706,7 @@ region, and spindle cell oncocytoma</p>
 Netastases tothe meninges</p>
 <p>Toronto Notes 2025
 -e</p>
-<h2 id="page-946">Page 946</h2>
+<h2 id="page-946">Page 946<a class="anchor" href="#page-946">#</a></h2>
 <p>NSI4 ‘Neurosurgery</p>
 <p>Familial Syndromes Associated with CNS Tumours</p>
 <ul>
@@ -806,7 +831,7 @@ supratetarial lesions</p>
 ina patient with cancer should raise the
 suspicion of leptomeningeal carcinomatosis
 -e</p>
-<h2 id="page-947">Page 947</h2>
+<h2 id="page-947">Page 947<a class="anchor" href="#page-947">#</a></h2>
 <p>NSI5 ‘Neurosurgery</p>
 <p>Metastatic Tumours</p>
 <p>Brain Metastasis</p>
@@ -937,7 +962,7 @@ Condusions: Early surgical resection oflow- grade
 jiomas i associated wit sigcant improved
 ‘overall survival compared to watchful waiting
 -e</p>
-<h2 id="page-948">Page 948</h2>
+<h2 id="page-948">Page 948<a class="anchor" href="#page-948">#</a></h2>
 <p>‘Neurosurgery</p>
 <p>ical Features
 «+ sites: cerebral hemispheres &raquo; cerebellum, brainstem, spinal cord</p>
@@ -1101,7 +1126,7 @@ was associated with significant suvivalbenefit
 inpatients with newly diagnosed non-co-deleted
 anaplastic gloma,
 -e</p>
-<h2 id="page-949">Page 949</h2>
+<h2 id="page-949">Page 949<a class="anchor" href="#page-949">#</a></h2>
 <p>NSI7 ‘Neurosurgery</p>
 <ul>
 <li>radiation: WBRT used in consolidation therapy and for palliation; consider as second-line induction
@@ -1220,7 +1245,7 @@ WHO grades</p>
 sensorineural hearing loss = vestibular
 ‘schwannoma until proven otherwise
 -e</p>
-<h2 id="page-950">Page 950</h2>
+<h2 id="page-950">Page 950<a class="anchor" href="#page-950">#</a></h2>
 <p>NSI8 ‘Neurosurgery</p>
 <ul>
 <li>later clinical features
@@ -1342,7 +1367,7 @@ Cry</p>
 <p>10, Maxillary nerve</p>
 <p>Figure 16. Cavernous sinus
 -e</p>
-<h2 id="page-951">Page 951</h2>
+<h2 id="page-951">Page 951<a class="anchor" href="#page-951">#</a></h2>
 <p>NSI9 ‘Neurosurgery</p>
 <ul>
 <li>postoperative concerns: DI, adrenal insufficiency (Al), CSF leak
@@ -1471,7 +1496,7 @@ larger ones are treated surgical.
 -e</p>
 </li>
 </ol>
-<h2 id="page-952">Page 952</h2>
+<h2 id="page-952">Page 952<a class="anchor" href="#page-952">#</a></h2>
 <p>S20 ‘Neurosurgery Toronto Notes 2025
 Investigations</p>
 <ul>
@@ -1546,7 +1571,7 @@ infections, amphetamine)</li>
 </ul>
 <p>coagulopathy</p>
 <p>-e</p>
-<h2 id="page-953">Page 953</h2>
+<h2 id="page-953">Page 953<a class="anchor" href="#page-953">#</a></h2>
 <p>NS21 ‘Neurosurgery</p>
 <p>Epidural (Extradural) Hematoma</p>
 <p>Etiology</p>
@@ -1707,7 +1732,7 @@ when drains are used</p>
 </li>
 </ol>
 <p>-e</p>
-<h2 id="page-954">Page 954</h2>
+<h2 id="page-954">Page 954<a class="anchor" href="#page-954">#</a></h2>
 <p>NS22 ‘Neurosurgery</p>
 <p>Cerebrovascular Disease</p>
 <p>Cerebrovascular disease may be divided into two general categories:</p>
@@ -1818,7 +1843,7 @@ hemiparesis, mid rigidity</p>
 ‘moribund appearance</p>
 <p>Mortality of Grade 12 20% increased with grade
 -e</p>
-<h2 id="page-955">Page 955</h2>
+<h2 id="page-955">Page 955<a class="anchor" href="#page-955">#</a></h2>
 <p>NS23 ‘Neurosurgery</p>
 <p>decreased LOC (due to either raised ICP, ischemia, or seizure)
 focal deficits: cranial nerve palsies (CN III, IV), hemiparesis
@@ -1941,7 +1966,7 @@ stratcaton on presentation after SAH, Itcould help
 toselect patents at high-sk of Cl and standard
 treatment protocol and esearch studies</p>
 <p>-e</p>
-<h2 id="page-956">Page 956</h2>
+<h2 id="page-956">Page 956<a class="anchor" href="#page-956">#</a></h2>
 <p>NS24 ‘Neurosurgery</p>
 <ul>
 <li>medications
@@ -2082,7 +2107,7 @@ HIN</p>
 Ehlers-Danlos syndrome
 Family history: &gt;2 first-degree relatives
 -e</p>
-<h2 id="page-957">Page 957</h2>
+<h2 id="page-957">Page 957<a class="anchor" href="#page-957">#</a></h2>
 <p>NS25 ‘Neurosurgery</p>
 <p>Risk Factors</p>
 <ul>
@@ -2227,7 +2252,7 @@ information onthe natural story of unruptured
 intracranial aneurysms andthe risk associated with
 therepait.</p>
 <p>-e</p>
-<h2 id="page-958">Page 958</h2>
+<h2 id="page-958">Page 958<a class="anchor" href="#page-958">#</a></h2>
 <p>NS26 ‘Neurosurgery</p>
 <p>Intracerebral Hemorrhage</p>
 <p>Definition</p>
@@ -2341,10 +2366,9 @@ tem Score</p>
 <p>Sie</p>
 <p>03cm 1</p>
 <p>316.0cm 2</p>
-<blockquote>
+<blockquote class='book-hint '>
 <p>a 3</p>
-</blockquote>
-<p>Location</p>
+</blockquote><p>Location</p>
 <p>Non-eloguent o</p>
 <p>Boquent 1</p>
 <p>Deep Venous Drainage</p>
@@ -2358,7 +2382,7 @@ above table.</p>
 eep venous drainage = Grade
 -e</li>
 </ol>
-<h2 id="page-959">Page 959</h2>
+<h2 id="page-959">Page 959<a class="anchor" href="#page-959">#</a></h2>
 <p>S27</p>
 <p>Prognosis</p>
 <p>‘Neurosurgery</p>
@@ -2530,7 +2554,7 @@ with brainstem COM location(s, other locations;
 hemorthageftom a CCM s greater than the risk ofthe
 firstevent and decines over5 yt</p>
 <p>-e</p>
-<h2 id="page-960">Page 960</h2>
+<h2 id="page-960">Page 960<a class="anchor" href="#page-960">#</a></h2>
 <p>NS28 ‘Neurosurgery</p>
 <p>Toronto Notes 2025</p>
 <p>Cerebrospinal Fluid Fistulas ©</p>
@@ -2649,7 +2673,7 @@ immunosuppressed, fever</p>
 <p>Compression Fracture
 ‘Age &gt;50, trauma, prolonged steroid use
 -e</p>
-<h2 id="page-961">Page 961</h2>
+<h2 id="page-961">Page 961<a class="anchor" href="#page-961">#</a></h2>
 <p>NS29 ‘Neurosurgery Toronto Notes 2025</p>
 <p>Root Compression ©</p>
 <p>radiculopathy is a pain and/or sensorimotor deficit syndrome that involves compression of a nerve root. SS</p>
@@ -2728,7 +2752,7 @@ discectomy is another option; cervical artificial disc is an emerging option)
 supraspinatus</p>
 <p>Reflex Nochange Biceps, brachioradalis Triceps Finger jerk Hoffman&rsquo;s sign)</p>
 <p>-e</p>
-<h2 id="page-962">Page 962</h2>
+<h2 id="page-962">Page 962<a class="anchor" href="#page-962">#</a></h2>
 <p>NS30 Neurosurgery
 Degenerative Cervical Myelopath</p>
 <p>Defi n</p>
@@ -2825,7 +2849,7 @@ myelopathy and should be counseled Ofer surgical or
 ‘nonoperative treatment with appropriate follow-up and
 ‘structured rehabiltation,
 -e</p>
-<h2 id="page-963">Page 963</h2>
+<h2 id="page-963">Page 963<a class="anchor" href="#page-963">#</a></h2>
 <p>NS31 ‘Neurosurgery</p>
 <ul>
 <li>
@@ -2946,7 +2970,7 @@ Conclusions: Anatomical abnormal</p>
 with resolution oftheir symptoms rom patents til
 ‘experiencing symptoms.
 -e</p>
-<h2 id="page-964">Page 964</h2>
+<h2 id="page-964">Page 964<a class="anchor" href="#page-964">#</a></h2>
 <p>S32 ‘Neurosurgery</p>
 <p>Table 21. Differentiating Conus Medullaris Syndrome from Cauda Equina Syndrome</p>
 <p>Conus Medullaris Syndrome Cauda Equina Syndrome
@@ -3059,7 +3083,7 @@ information onthe SPORT ial for outcomes of surgery
 1s. nonoperative care for symptomatic ambar spinal
 stenosis
 -e</p>
-<h2 id="page-965">Page 965</h2>
+<h2 id="page-965">Page 965<a class="anchor" href="#page-965">#</a></h2>
 <p>NS33 ‘Neurosurgery Toronto Notes 2025</p>
 <p>Neurogenic Claudication</p>
 <p>Etiology</p>
@@ -3153,7 +3177,7 @@ more commonly indicated in non-communicating forms of syringomyelia (e.g. due to
 tethering (e.g. due to arachnoid webs), a detethering procedure with/without duroplasty may be
 indicated
 -e</p>
-<h2 id="page-966">Page 966</h2>
+<h2 id="page-966">Page 966<a class="anchor" href="#page-966">#</a></h2>
 <p>‘Neurosurgery</p>
 <p>Spinal Cord Syndromes</p>
 <p>Complete Spinal Cord Lesion</p>
@@ -3256,7 +3280,7 @@ gader3</p>
 <p>Figure 28. Spinal cord lesion
 syndromes</p>
 <p>-e</p>
-<h2 id="page-967">Page 967</h2>
+<h2 id="page-967">Page 967<a class="anchor" href="#page-967">#</a></h2>
 <p>NS35 ‘Neurosurgery</p>
 <p>Table 24. Treatment by Injury Type</p>
 <p>Injury Treatment
@@ -3358,7 +3382,7 @@ inivially (e.g. E3V3M5)</p>
 <p>213ismild injury, 912is moderate injury; &lt;Bis
 severeinjuy
 -e</p>
-<h2 id="page-968">Page 968</h2>
+<h2 id="page-968">Page 968<a class="anchor" href="#page-968">#</a></h2>
 <p>NS36 ‘Neurosurgery</p>
 <p>Investigations</p>
 <ul>
@@ -3508,7 +3532,7 @@ a
 <p>Figure 30. Signs of basal skull
 fractures
 -e</p>
-<h2 id="page-969">Page 969</h2>
+<h2 id="page-969">Page 969<a class="anchor" href="#page-969">#</a></h2>
 <p>S37 ‘Neurosurgery</p>
 <p>Cranial Nerve Injury</p>
 <ul>
@@ -3653,7 +3677,7 @@ Condusion: Maintaining montored CPat 20 mmf
 co essis not superior tocar based on imaging and
 linia eranination.</p>
 <p>-e</p>
-<h2 id="page-970">Page 970</h2>
+<h2 id="page-970">Page 970<a class="anchor" href="#page-970">#</a></h2>
 <p>NS38 ‘Neurosurgery Toronto Notes 2025</p>
 <p>Intracranial Conditions</p>
 <ul>
@@ -3745,7 +3769,7 @@ ligamentous injury and disc herniation</li>
 <p>BY</p>
 <p>eu Aw</p>
 <p>-e</p>
-<h2 id="page-971">Page 971</h2>
+<h2 id="page-971">Page 971<a class="anchor" href="#page-971">#</a></h2>
 <p>NS39 ‘Neurosurgery</p>
 <ul>
 <li>ifone fracture has been detected - the entire spine should be scanned (CT) to assess for a second
@@ -3829,7 +3853,7 @@ cervical spinal ordinjry</p>
 <p>Figure 33. Odontoid fracture
 classification
 -e</p>
-<h2 id="page-972">Page 972</h2>
+<h2 id="page-972">Page 972<a class="anchor" href="#page-972">#</a></h2>
 <p>Ns40 ‘Neurosurgery</p>
 <p>Table 27. AO Spine Classification System for Subaxial Cervical Spine Injury and Thoracolumbar Spine</p>
 <p>Injury
@@ -3957,7 +3981,7 @@ need for shunting and improved motor outcomes but
 was associated with maternal and fetal risks related to
 preterm detvery.</p>
 <p>-e</p>
-<h2 id="page-973">Page 973</h2>
+<h2 id="page-973">Page 973<a class="anchor" href="#page-973">#</a></h2>
 <p>NS41 ‘Neurosurgery</p>
 <p>Investigations and Management</p>
 <ul>
@@ -4062,7 +4086,7 @@ space</p>
 <p>Figure 34. Spina bifida occulta,</p>
 <p>meningocele, myelomeningocele</p>
 <p>-e</p>
-<h2 id="page-974">Page 974</h2>
+<h2 id="page-974">Page 974<a class="anchor" href="#page-974">#</a></h2>
 <p>NS42 ‘Neurosurgery</p>
 <p>Intraventricular Hemorrhage</p>
 <p>Definition</p>
@@ -4163,7 +4187,7 @@ Grade I: germinal matrix hemorrhage</p>
 IVH with ventricular dilation
 Grade IV: IVH with parenchymal extension</p>
 <p>-e</p>
-<h2 id="page-975">Page 975</h2>
+<h2 id="page-975">Page 975<a class="anchor" href="#page-975">#</a></h2>
 <p>NS43 ‘Neurosurgery</p>
 <p>Dandy-Walker Malformation</p>
 <p>Definition</p>
@@ -4256,5 +4280,19 @@ abnormalities) + cervical laminectomy, duraplasty</p>
   <footer>
     <p>Powered by Hugo | Toronto Notes 2025 繁體中文翻譯</p>
   </footer>
+  <script>
+    function toggleTheme() {
+      const html = document.documentElement;
+      const current = html.getAttribute('data-theme');
+      const next = current === 'dark' ? 'light' : 'dark';
+      html.setAttribute('data-theme', next);
+      localStorage.setItem('theme', next);
+    }
+    const saved = localStorage.getItem('theme');
+    if (saved) document.documentElement.setAttribute('data-theme', saved);
+    else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+      document.documentElement.setAttribute('data-theme', 'dark');
+    }
+  </script>
 </body>
 </html>

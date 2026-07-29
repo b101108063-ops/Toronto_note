@@ -5,31 +5,55 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>血液學 (Hematology) - Toronto Notes 2025 繁體中文</title>
   <style>
+    :root {
+      --bg-primary: #ffffff;
+      --bg-secondary: #f8fafc;
+      --text-primary: #1e293b;
+      --text-secondary: #64748b;
+      --accent: #2563eb;
+      --border: #e2e8f0;
+      --code-bg: #f1f5f9;
+      --link: #2563eb;
+      --link-visited: #5500bb;
+    }
+    [data-theme="dark"] {
+      --bg-primary: #1a1a2e;
+      --bg-secondary: #16162a;
+      --text-primary: #e4e4e7;
+      --text-secondary: #a1a1aa;
+      --accent: #93c5fd;
+      --border: #3f3f46;
+      --code-bg: #27272a;
+      --link: #93c5fd;
+      --link-visited: #c4b5fd;
+    }
     * { box-sizing: border-box; }
-    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; line-height: 1.6; color: #333; max-width: 900px; margin: 0 auto; padding: 20px; }
-    header { border-bottom: 2px solid #2563eb; padding-bottom: 10px; margin-bottom: 20px; }
-    header h1 { margin: 0; font-size: 1.5em; color: #2563eb; }
-    nav a { margin-right: 15px; color: #2563eb; text-decoration: none; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; line-height: 1.6; color: var(--text-primary); background: var(--bg-primary); max-width: 900px; margin: 0 auto; padding: 20px; }
+    header { border-bottom: 2px solid var(--accent); padding-bottom: 10px; margin-bottom: 20px; display: flex; justify-content: space-between; align-items: center; }
+    header h1 { margin: 0; font-size: 1.5em; color: var(--accent); }
+    nav a { margin-right: 15px; color: var(--link); text-decoration: none; }
     nav a:hover { text-decoration: underline; }
-    h1, h2, h3 { color: #1e293b; }
-    h1 { font-size: 1.8em; border-bottom: 1px solid #e2e8f0; padding-bottom: 8px; }
-    h2 { font-size: 1.4em; border-bottom: 1px solid #e2e8f0; padding-bottom: 5px; }
+    h1, h2, h3 { color: var(--text-primary); }
+    h1 { font-size: 1.8em; border-bottom: 1px solid var(--border); padding-bottom: 8px; }
+    h2 { font-size: 1.4em; border-bottom: 1px solid var(--border); padding-bottom: 5px; }
     h3 { font-size: 1.15em; }
-    pre { background: #f1f5f9; padding: 15px; border-radius: 6px; overflow-x: auto; }
-    code { background: #f1f5f9; padding: 2px 5px; border-radius: 3px; font-size: 0.9em; }
+    pre { background: var(--code-bg); padding: 15px; border-radius: 6px; overflow-x: auto; }
+    code { background: var(--code-bg); padding: 2px 5px; border-radius: 3px; font-size: 0.9em; }
     pre code { background: none; padding: 0; }
-    blockquote { border-left: 4px solid #2563eb; margin: 0; padding: 5px 15px; color: #64748b; background: #f8fafc; }
+    blockquote { border-left: 4px solid var(--accent); margin: 0; padding: 5px 15px; color: var(--text-secondary); background: var(--bg-secondary); }
     table { border-collapse: collapse; width: 100%; margin: 15px 0; }
-    th, td { border: 1px solid #cbd5e1; padding: 8px 12px; text-align: left; }
-    th { background: #f1f5f9; font-weight: 600; }
-    tr:nth-child(even) { background: #f8fafc; }
+    th, td { border: 1px solid var(--border); padding: 8px 12px; text-align: left; }
+    th { background: var(--bg-secondary); font-weight: 600; }
+    tr:nth-child(even) { background: var(--bg-secondary); }
     .content-body { line-height: 1.8; }
-    footer { border-top: 1px solid #e2e8f0; margin-top: 30px; padding-top: 15px; color: #64748b; font-size: 0.9em; }
-    .breadcrumb { font-size: 0.9em; color: #64748b; margin-bottom: 15px; }
-    .breadcrumb a { color: #2563eb; text-decoration: none; }
-    a { color: #2563eb; }
+    footer { border-top: 1px solid var(--border); margin-top: 30px; padding-top: 15px; color: var(--text-secondary); font-size: 0.9em; }
+    .breadcrumb { font-size: 0.9em; color: var(--text-secondary); margin-bottom: 15px; }
+    .breadcrumb a { color: var(--link); text-decoration: none; }
+    a { color: var(--link); }
     a:hover { text-decoration: underline; }
     img { max-width: 100%; height: auto; }
+    .theme-toggle { background: none; border: 1px solid var(--border); color: var(--text-primary); cursor: pointer; padding: 4px 10px; border-radius: 4px; font-size: 0.85em; }
+    .theme-toggle:hover { background: var(--bg-secondary); }
   </style>
 </head>
 <body>
@@ -38,6 +62,7 @@
       <a href="https://b101108063-ops.github.io/Toronto_note/">首頁</a>
       <a href="/Toronto_note/categories/">章節</a>
     </nav>
+    <button class="theme-toggle" onclick="toggleTheme()">🌙 暗色</button>
   </header>
 
   <main>
@@ -49,7 +74,7 @@
       <div class="content-body">
         <p><em>Toronto Notes 2025</em></p>
 <hr>
-<h2 id="導讀摘要">導讀摘要</h2>
+<h2 id="導讀摘要">導讀摘要<a class="anchor" href="#%e5%b0%8e%e8%ae%80%e6%91%98%e8%a6%81">#</a></h2>
 <ul>
 <li><strong>貧血（Anemia）</strong>：依 MCV 分類（Microcytic/Normocytic/Macrocytic）；包括 Iron deficiency anemia、Anemia of chronic disease、Thalassemia、Sickle cell disease、Megaloblastic anemia；診斷流程與治療原則</li>
 <li><strong>凝血障礙（Coagulation Disorders）</strong>：原發性止血障礙（ITP、HIT、von Willebrand disease）與續發性止血障礙（Hemophilia、DIC）；Virchow&rsquo;s Triad 與靜脈血栓栓塞症（VTE）</li>
@@ -58,8 +83,8 @@
 <li><strong>輸血醫學</strong>：Blood products 種類與適應症、輸血反應處置、Tumor lysis syndrome</li>
 </ul>
 <hr>
-<h2 id="血液學概論introduction-to-hematology">血液學概論（Introduction to Hematology）</h2>
-<h3 id="血液學範疇">血液學範疇</h3>
+<h2 id="血液學概論introduction-to-hematology">血液學概論（Introduction to Hematology）<a class="anchor" href="#%e8%a1%80%e6%b6%b2%e5%ad%b8%e6%a6%82%e8%ab%96introduction-to-hematology">#</a></h2>
+<h3 id="血液學範疇">血液學範疇<a class="anchor" href="#%e8%a1%80%e6%b6%b2%e5%ad%b8%e7%af%84%e7%96%87">#</a></h3>
 <p>血液學（Hematology）涵蓋血液及造血器官疾病的診斷與治療，包括：</p>
 <ul>
 <li><strong>紅血球疾病</strong>：Anemia、Erythrocytosis</li>
@@ -67,7 +92,7 @@
 <li><strong>血小板及凝血疾病</strong>：Thrombocytopenia、Thrombocytosis、Coagulation disorders、Thrombophilia</li>
 <li><strong>造血系統腫瘤</strong>：Myeloproliferative neoplasms、Lymphoproliferative disorders</li>
 </ul>
-<h3 id="血液學診斷工具">血液學診斷工具</h3>
+<h3 id="血液學診斷工具">血液學診斷工具<a class="anchor" href="#%e8%a1%80%e6%b6%b2%e5%ad%b8%e8%a8%ba%e6%96%b7%e5%b7%a5%e5%85%b7">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -107,8 +132,8 @@
   </tbody>
 </table>
 <hr>
-<h2 id="貧血anemia">貧血（Anemia）</h2>
-<h3 id="定義">定義</h3>
+<h2 id="貧血anemia">貧血（Anemia）<a class="anchor" href="#%e8%b2%a7%e8%a1%80anemia">#</a></h2>
+<h3 id="定義">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9">#</a></h3>
 <ul>
 <li>RBC mass 減少，可由 Hb concentration、Hct、RBC count 檢測出來
 <ul>
@@ -117,7 +142,7 @@
 </ul>
 </li>
 </ul>
-<h3 id="臨床表現">臨床表現</h3>
+<h3 id="臨床表現">臨床表現<a class="anchor" href="#%e8%87%a8%e5%ba%8a%e8%a1%a8%e7%8f%be">#</a></h3>
 <p><strong>病史詢問</strong>：</p>
 <ul>
 <li>Anemia 症狀：fatigue、headache、light-headedness、malaise、weakness、decreased exercise tolerance、dyspnea、palpitations、dizziness、tinnitus、syncope</li>
@@ -133,7 +158,7 @@
 <li>皮膚：ecchymosis、petechiae、Hb &lt;75 g/L 時掌紋蒼白、hemolysis 導致 jaundice、指甲變化（spooning）、glossitis</li>
 <li>脾臟與淋巴結：splenomegaly、lymphadenopathy</li>
 </ul>
-<h3 id="診斷檢查">診斷檢查</h3>
+<h3 id="診斷檢查">診斷檢查<a class="anchor" href="#%e8%a8%ba%e6%96%b7%e6%aa%a2%e6%9f%a5">#</a></h3>
 <ul>
 <li>
 <p>排除稀釋性貧血（循環容量增加導致 Hb 降低）</p>
@@ -151,12 +176,12 @@
 <p><strong>注意</strong>：可能同時有多種營養缺乏，導致混合型貧血</p>
 </li>
 </ul>
-<h3 id="治療原則">治療原則</h3>
+<h3 id="治療原則">治療原則<a class="anchor" href="#%e6%b2%bb%e7%99%82%e5%8e%9f%e5%89%87">#</a></h3>
 <ul>
 <li>治療根本原因（見各貧血亞型章節）</li>
 </ul>
 <hr>
-<h3 id="網狀紅血球reticulocytes">網狀紅血球（Reticulocytes）</h3>
+<h3 id="網狀紅血球reticulocytes">網狀紅血球（Reticulocytes）<a class="anchor" href="#%e7%b6%b2%e7%8b%80%e7%b4%85%e8%a1%80%e7%90%83reticulocytes">#</a></h3>
 <p>Reticulocytes 是未成熟的紅血球，是紅血球生成的指標。</p>
 <p><strong>判讀要點</strong>：</p>
 <ul>
@@ -167,12 +192,12 @@
 <li>貧血合併 reticulocytosis 提示骨髓有適當反應</li>
 </ul>
 <hr>
-<h2 id="紅血球增多症erythrocytosis">紅血球增多症（Erythrocytosis）</h2>
-<h3 id="定義-1">定義</h3>
+<h2 id="紅血球增多症erythrocytosis">紅血球增多症（Erythrocytosis）<a class="anchor" href="#%e7%b4%85%e8%a1%80%e7%90%83%e5%a2%9e%e5%a4%9a%e7%97%87erythrocytosis">#</a></h2>
+<h3 id="定義-1">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-1">#</a></h3>
 <ul>
 <li>Hb 及/或 Hct 增加：Males Hb &gt;165 g/L 或 Hct &gt;49%；Females Hb &gt;160 g/L 或 Hct &gt;48%</li>
 </ul>
-<h3 id="病因分類">病因分類</h3>
+<h3 id="病因分類">病因分類<a class="anchor" href="#%e7%97%85%e5%9b%a0%e5%88%86%e9%a1%9e">#</a></h3>
 <p><strong>Table 1. Erythrocytosis 的病因</strong></p>
 <table>
   <thead>
@@ -200,7 +225,7 @@
       </tr>
   </tbody>
 </table>
-<h3 id="臨床表現-1">臨床表現</h3>
+<h3 id="臨床表現-1">臨床表現<a class="anchor" href="#%e8%87%a8%e5%ba%8a%e8%a1%a8%e7%8f%be-1">#</a></h3>
 <ul>
 <li>高紅血球 mass 與高血液黏滯度導致：
 <ul>
@@ -211,7 +236,7 @@
 <li>血栓（靜脈或動脈）或出血（MPNs 合併 acquired VWD 或 acquired platelet dysfunction）</li>
 <li>理學發現：Splenomegaly + hepatomegaly、面部發紺/紅潤（70%）或掌心發紅、Gout</li>
 </ul>
-<h3 id="診斷檢查-1">診斷檢查</h3>
+<h3 id="診斷檢查-1">診斷檢查<a class="anchor" href="#%e8%a8%ba%e6%96%b7%e6%aa%a2%e6%9f%a5-1">#</a></h3>
 <ul>
 <li><strong>血清 EPO</strong>：區分原發性（低/正常）與其他病因（升高）
 <ul>
@@ -225,7 +250,7 @@
 </li>
 <li><strong>Ferritin</strong>：Iron deficiency 可能掩盖診斷；Iron deficiency 合併 reticulocytosis 提示 PV</li>
 </ul>
-<h3 id="治療">治療</h3>
+<h3 id="治療">治療<a class="anchor" href="#%e6%b2%bb%e7%99%82">#</a></h3>
 <ul>
 <li><strong>原發性</strong>：見 Polycythemia Vera 章節</li>
 <li><strong>繼發性</strong>：治療根本原因
@@ -237,17 +262,17 @@
 </li>
 </ul>
 <hr>
-<h2 id="血小板減少症thrombocytopenia">血小板減少症（Thrombocytopenia）</h2>
-<h3 id="定義-2">定義</h3>
+<h2 id="血小板減少症thrombocytopenia">血小板減少症（Thrombocytopenia）<a class="anchor" href="#%e8%a1%80%e5%b0%8f%e6%9d%bf%e6%b8%9b%e5%b0%91%e7%97%87thrombocytopenia">#</a></h2>
+<h3 id="定義-2">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-2">#</a></h3>
 <ul>
 <li>Platelet count &lt;150 × 10⁹/L</li>
 </ul>
-<h3 id="臨床表現-2">臨床表現</h3>
+<h3 id="臨床表現-2">臨床表現<a class="anchor" href="#%e8%87%a8%e5%ba%8a%e8%a1%a8%e7%8f%be-2">#</a></h3>
 <ul>
 <li><strong>病史</strong>：Mucocutaneous bleeding（容易瘀青、齒齦出血）、Epistaxis、術後出血（包括牙科處置）、月經過多、圍產期出血、GI bleeding</li>
 <li><strong>理學檢查</strong>：Bruising、Petechiae、Ecchymoses、Non-palpable purpura、Wet purpura</li>
 </ul>
-<h3 id="診斷檢查-2">診斷檢查</h3>
+<h3 id="診斷檢查-2">診斷檢查<a class="anchor" href="#%e8%a8%ba%e6%96%b7%e6%aa%a2%e6%9f%a5-2">#</a></h3>
 <ul>
 <li><strong>CBC and differential</strong></li>
 <li><strong>Blood film</strong>
@@ -268,7 +293,7 @@
 <li>單獨血小板減少 → 免疫媒介process</li>
 <li>住院患者：藥物與感染是最常見原因</li>
 </ul>
-<h3 id="治療-1">治療</h3>
+<h3 id="治療-1">治療<a class="anchor" href="#%e6%b2%bb%e7%99%82-1">#</a></h3>
 <ul>
 <li><strong>危及生命的出血</strong>：Platelet transfusion（輸注後 1 小時重複 CBC 確認計數上升）</li>
 <li><strong>繼發性</strong>：治療根本原因</li>
@@ -276,47 +301,47 @@
 <li>HIT：見 HIT 章節</li>
 </ul>
 <hr>
-<h2 id="血小板增多症thrombocytosis">血小板增多症（Thrombocytosis）</h2>
-<h3 id="定義-3">定義</h3>
+<h2 id="血小板增多症thrombocytosis">血小板增多症（Thrombocytosis）<a class="anchor" href="#%e8%a1%80%e5%b0%8f%e6%9d%bf%e5%a2%9e%e5%a4%9a%e7%97%87thrombocytosis">#</a></h2>
+<h3 id="定義-3">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-3">#</a></h3>
 <ul>
 <li>Platelet count &gt;450 × 10⁹/L</li>
 </ul>
-<h3 id="病因分類-1">病因分類</h3>
+<h3 id="病因分類-1">病因分類<a class="anchor" href="#%e7%97%85%e5%9b%a0%e5%88%86%e9%a1%9e-1">#</a></h3>
 <ul>
 <li><strong>原發性血小板增多（罕見）</strong>：MPNs 引起（如 CML、PV、Primary MF、ET；少見於 MDS）</li>
 <li><strong>反應性/次發性血小板增多（常見）</strong>：急性期反應（手術、發炎、感染、外傷、出血、Iron deficiency、腫瘤、缺血性損傷、Hyposplenia/Asplenia）</li>
 </ul>
-<h3 id="臨床表現-3">臨床表現</h3>
+<h3 id="臨床表現-3">臨床表現<a class="anchor" href="#%e8%87%a8%e5%ba%8a%e8%a1%a8%e7%8f%be-3">#</a></h3>
 <ul>
 <li><strong>病史</strong>：外傷、手術、脾切除、感染、發炎、出血、Iron deficiency、慢性血液疾病病史、 constitutional symptoms（恶性肿瘤）</li>
 <li><strong>血管運動症狀</strong>：Headache、Visual disturbances、Lightheadedness、Atypical chest pain、Acral dysesthesia、Erythromelalgia、Livedo reticularis、Aquagenic pruritus</li>
 <li>血栓風險、出血風險（罕見）</li>
 <li><strong>理學檢查</strong>：MPNs 患者常見 splenomegaly</li>
 </ul>
-<h3 id="診斷檢查-3">診斷檢查</h3>
+<h3 id="診斷檢查-3">診斷檢查<a class="anchor" href="#%e8%a8%ba%e6%96%b7%e6%aa%a2%e6%9f%a5-3">#</a></h3>
 <ul>
 <li>CBC and differential、Peripheral blood film、Serum ferritin</li>
 <li>發炎或感染的非特異標記（CRP、ESR、Ferritin）</li>
 <li>排除反應性過程後，可能需要 BM biopsy 排除 MPN/MDS</li>
 </ul>
-<h3 id="治療-2">治療</h3>
+<h3 id="治療-2">治療<a class="anchor" href="#%e6%b2%bb%e7%99%82-2">#</a></h3>
 <ul>
 <li><strong>原發性</strong>：Aspirin + Cytoreductive agents（hydroxyurea、anagrelide、interferon-α）</li>
 <li><strong>次發性</strong>：治療根本原因</li>
 </ul>
 <hr>
-<h2 id="全血球減少症pancytopenia">全血球減少症（Pancytopenia）</h2>
-<h3 id="定義-4">定義</h3>
+<h2 id="全血球減少症pancytopenia">全血球減少症（Pancytopenia）<a class="anchor" href="#%e5%85%a8%e8%a1%80%e7%90%83%e6%b8%9b%e5%b0%91%e7%97%87pancytopenia">#</a></h2>
+<h3 id="定義-4">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-4">#</a></h3>
 <ul>
 <li>所有造血細胞系低於正常參考範圍</li>
 </ul>
-<h3 id="臨床表現-4">臨床表現</h3>
+<h3 id="臨床表現-4">臨床表現<a class="anchor" href="#%e8%87%a8%e5%ba%8a%e8%a1%a8%e7%8f%be-4">#</a></h3>
 <ul>
 <li><strong>Anemia</strong>：Fatigue（見 Anemia 章節）</li>
 <li><strong>Leukopenia</strong>：復發性感染（見 Neutropenia 章節）</li>
 <li><strong>Thrombocytopenia</strong>：Mucocutaneous bleeding（見 Thrombocytopenia 章節）</li>
 </ul>
-<h3 id="診斷檢查-4">診斷檢查</h3>
+<h3 id="診斷檢查-4">診斷檢查<a class="anchor" href="#%e8%a8%ba%e6%96%b7%e6%aa%a2%e6%9f%a5-4">#</a></h3>
 <ul>
 <li>CBC and differential、Peripheral blood film、Serum ferritin、Reticulocyte count、PT、PTT、Blood type and screen、Complete metabolic panel、B12、Folate</li>
 <li>發炎或感染的非特異標記</li>
@@ -324,12 +349,12 @@
 <li>排除次發性過程後，可能需要 BM biopsy</li>
 </ul>
 <hr>
-<h2 id="嗜中性球增多症neutrophilia">嗜中性球增多症（Neutrophilia）</h2>
-<h3 id="定義-5">定義</h3>
+<h2 id="嗜中性球增多症neutrophilia">嗜中性球增多症（Neutrophilia）<a class="anchor" href="#%e5%97%9c%e4%b8%ad%e6%80%a7%e7%90%83%e5%a2%9e%e5%a4%9a%e7%97%87neutrophilia">#</a></h2>
+<h3 id="定義-5">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-5">#</a></h3>
 <ul>
 <li>Variable definition，一般 ANC &gt;7.7 × 10⁹/L（WHO 定義）</li>
 </ul>
-<h3 id="病因分類-2">病因分類</h3>
+<h3 id="病因分類-2">病因分類<a class="anchor" href="#%e7%97%85%e5%9b%a0%e5%88%86%e9%a1%9e-2">#</a></h3>
 <p><strong>Table 2. Neutrophilia 的病因</strong></p>
 <table>
   <thead>
@@ -349,24 +374,24 @@
       </tr>
   </tbody>
 </table>
-<h3 id="臨床表現-5">臨床表現</h3>
+<h3 id="臨床表現-5">臨床表現<a class="anchor" href="#%e8%87%a8%e5%ba%8a%e8%a1%a8%e7%8f%be-5">#</a></h3>
 <ul>
 <li>評估發燒、發炎、惡性腫瘤症狀以決定進一步檢查（包括 LAD 與 organomegaly）</li>
 <li>檢查口腔、牙齒、肛門周圍、生殖器、皮膚是否有感染跡象</li>
 </ul>
-<h3 id="診斷檢查-5">診斷檢查</h3>
+<h3 id="診斷檢查-5">診斷檢查<a class="anchor" href="#%e8%a8%ba%e6%96%b7%e6%aa%a2%e6%9f%a5-5">#</a></h3>
 <ul>
 <li>CBC and differential：Mature neutrophils 或 bands &gt;20% 提示感染/發炎</li>
 <li>Blood film：Left shifted WBCs、Döhle bodies（由聚集核糖體組成的胞質內結構）、Toxic granulation、Cytoplasmic vacuoles（感染時）</li>
 <li>疑似 MPN 時可能需要 BM biopsy</li>
 </ul>
-<h3 id="治療-3">治療</h3>
+<h3 id="治療-3">治療<a class="anchor" href="#%e6%b2%bb%e7%99%82-3">#</a></h3>
 <ul>
 <li>針對根本原因治療</li>
 </ul>
 <hr>
-<h2 id="嗜中性球減少症neutropenia">嗜中性球減少症（Neutropenia）</h2>
-<h3 id="定義-6">定義</h3>
+<h2 id="嗜中性球減少症neutropenia">嗜中性球減少症（Neutropenia）<a class="anchor" href="#%e5%97%9c%e4%b8%ad%e6%80%a7%e7%90%83%e6%b8%9b%e5%b0%91%e7%97%87neutropenia">#</a></h2>
+<h3 id="定義-6">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-6">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -395,7 +420,7 @@
 </table>
 <p><strong>ANC 計算</strong>：ANC = WBC count × (%PMNs + %Bands)</p>
 <p><strong>注意</strong>：發燒合併 ANC &lt;0.5 × 10⁹/L = <strong>febrile neutropenia</strong>，需要緊急處理</p>
-<h3 id="病因分類-3">病因分類</h3>
+<h3 id="病因分類-3">病因分類<a class="anchor" href="#%e7%97%85%e5%9b%a0%e5%88%86%e9%a1%9e-3">#</a></h3>
 <p><strong>Table 3. Neutropenia 的病因</strong></p>
 <table>
   <thead>
@@ -438,18 +463,18 @@
       </tr>
   </tbody>
 </table>
-<h3 id="治療-4">治療</h3>
+<h3 id="治療-4">治療<a class="anchor" href="#%e6%b2%bb%e7%99%82-4">#</a></h3>
 <ul>
 <li>針對根本原因治療</li>
 <li>重度/極重度 neutropenia：見 Neutropenic Fever 章節（感染科）</li>
 </ul>
 <hr>
-<h2 id="微小球性貧血microcytic-anemia">微小球性貧血（Microcytic Anemia）</h2>
+<h2 id="微小球性貧血microcytic-anemia">微小球性貧血（Microcytic Anemia）<a class="anchor" href="#%e5%be%ae%e5%b0%8f%e7%90%83%e6%80%a7%e8%b2%a7%e8%a1%80microcytic-anemia">#</a></h2>
 <ul>
 <li>MCV &lt;80 fL</li>
 <li>常見原因：<strong>Iron deficiency</strong>、Anemia of chronic disease、Thalassemia、Sideroblastic anemia、Lead poisoning</li>
 </ul>
-<h3 id="鐵缺乏性貧血iron-deficiency-anemia">鐵缺乏性貧血（Iron Deficiency Anemia）</h3>
+<h3 id="鐵缺乏性貧血iron-deficiency-anemia">鐵缺乏性貧血（Iron Deficiency Anemia）<a class="anchor" href="#%e9%90%b5%e7%bc%ba%e4%b9%8f%e6%80%a7%e8%b2%a7%e8%a1%80iron-deficiency-anemia">#</a></h3>
 <p><strong>病因</strong>：</p>
 <ul>
 <li>慢性失血（月經、GI bleeding、泌尿道失血）</li>
@@ -548,7 +573,7 @@
 </li>
 </ul>
 <hr>
-<h3 id="慢性病貧血anemia-of-chronic-disease">慢性病貧血（Anemia of Chronic Disease）</h3>
+<h3 id="慢性病貧血anemia-of-chronic-disease">慢性病貧血（Anemia of Chronic Disease）<a class="anchor" href="#%e6%85%a2%e6%80%a7%e7%97%85%e8%b2%a7%e8%a1%80anemia-of-chronic-disease">#</a></h3>
 <p><strong>又稱</strong>：Anemia of inflammation</p>
 <p><strong>病因</strong>：</p>
 <ul>
@@ -591,7 +616,7 @@
 <li>EPO 適用於慢性腎衰竭；確保 Hb 目標 &lt;110 g/L（目標較高會增加血管事件/缺血性中風風險）</li>
 </ul>
 <hr>
-<h3 id="鐵粒幼紅血球性貧血sideroblastic-anemia">鐵粒幼紅血球性貧血（Sideroblastic Anemia）</h3>
+<h3 id="鐵粒幼紅血球性貧血sideroblastic-anemia">鐵粒幼紅血球性貧血（Sideroblastic Anemia）<a class="anchor" href="#%e9%90%b5%e7%b2%92%e5%b9%bc%e7%b4%85%e8%a1%80%e7%90%83%e6%80%a7%e8%b2%a7%e8%a1%80sideroblastic-anemia">#</a></h3>
 <p><strong>定義</strong>：</p>
 <ul>
 <li>因紅血球前驅細胞中 heme 生合成缺陷導致</li>
@@ -638,7 +663,7 @@
 <li>監測 Iron overload（無效紅血球生成和/或輸血驅動）</li>
 </ul>
 <hr>
-<h3 id="鉛中毒lead-poisoning">鉛中毒（Lead Poisoning）</h3>
+<h3 id="鉛中毒lead-poisoning">鉛中毒（Lead Poisoning）<a class="anchor" href="#%e9%89%9b%e4%b8%ad%e6%af%92lead-poisoning">#</a></h3>
 <p><strong>定義/病因</strong>：</p>
 <ul>
 <li>Blood lead levels &gt;80 μg/dL，症狀可能在 50 μg/dL 出現</li>
@@ -660,11 +685,11 @@
 <li><strong>D</strong>：Drops（wrist and foot drop）</li>
 </ul>
 <hr>
-<h2 id="正球性貧血normocytic-anemia">正球性貧血（Normocytic Anemia）</h2>
+<h2 id="正球性貧血normocytic-anemia">正球性貧血（Normocytic Anemia）<a class="anchor" href="#%e6%ad%a3%e7%90%83%e6%80%a7%e8%b2%a7%e8%a1%80normocytic-anemia">#</a></h2>
 <ul>
 <li>MCV 80-100 fL</li>
 </ul>
-<h3 id="再生不良性貧血aplastic-anemia">再生不良性貧血（Aplastic Anemia）</h3>
+<h3 id="再生不良性貧血aplastic-anemia">再生不良性貧血（Aplastic Anemia）<a class="anchor" href="#%e5%86%8d%e7%94%9f%e4%b8%8d%e8%89%af%e6%80%a7%e8%b2%a7%e8%a1%80aplastic-anemia">#</a></h3>
 <p><strong>定義</strong>：</p>
 <ul>
 <li>骨髓造血細胞破壞導致 pancytopenia 和 hypocellular marrow</li>
@@ -751,13 +776,13 @@
 <li>Eltrombopag（TPO 受體激動劑）證實有效；G-CSF 和 EPO 無效</li>
 </ul>
 <hr>
-<h2 id="溶血性貧血hemolytic-anemia">溶血性貧血（Hemolytic Anemia）</h2>
-<h3 id="定義-7">定義</h3>
+<h2 id="溶血性貧血hemolytic-anemia">溶血性貧血（Hemolytic Anemia）<a class="anchor" href="#%e6%ba%b6%e8%a1%80%e6%80%a7%e8%b2%a7%e8%a1%80hemolytic-anemia">#</a></h2>
+<h3 id="定義-7">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-7">#</a></h3>
 <ul>
 <li>因 RBC 破壞導致壽命縮短（通常 &lt;100 天）的貧血</li>
 <li>罕見病因（&lt;5%）但病因眾多（&gt;200 種）</li>
 </ul>
-<h3 id="分類">分類</h3>
+<h3 id="分類">分類<a class="anchor" href="#%e5%88%86%e9%a1%9e">#</a></h3>
 <p><strong>Table 6. Hemolytic Anemia 的分類</strong></p>
 <table>
   <thead>
@@ -781,14 +806,14 @@
       </tr>
   </tbody>
 </table>
-<h3 id="血管內-vs-血管外溶血">血管內 vs. 血管外溶血</h3>
+<h3 id="血管內-vs-血管外溶血">血管內 vs. 血管外溶血<a class="anchor" href="#%e8%a1%80%e7%ae%a1%e5%85%a7-vs-%e8%a1%80%e7%ae%a1%e5%a4%96%e6%ba%b6%e8%a1%80">#</a></h3>
 <ul>
 <li><strong>Intravascular</strong>：TMA 和 PNH（補體媒介）</li>
 <li><strong>Extravascular</strong>：RBCs 被 Ab 覆蓋或膜結構/形狀異常或有包涵體</li>
 <li>感染可引起血管內（Clostridium）、血管外或兩者（Malaria）</li>
 </ul>
 <p><strong>Blood film 特徵</strong>：Schistocytes 反映血管內溶血；Spherocytes 通常反映血管外溶血</p>
-<h3 id="臨床表現-6">臨床表現</h3>
+<h3 id="臨床表現-6">臨床表現<a class="anchor" href="#%e8%87%a8%e5%ba%8a%e8%a1%a8%e7%8f%be-6">#</a></h3>
 <ul>
 <li>Jaundice</li>
 <li>Dark urine（Hemoglobinuria、Bilirubinuria）</li>
@@ -797,7 +822,7 @@
 <li>Extravascular hemolysis：Iron overload</li>
 <li>Intravascular hemolysis：Iron deficiency</li>
 </ul>
-<h3 id="診斷檢查-6">診斷檢查</h3>
+<h3 id="診斷檢查-6">診斷檢查<a class="anchor" href="#%e8%a8%ba%e6%96%b7%e6%aa%a2%e6%9f%a5-6">#</a></h3>
 <p><strong>Table 7. Hemolytic Anemia 的檢查</strong></p>
 <table>
   <thead>
@@ -843,8 +868,8 @@
 </li>
 </ul>
 <hr>
-<h2 id="海洋性貧血thalassemia">海洋性貧血（Thalassemia）</h2>
-<h3 id="定義-8">定義</h3>
+<h2 id="海洋性貧血thalassemia">海洋性貧血（Thalassemia）<a class="anchor" href="#%e6%b5%b7%e6%b4%8b%e6%80%a7%e8%b2%a7%e8%a1%80thalassemia">#</a></h2>
+<h3 id="定義-8">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-8">#</a></h3>
 <ul>
 <li>α 或 β 鏈 Hb 生產缺陷</li>
 <li>球蛋白鏈不平衡導致無效紅血球生成和溶血</li>
@@ -870,7 +895,7 @@
 <li>β-thalassemia：地中海（South Asia 也常見）</li>
 <li>α-thalassemia：東南亞（SEA）和非洲</li>
 </ul>
-<h3 id="β-地中海型輕型β-thalassemia-minor--trait">β-地中海型輕型（β-Thalassemia Minor / Trait）</h3>
+<h3 id="β-地中海型輕型β-thalassemia-minor--trait">β-地中海型輕型（β-Thalassemia Minor / Trait）<a class="anchor" href="#%ce%b2-%e5%9c%b0%e4%b8%ad%e6%b5%b7%e5%9e%8b%e8%bc%95%e5%9e%8b%ce%b2-thalassemia-minor--trait">#</a></h3>
 <p><strong>定義</strong>：</p>
 <ul>
 <li>單一 β 基因等位基因缺陷（異型合子）</li>
@@ -896,7 +921,7 @@
 <li>為患者和家屬提供遺傳諮詢</li>
 </ul>
 <hr>
-<h3 id="β-地中海型重型β-thalassemia-major">β-地中海型重型（β-Thalassemia Major）</h3>
+<h3 id="β-地中海型重型β-thalassemia-major">β-地中海型重型（β-Thalassemia Major）<a class="anchor" href="#%ce%b2-%e5%9c%b0%e4%b8%ad%e6%b5%b7%e5%9e%8b%e9%87%8d%e5%9e%8b%ce%b2-thalassemia-major">#</a></h3>
 <p><strong>定義</strong>：</p>
 <ul>
 <li>兩個 β 基因等位基因均缺陷（homzygous，自體隱性）</li>
@@ -955,7 +980,7 @@
 <li>脾切除（現在較少執行）</li>
 </ul>
 <hr>
-<h3 id="α-地中海型貧血α-thalassemia">α-地中海型貧血（α-Thalassemia）</h3>
+<h3 id="α-地中海型貧血α-thalassemia">α-地中海型貧血（α-Thalassemia）<a class="anchor" href="#%ce%b1-%e5%9c%b0%e4%b8%ad%e6%b5%b7%e5%9e%8b%e8%b2%a7%e8%a1%80%ce%b1-thalassemia">#</a></h3>
 <p><strong>定義</strong>：</p>
 <ul>
 <li>α 基因缺陷</li>
@@ -1012,8 +1037,8 @@
 </li>
 </ul>
 <hr>
-<h2 id="鐮刀型紅血球疾病sickle-cell-disease">鐮刀型紅血球疾病（Sickle Cell Disease）</h2>
-<h3 id="定義-9">定義</h3>
+<h2 id="鐮刀型紅血球疾病sickle-cell-disease">鐮刀型紅血球疾病（Sickle Cell Disease）<a class="anchor" href="#%e9%90%ae%e5%88%80%e5%9e%8b%e7%b4%85%e8%a1%80%e7%90%83%e7%96%be%e7%97%85sickle-cell-disease">#</a></h2>
+<h3 id="定義-9">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-9">#</a></h3>
 <ul>
 <li>自體隱性 sickling disorder，最常見原因是 β-球蛋白鏈第 6 位的 Glu → Val 取代
 <ul>
@@ -1023,7 +1048,7 @@
 <li>HbS 等位基因在 Sub-Saharan African、Indian、Middle Eastern 或 Mediterranean 遺產患者中發生率較高（被认为對瘧疾有保護作用）</li>
 <li>SCD 發生於個體有兩個 HbS 基因（homozygous，HbSS）或一個 HbS 基因 + 另一個突變 β-球蛋白基因（compound heterozygote）- 最常見 HbS-β-thal 和 HbSC disease</li>
 </ul>
-<h3 id="病理生理學">病理生理學</h3>
+<h3 id="病理生理學">病理生理學<a class="anchor" href="#%e7%97%85%e7%90%86%e7%94%9f%e7%90%86%e5%ad%b8">#</a></h3>
 <ul>
 <li>在低 pO₂ 時，deoxyHbS 聚合導致剛性水晶樣桿狀結構扭曲細胞膜成為「sickles」</li>
 <li>Sickling 程度與存在的 HbS 百分比相關</li>
@@ -1035,7 +1060,7 @@
 </ol>
 </li>
 </ul>
-<h3 id="臨床表現-7">臨床表現</h3>
+<h3 id="臨床表現-7">臨床表現<a class="anchor" href="#%e8%87%a8%e5%ba%8a%e8%a1%a8%e7%8f%be-7">#</a></h3>
 <p><strong>Sickle Cell Trait（HbAS）</strong>：</p>
 <ul>
 <li>無症狀（除非極端缺氧或感染）</li>
@@ -1082,7 +1107,7 @@
 <li>比 HbSS 貧血更輕</li>
 <li>併發症類似 HbSS 但通常更輕、更少（例外：增生性鐮刀型視網膜病變、腎小球腎炎、avascular necrosis）</li>
 </ul>
-<h3 id="診斷檢查-7">診斷檢查</h3>
+<h3 id="診斷檢查-7">診斷檢查<a class="anchor" href="#%e8%a8%ba%e6%96%b7%e6%aa%a2%e6%9f%a5-7">#</a></h3>
 <ul>
 <li><strong>Sickle cell prep</strong>：檢測 RBC 在降低 O₂ 劑下的 sickling；確定 HbS 等位基因存在，但無法區分 HbAS 與 HbSS</li>
 <li><strong>CBC</strong>：Hb、Hct、RBC count、網狀紅血球</li>
@@ -1094,7 +1119,7 @@
 </ul>
 </li>
 </ul>
-<h3 id="治療-5">治療</h3>
+<h3 id="治療-5">治療<a class="anchor" href="#%e6%b2%bb%e7%99%82-5">#</a></h3>
 <ul>
 <li><strong>急性疼痛處理</strong>：Hydration、Pain control、氧氣（若缺氧）</li>
 <li><strong>Hydroxicarbamide（Hydroxyurea）</strong>：增加 HbF 產生；減少疼痛 crisis 和 acute chest syndrome</li>
@@ -1106,11 +1131,11 @@
 <li><strong>BM 移植</strong>：可治癒（年輕患者、有完全匹配的捐贈者）</li>
 </ul>
 <hr>
-<h2 id="巨球性貧血macrocytic-anemia">巨球性貧血（Macrocytic Anemia）</h2>
+<h2 id="巨球性貧血macrocytic-anemia">巨球性貧血（Macrocytic Anemia）<a class="anchor" href="#%e5%b7%a8%e7%90%83%e6%80%a7%e8%b2%a7%e8%a1%80macrocytic-anemia">#</a></h2>
 <ul>
 <li>MCV &gt;100 fL</li>
 </ul>
-<h3 id="維生素-b12-缺乏b12-deficiency">維生素 B12 缺乏（B12 Deficiency）</h3>
+<h3 id="維生素-b12-缺乏b12-deficiency">維生素 B12 缺乏（B12 Deficiency）<a class="anchor" href="#%e7%b6%ad%e7%94%9f%e7%b4%a0-b12-%e7%bc%ba%e4%b9%8fb12-deficiency">#</a></h3>
 <p><strong>病因</strong>：</p>
 <p><strong>Table 10. B12 缺乏的病因</strong></p>
 <table>
@@ -1189,7 +1214,7 @@
 <li>治療嚴重 megaloblastic anemia 時注意低血鉀和反彈性血小板增多</li>
 </ul>
 <hr>
-<h3 id="葉酸缺乏folate-deficiency">葉酸缺乏（Folate Deficiency）</h3>
+<h3 id="葉酸缺乏folate-deficiency">葉酸缺乏（Folate Deficiency）<a class="anchor" href="#%e8%91%89%e9%85%b8%e7%bc%ba%e4%b9%8ffolate-deficiency">#</a></h3>
 <p><strong>病因</strong>：</p>
 <p><strong>Table 11. Folate 缺乏的病因</strong></p>
 <table>
@@ -1250,8 +1275,8 @@
 </ul>
 <p><strong>注意</strong>：絕對不要單獨給予葉酸治療 megaloblastic anemia，因為會掩盖 B12 缺乏而神經退化會繼續</p>
 <hr>
-<h2 id="凝血概論hemostasis">凝血概論（Hemostasis）</h2>
-<h3 id="止血階段">止血階段</h3>
+<h2 id="凝血概論hemostasis">凝血概論（Hemostasis）<a class="anchor" href="#%e5%87%9d%e8%a1%80%e6%a6%82%e8%ab%96hemostasis">#</a></h2>
+<h3 id="止血階段">止血階段<a class="anchor" href="#%e6%ad%a2%e8%a1%80%e9%9a%8e%e6%ae%b5">#</a></h3>
 <p><strong>1. 原發性止血（Primary Hemostasis）</strong></p>
 <ul>
 <li>由血小板和 VWF 媒介</li>
@@ -1280,7 +1305,7 @@
 <ul>
 <li>傷口癒合後，clot 溶解由 fibrinolytic system 媒介</li>
 </ul>
-<h3 id="常用凝血檢驗">常用凝血檢驗</h3>
+<h3 id="常用凝血檢驗">常用凝血檢驗<a class="anchor" href="#%e5%b8%b8%e7%94%a8%e5%87%9d%e8%a1%80%e6%aa%a2%e9%a9%97">#</a></h3>
 <p><strong>Table 12. 常用凝血檢驗</strong></p>
 <table>
   <thead>
@@ -1318,11 +1343,11 @@
       </tr>
   </tbody>
 </table>
-<h3 id="凝血因子">凝血因子</h3>
+<h3 id="凝血因子">凝血因子<a class="anchor" href="#%e5%87%9d%e8%a1%80%e5%9b%a0%e5%ad%90">#</a></h3>
 <p><strong>參與 PT 的因子</strong>：III（Tissue factor）、VII
 <strong>參與 aPTT 的因子</strong>：XII、XI、IX、VIII、X、V、II（Prothrombin）、I（Fibrinogen）
 <strong>共同途徑</strong>：X、V、II、I</p>
-<h3 id="出血性疾病的臨床表現">出血性疾病的臨床表現</h3>
+<h3 id="出血性疾病的臨床表現">出血性疾病的臨床表現<a class="anchor" href="#%e5%87%ba%e8%a1%80%e6%80%a7%e7%96%be%e7%97%85%e7%9a%84%e8%87%a8%e5%ba%8a%e8%a1%a8%e7%8f%be">#</a></h3>
 <p><strong>Table 13. 原發性 vs. 續發性止血障礙的特徵</strong></p>
 <table>
   <thead>
@@ -1356,8 +1381,8 @@
   </tbody>
 </table>
 <hr>
-<h2 id="原發性止血障礙disorders-of-primary-hemostasis">原發性止血障礙（Disorders of Primary Hemostasis）</h2>
-<h3 id="免疫性血小板減少紫斑症immune-thrombocytopenia-itp">免疫性血小板減少紫斑症（Immune Thrombocytopenia, ITP）</h3>
+<h2 id="原發性止血障礙disorders-of-primary-hemostasis">原發性止血障礙（Disorders of Primary Hemostasis）<a class="anchor" href="#%e5%8e%9f%e7%99%bc%e6%80%a7%e6%ad%a2%e8%a1%80%e9%9a%9c%e7%a4%99disorders-of-primary-hemostasis">#</a></h2>
+<h3 id="免疫性血小板減少紫斑症immune-thrombocytopenia-itp">免疫性血小板減少紫斑症（Immune Thrombocytopenia, ITP）<a class="anchor" href="#%e5%85%8d%e7%96%ab%e6%80%a7%e8%a1%80%e5%b0%8f%e6%9d%bf%e6%b8%9b%e5%b0%91%e7%b4%ab%e6%96%91%e7%97%87immune-thrombocytopenia-itp">#</a></h3>
 <p><strong>定義</strong>：</p>
 <ul>
 <li>因異常免疫反應導致血小板減少（見 Thrombocytopenia 章節）的疾病</li>
@@ -1368,7 +1393,7 @@
 <li><strong>次發性</strong>：ITP 與其他疾病相關（HIV、HCV、SLE、CLL）</li>
 <li><strong>藥物引起</strong>：藥物暴露導致抗血小板 Ab 引起的血小板破壞</li>
 </ul>
-<h3 id="肝素誘發血小板減少症heparin-induced-thrombocytopenia-hit">肝素誘發血小板減少症（Heparin-Induced Thrombocytopenia, HIT）</h3>
+<h3 id="肝素誘發血小板減少症heparin-induced-thrombocytopenia-hit">肝素誘發血小板減少症（Heparin-Induced Thrombocytopenia, HIT）<a class="anchor" href="#%e8%82%9d%e7%b4%a0%e8%aa%98%e7%99%bc%e8%a1%80%e5%b0%8f%e6%9d%bf%e6%b8%9b%e5%b0%91%e7%97%87heparin-induced-thrombocytopenia-hit">#</a></h3>
 <p><strong>定義</strong>：</p>
 <ul>
 <li>肝素暴露後出現血小板減少</li>
@@ -1402,8 +1427,8 @@
 <li>避免血小板輸血（可能加劇血栓）</li>
 </ul>
 <hr>
-<h2 id="續發性止血障礙disorders-of-secondary-hemostasis">續發性止血障礙（Disorders of Secondary Hemostasis）</h2>
-<h3 id="血友病hemophilia-a-and-b">血友病（Hemophilia A and B）</h3>
+<h2 id="續發性止血障礙disorders-of-secondary-hemostasis">續發性止血障礙（Disorders of Secondary Hemostasis）<a class="anchor" href="#%e7%ba%8c%e7%99%bc%e6%80%a7%e6%ad%a2%e8%a1%80%e9%9a%9c%e7%a4%99disorders-of-secondary-hemostasis">#</a></h2>
+<h3 id="血友病hemophilia-a-and-b">血友病（Hemophilia A and B）<a class="anchor" href="#%e8%a1%80%e5%8f%8b%e7%97%85hemophilia-a-and-b">#</a></h3>
 <p><strong>定義</strong>：</p>
 <ul>
 <li>X-染色體隱性遺傳的凝血因子缺乏</li>
@@ -1440,7 +1465,7 @@
 <li><strong>併發症管理</strong>：關節出血後康復；抑制物（inhibitors）形成時免疫耐受誘導</li>
 </ul>
 <hr>
-<h3 id="彌散性血管內凝血disseminated-intravascular-coagulation-dic">彌散性血管內凝血（Disseminated Intravascular Coagulation, DIC）</h3>
+<h3 id="彌散性血管內凝血disseminated-intravascular-coagulation-dic">彌散性血管內凝血（Disseminated Intravascular Coagulation, DIC）<a class="anchor" href="#%e5%bd%8c%e6%95%a3%e6%80%a7%e8%a1%80%e7%ae%a1%e5%85%a7%e5%87%9d%e8%a1%80disseminated-intravascular-coagulation-dic">#</a></h3>
 <p><strong>定義</strong>：</p>
 <ul>
 <li>全身性凝血和纖溶系統活化，導致廣泛微血管血栓和消耗性凝血病</li>
@@ -1476,8 +1501,8 @@
 <li><strong>血栓溶解</strong>：一般不建議</li>
 </ul>
 <hr>
-<h2 id="血栓形成傾向hypercoagulable-disorders">血栓形成傾向（Hypercoagulable Disorders）</h2>
-<h3 id="血栓形成傾向的檢查">血栓形成傾向的檢查</h3>
+<h2 id="血栓形成傾向hypercoagulable-disorders">血栓形成傾向（Hypercoagulable Disorders）<a class="anchor" href="#%e8%a1%80%e6%a0%93%e5%bd%a2%e6%88%90%e5%82%be%e5%90%91hypercoagulable-disorders">#</a></h2>
+<h3 id="血栓形成傾向的檢查">血栓形成傾向的檢查<a class="anchor" href="#%e8%a1%80%e6%a0%93%e5%bd%a2%e6%88%90%e5%82%be%e5%90%91%e7%9a%84%e6%aa%a2%e6%9f%a5">#</a></h3>
 <p><strong>何時考慮檢查</strong>：</p>
 <ul>
 <li>多次復發性血栓</li>
@@ -1490,7 +1515,7 @@
 <li><strong>初始</strong>：CBC、Blood smear、Coagulation studies、紅斑性狼瘡抗凝血劑、肝/腎功能、Urinalysis、溶血標記（貧血時）、惡性腫瘤史、年齡相關癌症篩檢、APLA血清學</li>
 <li><strong>治療後（或 ≥6 週）</strong>：Antithrombin 活性、Protein C、S 活性</li>
 </ul>
-<h3 id="遺傳性血栓形成傾向">遺傳性血栓形成傾向</h3>
+<h3 id="遺傳性血栓形成傾向">遺傳性血栓形成傾向<a class="anchor" href="#%e9%81%ba%e5%82%b3%e6%80%a7%e8%a1%80%e6%a0%93%e5%bd%a2%e6%88%90%e5%82%be%e5%90%91">#</a></h3>
 <p><strong>Factor V Leiden（Activated Protein C Resistance）</strong>：</p>
 <ul>
 <li>最常見的遺傳性血栓形成傾向</li>
@@ -1514,15 +1539,15 @@
 <li>自體顯性遺傳；Nephrotic syndrome 尿液丟失；肝病合成減少</li>
 <li>可能對 UFH 產生抗性（LMWH 可能有效，需監測 anti-Xa）</li>
 </ul>
-<h3 id="抗磷脂抗體症候群antiphospholipid-syndrome">抗磷脂抗體症候群（Antiphospholipid Syndrome）</h3>
+<h3 id="抗磷脂抗體症候群antiphospholipid-syndrome">抗磷脂抗體症候群（Antiphospholipid Syndrome）<a class="anchor" href="#%e6%8a%97%e7%a3%b7%e8%84%82%e6%8a%97%e9%ab%94%e7%97%87%e5%80%99%e7%be%a4antiphospholipid-syndrome">#</a></h3>
 <p><strong>診斷標準（Sapporo Criteria）</strong>：</p>
 <ul>
 <li><strong>臨床</strong>：動靜脈血栓、不明原因復發性早期流產（&lt;10 週 ≥3 次）、晚期胎兒死亡（&gt;10 週）、因子癲前期或胎盤功能不全導致 &lt;34 週早產</li>
 <li><strong>實驗室（需確認，間隔 &gt;12 週）</strong>：Anticardiolipin IgG/IgM、Anti-β2 glycoprotein-I Ab、Lupus anticoagulant</li>
 </ul>
 <hr>
-<h2 id="靜脈血栓栓塞症venous-thromboembolism-vte">靜脈血栓栓塞症（Venous Thromboembolism, VTE）</h2>
-<h3 id="定義-10">定義</h3>
+<h2 id="靜脈血栓栓塞症venous-thromboembolism-vte">靜脈血栓栓塞症（Venous Thromboembolism, VTE）<a class="anchor" href="#%e9%9d%9c%e8%84%88%e8%a1%80%e6%a0%93%e6%a0%93%e5%a1%9e%e7%97%87venous-thromboembolism-vte">#</a></h2>
+<h3 id="定義-10">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-10">#</a></h3>
 <ul>
 <li>淺層或深層靜脈中血栓形成及後續發炎反應</li>
 <li>包括淺層靜脈血栓、DVT 和 PE</li>
@@ -1531,7 +1556,7 @@
 <li>發生率：&gt;60 歲約 1%</li>
 <li>DVT 最重要後遺症：PE（約 50% 近端 DVT 併發）和 post-thrombotic syndrome（慢性靜脈功能不全）</li>
 </ul>
-<h3 id="病因virchows-triad">病因（Virchow&rsquo;s Triad）</h3>
+<h3 id="病因virchows-triad">病因（Virchow&rsquo;s Triad）<a class="anchor" href="#%e7%97%85%e5%9b%a0virchows-triad">#</a></h3>
 <ol>
 <li>
 <p><strong>內皮損傷</strong>：</p>
@@ -1555,7 +1580,7 @@
 </ul>
 </li>
 </ol>
-<h3 id="臨床表現-8">臨床表現</h3>
+<h3 id="臨床表現-8">臨床表現<a class="anchor" href="#%e8%87%a8%e5%ba%8a%e8%a1%a8%e7%8f%be-8">#</a></h3>
 <p><strong>DVT</strong>：</p>
 <ul>
 <li>小腿或大腿疼痛、腫脹、壓痛</li>
@@ -1569,7 +1594,7 @@
 <li>Tachycardia、Tachypnea、Low-grade fever</li>
 <li>Massive PE：Dyspnea、缺氧、Low blood pressure（Tachycardia）、右心衰竭徵象</li>
 </ul>
-<h3 id="診斷檢查-8">診斷檢查</h3>
+<h3 id="診斷檢查-8">診斷檢查<a class="anchor" href="#%e8%a8%ba%e6%96%b7%e6%aa%a2%e6%9f%a5-8">#</a></h3>
 <ul>
 <li>
 <p><strong>DVT</strong>：</p>
@@ -1589,7 +1614,7 @@
 </ul>
 </li>
 </ul>
-<h3 id="治療-6">治療</h3>
+<h3 id="治療-6">治療<a class="anchor" href="#%e6%b2%bb%e7%99%82-6">#</a></h3>
 <p><strong>急性 DVT/PE 治療（初始）</strong>：</p>
 <ul>
 <li><strong>Anticoagulation</strong>：
@@ -1627,8 +1652,8 @@
 <li><strong>Pharmacologic</strong>（術後確認止血後）：LMWH、UFH、DOAC</li>
 </ul>
 <hr>
-<h2 id="骨髓增生性腫瘤myeloproliferative-neoplasms-mpns">骨髓增生性腫瘤（Myeloproliferative Neoplasms, MPNs）</h2>
-<h3 id="概述">概述</h3>
+<h2 id="骨髓增生性腫瘤myeloproliferative-neoplasms-mpns">骨髓增生性腫瘤（Myeloproliferative Neoplasms, MPNs）<a class="anchor" href="#%e9%aa%a8%e9%ab%93%e5%a2%9e%e7%94%9f%e6%80%a7%e8%85%ab%e7%98%a4myeloproliferative-neoplasms-mpns">#</a></h2>
+<h3 id="概述">概述<a class="anchor" href="#%e6%a6%82%e8%bf%b0">#</a></h3>
 <ul>
 <li>克隆性骨髓幹細胞異常導致一個或多個血球系過度增殖（紅血球、血小板、骨髓系細胞）</li>
 </ul>
@@ -1699,7 +1724,7 @@
       </tr>
   </tbody>
 </table>
-<h3 id="慢性骨髓性白血病chronic-myeloid-leukemia-cml">慢性骨髓性白血病（Chronic Myeloid Leukemia, CML）</h3>
+<h3 id="慢性骨髓性白血病chronic-myeloid-leukemia-cml">慢性骨髓性白血病（Chronic Myeloid Leukemia, CML）<a class="anchor" href="#%e6%85%a2%e6%80%a7%e9%aa%a8%e9%ab%93%e6%80%a7%e7%99%bd%e8%a1%80%e7%97%85chronic-myeloid-leukemia-cml">#</a></h3>
 <p><strong>定義</strong>：</p>
 <ul>
 <li>粒細胞系增殖增加的骨髓增生性疾病，不喪失分化能力</li>
@@ -1761,7 +1786,7 @@
 </li>
 </ul>
 <hr>
-<h3 id="骨髓增生異常症候群myelodysplastic-syndromes-mds">骨髓增生異常症候群（Myelodysplastic Syndromes, MDS）</h3>
+<h3 id="骨髓增生異常症候群myelodysplastic-syndromes-mds">骨髓增生異常症候群（Myelodysplastic Syndromes, MDS）<a class="anchor" href="#%e9%aa%a8%e9%ab%93%e5%a2%9e%e7%94%9f%e7%95%b0%e5%b8%b8%e7%97%87%e5%80%99%e7%be%a4myelodysplastic-syndromes-mds">#</a></h3>
 <p><strong>定義</strong>：</p>
 <ul>
 <li>異質性惡性幹細胞疾病，特徵為發育異常和無效血液細胞生成，導致外週血球減少，轉化為急性白血病的風險不同</li>
@@ -1818,13 +1843,13 @@
 <li><strong>IPSS-M</strong> 整合突變分析以獲得更好的預後信息</li>
 </ul>
 <hr>
-<h2 id="急性骨髓性白血病acute-myeloid-leukemia-aml">急性骨髓性白血病（Acute Myeloid Leukemia, AML）</h2>
-<h3 id="定義-11">定義</h3>
+<h2 id="急性骨髓性白血病acute-myeloid-leukemia-aml">急性骨髓性白血病（Acute Myeloid Leukemia, AML）<a class="anchor" href="#%e6%80%a5%e6%80%a7%e9%aa%a8%e9%ab%93%e6%80%a7%e7%99%bd%e8%a1%80%e7%97%85acute-myeloid-leukemia-aml">#</a></h2>
+<h3 id="定義-11">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-11">#</a></h3>
 <ul>
 <li><strong>WHO 定義</strong>：外周血或骨髓中 ≥20% blast cells</li>
 <li>分類：根據 blasts 為 myeloid（AML）還是 lymphoid（ALL）分為兩類</li>
 </ul>
-<h3 id="典型白血病發病年齡">典型白血病發病年齡</h3>
+<h3 id="典型白血病發病年齡">典型白血病發病年齡<a class="anchor" href="#%e5%85%b8%e5%9e%8b%e7%99%bd%e8%a1%80%e7%97%85%e7%99%bc%e7%97%85%e5%b9%b4%e9%bd%a1">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -1848,7 +1873,7 @@
   </tbody>
 </table>
 <p><strong>Auer rods 是 AML 的 pathognomonic 標誌</strong></p>
-<h3 id="病理生理學-1">病理生理學</h3>
+<h3 id="病理生理學-1">病理生理學<a class="anchor" href="#%e7%97%85%e7%90%86%e7%94%9f%e7%90%86%e5%ad%b8-1">#</a></h3>
 <ul>
 <li><strong>病因細分</strong>：
 <ul>
@@ -1865,7 +1890,7 @@
 </ul>
 </li>
 </ul>
-<h3 id="臨床表現-9">臨床表現</h3>
+<h3 id="臨床表現-9">臨床表現<a class="anchor" href="#%e8%87%a8%e5%ba%8a%e8%a1%a8%e7%8f%be-9">#</a></h3>
 <ul>
 <li>症狀在數週內發展</li>
 <li><strong>骨髓衰竭表現</strong>：
@@ -1897,7 +1922,7 @@
 </ul>
 </li>
 </ul>
-<h3 id="診斷檢查-9">診斷檢查</h3>
+<h3 id="診斷檢查-9">診斷檢查<a class="anchor" href="#%e8%a8%ba%e6%96%b7%e6%aa%a2%e6%9f%a5-9">#</a></h3>
 <ul>
 <li><strong>血液檢查</strong>：
 <ul>
@@ -1917,7 +1942,7 @@
 </li>
 <li><strong>CXR</strong>排除肺炎；化療前 ECG、MUGA scan</li>
 </ul>
-<h3 id="治療-7">治療</h3>
+<h3 id="治療-7">治療<a class="anchor" href="#%e6%b2%bb%e7%99%82-7">#</a></h3>
 <ul>
 <li>
 <p><strong>化療是主要治療</strong>（不接受治療會迅速死亡）</p>
@@ -1961,7 +1986,7 @@
 <li>APL 是急症，因為 DIC 通常在確診時就存在。支持性輸血需以血小板 &gt;30（無出血）或 &gt;50（有出血）為目標，Fibrinogen &gt;1.5 為目標</li>
 <li>若 APL 在鑑別診斷中，應盡快開始 ATRA 誘導分化；Arsenic trioxide 和 ATRA 合併治療優於傳統化療</li>
 </ul>
-<h3 id="預後">預後</h3>
+<h3 id="預後">預後<a class="anchor" href="#%e9%a0%90%e5%be%8c">#</a></h3>
 <ul>
 <li><strong>達到第一完全緩解</strong>：
 <ul>
@@ -1972,8 +1997,8 @@
 </li>
 </ul>
 <hr>
-<h2 id="急性淋巴性白血病acute-lymphoblastic-leukemia-all">急性淋巴性白血病（Acute Lymphoblastic Leukemia, ALL）</h2>
-<h3 id="定義-12">定義</h3>
+<h2 id="急性淋巴性白血病acute-lymphoblastic-leukemia-all">急性淋巴性白血病（Acute Lymphoblastic Leukemia, ALL）<a class="anchor" href="#%e6%80%a5%e6%80%a7%e6%b7%8b%e5%b7%b4%e6%80%a7%e7%99%bd%e8%a1%80%e7%97%85acute-lymphoblastic-leukemia-all">#</a></h2>
+<h3 id="定義-12">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-12">#</a></h3>
 <ul>
 <li>骨髓中早期淋巴前驅細胞惡性增殖並替代正常造血細胞的惡性疾病；巔峰年齡 40 歲</li>
 <li>WHO 將 ALL 分為兩類（依細胞來源）：
@@ -1984,7 +2009,7 @@
 </li>
 <li>FAB 分類（L1、L2、L3）因形態學無預後意義而不再鼓勵使用</li>
 </ul>
-<h3 id="臨床表現-10">臨床表現</h3>
+<h3 id="臨床表現-10">臨床表現<a class="anchor" href="#%e8%87%a8%e5%ba%8a%e8%a1%a8%e7%8f%be-10">#</a></h3>
 <ul>
 <li>區分 ALL 與 AML（見 Table 31）</li>
 <li>症狀通常繼發於：
@@ -1994,7 +2019,7 @@
 </ul>
 </li>
 </ul>
-<h3 id="診斷檢查-10">診斷檢查</h3>
+<h3 id="診斷檢查-10">診斷檢查<a class="anchor" href="#%e8%a8%ba%e6%96%b7%e6%aa%a2%e6%9f%a5-10">#</a></h3>
 <ul>
 <li><strong>BM 或外周血 &gt;20% lymphoblasts</strong>；收集 flow cytometry、細胞遺傳學、分子研究樣本</li>
 <li>Ph 染色體：~25% 成人 ALL</li>
@@ -2006,7 +2031,7 @@
 <li>治療開始時強制腰椎穿刺評估 CNS 侵犯（確保血小板和 PT/PTT 充足，並延遲至 blasts 清除外周血）</li>
 <li>HIV、HBV、HCV 血清學；CMV Ab 檢測</li>
 </ul>
-<h3 id="治療-8">治療</h3>
+<h3 id="治療-8">治療<a class="anchor" href="#%e6%b2%bb%e7%99%82-8">#</a></h3>
 <ul>
 <li>消除異常克隆細胞
 <ol>
@@ -2033,7 +2058,7 @@
 <li>提取患者自身 T 細胞，基因改造 T 細胞產生能識別癌細胞表面抗原的 Chimeric Antigen Receptors（CARs）（ALL 中常為 CD19）</li>
 <li>治療瀰漫性大 B 細胞淋巴瘤和 CD19 陽性 ALL 最有效</li>
 </ul>
-<h3 id="預後-1">預後</h3>
+<h3 id="預後-1">預後<a class="anchor" href="#%e9%a0%90%e5%be%8c-1">#</a></h3>
 <ul>
 <li>取決於初始誘導反應、Minimal residual disease testing 或復發後是否達到緩解</li>
 <li><strong>良好預後因素</strong>：年輕、WBC &lt;30 × 10⁹/L、T-cell phenotype、無 Ph 染色體、早期達到完全緩解</li>
@@ -2089,8 +2114,8 @@
   </tbody>
 </table>
 <hr>
-<h2 id="淋巴瘤lymphomas">淋巴瘤（Lymphomas）</h2>
-<h3 id="定義-13">定義</h3>
+<h2 id="淋巴瘤lymphomas">淋巴瘤（Lymphomas）<a class="anchor" href="#%e6%b7%8b%e5%b7%b4%e7%98%a4lymphomas">#</a></h2>
+<h3 id="定義-13">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-13">#</a></h3>
 <ul>
 <li>淋巴細胞惡性增殖，惡性淋巴細胞聚集在淋巴結和淋巴組織</li>
 <li>導致淋巴結病變、結外病變、constitutional symptoms</li>
@@ -2126,7 +2151,7 @@
 <li><strong>A</strong>：無 B-symptoms</li>
 <li><strong>B</strong>：有 B-symptoms</li>
 </ul>
-<h3 id="классификация">классификация</h3>
+<h3 id="классификация">классификация<a class="anchor" href="#%d0%ba%d0%bb%d0%b0%d1%81%d1%81%d0%b8%d1%84%d0%b8%d0%ba%d0%b0%d1%86%d0%b8%d1%8f">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -2164,17 +2189,17 @@
   </tbody>
 </table>
 <hr>
-<h2 id="霍奇金淋巴瘤hodgkin-lymphoma-hl">霍奇金淋巴瘤（Hodgkin Lymphoma, HL）</h2>
-<h3 id="定義-14">定義</h3>
+<h2 id="霍奇金淋巴瘤hodgkin-lymphoma-hl">霍奇金淋巴瘤（Hodgkin Lymphoma, HL）<a class="anchor" href="#%e9%9c%8d%e5%a5%87%e9%87%91%e6%b7%8b%e5%b7%b4%e7%98%a4hodgkin-lymphoma-hl">#</a></h2>
+<h3 id="定義-14">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-14">#</a></h3>
 <ul>
 <li>淋巴細胞惡性增殖，伴有 Reed-Sternberg cells</li>
 </ul>
-<h3 id="流行病學">流行病學</h3>
+<h3 id="流行病學">流行病學<a class="anchor" href="#%e6%b5%81%e8%a1%8c%e7%97%85%e5%ad%b8">#</a></h3>
 <ul>
 <li>雙峰分布：20 歲和 &gt;50 歲</li>
 <li>高達 50% 與 Epstein-Barr 病毒相關，因果關係未確定</li>
 </ul>
-<h3 id="臨床表現-11">臨床表現</h3>
+<h3 id="臨床表現-11">臨床表現<a class="anchor" href="#%e8%87%a8%e5%ba%8a%e8%a1%a8%e7%8f%be-11">#</a></h3>
 <ul>
 <li><strong>無症狀淋巴結病變</strong>（70%）：
 <ul>
@@ -2197,7 +2222,7 @@
 </li>
 <li>從單一淋巴結部位（淋巴結）開始，首先擴散至相鄰淋巴結</li>
 </ul>
-<h3 id="診斷檢查-11">診斷檢查</h3>
+<h3 id="診斷檢查-11">診斷檢查<a class="anchor" href="#%e8%a8%ba%e6%96%b7%e6%aa%a2%e6%9f%a5-11">#</a></h3>
 <ul>
 <li><strong>CBC</strong>：
 <ul>
@@ -2223,7 +2248,7 @@
 <li><strong>Excisional lymph node 或 core biopsy</strong>確診</li>
 <li><strong>BM biopsy</strong>評估骨髓浸潤（僅在有 B-symptoms、PET 顯示骨髓影像陽性或血球減少時必要）</li>
 </ul>
-<h3 id="治療-9">治療</h3>
+<h3 id="治療-9">治療<a class="anchor" href="#%e6%b2%bb%e7%99%82-9">#</a></h3>
 <ul>
 <li><strong>Stage I-II</strong>：化療（ABVD）後進行 involved field 或 involved site 放射治療（XRT）</li>
 <li><strong>Stage III-IV</strong>：化療（ABVD、Brentuximab-AVD 或 BEACOPP）+ 有大塊疾病時 XRT</li>
@@ -2232,7 +2257,7 @@
 </ul>
 <p><strong>ABVD</strong>：Adriamycin、Bleomycin、Vinblastine、Dacarbazine
 <strong>BEACOPP</strong>：Bleomycin、Etoposide、Adriamycin、Cyclophosphamide、Vincristine、Procarbazine、Prednisone</p>
-<h3 id="治療併發症">治療併發症</h3>
+<h3 id="治療併發症">治療併發症<a class="anchor" href="#%e6%b2%bb%e7%99%82%e4%bd%b5%e7%99%bc%e7%97%87">#</a></h3>
 <ul>
 <li><strong>心臟疾病</strong>：XRT 和 adriamycin cardiomyopathy（1% 患者）的後遺症</li>
 <li><strong>肺部疾病</strong>：Bleomycin（間質性肺炎）的後遺症</li>
@@ -2245,7 +2270,7 @@
 </li>
 <li>甲狀腺功能減退：XRT 後</li>
 </ul>
-<h3 id="預後-2">預後</h3>
+<h3 id="預後-2">預後<a class="anchor" href="#%e9%a0%90%e5%be%8c-2">#</a></h3>
 <p><strong>Hasenclever 不良預後因素</strong>（晚期疾病）：</p>
 <ol>
 <li>血清白蛋白 &lt;40 g/L</li>
@@ -2258,12 +2283,12 @@
 </ol>
 <p>每增加一個不良預後因素，5 年無病存活（FFP）降低。</p>
 <hr>
-<h2 id="非霍奇金淋巴瘤non-hodgkin-lymphoma-nhl">非霍奇金淋巴瘤（Non-Hodgkin Lymphoma, NHL）</h2>
-<h3 id="定義-15">定義</h3>
+<h2 id="非霍奇金淋巴瘤non-hodgkin-lymphoma-nhl">非霍奇金淋巴瘤（Non-Hodgkin Lymphoma, NHL）<a class="anchor" href="#%e9%9d%9e%e9%9c%8d%e5%a5%87%e9%87%91%e6%b7%8b%e5%b7%b4%e7%98%a4non-hodgkin-lymphoma-nhl">#</a></h2>
+<h3 id="定義-15">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-15">#</a></h3>
 <ul>
 <li>淋巴細胞（progenitor 或成熟 B- 或 T-細胞）惡性增殖</li>
 </ul>
-<h3 id="分類-1">分類</h3>
+<h3 id="分類-1">分類<a class="anchor" href="#%e5%88%86%e9%a1%9e-1">#</a></h3>
 <ul>
 <li>可起源於 B-（85%）或 T-/NK-（15%）細胞</li>
 <li><strong>B-cell NHL</strong>：如瀰漫性大 B 細胞淋巴瘤、滤泡性淋巴瘤、Burkitt 淋巴瘤、套細胞淋巴瘤</li>
@@ -2276,7 +2301,7 @@
 </li>
 <li><strong>T-cell NHL</strong>：如蕈樣黴菌病（皮膚 indolent TCL）、外周 T 細胞淋巴瘤-NOS、間變性大細胞淋巴瘤</li>
 </ul>
-<h3 id="臨床表現-12">臨床表現</h3>
+<h3 id="臨床表現-12">臨床表現<a class="anchor" href="#%e8%87%a8%e5%ba%8a%e8%a1%a8%e7%8f%be-12">#</a></h3>
 <ul>
 <li><strong>無痛性淺表淋巴結病變</strong>，通常 &gt;1 淋巴結區域；侵襲性 NHL 生長快速</li>
 <li>可局部或廣泛淋巴結病變（indolent NHL 更常見）</li>
@@ -2287,7 +2312,7 @@
 <li><strong>結外侵犯</strong>：最常見於 GI 道、睪丸、骨、腎</li>
 <li>1% CNS 侵犯（常與 HIV、睪丸 DLBCL 或 &gt;2 結外部位相關）</li>
 </ul>
-<h3 id="診斷檢查-12">診斷檢查</h3>
+<h3 id="診斷檢查-12">診斷檢查<a class="anchor" href="#%e8%a8%ba%e6%96%b7%e6%aa%a2%e6%9f%a5-12">#</a></h3>
 <ul>
 <li><strong>CBC</strong>：
 <ul>
@@ -2308,7 +2333,7 @@
 <li>分期：CT neck、chest、abdomen、pelvis、BM biopsy</li>
 <li><strong>PET imaging</strong>：侵襲性淋巴瘤治療前後確保治療後緩解</li>
 </ul>
-<h3 id="治療-10">治療</h3>
+<h3 id="治療-10">治療<a class="anchor" href="#%e6%b2%bb%e7%99%82-10">#</a></h3>
 <ul>
 <li><strong>Indolent NHL，局部疾病（如 Stage I 或 II）</strong>：
 <ul>
@@ -2339,7 +2364,7 @@
 </ul>
 </li>
 </ul>
-<h3 id="併發症">併發症</h3>
+<h3 id="併發症">併發症<a class="anchor" href="#%e4%bd%b5%e7%99%bc%e7%97%87">#</a></h3>
 <ul>
 <li>Hypersplenism</li>
 <li>感染</li>
@@ -2348,7 +2373,7 @@
 <li>腸穿孔</li>
 <li>TLS（特別是侵襲性淋巴瘤）</li>
 </ul>
-<h3 id="預後-3">預後</h3>
+<h3 id="預後-3">預後<a class="anchor" href="#%e9%a0%90%e5%be%8c-3">#</a></h3>
 <ul>
 <li><strong>滤泡性淋巴瘤</strong>：使用 Follicular Lymphoma International Prognostic Index：年齡 &gt;60；&gt;4 淋巴結區域；&gt;6 cm 淋巴結區域；LDH 升高；Lugano Stage III-IV；Hb &lt;120 g/L；高 β-2 微球蛋白；BM 侵犯
 <ul>
@@ -2364,8 +2389,8 @@
 </li>
 </ul>
 <hr>
-<h2 id="漿細胞疾病plasma-cell-dyscrasias">漿細胞疾病（Plasma Cell Dyscrasias）</h2>
-<h3 id="多發性骨髓瘤multiple-myeloma-mm">多發性骨髓瘤（Multiple Myeloma, MM）</h3>
+<h2 id="漿細胞疾病plasma-cell-dyscrasias">漿細胞疾病（Plasma Cell Dyscrasias）<a class="anchor" href="#%e6%bc%bf%e7%b4%b0%e8%83%9e%e7%96%be%e7%97%85plasma-cell-dyscrasias">#</a></h2>
+<h3 id="多發性骨髓瘤multiple-myeloma-mm">多發性骨髓瘤（Multiple Myeloma, MM）<a class="anchor" href="#%e5%a4%9a%e7%99%bc%e6%80%a7%e9%aa%a8%e9%ab%93%e7%98%a4multiple-myeloma-mm">#</a></h3>
 <p><strong>定義</strong>：</p>
 <ul>
 <li>漿細胞的惡性增殖
@@ -2420,7 +2445,7 @@
   </tbody>
 </table>
 <p>修訂 ISS 使用原始 ISS + 細胞遺傳學特徵（p53 突變與不良存活和化療抗性相關）+ LDH</p>
-<h3 id="意義未明單克隆丙種球蛋白病mgus">意義未明單克隆丙種球蛋白病（MGUS）</h3>
+<h3 id="意義未明單克隆丙種球蛋白病mgus">意義未明單克隆丙種球蛋白病（MGUS）<a class="anchor" href="#%e6%84%8f%e7%be%a9%e6%9c%aa%e6%98%8e%e5%96%ae%e5%85%8b%e9%9a%86%e4%b8%99%e7%a8%ae%e7%90%83%e8%9b%8b%e7%99%bd%e7%97%85mgus">#</a></h3>
 <p><strong>定義</strong>：</p>
 <ul>
 <li>血清中存在 M 蛋白但無漿細胞疾病或淋巴增生病臨床或實驗室證據</li>
@@ -2436,7 +2461,7 @@
 <li>異常血清游離輕鏈比值增加惡性轉化風險</li>
 </ul>
 <p><strong>監測</strong>：q6-12 個月病史和身體、CBC、Cr、Calcium、Albumin、LDH、SPEP</p>
-<h3 id="淋巴漿細胞淋巴瘤waldenströms-macroglobulinemia">淋巴漿細胞淋巴瘤（Waldenström&rsquo;s Macroglobulinemia）</h3>
+<h3 id="淋巴漿細胞淋巴瘤waldenströms-macroglobulinemia">淋巴漿細胞淋巴瘤（Waldenström&rsquo;s Macroglobulinemia）<a class="anchor" href="#%e6%b7%8b%e5%b7%b4%e6%bc%bf%e7%b4%b0%e8%83%9e%e6%b7%8b%e5%b7%b4%e7%98%a4waldenstr%c3%b6ms-macroglobulinemia">#</a></h3>
 <p><strong>定義</strong>：</p>
 <ul>
 <li>淋巴漿細胞增增殖；存在單克隆 IgM 副蛋白</li>
@@ -2457,7 +2482,7 @@
 <li>Cold hemagglutinin disease 可能：Raynaud&rsquo;s phenomenon、寒冷天氣誘發的 hemolytic anemia</li>
 <li>HBV、HCV 血清學（與 HCV 相關；HCV 根除可使 LPL 緩解）</li>
 </ul>
-<h3 id="高黏滯症候群hyperviscosity-syndrome">高黏滯症候群（Hyperviscosity Syndrome）</h3>
+<h3 id="高黏滯症候群hyperviscosity-syndrome">高黏滯症候群（Hyperviscosity Syndrome）<a class="anchor" href="#%e9%ab%98%e9%bb%8f%e6%bb%af%e7%97%87%e5%80%99%e7%be%a4hyperviscosity-syndrome">#</a></h3>
 <p><strong>定義</strong>：</p>
 <ul>
 <li>相對血清黏滯度 &gt;5-6 單位時，由循環血清 Ig 或高增殖性疾病（MM、白血病、PV）中細胞成分增加引起的臨床後遺症</li>
@@ -2480,13 +2505,13 @@
 <li>Plasmapheresis、化療</li>
 </ul>
 <hr>
-<h2 id="腫瘤溶解症候群tumour-lysis-syndrome-tls">腫瘤溶解症候群（Tumour Lysis Syndrome, TLS）</h2>
-<h3 id="定義-16">定義</h3>
+<h2 id="腫瘤溶解症候群tumour-lysis-syndrome-tls">腫瘤溶解症候群（Tumour Lysis Syndrome, TLS）<a class="anchor" href="#%e8%85%ab%e7%98%a4%e6%ba%b6%e8%a7%a3%e7%97%87%e5%80%99%e7%be%a4tumour-lysis-syndrome-tls">#</a></h2>
+<h3 id="定義-16">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-16">#</a></h3>
 <ul>
 <li>腫瘤細胞自發性或治療相關裂解引起的代謝併發症群</li>
 <li>更常見於大腫瘤負荷和高增殖率的疾病（高階淋巴瘤、急性白血病）</li>
 </ul>
-<h3 id="臨床表現-13">臨床表現</h3>
+<h3 id="臨床表現-13">臨床表現<a class="anchor" href="#%e8%87%a8%e5%ba%8a%e8%a1%a8%e7%8f%be-13">#</a></h3>
 <ul>
 <li><strong>代謝異常</strong>：
 <ul>
@@ -2501,7 +2526,7 @@
 </ul>
 </li>
 </ul>
-<h3 id="治療-11">治療</h3>
+<h3 id="治療-11">治療<a class="anchor" href="#%e6%b2%bb%e7%99%82-11">#</a></h3>
 <ul>
 <li><strong>預防</strong>：
 <ul>
@@ -2514,15 +2539,15 @@
 <li><strong>透析</strong></li>
 </ul>
 <hr>
-<h2 id="血液製品與輸血blood-products-and-transfusion">血液製品與輸血（Blood Products and Transfusion）</h2>
-<h3 id="血液製品">血液製品</h3>
+<h2 id="血液製品與輸血blood-products-and-transfusion">血液製品與輸血（Blood Products and Transfusion）<a class="anchor" href="#%e8%a1%80%e6%b6%b2%e8%a3%bd%e5%93%81%e8%88%87%e8%bc%b8%e8%a1%80blood-products-and-transfusion">#</a></h2>
+<h3 id="血液製品">血液製品<a class="anchor" href="#%e8%a1%80%e6%b6%b2%e8%a3%bd%e5%93%81">#</a></h3>
 <ul>
 <li><strong>RBCs、Platelets、凝血因子</strong>（FFP、Cryoprecipitate、Fibrinogen concentrate、Factor concentrates）</li>
 <li>捐血（1 Unit = 450-500 mL）被分離成各種成分</li>
 <li><strong>FP（以前稱 FFP）</strong>：收集後 24 小時內冷凍的血漿</li>
 <li><strong>Cryoprecipitate</strong>：FP 在低溫下解凍時生成的高分子量沉澱物</li>
 </ul>
-<h3 id="特殊製品">特殊製品</h3>
+<h3 id="特殊製品">特殊製品<a class="anchor" href="#%e7%89%b9%e6%ae%8a%e8%a3%bd%e5%93%81">#</a></h3>
 <ul>
 <li><strong>照射血液製品</strong>：
 <ul>
@@ -2537,7 +2562,7 @@
 </ul>
 </li>
 </ul>
-<h3 id="紅血球">紅血球</h3>
+<h3 id="紅血球">紅血球<a class="anchor" href="#%e7%b4%85%e8%a1%80%e7%90%83">#</a></h3>
 <p><strong>Packed Red Blood Cells</strong>：</p>
 <ul>
 <li>保存於 4°C</li>
@@ -2567,7 +2592,7 @@
 </ul>
 </li>
 </ul>
-<h3 id="血小板">血小板</h3>
+<h3 id="血小板">血小板<a class="anchor" href="#%e8%a1%80%e5%b0%8f%e6%9d%bf">#</a></h3>
 <p><strong>Table 17. 血小板製品適應症</strong></p>
 <table>
   <thead>
@@ -2631,7 +2656,7 @@
 <ul>
 <li>TTP、HIT、Post-transfusion purpura、HELLP</li>
 </ul>
-<h3 id="凝血因子製品">凝血因子製品</h3>
+<h3 id="凝血因子製品">凝血因子製品<a class="anchor" href="#%e5%87%9d%e8%a1%80%e5%9b%a0%e5%ad%90%e8%a3%bd%e5%93%81">#</a></h3>
 <p><strong>Table 18. 凝血因子製品</strong></p>
 <table>
   <thead>
@@ -2676,8 +2701,8 @@
   </tbody>
 </table>
 <hr>
-<h2 id="急性輸血反應acute-transfusion-reactions">急性輸血反應（Acute Transfusion Reactions）</h2>
-<h3 id="免疫性反應">免疫性反應</h3>
+<h2 id="急性輸血反應acute-transfusion-reactions">急性輸血反應（Acute Transfusion Reactions）<a class="anchor" href="#%e6%80%a5%e6%80%a7%e8%bc%b8%e8%a1%80%e5%8f%8d%e6%87%89acute-transfusion-reactions">#</a></h2>
+<h3 id="免疫性反應">免疫性反應<a class="anchor" href="#%e5%85%8d%e7%96%ab%e6%80%a7%e5%8f%8d%e6%87%89">#</a></h3>
 <p><strong>急性溶血性輸血反應（Acute Hemolytic Transfusion Reactions）</strong>：</p>
 <ul>
 <li>ABO 不相容導致補體活化引起的血管內溶血，輸血後立即發生</li>
@@ -2727,7 +2752,7 @@
 <li><strong>目前是輸血相關 morbidity 和 mortality 的主要原因</strong></li>
 <li><strong>治療</strong>：支持性治療（氧氣）；通知血庫；將安排患者和捐贈者檢驗</li>
 </ul>
-<h3 id="非免疫性反應">非免疫性反應</h3>
+<h3 id="非免疫性反應">非免疫性反應<a class="anchor" href="#%e9%9d%9e%e5%85%8d%e7%96%ab%e6%80%a7%e5%8f%8d%e6%87%89">#</a></h3>
 <p><strong>輸血相關循環超負荷（TACO）</strong>：</p>
 <ul>
 <li>心臟功能受損和/或輸血過快導致</li>
@@ -2752,8 +2777,8 @@
 <li>TRALI</li>
 </ul>
 <hr>
-<h2 id="附錄常用血液學數值">附錄：常用血液學數值</h2>
-<h3 id="正常參考值">正常參考值</h3>
+<h2 id="附錄常用血液學數值">附錄：常用血液學數值<a class="anchor" href="#%e9%99%84%e9%8c%84%e5%b8%b8%e7%94%a8%e8%a1%80%e6%b6%b2%e5%ad%b8%e6%95%b8%e5%80%bc">#</a></h2>
+<h3 id="正常參考值">正常參考值<a class="anchor" href="#%e6%ad%a3%e5%b8%b8%e5%8f%83%e8%80%83%e5%80%bc">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -2828,7 +2853,7 @@
       </tr>
   </tbody>
 </table>
-<h3 id="常見血液學縮寫">常見血液學縮寫</h3>
+<h3 id="常見血液學縮寫">常見血液學縮寫<a class="anchor" href="#%e5%b8%b8%e8%a6%8b%e8%a1%80%e6%b6%b2%e5%ad%b8%e7%b8%ae%e5%af%ab">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -2992,11 +3017,10 @@
   </tbody>
 </table>
 <hr>
-<blockquote>
+<blockquote class='book-hint '>
 <p><strong>資料來源</strong>：Toronto Notes 2025 - Hematology</p>
 <p>本章節內容涵蓋血液學核心主題，包括紅血球疾病、白血球疾病、凝血障礙、血液惡性腫瘤及輸血醫學，為醫學生和臨床醫師提供系統性的血液學知識框架。</p>
 </blockquote>
-
       </div>
     </article>
   </main>
@@ -3004,5 +3028,19 @@
   <footer>
     <p>Powered by Hugo | Toronto Notes 2025 繁體中文翻譯</p>
   </footer>
+  <script>
+    function toggleTheme() {
+      const html = document.documentElement;
+      const current = html.getAttribute('data-theme');
+      const next = current === 'dark' ? 'light' : 'dark';
+      html.setAttribute('data-theme', next);
+      localStorage.setItem('theme', next);
+    }
+    const saved = localStorage.getItem('theme');
+    if (saved) document.documentElement.setAttribute('data-theme', saved);
+    else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+      document.documentElement.setAttribute('data-theme', 'dark');
+    }
+  </script>
 </body>
 </html>

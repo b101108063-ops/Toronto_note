@@ -5,31 +5,55 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>醫學影像學 - Toronto Notes 2025 繁體中文</title>
   <style>
+    :root {
+      --bg-primary: #ffffff;
+      --bg-secondary: #f8fafc;
+      --text-primary: #1e293b;
+      --text-secondary: #64748b;
+      --accent: #2563eb;
+      --border: #e2e8f0;
+      --code-bg: #f1f5f9;
+      --link: #2563eb;
+      --link-visited: #5500bb;
+    }
+    [data-theme="dark"] {
+      --bg-primary: #1a1a2e;
+      --bg-secondary: #16162a;
+      --text-primary: #e4e4e7;
+      --text-secondary: #a1a1aa;
+      --accent: #93c5fd;
+      --border: #3f3f46;
+      --code-bg: #27272a;
+      --link: #93c5fd;
+      --link-visited: #c4b5fd;
+    }
     * { box-sizing: border-box; }
-    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; line-height: 1.6; color: #333; max-width: 900px; margin: 0 auto; padding: 20px; }
-    header { border-bottom: 2px solid #2563eb; padding-bottom: 10px; margin-bottom: 20px; }
-    header h1 { margin: 0; font-size: 1.5em; color: #2563eb; }
-    nav a { margin-right: 15px; color: #2563eb; text-decoration: none; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; line-height: 1.6; color: var(--text-primary); background: var(--bg-primary); max-width: 900px; margin: 0 auto; padding: 20px; }
+    header { border-bottom: 2px solid var(--accent); padding-bottom: 10px; margin-bottom: 20px; display: flex; justify-content: space-between; align-items: center; }
+    header h1 { margin: 0; font-size: 1.5em; color: var(--accent); }
+    nav a { margin-right: 15px; color: var(--link); text-decoration: none; }
     nav a:hover { text-decoration: underline; }
-    h1, h2, h3 { color: #1e293b; }
-    h1 { font-size: 1.8em; border-bottom: 1px solid #e2e8f0; padding-bottom: 8px; }
-    h2 { font-size: 1.4em; border-bottom: 1px solid #e2e8f0; padding-bottom: 5px; }
+    h1, h2, h3 { color: var(--text-primary); }
+    h1 { font-size: 1.8em; border-bottom: 1px solid var(--border); padding-bottom: 8px; }
+    h2 { font-size: 1.4em; border-bottom: 1px solid var(--border); padding-bottom: 5px; }
     h3 { font-size: 1.15em; }
-    pre { background: #f1f5f9; padding: 15px; border-radius: 6px; overflow-x: auto; }
-    code { background: #f1f5f9; padding: 2px 5px; border-radius: 3px; font-size: 0.9em; }
+    pre { background: var(--code-bg); padding: 15px; border-radius: 6px; overflow-x: auto; }
+    code { background: var(--code-bg); padding: 2px 5px; border-radius: 3px; font-size: 0.9em; }
     pre code { background: none; padding: 0; }
-    blockquote { border-left: 4px solid #2563eb; margin: 0; padding: 5px 15px; color: #64748b; background: #f8fafc; }
+    blockquote { border-left: 4px solid var(--accent); margin: 0; padding: 5px 15px; color: var(--text-secondary); background: var(--bg-secondary); }
     table { border-collapse: collapse; width: 100%; margin: 15px 0; }
-    th, td { border: 1px solid #cbd5e1; padding: 8px 12px; text-align: left; }
-    th { background: #f1f5f9; font-weight: 600; }
-    tr:nth-child(even) { background: #f8fafc; }
+    th, td { border: 1px solid var(--border); padding: 8px 12px; text-align: left; }
+    th { background: var(--bg-secondary); font-weight: 600; }
+    tr:nth-child(even) { background: var(--bg-secondary); }
     .content-body { line-height: 1.8; }
-    footer { border-top: 1px solid #e2e8f0; margin-top: 30px; padding-top: 15px; color: #64748b; font-size: 0.9em; }
-    .breadcrumb { font-size: 0.9em; color: #64748b; margin-bottom: 15px; }
-    .breadcrumb a { color: #2563eb; text-decoration: none; }
-    a { color: #2563eb; }
+    footer { border-top: 1px solid var(--border); margin-top: 30px; padding-top: 15px; color: var(--text-secondary); font-size: 0.9em; }
+    .breadcrumb { font-size: 0.9em; color: var(--text-secondary); margin-bottom: 15px; }
+    .breadcrumb a { color: var(--link); text-decoration: none; }
+    a { color: var(--link); }
     a:hover { text-decoration: underline; }
     img { max-width: 100%; height: auto; }
+    .theme-toggle { background: none; border: 1px solid var(--border); color: var(--text-primary); cursor: pointer; padding: 4px 10px; border-radius: 4px; font-size: 0.85em; }
+    .theme-toggle:hover { background: var(--bg-secondary); }
   </style>
 </head>
 <body>
@@ -38,6 +62,7 @@
       <a href="https://b101108063-ops.github.io/Toronto_note/">首頁</a>
       <a href="/Toronto_note/categories/">章節</a>
     </nav>
+    <button class="theme-toggle" onclick="toggleTheme()">🌙 暗色</button>
   </header>
 
   <main>
@@ -47,7 +72,7 @@
     <article>
       <h1>醫學影像學</h1>
       <div class="content-body">
-        <h2 id="導讀摘要">導讀摘要</h2>
+        <h2 id="導讀摘要">導讀摘要<a class="anchor" href="#%e5%b0%8e%e8%ae%80%e6%91%98%e8%a6%81">#</a></h2>
 <ul>
 <li><strong>CXR 判讀 ABCDEF</strong>：ID/film quality → Body position → Confirm name → Comparison → Bones → Cardiac/Costophrenic → Fields —系統性胸部 X 光判讀方法</li>
 <li><strong>Silhouette sign（廓影徵）</strong>：利用相同 radiodensity 的介面消失來定位肺部病變，如 right heart border 消失代表 RML 病灶</li>
@@ -56,8 +81,8 @@
 <li><strong>超音波為首選</strong>：膽囊炎（最佳 sensitivity/specificity）、甲狀腺結節（區分 hot/cold nodule）、深靜脈血栓（Doppler）</li>
 </ul>
 <hr>
-<h2 id="醫學影像學概論">醫學影像學概論</h2>
-<h3 id="影像學檢查的選擇原則">影像學檢查的選擇原則</h3>
+<h2 id="醫學影像學概論">醫學影像學概論<a class="anchor" href="#%e9%86%ab%e5%ad%b8%e5%bd%b1%e5%83%8f%e5%ad%b8%e6%a6%82%e8%ab%96">#</a></h2>
+<h3 id="影像學檢查的選擇原則">影像學檢查的選擇原則<a class="anchor" href="#%e5%bd%b1%e5%83%8f%e5%ad%b8%e6%aa%a2%e6%9f%a5%e7%9a%84%e9%81%b8%e6%93%87%e5%8e%9f%e5%89%87">#</a></h3>
 <p><strong>X 光（Plain Film）</strong></p>
 <ul>
 <li>快速、便宜、輻射劑量低</li>
@@ -88,8 +113,8 @@
 <li>V/Q scan（肺栓塞）、bone scan（骨轉移、甲狀腺）、PET（腫瘤分期、腦代謝）</li>
 </ul>
 <hr>
-<h2 id="胸部-x-光判讀cxr">胸部 X 光判讀（CXR）</h2>
-<h3 id="判讀系統性方法abcdef">判讀系統性方法：ABCDEF</h3>
+<h2 id="胸部-x-光判讀cxr">胸部 X 光判讀（CXR）<a class="anchor" href="#%e8%83%b8%e9%83%a8-x-%e5%85%89%e5%88%a4%e8%ae%80cxr">#</a></h2>
+<h3 id="判讀系統性方法abcdef">判讀系統性方法：ABCDEF<a class="anchor" href="#%e5%88%a4%e8%ae%80%e7%b3%bb%e7%b5%b1%e6%80%a7%e6%96%b9%e6%b3%95abcdef">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -124,7 +149,7 @@
       </tr>
   </tbody>
 </table>
-<h3 id="film-quality-品質要點">Film Quality 品質要點</h3>
+<h3 id="film-quality-品質要點">Film Quality 品質要點<a class="anchor" href="#film-quality-%e5%93%81%e8%b3%aa%e8%a6%81%e9%bb%9e">#</a></h3>
 <ul>
 <li><strong>吸氣深度（Inspiration）</strong>：後肋應可見 10 根、前肋可見 7 根</li>
 <li><strong>穿透度（Penetration）</strong>： thoracic spine 應可見</li>
@@ -132,42 +157,42 @@
 <li><strong>放大（Magnification）</strong>：AP 片心臟會放大</li>
 <li><strong>角度（Angulation）</strong>：clavicles 應呈水平</li>
 </ul>
-<h3 id="分析順序">分析順序</h3>
-<h4 id="1-管路與線材tubes-and-lines">1. 管路與線材（Tubes and Lines）</h4>
+<h3 id="分析順序">分析順序<a class="anchor" href="#%e5%88%86%e6%9e%90%e9%a0%86%e5%ba%8f">#</a></h3>
+<h4 id="1-管路與線材tubes-and-lines">1. 管路與線材（Tubes and Lines）<a class="anchor" href="#1-%e7%ae%a1%e8%b7%af%e8%88%87%e7%b7%9a%e6%9d%90tubes-and-lines">#</a></h4>
 <ul>
 <li>確認位置：氣管內管（ETT）、中央靜脈導管、 nasogastric tube、Swan-Ganz catheter、chest tube</li>
 <li>注意 pneumothorax、pneumomediastinum</li>
 </ul>
-<h4 id="2-軟組織soft-tissues">2. 軟組織（Soft Tissues）</h4>
+<h4 id="2-軟組織soft-tissues">2. 軟組織（Soft Tissues）<a class="anchor" href="#2-%e8%bb%9f%e7%b5%84%e7%b9%94soft-tissues">#</a></h4>
 <ul>
 <li>頸部、腋下、胸肌、乳房/乳頭、胸壁</li>
 <li>Nipple markers 可幫助確認乳頭陰影（可能模擬肺結節）</li>
 <li>皮下氣腫（subcutaneous emphysema）</li>
 </ul>
-<h4 id="3-腹部abdomen">3. 腹部（Abdomen）</h4>
+<h4 id="3-腹部abdomen">3. 腹部（Abdomen）<a class="anchor" href="#3-%e8%85%b9%e9%83%a8abdomen">#</a></h4>
 <ul>
 <li>橫膈下游離氣體（free air under diaphragm）</li>
 <li>腸道氣液面（air-fluid levels）</li>
 <li>腸道擴張</li>
 <li>橫膈赫尼亞（diaphragmatic hernia）</li>
 </ul>
-<h4 id="4-骨頭bones">4. 骨頭（Bones）</h4>
+<h4 id="4-骨頭bones">4. 骨頭（Bones）<a class="anchor" href="#4-%e9%aa%a8%e9%a0%adbones">#</a></h4>
 <ul>
 <li>Cervical spine、thoracic spine、scapulae、ribs、sternum、clavicles、proximal humerus</li>
 <li>尋找 lytic/sclerotic lesions、fractures</li>
 </ul>
-<h4 id="5-縱隔腔mediastinum">5. 縱隔腔（Mediastinum）</h4>
+<h4 id="5-縱隔腔mediastinum">5. 縱隔腔（Mediastinum）<a class="anchor" href="#5-%e7%b8%b1%e9%9a%94%e8%85%94mediastinum">#</a></h4>
 <ul>
 <li>氣管、心臟、大血管</li>
 <li>Cardiomegaly（cardiothoracic ratio &gt;0.5 on PA view）</li>
 <li>Tracheal shift、tortuous aorta、widened mediastinum</li>
 </ul>
-<h4 id="6-肺門hila">6. 肺門（Hila）</h4>
+<h4 id="6-肺門hila">6. 肺門（Hila）<a class="anchor" href="#6-%e8%82%ba%e9%96%80hila">#</a></h4>
 <ul>
 <li>肺血管、主支氣管、淋巴結</li>
 <li>左肺門通常比右肺門高</li>
 </ul>
-<h4 id="7-肺臟lungs">7. 肺臟（Lungs）</h4>
+<h4 id="7-肺臟lungs">7. 肺臟（Lungs）<a class="anchor" href="#7-%e8%82%ba%e8%87%9flungs">#</a></h4>
 <ul>
 <li><strong>肺實質</strong>：parenchyma、interstitium、pleura、diaphragm</li>
 <li><strong>肺葉分布（Figure 3）</strong>：
@@ -177,8 +202,8 @@
 </ul>
 </li>
 </ul>
-<h3 id="定位病灶的影像學徵象">定位病灶的影像學徵象</h3>
-<h4 id="silhouette-sign廓影徵">Silhouette Sign（廓影徵）</h4>
+<h3 id="定位病灶的影像學徵象">定位病灶的影像學徵象<a class="anchor" href="#%e5%ae%9a%e4%bd%8d%e7%97%85%e7%81%b6%e7%9a%84%e5%bd%b1%e5%83%8f%e5%ad%b8%e5%be%b5%e8%b1%a1">#</a></h3>
+<h4 id="silhouette-sign廓影徵">Silhouette Sign（廓影徵）<a class="anchor" href="#silhouette-sign%e5%bb%93%e5%bd%b1%e5%be%b5">#</a></h4>
 <p>當兩個相同 radiodensity 的結構相鄰時，其預期的輪廓邊界會消失。</p>
 <table>
   <thead>
@@ -214,11 +239,11 @@
       </tr>
   </tbody>
 </table>
-<h4 id="spine-sign">Spine Sign</h4>
+<h4 id="spine-sign">Spine Sign<a class="anchor" href="#spine-sign">#</a></h4>
 <p>Lateral film 上，脊椎體應由上往下漸進 radiolucent（變暗）；若反而 radiopaque，暗示 underlying lower lobe 有病變（如 consolidation）。</p>
-<h4 id="air-bronchogram">Air Bronchogram</h4>
+<h4 id="air-bronchogram">Air Bronchogram<a class="anchor" href="#air-bronchogram">#</a></h4>
 <p>支氣管內有空氣，在肺實質 opacification 背景中形成分支狀透光區，代表 alveoli 被液體/細胞/蛋白填充（如 pneumonia、pulmonary edema、bronchoalveolar carcinoma）。</p>
-<h3 id="心臟擴大cardiomegaly">心臟擴大（Cardiomegaly）</h3>
+<h3 id="心臟擴大cardiomegaly">心臟擴大（Cardiomegaly）<a class="anchor" href="#%e5%bf%83%e8%87%9f%e6%93%b4%e5%a4%a7cardiomegaly">#</a></h3>
 <ul>
 <li><strong>Cardiothoracic ratio</strong>：PA view 上，心臟最大橫徑 / 胸腔最大橫徑 &gt;0.5 為異常</li>
 <li><strong>左心室擴大</strong>：心尖圓鈍，向左、向下、往後偏移</li>
@@ -226,8 +251,8 @@
 <li><strong>左心房擴大</strong>：左心緣變直、右心緣雙影（double heart border）、left main bronchus elevation、carina 撐開</li>
 </ul>
 <hr>
-<h2 id="胸部-ctchest-ct">胸部 CT（Chest CT）</h2>
-<h3 id="ct-chest-三種-window">CT Chest 三種 Window</h3>
+<h2 id="胸部-ctchest-ct">胸部 CT（Chest CT）<a class="anchor" href="#%e8%83%b8%e9%83%a8-ctchest-ct">#</a></h2>
+<h3 id="ct-chest-三種-window">CT Chest 三種 Window<a class="anchor" href="#ct-chest-%e4%b8%89%e7%a8%ae-window">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -250,7 +275,7 @@
       </tr>
   </tbody>
 </table>
-<h3 id="ct-chest-類型">CT Chest 類型</h3>
+<h3 id="ct-chest-類型">CT Chest 類型<a class="anchor" href="#ct-chest-%e9%a1%9e%e5%9e%8b">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -286,8 +311,8 @@
   </tbody>
 </table>
 <hr>
-<h2 id="肺部異常">肺部異常</h2>
-<h3 id="肺葉塌陷atelectasis">肺葉塌陷（Atelectasis）</h3>
+<h2 id="肺部異常">肺部異常<a class="anchor" href="#%e8%82%ba%e9%83%a8%e7%95%b0%e5%b8%b8">#</a></h2>
+<h3 id="肺葉塌陷atelectasis">肺葉塌陷（Atelectasis）<a class="anchor" href="#%e8%82%ba%e8%91%89%e5%a1%8c%e9%99%b7atelectasis">#</a></h3>
 <p><strong>致病機轉</strong></p>
 <ul>
 <li>肺組織因受限呼吸、支氣管阻塞或外部壓迫而塌陷</li>
@@ -307,7 +332,7 @@
 <li><strong>黏性（adhesive）</strong>：hyaline membrane disease（早產兒）</li>
 </ul>
 <p><strong>治療</strong>：若無已知病因且持續存在，需以 CT 或支氣管鏡排除支氣管肺癌</p>
-<h3 id="肺實質浸潤consolidation">肺實質浸潤（Consolidation）</h3>
+<h3 id="肺實質浸潤consolidation">肺實質浸潤（Consolidation）<a class="anchor" href="#%e8%82%ba%e5%af%a6%e8%b3%aa%e6%b5%b8%e6%bd%a4consolidation">#</a></h3>
 <p><strong>致病機轉</strong></p>
 <ul>
 <li>肺泡內空氣被液體（transudate、exudate、blood）、發炎滲出液、蛋白或腫瘤/組織取代</li>
@@ -324,7 +349,7 @@
 <li><strong>發炎性滲出液</strong>：bacterial pneumonia、TB、allergic bronchopulmonary aspergillosis、aspiration、COP</li>
 <li><strong>腫瘤</strong>：adenocarcinoma、lymphoma、bronchioalveolar carcinoma</li>
 </ul>
-<h3 id="間質性肺病interstitial-disease">間質性肺病（Interstitial Disease）</h3>
+<h3 id="間質性肺病interstitial-disease">間質性肺病（Interstitial Disease）<a class="anchor" href="#%e9%96%93%e8%b3%aa%e6%80%a7%e8%82%ba%e7%97%85interstitial-disease">#</a></h3>
 <p><strong>致病機轉</strong></p>
 <ul>
 <li>病變侵犯肺間質（肺的支架結構）</li>
@@ -384,8 +409,8 @@
 <p><strong>空洞性肺結節鑑別診斷（WEIRD HOLES）</strong>
 Wegener&rsquo;s (GPA)、Embolic（pulmonary、septic）、Infection（anaerobes、Pneumocystis、TB）、Rheumatoid（壞死性結節）、Developmental cysts（sequestration）、Histiocytosis、Oncological、Lymphangioleiomyomatosis、Environmental/Sarcoidosis</p>
 <hr>
-<h2 id="肺血管異常">肺血管異常</h2>
-<h3 id="肺水腫pulmonary-edema">肺水腫（Pulmonary Edema）</h3>
+<h2 id="肺血管異常">肺血管異常<a class="anchor" href="#%e8%82%ba%e8%a1%80%e7%ae%a1%e7%95%b0%e5%b8%b8">#</a></h2>
+<h3 id="肺水腫pulmonary-edema">肺水腫（Pulmonary Edema）<a class="anchor" href="#%e8%82%ba%e6%b0%b4%e8%85%abpulmonary-edema">#</a></h3>
 <p><strong>致病機轉</strong></p>
 <ul>
 <li>液體堆積於肺氣腔</li>
@@ -399,7 +424,7 @@ Wegener&rsquo;s (GPA)、Embolic（pulmonary、septic）、Infection（anaerobes�
 <li>進行性：diffuse airspace disease，呈「bat wing」或「butterfly」分布（肺野外圍通常不受影響）</li>
 </ul>
 <p><strong>鑑別</strong>：心因性（如 CHF）、腎衰竭、體液過負荷、非心因性（如 ARDS）</p>
-<h3 id="肺栓塞pulmonary-embolism">肺栓塞（Pulmonary Embolism）</h3>
+<h3 id="肺栓塞pulmonary-embolism">肺栓塞（Pulmonary Embolism）<a class="anchor" href="#%e8%82%ba%e6%a0%93%e5%a1%9epulmonary-embolism">#</a></h3>
 <p><strong>致病機轉</strong></p>
 <ul>
 <li>血栓（來自骨盆或腿部靜脈）或其他物質（脂肪、空氣、羊水）阻塞肺動脈</li>
@@ -410,8 +435,8 @@ Wegener&rsquo;s (GPA)、Embolic（pulmonary、septic）、Infection（anaerobes�
 <li><strong>確診工具</strong>：CT pulmonary angiography（找 filling defect）、VQ scan（腎功能不良或孕婦可用）</li>
 </ul>
 <hr>
-<h2 id="肋膜異常">肋膜異常</h2>
-<h3 id="肋膜積水pleural-effusion">肋膜積水（Pleural Effusion）</h3>
+<h2 id="肋膜異常">肋膜異常<a class="anchor" href="#%e8%82%8b%e8%86%9c%e7%95%b0%e5%b8%b8">#</a></h2>
+<h3 id="肋膜積水pleural-effusion">肋膜積水（Pleural Effusion）<a class="anchor" href="#%e8%82%8b%e8%86%9c%e7%a9%8d%e6%b0%b4pleural-effusion">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -442,7 +467,7 @@ Wegener&rsquo;s (GPA)、Embolic（pulmonary、septic）、Infection（anaerobes�
 <li>水平氣液面只出現在 hydropneumothorax</li>
 <li>超音波（POCUS）對少量積水比 X 光更敏感，且可輔助 thoracentesis</li>
 </ul>
-<h3 id="氣胸pneumothorax">氣胸（Pneumothorax）</h3>
+<h3 id="氣胸pneumothorax">氣胸（Pneumothorax）<a class="anchor" href="#%e6%b0%a3%e8%83%b8pneumothorax">#</a></h3>
 <p><strong>致病機轉</strong></p>
 <ul>
 <li>氣體堆積於肋膜腔，導致肺與胸壁分離</li>
@@ -460,7 +485,7 @@ Wegener&rsquo;s (GPA)、Embolic（pulmonary、septic）、Infection（anaerobes�
 <li>中重度：chest tube（於第 5 肋間前腋線）</li>
 <li>Tension pneumothorax：緊急針頭減壓（第 2 肋間鎖骨中線），後接 chest tube</li>
 </ul>
-<h3 id="石棉相關異常">石棉相關異常</h3>
+<h3 id="石棉相關異常">石棉相關異常<a class="anchor" href="#%e7%9f%b3%e6%a3%89%e7%9b%b8%e9%97%9c%e7%95%b0%e5%b8%b8">#</a></h3>
 <ul>
 <li>Benign plaques（最常見，可鈣化）</li>
 <li>Diffuse pleural fibrosis</li>
@@ -468,8 +493,8 @@ Wegener&rsquo;s (GPA)、Embolic（pulmonary、septic）、Infection（anaerobes�
 <li>Malignant mesothelioma</li>
 </ul>
 <hr>
-<h2 id="縱隔腔異常">縱隔腔異常</h2>
-<h3 id="縱隔腫瘤felsons-method">縱隔腫瘤（Felson&rsquo;s Method）</h3>
+<h2 id="縱隔腔異常">縱隔腔異常<a class="anchor" href="#%e7%b8%b1%e9%9a%94%e8%85%94%e7%95%b0%e5%b8%b8">#</a></h2>
+<h3 id="縱隔腫瘤felsons-method">縱隔腫瘤（Felson&rsquo;s Method）<a class="anchor" href="#%e7%b8%b1%e9%9a%94%e8%85%ab%e7%98%a4felsons-method">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -492,47 +517,47 @@ Wegener&rsquo;s (GPA)、Embolic（pulmonary、septic）、Infection（anaerobes�
       </tr>
   </tbody>
 </table>
-<h3 id="心臟輪廓擴大">心臟輪廓擴大</h3>
+<h3 id="心臟輪廓擴大">心臟輪廓擴大<a class="anchor" href="#%e5%bf%83%e8%87%9f%e8%bc%aa%e5%bb%93%e6%93%b4%e5%a4%a7">#</a></h3>
 <ul>
 <li><strong>右心邊界</strong>：右心房</li>
 <li><strong>左心邊界</strong>：左心房 + 左心室</li>
 <li><strong>Lateral view 前緣</strong>：右心室；<strong>後緣</strong>：左心房 + 左心室</li>
 </ul>
 <hr>
-<h2 id="管路導管與線材">管路、導管與線材</h2>
-<h3 id="中央靜脈導管central-venous-catheter">中央靜脈導管（Central Venous Catheter）</h3>
+<h2 id="管路導管與線材">管路、導管與線材<a class="anchor" href="#%e7%ae%a1%e8%b7%af%e5%b0%8e%e7%ae%a1%e8%88%87%e7%b7%9a%e6%9d%90">#</a></h2>
+<h3 id="中央靜脈導管central-venous-catheter">中央靜脈導管（Central Venous Catheter）<a class="anchor" href="#%e4%b8%ad%e5%a4%ae%e9%9d%9c%e8%84%88%e5%b0%8e%e7%ae%a1central-venous-catheter">#</a></h3>
 <ul>
 <li>理想位置：SVC/心房交界處（避免心律不整或心房穿孔）</li>
 <li>導管走向應平行 SVC；若彎曲或垂直可能傷害血管壁</li>
 <li><strong>併發症</strong>：pneumothorax、出血（縱隔/肋膜）、错位（進入动脉或肋膜）、空氣栓塞</li>
 </ul>
-<h3 id="氣管內管endotracheal-tube-ett">氣管內管（Endotracheal Tube, ETT）</h3>
+<h3 id="氣管內管endotracheal-tube-ett">氣管內管（Endotracheal Tube, ETT）<a class="anchor" href="#%e6%b0%a3%e7%ae%a1%e5%85%a7%e7%ae%a1endotracheal-tube-ett">#</a></h3>
 <ul>
 <li>確認位於氣管而非食道：重複 X 光上胃部進行性脹氣提示食道插管</li>
 <li><strong>尖端應高於 carina 2-4 cm</strong></li>
 <li>氣囊直徑 &lt;3 cm（避免氣管黏膜壞死）</li>
 <li><strong>併發症</strong>：aspiration、咽穿孔（皮下氣腫、mediastinitis）</li>
 </ul>
-<h3 id="鼻胃管nasogastric-tube-ngt">鼻胃管（Nasogastric Tube, NGT）</h3>
+<h3 id="鼻胃管nasogastric-tube-ngt">鼻胃管（Nasogastric Tube, NGT）<a class="anchor" href="#%e9%bc%bb%e8%83%83%e7%ae%a1nasogastric-tube-ngt">#</a></h3>
 <ul>
 <li>尖端與側孔應低於 esophagogastric junction 且高於 gastric pylorus</li>
 <li>需以 X 光確認（臨床評估不可靠）</li>
 <li><strong>併發症</strong>：aspiration、pneumothorax</li>
 </ul>
-<h3 id="swan-ganz-catheter">Swan-Ganz Catheter</h3>
+<h3 id="swan-ganz-catheter">Swan-Ganz Catheter<a class="anchor" href="#swan-ganz-catheter">#</a></h3>
 <ul>
 <li>監測 pulmonary capillary wedge pressure（評估左心舒張填充）</li>
 <li>尖端應位於右或左肺动脉或其大分支內</li>
 <li><strong>併發症</strong>：pneumothorax、出血、空氣栓塞</li>
 </ul>
-<h3 id="胸管chest-tube">胸管（Chest Tube）</h3>
+<h3 id="胸管chest-tube">胸管（Chest Tube）<a class="anchor" href="#%e8%83%b8%e7%ae%a1chest-tube">#</a></h3>
 <ul>
 <li>引流液體：背側尾側肋膜腔</li>
 <li>引流氣胸：腹側頭側肋膜腔</li>
 </ul>
 <hr>
-<h2 id="腹部影像學">腹部影像學</h2>
-<h3 id="腹部-x-光abdominal-x-ray-axr">腹部 X 光（Abdominal X-Ray, AXR）</h3>
+<h2 id="腹部影像學">腹部影像學<a class="anchor" href="#%e8%85%b9%e9%83%a8%e5%bd%b1%e5%83%8f%e5%ad%b8">#</a></h2>
+<h3 id="腹部-x-光abdominal-x-ray-axr">腹部 X 光（Abdominal X-Ray, AXR）<a class="anchor" href="#%e8%85%b9%e9%83%a8-x-%e5%85%89abdominal-x-ray-axr">#</a></h3>
 <p><strong>適應症</strong></p>
 <ul>
 <li>急性腹痛：腸道穿孔、toxic megacolon、腸道缺血、小腸/大腸阻塞</li>
@@ -578,7 +603,7 @@ Wegener&rsquo;s (GPA)、Embolic（pulmonary、septic）、Infection（anaerobes�
 <li><strong>D</strong>：異常密度（結石、主動脈瘤、胰臟）</li>
 <li><strong>O</strong>：器官輪廓（肝、脾、腎、膀胱、psoas shadow）</li>
 </ul>
-<h3 id="腹部-ct">腹部 CT</h3>
+<h3 id="腹部-ct">腹部 CT<a class="anchor" href="#%e8%85%b9%e9%83%a8-ct">#</a></h3>
 <p><strong>適應症</strong></p>
 <ul>
 <li>Plain CT：renal colic、出血</li>
@@ -597,8 +622,8 @@ Wegener&rsquo;s (GPA)、Embolic（pulmonary、septic）、Infection（anaerobes�
 <li>Closed-loop obstruction：兩處阻塞，形成 U 型或 C 型腸段，易快速發生缺血/壞死</li>
 </ul>
 <hr>
-<h2 id="膽道系統影像學">膽道系統影像學</h2>
-<h3 id="急性膽囊炎acute-cholecystitis">急性膽囊炎（Acute Cholecystitis）</h3>
+<h2 id="膽道系統影像學">膽道系統影像學<a class="anchor" href="#%e8%86%bd%e9%81%93%e7%b3%bb%e7%b5%b1%e5%bd%b1%e5%83%8f%e5%ad%b8">#</a></h2>
+<h3 id="急性膽囊炎acute-cholecystitis">急性膽囊炎（Acute Cholecystitis）<a class="anchor" href="#%e6%80%a5%e6%80%a7%e8%86%bd%e5%9b%8a%e7%82%8eacute-cholecystitis">#</a></h3>
 <p><strong>最佳影像工具</strong>：超音泼（最佳 sensitivity/specificity）</p>
 <ul>
 <li><strong>HIDA scan</strong>（nuclear medicine）可輔助診斷 acalculous 或 chronic cholecystitis</li>
@@ -609,7 +634,7 @@ Wegener&rsquo;s (GPA)、Embolic（pulmonary、septic）、Infection（anaerobes�
 <li>Positive sonographic Murphy&rsquo;s sign（探頭壓迫時疼痛）</li>
 <li>膽囊壁增厚（&gt;3 mm）、膽囊擴張、pericholecystic fluid</li>
 </ul>
-<h3 id="急性胰臟炎acute-pancreatitis">急性胰臟炎（Acute Pancreatitis）</h3>
+<h3 id="急性胰臟炎acute-pancreatitis">急性胰臟炎（Acute Pancreatitis）<a class="anchor" href="#%e6%80%a5%e6%80%a7%e8%83%b0%e8%87%9f%e7%82%8eacute-pancreatitis">#</a></h3>
 <p><strong>最佳影像工具</strong>：CT（評估併發症）；超音泼（篩檢與追蹤）</p>
 <p><strong>CT 發現</strong></p>
 <ul>
@@ -620,29 +645,29 @@ Wegener&rsquo;s (GPA)、Embolic（pulmonary、septic）、Infection（anaerobes�
 <li>壞死（低 attenuation、不強化的胰臟組織）</li>
 </ul>
 <hr>
-<h2 id="泌尿系統影像學">泌尿系統影像學</h2>
-<h3 id="腎絞痛-renal-colic影像選擇">腎絞痛（ renal colic）影像選擇</h3>
+<h2 id="泌尿系統影像學">泌尿系統影像學<a class="anchor" href="#%e6%b3%8c%e5%b0%bf%e7%b3%bb%e7%b5%b1%e5%bd%b1%e5%83%8f%e5%ad%b8">#</a></h2>
+<h3 id="腎絞痛-renal-colic影像選擇">腎絞痛（ renal colic）影像選擇<a class="anchor" href="#%e8%85%8e%e7%b5%9e%e7%97%9b-renal-colic%e5%bd%b1%e5%83%8f%e9%81%b8%e6%93%87">#</a></h3>
 <ul>
 <li><strong>首選</strong>：超音泼（無輻射）</li>
 <li><strong>CT urography</strong>（無對比或對比）：高敏感度（95%）檢測 upper urinary tract 惡性腫瘤與結石</li>
 </ul>
-<h3 id="腹部-x-光kub">腹部 X 光（KUB）</h3>
+<h3 id="腹部-x-光kub">腹部 X 光（KUB）<a class="anchor" href="#%e8%85%b9%e9%83%a8-x-%e5%85%89kub">#</a></h3>
 <ul>
 <li>適用：radiopaque 腎結石、indwelling ureteric stents、腹部異物</li>
 </ul>
-<h3 id="腎結石-ct">腎結石 CT</h3>
+<h3 id="腎結石-ct">腎結石 CT<a class="anchor" href="#%e8%85%8e%e7%b5%90%e7%9f%b3-ct">#</a></h3>
 <ul>
 <li><strong>Non-contrast CT</strong>：結石大小與位置</li>
 <li><strong>CT urography</strong>：血尿評估、upper urinary tract 惡性腫瘤</li>
 <li><strong>Triphasic CT</strong>（non-contrast、arterial、venous、excretory）：腎腫瘤完整評估</li>
 </ul>
-<h3 id="超音泼">超音泼</h3>
+<h3 id="超音泼">超音泼<a class="anchor" href="#%e8%b6%85%e9%9f%b3%e6%b3%bc">#</a></h3>
 <ul>
 <li>腎臟大小、solid vs. cystic 病灶篩檢</li>
 <li>Hydronephrosis（首選，無 IV contrast、無輻射）</li>
 <li>Doppler：評估腎血管</li>
 </ul>
-<h3 id="bosniak-classification囊性腎病灶">Bosniak Classification（囊性腎病灶）</h3>
+<h3 id="bosniak-classification囊性腎病灶">Bosniak Classification（囊性腎病灶）<a class="anchor" href="#bosniak-classification%e5%9b%8a%e6%80%a7%e8%85%8e%e7%97%85%e7%81%b6">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -674,8 +699,8 @@ Wegener&rsquo;s (GPA)、Embolic（pulmonary、septic）、Infection（anaerobes�
   </tbody>
 </table>
 <hr>
-<h2 id="神經影像學">神經影像學</h2>
-<h3 id="頭部-ct急性情境首選">頭部 CT（急性情境首選）</h3>
+<h2 id="神經影像學">神經影像學<a class="anchor" href="#%e7%a5%9e%e7%b6%93%e5%bd%b1%e5%83%8f%e5%ad%b8">#</a></h2>
+<h3 id="頭部-ct急性情境首選">頭部 CT（急性情境首選）<a class="anchor" href="#%e9%a0%ad%e9%83%a8-ct%e6%80%a5%e6%80%a7%e6%83%85%e5%a2%83%e9%a6%96%e9%81%b8">#</a></h3>
 <p><strong>適應症</strong></p>
 <ul>
 <li>急性中風（CT 最常用，MRI 最佳）</li>
@@ -693,7 +718,7 @@ Wegener&rsquo;s (GPA)、Embolic（pulmonary、septic）、Infection（anaerobes�
 <li>Grey-white matter differentiation 消失</li>
 <li>Hydrocephalus</li>
 </ul>
-<h3 id="頭部-ct-判讀順序celssan">頭部 CT 判讀順序（CELSSAN）</h3>
+<h3 id="頭部-ct-判讀順序celssan">頭部 CT 判讀順序（CELSSAN）<a class="anchor" href="#%e9%a0%ad%e9%83%a8-ct-%e5%88%a4%e8%ae%80%e9%a0%86%e5%ba%8fcelssan">#</a></h3>
 <ol>
 <li><strong>C</strong>irculation：<strong>hyperdense MCA sign</strong>（急性缺血性中風）</li>
 <li><strong>E</strong>xtracranial：顱骨、顏面骨、C-spine</li>
@@ -703,7 +728,7 @@ Wegener&rsquo;s (GPA)、Embolic（pulmonary、septic）、Infection（anaerobes�
 <li><strong>A</strong>irspaces/Sinuses：骨折、opacity（液體/膿/血）</li>
 <li><strong>N</strong>uclei/Basal ganglia：visibility 消失提示 infarct</li>
 </ol>
-<h3 id="頭部-mri">頭部 MRI</h3>
+<h3 id="頭部-mri">頭部 MRI<a class="anchor" href="#%e9%a0%ad%e9%83%a8-mri">#</a></h3>
 <p><strong>適應症</strong></p>
 <ul>
 <li>缺血性中風（比 CT 更敏感，特別是 DWI）</li>
@@ -712,7 +737,7 @@ Wegener&rsquo;s (GPA)、Embolic（pulmonary、septic）、Infection（anaerobes�
 <li>脊髓病變</li>
 <li>後顱窩病灶（無骨頭假影）</li>
 </ul>
-<h3 id="中風的-ct-與-mri-表現">中風的 CT 與 MRI 表現</h3>
+<h3 id="中風的-ct-與-mri-表現">中風的 CT 與 MRI 表現<a class="anchor" href="#%e4%b8%ad%e9%a2%a8%e7%9a%84-ct-%e8%88%87-mri-%e8%a1%a8%e7%8f%be">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -744,7 +769,7 @@ Wegener&rsquo;s (GPA)、Embolic（pulmonary、septic）、Infection（anaerobes�
       </tr>
   </tbody>
 </table>
-<h3 id="顱內感染">顱內感染</h3>
+<h3 id="顱內感染">顱內感染<a class="anchor" href="#%e9%a1%b1%e5%85%a7%e6%84%9f%e6%9f%93">#</a></h3>
 <p><strong>腦膜炎（Meningitis）</strong></p>
 <ul>
 <li>最佳工具：MRI（T2/FLAIR）</li>
@@ -767,8 +792,8 @@ Wegener&rsquo;s (GPA)、Embolic（pulmonary、septic）、Infection（anaerobes�
 </li>
 </ul>
 <hr>
-<h2 id="肌肉骨骼系統影像學">肌肉骨骼系統影像學</h2>
-<h3 id="檢查方法選擇">檢查方法選擇</h3>
+<h2 id="肌肉骨骼系統影像學">肌肉骨骼系統影像學<a class="anchor" href="#%e8%82%8c%e8%82%89%e9%aa%a8%e9%aa%bc%e7%b3%bb%e7%b5%b1%e5%bd%b1%e5%83%8f%e5%ad%b8">#</a></h2>
+<h3 id="檢查方法選擇">檢查方法選擇<a class="anchor" href="#%e6%aa%a2%e6%9f%a5%e6%96%b9%e6%b3%95%e9%81%b8%e6%93%87">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -795,7 +820,7 @@ Wegener&rsquo;s (GPA)、Embolic（pulmonary、septic）、Infection（anaerobes�
       </tr>
   </tbody>
 </table>
-<h3 id="骨折描述要點">骨折描述要點</h3>
+<h3 id="骨折描述要點">骨折描述要點<a class="anchor" href="#%e9%aa%a8%e6%8a%98%e6%8f%8f%e8%bf%b0%e8%a6%81%e9%bb%9e">#</a></h3>
 <ul>
 <li>部位（骨頭、區域、關節內 vs. 關節外）</li>
 <li>骨折線形態（simple vs. comminuted）</li>
@@ -803,7 +828,7 @@ Wegener&rsquo;s (GPA)、Embolic（pulmonary、septic）、Infection（anaerobes�
 <li>軟組織侵犯</li>
 <li>類型（stress vs. pathologic）</li>
 </ul>
-<h3 id="良性-vs-侵襲性骨病灶-x-光鑑別">良性 vs. 侵襲性骨病灶 X 光鑑別</h3>
+<h3 id="良性-vs-侵襲性骨病灶-x-光鑑別">良性 vs. 侵襲性骨病灶 X 光鑑別<a class="anchor" href="#%e8%89%af%e6%80%a7-vs-%e4%be%b5%e8%a5%b2%e6%80%a7%e9%aa%a8%e7%97%85%e7%81%b6-x-%e5%85%89%e9%91%91%e5%88%a5">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -841,15 +866,15 @@ Wegener&rsquo;s (GPA)、Embolic（pulmonary、septic）、Infection（anaerobes�
   </tbody>
 </table>
 <hr>
-<h2 id="核醫學">核醫學</h2>
-<h3 id="vq-scan肺通氣灌流掃描">V/Q Scan（肺通氣/灌流掃描）</h3>
+<h2 id="核醫學">核醫學<a class="anchor" href="#%e6%a0%b8%e9%86%ab%e5%ad%b8">#</a></h2>
+<h3 id="vq-scan肺通氣灌流掃描">V/Q Scan（肺通氣/灌流掃描）<a class="anchor" href="#vq-scan%e8%82%ba%e9%80%9a%e6%b0%a3%e7%81%8c%e6%b5%81%e6%8e%83%e6%8f%8f">#</a></h3>
 <ul>
 <li><strong>Ventilation scan</strong>：評估肺泡通氣（nebulae 133Xe 或 Technegas）</li>
 <li><strong>Perfusion scan</strong>：評估肺血流（IV 99mTc-MAA）</li>
 <li><strong>Unmatched defect</strong>（通氣正常但灌流缺損）→ 疑似肺栓塞</li>
 <li>孕婦可用 modified V/Q scan（perfusion only）</li>
 </ul>
-<h3 id="甲狀腺核醫學">甲狀腺核醫學</h3>
+<h3 id="甲狀腺核醫學">甲狀腺核醫學<a class="anchor" href="#%e7%94%b2%e7%8b%80%e8%85%ba%e6%a0%b8%e9%86%ab%e5%ad%b8">#</a></h3>
 <ul>
 <li><strong>Radioactive Iodine Uptake（RAIU）</strong>：
 <ul>
@@ -864,43 +889,43 @@ Wegener&rsquo;s (GPA)、Embolic（pulmonary、septic）、Infection（anaerobes�
 </ul>
 </li>
 </ul>
-<h3 id="心肌灌流掃描nuclear-stress-test">心肌灌流掃描（Nuclear Stress Test）</h3>
+<h3 id="心肌灌流掃描nuclear-stress-test">心肌灌流掃描（Nuclear Stress Test）<a class="anchor" href="#%e5%bf%83%e8%82%8c%e7%81%8c%e6%b5%81%e6%8e%83%e6%8f%8fnuclear-stress-test">#</a></h3>
 <ul>
 <li>指示：冠狀動脈疾病評估與治療追蹤、術前風險分層、viability testing</li>
 <li><strong>Persistent defect</strong>（休息與壓力下皆存在）→ 梗塞或疤痕</li>
 <li><strong>Reversible defect</strong>（僅壓力下出現）→ 缺血</li>
 </ul>
-<h3 id="hida-scan膽道閃爍掃描">HIDA Scan（膽道閃爍掃描）</h3>
+<h3 id="hida-scan膽道閃爍掃描">HIDA Scan（膽道閃爍掃描）<a class="anchor" href="#hida-scan%e8%86%bd%e9%81%93%e9%96%83%e7%88%8d%e6%8e%83%e6%8f%8f">#</a></h3>
 <ul>
 <li>評估膽道阻塞、術後膽汁滲漏、biliary dyskinesia</li>
 <li>急性膽囊炎：4 小時後仍未見膽囊顯影</li>
 </ul>
 <hr>
-<h2 id="介入放射學">介入放射學</h2>
-<h3 id="血管造影angiography">血管造影（Angiography）</h3>
+<h2 id="介入放射學">介入放射學<a class="anchor" href="#%e4%bb%8b%e5%85%a5%e6%94%be%e5%b0%84%e5%ad%b8">#</a></h2>
+<h3 id="血管造影angiography">血管造影（Angiography）<a class="anchor" href="#%e8%a1%80%e7%ae%a1%e9%80%a0%e5%bd%b1angiography">#</a></h3>
 <ul>
 <li>診斷阻塞性/狹窄性血管疾病、動脈瘤</li>
 <li>越來越多非侵入性檢查取代（Color Doppler US、CTA、MRA）</li>
 </ul>
-<h3 id="經皮腔內血管成形術與支架percutaneous-transluminal-angioplasty--stents">經皮腔內血管成形術與支架（Percutaneous Transluminal Angioplasty &amp; Stents）</h3>
+<h3 id="經皮腔內血管成形術與支架percutaneous-transluminal-angioplasty--stents">經皮腔內血管成形術與支架（Percutaneous Transluminal Angioplasty &amp; Stents）<a class="anchor" href="#%e7%b6%93%e7%9a%ae%e8%85%94%e5%85%a7%e8%a1%80%e7%ae%a1%e6%88%90%e5%bd%a2%e8%a1%93%e8%88%87%e6%94%af%e6%9e%b6percutaneous-transluminal-angioplasty--stents">#</a></h3>
 <ul>
 <li>適用：腎、髂、股、腸繫膜、鎖骨下、冠狀動脈、頸動脈狹窄</li>
 <li>Stent 可改善長期通暢率</li>
 </ul>
-<h3 id="栓塞治療embolization">栓塞治療（Embolization）</h3>
+<h3 id="栓塞治療embolization">栓塞治療（Embolization）<a class="anchor" href="#%e6%a0%93%e5%a1%9e%e6%b2%bb%e7%99%82embolization">#</a></h3>
 <ul>
 <li><strong>永久性栓塞劑</strong>：Amplatzer vascular plug、coils、glue、onyx</li>
 <li><strong>暫時性</strong>：gel foam、autologous blood clots</li>
 <li>適應症：出血（鼻出血、創傷、GI bleed、GU bleed）、AV malformation、血管腫瘤術前治療、慢性骨盆腔疼痛（卵巢靜脈栓塞）、不孕（精索靜脈曲張）、症狀性子宮肌瘤</li>
 </ul>
-<h3 id="下腔靜脈過濾器ivc-filter">下腔靜脈過濾器（IVC Filter）</h3>
+<h3 id="下腔靜脈過濾器ivc-filter">下腔靜脈過濾器（IVC Filter）<a class="anchor" href="#%e4%b8%8b%e8%85%94%e9%9d%9c%e8%84%88%e9%81%8e%e6%bf%be%e5%99%a8ivc-filter">#</a></h3>
 <ul>
 <li>適應症：抗凝血禁忌、 anticoagulation 失敗、抗凝治療併發症需終止</li>
 <li>可置入暫時性或永久性過濾器</li>
 </ul>
 <hr>
-<h2 id="乳房影像學">乳房影像學</h2>
-<h3 id="乳房攝影mammography">乳房攝影（Mammography）</h3>
+<h2 id="乳房影像學">乳房影像學<a class="anchor" href="#%e4%b9%b3%e6%88%bf%e5%bd%b1%e5%83%8f%e5%ad%b8">#</a></h2>
+<h3 id="乳房攝影mammography">乳房攝影（Mammography）<a class="anchor" href="#%e4%b9%b3%e6%88%bf%e6%94%9d%e5%bd%b1mammography">#</a></h3>
 <p><strong>BI-RADS 分類</strong></p>
 <table>
   <thead>
@@ -956,13 +981,13 @@ Wegener&rsquo;s (GPA)、Embolic（pulmonary、septic）、Infection（anaerobes�
       </tr>
   </tbody>
 </table>
-<h3 id="乳房超音泼">乳房超音泼</h3>
+<h3 id="乳房超音泼">乳房超音泼<a class="anchor" href="#%e4%b9%b3%e6%88%bf%e8%b6%85%e9%9f%b3%e6%b3%bc">#</a></h3>
 <ul>
 <li><strong>&lt;30 歲</strong>：首選（年輕女性乳房組織緻密，攝影敏感度低）</li>
 <li><strong>&gt;30 歲</strong>：先做攝影，再加超音泼</li>
 <li>指導切片、囊腫抽吸、膿瘋引流</li>
 </ul>
-<h3 id="乳房-mri">乳房 MRI</h3>
+<h3 id="乳房-mri">乳房 MRI<a class="anchor" href="#%e4%b9%b3%e6%88%bf-mri">#</a></h3>
 <ul>
 <li>對侵襲性乳癌敏感性高（95-100%），特異性變異大</li>
 <li><strong>適應症</strong>：
@@ -975,7 +1000,7 @@ Wegener&rsquo;s (GPA)、Embolic（pulmonary、septic）、Infection（anaerobes�
 </ul>
 </li>
 </ul>
-<h3 id="乳房病灶良惡性鑑別">乳房病灶良惡性鑑別</h3>
+<h3 id="乳房病灶良惡性鑑別">乳房病灶良惡性鑑別<a class="anchor" href="#%e4%b9%b3%e6%88%bf%e7%97%85%e7%81%b6%e8%89%af%e6%83%a1%e6%80%a7%e9%91%91%e5%88%a5">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -1008,8 +1033,8 @@ Wegener&rsquo;s (GPA)、Embolic（pulmonary、septic）、Infection（anaerobes�
   </tbody>
 </table>
 <hr>
-<h2 id="landmark-放射學試驗">Landmark 放射學試驗</h2>
-<h3 id="介入血管手術">介入血管手術</h3>
+<h2 id="landmark-放射學試驗">Landmark 放射學試驗<a class="anchor" href="#landmark-%e6%94%be%e5%b0%84%e5%ad%b8%e8%a9%a6%e9%a9%97">#</a></h2>
+<h3 id="介入血管手術">介入血管手術<a class="anchor" href="#%e4%bb%8b%e5%85%a5%e8%a1%80%e7%ae%a1%e6%89%8b%e8%a1%93">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -1036,7 +1061,7 @@ Wegener&rsquo;s (GPA)、Embolic（pulmonary、septic）、Infection（anaerobes�
       </tr>
   </tbody>
 </table>
-<h3 id="腎功能與-contrast">腎功能與 Contrast</h3>
+<h3 id="腎功能與-contrast">腎功能與 Contrast<a class="anchor" href="#%e8%85%8e%e5%8a%9f%e8%83%bd%e8%88%87-contrast">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -1065,5 +1090,19 @@ Wegener&rsquo;s (GPA)、Embolic（pulmonary、septic）、Infection（anaerobes�
   <footer>
     <p>Powered by Hugo | Toronto Notes 2025 繁體中文翻譯</p>
   </footer>
+  <script>
+    function toggleTheme() {
+      const html = document.documentElement;
+      const current = html.getAttribute('data-theme');
+      const next = current === 'dark' ? 'light' : 'dark';
+      html.setAttribute('data-theme', next);
+      localStorage.setItem('theme', next);
+    }
+    const saved = localStorage.getItem('theme');
+    if (saved) document.documentElement.setAttribute('data-theme', saved);
+    else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+      document.documentElement.setAttribute('data-theme', 'dark');
+    }
+  </script>
 </body>
 </html>

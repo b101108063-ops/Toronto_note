@@ -3,33 +3,57 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Respirology - Toronto Notes 2025 繁體中文</title>
+  <title>Respirology 胸腔醫學 - Toronto Notes 2025 繁體中文</title>
   <style>
+    :root {
+      --bg-primary: #ffffff;
+      --bg-secondary: #f8fafc;
+      --text-primary: #1e293b;
+      --text-secondary: #64748b;
+      --accent: #2563eb;
+      --border: #e2e8f0;
+      --code-bg: #f1f5f9;
+      --link: #2563eb;
+      --link-visited: #5500bb;
+    }
+    [data-theme="dark"] {
+      --bg-primary: #1a1a2e;
+      --bg-secondary: #16162a;
+      --text-primary: #e4e4e7;
+      --text-secondary: #a1a1aa;
+      --accent: #93c5fd;
+      --border: #3f3f46;
+      --code-bg: #27272a;
+      --link: #93c5fd;
+      --link-visited: #c4b5fd;
+    }
     * { box-sizing: border-box; }
-    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; line-height: 1.6; color: #333; max-width: 900px; margin: 0 auto; padding: 20px; }
-    header { border-bottom: 2px solid #2563eb; padding-bottom: 10px; margin-bottom: 20px; }
-    header h1 { margin: 0; font-size: 1.5em; color: #2563eb; }
-    nav a { margin-right: 15px; color: #2563eb; text-decoration: none; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; line-height: 1.6; color: var(--text-primary); background: var(--bg-primary); max-width: 900px; margin: 0 auto; padding: 20px; }
+    header { border-bottom: 2px solid var(--accent); padding-bottom: 10px; margin-bottom: 20px; display: flex; justify-content: space-between; align-items: center; }
+    header h1 { margin: 0; font-size: 1.5em; color: var(--accent); }
+    nav a { margin-right: 15px; color: var(--link); text-decoration: none; }
     nav a:hover { text-decoration: underline; }
-    h1, h2, h3 { color: #1e293b; }
-    h1 { font-size: 1.8em; border-bottom: 1px solid #e2e8f0; padding-bottom: 8px; }
-    h2 { font-size: 1.4em; border-bottom: 1px solid #e2e8f0; padding-bottom: 5px; }
+    h1, h2, h3 { color: var(--text-primary); }
+    h1 { font-size: 1.8em; border-bottom: 1px solid var(--border); padding-bottom: 8px; }
+    h2 { font-size: 1.4em; border-bottom: 1px solid var(--border); padding-bottom: 5px; }
     h3 { font-size: 1.15em; }
-    pre { background: #f1f5f9; padding: 15px; border-radius: 6px; overflow-x: auto; }
-    code { background: #f1f5f9; padding: 2px 5px; border-radius: 3px; font-size: 0.9em; }
+    pre { background: var(--code-bg); padding: 15px; border-radius: 6px; overflow-x: auto; }
+    code { background: var(--code-bg); padding: 2px 5px; border-radius: 3px; font-size: 0.9em; }
     pre code { background: none; padding: 0; }
-    blockquote { border-left: 4px solid #2563eb; margin: 0; padding: 5px 15px; color: #64748b; background: #f8fafc; }
+    blockquote { border-left: 4px solid var(--accent); margin: 0; padding: 5px 15px; color: var(--text-secondary); background: var(--bg-secondary); }
     table { border-collapse: collapse; width: 100%; margin: 15px 0; }
-    th, td { border: 1px solid #cbd5e1; padding: 8px 12px; text-align: left; }
-    th { background: #f1f5f9; font-weight: 600; }
-    tr:nth-child(even) { background: #f8fafc; }
+    th, td { border: 1px solid var(--border); padding: 8px 12px; text-align: left; }
+    th { background: var(--bg-secondary); font-weight: 600; }
+    tr:nth-child(even) { background: var(--bg-secondary); }
     .content-body { line-height: 1.8; }
-    footer { border-top: 1px solid #e2e8f0; margin-top: 30px; padding-top: 15px; color: #64748b; font-size: 0.9em; }
-    .breadcrumb { font-size: 0.9em; color: #64748b; margin-bottom: 15px; }
-    .breadcrumb a { color: #2563eb; text-decoration: none; }
-    a { color: #2563eb; }
+    footer { border-top: 1px solid var(--border); margin-top: 30px; padding-top: 15px; color: var(--text-secondary); font-size: 0.9em; }
+    .breadcrumb { font-size: 0.9em; color: var(--text-secondary); margin-bottom: 15px; }
+    .breadcrumb a { color: var(--link); text-decoration: none; }
+    a { color: var(--link); }
     a:hover { text-decoration: underline; }
     img { max-width: 100%; height: auto; }
+    .theme-toggle { background: none; border: 1px solid var(--border); color: var(--text-primary); cursor: pointer; padding: 4px 10px; border-radius: 4px; font-size: 0.85em; }
+    .theme-toggle:hover { background: var(--bg-secondary); }
   </style>
 </head>
 <body>
@@ -38,16 +62,17 @@
       <a href="https://b101108063-ops.github.io/Toronto_note/">首頁</a>
       <a href="/Toronto_note/categories/">章節</a>
     </nav>
+    <button class="theme-toggle" onclick="toggleTheme()">🌙 暗色</button>
   </header>
 
   <main>
     <div class="breadcrumb">
-      <a href="https://b101108063-ops.github.io/Toronto_note/">首頁</a> &gt; <a href="/Toronto_note/chapters/">Chapters</a> &gt; <a href="/Toronto_note/">Toronto Notes 2025 繁體中文</a> &gt; Respirology
+      <a href="https://b101108063-ops.github.io/Toronto_note/">首頁</a> &gt; <a href="/Toronto_note/chapters/">Chapters</a> &gt; <a href="/Toronto_note/">Toronto Notes 2025 繁體中文</a> &gt; Respirology 胸腔醫學
     </div>
     <article>
-      <h1>Respirology</h1>
+      <h1>Respirology 胸腔醫學</h1>
       <div class="content-body">
-        <h2 id="章節導讀">章節導讀</h2>
+        <h2 id="章節導讀">章節導讀<a class="anchor" href="#%e7%ab%a0%e7%af%80%e5%b0%8e%e8%ae%80">#</a></h2>
 <ul>
 <li>本章涵蓋呼吸系統的核心主題，包括肺功能檢查、血氣分析、呼吸衰竭的診斷與處理</li>
 <li>阻塞性肺疾病（asthma、COPD、bronchiectasis）與限制性肺疾病的臨床特徵、診斷標準及治療建議
@@ -56,8 +81,8 @@
 <li>Sleep-related breathing disorders（sleep apnea、hypoventilation syndromes）的評估與治療</li>
 </ul>
 <hr>
-<h2 id="呼吸系統評估">呼吸系統評估</h2>
-<h3 id="肺部理學檢查">肺部理學檢查</h3>
+<h2 id="呼吸系統評估">呼吸系統評估<a class="anchor" href="#%e5%91%bc%e5%90%b8%e7%b3%bb%e7%b5%b1%e8%a9%95%e4%bc%b0">#</a></h2>
+<h3 id="肺部理學檢查">肺部理學檢查<a class="anchor" href="#%e8%82%ba%e9%83%a8%e7%90%86%e5%ad%b8%e6%aa%a2%e6%9f%a5">#</a></h3>
 <p><strong>視診（Inspection）：</strong></p>
 <ul>
 <li>呼吸速率與型態：正常為 12-20 次/分；Kussmaul 呼吸（深而快）見於 metabolic acidosis；Cheyne-Stokes 呼吸見於嚴重心衰竭</li>
@@ -86,7 +111,7 @@
 <li>Rhonchi：COPD、bronchitis</li>
 <li>Pleural friction rub：pleuritis、pericarditis</li>
 </ul>
-<h3 id="肺功能檢查pfts">肺功能檢查（PFTs）</h3>
+<h3 id="肺功能檢查pfts">肺功能檢查（PFTs）<a class="anchor" href="#%e8%82%ba%e5%8a%9f%e8%83%bd%e6%aa%a2%e6%9f%a5pfts">#</a></h3>
 <p><strong>Restrictive vs. Obstructive Pattern：</strong></p>
 <table>
   <thead>
@@ -144,7 +169,7 @@
 <li>Polycythemia</li>
 <li>Post-exercise（pulmonary blood volume 增加）</li>
 </ul>
-<h3 id="血氣分析abg">血氣分析（ABG）</h3>
+<h3 id="血氣分析abg">血氣分析（ABG）<a class="anchor" href="#%e8%a1%80%e6%b0%a3%e5%88%86%e6%9e%90abg">#</a></h3>
 <p><strong>名詞定義：</strong></p>
 <ul>
 <li><strong>Hypoxemia</strong>：PaO₂ &lt; 60 mmHg</li>
@@ -177,15 +202,14 @@
 <li>疼痛</li>
 <li>高海拔</li>
 </ul>
-<blockquote>
+<blockquote class='book-hint '>
 <p>請注意：兒科患者正常 A-a gradient &lt; 15 mmHg（5-10 mmHg）</p>
-</blockquote>
-<p><strong>圖 7. 低氧血症的處理原則</strong></p>
+</blockquote><p><strong>圖 7. 低氧血症的處理原則</strong></p>
 <p><strong>圖 8. V/Q Mismatch 的病理生理</strong></p>
 <p><strong>圖 9. Asthma 治療指引</strong></p>
 <hr>
-<h2 id="阻塞性肺疾病">阻塞性肺疾病</h2>
-<h3 id="asthma">Asthma</h3>
+<h2 id="阻塞性肺疾病">阻塞性肺疾病<a class="anchor" href="#%e9%98%bb%e5%a1%9e%e6%80%a7%e8%82%ba%e7%96%be%e7%97%85">#</a></h2>
+<h3 id="asthma">Asthma<a class="anchor" href="#asthma">#</a></h3>
 <p><strong>定義：</strong></p>
 <ul>
 <li>氣道的慢性發炎性疾病，導致可逆性支氣管痙攣發作，造成氣流阻塞</li>
@@ -284,10 +308,9 @@
 <li>寂靜胸（silent chest）</li>
 <li>Loc 下降</li>
 </ul>
-<blockquote>
+<blockquote class='book-hint '>
 <p>中央發紺在 SaO₂ &lt; 85% 前不易被發現。在 polycythemia 患者較易偵測，anemia 患者則較難。</p>
-</blockquote>
-<p><strong>Asthma 誘發因子：</strong></p>
+</blockquote><p><strong>Asthma 誘發因子：</strong></p>
 <p><strong>刺激物，例如：</strong></p>
 <ul>
 <li>URTI</li>
@@ -313,10 +336,9 @@
 <li>β-blockers（非心臟選擇性者尤其）</li>
 <li>荷爾蒙波動</li>
 </ul>
-<blockquote>
+<blockquote class='book-hint '>
 <p>當患者好轉時，記得逐步降低治療至最低劑量以維持良好控制。</p>
-</blockquote>
-<p><strong>控制不佳的徵象（DANGERS）：</strong></p>
+</blockquote><p><strong>控制不佳的徵象（DANGERS）：</strong></p>
 <ul>
 <li><strong>D</strong>aytime Sx &gt; 3 天/週</li>
 <li><strong>A</strong>ctivities（體能活動）減少</li>
@@ -362,7 +384,7 @@
 <li>出院時繼續吸入性皮質類固醇維持治療</li>
 </ul>
 <p><strong>表：Guidelines for Asthma Management</strong></p>
-<h3 id="chronic-obstructive-pulmonary-diseasecopd">Chronic Obstructive Pulmonary Disease（COPD）</h3>
+<h3 id="chronic-obstructive-pulmonary-diseasecopd">Chronic Obstructive Pulmonary Disease（COPD）<a class="anchor" href="#chronic-obstructive-pulmonary-diseasecopd">#</a></h3>
 <p><strong>定義：</strong></p>
 <ul>
 <li>漸進性、不可逆的肺部疾病，以慢性氣流阻塞為特徵，多數患者有間歇性急性發作、氣體滯留、肺部過度充氣，末期有體重下降</li>
@@ -407,10 +429,9 @@
       </tr>
   </tbody>
 </table>
-<blockquote>
+<blockquote class='book-hint '>
 <p>請注意：chronic bronchitis 和 emphysema 的病理變化可以在無阻塞的情況下存在。只有當 spirometry 也有阻塞時才稱為 COPD。</p>
-</blockquote>
-<p><strong>風險因子：</strong></p>
+</blockquote><p><strong>風險因子：</strong></p>
 <ul>
 <li><strong>吸菸</strong>是西方國家第一大風險因子</li>
 <li><strong>環境暴露：</strong> 生物質燃料烹飪的 wood smoke（尤其發展中國家）、空氣污染、職業暴露</li>
@@ -514,10 +535,9 @@
       </tr>
   </tbody>
 </table>
-<blockquote>
+<blockquote class='book-hint '>
 <p>請注意：&ldquo;blue bloater&rdquo; 和 &ldquo;pink puffer&rdquo; 是兩個極端，大多數 COPD 患者兩者皆有特徵。這些術語在臨床上已很少使用。</p>
-</blockquote>
-<p><strong>COPD 自然病程：</strong></p>
+</blockquote><p><strong>COPD 自然病程：</strong></p>
 <ul>
 <li>40 歲：慢性有痰咳嗽、偶發喘鳴</li>
 <li>50 歲：急性胸腔感染加劇</li>
@@ -535,10 +555,9 @@
 <li>COPD 急性發作</li>
 <li>CO₂ 滯留者（CO₂ retainers）：ABG 上慢性 CO₂ 上升，通常 pH 接近正常（因代谢補償）。維持 O₂ saturation 88-92%，以避免因 V/Q mismatch 惡化、Haldane 效應及/或呼吸驅動下降而使 hypercapnia 惡化</li>
 </ul>
-<blockquote>
+<blockquote class='book-hint '>
 <p>請記住：對吸菸的 COPD 患者，最重要的干預是戒菸。</p>
-</blockquote>
-<p><strong>Table 15. 穩定型 COPD 的治療</strong></p>
+</blockquote><p><strong>Table 15. 穩定型 COPD 的治療</strong></p>
 <table>
   <thead>
       <tr>
@@ -660,7 +679,7 @@
 <li><strong>存活率：</strong> FEV₁ &lt; 1 L ≈ 50%；FEV₁ &lt; 0.75 L ≈ 33%</li>
 <li><strong>BODE index（死亡風險）：</strong> 0-10 分；Body mass index（BMI &lt; 21 = +1）、Obstruction（FEV₁）、Dyspnea（mMRC scale）、Exercise capacity（6 分鐘步行距離）</li>
 </ul>
-<h3 id="bronchiectasis">Bronchiectasis</h3>
+<h3 id="bronchiectasis">Bronchiectasis<a class="anchor" href="#bronchiectasis">#</a></h3>
 <p><strong>定義：</strong></p>
 <ul>
 <li>因黏液清除持續受損及/或感染導致氣道壁發炎性破壞而造成氣道不可逆性擴張</li>
@@ -740,7 +759,7 @@
 <li>肺部切除術：選擇性局部 bronchiectasis 病例</li>
 <li>移植：瀰漫性末期病因（如原發性纖毛運動障礙、CF）</li>
 </ul>
-<h3 id="cystic-fibrosiscf">Cystic Fibrosis（CF）</h3>
+<h3 id="cystic-fibrosiscf">Cystic Fibrosis（CF）<a class="anchor" href="#cystic-fibrosiscf">#</a></h3>
 <p><strong>病理生理：</strong></p>
 <ul>
 <li>氯離子轉運功能障礙：來自外分泌腺（肺、胰臟、生殖道）的黏稠分泌物，及分泌導管阻塞</li>
@@ -789,8 +808,8 @@
 <li>女性與低社經地位有較高早期死亡風險</li>
 </ul>
 <hr>
-<h2 id="限制性肺疾病">限制性肺疾病</h2>
-<h3 id="間質性肺疾病interstitial-lung-disease-ild">間質性肺疾病（Interstitial Lung Disease, ILD）</h3>
+<h2 id="限制性肺疾病">限制性肺疾病<a class="anchor" href="#%e9%99%90%e5%88%b6%e6%80%a7%e8%82%ba%e7%96%be%e7%97%85">#</a></h2>
+<h3 id="間質性肺疾病interstitial-lung-disease-ild">間質性肺疾病（Interstitial Lung Disease, ILD）<a class="anchor" href="#%e9%96%93%e8%b3%aa%e6%80%a7%e8%82%ba%e7%96%be%e7%97%85interstitial-lung-disease-ild">#</a></h3>
 <p><strong>定義：</strong></p>
 <ul>
 <li>一組導致瀰漫性肺實質疾病、進行性肺組織疤痕化及肺功能與氣體交換障礙的疾病</li>
@@ -951,10 +970,9 @@
 <li><strong>ABGs：</strong> 隨疾病進展可能出現缺氧血症，晚期有呼吸性酸中毒</li>
 <li><strong>其他：</strong> ANA、RF 為基本檢查，根據情況添加 anti-CCP、ANCA、肌炎抗體；血清沉積素抗體（HP）；選擇性患者做支氣管鏡 + 灌洗；CT 顯示 UIP 不確定或替代診斷時考慮外科肺切片</li>
 </ul>
-<blockquote>
+<blockquote class='book-hint '>
 <p>請注意：CXR 在多達 10% 的間質性肺疾病患者可能正常。</p>
-</blockquote>
-<h3 id="idiopathic-pulmonary-fibrosisipf">Idiopathic Pulmonary Fibrosis（IPF）</h3>
+</blockquote><h3 id="idiopathic-pulmonary-fibrosisipf">Idiopathic Pulmonary Fibrosis（IPF）<a class="anchor" href="#idiopathic-pulmonary-fibrosisipf">#</a></h3>
 <p><strong>定義：</strong></p>
 <ul>
 <li>未知原因的肺纖維化，具 UIP 組織學（切片或 CT 推斷）</li>
@@ -978,7 +996,7 @@
 <li><strong>急性發作：</strong> prednisone——證據有限但常使用；根據個人情況考慮抗生素與利尿劑 + mechanical ventilation</li>
 <li><strong>持續管理：</strong> 抗纖維化治療（pirfenidone 或 nintedanib）；戒菸 + 肺康復 + O₂；若有胃食道逆流則用 PPI；末期疾病肺移植；安寧療護</li>
 </ul>
-<h3 id="cryptogenic-organizing-pneumoniacop與-organizing-pneumonia">Cryptogenic Organizing Pneumonia（COP）與 Organizing Pneumonia</h3>
+<h3 id="cryptogenic-organizing-pneumoniacop與-organizing-pneumonia">Cryptogenic Organizing Pneumonia（COP）與 Organizing Pneumonia<a class="anchor" href="#cryptogenic-organizing-pneumoniacop%e8%88%87-organizing-pneumonia">#</a></h3>
 <p><strong>定義：</strong></p>
 <ul>
 <li>Organizing pneumonia：涉及細支氣管與肺泡空間的發炎過程，由結締組織疾病相關 ILD、藥物或其他觸發物引起</li>
@@ -1005,7 +1023,7 @@
 <li><strong>COP：</strong> 類固醇免疫抑制——常復發，可能需要長期減量，通常為 6 個月</li>
 <li><strong>其他形式 OP：</strong> 治療時間可長於或短於 6 個月（如藥物引起 OP 可能只需停藥即可改善）</li>
 </ul>
-<h3 id="hypersensitivity-pneumonitishp">Hypersensitivity Pneumonitis（HP）</h3>
+<h3 id="hypersensitivity-pneumonitishp">Hypersensitivity Pneumonitis（HP）<a class="anchor" href="#hypersensitivity-pneumonitishp">#</a></h3>
 <p><strong>定義：</strong></p>
 <ul>
 <li>HP，又稱 extrinsic allergic alveolitis，由吸入有機抗原或低分子量化合物（如藥物與化學品）引起的免疫介導肺病變光譜</li>
@@ -1055,7 +1073,7 @@
 <li>系統性皮質類固醇可緩解症狀並加速消退——在急性/亞急性 HP 更有效；對慢性纖維化 HP 效果不確定</li>
 <li>類固醇替代藥物（如 mycophenolate、azathioprine）常用於漸進性疾病即使使用 steroids 或預防 steroid 相關副作用</li>
 </ul>
-<h3 id="sarcoidosis">Sarcoidosis</h3>
+<h3 id="sarcoidosis">Sarcoidosis<a class="anchor" href="#sarcoidosis">#</a></h3>
 <p><strong>定義：</strong></p>
 <ul>
 <li>未知原因的 非傳染性肉芽腫性多系統疾病，90% 有肺部侵犯</li>
@@ -1131,7 +1149,7 @@
 <ul>
 <li>死亡率從 &lt; 1% 到 8% 不等，取決於照護環境、疾病嚴重度與患者人口統計</li>
 </ul>
-<h3 id="pneumoconioses">Pneumoconioses</h3>
+<h3 id="pneumoconioses">Pneumoconioses<a class="anchor" href="#pneumoconioses">#</a></h3>
 <p><strong>定義：</strong></p>
 <ul>
 <li>暴露於礦物粉塵與有機粉塵引起的慢性肺病群組</li>
@@ -1241,7 +1259,7 @@
       </tr>
   </tbody>
 </table>
-<h3 id="藥物或治療相關間質性肺疾病">藥物或治療相關間質性肺疾病</h3>
+<h3 id="藥物或治療相關間質性肺疾病">藥物或治療相關間質性肺疾病<a class="anchor" href="#%e8%97%a5%e7%89%a9%e6%88%96%e6%b2%bb%e7%99%82%e7%9b%b8%e9%97%9c%e9%96%93%e8%b3%aa%e6%80%a7%e8%82%ba%e7%96%be%e7%97%85">#</a></h3>
 <p><strong>藥物引起：</strong></p>
 <ul>
 <li><strong>抗生素：</strong> nitrofurantoin、penicillin、sulfonamide</li>
@@ -1258,18 +1276,18 @@
 <li>浸潤符合輻射野的形狀</li>
 </ul>
 <hr>
-<h2 id="肺部感染">肺部感染</h2>
-<h3 id="pneumonia">Pneumonia</h3>
+<h2 id="肺部感染">肺部感染<a class="anchor" href="#%e8%82%ba%e9%83%a8%e6%84%9f%e6%9f%93">#</a></h2>
+<h3 id="pneumonia">Pneumonia<a class="anchor" href="#pneumonia">#</a></h3>
 <p><em>請參閱 Pediatrics, P68</em></p>
 <p><strong>社區獲得性肺炎（CAP）的風險因子與檢查：</strong></p>
 <ul>
 <li>見 Emergency Medicine、Infectious Diseases</li>
 </ul>
-<h3 id="結核病tuberculosis">結核病（Tuberculosis）</h3>
+<h3 id="結核病tuberculosis">結核病（Tuberculosis）<a class="anchor" href="#%e7%b5%90%e6%a0%b8%e7%97%85tuberculosis">#</a></h3>
 <p><em>請參閱 Infectious Diseases, ID25</em></p>
 <hr>
-<h2 id="肺循環疾病">肺循環疾病</h2>
-<h3 id="pulmonary-hypertension">Pulmonary Hypertension</h3>
+<h2 id="肺循環疾病">肺循環疾病<a class="anchor" href="#%e8%82%ba%e5%be%aa%e7%92%b0%e7%96%be%e7%97%85">#</a></h2>
+<h3 id="pulmonary-hypertension">Pulmonary Hypertension<a class="anchor" href="#pulmonary-hypertension">#</a></h3>
 <p><strong>定義：</strong></p>
 <ul>
 <li>平均肺動脈壓 &gt; 20 mmHg，肺動脈楔壓（PAWP）&lt; 15 mmHg 且肺血管阻力（PVR）&gt; 3 Wood units（於休息時仰臥位經右心導管測量）</li>
@@ -1312,7 +1330,7 @@
       </tr>
   </tbody>
 </table>
-<h3 id="idiopathic-pulmonary-arterial-hypertensionipah原發性肺高血壓">Idiopathic Pulmonary Arterial Hypertension（IPAH，原發性肺高血壓）</h3>
+<h3 id="idiopathic-pulmonary-arterial-hypertensionipah原發性肺高血壓">Idiopathic Pulmonary Arterial Hypertension（IPAH，原發性肺高血壓）<a class="anchor" href="#idiopathic-pulmonary-arterial-hypertensionipah%e5%8e%9f%e7%99%bc%e6%80%a7%e8%82%ba%e9%ab%98%e8%a1%80%e5%a3%93">#</a></h3>
 <p><strong>定義：</strong></p>
 <ul>
 <li>無可證明原因的情況下的肺部高血壓（即 Group 1）</li>
@@ -1396,7 +1414,7 @@
 <li>發病率與死亡率高但取決於基礎疾病</li>
 <li>若為嚴重肺高血壓（症狀快速進展、頻繁暈厥、 advanced WHO 功能分級）或右心衰竭，存活降至約 1 年</li>
 </ul>
-<h3 id="pulmonary-embolismpe">Pulmonary Embolism（PE）</h3>
+<h3 id="pulmonary-embolismpe">Pulmonary Embolism（PE）<a class="anchor" href="#pulmonary-embolismpe">#</a></h3>
 <p><strong>定義：</strong></p>
 <ul>
 <li>肺血管系統的機械性阻塞導致血流阻塞</li>
@@ -1527,7 +1545,7 @@
       </tr>
   </tbody>
 </table>
-<h3 id="pulmonary-vasculitis">Pulmonary Vasculitis</h3>
+<h3 id="pulmonary-vasculitis">Pulmonary Vasculitis<a class="anchor" href="#pulmonary-vasculitis">#</a></h3>
 <p><strong>Table 23. 肺部血管炎</strong></p>
 <table>
   <thead>
@@ -1576,11 +1594,11 @@
   </tbody>
 </table>
 <hr>
-<h2 id="胸膜與縱隔疾病">胸膜與縱隔疾病</h2>
-<h3 id="diseases-of-the-mediastinum-and-pleura">Diseases of the Mediastinum and Pleura</h3>
-<h4 id="縱隔腔-masses">縱隔腔 masses</h4>
+<h2 id="胸膜與縱隔疾病">胸膜與縱隔疾病<a class="anchor" href="#%e8%83%b8%e8%86%9c%e8%88%87%e7%b8%b1%e9%9a%94%e7%96%be%e7%97%85">#</a></h2>
+<h3 id="diseases-of-the-mediastinum-and-pleura">Diseases of the Mediastinum and Pleura<a class="anchor" href="#diseases-of-the-mediastinum-and-pleura">#</a></h3>
+<h4 id="縱隔腔-masses">縱隔腔 masses<a class="anchor" href="#%e7%b8%b1%e9%9a%94%e8%85%94-masses">#</a></h4>
 <p><em>請參閱 General and Thoracic Surgery, GS20</em></p>
-<h4 id="縱隔腔炎mediastinitis">縱隔腔炎（Mediastinitis）</h4>
+<h4 id="縱隔腔炎mediastinitis">縱隔腔炎（Mediastinitis）<a class="anchor" href="#%e7%b8%b1%e9%9a%94%e8%85%94%e7%82%8emediastinitis">#</a></h4>
 <p><strong>急性：</strong></p>
 <ul>
 <li><strong>病因：</strong>
@@ -1594,7 +1612,7 @@
 <li><strong>徵候與症狀：</strong> 發燒、胸口骨後疼痛；通常急性戲劇性發病，伴易怒、不安、死亡將至感；氣縱隔、縱隔壓迫；Hamman&rsquo;s sign（心收縮期聽診性「 crunch」）</li>
 <li><strong>治療：</strong> 抗生素（IV vancomycin + 第三代 cephalosporin）、引流 + 手術修補穿孔</li>
 </ul>
-<h4 id="胸腔解剖">胸腔解剖</h4>
+<h4 id="胸腔解剖">胸腔解剖<a class="anchor" href="#%e8%83%b8%e8%85%94%e8%a7%a3%e5%89%96">#</a></h4>
 <p><strong>縱隔腔組成：</strong></p>
 <ul>
 <li><strong>前縱隔：</strong> 胸骨到心包與大血管。包括：胸腺、心包外主動脈及其分支、大靜脈、淋巴組織</li>
@@ -1608,7 +1626,7 @@
 <li>畸胎瘤及其他生殖細胞腫瘤</li>
 <li>Lymphoma</li>
 </ul>
-<h3 id="pleural-effusions">Pleural Effusions</h3>
+<h3 id="pleural-effusions">Pleural Effusions<a class="anchor" href="#pleural-effusions">#</a></h3>
 <p><strong>定義：</strong></p>
 <ul>
 <li>胸膜腔內過量液體</li>
@@ -1758,11 +1776,11 @@
 </ul>
 <p><strong>Complicated Parapneumonic Effusion 與 Empyema：</strong>
 <em>請參閱 General and Thoracic Surgery, GS17</em></p>
-<h3 id="atelectasis">Atelectasis</h3>
+<h3 id="atelectasis">Atelectasis<a class="anchor" href="#atelectasis">#</a></h3>
 <p><em>請參閱 General and Thoracic Surgery, GS11</em></p>
-<h3 id="pneumothorax">Pneumothorax</h3>
+<h3 id="pneumothorax">Pneumothorax<a class="anchor" href="#pneumothorax">#</a></h3>
 <p><em>請參閱 General and Thoracic Surgery, GS17</em></p>
-<h3 id="asbestos-related-pleural-disease">Asbestos-Related Pleural Disease</h3>
+<h3 id="asbestos-related-pleural-disease">Asbestos-Related Pleural Disease<a class="anchor" href="#asbestos-related-pleural-disease">#</a></h3>
 <p><strong>病因學與病理生理：</strong></p>
 <ul>
 <li><strong>非惡性石棉暴露表現：</strong>
@@ -1773,7 +1791,7 @@
 </ul>
 </li>
 </ul>
-<h3 id="mesothelioma">Mesothelioma</h3>
+<h3 id="mesothelioma">Mesothelioma<a class="anchor" href="#mesothelioma">#</a></h3>
 <p><strong>病因學與病理生理：</strong></p>
 <ul>
 <li>胸膜的原發性惡性腫瘤</li>
@@ -1797,7 +1815,7 @@
 <li>因預後差，常需安寧照護</li>
 </ul>
 <hr>
-<h2 id="respiratory-failure">Respiratory Failure</h2>
+<h2 id="respiratory-failure">Respiratory Failure<a class="anchor" href="#respiratory-failure">#</a></h2>
 <p><strong>定義：</strong></p>
 <ul>
 <li>呼吸系統無法維持正常氣體交換（氧與二氧化碳穩態）</li>
@@ -1816,7 +1834,7 @@
 <li>CXR 及/或 CT</li>
 <li>肺功能檢查（慢性呼吸衰竭）</li>
 </ul>
-<h3 id="hypoxemic-respiratory-failure">Hypoxemic Respiratory Failure</h3>
+<h3 id="hypoxemic-respiratory-failure">Hypoxemic Respiratory Failure<a class="anchor" href="#hypoxemic-respiratory-failure">#</a></h3>
 <p><strong>定義：</strong></p>
 <ul>
 <li>PaO₂ 下降，PaCO₂ 正常或下降</li>
@@ -1891,7 +1909,7 @@
       </tr>
   </tbody>
 </table>
-<h3 id="hypercapnic-respiratory-failure">Hypercapnic Respiratory Failure</h3>
+<h3 id="hypercapnic-respiratory-failure">Hypercapnic Respiratory Failure<a class="anchor" href="#hypercapnic-respiratory-failure">#</a></h3>
 <p><strong>定義：</strong></p>
 <ul>
 <li>PaCO₂ 增加，PaO₂ 下降</li>
@@ -1921,7 +1939,7 @@
 <li>維持氧合</li>
 <li>飲食：高碳水化合物可增加有機械或有限肺泡通氣患者的 PaCO₂；高脂肪降低 PaCO₂</li>
 </ul>
-<h3 id="acute-respiratory-distress-syndromeards">Acute Respiratory Distress Syndrome（ARDS）</h3>
+<h3 id="acute-respiratory-distress-syndromeards">Acute Respiratory Distress Syndrome（ARDS）<a class="anchor" href="#acute-respiratory-distress-syndromeards">#</a></h3>
 <p><strong>定義：</strong></p>
 <ul>
 <li>以嚴重呼吸窘迫、缺氧血症與非心源性肺水腫為特徵的臨床症候群</li>
@@ -2011,15 +2029,15 @@
   </tbody>
 </table>
 <hr>
-<h2 id="neoplasms">Neoplasms</h2>
-<h3 id="lung-cancer">Lung Cancer</h3>
+<h2 id="neoplasms">Neoplasms<a class="anchor" href="#neoplasms">#</a></h2>
+<h3 id="lung-cancer">Lung Cancer<a class="anchor" href="#lung-cancer">#</a></h3>
 <p><em>請參閱 General and Thoracic Surgery, GS14</em></p>
-<h3 id="approach-to-the-solitary-pulmonary-nodule">Approach to the Solitary Pulmonary Nodule</h3>
+<h3 id="approach-to-the-solitary-pulmonary-nodule">Approach to the Solitary Pulmonary Nodule<a class="anchor" href="#approach-to-the-solitary-pulmonary-nodule">#</a></h3>
 <p><em>請參閱 Medical Imaging, Lung Abnormalities, MI17</em>
 <em>請參閱 General and Thoracic Surgery, GS13</em></p>
 <hr>
-<h2 id="sleep-related-breathing-disorders">Sleep-Related Breathing Disorders</h2>
-<h3 id="hypoventilation-syndromes">Hypoventilation Syndromes</h3>
+<h2 id="sleep-related-breathing-disorders">Sleep-Related Breathing Disorders<a class="anchor" href="#sleep-related-breathing-disorders">#</a></h2>
+<h3 id="hypoventilation-syndromes">Hypoventilation Syndromes<a class="anchor" href="#hypoventilation-syndromes">#</a></h3>
 <p><strong>定義：</strong></p>
 <ul>
 <li>一組以睡眠期間換氣不足為特徵的症候群，儘管日間高碳酸血症也可能是特徵</li>
@@ -2031,7 +2049,7 @@
 <li>基礎疾病的治療</li>
 <li>通常夜間 PAP 治療（常為 BiPAP，提供通氣及氣道支撐）</li>
 </ul>
-<h3 id="sleep-apnea">Sleep Apnea</h3>
+<h3 id="sleep-apnea">Sleep Apnea<a class="anchor" href="#sleep-apnea">#</a></h3>
 <p><strong>定義：</strong></p>
 <ul>
 <li>睡眠期間氣流陣發性減少</li>
@@ -2074,7 +2092,7 @@
 <li>評估有限參數，主要針對 OSA 診斷；通常不包括 EEG 監測</li>
 <li><strong>適應症：</strong> 有疑似 OSA 且無顯著心肺合併症的患者評估</li>
 </ul>
-<h3 id="osa">OSA</h3>
+<h3 id="osa">OSA<a class="anchor" href="#osa">#</a></h3>
 <p><strong>風險因子：</strong></p>
 <ul>
 <li>肥胖、顱面異常、口腔咽喉擁擠（包括扁桃腺擴大、舌頭大）、短/寬頸（頸圍 &gt; 17 英寸（&gt; 43 cm）男性與 &gt; 16 英寸（&gt; 40.6 cm）女性）、鼻腔阻塞</li>
@@ -2096,7 +2114,7 @@
 <li><strong>口腔器械：</strong> 通常效果低於 CPAP 但某些患者耐受性較好</li>
 <li><strong>手術：</strong> 選擇性患者可能有益（如扁桃腺切除、UPPP、舌根與顎手術、氣管切開術）</li>
 </ul>
-<h3 id="csa">CSA</h3>
+<h3 id="csa">CSA<a class="anchor" href="#csa">#</a></h3>
 <p><strong>風險因子：</strong></p>
 <ul>
 <li><strong>高碳酸血症性 CSA：</strong> 基礎疾病導致睡眠換氣不足症候群</li>
@@ -2116,10 +2134,10 @@
 <li><strong>非高碳酸血症性 CSA：</strong> 尚未顯示受益於 CPAP 或 BiPAP；adaptive servo-ventilation（ASV）的臨床試驗正在進行，但一项研究顯示有害訊號</li>
 </ul>
 <hr>
-<h2 id="加護病房概論">加護病房概論</h2>
-<h3 id="介紹">介紹</h3>
+<h2 id="加護病房概論">加護病房概論<a class="anchor" href="#%e5%8a%a0%e8%ad%b7%e7%97%85%e6%88%bf%e6%a6%82%e8%ab%96">#</a></h2>
+<h3 id="介紹">介紹<a class="anchor" href="#%e4%bb%8b%e7%b4%b9">#</a></h3>
 <p>目標是穩定重症患者：血流動力學、呼吸、心臟不穩定，或需密切監測</p>
-<h3 id="lines-與-catheters">Lines 與 Catheters</h3>
+<h3 id="lines-與-catheters">Lines 與 Catheters<a class="anchor" href="#lines-%e8%88%87-catheters">#</a></h3>
 <p><strong>动脉管路：</strong></p>
 <ul>
 <li>監測逐心跳血壓變化、取得常規 ABG 血液</li>
@@ -2139,7 +2157,7 @@
 <li><strong>適應症（現因相關併發症少用）：</strong> 休克、初始肺高血壓、瓣膜疾病、心內分流、心包填塞、PE 的診斷；評估治療反應的血流動力學；區分高與低壓肺水腫；複雜 MI、多器官衰竭及/或嚴重燒傷的血流動力學不穩定管理</li>
 <li><strong>絕對禁忌：</strong> 三尖瓣或肺瓣膜機械瓣膜；右心 masses（血栓或腫瘤）；三尖瓣或肺瓣膜心內膜炎</li>
 </ul>
-<h3 id="實用方程式與心肺參數">實用方程式與心肺參數</h3>
+<h3 id="實用方程式與心肺參數">實用方程式與心肺參數<a class="anchor" href="#%e5%af%a6%e7%94%a8%e6%96%b9%e7%a8%8b%e5%bc%8f%e8%88%87%e5%bf%83%e8%82%ba%e5%8f%83%e6%95%b8">#</a></h3>
 <p><strong>Table 28. 實用方程式與心肺參數</strong></p>
 <table>
   <thead>
@@ -2179,7 +2197,7 @@
       </tr>
   </tbody>
 </table>
-<h3 id="organ-failure">Organ Failure</h3>
+<h3 id="organ-failure">Organ Failure<a class="anchor" href="#organ-failure">#</a></h3>
 <p><strong>Table 29. 器官衰竭類型</strong></p>
 <table>
   <thead>
@@ -2217,7 +2235,7 @@
       </tr>
   </tbody>
 </table>
-<h3 id="shock">Shock</h3>
+<h3 id="shock">Shock<a class="anchor" href="#shock">#</a></h3>
 <p><strong>定義：</strong></p>
 <ul>
 <li>不充分的組織灌注，可能導致終端器官損傷</li>
@@ -2388,7 +2406,7 @@
 </li>
 </ul>
 <hr>
-<h2 id="常見呼吸系統藥物">常見呼吸系統藥物</h2>
+<h2 id="常見呼吸系統藥物">常見呼吸系統藥物<a class="anchor" href="#%e5%b8%b8%e8%a6%8b%e5%91%bc%e5%90%b8%e7%b3%bb%e7%b5%b1%e8%97%a5%e7%89%a9">#</a></h2>
 <p><strong>Table 32. 呼吸系統常見藥物</strong></p>
 <table>
   <thead>
@@ -2559,7 +2577,7 @@
   </tbody>
 </table>
 <hr>
-<h2 id="landmark-respirology-trials">Landmark Respirology Trials</h2>
+<h2 id="landmark-respirology-trials">Landmark Respirology Trials<a class="anchor" href="#landmark-respirology-trials">#</a></h2>
 <p><em>見 Toronto Notes 2025 主要章節參考文獻</em></p>
 <hr>
 <p><em>Toronto Notes 2025</em></p>
@@ -2571,5 +2589,19 @@
   <footer>
     <p>Powered by Hugo | Toronto Notes 2025 繁體中文翻譯</p>
   </footer>
+  <script>
+    function toggleTheme() {
+      const html = document.documentElement;
+      const current = html.getAttribute('data-theme');
+      const next = current === 'dark' ? 'light' : 'dark';
+      html.setAttribute('data-theme', next);
+      localStorage.setItem('theme', next);
+    }
+    const saved = localStorage.getItem('theme');
+    if (saved) document.documentElement.setAttribute('data-theme', saved);
+    else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+      document.documentElement.setAttribute('data-theme', 'dark');
+    }
+  </script>
 </body>
 </html>

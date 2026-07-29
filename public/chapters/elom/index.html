@@ -5,31 +5,55 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Ethical, Legal, and Organizational Medicine（倫理、法律與醫療組織） - Toronto Notes 2025 繁體中文</title>
   <style>
+    :root {
+      --bg-primary: #ffffff;
+      --bg-secondary: #f8fafc;
+      --text-primary: #1e293b;
+      --text-secondary: #64748b;
+      --accent: #2563eb;
+      --border: #e2e8f0;
+      --code-bg: #f1f5f9;
+      --link: #2563eb;
+      --link-visited: #5500bb;
+    }
+    [data-theme="dark"] {
+      --bg-primary: #1a1a2e;
+      --bg-secondary: #16162a;
+      --text-primary: #e4e4e7;
+      --text-secondary: #a1a1aa;
+      --accent: #93c5fd;
+      --border: #3f3f46;
+      --code-bg: #27272a;
+      --link: #93c5fd;
+      --link-visited: #c4b5fd;
+    }
     * { box-sizing: border-box; }
-    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; line-height: 1.6; color: #333; max-width: 900px; margin: 0 auto; padding: 20px; }
-    header { border-bottom: 2px solid #2563eb; padding-bottom: 10px; margin-bottom: 20px; }
-    header h1 { margin: 0; font-size: 1.5em; color: #2563eb; }
-    nav a { margin-right: 15px; color: #2563eb; text-decoration: none; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; line-height: 1.6; color: var(--text-primary); background: var(--bg-primary); max-width: 900px; margin: 0 auto; padding: 20px; }
+    header { border-bottom: 2px solid var(--accent); padding-bottom: 10px; margin-bottom: 20px; display: flex; justify-content: space-between; align-items: center; }
+    header h1 { margin: 0; font-size: 1.5em; color: var(--accent); }
+    nav a { margin-right: 15px; color: var(--link); text-decoration: none; }
     nav a:hover { text-decoration: underline; }
-    h1, h2, h3 { color: #1e293b; }
-    h1 { font-size: 1.8em; border-bottom: 1px solid #e2e8f0; padding-bottom: 8px; }
-    h2 { font-size: 1.4em; border-bottom: 1px solid #e2e8f0; padding-bottom: 5px; }
+    h1, h2, h3 { color: var(--text-primary); }
+    h1 { font-size: 1.8em; border-bottom: 1px solid var(--border); padding-bottom: 8px; }
+    h2 { font-size: 1.4em; border-bottom: 1px solid var(--border); padding-bottom: 5px; }
     h3 { font-size: 1.15em; }
-    pre { background: #f1f5f9; padding: 15px; border-radius: 6px; overflow-x: auto; }
-    code { background: #f1f5f9; padding: 2px 5px; border-radius: 3px; font-size: 0.9em; }
+    pre { background: var(--code-bg); padding: 15px; border-radius: 6px; overflow-x: auto; }
+    code { background: var(--code-bg); padding: 2px 5px; border-radius: 3px; font-size: 0.9em; }
     pre code { background: none; padding: 0; }
-    blockquote { border-left: 4px solid #2563eb; margin: 0; padding: 5px 15px; color: #64748b; background: #f8fafc; }
+    blockquote { border-left: 4px solid var(--accent); margin: 0; padding: 5px 15px; color: var(--text-secondary); background: var(--bg-secondary); }
     table { border-collapse: collapse; width: 100%; margin: 15px 0; }
-    th, td { border: 1px solid #cbd5e1; padding: 8px 12px; text-align: left; }
-    th { background: #f1f5f9; font-weight: 600; }
-    tr:nth-child(even) { background: #f8fafc; }
+    th, td { border: 1px solid var(--border); padding: 8px 12px; text-align: left; }
+    th { background: var(--bg-secondary); font-weight: 600; }
+    tr:nth-child(even) { background: var(--bg-secondary); }
     .content-body { line-height: 1.8; }
-    footer { border-top: 1px solid #e2e8f0; margin-top: 30px; padding-top: 15px; color: #64748b; font-size: 0.9em; }
-    .breadcrumb { font-size: 0.9em; color: #64748b; margin-bottom: 15px; }
-    .breadcrumb a { color: #2563eb; text-decoration: none; }
-    a { color: #2563eb; }
+    footer { border-top: 1px solid var(--border); margin-top: 30px; padding-top: 15px; color: var(--text-secondary); font-size: 0.9em; }
+    .breadcrumb { font-size: 0.9em; color: var(--text-secondary); margin-bottom: 15px; }
+    .breadcrumb a { color: var(--link); text-decoration: none; }
+    a { color: var(--link); }
     a:hover { text-decoration: underline; }
     img { max-width: 100%; height: auto; }
+    .theme-toggle { background: none; border: 1px solid var(--border); color: var(--text-primary); cursor: pointer; padding: 4px 10px; border-radius: 4px; font-size: 0.85em; }
+    .theme-toggle:hover { background: var(--bg-secondary); }
   </style>
 </head>
 <body>
@@ -38,6 +62,7 @@
       <a href="https://b101108063-ops.github.io/Toronto_note/">首頁</a>
       <a href="/Toronto_note/categories/">章節</a>
     </nav>
+    <button class="theme-toggle" onclick="toggleTheme()">🌙 暗色</button>
   </header>
 
   <main>
@@ -47,7 +72,7 @@
     <article>
       <h1>Ethical, Legal, and Organizational Medicine（倫理、法律與醫療組織）</h1>
       <div class="content-body">
-        <h2 id="導讀摘要">導讀摘要</h2>
+        <h2 id="導讀摘要">導讀摘要<a class="anchor" href="#%e5%b0%8e%e8%ae%80%e6%91%98%e8%a6%81">#</a></h2>
 <ul>
 <li><strong>Confidentiality 與 Fiduciary Duty</strong>：醫師對患者負有保密義務（confidentiality），源於 fiduciary duty（忠實義務），構成醫病關係的基石</li>
 <li><strong>Informed Consent 四要素</strong>：Valid consent 須滿足 Voluntary（自願）、Capable（有能力）、Specific（特定）、Informed（充分告知）四項要件</li>
@@ -56,13 +81,13 @@
 <li><strong>原住民健康之結構性困境</strong>：Indian Act、Doctrine of Discovery、Residential Schools 等殖民歷史導致原住民社區健康結果顯著落後</li>
 </ul>
 <hr>
-<h2 id="醫學倫理">醫學倫理</h2>
-<h3 id="cma-code-of-ethics-and-professionalism">CMA Code of Ethics and Professionalism</h3>
-<h4 id="a-倫理醫師所展現之德行">A. 倫理醫師所展現之德行</h4>
+<h2 id="醫學倫理">醫學倫理<a class="anchor" href="#%e9%86%ab%e5%ad%b8%e5%80%ab%e7%90%86">#</a></h2>
+<h3 id="cma-code-of-ethics-and-professionalism">CMA Code of Ethics and Professionalism<a class="anchor" href="#cma-code-of-ethics-and-professionalism">#</a></h3>
+<h4 id="a-倫理醫師所展現之德行">A. 倫理醫師所展現之德行<a class="anchor" href="#a-%e5%80%ab%e7%90%86%e9%86%ab%e5%b8%ab%e6%89%80%e5%b1%95%e7%8f%be%e4%b9%8b%e5%be%b7%e8%a1%8c">#</a></h4>
 <ul>
 <li>Compassion（慈悲）、Integrity（正直）、Honesty（誠實）、Prudence（審慎）、Humility（謙遜）</li>
 </ul>
-<h4 id="b-醫療專業之基本承諾">B. 醫療專業之基本承諾</h4>
+<h4 id="b-醫療專業之基本承諾">B. 醫療專業之基本承諾<a class="anchor" href="#b-%e9%86%ab%e7%99%82%e5%b0%88%e6%a5%ad%e4%b9%8b%e5%9f%ba%e6%9c%ac%e6%89%bf%e8%ab%be">#</a></h4>
 <ol>
 <li>Commitment to the well-being of the patient（對患者福祉之承諾）</li>
 <li>Commitment to respect for persons（對人格尊嚴之承諾）</li>
@@ -72,7 +97,7 @@
 <li>Commitment to self-care and peer support（對自我照護與同儕支持之承諾）</li>
 <li>Commitment to inquiry and reflection（對探究與反思之承諾）</li>
 </ol>
-<h4 id="c-專業責任">C. 專業責任</h4>
+<h4 id="c-專業責任">C. 專業責任<a class="anchor" href="#c-%e5%b0%88%e6%a5%ad%e8%b2%ac%e4%bb%bb">#</a></h4>
 <p><strong>醫師與患者</strong></p>
 <ul>
 <li>Patient-physician relationship（醫病關係）</li>
@@ -101,8 +126,8 @@
 <li>Supporting equitable access to healthcare resources, and building collaborative relationships with marginalized groups（支持公平獲得醫療資源，並與邊緣化群體建立合作關係）</li>
 </ul>
 <hr>
-<h3 id="confidentiality保密義務">Confidentiality（保密義務）</h3>
-<h4 id="overview-of-confidentiality">Overview of Confidentiality</h4>
+<h3 id="confidentiality保密義務">Confidentiality（保密義務）<a class="anchor" href="#confidentiality%e4%bf%9d%e5%af%86%e7%be%a9%e5%8b%99">#</a></h3>
+<h4 id="overview-of-confidentiality">Overview of Confidentiality<a class="anchor" href="#overview-of-confidentiality">#</a></h4>
 <ul>
 <li>假設患者所提供之所有資訊均為 confidential（保密）且 privileged（特權），亦即不得向他人揭露，亦不得在法庭上使用</li>
 <li>Confidentiality 之法律與倫理基礎在於：個人健康資訊與患者隱私細節為精確診斷與照護所必需；患者需信任醫師會對此資訊保密（見 Privacy of Medical Records, ELOM11）</li>
@@ -112,7 +137,7 @@
 <li>在特定情況下，confidentiality 可在倫理與法律上被突破（見下文）</li>
 <li>Physician-patient privilege 之保護較 solicitor-client privilege 有限，與患者談論 confidentiality 時不應承諾絕對保密或特權</li>
 </ul>
-<h4 id="statutory-reporting-obligations法定報告義務">Statutory Reporting Obligations（法定報告義務）</h4>
+<h4 id="statutory-reporting-obligations法定報告義務">Statutory Reporting Obligations（法定報告義務）<a class="anchor" href="#statutory-reporting-obligations%e6%b3%95%e5%ae%9a%e5%a0%b1%e5%91%8a%e7%be%a9%e5%8b%99">#</a></h4>
 <p>立法已定義特定公共利益凌駕患者保密權之情況（各省不同），包括：</p>
 <ol>
 <li><strong>疑似兒童虐待或忽視</strong> — 報告至當地兒童福利機構（如 Children&rsquo;s Aid Society）</li>
@@ -122,15 +147,14 @@
 <li><strong>重要統計資料</strong>（vital statistics）必須報告（如 Ontario 於 30 天內向 Registrar General 報告出生；死亡證明由醫師填寫後送至市政當局）</li>
 <li><strong>向驗屍官報告</strong>（見 Physician Responsibilities Regarding Death, ELOM21）</li>
 </ol>
-<blockquote>
+<blockquote class='book-hint '>
 <p>⚠️ 醫師若未在上述情況下進行報告，將面臨起訴與處罰，若有第三方受害亦需負責</p>
-</blockquote>
-<p><strong>Table 5. CMA Code of Ethics and Professionalism — Aspects of Confidentiality</strong></p>
+</blockquote><p><strong>Table 5. CMA Code of Ethics and Professionalism — Aspects of Confidentiality</strong></p>
 <ul>
 <li>處理 confidentiality 疑慮時應諮詢省級執照機構、省/領地隱私專員辦公室及/或法律顧問</li>
 <li>CMA Code of Ethics and Professionalism：「透過保密義務履行對患者之義務 — 保持可識別患者資訊之機密性；僅收集、使用及揭露必要之健康資訊以造福患者；並僅為患者利益及在其照護圈內分享資訊。例外情況包括：已獲得患者揭露之 informed consent，或法律另有規定」</li>
 </ul>
-<h4 id="duty-to-protectwarn保護警告義務">Duty to Protect/Warn（保護/警告義務）</h4>
+<h4 id="duty-to-protectwarn保護警告義務">Duty to Protect/Warn（保護/警告義務）<a class="anchor" href="#duty-to-protectwarn%e4%bf%9d%e8%ad%b7%e8%ad%a6%e5%91%8a%e7%be%a9%e5%8b%99">#</a></h4>
 <ul>
 <li>醫師有義務保護公眾免受已知危險患者之傷害；可採取適當臨床行動（如強制留置患者進行臨床評估）、通知警方及/或警告潛在受害者</li>
 <li>加拿大法院尚未明確強制課予 duty to report，但 CMA Code of Ethics 及部分省/領地監管機構可能要求醫師報告（強制報告而非許可報告）</li>
@@ -143,23 +167,23 @@
 </ol>
 </li>
 </ul>
-<h4 id="disclosure-for-legal-proceedings法律程序中之揭露">Disclosure for Legal Proceedings（法律程序中之揭露）</h4>
+<h4 id="disclosure-for-legal-proceedings法律程序中之揭露">Disclosure for Legal Proceedings（法律程序中之揭露）<a class="anchor" href="#disclosure-for-legal-proceedings%e6%b3%95%e5%be%8b%e7%a8%8b%e5%ba%8f%e4%b8%ad%e4%b9%8b%e6%8f%ad%e9%9c%b2">#</a></h4>
 <ul>
 <li>健康記錄可透過法院命令（court order）、搜查令（warrant）或傳票（subpoena）強迫揭露</li>
 </ul>
-<h4 id="ontarios-medical-expert-panel-on-duty-to-warn-要點">Ontario&rsquo;s Medical Expert Panel on Duty to Warn 要點</h4>
+<h4 id="ontarios-medical-expert-panel-on-duty-to-warn-要點">Ontario&rsquo;s Medical Expert Panel on Duty to Warn 要點<a class="anchor" href="#ontarios-medical-expert-panel-on-duty-to-warn-%e8%a6%81%e9%bb%9e">#</a></h4>
 <ul>
 <li>當患者透露將對他人造成嚴重傷害之意向，且極可能付諸實行時，應有告知之義務</li>
 <li>威脅針對特定個人或群體，且有具體可行計畫時，醫師應立即通知警方及/或潛在受害者</li>
 <li>報告應包括威脅內容、所涉情況、醫師意見及其依據之資訊</li>
 </ul>
-<h4 id="privacy-of-medical-records醫療記錄之隱私">Privacy of Medical Records（醫療記錄之隱私）</h4>
+<h4 id="privacy-of-medical-records醫療記錄之隱私">Privacy of Medical Records（醫療記錄之隱私）<a class="anchor" href="#privacy-of-medical-records%e9%86%ab%e7%99%82%e8%a8%98%e9%8c%84%e4%b9%8b%e9%9a%b1%e7%a7%81">#</a></h4>
 <ul>
 <li>健康資訊之隱私受專業倫理守則、省與聯邦立法、加拿大權利與自由憲章及醫師 fiduciary duty 之保護</li>
 <li>聯邦政府於 2000 年制定 PIPEDA，確立涉及商業活動之資訊收集、使用及揭露原則</li>
 <li>PIPEDA 已由多數省份之省級立法取代（如 Ontario 的 Personal Health Information Protection Act，更專門適用於健康資訊）</li>
 </ul>
-<h4 id="duties-of-physicians-with-regard-to-the-privacy-of-health-information">Duties of Physicians with Regard to the Privacy of Health Information</h4>
+<h4 id="duties-of-physicians-with-regard-to-the-privacy-of-health-information">Duties of Physicians with Regard to the Privacy of Health Information<a class="anchor" href="#duties-of-physicians-with-regard-to-the-privacy-of-health-information">#</a></h4>
 <ul>
 <li>透過各種方式告知患者資訊處理實務（如張貼公告、發放手冊及/或與患者討論）</li>
 <li>取得患者明確同意（expressed consent）方可向第三方揭露資訊</li>
@@ -172,19 +196,19 @@
 <li>拍攝患者、發現或處置之照片或影片時，除患者同意外，隱私法規適用，部分省份亦適用侵入土地法（trespassing laws）</li>
 <li>CPSO 政策對醫師處理個人健康資訊設有專業期望，包括 express 或 implied consent、incapacity、lock boxes、例外情況下之揭露、強制報告、部級審計、subpoenas、法院命令及警方之相關規定</li>
 </ul>
-<h4 id="lock-boxes鎖定匣">Lock Boxes（鎖定匣）</h4>
+<h4 id="lock-boxes鎖定匣">Lock Boxes（鎖定匣）<a class="anchor" href="#lock-boxes%e9%8e%96%e5%ae%9a%e5%8c%a3">#</a></h4>
 <ul>
 <li>「鎖定匣」適用於患者明確限制醫師向他人揭露其健康資訊特定面向之情況，即使該他人參與患者之照護圈亦然</li>
 <li>注意：PHIPA 條款允許患者不得阻止醫師揭露法律允許/要求之個人健康資訊</li>
 </ul>
-<h4 id="consequences-of-a-breach-of-privacy">Consequences of a Breach of Privacy</h4>
+<h4 id="consequences-of-a-breach-of-privacy">Consequences of a Breach of Privacy<a class="anchor" href="#consequences-of-a-breach-of-privacy">#</a></h4>
 <ul>
 <li>PHIPA 規定哪些隱私 breach 須向 Ontario 資訊與隱私專員報告</li>
 <li>2020 年提高隱私 breach 之罰款金額</li>
 <li>個人違反隱私可被罰款最高 $200,000 或監禁一年，或兩者並罰；機構可被罰款最高 $1,000,000</li>
 <li>除財務後果外，confidentiality 與 privacy 之侵害會侵蝕患者及社會對專業之信任</li>
 </ul>
-<h4 id="reasons-to-breach-confidentiality">Reasons to Breach Confidentiality</h4>
+<h4 id="reasons-to-breach-confidentiality">Reasons to Breach Confidentiality<a class="anchor" href="#reasons-to-breach-confidentiality">#</a></h4>
 <ul>
 <li>Child abuse（兒童虐待）</li>
 <li>Fitness to drive（駕駛能力）</li>
@@ -193,8 +217,8 @@
 <li>Duty to inform/warn（告知/警告義務）</li>
 </ul>
 <hr>
-<h3 id="consent-and-capacity同意與行為能力">Consent and Capacity（同意與行為能力）</h3>
-<h4 id="ethical-principles-underlying-consent-and-capacityontario-health-care-consent-act">Ethical Principles Underlying Consent and Capacity（Ontario Health Care Consent Act）</h4>
+<h3 id="consent-and-capacity同意與行為能力">Consent and Capacity（同意與行為能力）<a class="anchor" href="#consent-and-capacity%e5%90%8c%e6%84%8f%e8%88%87%e8%a1%8c%e7%82%ba%e8%83%bd%e5%8a%9b">#</a></h3>
+<h4 id="ethical-principles-underlying-consent-and-capacityontario-health-care-consent-act">Ethical Principles Underlying Consent and Capacity（Ontario Health Care Consent Act）<a class="anchor" href="#ethical-principles-underlying-consent-and-capacityontario-health-care-consent-act">#</a></h4>
 <ul>
 <li>Consent 為患者或其 substitute decision-maker（SDM）對醫療介入之自主授權</li>
 <li>Informed consent 是 process（過程），而非 transaction（交易）或紙上簽名</li>
@@ -209,7 +233,7 @@
 <li>然而，選擇接受會使自身面臨多數人想要避免之嚴重傷害風險之照護的患者，應仔細評估其 capacity</li>
 <li>避免傾向定義「合理人標準」；如適當，應探究患者所提出之辯護模式及其可能受社會脈絡（如文化及/或宗教）影響之個人價值觀與信念</li>
 </ul>
-<h4 id="four-basic-requirements-of-valid-consent">Four Basic Requirements of Valid Consent</h4>
+<h4 id="four-basic-requirements-of-valid-consent">Four Basic Requirements of Valid Consent<a class="anchor" href="#four-basic-requirements-of-valid-consent">#</a></h4>
 <p><strong>1. Voluntary（自願）</strong></p>
 <ul>
 <li>Consent 須在無脅迫或壓力下給予（如來自可能施加「不當影響」之家屬，或臨床團隊成員）</li>
@@ -241,12 +265,12 @@
 </ul>
 </li>
 </ul>
-<h4 id="health-care-consent-actontario-1996">Health Care Consent Act（Ontario, 1996）</h4>
+<h4 id="health-care-consent-actontario-1996">Health Care Consent Act（Ontario, 1996）<a class="anchor" href="#health-care-consent-actontario-1996">#</a></h4>
 <ul>
 <li>同意是履行醫師對患者義務之基本步驟</li>
 <li>Capacity 是有效 consent 之必要組成部分</li>
 </ul>
-<h4 id="obtaining-legal-consent">Obtaining Legal Consent</h4>
+<h4 id="obtaining-legal-consent">Obtaining Legal Consent<a class="anchor" href="#obtaining-legal-consent">#</a></h4>
 <ul>
 <li>任何醫療介入前須取得患者 consent；consent 可為：
 <ul>
@@ -259,7 +283,7 @@
 </ul>
 </li>
 </ul>
-<h4 id="exceptions-to-consent">Exceptions to Consent</h4>
+<h4 id="exceptions-to-consent">Exceptions to Consent<a class="anchor" href="#exceptions-to-consent">#</a></h4>
 <p><strong>1. Emergencies（緊急情況）</strong></p>
 <ul>
 <li>若患者正經歷嚴重痛苦，或延遲治療將導致嚴重傷害或死亡，且無法從患者或其 SDM 取得 consent，可在未取得 consent 下提供治療</li>
@@ -283,13 +307,13 @@
 <li>公共衛生緊急情況（如流行病或傳染病治療）</li>
 <li>警方之資訊搜查令</li>
 </ul>
-<h4 id="consequences-of-failure-to-obtain-valid-consent">Consequences of Failure to Obtain Valid Consent</h4>
+<h4 id="consequences-of-failure-to-obtain-valid-consent">Consequences of Failure to Obtain Valid Consent<a class="anchor" href="#consequences-of-failure-to-obtain-valid-consent">#</a></h4>
 <ul>
 <li>未取得 consent 即進行治療構成 battery（侵擾，民事侵權而非刑事）</li>
 <li>以資訊不足之 consent 為基礎進行治療可能構成 negligence（過失），同為侵權索賠</li>
 <li>證明未取得有效 consent 之責任歸於原告（通常為患者）</li>
 </ul>
-<h4 id="overview-of-capacity">Overview of Capacity</h4>
+<h4 id="overview-of-capacity">Overview of Capacity<a class="anchor" href="#overview-of-capacity">#</a></h4>
 <ul>
 <li>Capacity 為以下能力：
 <ul>
@@ -304,7 +328,7 @@
 <li>有能力之患者有權做出自己的決定</li>
 <li>有能力之患者可拒絕治療，即使這會導致嚴重傷害或死亡；但使患者面臨嚴重傷害或死亡風險之決定須仔細審查</li>
 </ul>
-<h4 id="assessment-of-capacity">Assessment of Capacity</h4>
+<h4 id="assessment-of-capacity">Assessment of Capacity<a class="anchor" href="#assessment-of-capacity">#</a></h4>
 <ul>
 <li>接受 capacity 評估者須被告知將接受評估</li>
 <li>Capacity 評估須由提供治療之臨床醫師進行，並適當諮詢其他醫療專業人員</li>
@@ -333,13 +357,13 @@
 <li>使用「Aid to Capacity Evaluation」或任何其他 capacity 評估工具/指引</li>
 <li>能力不足之判定可能需要由精神科醫師、法律審查委員會（如 Ontario 之 Consent and Capacity Review Board, CCB）或法院進一步評估；患者有權在 CCB 進行聽證會前收到通知</li>
 </ul>
-<h4 id="treatment-of-the-incapable-patient-in-a-non-emergent-situation">Treatment of the Incapable Patient in a Non-Emergent Situation</h4>
+<h4 id="treatment-of-the-incapable-patient-in-a-non-emergent-situation">Treatment of the Incapable Patient in a Non-Emergent Situation<a class="anchor" href="#treatment-of-the-incapable-patient-in-a-non-emergent-situation">#</a></h4>
 <ul>
 <li>從 SDM 取得 informed consent</li>
 <li>區分incapacity 之原因（精神疾病與其他）以確定適用之法規</li>
 <li>無能力患者僅在符合 Mental Health Act 認證標準時方可在違反其意願之情況下留置接受治療（見 Psychiatry, PS60）</li>
 </ul>
-<h4 id="aid-to-capacity-evaluation-要點">Aid to Capacity Evaluation 要點</h4>
+<h4 id="aid-to-capacity-evaluation-要點">Aid to Capacity Evaluation 要點<a class="anchor" href="#aid-to-capacity-evaluation-%e8%a6%81%e9%bb%9e">#</a></h4>
 <ol>
 <li>理解醫療問題之能力</li>
 <li>理解所提議治療之能力</li>
@@ -349,13 +373,13 @@
 <li>欣賞拒絕治療之可合理預見後果之能力</li>
 <li>做出非實質基於妄想或憂鬱之決定之能力</li>
 </ol>
-<h4 id="capacity-assessment-criteria-in-ontario">Capacity Assessment Criteria in Ontario</h4>
+<h4 id="capacity-assessment-criteria-in-ontario">Capacity Assessment Criteria in Ontario<a class="anchor" href="#capacity-assessment-criteria-in-ontario">#</a></h4>
 <ul>
 <li><strong>理解測驗</strong>：患者能否用自己的話解釋你所給予之資訊？</li>
 <li><strong>欣賞測驗</strong>：患者能否解釋該資訊與自身之關聯？</li>
 </ul>
 <hr>
-<h3 id="pediatric-and-adolescent-patients兒科與青少年患者">Pediatric and Adolescent Patients（兒科與青少年患者）</h3>
+<h3 id="pediatric-and-adolescent-patients兒科與青少年患者">Pediatric and Adolescent Patients（兒科與青少年患者）<a class="anchor" href="#pediatric-and-adolescent-patients%e5%85%92%e7%a7%91%e8%88%87%e9%9d%92%e5%b0%91%e5%b9%b4%e6%82%a3%e8%80%85">#</a></h3>
 <ul>
 <li>除魁北克省外，所有省份及領地均無 consent 年齡規定；魁北克有特定 consent 年齡，但普通法與判例法認定未成年法定未成年人有能力，允許這些個人做出自己的選擇</li>
 <li>Consent 取決於患者之決策能力，須通過相同之理解與欣賞測驗</li>
@@ -364,7 +388,7 @@
 <li>若醫師認為 SDM 未依兒童最佳利益行事，須向當地兒童福利機構提出申訴</li>
 <li>多數情況下，父母有權查閱兒童病歷；若兒童能夠同意治療，他們也有權決定誰能查閱與該治療相關之病歷部分</li>
 </ul>
-<h4 id="substitute-decision-makerssdm">Substitute Decision-Makers（SDM）</h4>
+<h4 id="substitute-decision-makerssdm">Substitute Decision-Makers（SDM）<a class="anchor" href="#substitute-decision-makerssdm">#</a></h4>
 <ul>
 <li>SDM 為法律許可代無能力者做出醫療決定之人（或多人）</li>
 <li>Ontario 之自動 SDM 為血緣、婚姻或領養關係中最近之在世親屬</li>
@@ -382,7 +406,7 @@
 </ol>
 </li>
 </ul>
-<h4 id="poapower-of-attorneytypes">POA（Power of Attorney）Types</h4>
+<h4 id="poapower-of-attorneytypes">POA（Power of Attorney）Types<a class="anchor" href="#poapower-of-attorneytypes">#</a></h4>
 <table>
   <thead>
       <tr>
@@ -414,13 +438,13 @@
   </tbody>
 </table>
 <hr>
-<h3 id="negligence過失">Negligence（過失）</h3>
-<h4 id="ethical-basis">Ethical Basis</h4>
+<h3 id="negligence過失">Negligence（過失）<a class="anchor" href="#negligence%e9%81%8e%e5%a4%b1">#</a></h3>
+<h4 id="ethical-basis">Ethical Basis<a class="anchor" href="#ethical-basis">#</a></h4>
 <ul>
 <li>醫病關係主要基於信任，在 fiduciary duty（忠實義務）概念中得到認可，即為患者最佳利益行事之責任</li>
 <li>Negligence 或 malpractice 為醫師在提供適當照護之 fiduciary duty 方面的失敗形式，並導致患者受傷害</li>
 </ul>
-<h4 id="legal-basis">Legal Basis</h4>
+<h4 id="legal-basis">Legal Basis<a class="anchor" href="#legal-basis">#</a></h4>
 <ul>
 <li>醫師在因未能達到情況所適用之照護標準而對患者造成傷害方面具有法律責任</li>
 <li>照護標準/義務定義為：在類似情況下，與相同訓練、經驗、專科及地位之普通謹慎醫師所合理預期者相同</li>
@@ -428,21 +452,21 @@
 <li>針對醫師之侵權訴訟須在事件發生所在省份規定之特定期限內提起</li>
 </ul>
 <hr>
-<h3 id="truth-telling誠實告知">Truth-Telling（誠實告知）</h3>
-<h4 id="ethical-basis-1">Ethical Basis</h4>
+<h3 id="truth-telling誠實告知">Truth-Telling（誠實告知）<a class="anchor" href="#truth-telling%e8%aa%a0%e5%af%a6%e5%91%8a%e7%9f%a5">#</a></h3>
+<h4 id="ethical-basis-1">Ethical Basis<a class="anchor" href="#ethical-basis-1">#</a></h4>
 <ul>
 <li>有助於促進並維持信任之醫病關係</li>
 <li>患者有權獲知醫師所擁有關於其照護之重要資訊</li>
 <li>使患者能夠就是醫療保健與生活做出 informed 與 autonomous 決定</li>
 </ul>
-<h4 id="legal-basis-1">Legal Basis</h4>
+<h4 id="legal-basis-1">Legal Basis<a class="anchor" href="#legal-basis-1">#</a></h4>
 <ul>
 <li>有效 patient consent 之必備條件</li>
 <li>目標為揭露合理人處於患者立場所需之資訊以做出 informed 決定</li>
 <li>隱瞞資訊可能構成 fiduciary duty 與注意義務之違反</li>
 <li>以誤導性及/或不足資訊取得 consent 可能被視為 negligence 及/或脅迫</li>
 </ul>
-<h4 id="evidence-about-truth-telling">Evidence about Truth-Telling</h4>
+<h4 id="evidence-about-truth-telling">Evidence about Truth-Telling<a class="anchor" href="#evidence-about-truth-telling">#</a></h4>
 <ul>
 <li>患者有權選擇知道自身任何臨床狀況/診斷</li>
 <li>多數患者希望獲知與其健康相關之資訊</li>
@@ -452,19 +476,19 @@
 <li>Truth-telling 之潛在負面後果包括情緒健康下降、焦慮、擔憂、社會污名化及喪失保險資格</li>
 <li>醫療人員須注意不將自身關於 truth-telling 風險與利益之個人價值觀強加於人</li>
 </ul>
-<h4 id="cpso-policy-on-truth-telling">CPSO Policy on Truth-Telling</h4>
+<h4 id="cpso-policy-on-truth-telling">CPSO Policy on Truth-Telling<a class="anchor" href="#cpso-policy-on-truth-telling">#</a></h4>
 <ul>
 <li>醫師應提供對患者醫療決策有影響之任何資訊，並以患者可理解之方式溝通</li>
 <li>若為合理謹慎與技術精湛之醫師可能犯下之錯誤（誠實錯誤），則照護中之錯誤與非過失照護並不相斥</li>
 </ul>
-<h4 id="arguments-against-truth-telling">Arguments Against Truth-Telling</h4>
+<h4 id="arguments-against-truth-telling">Arguments Against Truth-Telling<a class="anchor" href="#arguments-against-truth-telling">#</a></h4>
 <ul>
 <li>可能違反特定文化規範與期望</li>
 <li>可能導致患者傷害，但僅在極端少數情況下</li>
 <li>醫療不確定性可能導致揭露不確定或不準確之資訊</li>
 </ul>
 <hr>
-<h3 id="medical-error醫療錯誤">Medical Error（醫療錯誤）</h3>
+<h3 id="medical-error醫療錯誤">Medical Error（醫療錯誤）<a class="anchor" href="#medical-error%e9%86%ab%e7%99%82%e9%8c%af%e8%aa%a4">#</a></h3>
 <ul>
 <li>Medical error 可定義為由患者醫療照護而非患者潛在疾病所造成之可預防不良事件（adverse events, AEs）；部分錯誤可在傷害患者前被發現，因此並非所有錯誤都真正構成「不良」</li>
 <li>多數司法管轄區與專業協會期望並要求醫師揭露醫療錯誤</li>
@@ -479,12 +503,12 @@
 <li>醫師應表示歉意或遺憾之共感表達（如「我希望情況有不同的結果」），因為這有助於維持及/或重建信任，且不構成認罪或責任</li>
 <li>加拿大全國之 Apology Acts 保護道歉作為遺憾表達與責任承認，不被用作責任與 negligence 之證據</li>
 </ul>
-<h4 id="adverse-event-定義">Adverse Event 定義</h4>
+<h4 id="adverse-event-定義">Adverse Event 定義<a class="anchor" href="#adverse-event-%e5%ae%9a%e7%be%a9">#</a></h4>
 <ul>
 <li>因健康照護管理所致之非預期傷害或併發症，導致殘疾、死亡或住院時間延長</li>
 </ul>
 <hr>
-<h3 id="breaking-bad-news告知壞消息">Breaking Bad News（告知壞消息）</h3>
+<h3 id="breaking-bad-news告知壞消息">Breaking Bad News（告知壞消息）<a class="anchor" href="#breaking-bad-news%e5%91%8a%e7%9f%a5%e5%a3%9e%e6%b6%88%e6%81%af">#</a></h3>
 <ul>
 <li>「壞消息」可為揭露威脅患者幸福感之狀況或疾病之任何資訊；不同患者對「壞消息」有不同分類方式</li>
 <li>以不佳或不敏感方式揭露醫療資訊之傷害可能不亞於不揭露</li>
@@ -496,7 +520,7 @@
 <li>SPIKES protocol 旨在以盡責且有效方式「告知壞消息」：Setting, Perceptions, Invitation, Knowledge, Empathy, Strategy（見 Palliative Medicine, PM6）</li>
 <li>其他工具如 Serious Illness Conversation Guide 或 Vital Talk 也可協助與重症患者之溝通</li>
 </ul>
-<h4 id="examples-of-warning-of-impending-bad-news">Examples of Warning of Impending Bad News</h4>
+<h4 id="examples-of-warning-of-impending-bad-news">Examples of Warning of Impending Bad News<a class="anchor" href="#examples-of-warning-of-impending-bad-news">#</a></h4>
 <ul>
 <li>記得在邀請時澄清患者所期望之知識程度</li>
 <li>「我有件難以啟齒的事要告訴你……」</li>
@@ -505,7 +529,7 @@
 <li>「我沒有婉轉的方式可以說，所以我直接告訴您——您有一個嚴重的問題……」</li>
 </ul>
 <hr>
-<h3 id="醫療倫理原則摘要">醫療倫理原則摘要</h3>
+<h3 id="醫療倫理原則摘要">醫療倫理原則摘要<a class="anchor" href="#%e9%86%ab%e7%99%82%e5%80%ab%e7%90%86%e5%8e%9f%e5%89%87%e6%91%98%e8%a6%81">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -533,24 +557,24 @@
   </tbody>
 </table>
 <hr>
-<h2 id="生殖醫學倫理">生殖醫學倫理</h2>
-<h3 id="reproductive-technologies生殖科技">Reproductive Technologies（生殖科技）</h3>
+<h2 id="生殖醫學倫理">生殖醫學倫理<a class="anchor" href="#%e7%94%9f%e6%ae%96%e9%86%ab%e5%ad%b8%e5%80%ab%e7%90%86">#</a></h2>
+<h3 id="reproductive-technologies生殖科技">Reproductive Technologies（生殖科技）<a class="anchor" href="#reproductive-technologies%e7%94%9f%e6%ae%96%e7%a7%91%e6%8a%80">#</a></h3>
 <ul>
 <li>所有性別認同者均可使用生殖科技</li>
 <li>「maternal、mother 及 woman」等詞語可指涉多元性別個體</li>
 </ul>
-<h4 id="overview-of-pregnancy-considerations">Overview of Pregnancy Considerations</h4>
+<h4 id="overview-of-pregnancy-considerations">Overview of Pregnancy Considerations<a class="anchor" href="#overview-of-pregnancy-considerations">#</a></h4>
 <ul>
 <li>在醫療法律上，孕體與胎兒被視為一體；通常懷孕者與胎兒利益一致，除非透過適當 consent 程序另有指示，否則母親健康優先</li>
 </ul>
-<h4 id="ethical-issues--principle-of-reproductive-autonomy">Ethical Issues — Principle of Reproductive Autonomy</h4>
+<h4 id="ethical-issues--principle-of-reproductive-autonomy">Ethical Issues — Principle of Reproductive Autonomy<a class="anchor" href="#ethical-issues--principle-of-reproductive-autonomy">#</a></h4>
 <ul>
 <li>懷孕者有 reproductive choice 之權利（如做出符合其個人價值觀、興趣及信念之決定之權利）</li>
 <li>強迫個人接受醫療建議是對個人 autonomy 之不可接受侵害；賦權個人就懷孕相關醫療做出 informed 決定涉及提供任何相關利益與風險資訊、給予提問與反思建議之時間等；在做強烈建議與強迫個人同意醫療建議之間存在一條細微但重要之界限——後者必須避免</li>
 <li>加拿大殖民歷史包括侵害生殖權利之遺產；在對話中注意自身固有之權力與特權至關重要</li>
 <li>偏見：注意自身關於生殖決策之潛在偏見；確保自身個人價值觀與偏好不會過度影響患者決策過程，對於實現自主決策至關重要</li>
 </ul>
-<h4 id="legal-issues--pregnancy">Legal Issues — Pregnancy</h4>
+<h4 id="legal-issues--pregnancy">Legal Issues — Pregnancy<a class="anchor" href="#legal-issues--pregnancy">#</a></h4>
 <ul>
 <li>法律保護懷孕者之生命、自由與人身安全權；關鍵層面包括：
 <ul>
@@ -561,7 +585,7 @@
 </ul>
 </li>
 </ul>
-<h4 id="assisted-human-reproduction-act-2004-原則">Assisted Human Reproduction Act (2004) 原則</h4>
+<h4 id="assisted-human-reproduction-act-2004-原則">Assisted Human Reproduction Act (2004) 原則<a class="anchor" href="#assisted-human-reproduction-act-2004-%e5%8e%9f%e5%89%87">#</a></h4>
 <ol>
 <li>透過輔助生殖技術出生兒童之健康與福祉須在所有相關決定中獲得優先考量</li>
 <li>輔助生殖技術之利益須透過保護並促進人類健康、安全、尊嚴與權利之適當措施最能有效地為個人、家庭與社會整體所實現</li>
@@ -571,7 +595,7 @@
 <li>婦女與男性生殖能力之交易及為商業目的剝削兒童、婦女與男性引發健康與倫理疑慮，為禁止之正當理由</li>
 <li>人類個別性與多樣性及人類基因組完整性須被保留與保護</li>
 </ol>
-<h4 id="tricouncil-policy-statement-要點">TriCouncil Policy Statement 要點</h4>
+<h4 id="tricouncil-policy-statement-要點">TriCouncil Policy Statement 要點<a class="anchor" href="#tricouncil-policy-statement-%e8%a6%81%e9%bb%9e">#</a></h4>
 <ol>
 <li>旨在改變生殖細胞之基因治療在加拿大及其他地區被禁止</li>
 <li>胚胎研究允許至受精後 14 天</li>
@@ -584,7 +608,7 @@
 <li>只有在患者做出 free and informed choice 進行治療性流產後，方可討論使用胎兒組織進行研究</li>
 <li>負責生育治療之醫師不得成為幹細胞研究團隊成員</li>
 </ol>
-<h4 id="assisted-reproductive-therapies輔助生殖治療">Assisted Reproductive Therapies（輔助生殖治療）</h4>
+<h4 id="assisted-reproductive-therapies輔助生殖治療">Assisted Reproductive Therapies（輔助生殖治療）<a class="anchor" href="#assisted-reproductive-therapies%e8%bc%94%e5%8a%a9%e7%94%9f%e6%ae%96%e6%b2%bb%e7%99%82">#</a></h4>
 <ul>
 <li>包括非陰道性交之人工授精、荷爾蒙卵巢刺激及 IVF</li>
 <li>常見倫理複雜議題：
@@ -600,7 +624,7 @@
 </ul>
 </li>
 </ul>
-<h4 id="fetal-tissue胎兒組織">Fetal Tissue（胎兒組織）</h4>
+<h4 id="fetal-tissue胎兒組織">Fetal Tissue（胎兒組織）<a class="anchor" href="#fetal-tissue%e8%83%8e%e5%85%92%e7%b5%84%e7%b9%94">#</a></h4>
 <ul>
 <li>多能幹細胞目前可從人類胚胎及胎兒組織衍生</li>
 <li>研究用幹細胞由 CIHR 之 Stem Cell Oversight Committee 審查</li>
@@ -613,12 +637,12 @@
 </li>
 </ul>
 <hr>
-<h3 id="induced-abortion人工流產">Induced Abortion（人工流產）</h3>
-<h4 id="definitioncma">Definition（CMA）</h4>
+<h3 id="induced-abortion人工流產">Induced Abortion（人工流產）<a class="anchor" href="#induced-abortion%e4%ba%ba%e5%b7%a5%e6%b5%81%e7%94%a2">#</a></h3>
+<h4 id="definitioncma">Definition（CMA）<a class="anchor" href="#definitioncma">#</a></h4>
 <ul>
 <li>Active termination of pregnancy before fetal viability（胎兒大於 500g 或大於 20 週 GA）</li>
 </ul>
-<h4 id="ethical-and-legal-concerns">Ethical and Legal Concerns</h4>
+<h4 id="ethical-and-legal-concerns">Ethical and Legal Concerns<a class="anchor" href="#ethical-and-legal-concerns">#</a></h4>
 <ul>
 <li>加拿大對流產無刑事禁止規定</li>
 <li>終止妊娠是醫療與個人決定，需與醫療服務提供者協商，並可由患者希望之人員參與</li>
@@ -628,15 +652,15 @@
 <li>第二孕期及第三孕期流產在加拿大合法，但通常（但非排他性地）在以下情況下進行：患者健康受到威脅、胎兒宮內死亡，及/或胎兒有已知可能導致出生後健康結果不佳之主要不可逆轉狀況</li>
 </ul>
 <hr>
-<h3 id="prenatalantenatal-genetic-testing產前基因檢測">Prenatal/Antenatal Genetic Testing（產前基因檢測）</h3>
-<h4 id="uses">Uses</h4>
+<h3 id="prenatalantenatal-genetic-testing產前基因檢測">Prenatal/Antenatal Genetic Testing（產前基因檢測）<a class="anchor" href="#prenatalantenatal-genetic-testing%e7%94%a2%e5%89%8d%e5%9f%ba%e5%9b%a0%e6%aa%a2%e6%b8%ac">#</a></h3>
+<h4 id="uses">Uses<a class="anchor" href="#uses">#</a></h4>
 <ol>
 <li>確認臨床診斷</li>
 <li>檢測疾病基因傾向</li>
 <li>基因測試/了解傾向可使當事人採取預防措施並幫助為未來做準備</li>
 <li>賦予父母在適用時終止妊娠或開始早期治療之選項</li>
 </ol>
-<h4 id="ethical-dilemmas">Ethical Dilemmas</h4>
+<h4 id="ethical-dilemmas">Ethical Dilemmas<a class="anchor" href="#ethical-dilemmas">#</a></h4>
 <ul>
 <li>基因資訊之敏感性所引發之倫理困境：
 <ul>
@@ -653,7 +677,7 @@
 </ul>
 </li>
 </ul>
-<h4 id="legal-aspects">Legal Aspects</h4>
+<h4 id="legal-aspects">Legal Aspects<a class="anchor" href="#legal-aspects">#</a></h4>
 <ul>
 <li>2017 年 Genetic Non-Discrimination Act 生效</li>
 <li>基因檢測需要 informed consent</li>
@@ -661,9 +685,9 @@
 <li>特定情況下，若可透過治療或預防避免傷害，醫師可能能夠突破 confidentiality 警告家屬；一般需要患者同意，除非避免之傷害達到迫近嚴重身體傷害或死亡之程度</li>
 </ul>
 <hr>
-<h2 id="醫療法規">醫療法規</h2>
-<h3 id="end-of-life-care臨終照護">End-of-Life Care（臨終照護）</h3>
-<h4 id="overview-of-palliative-and-end-of-life-care">Overview of Palliative and End-of-Life Care</h4>
+<h2 id="醫療法規">醫療法規<a class="anchor" href="#%e9%86%ab%e7%99%82%e6%b3%95%e8%a6%8f">#</a></h2>
+<h3 id="end-of-life-care臨終照護">End-of-Life Care（臨終照護）<a class="anchor" href="#end-of-life-care%e8%87%a8%e7%b5%82%e7%85%a7%e8%ad%b7">#</a></h3>
+<h4 id="overview-of-palliative-and-end-of-life-care">Overview of Palliative and End-of-Life Care<a class="anchor" href="#overview-of-palliative-and-end-of-life-care">#</a></h4>
 <ul>
 <li>照護重點為尊嚴與臨終者之舒適，並最大化患者、家屬及所愛之人之生活品質</li>
 <li>Palliative care 為改善威脅生命疾病患者生活品質之方法，透過預防並緩解痛苦，包括疼痛、身體、心理社會及靈性問題之治療</li>
@@ -675,7 +699,7 @@
 <li>Palliative sedation：為緩解末期患者之痛苦並控制症狀而使用鎮靜藥物</li>
 <li>撤回或保留不再想要或無指示之維持生命介入（如人工通氣或營養）</li>
 </ul>
-<h4 id="medical-assistance-in-dyingmaid醫療協助死亡">Medical Assistance in Dying（MAID，醫療協助死亡）</h4>
+<h4 id="medical-assistance-in-dyingmaid醫療協助死亡">Medical Assistance in Dying（MAID，醫療協助死亡）<a class="anchor" href="#medical-assistance-in-dyingmaid%e9%86%ab%e7%99%82%e5%8d%94%e5%8a%a9%e6%ad%bb%e4%ba%a1">#</a></h4>
 <p><strong>Definition</strong></p>
 <ul>
 <li>醫師或護理師應患者要求，為其施用或開立自我給藥之物質，導致其死亡</li>
@@ -740,7 +764,7 @@
 <ul>
 <li>在臨終照護中使用 palliative sedation 搭配 opioids，知道死亡可能作為非預期後果發生（double effect 原則），這與死亡為主要意圖之安樂死和協助自殺有所不同</li>
 </ul>
-<h4 id="physician-responsibilities-regarding-death">Physician Responsibilities Regarding Death</h4>
+<h4 id="physician-responsibilities-regarding-death">Physician Responsibilities Regarding Death<a class="anchor" href="#physician-responsibilities-regarding-death">#</a></h4>
 <ul>
 <li>醫師法律上有義務完成死亡醫學證明書，除非需要驗屍官通知；未報告死亡為刑事犯罪</li>
 <li>Coroner&rsquo;s Act, 1990（Ontario）要求醫師在以下情況通知驗屍官或警方：
@@ -767,8 +791,8 @@
 <li>最高法院 note：<em>Carter v. Canada</em> 裁決中無任何內容強迫醫師參與 MAID，但 Ontario 內科與外科醫師學院強制轉介政策（已獲法院支持）要求 Ontario 醫師在良心反對 MAID 時提供有效轉介</li>
 </ul>
 <hr>
-<h3 id="physician-conduct醫師行為">Physician Conduct（醫師行為）</h3>
-<h4 id="canmeds-competencies">CanMEDS Competencies</h4>
+<h3 id="physician-conduct醫師行為">Physician Conduct（醫師行為）<a class="anchor" href="#physician-conduct%e9%86%ab%e5%b8%ab%e8%a1%8c%e7%82%ba">#</a></h3>
+<h4 id="canmeds-competencies">CanMEDS Competencies<a class="anchor" href="#canmeds-competencies">#</a></h4>
 <table>
   <thead>
       <tr>
@@ -807,13 +831,13 @@
       </tr>
   </tbody>
 </table>
-<h4 id="legal-considerations">Legal Considerations</h4>
+<h4 id="legal-considerations">Legal Considerations<a class="anchor" href="#legal-considerations">#</a></h4>
 <ul>
 <li>透過省級監管機構之強制會員資格（如 CPSO）對醫師行為與能力進行法律監管以保護患者與社會</li>
 <li>醫師法律上有義務維持適當當局之執照，因此法律上有義務遵守其醫療實踐中操守事項之政策</li>
 <li>對不當專業行為最終約束為「不符合醫師身份之行為」，包括與同事不當行為、利益衝突、不誠實、不道德帳單做法及對患者性不當行為</li>
 </ul>
-<h4 id="common-policies-on-physician-conduct">Common Policies on Physician Conduct</h4>
+<h4 id="common-policies-on-physician-conduct">Common Policies on Physician Conduct<a class="anchor" href="#common-policies-on-physician-conduct">#</a></h4>
 <ul>
 <li>
 <p><strong>On-call coverage</strong>：醫師須確保患者知道並可獲得 on-call 服務，且不得拋棄患者</p>
@@ -863,12 +887,12 @@
 </ul>
 </li>
 </ul>
-<h4 id="cma-code-of-ethics">CMA Code of Ethics</h4>
+<h4 id="cma-code-of-ethics">CMA Code of Ethics<a class="anchor" href="#cma-code-of-ethics">#</a></h4>
 <ul>
 <li>報告任何可向適當當局提出之同事不當專業行為</li>
 </ul>
 <hr>
-<h3 id="research-ethics研究倫理">Research Ethics（研究倫理）</h3>
+<h3 id="research-ethics研究倫理">Research Ethics（研究倫理）<a class="anchor" href="#research-ethics%e7%a0%94%e7%a9%b6%e5%80%ab%e7%90%86">#</a></h3>
 <ul>
 <li>涉及對人類受試者研究中產生之倫理困境進行系統分析，以確保：
 <ul>
@@ -882,7 +906,7 @@
 <li>當醫師研究者對患者之醫師義務與研究者之研究義務及/或激勵發生衝突時，會產生倫理困境；從事研究之醫師不應作為招募並取得其自身患者同意之主要聯繫人，因為可能存在治療誤解及/或感受到不當影響/缺乏自願性</li>
 <li><strong>Human Research Standards Organization (HRSO)</strong> 制定並發布加拿大人類研究活動之國家標準</li>
 </ul>
-<h4 id="ethics-on-research-with-indigenous-people">Ethics on Research with Indigenous People</h4>
+<h4 id="ethics-on-research-with-indigenous-people">Ethics on Research with Indigenous People<a class="anchor" href="#ethics-on-research-with-indigenous-people">#</a></h4>
 <p><strong>OCAP Principles</strong></p>
 <ul>
 <li>Ownership, Control, Access, and Possession (OCAP) 為「建立關於原住民資料應如何收集、保護、使用或共享之重要基本規則之標準集」
@@ -898,7 +922,7 @@
 <li>具有自治權；研究者應尊重每個社區在研究、資料收集、分析、解讀及知識傳遘方面之自主權</li>
 <li>TCPS2 第 9 章討論並提供涉及 FNIM 加拿大人民之研究考量</li>
 </ul>
-<h4 id="guiding-principles-for-research-ethics">Guiding Principles for Research Ethics</h4>
+<h4 id="guiding-principles-for-research-ethics">Guiding Principles for Research Ethics<a class="anchor" href="#guiding-principles-for-research-ethics">#</a></h4>
 <table>
   <thead>
       <tr>
@@ -921,7 +945,7 @@
       </tr>
   </tbody>
 </table>
-<h4 id="informed-consent-for-research-應包括">Informed Consent for Research 應包括</h4>
+<h4 id="informed-consent-for-research-應包括">Informed Consent for Research 應包括<a class="anchor" href="#informed-consent-for-research-%e6%87%89%e5%8c%85%e6%8b%ac">#</a></h4>
 <ul>
 <li>研究目的</li>
 <li>對研究參與者之期望</li>
@@ -932,7 +956,7 @@
 <li>醫師參與之性質包括報酬</li>
 </ul>
 <hr>
-<h3 id="physician-industry-relations醫師與產業界關係">Physician-Industry Relations（醫師與產業界關係）</h3>
+<h3 id="physician-industry-relations醫師與產業界關係">Physician-Industry Relations（醫師與產業界關係）<a class="anchor" href="#physician-industry-relations%e9%86%ab%e5%b8%ab%e8%88%87%e7%94%a2%e6%a5%ad%e7%95%8c%e9%97%9c%e4%bf%82">#</a></h3>
 <ul>
 <li>醫師與製藥及醫療供應產業在研究、教育及臨床評估包（如產品樣品）等領域合作</li>
 <li>但與醫師不同，製藥及醫療供應產業對患者不負 fiduciary duty，屬利益驅動；製藥公司存在超越你作為醫師之責任之動機</li>
@@ -945,7 +969,7 @@
 <li>僅在醫師為會議發表者而非僅僅出席時，方可接受會議出席之旅行與費用贊助</li>
 <li>接受此類贊助之醫師須在演講及/或書面文章中揭露此事；然而，揭露利益衝突並不能消除衝突可能對醫師行為產生的海響</li>
 </ul>
-<h4 id="cma-and-cpso-guidelines">CMA and CPSO Guidelines</h4>
+<h4 id="cma-and-cpso-guidelines">CMA and CPSO Guidelines<a class="anchor" href="#cma-and-cpso-guidelines">#</a></h4>
 <ul>
 <li>主要目標應為增進加拿大人民之健康</li>
 <li>關係應以 CMA Code of Ethics 為指導</li>
@@ -955,7 +979,7 @@
 <li><strong>Choosing Wisely Canada</strong> 是減少醫療中不必要檢驗與治療之國家代言人</li>
 </ul>
 <hr>
-<h3 id="resource-allocation資源分配">Resource Allocation（資源分配）</h3>
+<h3 id="resource-allocation資源分配">Resource Allocation（資源分配）<a class="anchor" href="#resource-allocation%e8%b3%87%e6%ba%90%e5%88%86%e9%85%8d">#</a></h3>
 <ul>
 <li>定義：將任何資源分配給 program 與人（如商品與服務）</li>
 <li>若醫療資源在臨床上有指示，醫師須以考慮公平、潛在偏見及提供/不提供此類資源之歧視動機之方式為患者提供此類資源</li>
@@ -963,13 +987,13 @@
 <li>性別認同、性、性取向、宗教、教育程度、社會經濟地位或年齡本身並非單獨之道德相關標準（即不得完全基於年齡而阻止患者獲得稀缺資源）</li>
 <li>決定資源應如何分配之因素須彼此平衡，並根據具體情況逐案權衡</li>
 </ul>
-<h4 id="ethical-dilemmas-1">Ethical Dilemmas</h4>
+<h4 id="ethical-dilemmas-1">Ethical Dilemmas<a class="anchor" href="#ethical-dilemmas-1">#</a></h4>
 <ul>
 <li>偏愛最佳結果 vs. 給予所有患者公平獲得有限資源之機會（如移植名單優先排序）</li>
 <li>Aggregation problem：為多數個人提供適度利益 vs. 為少數個人提供重大利益</li>
 <li>決策框架考量：何時依賴公平民主程序達成決定？「公平」程序之面貌為何？</li>
 </ul>
-<h4 id="guidelines-for-appropriately-allocating-resources">Guidelines for Appropriately Allocating Resources</h4>
+<h4 id="guidelines-for-appropriately-allocating-resources">Guidelines for Appropriately Allocating Resources<a class="anchor" href="#guidelines-for-appropriately-allocating-resources">#</a></h4>
 <ul>
 <li>保護並促進患者之福利與最佳利益</li>
 <li>使能 informed、autonomous 及自願決策</li>
@@ -981,8 +1005,8 @@
 <li>在醫院管理或政府層面尋求解決不可接受之短缺</li>
 </ul>
 <hr>
-<h3 id="conscientious-objection良心異議">Conscientious Objection（良心異議）</h3>
-<h4 id="patients-refusing-treatment">Patients Refusing Treatment</h4>
+<h3 id="conscientious-objection良心異議">Conscientious Objection（良心異議）<a class="anchor" href="#conscientious-objection%e8%89%af%e5%bf%83%e7%95%b0%e8%ad%b0">#</a></h3>
+<h4 id="patients-refusing-treatment">Patients Refusing Treatment<a class="anchor" href="#patients-refusing-treatment">#</a></h4>
 <ul>
 <li>根據 autonomy 原則，有能力患者 informed 決定拒絕醫療介入通常是可接受的，但可能有例外</li>
 <li>重要者為確定拒絕建議治療之理由，以確保決策基於充分資訊等，特別是此類拒絕之風險重大時</li>
@@ -990,13 +1014,13 @@
 <li>在高緊急性情況下（如基於宗教理由拒絕血液製品之兒童處於出血性休克），醫師有更強義務依兒童最佳利益行事</li>
 <li>在較低緊急性情況下（如在發達國家拒絕兒童疫苗接种），有更強義務尊重決策者之 autonomy</li>
 </ul>
-<h4 id="physicians-refusing-to-provide-treatment">Physicians Refusing to Provide Treatment</h4>
+<h4 id="physicians-refusing-to-provide-treatment">Physicians Refusing to Provide Treatment<a class="anchor" href="#physicians-refusing-to-provide-treatment">#</a></h4>
 <ul>
 <li>有正當理由時，醫師可拒絕提供所需治療（如臨床上無指示且可能造成傷害之治療）及/或與患者終止/中斷關係（如因一系列衝突而無治療關係或信任），但須確保可透過向可用且願意之從業人員轉介患者來使患者獲得服務</li>
 </ul>
 <hr>
-<h3 id="implicit-bias隱性偏見">Implicit Bias（隱性偏見）</h3>
-<h4 id="definition">Definition</h4>
+<h3 id="implicit-bias隱性偏見">Implicit Bias（隱性偏見）<a class="anchor" href="#implicit-bias%e9%9a%b1%e6%80%a7%e5%81%8f%e8%a6%8b">#</a></h3>
+<h4 id="definition">Definition<a class="anchor" href="#definition">#</a></h4>
 <ul>
 <li>隱性偏見涉及：可能存在於意識覺察之外之隱性態度、想法及/或情感，因此難以承認與控制</li>
 <li>存在各種類型之（隱性）偏見（如與年齡、種族、性、性取向、性別認同及社會經濟環境相關）</li>
@@ -1004,7 +1028,7 @@
 <li>這些由隱性偏見引起之負面態度反映持續且普遍接觸對不同「社會群體」成員之刻板印象</li>
 <li>偏見與刻板印象可能是致命的</li>
 </ul>
-<h4 id="brian-sinclair-案例september-21-2008">Brian Sinclair 案例（September 21, 2008）</h4>
+<h4 id="brian-sinclair-案例september-21-2008">Brian Sinclair 案例（September 21, 2008）<a class="anchor" href="#brian-sinclair-%e6%a1%88%e4%be%8bseptember-21-2008">#</a></h4>
 <ul>
 <li>Brian Sinclair 為原住民男子，至 Winnipeg 急診部門就診時有導管阻塞；其存在未被分診記錄</li>
 <li>在急診候診室等待期間，他失去意識，但未被醫療人員檢查</li>
@@ -1012,7 +1036,7 @@
 <li>隨後調查發現，醫療人員認為他喝醉了或無家可歸</li>
 <li>Manitoba 法院聲稱 Brian Sinclair 之種族及因此工作人員所持導致假設他喝醉之刻板印象，是其悲劇且可預防死亡之相關因素</li>
 </ul>
-<h4 id="suggestions-for-noticing-implicit-bias">Suggestions for Noticing Implicit Bias</h4>
+<h4 id="suggestions-for-noticing-implicit-bias">Suggestions for Noticing Implicit Bias<a class="anchor" href="#suggestions-for-noticing-implicit-bias">#</a></h4>
 <p>在臨床接觸前，醫師被建議自我檢查：</p>
 <ul>
 <li>他們感覺如何？</li>
@@ -1022,7 +1046,7 @@
 <li>在進入臨床空間前，需要什麼來感到更踏實與支持？</li>
 <li>如何能將一些假設與恐懼留在走廊，而不是帶入檢查室？</li>
 </ul>
-<h4 id="working-with-vaccine-hesitant-parents">Working with Vaccine Hesitant Parents</h4>
+<h4 id="working-with-vaccine-hesitant-parents">Working with Vaccine Hesitant Parents<a class="anchor" href="#working-with-vaccine-hesitant-parents">#</a></h4>
 <ul>
 <li>理解健康服務提供者在父母決策中的關鍵角色，而非從實踐中 Dismiss 疫苗拒絕者</li>
 <li>使用假定性與動機訪談技術識別特定疫苗疑慮</li>
@@ -1031,9 +1055,9 @@
 <li>強化家長對社區保護之責任重要性</li>
 </ul>
 <hr>
-<h2 id="醫療組織">醫療組織</h2>
-<h3 id="clinical-informatics-and-ethics臨床資訊學與倫理">Clinical Informatics and Ethics（臨床資訊學與倫理）</h3>
-<h4 id="key-terms">Key Terms</h4>
+<h2 id="醫療組織">醫療組織<a class="anchor" href="#%e9%86%ab%e7%99%82%e7%b5%84%e7%b9%94">#</a></h2>
+<h3 id="clinical-informatics-and-ethics臨床資訊學與倫理">Clinical Informatics and Ethics（臨床資訊學與倫理）<a class="anchor" href="#clinical-informatics-and-ethics%e8%87%a8%e5%ba%8a%e8%b3%87%e8%a8%8a%e5%ad%b8%e8%88%87%e5%80%ab%e7%90%86">#</a></h3>
+<h4 id="key-terms">Key Terms<a class="anchor" href="#key-terms">#</a></h4>
 <table>
   <thead>
       <tr>
@@ -1056,7 +1080,7 @@
       </tr>
   </tbody>
 </table>
-<h4 id="table-6-digital-health-technologies-and-ethical-considerations">Table 6. Digital Health Technologies and Ethical Considerations</h4>
+<h4 id="table-6-digital-health-technologies-and-ethical-considerations">Table 6. Digital Health Technologies and Ethical Considerations<a class="anchor" href="#table-6-digital-health-technologies-and-ethical-considerations">#</a></h4>
 <table>
   <thead>
       <tr>
@@ -1094,105 +1118,105 @@
   </tbody>
 </table>
 <hr>
-<h3 id="indigenous-health--history-and-impact-of-colonialism原住民健康與殖民主義歷史影響">Indigenous Health — History and Impact of Colonialism（原住民健康與殖民主義歷史影響）</h3>
-<h4 id="overview">Overview</h4>
+<h3 id="indigenous-health--history-and-impact-of-colonialism原住民健康與殖民主義歷史影響">Indigenous Health — History and Impact of Colonialism（原住民健康與殖民主義歷史影響）<a class="anchor" href="#indigenous-health--history-and-impact-of-colonialism%e5%8e%9f%e4%bd%8f%e6%b0%91%e5%81%a5%e5%ba%b7%e8%88%87%e6%ae%96%e6%b0%91%e4%b8%bb%e7%be%a9%e6%ad%b7%e5%8f%b2%e5%bd%b1%e9%9f%bf">#</a></h3>
+<h4 id="overview">Overview<a class="anchor" href="#overview">#</a></h4>
 <ul>
 <li>原住民健康危機之源於多種因素，包括殖民法律、壓迫與種族滅絕之影響</li>
 <li>原住民健康與土地及長期被系統性剝奪之自由深深相連</li>
 <li>醫師可思考壓迫性立法如何在使許多原住民患者體驗健康方面起作用</li>
 </ul>
-<h4 id="pre-colonial-history">Pre-Colonial History</h4>
+<h4 id="pre-colonial-history">Pre-Colonial History<a class="anchor" href="#pre-colonial-history">#</a></h4>
 <ul>
 <li>在歐洲新移民到來之前，原住民生活在 Turtle Island（現在稱為北美洲）上並照護這片土地；這段歷史豐富地沉浸於文化、關係及整體世界觀中；原住民有著繁榮的貿易、複雜的社會與法律系統及在天文學、生態學、農業與醫學方面之科學知識</li>
 <li>Despite 數百年之逆境，原住民及其豐富文化持續並茁壯至今——這表明原住民及社區之韌性與堅韌</li>
 </ul>
-<h4 id="treaty-relationships">Treaty Relationships</h4>
+<h4 id="treaty-relationships">Treaty Relationships<a class="anchor" href="#treaty-relationships">#</a></h4>
 <ul>
 <li>1613 年，Kanienkehaka (Mohawk) 人民注意到定居者使用並居住在他們的傳統土地上；Haudenosaunee Confederation 開會討論如何能和平地在土地上共同生活與工作；通過這些討論，他們相互了解了很多，two-row wampum 由此產生：「一行是我們白人兄弟方式之船；另一行是我們方式之獨木舟。雙方將並肩沿生命之河而下。誰也不會試圖為對方之船掌舵。」</li>
 <li>Two-row wampum 代表三個原則：友誼、和平與永恆概念</li>
 <li>不久之後，貪婪與殖民政策開始侵蝕這些關係</li>
 </ul>
-<h4 id="doctrine-of-discovery">Doctrine of Discovery</h4>
+<h4 id="doctrine-of-discovery">Doctrine of Discovery<a class="anchor" href="#doctrine-of-discovery">#</a></h4>
 <ul>
 <li>Doctrine of Discovery 是殖民法律，使歐洲探險者能夠「發現」已被居住數千年之土地；此原則源於 Pope 之系列聲明，在道德與法律上為從原住民手中奪取土地提供正當理由（Terra Nullius）</li>
 <li>此正當理由基於對原住民「低於」其「優越」歐洲對應者之錯誤假設；這使君主能夠剝削北美土地與資源，無論其原始管理者為何，並利用此原則消滅原住民權利</li>
 </ul>
-<h4 id="royal-proclamation-1763">Royal Proclamation (1763)</h4>
+<h4 id="royal-proclamation-1763">Royal Proclamation (1763)<a class="anchor" href="#royal-proclamation-1763">#</a></h4>
 <ul>
 <li>King George III 發布皇家宣言，闡明英國人在原住民土地上定居之程序；此宣言將北美洲所有權給予國王，但聲明原住民 title 存在並將繼續存在；因此，任何土地均屬原住民，除非透過條約另有約定並同意</li>
 <li>此文件明確承認原住民權利、title 與自決；至今無法律推翻皇家宣言；因此，根據加拿大法律仍然有效</li>
 <li>此外，原住民權利之概念在 Constitution Act 第 25 條中得到保護；儘管原住民權利不能被法律減少或消滅，加拿大政府經常忽視這一事實</li>
 </ul>
-<h4 id="treaty-of-niagara-1764">Treaty of Niagara (1764)</h4>
+<h4 id="treaty-of-niagara-1764">Treaty of Niagara (1764)<a class="anchor" href="#treaty-of-niagara-1764">#</a></h4>
 <ul>
 <li>Treaty of Niagara 為 Crown 與 First Nations 及他們在 Turtle Island 共存之關係奠定基礎；銀色盟約之友誼鏈在此得到確認，Crown 與原住民之共同主權得到承認；建立了 Crown 與原住民 Nation 之間多國家族關係</li>
 <li>超過 2000 名原住民顯要人物、Turtle Island 24 個原住民 Nation 之代表在場，創作了 24-nation wampum belt</li>
 </ul>
-<h4 id="british-north-america-bna-act-1867">British North America (BNA) Act (1867)</h4>
+<h4 id="british-north-america-bna-act-1867">British North America (BNA) Act (1867)<a class="anchor" href="#british-north-america-bna-act-1867">#</a></h4>
 <ul>
 <li>給予加拿大政府對「印第安人」（不包括 Inuit 與 Métis 人民）之控制權；包括 New Brunswick、Nova Scotia、Ontario 及 Québec 作為新自治聯邦；這為加拿大法律與治理及生活在現在定義為加拿大領土內之人們之權利奠定基礎；BNA Act 聲明聯邦政府對「印第安人及保留地」有管轄權；原住民未參與與該法通過相關之對話或程序</li>
 </ul>
-<h4 id="gradual-civilization-act-1857">Gradual Civilization Act (1857)</h4>
+<h4 id="gradual-civilization-act-1857">Gradual Civilization Act (1857)<a class="anchor" href="#gradual-civilization-act-1857">#</a></h4>
 <ul>
 <li>鼓勵原住民自願同化（enfranchisement）；同化是消滅一個人「印第安人」身份及祖先權利以獲得加拿大公民身份之法律程序；後來強制執行非自願同化；這將消滅任何服役武裝部隊、獲得大學學位或成為專業人士之原住民之身份</li>
 </ul>
-<h4 id="indian-act-1876">Indian Act (1876)</h4>
+<h4 id="indian-act-1876">Indian Act (1876)<a class="anchor" href="#indian-act-1876">#</a></h4>
 <ul>
 <li>允許加拿大政府對 First Nations、status 及保留地取得完全控制；剝奪平等政治與經濟參與，並使文化與靈性實踐成為非法</li>
 <li>Indian agents 為執行這些法律之政府工作人員，被賦予阻止原住民離開社區之權力</li>
 <li>Sir John A. MacDonald (1887)：「我們立法之偉大目標一直是消除部落制度，並在所有方面盡快將印第安人同化為君主其他加拿大臣民，視他們之改變能力而定」</li>
 <li>Indian Act 在健康方面，給予 Governor in Council 控制公共衛生與治療法規決定之權力；但該法未設定聯邦政府為原住民提供健康服務之任何義務</li>
 </ul>
-<h4 id="section-141-of-indian-act">Section 141 of Indian Act</h4>
+<h4 id="section-141-of-indian-act">Section 141 of Indian Act<a class="anchor" href="#section-141-of-indian-act">#</a></h4>
 <ul>
 <li>阻止原住民聚集討論其權利或聘請法律代表反對這種壓迫；Judge Alfred Scow 描述這對他人民之影響：「Indian Act 這條款實施了近 75 年，這樣做阻止了我們口述歷史之傳承；阻止了我們價值觀之傳承；意味著我們原有政府形式之 interrupt；在我們任何歐洲人來這個國家之前，我們確實有適合我們之政府形式；我們相互尊重；我們有解決爭端之方式」</li>
 </ul>
-<h4 id="indian-act-amendments-1951">Indian Act Amendments (1951)</h4>
+<h4 id="indian-act-amendments-1951">Indian Act Amendments (1951)<a class="anchor" href="#indian-act-amendments-1951">#</a></h4>
 <ul>
 <li>廢除更壓迫性條款，如禁止聖地實踐、未經 Indian agent 許可不得離開保留地、無法聘請法律顧問及原住民女性不得在 Band Council 選舉中投票</li>
 </ul>
-<h4 id="indian-status-and-section-6">Indian Status and Section 6</h4>
+<h4 id="indian-status-and-section-6">Indian Status and Section 6<a class="anchor" href="#indian-status-and-section-6">#</a></h4>
 <ul>
 <li><strong>6(1)</strong>：此人之子女無論伴侶之 heritage 如何，均可傳遞其身份</li>
 <li><strong>6(2)</strong>：此人僅在伴侶也是原住民之情況下才能向子女傳遞身份</li>
 <li>此身份概念使許多原住民（包括 Indian Act 範圍外之非 status First Nations、Métis 及 Inuit 人民）之身份複雜化，這些人被阻止註冊，從而失去政府支持、條約及健康利益</li>
 </ul>
-<h4 id="taxation">Taxation</h4>
+<h4 id="taxation">Taxation<a class="anchor" href="#taxation">#</a></h4>
 <ul>
 <li>原住民個人一般須繳納全額稅款，雖然有身份者根據 Indian Act 第 87 條有資格獲得 select tax exemptions；原住民個人不繳稅是普遍且有害之迷思</li>
 </ul>
 <hr>
-<h3 id="indigenous-disproportionate-over-representation原住民之不成比例代表性">Indigenous Disproportionate Over-Representation（原住民之不成比例代表性）</h3>
-<h4 id="those-receiving-child-welfare-services接受兒童福利服務者">Those Receiving Child Welfare Services（接受兒童福利服務者）</h4>
+<h3 id="indigenous-disproportionate-over-representation原住民之不成比例代表性">Indigenous Disproportionate Over-Representation（原住民之不成比例代表性）<a class="anchor" href="#indigenous-disproportionate-over-representation%e5%8e%9f%e4%bd%8f%e6%b0%91%e4%b9%8b%e4%b8%8d%e6%88%90%e6%af%94%e4%be%8b%e4%bb%a3%e8%a1%a8%e6%80%a7">#</a></h3>
+<h4 id="those-receiving-child-welfare-services接受兒童福利服務者">Those Receiving Child Welfare Services（接受兒童福利服務者）<a class="anchor" href="#those-receiving-child-welfare-services%e6%8e%a5%e5%8f%97%e5%85%92%e7%ab%a5%e7%a6%8f%e5%88%a9%e6%9c%8d%e5%8b%99%e8%80%85">#</a></h4>
 <ul>
 <li>與寄宿學校系統及 Sixties Scoop 遺產類似，原住民家庭目前面臨更高之兒童安置率；2016 年，加拿大 52.2% 之Foster care 兒童（0-14 歲）是原住民，而原住民兒童僅占該年齡段所有加拿大兒童之 7.7%</li>
 <li>2011 年，38% 之原住民兒童生活在貧困中，而加拿大非原住民非種族化兒童為 13%</li>
 </ul>
-<h4 id="2016-canadian-human-rights-tribunal-ruling">2016 Canadian Human Rights Tribunal Ruling</h4>
+<h4 id="2016-canadian-human-rights-tribunal-ruling">2016 Canadian Human Rights Tribunal Ruling<a class="anchor" href="#2016-canadian-human-rights-tribunal-ruling">#</a></h4>
 <ul>
 <li>裁定聯邦政府透過未能提供與非原住民兒童相同水準之兒童福利服務資金來歧視 First Nations 保留地兒童，導致服務不公平</li>
 <li>2020 年 1 月通過 <em>An Act respecting First Nations, Inuit, and Métis children, youth, and families</em></li>
 </ul>
-<h4 id="those-in-state-custody處於國家監護者">Those in State Custody（處於國家監護者）</h4>
+<h4 id="those-in-state-custody處於國家監護者">Those in State Custody（處於國家監護者）<a class="anchor" href="#those-in-state-custody%e8%99%95%e6%96%bc%e5%9c%8b%e5%ae%b6%e7%9b%a3%e8%ad%b7%e8%80%85">#</a></h4>
 <ul>
 <li>2016-17 年，27-30% 之成年人及 50% 之青少年被拘留者是原住民，而原住民僅占加拿大成年人及青少年人口之 4.1% 及 8%</li>
 <li>Indigenous restorative justice（而非懲罰性）方案已被提議以降低原住民再犯率</li>
 </ul>
-<h4 id="those-with-no-fixed-address無固定地址者">Those with no Fixed Address（無固定地址者）</h4>
+<h4 id="those-with-no-fixed-address無固定地址者">Those with no Fixed Address（無固定地址者）<a class="anchor" href="#those-with-no-fixed-address%e7%84%a1%e5%9b%ba%e5%ae%9a%e5%9c%b0%e5%9d%80%e8%80%85">#</a></h4>
 <ul>
 <li>多倫多原住民人口約為 Statistics Canada 報告估計之 2-4 倍</li>
 <li>多倫多原住民約占無家可歸人口之 15%，但僅占總人口之 0.5% (2010)</li>
 <li>Enfranchisement、on-reserve 住房限制與短缺、社區與土地脫離，加上政府資金與支持不足，是當今原住民無家可歸之重要連結</li>
 </ul>
 <hr>
-<h3 id="missing-and-murdered-indigenous-women-girls-and-gender-diverse-people">Missing and Murdered Indigenous Women, Girls and Gender Diverse People</h3>
+<h3 id="missing-and-murdered-indigenous-women-girls-and-gender-diverse-people">Missing and Murdered Indigenous Women, Girls and Gender Diverse People<a class="anchor" href="#missing-and-murdered-indigenous-women-girls-and-gender-diverse-people">#</a></h3>
 <ul>
 <li>在加拿大，原住民女性與女孩被謀殺或失踪之可能性顯著高於任何其他人口群體</li>
 <li>2001-2015 年，原住民女性之殺人率約為非原住民女性之 6 倍</li>
 <li>原住民社區內之人際暴力與寄宿學校時代留下之持續創傷密切相關，並產生深遠之健康影響</li>
 </ul>
 <hr>
-<h3 id="indigenous-health-coverage-and-jurisdictional-issues">Indigenous Health Coverage and Jurisdictional Issues</h3>
+<h3 id="indigenous-health-coverage-and-jurisdictional-issues">Indigenous Health Coverage and Jurisdictional Issues<a class="anchor" href="#indigenous-health-coverage-and-jurisdictional-issues">#</a></h3>
 <ul>
 <li>原住民健康政策被認為在各級政府、私營部門及 First Nations 社區之間共享</li>
 <li>此模式嚴重依賴國家強加之原住民身份定義，限制原住民在加拿大之自決與自治權</li>
@@ -1206,12 +1230,12 @@
 </li>
 <li>非 status First Nations 與 Métis 患者因此被拒絕 NIHB 資格</li>
 </ul>
-<h4 id="british-columbia">British Columbia</h4>
+<h4 id="british-columbia">British Columbia<a class="anchor" href="#british-columbia">#</a></h4>
 <ul>
 <li>已建立 First Nations Health Authority，作為解決原住民自決醫療之一步</li>
 </ul>
 <hr>
-<h3 id="resources-in-indigenous-health">Resources in Indigenous Health</h3>
+<h3 id="resources-in-indigenous-health">Resources in Indigenous Health<a class="anchor" href="#resources-in-indigenous-health">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -1259,27 +1283,27 @@
   </tbody>
 </table>
 <hr>
-<h2 id="參考文獻">參考文獻</h2>
-<h3 id="bioethics">Bioethics</h3>
+<h2 id="參考文獻">參考文獻<a class="anchor" href="#%e5%8f%83%e8%80%83%e6%96%87%e7%8d%bb">#</a></h2>
+<h3 id="bioethics">Bioethics<a class="anchor" href="#bioethics">#</a></h3>
 <ul>
 <li>Canadian Medical Association. CMA Code of Ethics and Professionalism</li>
 <li>Hébert P, Rosen W. Doing Right: Practical Guide to Ethics for Medical Trainees and Physicians</li>
 <li>CMAJ Bioethics for Clinicians Series</li>
 </ul>
-<h3 id="governing-organizations">Governing Organizations</h3>
+<h3 id="governing-organizations">Governing Organizations<a class="anchor" href="#governing-organizations">#</a></h3>
 <ul>
 <li>Canadian Medical Association (CMA)</li>
 <li>College of Physicians and Surgeons of Ontario (CPSO)</li>
 <li>Ontario Medical Association</li>
 <li>Medical Council of Canada (CanMEDS)</li>
 </ul>
-<h3 id="healthcare-delivery">Healthcare Delivery</h3>
+<h3 id="healthcare-delivery">Healthcare Delivery<a class="anchor" href="#healthcare-delivery">#</a></h3>
 <ul>
 <li>Choosing Wisely Canada</li>
 <li>Canadian Institute for Health Information (CIHI)</li>
 <li>Health Canada (Canada Health Act)</li>
 </ul>
-<h3 id="important-actscharters">Important Acts/Charters</h3>
+<h3 id="important-actscharters">Important Acts/Charters<a class="anchor" href="#important-actscharters">#</a></h3>
 <ul>
 <li><strong>Assisted Human Reproduction Act</strong> (SC 2004, c. 2)</li>
 <li><strong>Canada Health Act</strong> (RS 1985, c. C-6)</li>
@@ -1291,11 +1315,11 @@
 <li><strong>Carter v. Canada</strong> (2015 SCC)</li>
 <li><strong>Cuthbertson v. Rasouli</strong> (2013 SCC)</li>
 </ul>
-<h3 id="research-ethics">Research Ethics</h3>
+<h3 id="research-ethics">Research Ethics<a class="anchor" href="#research-ethics">#</a></h3>
 <ul>
 <li>Tri-Council Policy Statement: Ethical Conduct for Research Involving Humans (TCPS 2, 2022)</li>
 </ul>
-<h3 id="indigenous-health-history-and-laws">Indigenous Health, History, and Laws</h3>
+<h3 id="indigenous-health-history-and-laws">Indigenous Health, History, and Laws<a class="anchor" href="#indigenous-health-history-and-laws">#</a></h3>
 <ul>
 <li>Truth and Reconciliation Commission of Canada: Calls to Action</li>
 <li>United Nations Declaration on the Rights of Indigenous Peoples (UNDRIP)</li>
@@ -1312,5 +1336,19 @@
   <footer>
     <p>Powered by Hugo | Toronto Notes 2025 繁體中文翻譯</p>
   </footer>
+  <script>
+    function toggleTheme() {
+      const html = document.documentElement;
+      const current = html.getAttribute('data-theme');
+      const next = current === 'dark' ? 'light' : 'dark';
+      html.setAttribute('data-theme', next);
+      localStorage.setItem('theme', next);
+    }
+    const saved = localStorage.getItem('theme');
+    if (saved) document.documentElement.setAttribute('data-theme', saved);
+    else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+      document.documentElement.setAttribute('data-theme', 'dark');
+    }
+  </script>
 </body>
 </html>

@@ -1,5 +1,5 @@
 ---
-title: "Vascular Surgery"
+title: "Vascular Surgery 血管外科"
 description: "本章節涵蓋血管外科的核心內容，摘要如下："
 slug: "Vascular_Surgery"
 weight: 1

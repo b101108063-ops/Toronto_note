@@ -5,31 +5,55 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>內分泌學 (Endocrinology) - Toronto Notes 2025 繁體中文</title>
   <style>
+    :root {
+      --bg-primary: #ffffff;
+      --bg-secondary: #f8fafc;
+      --text-primary: #1e293b;
+      --text-secondary: #64748b;
+      --accent: #2563eb;
+      --border: #e2e8f0;
+      --code-bg: #f1f5f9;
+      --link: #2563eb;
+      --link-visited: #5500bb;
+    }
+    [data-theme="dark"] {
+      --bg-primary: #1a1a2e;
+      --bg-secondary: #16162a;
+      --text-primary: #e4e4e7;
+      --text-secondary: #a1a1aa;
+      --accent: #93c5fd;
+      --border: #3f3f46;
+      --code-bg: #27272a;
+      --link: #93c5fd;
+      --link-visited: #c4b5fd;
+    }
     * { box-sizing: border-box; }
-    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; line-height: 1.6; color: #333; max-width: 900px; margin: 0 auto; padding: 20px; }
-    header { border-bottom: 2px solid #2563eb; padding-bottom: 10px; margin-bottom: 20px; }
-    header h1 { margin: 0; font-size: 1.5em; color: #2563eb; }
-    nav a { margin-right: 15px; color: #2563eb; text-decoration: none; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; line-height: 1.6; color: var(--text-primary); background: var(--bg-primary); max-width: 900px; margin: 0 auto; padding: 20px; }
+    header { border-bottom: 2px solid var(--accent); padding-bottom: 10px; margin-bottom: 20px; display: flex; justify-content: space-between; align-items: center; }
+    header h1 { margin: 0; font-size: 1.5em; color: var(--accent); }
+    nav a { margin-right: 15px; color: var(--link); text-decoration: none; }
     nav a:hover { text-decoration: underline; }
-    h1, h2, h3 { color: #1e293b; }
-    h1 { font-size: 1.8em; border-bottom: 1px solid #e2e8f0; padding-bottom: 8px; }
-    h2 { font-size: 1.4em; border-bottom: 1px solid #e2e8f0; padding-bottom: 5px; }
+    h1, h2, h3 { color: var(--text-primary); }
+    h1 { font-size: 1.8em; border-bottom: 1px solid var(--border); padding-bottom: 8px; }
+    h2 { font-size: 1.4em; border-bottom: 1px solid var(--border); padding-bottom: 5px; }
     h3 { font-size: 1.15em; }
-    pre { background: #f1f5f9; padding: 15px; border-radius: 6px; overflow-x: auto; }
-    code { background: #f1f5f9; padding: 2px 5px; border-radius: 3px; font-size: 0.9em; }
+    pre { background: var(--code-bg); padding: 15px; border-radius: 6px; overflow-x: auto; }
+    code { background: var(--code-bg); padding: 2px 5px; border-radius: 3px; font-size: 0.9em; }
     pre code { background: none; padding: 0; }
-    blockquote { border-left: 4px solid #2563eb; margin: 0; padding: 5px 15px; color: #64748b; background: #f8fafc; }
+    blockquote { border-left: 4px solid var(--accent); margin: 0; padding: 5px 15px; color: var(--text-secondary); background: var(--bg-secondary); }
     table { border-collapse: collapse; width: 100%; margin: 15px 0; }
-    th, td { border: 1px solid #cbd5e1; padding: 8px 12px; text-align: left; }
-    th { background: #f1f5f9; font-weight: 600; }
-    tr:nth-child(even) { background: #f8fafc; }
+    th, td { border: 1px solid var(--border); padding: 8px 12px; text-align: left; }
+    th { background: var(--bg-secondary); font-weight: 600; }
+    tr:nth-child(even) { background: var(--bg-secondary); }
     .content-body { line-height: 1.8; }
-    footer { border-top: 1px solid #e2e8f0; margin-top: 30px; padding-top: 15px; color: #64748b; font-size: 0.9em; }
-    .breadcrumb { font-size: 0.9em; color: #64748b; margin-bottom: 15px; }
-    .breadcrumb a { color: #2563eb; text-decoration: none; }
-    a { color: #2563eb; }
+    footer { border-top: 1px solid var(--border); margin-top: 30px; padding-top: 15px; color: var(--text-secondary); font-size: 0.9em; }
+    .breadcrumb { font-size: 0.9em; color: var(--text-secondary); margin-bottom: 15px; }
+    .breadcrumb a { color: var(--link); text-decoration: none; }
+    a { color: var(--link); }
     a:hover { text-decoration: underline; }
     img { max-width: 100%; height: auto; }
+    .theme-toggle { background: none; border: 1px solid var(--border); color: var(--text-primary); cursor: pointer; padding: 4px 10px; border-radius: 4px; font-size: 0.85em; }
+    .theme-toggle:hover { background: var(--bg-secondary); }
   </style>
 </head>
 <body>
@@ -38,6 +62,7 @@
       <a href="https://b101108063-ops.github.io/Toronto_note/">首頁</a>
       <a href="/Toronto_note/categories/">章節</a>
     </nav>
+    <button class="theme-toggle" onclick="toggleTheme()">🌙 暗色</button>
   </header>
 
   <main>
@@ -49,7 +74,7 @@
       <div class="content-body">
         <p><em>Toronto Notes 2025</em></p>
 <hr>
-<h2 id="導讀摘要">導讀摘要</h2>
+<h2 id="導讀摘要">導讀摘要<a class="anchor" href="#%e5%b0%8e%e8%ae%80%e6%91%98%e8%a6%81">#</a></h2>
 <p>本頁為 Toronto Notes 2025 內分泌學（Endocrinology）章節的繁體中文摘要，涵蓋以下核心主題：</p>
 <ul>
 <li><strong>Calcium 恆定</strong>：涵蓋高血鈣、低血鈣的診斷與治療，以及 PTH、Vitamin D 的調控機制</li>
@@ -60,10 +85,10 @@
 <li><strong>重要臨床試驗</strong>：涵蓋糖尿病、骨質疏鬆、血脂管理等領域的 landmark trials</li>
 </ul>
 <hr>
-<h2 id="內分泌學概論">內分泌學概論</h2>
-<h3 id="multiple-endocrine-neoplasia-men">Multiple Endocrine Neoplasia (MEN)</h3>
+<h2 id="內分泌學概論">內分泌學概論<a class="anchor" href="#%e5%85%a7%e5%88%86%e6%b3%8c%e5%ad%b8%e6%a6%82%e8%ab%96">#</a></h2>
+<h3 id="multiple-endocrine-neoplasia-men">Multiple Endocrine Neoplasia (MEN)<a class="anchor" href="#multiple-endocrine-neoplasia-men">#</a></h3>
 <p>MEN 為罕見的遺傳性疾病，分為以下類型：</p>
-<h4 id="men1-wermer-syndrome">MEN1 (Wermer syndrome)</h4>
+<h4 id="men1-wermer-syndrome">MEN1 (Wermer syndrome)<a class="anchor" href="#men1-wermer-syndrome">#</a></h4>
 <p><strong>定義</strong>：三個部位的腫瘤或增生</p>
 <ul>
 <li><strong>Parathyroid</strong>：最常見（95%），導致 hypercalcemia</li>
@@ -81,7 +106,7 @@
 <li><strong>藥物治療</strong>：octreotide（Somatostatin analogue）用於控制 hormone secretion</li>
 <li><strong>手術治療</strong>：針對 hyperparathyroidism、functional pancreatic tumors、functioning pituitary tumors</li>
 </ul>
-<h4 id="men2a-sipple-syndrome">MEN2A (Sipple syndrome)</h4>
+<h4 id="men2a-sipple-syndrome">MEN2A (Sipple syndrome)<a class="anchor" href="#men2a-sipple-syndrome">#</a></h4>
 <p><strong>腫瘤類型</strong>：</p>
 <ul>
 <li><strong>Medullary thyroid carcinoma (MTC)</strong>：100% 發生</li>
@@ -107,7 +132,7 @@
 <li>甲狀腺切除術（MTC）</li>
 <li>Hyperparathyroidism：切除 parathyroid adenoma</li>
 </ul>
-<h4 id="men2b">MEN2B</h4>
+<h4 id="men2b">MEN2B<a class="anchor" href="#men2b">#</a></h4>
 <p><strong>腫瘤類型</strong>：</p>
 <ul>
 <li>Medullary thyroid carcinoma</li>
@@ -125,8 +150,8 @@
 <li>Pheochromocytoma 手術切除</li>
 </ul>
 <hr>
-<h2 id="calcium-恆定">Calcium 恆定</h2>
-<h3 id="正常值">正常值</h3>
+<h2 id="calcium-恆定">Calcium 恆定<a class="anchor" href="#calcium-%e6%81%86%e5%ae%9a">#</a></h2>
+<h3 id="正常值">正常值<a class="anchor" href="#%e6%ad%a3%e5%b8%b8%e5%80%bc">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -145,20 +170,20 @@
       </tr>
   </tbody>
 </table>
-<h3 id="calcium-的分布">Calcium 的分布</h3>
+<h3 id="calcium-的分布">Calcium 的分布<a class="anchor" href="#calcium-%e7%9a%84%e5%88%86%e5%b8%83">#</a></h3>
 <ul>
 <li><strong>40%</strong>：與蛋白質結合（主要為 albumin）</li>
 <li><strong>45%</strong>：游離離子態</li>
 <li><strong>15%</strong>：與 PO₄³⁻ 和 citrate 結合</li>
 </ul>
-<h3 id="調控機制">調控機制</h3>
+<h3 id="調控機制">調控機制<a class="anchor" href="#%e8%aa%bf%e6%8e%a7%e6%a9%9f%e5%88%b6">#</a></h3>
 <p>主要受 <strong>PTH</strong> 和 <strong>Vitamin D</strong> 調控，作用於三個主要器官：</p>
 <ul>
 <li><strong>胃腸道 (GI tract)</strong></li>
 <li><strong>骨骼 (Bone)</strong></li>
 <li><strong>腎臟 (Kidney)</strong></li>
 </ul>
-<h3 id="major-regulators-in-calcium-homeostasis">Major Regulators in Calcium Homeostasis</h3>
+<h3 id="major-regulators-in-calcium-homeostasis">Major Regulators in Calcium Homeostasis<a class="anchor" href="#major-regulators-in-calcium-homeostasis">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -213,22 +238,21 @@
       </tr>
   </tbody>
 </table>
-<h3 id="pth-調控圖示">PTH 調控圖示</h3>
+<h3 id="pth-調控圖示">PTH 調控圖示<a class="anchor" href="#pth-%e8%aa%bf%e6%8e%a7%e5%9c%96%e7%a4%ba">#</a></h3>
 <pre tabindex="0"><code>UV light → Vitamin D₃ → 25-OH vitamin D → [Kidney] → 1,25-(OH)₂D₃ (Calcitriol)
                                               ↑
                                         1-α-hydroxylase
                                               ↑
                                         ← PTH ↑ ← Ca²⁺ ↓
                                               ↓
-                                     [Bone] → Ca²⁺ release ↑ (via osteoclast)
-</code></pre><hr>
-<h2 id="高血鈣-hypercalcemia">高血鈣 (Hypercalcemia)</h2>
-<h3 id="定義">定義</h3>
+                                     [Bone] → Ca²⁺ release ↑ (via osteoclast)</code></pre><hr>
+<h2 id="高血鈣-hypercalcemia">高血鈣 (Hypercalcemia)<a class="anchor" href="#%e9%ab%98%e8%a1%80%e9%88%a3-hypercalcemia">#</a></h2>
+<h3 id="定義">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9">#</a></h3>
 <ul>
 <li><strong>Total corrected serum Ca²⁺ &gt; 2.6 mmol/L</strong></li>
 <li><strong>Ionized Ca²⁺ &gt; 1.35 mmol/L</strong></li>
 </ul>
-<h3 id="臨床表徵">臨床表徵</h3>
+<h3 id="臨床表徵">臨床表徵<a class="anchor" href="#%e8%87%a8%e5%ba%8a%e8%a1%a8%e5%be%b5">#</a></h3>
 <p>高血鈣的經典症狀：<strong>&ldquo;Bones, stones, groans, and psychiatric overtones&rdquo;</strong></p>
 <table>
   <thead>
@@ -268,13 +292,13 @@
       </tr>
   </tbody>
 </table>
-<h3 id="hypercalcemic-crisis">Hypercalcemic Crisis</h3>
+<h3 id="hypercalcemic-crisis">Hypercalcemic Crisis<a class="anchor" href="#hypercalcemic-crisis">#</a></h3>
 <ul>
 <li>通常 Ca²⁺ &gt; 4 mmol/L</li>
 <li>主要症狀：oliguria/anuria、mental status changes、somnolescence、coma</li>
 <li><strong>屬於醫療緊急情況，需立即治療！</strong></li>
 </ul>
-<h3 id="鑑別診斷">鑑別診斷</h3>
+<h3 id="鑑別診斷">鑑別診斷<a class="anchor" href="#%e9%91%91%e5%88%a5%e8%a8%ba%e6%96%b7">#</a></h3>
 <p><strong>Step 1</strong>：PTH 高或低？</p>
 <table>
   <thead>
@@ -329,11 +353,11 @@
       </tr>
   </tbody>
 </table>
-<h3 id="治療">治療</h3>
+<h3 id="治療">治療<a class="anchor" href="#%e6%b2%bb%e7%99%82">#</a></h3>
 <p><strong>輕度（&lt; 3.0 mmol/L）</strong>：通常無症狀，不需緊急校正</p>
 <p><strong>中度（3.0-3.5 mmol/L）</strong>：視症狀而定，通常需要治療</p>
 <p><strong>重度（&gt; 3.5 mmol/L）</strong>：需緊急校正，預防心律不整和昏迷</p>
-<h4 id="急性高血鈣治療">急性高血鈣治療</h4>
+<h4 id="急性高血鈣治療">急性高血鈣治療<a class="anchor" href="#%e6%80%a5%e6%80%a7%e9%ab%98%e8%a1%80%e9%88%a3%e6%b2%bb%e7%99%82">#</a></h4>
 <table>
   <thead>
       <tr>
@@ -375,18 +399,17 @@
       </tr>
   </tbody>
 </table>
-<blockquote>
+<blockquote class='book-hint '>
 <p>⚠️ <strong>使用 Calcitonin 前請詢問是否有魚類過敏</strong></p>
-</blockquote>
-<hr>
-<h2 id="低血鈣-hypocalcemia">低血鈣 (Hypocalcemia)</h2>
-<h3 id="定義-1">定義</h3>
+</blockquote><hr>
+<h2 id="低血鈣-hypocalcemia">低血鈣 (Hypocalcemia)<a class="anchor" href="#%e4%bd%8e%e8%a1%80%e9%88%a3-hypocalcemia">#</a></h2>
+<h3 id="定義-1">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-1">#</a></h3>
 <ul>
 <li><strong>Total corrected serum Ca²⁺ &lt; 2.2 mmol/L</strong></li>
 <li><strong>輕度</strong>：serum Ca²⁺ &lt; 1.9 mmol/L，ionized Ca²⁺ &gt; 0.8 mmol/L</li>
 <li><strong>重度</strong>：serum Ca²⁺ &lt; 1.9 mmol/L 和/或有症狀</li>
 </ul>
-<h3 id="臨床表徵-1">臨床表徵</h3>
+<h3 id="臨床表徵-1">臨床表徵<a class="anchor" href="#%e8%87%a8%e5%ba%8a%e8%a1%a8%e5%be%b5-1">#</a></h3>
 <p><strong>急性低血鈣</strong>：</p>
 <ul>
 <li><strong>感覺異常</strong>：perioral、hands、feet</li>
@@ -406,7 +429,7 @@
 <li>Ocular：cataracts</li>
 <li>MSK：muscle weakness</li>
 </ul>
-<h3 id="鑑別診斷流程">鑑別診斷流程</h3>
+<h3 id="鑑別診斷流程">鑑別診斷流程<a class="anchor" href="#%e9%91%91%e5%88%a5%e8%a8%ba%e6%96%b7%e6%b5%81%e7%a8%8b">#</a></h3>
 <p><strong>Step 1</strong>：PTH 高或低？</p>
 <table>
   <thead>
@@ -434,7 +457,7 @@
       </tr>
   </tbody>
 </table>
-<h3 id="治療-1">治療</h3>
+<h3 id="治療-1">治療<a class="anchor" href="#%e6%b2%bb%e7%99%82-1">#</a></h3>
 <p><strong>輕度無症狀</strong>：</p>
 <ul>
 <li>Calcium supplementation：elemental calcium 1 g → 500 mg PO TID</li>
@@ -451,15 +474,15 @@
 </ul>
 <p><strong>目標</strong>：Hypoparathyroidism 患者，將 Ca²⁺ 維持在 low normal range (2.0-2.1 mmol/L)</p>
 <hr>
-<h2 id="metabolic-bone-disease">Metabolic Bone Disease</h2>
-<h3 id="骨質疏鬆症-osteoporosis">骨質疏鬆症 (Osteoporosis)</h3>
-<h4 id="定義-2">定義</h4>
+<h2 id="metabolic-bone-disease">Metabolic Bone Disease<a class="anchor" href="#metabolic-bone-disease">#</a></h2>
+<h3 id="骨質疏鬆症-osteoporosis">骨質疏鬆症 (Osteoporosis)<a class="anchor" href="#%e9%aa%a8%e8%b3%aa%e7%96%8f%e9%ac%86%e7%97%87-osteoporosis">#</a></h3>
+<h4 id="定義-2">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-2">#</a></h4>
 <ul>
 <li>骨質流失伴隨微觀結構惡化，導致骨折風險增加</li>
 <li><strong>BMD T-score ≤ -2.5</strong> 確診骨質疏鬆</li>
 <li><strong>Osteopenia</strong>：T-score between -1.0 and -2.5</li>
 </ul>
-<h4 id="病因">病因</h4>
+<h4 id="病因">病因<a class="anchor" href="#%e7%97%85%e5%9b%a0">#</a></h4>
 <p><strong>藥物</strong>：</p>
 <ul>
 <li>Glucocorticoid steroids</li>
@@ -482,7 +505,7 @@
 <li>Multiple myeloma</li>
 <li>Chronic kidney disease</li>
 </ul>
-<h4 id="臨床表徵-2">臨床表徵</h4>
+<h4 id="臨床表徵-2">臨床表徵<a class="anchor" href="#%e8%87%a8%e5%ba%8a%e8%a1%a8%e5%be%b5-2">#</a></h4>
 <ul>
 <li>通常無症狀</li>
 <li>身高下降（脊椎壓迫性骨折）</li>
@@ -490,14 +513,14 @@
 <li>Kyphosis</li>
 <li>Fragility fractures（跌倒或站立高度以下摔倒造成的骨折）</li>
 </ul>
-<h4 id="診斷流程">診斷流程</h4>
+<h4 id="診斷流程">診斷流程<a class="anchor" href="#%e8%a8%ba%e6%96%b7%e6%b5%81%e7%a8%8b">#</a></h4>
 <ol>
 <li><strong>風險評估</strong>：病史和身體評估</li>
 <li><strong>BMD 檢測</strong>：DEXA（男性和停經後女性 &gt; 70 歲，或較年輕但有風險因子）</li>
 <li><strong>實驗室檢查</strong>：Ca²⁺、phosphate、creatinine、ALP、TSH、SPEP、25-OH vitamin D</li>
 <li><strong>10 年骨折風險</strong>：使用 FRAX 或 CAROC</li>
 </ol>
-<h4 id="bmd-檢測適應症">BMD 檢測適應症</h4>
+<h4 id="bmd-檢測適應症">BMD 檢測適應症<a class="anchor" href="#bmd-%e6%aa%a2%e6%b8%ac%e9%81%a9%e6%87%89%e7%97%87">#</a></h4>
 <table>
   <thead>
       <tr>
@@ -520,7 +543,7 @@
       </tr>
   </tbody>
 </table>
-<h4 id="骨折風險分層">骨折風險分層</h4>
+<h4 id="骨折風險分層">骨折風險分層<a class="anchor" href="#%e9%aa%a8%e6%8a%98%e9%a2%a8%e9%9a%aa%e5%88%86%e5%b1%a4">#</a></h4>
 <table>
   <thead>
       <tr>
@@ -543,7 +566,7 @@
       </tr>
   </tbody>
 </table>
-<h4 id="治療-2">治療</h4>
+<h4 id="治療-2">治療<a class="anchor" href="#%e6%b2%bb%e7%99%82-2">#</a></h4>
 <p><strong>生活型態</strong>：</p>
 <ul>
 <li>Calcium：1000 mg/day（51-70 歲男性）、1200 mg/day（停經後女性和 &gt; 70 歲男性）</li>
@@ -588,18 +611,17 @@
 <li><strong>SERM</strong>：Raloxifene（預防脊椎骨折）</li>
 <li><strong>HRT</strong>：雌激素/黃體素合併治療</li>
 </ul>
-<blockquote>
+<blockquote class='book-hint '>
 <p>⚠️ <strong>Denosumab 不應突然停用</strong>，否則有 multiple vertebral fractures 風險</p>
-</blockquote>
-<hr>
-<h3 id="軟骨病-osteomalacia-與佝僂症-rickets">軟骨病 (Osteomalacia) 與佝僂症 (Rickets)</h3>
-<h4 id="定義-3">定義</h4>
+</blockquote><hr>
+<h3 id="軟骨病-osteomalacia-與佝僂症-rickets">軟骨病 (Osteomalacia) 與佝僂症 (Rickets)<a class="anchor" href="#%e8%bb%9f%e9%aa%a8%e7%97%85-osteomalacia-%e8%88%87%e4%bd%9d%e5%83%82%e7%97%87-rickets">#</a></h3>
+<h4 id="定義-3">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-3">#</a></h4>
 <ul>
 <li>Osteomalacia：Osteopenia 合併 disordered calcification，導致 osteoid（未礦化骨基質）比例增加</li>
 <li>Rickets：發生於生長板閉合前（孩童時期）</li>
 <li>Osteomalacia：發生於成年人</li>
 </ul>
-<h4 id="病因-1">病因</h4>
+<h4 id="病因-1">病因<a class="anchor" href="#%e7%97%85%e5%9b%a0-1">#</a></h4>
 <p><strong>維生素 D 缺乏</strong>：</p>
 <ul>
 <li>攝取不足或吸收不良</li>
@@ -623,7 +645,7 @@
 <li>GI：攝取不足、慢性腹瀉</li>
 <li>Renal phosphate wasting：tumour-induced osteomalacia、Fanconi syndrome、X-linked hypophosphatemic rickets</li>
 </ul>
-<h4 id="臨床表徵-3">臨床表徵</h4>
+<h4 id="臨床表徵-3">臨床表徵<a class="anchor" href="#%e8%87%a8%e5%ba%8a%e8%a1%a8%e5%be%b5-3">#</a></h4>
 <table>
   <thead>
       <tr>
@@ -662,7 +684,7 @@
       </tr>
   </tbody>
 </table>
-<h4 id="實驗室發現">實驗室發現</h4>
+<h4 id="實驗室發現">實驗室發現<a class="anchor" href="#%e5%af%a6%e9%a9%97%e5%ae%a4%e7%99%bc%e7%8f%be">#</a></h4>
 <table>
   <thead>
       <tr>
@@ -704,7 +726,7 @@
       </tr>
   </tbody>
 </table>
-<h4 id="治療-3">治療</h4>
+<h4 id="治療-3">治療<a class="anchor" href="#%e6%b2%bb%e7%99%82-3">#</a></h4>
 <ul>
 <li>維生素 D 補充</li>
 <li>Phosphate 補充（若血清 PO₄³⁻ 低）</li>
@@ -712,8 +734,8 @@
 <li>Bicarbonate（慢性代謝性酸中毒）</li>
 </ul>
 <hr>
-<h3 id="腎性骨病變-renal-osteodystrophy">腎性骨病變 (Renal Osteodystrophy)</h3>
-<h4 id="定義-4">定義</h4>
+<h3 id="腎性骨病變-renal-osteodystrophy">腎性骨病變 (Renal Osteodystrophy)<a class="anchor" href="#%e8%85%8e%e6%80%a7%e9%aa%a8%e7%97%85%e8%ae%8a-renal-osteodystrophy">#</a></h3>
+<h4 id="定義-4">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-4">#</a></h4>
 <ul>
 <li>CKD 引起的礦物質代謝和骨骼結構改變</li>
 <li>混合四種類型的骨病：
@@ -725,19 +747,19 @@
 </ul>
 </li>
 </ul>
-<h4 id="病理生理">病理生理</h4>
+<h4 id="病理生理">病理生理<a class="anchor" href="#%e7%97%85%e7%90%86%e7%94%9f%e7%90%86">#</a></h4>
 <ul>
 <li>Hyperphosphatemia（抑制 1,25(OH)₂ vitamin D 合成）</li>
 <li>腎臟 mass 減少（減少 1-α-hydroxylase）</li>
 </ul>
-<h4 id="臨床表徵-4">臨床表徵</h4>
+<h4 id="臨床表徵-4">臨床表徵<a class="anchor" href="#%e8%87%a8%e5%ba%8a%e8%a1%a8%e5%be%b5-4">#</a></h4>
 <ul>
 <li>軟組織鈣化</li>
 <li>骨骼疼痛和骨折</li>
 <li>搔癢</li>
 <li>低血鈣時的神經肌肉易感性</li>
 </ul>
-<h4 id="治療-4">治療</h4>
+<h4 id="治療-4">治療<a class="anchor" href="#%e6%b2%bb%e7%99%82-4">#</a></h4>
 <ul>
 <li>限制磷酸鹽攝取（≤ 1 g/day）</li>
 <li>Calcium supplements、phosphate binding agents</li>
@@ -745,23 +767,23 @@
 <li><strong>注意</strong>：Bisphosphonates 和 denosumab 在低 eGFR 時禁用</li>
 </ul>
 <hr>
-<h3 id="paget-氏骨病-pagets-disease-of-bone">Paget 氏骨病 (Paget&rsquo;s Disease of Bone)</h3>
-<h4 id="定義-5">定義</h4>
+<h3 id="paget-氏骨病-pagets-disease-of-bone">Paget 氏骨病 (Paget&rsquo;s Disease of Bone)<a class="anchor" href="#paget-%e6%b0%8f%e9%aa%a8%e7%97%85-pagets-disease-of-bone">#</a></h3>
+<h4 id="定義-5">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-5">#</a></h4>
 <ul>
 <li>代謝性骨骼疾病，特徵為過度的骨骼破壞和修復</li>
 </ul>
-<h4 id="流行病學">流行病學</h4>
+<h4 id="流行病學">流行病學<a class="anchor" href="#%e6%b5%81%e8%a1%8c%e7%97%85%e5%ad%b8">#</a></h4>
 <ul>
 <li>人口中 3%，&gt; 80 歲達 10%</li>
 <li>建議在 elevated ALP 但正常 GGT 的老年人中考慮此病</li>
 </ul>
-<h4 id="病理生理-1">病理生理</h4>
+<h4 id="病理生理-1">病理生理<a class="anchor" href="#%e7%97%85%e7%90%86%e7%94%9f%e7%90%86-1">#</a></h4>
 <ul>
 <li>可能與 osteoclasts 的慢病毒感染（可能是副黏液病毒）有關</li>
 <li>強家族聚集性</li>
 <li>開始於蝕骨細胞活性增加 → 骨吸收增加 → 骨母細胞活性代償性增加 → 結構異常的新骨形成</li>
 </ul>
-<h4 id="臨床表徵-5">臨床表徵</h4>
+<h4 id="臨床表徵-5">臨床表徵<a class="anchor" href="#%e8%87%a8%e5%ba%8a%e8%a1%a8%e5%be%b5-5">#</a></h4>
 <ul>
 <li>通常無症狀（常規 X 光或 elevated ALP 發現）</li>
 <li><strong>三個特徵性發現</strong>：osteolytic lesions、cortical thickening、pseudofractures</li>
@@ -770,7 +792,7 @@
 <li>骨骼變形：bowed tibias、kyphosis、頻繁骨折</li>
 <li>Osteosarcoma 和 giant cell tumors 風險增加</li>
 </ul>
-<h4 id="診斷">診斷</h4>
+<h4 id="診斷">診斷<a class="anchor" href="#%e8%a8%ba%e6%96%b7">#</a></h4>
 <p><strong>實驗室</strong>：</p>
 <ul>
 <li>血清 ALP 高，Ca²⁺ 正常或高，PO₄³⁻ 正常</li>
@@ -781,7 +803,7 @@
 <li>X 光：確診所需</li>
 <li>骨掃描：評估疾病範圍</li>
 </ul>
-<h4 id="治療-5">治療</h4>
+<h4 id="治療-5">治療<a class="anchor" href="#%e6%b2%bb%e7%99%82-5">#</a></h4>
 <p><strong>目標</strong>：減少疼痛、降低重建率</p>
 <p><strong>藥物治療</strong>（若有症狀或 ALP &gt; 3x normal）：</p>
 <ul>
@@ -789,22 +811,21 @@
 <li><strong>Calcitonin</strong>：若無法耐受 bisphosphonates</li>
 </ul>
 <hr>
-<h2 id="男性生殖內分泌">男性生殖內分泌</h2>
-<h3 id="下視丘-腦下垂體-性腺軸">下視丘-腦下垂體-性腺軸</h3>
+<h2 id="男性生殖內分泌">男性生殖內分泌<a class="anchor" href="#%e7%94%b7%e6%80%a7%e7%94%9f%e6%ae%96%e5%85%a7%e5%88%86%e6%b3%8c">#</a></h2>
+<h3 id="下視丘-腦下垂體-性腺軸">下視丘-腦下垂體-性腺軸<a class="anchor" href="#%e4%b8%8b%e8%a6%96%e4%b8%98-%e8%85%a6%e4%b8%8b%e5%9e%82%e9%ab%94-%e6%80%a7%e8%85%ba%e8%bb%b8">#</a></h3>
 <pre tabindex="0"><code>下視丘 → GnRH → 腦下垂體前葉 → FSH、LH
                           ↓
                     Sertoli cells → Inhibin → 抑制 FSH
-                    Leydig cells → Testosterone → 抑制 LH、 GnRH
-</code></pre><h3 id="睪丸功能檢查">睪丸功能檢查</h3>
+                    Leydig cells → Testosterone → 抑制 LH、 GnRH</code></pre><h3 id="睪丸功能檢查">睪丸功能檢查<a class="anchor" href="#%e7%9d%aa%e4%b8%b8%e5%8a%9f%e8%83%bd%e6%aa%a2%e6%9f%a5">#</a></h3>
 <ul>
 <li><strong>睪丸大小</strong>：正常下限 = 4 cm × 2.5 cm（成人）</li>
 <li><strong>LH、FSH、total/bioavailable/free testosterone</strong></li>
 <li><strong>精液分析</strong>：volume、sperm concentration、morphology、motility</li>
 <li><strong>睪丸切片</strong>：僅用於 FSH 正常但無精子症/寡精子症</li>
 </ul>
-<h3 id="男性不孕症">男性不孕症</h3>
+<h3 id="男性不孕症">男性不孕症<a class="anchor" href="#%e7%94%b7%e6%80%a7%e4%b8%8d%e5%ad%95%e7%97%87">#</a></h3>
 <p><strong>定義</strong>：規律性交 12 個月未避孕（&lt; 35 歲女性）或 6 個月（≥ 35 歲女性）仍無法懷孕</p>
-<h3 id="hypogonadism-分類">Hypogonadism 分類</h3>
+<h3 id="hypogonadism-分類">Hypogonadism 分類<a class="anchor" href="#hypogonadism-%e5%88%86%e9%a1%9e">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -832,7 +853,7 @@
       </tr>
   </tbody>
 </table>
-<h4 id="原發性原因">原發性原因</h4>
+<h4 id="原發性原因">原發性原因<a class="anchor" href="#%e5%8e%9f%e7%99%bc%e6%80%a7%e5%8e%9f%e5%9b%a0">#</a></h4>
 <ul>
 <li>染色體異常（Klinefelter、Noonan）</li>
 <li>Cryptorchidism</li>
@@ -841,7 +862,7 @@
 <li>藥物（cannabis、alcohol、chemotherapy）</li>
 <li>創傷、熱、輻射</li>
 </ul>
-<h4 id="次發性原因">次發性原因</h4>
+<h4 id="次發性原因">次發性原因<a class="anchor" href="#%e6%ac%a1%e7%99%bc%e6%80%a7%e5%8e%9f%e5%9b%a0">#</a></h4>
 <ul>
 <li>Kallmann&rsquo;s syndrome</li>
 <li>Prader-Willi syndrome</li>
@@ -849,13 +870,13 @@
 <li>全身性疾病（肝硬化、慢性腎衰竭、AIDS）</li>
 <li>藥物</li>
 </ul>
-<h3 id="testosterone-缺乏診斷">Testosterone 缺乏診斷</h3>
+<h3 id="testosterone-缺乏診斷">Testosterone 缺乏診斷<a class="anchor" href="#testosterone-%e7%bc%ba%e4%b9%8f%e8%a8%ba%e6%96%b7">#</a></h3>
 <ol>
 <li><strong>症狀和徵象</strong>：libido 降低、能量減少、情緒改變、肌肉量減少、骨質減少</li>
 <li><strong>實驗室確認</strong>： Fasting morning total testosterone &lt; 實驗室參考範圍（需兩次確認）</li>
 <li><strong>排除次發性原因</strong></li>
 </ol>
-<h3 id="治療-6">治療</h3>
+<h3 id="治療-6">治療<a class="anchor" href="#%e6%b2%bb%e7%99%82-6">#</a></h3>
 <p><strong>目標</strong>：睾酮替代（改善 libido、肌肉量、力量、骨量）</p>
 <p><strong>禁忌症</strong>：</p>
 <ul>
@@ -875,36 +896,36 @@
 <li>Dopamine agonist（若有 prolactinoma）</li>
 <li>TESE 或 MICROTESE</li>
 </ul>
-<h3 id="男性女乳症-gynecomastia">男性女乳症 (Gynecomastia)</h3>
-<h4 id="定義-6">定義</h4>
+<h3 id="男性女乳症-gynecomastia">男性女乳症 (Gynecomastia)<a class="anchor" href="#%e7%94%b7%e6%80%a7%e5%a5%b3%e4%b9%b3%e7%97%87-gynecomastia">#</a></h3>
+<h4 id="定義-6">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-6">#</a></h4>
 <ul>
 <li>男性乳房良性增殖，形成乳頭周圍同心圓狀、橡膠感的硬塊</li>
 </ul>
-<h4 id="病因-2">病因</h4>
+<h4 id="病因-2">病因<a class="anchor" href="#%e7%97%85%e5%9b%a0-2">#</a></h4>
 <ul>
 <li><strong>生理性</strong>：新生兒、青春期、老年男性</li>
 <li><strong>藥物</strong>：Spironolactone、Cimetidine、Digoxin、Ketoconazole、hCG、Estrogens、Antiandrogens、Anabolic steroids</li>
 <li><strong>疾病</strong>：Hypogonadism、肝硬化、CKD、甲狀腺功能亢進</li>
 <li><strong>腫瘤</strong>：睪丸/生殖細胞腫瘤</li>
 </ul>
-<h4 id="治療-7">治療</h4>
+<h4 id="治療-7">治療<a class="anchor" href="#%e6%b2%bb%e7%99%82-7">#</a></h4>
 <ul>
 <li>多數男性初始觀察（停用致病藥物、治療根本原因）</li>
 <li><strong>藥物</strong>：Tamoxifen（證據最充分）</li>
 <li><strong>手術</strong>：長期（&gt; 12 個月，纖維化）、不適或心理困擾</li>
 </ul>
 <hr>
-<h2 id="paraneoplastic-syndrome">Paraneoplastic Syndrome</h2>
-<h3 id="定義-7">定義</h3>
+<h2 id="paraneoplastic-syndrome">Paraneoplastic Syndrome<a class="anchor" href="#paraneoplastic-syndrome">#</a></h2>
+<h3 id="定義-7">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-7">#</a></h3>
 <ul>
 <li>伴随惡性疾病的非轉移性全身效應的臨床症候群</li>
 <li>由於針對腫瘤的抗體與正常組織交叉反應，或腫瘤產生生理活性物質</li>
 </ul>
-<h3 id="常見相關惡性腫瘤">常見相關惡性腫瘤</h3>
+<h3 id="常見相關惡性腫瘤">常見相關惡性腫瘤<a class="anchor" href="#%e5%b8%b8%e8%a6%8b%e7%9b%b8%e9%97%9c%e6%83%a1%e6%80%a7%e8%85%ab%e7%98%a4">#</a></h3>
 <ul>
 <li>Lung、Breast、Ovarian、Lymphatic system cancer</li>
 </ul>
-<h3 id="臨床表徵-6">臨床表徵</h3>
+<h3 id="臨床表徵-6">臨床表徵<a class="anchor" href="#%e8%87%a8%e5%ba%8a%e8%a1%a8%e5%be%b5-6">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -959,15 +980,15 @@
       </tr>
   </tbody>
 </table>
-<h3 id="治療-8">治療</h3>
+<h3 id="治療-8">治療<a class="anchor" href="#%e6%b2%bb%e7%99%82-8">#</a></h3>
 <ul>
 <li><strong>治療根本腫瘤</strong>：手術、放療、化療</li>
 <li><strong>免疫介導疾病</strong>：IVIG、Steroids、immunosuppressive drugs、plasmapheresis</li>
 </ul>
 <hr>
-<h2 id="diabetes-藥物治療">Diabetes 藥物治療</h2>
-<h3 id="血糖藥物分類">血糖藥物分類</h3>
-<h4 id="1-biguanides">1. Biguanides</h4>
+<h2 id="diabetes-藥物治療">Diabetes 藥物治療<a class="anchor" href="#diabetes-%e8%97%a5%e7%89%a9%e6%b2%bb%e7%99%82">#</a></h2>
+<h3 id="血糖藥物分類">血糖藥物分類<a class="anchor" href="#%e8%a1%80%e7%b3%96%e8%97%a5%e7%89%a9%e5%88%86%e9%a1%9e">#</a></h3>
+<h4 id="1-biguanides">1. Biguanides<a class="anchor" href="#1-biguanides">#</a></h4>
 <table>
   <thead>
       <tr>
@@ -990,7 +1011,7 @@
 </table>
 <p><strong>優點</strong>：Weight neutral、low hypoglycemia risk
 <strong>注意</strong>：需在 contrast imaging 前停用（腎功能）</p>
-<h4 id="2-insulin-secretagogues">2. Insulin Secretagogues</h4>
+<h4 id="2-insulin-secretagogues">2. Insulin Secretagogues<a class="anchor" href="#2-insulin-secretagogues">#</a></h4>
 <p><strong>Sulfonylureas</strong>：</p>
 <table>
   <thead>
@@ -1040,7 +1061,7 @@
       </tr>
   </tbody>
 </table>
-<h4 id="3-thiazolidinediones-tzds">3. Thiazolidinediones (TZDs)</h4>
+<h4 id="3-thiazolidinediones-tzds">3. Thiazolidinediones (TZDs)<a class="anchor" href="#3-thiazolidinediones-tzds">#</a></h4>
 <table>
   <thead>
       <tr>
@@ -1059,10 +1080,9 @@
       </tr>
   </tbody>
 </table>
-<blockquote>
+<blockquote class='book-hint '>
 <p>⚠️ <strong>Cardiovascular 風險</strong>、膀胱癌風險</p>
-</blockquote>
-<h4 id="4-α-glucosidase-inhibitors">4. α-Glucosidase Inhibitors</h4>
+</blockquote><h4 id="4-α-glucosidase-inhibitors">4. α-Glucosidase Inhibitors<a class="anchor" href="#4-%ce%b1-glucosidase-inhibitors">#</a></h4>
 <table>
   <thead>
       <tr>
@@ -1081,7 +1101,7 @@
       </tr>
   </tbody>
 </table>
-<h4 id="5-dpp-4-inhibitors">5. DPP-4 Inhibitors</h4>
+<h4 id="5-dpp-4-inhibitors">5. DPP-4 Inhibitors<a class="anchor" href="#5-dpp-4-inhibitors">#</a></h4>
 <table>
   <thead>
       <tr>
@@ -1109,7 +1129,7 @@
   </tbody>
 </table>
 <p><strong>注意</strong>：Saxagliptin 可能與心衰竭相關</p>
-<h4 id="6-glp-1-agonists">6. GLP-1 Agonists</h4>
+<h4 id="6-glp-1-agonists">6. GLP-1 Agonists<a class="anchor" href="#6-glp-1-agonists">#</a></h4>
 <table>
   <thead>
       <tr>
@@ -1147,7 +1167,7 @@
   </tbody>
 </table>
 <p><strong>注意</strong>：可能造成 <strong>GI side effects (nausea, vomiting)</strong>、甲狀腺 C-cell tumors 風險</p>
-<h4 id="7-sglt2-inhibitors">7. SGLT2 Inhibitors</h4>
+<h4 id="7-sglt2-inhibitors">7. SGLT2 Inhibitors<a class="anchor" href="#7-sglt2-inhibitors">#</a></h4>
 <table>
   <thead>
       <tr>
@@ -1175,7 +1195,7 @@
   </tbody>
 </table>
 <p><strong>副作用</strong>：生殖道感染、DKA（可能無高血糖）、骨質密度降低</p>
-<h4 id="8-insulin">8. Insulin</h4>
+<h4 id="8-insulin">8. Insulin<a class="anchor" href="#8-insulin">#</a></h4>
 <p><strong>Basal Insulin</strong>：</p>
 <ul>
 <li>Insulin glargine、Lantus</li>
@@ -1192,8 +1212,8 @@
 <li>70/30、50/50</li>
 </ul>
 <hr>
-<h2 id="血脂藥物">血脂藥物</h2>
-<h3 id="statins-hmg-coa-reductas-inhibitors">Statins (HMG-CoA Reductas Inhibitors)</h3>
+<h2 id="血脂藥物">血脂藥物<a class="anchor" href="#%e8%a1%80%e8%84%82%e8%97%a5%e7%89%a9">#</a></h2>
+<h3 id="statins-hmg-coa-reductas-inhibitors">Statins (HMG-CoA Reductas Inhibitors)<a class="anchor" href="#statins-hmg-coa-reductas-inhibitors">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -1221,7 +1241,7 @@
   </tbody>
 </table>
 <p><strong>副作用</strong>：Myalgia、hepatotoxicity、rhabdomyolysis</p>
-<h3 id="fibrates">Fibrates</h3>
+<h3 id="fibrates">Fibrates<a class="anchor" href="#fibrates">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -1244,7 +1264,7 @@
   </tbody>
 </table>
 <p><strong>注意</strong>：與 statin 聯用時肌病風險增加</p>
-<h3 id="其他">其他</h3>
+<h3 id="其他">其他<a class="anchor" href="#%e5%85%b6%e4%bb%96">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -1277,8 +1297,8 @@
   </tbody>
 </table>
 <hr>
-<h2 id="甲狀腺藥物">甲狀腺藥物</h2>
-<h3 id="抗甲狀腺藥物-thionamides">抗甲狀腺藥物 (Thionamides)</h3>
+<h2 id="甲狀腺藥物">甲狀腺藥物<a class="anchor" href="#%e7%94%b2%e7%8b%80%e8%85%ba%e8%97%a5%e7%89%a9">#</a></h2>
+<h3 id="抗甲狀腺藥物-thionamides">抗甲狀腺藥物 (Thionamides)<a class="anchor" href="#%e6%8a%97%e7%94%b2%e7%8b%80%e8%85%ba%e8%97%a5%e7%89%a9-thionamides">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -1309,8 +1329,8 @@
 <li>孕期第一孕期首選 PTU，第二/三期選 MMI</li>
 </ul>
 <hr>
-<h2 id="landmark-臨床試驗">Landmark 臨床試驗</h2>
-<h3 id="糖尿病預防">糖尿病預防</h3>
+<h2 id="landmark-臨床試驗">Landmark 臨床試驗<a class="anchor" href="#landmark-%e8%87%a8%e5%ba%8a%e8%a9%a6%e9%a9%97">#</a></h2>
+<h3 id="糖尿病預防">糖尿病預防<a class="anchor" href="#%e7%b3%96%e5%b0%bf%e7%97%85%e9%a0%90%e9%98%b2">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -1329,7 +1349,7 @@
       </tr>
   </tbody>
 </table>
-<h3 id="糖尿病治療血糖控制">糖尿病治療（血糖控制）</h3>
+<h3 id="糖尿病治療血糖控制">糖尿病治療（血糖控制）<a class="anchor" href="#%e7%b3%96%e5%b0%bf%e7%97%85%e6%b2%bb%e7%99%82%e8%a1%80%e7%b3%96%e6%8e%a7%e5%88%b6">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -1352,7 +1372,7 @@
       </tr>
   </tbody>
 </table>
-<h3 id="landmark-trials糖尿病">Landmark Trials（糖尿病）</h3>
+<h3 id="landmark-trials糖尿病">Landmark Trials（糖尿病）<a class="anchor" href="#landmark-trials%e7%b3%96%e5%b0%bf%e7%97%85">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -1403,7 +1423,7 @@
       </tr>
   </tbody>
 </table>
-<h3 id="landmark-trials血脂">Landmark Trials（血脂）</h3>
+<h3 id="landmark-trials血脂">Landmark Trials（血脂）<a class="anchor" href="#landmark-trials%e8%a1%80%e8%84%82">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -1446,8 +1466,8 @@
   </tbody>
 </table>
 <hr>
-<h2 id="重要參考數值">重要參考數值</h2>
-<h3 id="血糖診斷標準">血糖診斷標準</h3>
+<h2 id="重要參考數值">重要參考數值<a class="anchor" href="#%e9%87%8d%e8%a6%81%e5%8f%83%e8%80%83%e6%95%b8%e5%80%bc">#</a></h2>
+<h3 id="血糖診斷標準">血糖診斷標準<a class="anchor" href="#%e8%a1%80%e7%b3%96%e8%a8%ba%e6%96%b7%e6%a8%99%e6%ba%96">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -1474,7 +1494,7 @@
       </tr>
   </tbody>
 </table>
-<h3 id="骨質疏鬆治療閾值">骨質疏鬆治療閾值</h3>
+<h3 id="骨質疏鬆治療閾值">骨質疏鬆治療閾值<a class="anchor" href="#%e9%aa%a8%e8%b3%aa%e7%96%8f%e9%ac%86%e6%b2%bb%e7%99%82%e9%96%be%e5%80%bc">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -1501,7 +1521,7 @@
       </tr>
   </tbody>
 </table>
-<h3 id="甲狀腺功能">甲狀腺功能</h3>
+<h3 id="甲狀腺功能">甲狀腺功能<a class="anchor" href="#%e7%94%b2%e7%8b%80%e8%85%ba%e5%8a%9f%e8%83%bd">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -1532,7 +1552,7 @@
       </tr>
   </tbody>
 </table>
-<h3 id="diabetic-emergencies">Diabetic Emergencies</h3>
+<h3 id="diabetic-emergencies">Diabetic Emergencies<a class="anchor" href="#diabetic-emergencies">#</a></h3>
 <p><strong>DKA 診斷標準</strong>：</p>
 <ul>
 <li>血糖 &gt; 13.9 mmol/L</li>
@@ -1557,5 +1577,19 @@
   <footer>
     <p>Powered by Hugo | Toronto Notes 2025 繁體中文翻譯</p>
   </footer>
+  <script>
+    function toggleTheme() {
+      const html = document.documentElement;
+      const current = html.getAttribute('data-theme');
+      const next = current === 'dark' ? 'light' : 'dark';
+      html.setAttribute('data-theme', next);
+      localStorage.setItem('theme', next);
+    }
+    const saved = localStorage.getItem('theme');
+    if (saved) document.documentElement.setAttribute('data-theme', saved);
+    else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+      document.documentElement.setAttribute('data-theme', 'dark');
+    }
+  </script>
 </body>
 </html>

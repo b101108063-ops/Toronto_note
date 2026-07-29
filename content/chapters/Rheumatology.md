@@ -1,5 +1,5 @@
 ---
-title: "RH11 - 風濕病學（Rheumatology）"
+title: "Rheumatology 風濕病學"
 description: "- 風濕病涵蓋多種自體免疫疾病，主要影響關節、軟組織及結締組織"
 slug: "Rheumatology"
 weight: 1

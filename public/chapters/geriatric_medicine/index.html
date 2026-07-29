@@ -5,31 +5,55 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>老年醫學 (Geriatric Medicine) - Toronto Notes 2025 繁體中文</title>
   <style>
+    :root {
+      --bg-primary: #ffffff;
+      --bg-secondary: #f8fafc;
+      --text-primary: #1e293b;
+      --text-secondary: #64748b;
+      --accent: #2563eb;
+      --border: #e2e8f0;
+      --code-bg: #f1f5f9;
+      --link: #2563eb;
+      --link-visited: #5500bb;
+    }
+    [data-theme="dark"] {
+      --bg-primary: #1a1a2e;
+      --bg-secondary: #16162a;
+      --text-primary: #e4e4e7;
+      --text-secondary: #a1a1aa;
+      --accent: #93c5fd;
+      --border: #3f3f46;
+      --code-bg: #27272a;
+      --link: #93c5fd;
+      --link-visited: #c4b5fd;
+    }
     * { box-sizing: border-box; }
-    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; line-height: 1.6; color: #333; max-width: 900px; margin: 0 auto; padding: 20px; }
-    header { border-bottom: 2px solid #2563eb; padding-bottom: 10px; margin-bottom: 20px; }
-    header h1 { margin: 0; font-size: 1.5em; color: #2563eb; }
-    nav a { margin-right: 15px; color: #2563eb; text-decoration: none; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; line-height: 1.6; color: var(--text-primary); background: var(--bg-primary); max-width: 900px; margin: 0 auto; padding: 20px; }
+    header { border-bottom: 2px solid var(--accent); padding-bottom: 10px; margin-bottom: 20px; display: flex; justify-content: space-between; align-items: center; }
+    header h1 { margin: 0; font-size: 1.5em; color: var(--accent); }
+    nav a { margin-right: 15px; color: var(--link); text-decoration: none; }
     nav a:hover { text-decoration: underline; }
-    h1, h2, h3 { color: #1e293b; }
-    h1 { font-size: 1.8em; border-bottom: 1px solid #e2e8f0; padding-bottom: 8px; }
-    h2 { font-size: 1.4em; border-bottom: 1px solid #e2e8f0; padding-bottom: 5px; }
+    h1, h2, h3 { color: var(--text-primary); }
+    h1 { font-size: 1.8em; border-bottom: 1px solid var(--border); padding-bottom: 8px; }
+    h2 { font-size: 1.4em; border-bottom: 1px solid var(--border); padding-bottom: 5px; }
     h3 { font-size: 1.15em; }
-    pre { background: #f1f5f9; padding: 15px; border-radius: 6px; overflow-x: auto; }
-    code { background: #f1f5f9; padding: 2px 5px; border-radius: 3px; font-size: 0.9em; }
+    pre { background: var(--code-bg); padding: 15px; border-radius: 6px; overflow-x: auto; }
+    code { background: var(--code-bg); padding: 2px 5px; border-radius: 3px; font-size: 0.9em; }
     pre code { background: none; padding: 0; }
-    blockquote { border-left: 4px solid #2563eb; margin: 0; padding: 5px 15px; color: #64748b; background: #f8fafc; }
+    blockquote { border-left: 4px solid var(--accent); margin: 0; padding: 5px 15px; color: var(--text-secondary); background: var(--bg-secondary); }
     table { border-collapse: collapse; width: 100%; margin: 15px 0; }
-    th, td { border: 1px solid #cbd5e1; padding: 8px 12px; text-align: left; }
-    th { background: #f1f5f9; font-weight: 600; }
-    tr:nth-child(even) { background: #f8fafc; }
+    th, td { border: 1px solid var(--border); padding: 8px 12px; text-align: left; }
+    th { background: var(--bg-secondary); font-weight: 600; }
+    tr:nth-child(even) { background: var(--bg-secondary); }
     .content-body { line-height: 1.8; }
-    footer { border-top: 1px solid #e2e8f0; margin-top: 30px; padding-top: 15px; color: #64748b; font-size: 0.9em; }
-    .breadcrumb { font-size: 0.9em; color: #64748b; margin-bottom: 15px; }
-    .breadcrumb a { color: #2563eb; text-decoration: none; }
-    a { color: #2563eb; }
+    footer { border-top: 1px solid var(--border); margin-top: 30px; padding-top: 15px; color: var(--text-secondary); font-size: 0.9em; }
+    .breadcrumb { font-size: 0.9em; color: var(--text-secondary); margin-bottom: 15px; }
+    .breadcrumb a { color: var(--link); text-decoration: none; }
+    a { color: var(--link); }
     a:hover { text-decoration: underline; }
     img { max-width: 100%; height: auto; }
+    .theme-toggle { background: none; border: 1px solid var(--border); color: var(--text-primary); cursor: pointer; padding: 4px 10px; border-radius: 4px; font-size: 0.85em; }
+    .theme-toggle:hover { background: var(--bg-secondary); }
   </style>
 </head>
 <body>
@@ -38,6 +62,7 @@
       <a href="https://b101108063-ops.github.io/Toronto_note/">首頁</a>
       <a href="/Toronto_note/categories/">章節</a>
     </nav>
+    <button class="theme-toggle" onclick="toggleTheme()">🌙 暗色</button>
   </header>
 
   <main>
@@ -49,7 +74,7 @@
       <div class="content-body">
         <p><em>Toronto Notes 2025</em></p>
 <hr>
-<h2 id="導讀摘要">導讀摘要</h2>
+<h2 id="導讀摘要">導讀摘要<a class="anchor" href="#%e5%b0%8e%e8%ae%80%e6%91%98%e8%a6%81">#</a></h2>
 <p>本章節涵蓋老年醫學的核心內容，摘要如下：</p>
 <ul>
 <li><strong>老年人評估（Comprehensive Geriatric Assessment, CGA）</strong>：老年醫學的核心工具，系統性評估高齡患者的功能狀態、認知、情緒、營養、用藥與社會支持</li>
@@ -59,8 +84,8 @@
 <li><strong>老年藥理學與安全處方</strong>：老年人藥物動力學與藥效學改變、Beers Criteria、STOPP/START 準則，避免不適當用藥與藥物不良反應</li>
 </ul>
 <hr>
-<h2 id="老年人評估comprehensive-geriatric-assessment-cga">老年人評估（Comprehensive Geriatric Assessment, CGA）</h2>
-<h3 id="導論">導論</h3>
+<h2 id="老年人評估comprehensive-geriatric-assessment-cga">老年人評估（Comprehensive Geriatric Assessment, CGA）<a class="anchor" href="#%e8%80%81%e5%b9%b4%e4%ba%ba%e8%a9%95%e4%bc%b0comprehensive-geriatric-assessment-cga">#</a></h2>
+<h3 id="導論">導論<a class="anchor" href="#%e5%b0%8e%e8%ab%96">#</a></h3>
 <ul>
 <li>CGA 是跨專科團隊進行的系統性評估，用於識別老年人的醫療、功能、心理與社會需求</li>
 <li>目的：建立整合性照護計畫，優化整體健康狀態與生活品質</li>
@@ -68,25 +93,25 @@
 <li>身體檢查</li>
 <li>檢驗檢查： CBC、electrolytes、TSH、vitamin B12、vitamin D、LFTs、extended electrolytes</li>
 </ul>
-<h3 id="功能狀態評估">功能狀態評估</h3>
+<h3 id="功能狀態評估">功能狀態評估<a class="anchor" href="#%e5%8a%9f%e8%83%bd%e7%8b%80%e6%85%8b%e8%a9%95%e4%bc%b0">#</a></h3>
 <ul>
 <li><strong>BADLs（Basic Activities of Daily Living）</strong>：進食、穿衣、洗澡、移位、如廁、控制排尿/便</li>
 <li><strong>IADLs（Instrumental Activities of Daily Living）</strong>：理財、用藥、購物、烹飪、使用交通工具</li>
 <li>功能狀態下降是老年人的重要預後指標</li>
 </ul>
 <hr>
-<h2 id="跌倒falls">跌倒（Falls）</h2>
-<h3 id="定義">定義</h3>
+<h2 id="跌倒falls">跌倒（Falls）<a class="anchor" href="#%e8%b7%8c%e5%80%92falls">#</a></h2>
+<h3 id="定義">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9">#</a></h3>
 <ul>
 <li>非預期性地接觸地面，造成創傷或潛在創傷的事件</li>
 </ul>
-<h3 id="流行病學">流行病學</h3>
+<h3 id="流行病學">流行病學<a class="anchor" href="#%e6%b5%81%e8%a1%8c%e7%97%85%e5%ad%b8">#</a></h3>
 <ul>
 <li>老年人中，30% 的社區居住者每年至少跌倒一次</li>
 <li>跌倒是老年人創傷相關死亡的主要原因</li>
 <li>跌倒後的恐懼（fear of falling）會導致活動力下降與進一步衰弱</li>
 </ul>
-<h3 id="風險因子">風險因子</h3>
+<h3 id="風險因子">風險因子<a class="anchor" href="#%e9%a2%a8%e9%9a%aa%e5%9b%a0%e5%ad%90">#</a></h3>
 <p><strong>內在因子（Intrinsic）：</strong></p>
 <ul>
 <li>認知障礙（cognitive impairment）</li>
@@ -104,12 +129,12 @@
 <li>不適當的鞋子</li>
 <li>輔具使用不當</li>
 </ul>
-<h3 id="臨床評估">臨床評估</h3>
+<h3 id="臨床評估">臨床評估<a class="anchor" href="#%e8%87%a8%e5%ba%8a%e8%a9%95%e4%bc%b0">#</a></h3>
 <ul>
 <li>如有需要，訪談時應有照護者在場</li>
 <li>理學檢查：orthostatic BP、創傷篩檢、心臟、視力、足部與鞋子檢查、gait 評估、Timed Up-and-Go Test、肌肉骨骼系統、神經系統</li>
 </ul>
-<h3 id="檢驗檢查">檢驗檢查</h3>
+<h3 id="檢驗檢查">檢驗檢查<a class="anchor" href="#%e6%aa%a2%e9%a9%97%e6%aa%a2%e6%9f%a5">#</a></h3>
 <ul>
 <li>CGA 找出潛在原因</li>
 <li>檢驗應根據病史與身體檢查量身訂製，可能包括：
@@ -118,7 +143,7 @@
 = coagulation profile</li>
 <li>所有女性與男性 &gt;65 歲應接受 bone densitometry（dual-energy x-ray absorptiometry）篩檢骨質疏鬆</li>
 </ul>
-<h3 id="介入措施">介入措施</h3>
+<h3 id="介入措施">介入措施<a class="anchor" href="#%e4%bb%8b%e5%85%a5%e6%8e%aa%e6%96%bd">#</a></h3>
 <p>介入措施取決於已識別的內在與外在風險因子。首先處理導致跌倒的急性疾病，並治療任何創傷或併發症。</p>
 <p><strong>實證介入：</strong></p>
 <ul>
@@ -134,7 +159,7 @@
 <li>若 vitamin D 儲備不足，處方 vitamin D 1000 IU 每日</li>
 <li>若有骨質疏鬆風險，建議飲食中每日攝取 1200 mg calcium supplement</li>
 </ul>
-<h3 id="臨床病史重點splatt">臨床病史重點：SPLATT</h3>
+<h3 id="臨床病史重點splatt">臨床病史重點：SPLATT<a class="anchor" href="#%e8%87%a8%e5%ba%8a%e7%97%85%e5%8f%b2%e9%87%8d%e9%bb%9esplatt">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -169,7 +194,7 @@
       </tr>
   </tbody>
 </table>
-<h3 id="藥物對跌倒風險的影響odds-ratios">藥物對跌倒風險的影響（Odds Ratios）</h3>
+<h3 id="藥物對跌倒風險的影響odds-ratios">藥物對跌倒風險的影響（Odds Ratios）<a class="anchor" href="#%e8%97%a5%e7%89%a9%e5%b0%8d%e8%b7%8c%e5%80%92%e9%a2%a8%e9%9a%aa%e7%9a%84%e5%bd%b1%e9%9f%bfodds-ratios">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -213,14 +238,14 @@
   </tbody>
 </table>
 <hr>
-<h2 id="衰弱frailty">衰弱（Frailty）</h2>
-<h3 id="定義-1">定義</h3>
+<h2 id="衰弱frailty">衰弱（Frailty）<a class="anchor" href="#%e8%a1%b0%e5%bc%b1frailty">#</a></h2>
+<h3 id="定義-1">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-1">#</a></h3>
 <ul>
 <li><strong>Frailty（衰弱）</strong>：臨床上可識別的狀態，反映老年人儲備能力下降，對急性壓力的脆弱性增加，由於多個生理系統的功能衰退所致</li>
 <li><strong>功能衰退（Functional decline）</strong>：執行 BADLs 與 IADLs 能力之進行性限制</li>
 <li>衰弱與加護病房住院死亡、不良事件、住院天數、再入院率及出院後新發依賴之風險升高有關</li>
 </ul>
-<h3 id="rockwood-clinical-frailty-scale">Rockwood Clinical Frailty Scale</h3>
+<h3 id="rockwood-clinical-frailty-scale">Rockwood Clinical Frailty Scale<a class="anchor" href="#rockwood-clinical-frailty-scale">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -274,7 +299,7 @@
 <li>Severe Dementia（重度失智）</li>
 <li>Very Severe Dementia（非常重度失智）</li>
 </ul>
-<h3 id="衰弱模型">衰弱模型</h3>
+<h3 id="衰弱模型">衰弱模型<a class="anchor" href="#%e8%a1%b0%e5%bc%b1%e6%a8%a1%e5%9e%8b">#</a></h3>
 <p><strong>Physical Frailty Phenotype（Fried et al.）</strong></p>
 <p>Frail：符合 ≥3 項標準；at-risk 或 pre-frail：符合 1-2 項標準</p>
 <ol>
@@ -289,7 +314,7 @@
 <li>評估資產（如健康、態度、資源、照護者）與缺失（如疾病、失能、依賴、照護者負荷）之間的平衡</li>
 <li>衰弱指數（Frailty Index）= 存在的缺失數 / 可能缺失總數</li>
 </ul>
-<h3 id="衰弱之病因學">衰弱之病因學</h3>
+<h3 id="衰弱之病因學">衰弱之病因學<a class="anchor" href="#%e8%a1%b0%e5%bc%b1%e4%b9%8b%e7%97%85%e5%9b%a0%e5%ad%b8">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -316,7 +341,7 @@
       </tr>
   </tbody>
 </table>
-<h3 id="衰弱老年患者之實證處理">衰弱老年患者之實證處理</h3>
+<h3 id="衰弱老年患者之實證處理">衰弱老年患者之實證處理<a class="anchor" href="#%e8%a1%b0%e5%bc%b1%e8%80%81%e5%b9%b4%e6%82%a3%e8%80%85%e4%b9%8b%e5%af%a6%e8%ad%89%e8%99%95%e7%90%86">#</a></h3>
 <ul>
 <li><strong>CGA</strong></li>
 <li>實體活動計畫、營養優化、多因素介入</li>
@@ -326,12 +351,12 @@
 <li>照護者支持</li>
 </ul>
 <hr>
-<h2 id="活動力障礙mobility-disability">活動力障礙（Mobility Disability）</h2>
-<h3 id="定義-2">定義</h3>
+<h2 id="活動力障礙mobility-disability">活動力障礙（Mobility Disability）<a class="anchor" href="#%e6%b4%bb%e5%8b%95%e5%8a%9b%e9%9a%9c%e7%a4%99mobility-disability">#</a></h2>
+<h3 id="定義-2">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-2">#</a></h3>
 <ul>
 <li>身體或一個或多個下肢之獨立、自主運動受限，伴隨失能、衰弱與跌倒風險增加、生活品質下降</li>
 </ul>
-<h3 id="病因與風險因子">病因與風險因子</h3>
+<h3 id="病因與風險因子">病因與風險因子<a class="anchor" href="#%e7%97%85%e5%9b%a0%e8%88%87%e9%a2%a8%e9%9a%aa%e5%9b%a0%e5%ad%90">#</a></h3>
 <p>多因素導致；功能評估與完整病史採集、跨專科照護方式至關重要。</p>
 <p><strong>心理因素：</strong></p>
 <ul>
@@ -355,7 +380,7 @@
 <li>輔具不足</li>
 <li>控制不良之慢性或急性疼痛</li>
 </ul>
-<h3 id="併發症">併發症</h3>
+<h3 id="併發症">併發症<a class="anchor" href="#%e4%bd%b5%e7%99%bc%e7%97%87">#</a></h3>
 <ul>
 <li><strong>心血管</strong>：orthostatic hypotension、靜脈血栓、embolism</li>
 <li><strong>呼吸</strong>：換氣下降、肺擴張不全、pneumonia</li>
@@ -366,8 +391,8 @@
 <li><strong>心理</strong>：感覺剝奪、delirium、depression</li>
 </ul>
 <hr>
-<h2 id="大便失禁fecal-incontinence">大便失禁（Fecal Incontinence）</h2>
-<h3 id="定義-3">定義</h3>
+<h2 id="大便失禁fecal-incontinence">大便失禁（Fecal Incontinence）<a class="anchor" href="#%e5%a4%a7%e4%be%bf%e5%a4%b1%e7%a6%81fecal-incontinence">#</a></h2>
+<h3 id="定義-3">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-3">#</a></h3>
 <ul>
 <li>非自願或不當地排出糞便，影響社交功能或衛生</li>
 <li>嚴重程度從無意中排氣到完全排空腸道內容物</li>
@@ -379,12 +404,12 @@
 </ol>
 </li>
 </ul>
-<h3 id="流行病學-1">流行病學</h3>
+<h3 id="流行病學-1">流行病學<a class="anchor" href="#%e6%b5%81%e8%a1%8c%e7%97%85%e5%ad%b8-1">#</a></h3>
 <ul>
 <li>發生率因設置而異：社區（17-36%）、醫院（16%）、護理之家（33-65%）</li>
 <li>風險因子：constipation、年齡 &gt;80 歲、女性、urinary incontinence、活動障礙、dementia、神經系統疾病</li>
 </ul>
-<h3 id="病因">病因</h3>
+<h3 id="病因">病因<a class="anchor" href="#%e7%97%85%e5%9b%a0">#</a></h3>
 <ul>
 <li>年齡 &gt;80 歲之生理變化（如 external sphincter strength 下降、internal sphincter resting tone 下降、anal squeeze 減弱、直腸順應性增加、anal sensation 受損）</li>
 <li>創傷（如陰道分娩、pudendal nerve 損傷、cauda equina）</li>
@@ -397,7 +422,7 @@
 <li>認知功能（如 dementia、伴隨精神病的故意弄髒）</li>
 <li>便秘/糞便嵌塞</li>
 </ul>
-<h3 id="短暫性大便失禁之病因diapers">短暫性大便失禁之病因：DIAPERS</h3>
+<h3 id="短暫性大便失禁之病因diapers">短暫性大便失禁之病因：DIAPERS<a class="anchor" href="#%e7%9f%ad%e6%9a%ab%e6%80%a7%e5%a4%a7%e4%be%bf%e5%a4%b1%e7%a6%81%e4%b9%8b%e7%97%85%e5%9b%a0diapers">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -436,7 +461,7 @@
       </tr>
   </tbody>
 </table>
-<h3 id="檢驗檢查-1">檢驗檢查</h3>
+<h3 id="檢驗檢查-1">檢驗檢查<a class="anchor" href="#%e6%aa%a2%e9%a9%97%e6%aa%a2%e6%9f%a5-1">#</a></h3>
 <ul>
 <li>區分真正失禁與頻率/急迫感</li>
 <li>糞便檢查</li>
@@ -444,7 +469,7 @@
 <li>大腸鏡、sigmoidoscopy、anoscopy</li>
 <li>直腸肛門測壓/功能測試</li>
 </ul>
-<h3 id="處理">處理</h3>
+<h3 id="處理">處理<a class="anchor" href="#%e8%99%95%e7%90%86">#</a></h3>
 <ul>
 <li><strong>生理變化</strong>：藥物管理（抗胃腸蠕動藥物如 loperamide、飲食/增量大便體積制劑）、增加液體攝取、biofeedback、骨盆底肌肉再訓練、手術</li>
 <li><strong>創傷</strong>：直接手術修復或 sphincter 增強</li>
@@ -457,9 +482,9 @@
 <li><strong>安全評估</strong>：評估廁所距離、跌倒預防策略、是否需要床邊便椅、認知障礙患者提供馬桶標示、必要時會診職業治療</li>
 </ul>
 <hr>
-<h2 id="尿失禁urinary-incontinence">尿失禁（Urinary Incontinence）</h2>
+<h2 id="尿失禁urinary-incontinence">尿失禁（Urinary Incontinence）<a class="anchor" href="#%e5%b0%bf%e5%a4%b1%e7%a6%81urinary-incontinence">#</a></h2>
 <p><em>參見 Urology, U6</em></p>
-<h3 id="定義-4">定義</h3>
+<h3 id="定義-4">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-4">#</a></h3>
 <ul>
 <li>任何非自願性漏尿之主訴</li>
 <li>四種亞型：
@@ -471,15 +496,15 @@
 </ol>
 </li>
 </ul>
-<h3 id="流行病學-2">流行病學</h3>
+<h3 id="流行病學-2">流行病學<a class="anchor" href="#%e6%b5%81%e8%a1%8c%e7%97%85%e5%ad%b8-2">#</a></h3>
 <ul>
 <li>盛行率：社區老年人 15-30%，機構照護者至少 50%</li>
 <li>罹病率：蜂窩性組織炎、pressure injuries、泌尿道感染、骨折跌倒、睡眠剝奪、社交退縮、depression、性功能障礙</li>
 <li>不會增加死亡率</li>
 </ul>
-<h3 id="風險因子-1">風險因子</h3>
+<h3 id="風險因子-1">風險因子<a class="anchor" href="#%e9%a2%a8%e9%9a%aa%e5%9b%a0%e5%ad%90-1">#</a></h3>
 <p>活動障礙、跌倒、藥物、depression、TIA/stroke、dementia、CHF、obesity</p>
-<h3 id="病因-1">病因</h3>
+<h3 id="病因-1">病因<a class="anchor" href="#%e7%97%85%e5%9b%a0-1">#</a></h3>
 <ul>
 <li>老年生理變化（如膀胱容量減少）</li>
 <li>泌尿生殖系統疾病（如 cystitis、urethritis、BPH）</li>
@@ -490,13 +515,13 @@
 <li>認知功能（如 dementia、depression）</li>
 <li>功能障礙（如 arthritis、視力不良）</li>
 </ul>
-<h3 id="檢驗檢查-2">檢驗檢查</h3>
+<h3 id="檢驗檢查-2">檢驗檢查<a class="anchor" href="#%e6%aa%a2%e9%a9%97%e6%aa%a2%e6%9f%a5-2">#</a></h3>
 <ul>
 <li>實驗室：urinalysis 與 urine culture、血清 creatinine、BUN</li>
 <li>影像：post-void residual、腎臟超聲波</li>
 <li>其他：排尿日誌（voiding diary）、墊片測試（pad test）</li>
 </ul>
-<h3 id="處理-1">處理</h3>
+<h3 id="處理-1">處理<a class="anchor" href="#%e8%99%95%e7%90%86-1">#</a></h3>
 <ul>
 <li><strong>生活型態修正</strong>：避免過量液體攝取與酒精</li>
 <li><strong>藥物</strong>：β-adrenergic agonists 減少非自願性膀胱收縮</li>
@@ -506,8 +531,8 @@
 <li><strong>安全評估</strong>：評估廁所距離、跌倒預防策略、是否需要床邊便椅、必要時會診職業治療</li>
 </ul>
 <hr>
-<h2 id="營養不良malnutrition">營養不良（Malnutrition）</h2>
-<h3 id="定義-5">定義</h3>
+<h2 id="營養不良malnutrition">營養不良（Malnutrition）<a class="anchor" href="#%e7%87%9f%e9%a4%8a%e4%b8%8d%e8%89%afmalnutrition">#</a></h2>
+<h3 id="定義-5">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-5">#</a></h3>
 <ul>
 <li>老年人沒有統一的 malnutrition 定義。2018 Global Leadership Initiative on Malnutrition 提供之定義需要一個表現型與一個病因學發現的組合：</li>
 </ul>
@@ -528,7 +553,7 @@
 <li>Hypoalbuminemia（社區：&lt;38 g/L；住院：&lt;35 g/L）</li>
 <li>能量攝取不足、體液堆積（如水腫）、皮下脂肪流失、手部握力下降</li>
 </ul>
-<h3 id="病因-2">病因</h3>
+<h3 id="病因-2">病因<a class="anchor" href="#%e7%97%85%e5%9b%a0-2">#</a></h3>
 <ul>
 <li><strong>營養性</strong>：
 = 同化能力下降：胃腸道過境受損、消化不良、吸收不良
@@ -537,7 +562,7 @@
 <li><strong>機械性</strong>：牙齒問題、dysphagia</li>
 <li><strong>年齡相關變化</strong>：口渴感下降、嗅覺/味覺下降、胃排空延遲導致早期飽足感、ghrelin 產量減少</li>
 </ul>
-<h3 id="老年人營養不良病因meals-on-wheels">老年人營養不良病因：MEALS ON WHEELS</h3>
+<h3 id="老年人營養不良病因meals-on-wheels">老年人營養不良病因：MEALS ON WHEELS<a class="anchor" href="#%e8%80%81%e5%b9%b4%e4%ba%ba%e7%87%9f%e9%a4%8a%e4%b8%8d%e8%89%af%e7%97%85%e5%9b%a0meals-on-wheels">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -600,7 +625,7 @@
       </tr>
   </tbody>
 </table>
-<h3 id="臨床表徵">臨床表徵</h3>
+<h3 id="臨床表徵">臨床表徵<a class="anchor" href="#%e8%87%a8%e5%ba%8a%e8%a1%a8%e5%be%b5">#</a></h3>
 <p><strong>病史：</strong></p>
 <ul>
 <li>檢查前 6 個月的體重減輕</li>
@@ -620,12 +645,12 @@
 <li>踝部或薦骨水腫、腹水</li>
 <li>評估認知功能</li>
 </ul>
-<h3 id="檢驗檢查-3">檢驗檢查</h3>
+<h3 id="檢驗檢查-3">檢驗檢查<a class="anchor" href="#%e6%aa%a2%e9%a9%97%e6%aa%a2%e6%9f%a5-3">#</a></h3>
 <ul>
 <li>CBC、electrolytes、Ca²⁺/albumin、Mg²⁺、PO₄³⁻、creatinine、LFTs（INR、bilirubin）、vitamin B12、folate、TSH、lipid profile</li>
 <li>如評估指示，可考慮 urinalysis、ESR、CXR</li>
 </ul>
-<h3 id="治療">治療</h3>
+<h3 id="治療">治療<a class="anchor" href="#%e6%b2%bb%e7%99%82">#</a></h3>
 <ul>
 <li>直接治療根本原因，鼓勵與家人、朋友或照護者一起用餐（「社交進食」）</li>
 <li>飲食修正：高熱量食物、高蛋白口服營養補充</li>
@@ -633,25 +658,25 @@
 <li>轉介：語言病理學家進行吞嚥評估、營養師</li>
 </ul>
 <hr>
-<h2 id="老年聽覺障礙presbycusis">老年聽覺障礙（Presbycusis）</h2>
+<h2 id="老年聽覺障礙presbycusis">老年聽覺障礙（Presbycusis）<a class="anchor" href="#%e8%80%81%e5%b9%b4%e8%81%bd%e8%a6%ba%e9%9a%9c%e7%a4%99presbycusis">#</a></h2>
 <p><em>參見 Otolaryngology, OT19</em></p>
-<h2 id="老年視覺障礙presbyopia">老年視覺障礙（Presbyopia）</h2>
+<h2 id="老年視覺障礙presbyopia">老年視覺障礙（Presbyopia）<a class="anchor" href="#%e8%80%81%e5%b9%b4%e8%a6%96%e8%a6%ba%e9%9a%9c%e7%a4%99presbyopia">#</a></h2>
 <p><em>參見 Ophthalmology, OP8</em></p>
 <hr>
-<h2 id="壓力性損傷pressure-injuries">壓力性損傷（Pressure Injuries）</h2>
+<h2 id="壓力性損傷pressure-injuries">壓力性損傷（Pressure Injuries）<a class="anchor" href="#%e5%a3%93%e5%8a%9b%e6%80%a7%e6%90%8d%e5%82%b7pressure-injuries">#</a></h2>
 <p><em>參見 Plastic Surgery, PL17</em></p>
-<h3 id="定義-6">定義</h3>
+<h3 id="定義-6">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-6">#</a></h3>
 <ul>
 <li>又稱 pressure ulcers/injuries、decubitus ulcers</li>
 <li>任何因持續受壓導致下方組織損傷的病灶；通常發生在骨突處</li>
 </ul>
-<h3 id="風險因子-2">風險因子</h3>
+<h3 id="風險因子-2">風險因子<a class="anchor" href="#%e9%a2%a8%e9%9a%aa%e5%9b%a0%e5%ad%90-2">#</a></h3>
 <ul>
 <li><strong>外因性</strong>：摩擦、壓力、剪切力、濕氣</li>
 <li><strong>內因性</strong>：活動力受限、營養不良、共病症（如 DM、PVD、血管炎、免疫缺陷、CHF）、感覺喪失</li>
 <li><strong>老年相關</strong>：年齡相關皮膚變化、臥床、認知障礙、慢性病</li>
 </ul>
-<h3 id="npiap-壓力性損傷分期系統">NPIAP 壓力性損傷分期系統</h3>
+<h3 id="npiap-壓力性損傷分期系統">NPIAP 壓力性損傷分期系統<a class="anchor" href="#npiap-%e5%a3%93%e5%8a%9b%e6%80%a7%e6%90%8d%e5%82%b7%e5%88%86%e6%9c%9f%e7%b3%bb%e7%b5%b1">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -686,12 +711,12 @@
       </tr>
   </tbody>
 </table>
-<h3 id="併發症-1">併發症</h3>
+<h3 id="併發症-1">併發症<a class="anchor" href="#%e4%bd%b5%e7%99%bc%e7%97%87-1">#</a></h3>
 <ul>
 <li><strong>非感染性</strong>：amyloidosis、異位骨形成、會陰尿道瘻管、假性動脈瘤、Marjolin ulcer、局部治療之全身併發症、口服/靜脈治療併發症</li>
 <li><strong>感染性</strong>：菌血症/敗血症、蜂窩性組織炎、骨髓炎、敗血性關節炎、竇道、膿胸、心內膜炎、腦膜炎</li>
 </ul>
-<h3 id="預防">預防</h3>
+<h3 id="預防">預防<a class="anchor" href="#%e9%a0%90%e9%98%b2">#</a></h3>
 <ul>
 <li>薦骨區域使用屏障乳膏</li>
 <li>減壓：
@@ -701,7 +726,7 @@
 <li>對有皮膚破損風險者，入院時使用經驗證的壓力性損傷風險評估工具（從頭到腳）進行評估</li>
 <li>高風險患者每日重新評估</li>
 </ul>
-<h3 id="治療-1">治療</h3>
+<h3 id="治療-1">治療<a class="anchor" href="#%e6%b2%bb%e7%99%82-1">#</a></h3>
 <ul>
 <li>優化營養狀態</li>
 <li>傷口減壓</li>
@@ -719,14 +744,14 @@
 = 電刺激治療</li>
 </ul>
 <hr>
-<h2 id="駕駛能力driving-competency">駕駛能力（Driving Competency）</h2>
-<h3 id="強制通報義務">強制通報義務</h3>
+<h2 id="駕駛能力driving-competency">駕駛能力（Driving Competency）<a class="anchor" href="#%e9%a7%95%e9%a7%9b%e8%83%bd%e5%8a%9bdriving-competency">#</a></h2>
+<h3 id="強制通報義務">強制通報義務<a class="anchor" href="#%e5%bc%b7%e5%88%b6%e9%80%9a%e5%a0%b1%e7%be%a9%e5%8b%99">#</a></h3>
 <ul>
 <li>在加拿大，除魁北克、Nova Scotia 與 Alberta（為酌情決定）外，所有省份與領地均強制要求醫師向交通部通報</li>
 <li>British Columbia、Ontario：&gt;80 歲必須轉介重新考試</li>
 <li>美國：各州規定不同</li>
 </ul>
-<h3 id="可能影響駕駛之疾病">可能影響駕駛之疾病</h3>
+<h3 id="可能影響駕駛之疾病">可能影響駕駛之疾病<a class="anchor" href="#%e5%8f%af%e8%83%bd%e5%bd%b1%e9%9f%bf%e9%a7%95%e9%a7%9b%e4%b9%8b%e7%96%be%e7%97%85">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -785,7 +810,7 @@
       </tr>
   </tbody>
 </table>
-<h3 id="評估老年駕駛者之關鍵因素safedrive">評估老年駕駛者之關鍵因素：SAFEDRIVE</h3>
+<h3 id="評估老年駕駛者之關鍵因素safedrive">評估老年駕駛者之關鍵因素：SAFEDRIVE<a class="anchor" href="#%e8%a9%95%e4%bc%b0%e8%80%81%e5%b9%b4%e9%a7%95%e9%a7%9b%e8%80%85%e4%b9%8b%e9%97%9c%e9%8d%b5%e5%9b%a0%e7%b4%a0safedrive">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -833,8 +858,8 @@
   </tbody>
 </table>
 <hr>
-<h2 id="住院的危害hazards-of-hospitalization">住院的危害（Hazards of Hospitalization）</h2>
-<h3 id="老年患者住院後遺症之建議">老年患者住院後遺症之建議</h3>
+<h2 id="住院的危害hazards-of-hospitalization">住院的危害（Hazards of Hospitalization）<a class="anchor" href="#%e4%bd%8f%e9%99%a2%e7%9a%84%e5%8d%b1%e5%ae%b3hazards-of-hospitalization">#</a></h2>
+<h3 id="老年患者住院後遺症之建議">老年患者住院後遺症之建議<a class="anchor" href="#%e8%80%81%e5%b9%b4%e6%82%a3%e8%80%85%e4%bd%8f%e9%99%a2%e5%be%8c%e9%81%ba%e7%97%87%e4%b9%8b%e5%bb%ba%e8%ad%b0">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -894,8 +919,8 @@
   </tbody>
 </table>
 <hr>
-<h2 id="醫療照護機構healthcare-institution">醫療照護機構（Healthcare Institution）</h2>
-<h3 id="醫療服務與機構分類">醫療服務與機構分類</h3>
+<h2 id="醫療照護機構healthcare-institution">醫療照護機構（Healthcare Institution）<a class="anchor" href="#%e9%86%ab%e7%99%82%e7%85%a7%e8%ad%b7%e6%a9%9f%e6%a7%8bhealthcare-institution">#</a></h2>
+<h3 id="醫療服務與機構分類">醫療服務與機構分類<a class="anchor" href="#%e9%86%ab%e7%99%82%e6%9c%8d%e5%8b%99%e8%88%87%e6%a9%9f%e6%a7%8b%e5%88%86%e9%a1%9e">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -944,8 +969,8 @@
 <li>轉介社區服務與機構時需考慮之因素：所需支援之層次與類型、收入/社會經濟狀況、社會支援與/或社會隔離程度、其他可能造成照護障礙之健康決定因素</li>
 </ul>
 <hr>
-<h2 id="老年藥理學geriatric-pharmacology">老年藥理學（Geriatric Pharmacology）</h2>
-<h3 id="年齡相關藥物動力學pharmacokinetics">年齡相關藥物動力學（Pharmacokinetics）</h3>
+<h2 id="老年藥理學geriatric-pharmacology">老年藥理學（Geriatric Pharmacology）<a class="anchor" href="#%e8%80%81%e5%b9%b4%e8%97%a5%e7%90%86%e5%ad%b8geriatric-pharmacology">#</a></h2>
+<h3 id="年齡相關藥物動力學pharmacokinetics">年齡相關藥物動力學（Pharmacokinetics）<a class="anchor" href="#%e5%b9%b4%e9%bd%a1%e7%9b%b8%e9%97%9c%e8%97%a5%e7%89%a9%e5%8b%95%e5%8a%9b%e5%ad%b8pharmacokinetics">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -977,7 +1002,7 @@
       </tr>
   </tbody>
 </table>
-<h3 id="藥效學pharmacodynamics">藥效學（Pharmacodynamics）</h3>
+<h3 id="藥效學pharmacodynamics">藥效學（Pharmacodynamics）<a class="anchor" href="#%e8%97%a5%e6%95%88%e5%ad%b8pharmacodynamics">#</a></h3>
 <p><strong>藥物敏感性：</strong></p>
 <ul>
 <li>藥物動力學變化以及內在敏感性改變導致藥物反應改變</li>
@@ -989,25 +1014,25 @@
 <li>補償機制較差，導致更多不良反應（如 NSAIDs/抗凝血劑引起之出血、抗膽鹼能/交感神經/抗帕金森藥物引起之意識狀態改變）</li>
 </ul>
 <hr>
-<h2 id="多重用藥polypharmacy">多重用藥（Polypharmacy）</h2>
-<h3 id="定義-7">定義</h3>
+<h2 id="多重用藥polypharmacy">多重用藥（Polypharmacy）<a class="anchor" href="#%e5%a4%9a%e9%87%8d%e7%94%a8%e8%97%a5polypharmacy">#</a></h2>
+<h3 id="定義-7">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-7">#</a></h3>
 <ul>
 <li>處方、管理或使用超過臨床適應症所需之藥物數量</li>
 </ul>
-<h3 id="流行病學-3">流行病學</h3>
+<h3 id="流行病學-3">流行病學<a class="anchor" href="#%e6%b5%81%e8%a1%8c%e7%97%85%e5%ad%b8-3">#</a></h3>
 <ul>
 <li>加拿大 &gt;60% 的老年人報告使用 &gt;5 種藥物</li>
 <li>住院老年人入院時平均接受 10 種藥物</li>
 </ul>
-<h3 id="polypharmacy-之風險因子">Polypharmacy 之風險因子</h3>
+<h3 id="polypharmacy-之風險因子">Polypharmacy 之風險因子<a class="anchor" href="#polypharmacy-%e4%b9%8b%e9%a2%a8%e9%9a%aa%e5%9b%a0%e5%ad%90">#</a></h3>
 <p><strong>患者層面：</strong> 年齡、女性、認知障礙、健康素養低、frailty、精神健康狀況、多種慢性病、缺乏基層照護醫師、居住在長期照護機構、多家藥房</p>
 <p><strong>系統層面：</strong> 多位處方醫師、文件系統不佳、自動化補充系統、缺乏系統性藥物回顧</p>
-<h3 id="不依從性之風險因子">不依從性之風險因子</h3>
+<h3 id="不依從性之風險因子">不依從性之風險因子<a class="anchor" href="#%e4%b8%8d%e4%be%9d%e5%be%9e%e6%80%a7%e4%b9%8b%e9%a2%a8%e9%9a%aa%e5%9b%a0%e5%ad%90">#</a></h3>
 <ul>
 <li>藥物數量越多（1 種藥物順從性為 80%，但 &gt;6 種降至 25%）</li>
 <li>服藥頻率增加、容器設計複雜、藥物療程複雜、經濟限制、認知障礙</li>
 </ul>
-<h3 id="藥物不良反應adverse-drug-reactions-adrs">藥物不良反應（Adverse Drug Reactions, ADRs）</h3>
+<h3 id="藥物不良反應adverse-drug-reactions-adrs">藥物不良反應（Adverse Drug Reactions, ADRs）<a class="anchor" href="#%e8%97%a5%e7%89%a9%e4%b8%8d%e8%89%af%e5%8f%8d%e6%87%89adverse-drug-reactions-adrs">#</a></h3>
 <ul>
 <li>任何在預防或治療劑量下發生的海默或非預期藥物反應</li>
 <li>老年人之風險因子：
@@ -1022,7 +1047,7 @@
 <li>初始藥物治療是否真的需要，特別是如果導致藥物 cascade？</li>
 <li>初始藥物治療的益處是否超過危害？</li>
 </ul>
-<h3 id="預防-polypharmacy">預防 Polypharmacy</h3>
+<h3 id="預防-polypharmacy">預防 Polypharmacy<a class="anchor" href="#%e9%a0%90%e9%98%b2-polypharmacy">#</a></h3>
 <ul>
 <li>考量藥物：更安全的副作用特徵、方便之給藥時程、方便途徑、療效</li>
 <li>考量患者：其他藥物、臨床適應症、醫療共病症</li>
@@ -1031,25 +1056,25 @@
 <li>避免用另一種藥物治療 ADR</li>
 </ul>
 <hr>
-<h2 id="老年人之不適當處方inappropriate-prescribing-in-older-adults">老年人之不適當處方（Inappropriate Prescribing in Older Adults）</h2>
-<h3 id="流行病學-4">流行病學</h3>
+<h2 id="老年人之不適當處方inappropriate-prescribing-in-older-adults">老年人之不適當處方（Inappropriate Prescribing in Older Adults）<a class="anchor" href="#%e8%80%81%e5%b9%b4%e4%ba%ba%e4%b9%8b%e4%b8%8d%e9%81%a9%e7%95%b6%e8%99%95%e6%96%b9inappropriate-prescribing-in-older-adults">#</a></h2>
+<h3 id="流行病學-4">流行病學<a class="anchor" href="#%e6%b5%81%e8%a1%8c%e7%97%85%e5%ad%b8-4">#</a></h3>
 <ul>
 <li>估計潛在不當處方的盛行率為 12-40%</li>
 </ul>
-<h3 id="beers-criteria">Beers Criteria</h3>
+<h3 id="beers-criteria">Beers Criteria<a class="anchor" href="#beers-criteria">#</a></h3>
 <ul>
 <li>65 歲以上成年人應避免之藥物清單（基於安全考量）</li>
 <li>2024 更新列出大多數老年人不適當的藥物、在特定情況下應通常避免的藥物、應谨慎使用的藥物、藥物-藥物交互作用、以及根據腎功能調整藥物劑量</li>
 <li>範例：長效 benzodiazepines、強效抗膽鹼能藥物、高劑量鎮靜劑</li>
 </ul>
-<h3 id="stoppstart-準則">STOPP/START 準則</h3>
+<h3 id="stoppstart-準則">STOPP/START 準則<a class="anchor" href="#stoppstart-%e6%ba%96%e5%89%87">#</a></h3>
 <ul>
 <li>另一個用於老年人潛在不當處方之篩檢工具</li>
 <li><strong>STOPP：Screening Tool of Older Person&rsquo;s Prescriptions</strong>：65 歲以上人群在診斷背景下禁忌之藥物系統列表</li>
 <li><strong>START：Screening Tool to Alert physicians to Right Treatment</strong>：65 歲以上人群在診斷背景下有適應症之藥物系統列表</li>
 <li>老年人常受到治療不足（ACEI、ASA、β-blockers、thrombolytics、口服抗凝血劑）</li>
 </ul>
-<h3 id="老年人處方原則cared">老年人處方原則：CARED</h3>
+<h3 id="老年人處方原則cared">老年人處方原則：CARED<a class="anchor" href="#%e8%80%81%e5%b9%b4%e4%ba%ba%e8%99%95%e6%96%b9%e5%8e%9f%e5%89%87cared">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -1081,8 +1106,8 @@
   </tbody>
 </table>
 <hr>
-<h2 id="常見藥物common-medications">常見藥物（Common Medications）</h2>
-<h3 id="認知增強劑cognitive-enhancers">認知增強劑（Cognitive Enhancers）</h3>
+<h2 id="常見藥物common-medications">常見藥物（Common Medications）<a class="anchor" href="#%e5%b8%b8%e8%a6%8b%e8%97%a5%e7%89%a9common-medications">#</a></h2>
+<h3 id="認知增強劑cognitive-enhancers">認知增強劑（Cognitive Enhancers）<a class="anchor" href="#%e8%aa%8d%e7%9f%a5%e5%a2%9e%e5%bc%b7%e5%8a%91cognitive-enhancers">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -1134,7 +1159,7 @@
       </tr>
   </tbody>
 </table>
-<h3 id="緩瀉劑laxatives">緩瀉劑（Laxatives）</h3>
+<h3 id="緩瀉劑laxatives">緩瀉劑（Laxatives）<a class="anchor" href="#%e7%b7%a9%e7%80%89%e5%8a%91laxatives">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -1207,8 +1232,8 @@
 <p><strong>備註：</strong> Docusate 被證明對老年人便秘之預防與治療無效。</p>
 <p><strong>Parkinsonian Agents — 見 Neurology, Table 26, N57。</strong></p>
 <hr>
-<h2 id="老年醫學重要臨床試驗">老年醫學重要臨床試驗</h2>
-<h3 id="frailty">Frailty</h3>
+<h2 id="老年醫學重要臨床試驗">老年醫學重要臨床試驗<a class="anchor" href="#%e8%80%81%e5%b9%b4%e9%86%ab%e5%ad%b8%e9%87%8d%e8%a6%81%e8%87%a8%e5%ba%8a%e8%a9%a6%e9%a9%97">#</a></h2>
+<h3 id="frailty">Frailty<a class="anchor" href="#frailty">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -1235,7 +1260,7 @@
       </tr>
   </tbody>
 </table>
-<h3 id="delirium">Delirium</h3>
+<h3 id="delirium">Delirium<a class="anchor" href="#delirium">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -1257,7 +1282,7 @@
       </tr>
   </tbody>
 </table>
-<h3 id="falls">Falls</h3>
+<h3 id="falls">Falls<a class="anchor" href="#falls">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -1274,7 +1299,7 @@
       </tr>
   </tbody>
 </table>
-<h3 id="neurocognitive-disorders">Neurocognitive Disorders</h3>
+<h3 id="neurocognitive-disorders">Neurocognitive Disorders<a class="anchor" href="#neurocognitive-disorders">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -1296,7 +1321,7 @@
       </tr>
   </tbody>
 </table>
-<h3 id="hypertension-in-the-elderly">Hypertension in the Elderly</h3>
+<h3 id="hypertension-in-the-elderly">Hypertension in the Elderly<a class="anchor" href="#hypertension-in-the-elderly">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -1313,7 +1338,7 @@
       </tr>
   </tbody>
 </table>
-<h3 id="inappropriate-prescribing-in-the-elderly">Inappropriate Prescribing in the Elderly</h3>
+<h3 id="inappropriate-prescribing-in-the-elderly">Inappropriate Prescribing in the Elderly<a class="anchor" href="#inappropriate-prescribing-in-the-elderly">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -1336,7 +1361,7 @@
   </tbody>
 </table>
 <hr>
-<h2 id="參考文獻">參考文獻</h2>
+<h2 id="參考文獻">參考文獻<a class="anchor" href="#%e5%8f%83%e8%80%83%e6%96%87%e7%8d%bb">#</a></h2>
 <ul>
 <li>Abdulla A, Adams W, Bone M, et al. Guidance on the management of pain in older people. Age Ageing 2013;42:1-57.</li>
 <li>AGS Panel on Persistent Pain in Older Persons. The management of persistent pain in older persons. J Am Geriatr Soc 2002;50(Suppl):S205-S224.</li>
@@ -1376,5 +1401,19 @@
   <footer>
     <p>Powered by Hugo | Toronto Notes 2025 繁體中文翻譯</p>
   </footer>
+  <script>
+    function toggleTheme() {
+      const html = document.documentElement;
+      const current = html.getAttribute('data-theme');
+      const next = current === 'dark' ? 'light' : 'dark';
+      html.setAttribute('data-theme', next);
+      localStorage.setItem('theme', next);
+    }
+    const saved = localStorage.getItem('theme');
+    if (saved) document.documentElement.setAttribute('data-theme', saved);
+    else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+      document.documentElement.setAttribute('data-theme', 'dark');
+    }
+  </script>
 </body>
 </html>

@@ -5,31 +5,55 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>心臟科與心臟外科 (Cardiology and Cardiac Surgery) - Toronto Notes 2025 繁體中文</title>
   <style>
+    :root {
+      --bg-primary: #ffffff;
+      --bg-secondary: #f8fafc;
+      --text-primary: #1e293b;
+      --text-secondary: #64748b;
+      --accent: #2563eb;
+      --border: #e2e8f0;
+      --code-bg: #f1f5f9;
+      --link: #2563eb;
+      --link-visited: #5500bb;
+    }
+    [data-theme="dark"] {
+      --bg-primary: #1a1a2e;
+      --bg-secondary: #16162a;
+      --text-primary: #e4e4e7;
+      --text-secondary: #a1a1aa;
+      --accent: #93c5fd;
+      --border: #3f3f46;
+      --code-bg: #27272a;
+      --link: #93c5fd;
+      --link-visited: #c4b5fd;
+    }
     * { box-sizing: border-box; }
-    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; line-height: 1.6; color: #333; max-width: 900px; margin: 0 auto; padding: 20px; }
-    header { border-bottom: 2px solid #2563eb; padding-bottom: 10px; margin-bottom: 20px; }
-    header h1 { margin: 0; font-size: 1.5em; color: #2563eb; }
-    nav a { margin-right: 15px; color: #2563eb; text-decoration: none; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; line-height: 1.6; color: var(--text-primary); background: var(--bg-primary); max-width: 900px; margin: 0 auto; padding: 20px; }
+    header { border-bottom: 2px solid var(--accent); padding-bottom: 10px; margin-bottom: 20px; display: flex; justify-content: space-between; align-items: center; }
+    header h1 { margin: 0; font-size: 1.5em; color: var(--accent); }
+    nav a { margin-right: 15px; color: var(--link); text-decoration: none; }
     nav a:hover { text-decoration: underline; }
-    h1, h2, h3 { color: #1e293b; }
-    h1 { font-size: 1.8em; border-bottom: 1px solid #e2e8f0; padding-bottom: 8px; }
-    h2 { font-size: 1.4em; border-bottom: 1px solid #e2e8f0; padding-bottom: 5px; }
+    h1, h2, h3 { color: var(--text-primary); }
+    h1 { font-size: 1.8em; border-bottom: 1px solid var(--border); padding-bottom: 8px; }
+    h2 { font-size: 1.4em; border-bottom: 1px solid var(--border); padding-bottom: 5px; }
     h3 { font-size: 1.15em; }
-    pre { background: #f1f5f9; padding: 15px; border-radius: 6px; overflow-x: auto; }
-    code { background: #f1f5f9; padding: 2px 5px; border-radius: 3px; font-size: 0.9em; }
+    pre { background: var(--code-bg); padding: 15px; border-radius: 6px; overflow-x: auto; }
+    code { background: var(--code-bg); padding: 2px 5px; border-radius: 3px; font-size: 0.9em; }
     pre code { background: none; padding: 0; }
-    blockquote { border-left: 4px solid #2563eb; margin: 0; padding: 5px 15px; color: #64748b; background: #f8fafc; }
+    blockquote { border-left: 4px solid var(--accent); margin: 0; padding: 5px 15px; color: var(--text-secondary); background: var(--bg-secondary); }
     table { border-collapse: collapse; width: 100%; margin: 15px 0; }
-    th, td { border: 1px solid #cbd5e1; padding: 8px 12px; text-align: left; }
-    th { background: #f1f5f9; font-weight: 600; }
-    tr:nth-child(even) { background: #f8fafc; }
+    th, td { border: 1px solid var(--border); padding: 8px 12px; text-align: left; }
+    th { background: var(--bg-secondary); font-weight: 600; }
+    tr:nth-child(even) { background: var(--bg-secondary); }
     .content-body { line-height: 1.8; }
-    footer { border-top: 1px solid #e2e8f0; margin-top: 30px; padding-top: 15px; color: #64748b; font-size: 0.9em; }
-    .breadcrumb { font-size: 0.9em; color: #64748b; margin-bottom: 15px; }
-    .breadcrumb a { color: #2563eb; text-decoration: none; }
-    a { color: #2563eb; }
+    footer { border-top: 1px solid var(--border); margin-top: 30px; padding-top: 15px; color: var(--text-secondary); font-size: 0.9em; }
+    .breadcrumb { font-size: 0.9em; color: var(--text-secondary); margin-bottom: 15px; }
+    .breadcrumb a { color: var(--link); text-decoration: none; }
+    a { color: var(--link); }
     a:hover { text-decoration: underline; }
     img { max-width: 100%; height: auto; }
+    .theme-toggle { background: none; border: 1px solid var(--border); color: var(--text-primary); cursor: pointer; padding: 4px 10px; border-radius: 4px; font-size: 0.85em; }
+    .theme-toggle:hover { background: var(--bg-secondary); }
   </style>
 </head>
 <body>
@@ -38,6 +62,7 @@
       <a href="https://b101108063-ops.github.io/Toronto_note/">首頁</a>
       <a href="/Toronto_note/categories/">章節</a>
     </nav>
+    <button class="theme-toggle" onclick="toggleTheme()">🌙 暗色</button>
   </header>
 
   <main>
@@ -49,7 +74,7 @@
       <div class="content-body">
         <p><em>Toronto Notes 2025</em></p>
 <hr>
-<h2 id="導讀摘要">導讀摘要</h2>
+<h2 id="導讀摘要">導讀摘要<a class="anchor" href="#%e5%b0%8e%e8%ae%80%e6%91%98%e8%a6%81">#</a></h2>
 <p>本章节涵盖以下核心主题：</p>
 <ul>
 <li><strong>ECG 判讀</strong>：心電圖基本波形（P波、QRS波群、ST段、T波、U波）與心律不整心電圖特徵</li>
@@ -62,9 +87,9 @@
 <li><strong>冠狀動脈介入治療與手術</strong>：PCI、CABG、心臟移植</li>
 </ul>
 <hr>
-<h2 id="ecg-判讀導論">ECG 判讀導論</h2>
-<h3 id="pqrstu-波形分析">PQRSTU 波形分析</h3>
-<h4 id="p-波p-wave">P 波（P Wave）</h4>
+<h2 id="ecg-判讀導論">ECG 判讀導論<a class="anchor" href="#ecg-%e5%88%a4%e8%ae%80%e5%b0%8e%e8%ab%96">#</a></h2>
+<h3 id="pqrstu-波形分析">PQRSTU 波形分析<a class="anchor" href="#pqrstu-%e6%b3%a2%e5%bd%a2%e5%88%86%e6%9e%90">#</a></h3>
+<h4 id="p-波p-wave">P 波（P Wave）<a class="anchor" href="#p-%e6%b3%a2p-wave">#</a></h4>
 <ul>
 <li>P 波代表心房收縮，在 II 導程和 V1 導程最為清晰</li>
 <li>II 導程：P 波應為圓潤波形，寬度 &lt;120 msec，高度 &lt;2.5 mm</li>
@@ -74,7 +99,7 @@
 <li><strong>RAE（右心房擴大）</strong>：II 或 V1 導程 P 波高大（&gt;2.5 mm），稱為 P pulmonale</li>
 <li><strong>LAE（左心房擴大）</strong>：V1 導程雙相 P 波，負向偏轉 &gt;1 mm；II 導程 P 波增寬（&gt;100 msec）且有缺口，稱為 P mitrale</li>
 </ul>
-<h4 id="p-r-間期p-r-interval">P-R 間期（P-R Interval）</h4>
+<h4 id="p-r-間期p-r-interval">P-R 間期（P-R Interval）<a class="anchor" href="#p-r-%e9%96%93%e6%9c%9fp-r-interval">#</a></h4>
 <ul>
 <li>P-R 間期代表竇房結激活至心室去極化開始的時間</li>
 <li>正常值：120-200 msec</li>
@@ -92,7 +117,7 @@
 </ul>
 </li>
 </ul>
-<h4 id="qrs-波群qrs-complex">QRS 波群（QRS Complex）</h4>
+<h4 id="qrs-波群qrs-complex">QRS 波群（QRS Complex）<a class="anchor" href="#qrs-%e6%b3%a2%e7%be%a4qrs-complex">#</a></h4>
 <ul>
 <li>代表心室收縮</li>
 <li>窄 QRS（&lt;120 msec）：表示 His-Purkinje 系統正常傳導</li>
@@ -108,7 +133,7 @@
 </ul>
 </li>
 </ul>
-<h4 id="st-段st-segment">ST 段（ST Segment）</h4>
+<h4 id="st-段st-segment">ST 段（ST Segment）<a class="anchor" href="#st-%e6%ae%b5st-segment">#</a></h4>
 <ul>
 <li>位於 QRS 與 T 波之間</li>
 <li>正常：與基線（T-P 段）同水平</li>
@@ -126,7 +151,7 @@
 </ul>
 </li>
 </ul>
-<h4 id="t-波t-wave">T 波（T Wave）</h4>
+<h4 id="t-波t-wave">T 波（T Wave）<a class="anchor" href="#t-%e6%b3%a2t-wave">#</a></h4>
 <ul>
 <li>代表心室復極</li>
 <li>正常：正向（aVR 和 V1 除外）</li>
@@ -134,7 +159,7 @@
 <li><strong>T 波上升</strong>：STEMI、Prinzmetal、高血鉀</li>
 <li><strong>T 波平坦</strong>：低血鉀、急性心包膜炎、藥物、心包膜積液</li>
 </ul>
-<h4 id="q-t-間期qt-interval">Q-T 間期（QT Interval）</h4>
+<h4 id="q-t-間期qt-interval">Q-T 間期（QT Interval）<a class="anchor" href="#q-t-%e9%96%93%e6%9c%9fqt-interval">#</a></h4>
 <ul>
 <li>心室去極化與復極的總時間</li>
 <li><strong>QTc 校正公式（Bazett）</strong>：QTc = QT / √RR</li>
@@ -146,14 +171,14 @@
 </li>
 <li><strong>QTc 縮短（&lt;360 msec）</strong>：有 VFib 風險</li>
 </ul>
-<h4 id="u-波u-wave">U 波（U Wave）</h4>
+<h4 id="u-波u-wave">U 波（U Wave）<a class="anchor" href="#u-%e6%b3%a2u-wave">#</a></h4>
 <ul>
 <li>來源不清，可能是 Purkinje 纖維復極或心肌延遲復極</li>
 <li><strong>明顯 U 波（&gt;25% T 波振幅）</strong>：低血鉀、藥物（digoxin、antiarrhythmics）</li>
 <li><strong>U 波倒置</strong>：缺血、容量過負荷</li>
 </ul>
-<h3 id="電解質失衡對-ecg-的影響">電解質失衡對 ECG 的影響</h3>
-<h4 id="高血鉀hyperkalemia">高血鉀（Hyperkalemia）</h4>
+<h3 id="電解質失衡對-ecg-的影響">電解質失衡對 ECG 的影響<a class="anchor" href="#%e9%9b%bb%e8%a7%a3%e8%b3%aa%e5%a4%b1%e8%a1%a1%e5%b0%8d-ecg-%e7%9a%84%e5%bd%b1%e9%9f%bf">#</a></h3>
+<h4 id="高血鉀hyperkalemia">高血鉀（Hyperkalemia）<a class="anchor" href="#%e9%ab%98%e8%a1%80%e9%89%80hyperkalemia">#</a></h4>
 <ul>
 <li>T 波高尖（帳篷狀）</li>
 <li>QRS 增寬</li>
@@ -161,60 +186,60 @@
 <li>PR 間期延長</li>
 <li>嚴重時：正弦波型、VFib</li>
 </ul>
-<h4 id="低血鉀hypokalemia">低血鉀（Hypokalemia）</h4>
+<h4 id="低血鉀hypokalemia">低血鉀（Hypokalemia）<a class="anchor" href="#%e4%bd%8e%e8%a1%80%e9%89%80hypokalemia">#</a></h4>
 <ul>
 <li>U 波明顯</li>
 <li>T 波平坦</li>
 <li>ST 下降</li>
 <li>QT 延長</li>
 </ul>
-<h4 id="高血鈣hypercalcemia">高血鈣（Hypercalcemia）</h4>
+<h4 id="高血鈣hypercalcemia">高血鈣（Hypercalcemia）<a class="anchor" href="#%e9%ab%98%e8%a1%80%e9%88%a3hypercalcemia">#</a></h4>
 <ul>
 <li>QT 間期縮短</li>
 </ul>
-<h4 id="低血鈣hypocalcemia">低血鈣（Hypocalcemia）</h4>
+<h4 id="低血鈣hypocalcemia">低血鈣（Hypocalcemia）<a class="anchor" href="#%e4%bd%8e%e8%a1%80%e9%88%a3hypocalcemia">#</a></h4>
 <ul>
 <li>QT 間期延長</li>
 </ul>
-<h4 id="體溫過低hypothermia">體溫過低（Hypothermia）</h4>
+<h4 id="體溫過低hypothermia">體溫過低（Hypothermia）<a class="anchor" href="#%e9%ab%94%e6%ba%ab%e9%81%8e%e4%bd%8ehypothermia">#</a></h4>
 <ul>
 <li>竇性心搏過緩</li>
 <li>嚴重時：QRS 和 QT 延長</li>
 <li>Osborne J 波：「駝峰狀」波形出現於 J 點與 ST 段交界處</li>
 <li>AFib 伴緩慢心室反應</li>
 </ul>
-<h3 id="藥物對-ecg-的影響">藥物對 ECG 的影響</h3>
-<h4 id="digitalis毛地黃">Digitalis（毛地黃）</h4>
+<h3 id="藥物對-ecg-的影響">藥物對 ECG 的影響<a class="anchor" href="#%e8%97%a5%e7%89%a9%e5%b0%8d-ecg-%e7%9a%84%e5%bd%b1%e9%9f%bf">#</a></h3>
+<h4 id="digitalis毛地黃">Digitalis（毛地黃）<a class="anchor" href="#digitalis%e6%af%9b%e5%9c%b0%e9%bb%83">#</a></h4>
 <ul>
 <li><strong>治療濃度</strong>：ST 下斜或「勺狀」改變、T 波倒置或負向、QT 縮短、U 波明顯</li>
 <li><strong>中毒濃度</strong>：各類心律不整（PAT with block、AFib 伴嚴重心搏過緩、加速性交界性心律、PVCs、VT）</li>
 <li><strong>「數位效應」（Digitalis Effect）</strong>：AFib 中心室率「規律化」（因 complete heart block 伴交界性逸搏）</li>
 </ul>
-<h4 id="延長-qt-的藥物">延長 QT 的藥物</h4>
+<h4 id="延長-qt-的藥物">延長 QT 的藥物<a class="anchor" href="#%e5%bb%b6%e9%95%b7-qt-%e7%9a%84%e8%97%a5%e7%89%a9">#</a></h4>
 <ul>
 <li>Amiodarone、quinidine、phenothiazines、TCAs、antipsychotics、某些抗組織胺、抗黴菌藥、某些抗生素</li>
 </ul>
-<h3 id="其他病因對-ecg-的影響">其他病因對 ECG 的影響</h3>
-<h4 id="急性心包膜炎pericarditis">急性心包膜炎（Pericarditis）</h4>
+<h3 id="其他病因對-ecg-的影響">其他病因對 ECG 的影響<a class="anchor" href="#%e5%85%b6%e4%bb%96%e7%97%85%e5%9b%a0%e5%b0%8d-ecg-%e7%9a%84%e5%bd%b1%e9%9f%bf">#</a></h3>
+<h4 id="急性心包膜炎pericarditis">急性心包膜炎（Pericarditis）<a class="anchor" href="#%e6%80%a5%e6%80%a7%e5%bf%83%e5%8c%85%e8%86%9c%e7%82%8epericarditis">#</a></h4>
 <ul>
 <li>早期：瀰漫性 ST 上升 + PR 下降</li>
 <li>晚期：ST 等電位，T 波平坦或倒置</li>
 </ul>
-<h4 id="肺栓塞pulmonary-embolism">肺栓塞（Pulmonary Embolism）</h4>
+<h4 id="肺栓塞pulmonary-embolism">肺栓塞（Pulmonary Embolism）<a class="anchor" href="#%e8%82%ba%e6%a0%93%e5%a1%9epulmonary-embolism">#</a></h4>
 <ul>
 <li>竇性心搏過速</li>
 <li>AFib/心房扑動常見</li>
 <li>RAD、RVH</li>
 <li>S1Q3T3（最具特異性但少見）</li>
 </ul>
-<h4 id="copd肺病">COPD（肺病）</h4>
+<h4 id="copd肺病">COPD（肺病）<a class="anchor" href="#copd%e8%82%ba%e7%97%85">#</a></h4>
 <ul>
 <li>Cor pulmonale：低電壓、RAD、V1-V6 R 波遞增不良</li>
 <li>RAE 和 RVH 伴應變</li>
 </ul>
 <hr>
-<h2 id="心臟標記物cardiac-biomarkers">心臟標記物（Cardiac Biomarkers）</h2>
-<h3 id="心肌酶學cardiac-enzymes">心肌酶學（Cardiac Enzymes）</h3>
+<h2 id="心臟標記物cardiac-biomarkers">心臟標記物（Cardiac Biomarkers）<a class="anchor" href="#%e5%bf%83%e8%87%9f%e6%a8%99%e8%a8%98%e7%89%a9cardiac-biomarkers">#</a></h2>
+<h3 id="心肌酶學cardiac-enzymes">心肌酶學（Cardiac Enzymes）<a class="anchor" href="#%e5%bf%83%e8%82%8c%e9%85%b6%e5%ad%b8cardiac-enzymes">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -239,14 +264,14 @@
       </tr>
   </tbody>
 </table>
-<h3 id="bnp-與-nt-probnp">BNP 與 NT-proBNP</h3>
+<h3 id="bnp-與-nt-probnp">BNP 與 NT-proBNP<a class="anchor" href="#bnp-%e8%88%87-nt-probnp">#</a></h3>
 <ul>
 <li>由心室在舒張期末壓力和容量增加時分泌</li>
 <li><strong>升高常見病因</strong>：CHF、AFib、肺栓塞、肺高壓</li>
 </ul>
 <hr>
-<h2 id="心臟超聲心動圖echocardiography">心臟超聲心動圖（Echocardiography）</h2>
-<h3 id="經胸超聲心動圖tte">經胸超聲心動圖（TTE）</h3>
+<h2 id="心臟超聲心動圖echocardiography">心臟超聲心動圖（Echocardiography）<a class="anchor" href="#%e5%bf%83%e8%87%9f%e8%b6%85%e8%81%b2%e5%bf%83%e5%8b%95%e5%9c%96echocardiography">#</a></h2>
+<h3 id="經胸超聲心動圖tte">經胸超聲心動圖（TTE）<a class="anchor" href="#%e7%b6%93%e8%83%b8%e8%b6%85%e8%81%b2%e5%bf%83%e5%8b%95%e5%9c%96tte">#</a></h3>
 <ul>
 <li>非侵入性超聲檢查</li>
 <li><strong>適應症</strong>：
@@ -257,7 +282,7 @@
 </ul>
 </li>
 </ul>
-<h3 id="經食道超聲心動圖tee">經食道超聲心動圖（TEE）</h3>
+<h3 id="經食道超聲心動圖tee">經食道超聲心動圖（TEE）<a class="anchor" href="#%e7%b6%93%e9%a3%9f%e9%81%93%e8%b6%85%e8%81%b2%e5%bf%83%e5%8b%95%e5%9c%96tee">#</a></h3>
 <ul>
 <li>插入食道的超聲探頭，解析度更佳</li>
 <li><strong>適應症</strong>：
@@ -270,7 +295,7 @@
 </li>
 <li><strong>風險</strong>：&lt;1/5000  serious complications（食道穿孔、胃腸出血、咽部血腫）</li>
 </ul>
-<h3 id="負荷超聲心動圖stress-echocardiography">負荷超聲心動圖（Stress Echocardiography）</h3>
+<h3 id="負荷超聲心動圖stress-echocardiography">負荷超聲心動圖（Stress Echocardiography）<a class="anchor" href="#%e8%b2%a0%e8%8d%b7%e8%b6%85%e8%81%b2%e5%bf%83%e5%8b%95%e5%9c%96stress-echocardiography">#</a></h3>
 <ul>
 <li>使用運動（跑步機或腳踏車）或藥理學試劑（dobutamine 或 adenosine）作為生理 stressor</li>
 <li><strong>適應症</strong>：
@@ -288,7 +313,7 @@
 </ul>
 </li>
 </ul>
-<h3 id="對比超聲心動圖contrast-echocardiography">對比超聲心動圖（Contrast Echocardiography）</h3>
+<h3 id="對比超聲心動圖contrast-echocardiography">對比超聲心動圖（Contrast Echocardiography）<a class="anchor" href="#%e5%b0%8d%e6%af%94%e8%b6%85%e8%81%b2%e5%bf%83%e5%8b%95%e5%9c%96contrast-echocardiography">#</a></h3>
 <ul>
 <li><strong>攪抖生理食鹽水對比</strong>：
 <ul>
@@ -304,8 +329,8 @@
 </li>
 </ul>
 <hr>
-<h2 id="負荷試驗stress-testing">負荷試驗（Stress Testing）</h2>
-<h3 id="運動心電圖負荷試驗exercise-testing">運動心電圖負荷試驗（Exercise Testing）</h3>
+<h2 id="負荷試驗stress-testing">負荷試驗（Stress Testing）<a class="anchor" href="#%e8%b2%a0%e8%8d%b7%e8%a9%a6%e9%a9%97stress-testing">#</a></h2>
+<h3 id="運動心電圖負荷試驗exercise-testing">運動心電圖負荷試驗（Exercise Testing）<a class="anchor" href="#%e9%81%8b%e5%8b%95%e5%bf%83%e9%9b%bb%e5%9c%96%e8%b2%a0%e8%8d%b7%e8%a9%a6%e9%a9%97exercise-testing">#</a></h3>
 <ul>
 <li><strong>描述</strong>：跑步機或腳踏車運動，同時進行心電圖和血壓監測</li>
 <li><strong>結果分層</strong>：
@@ -345,7 +370,7 @@
 </ul>
 </li>
 </ul>
-<h3 id="duke-treadmill-scoredts">Duke Treadmill Score（DTS）</h3>
+<h3 id="duke-treadmill-scoredts">Duke Treadmill Score（DTS）<a class="anchor" href="#duke-treadmill-scoredts">#</a></h3>
 <ul>
 <li><strong>DTS = 運動時間 - (5 × 最大 ST 偏移) - (4 × 心絞痛指數)</strong></li>
 <li>心絞痛指數：0（無心絞痛）、1（非運動限制）、2（運動限制）</li>
@@ -353,7 +378,7 @@
 <li><strong>DTS 4-10</strong>：1 年死亡風險 1.25%</li>
 <li><strong>DTS &lt; -4</strong>：1 年死亡風險 5.25%</li>
 </ul>
-<h3 id="核子心臟學nuclear-cardiology">核子心臟學（Nuclear Cardiology）</h3>
+<h3 id="核子心臟學nuclear-cardiology">核子心臟學（Nuclear Cardiology）<a class="anchor" href="#%e6%a0%b8%e5%ad%90%e5%bf%83%e8%87%9f%e5%ad%b8nuclear-cardiology">#</a></h3>
 <ul>
 <li><strong>心肌灌注顯像（MPI）</strong>：使用放射性追蹤劑的 SPECT</li>
 <li><strong>顯像時機</strong>：運動或休息狀態下注射，3-4 小時後顯影</li>
@@ -372,7 +397,7 @@
 </ul>
 </li>
 </ul>
-<h3 id="藥理學負荷-mpi">藥理學負荷 MPI</h3>
+<h3 id="藥理學負荷-mpi">藥理學負荷 MPI<a class="anchor" href="#%e8%97%a5%e7%90%86%e5%ad%b8%e8%b2%a0%e8%8d%b7-mpi">#</a></h3>
 <ul>
 <li><strong>Dipyridamole/Adenosine MPI</strong>：
 <ul>
@@ -384,8 +409,8 @@
 </li>
 </ul>
 <hr>
-<h2 id="心導管檢查與血管攝影">心導管檢查與血管攝影</h2>
-<h3 id="右心導管swan-ganz-catheter">右心導管（Swan-Ganz Catheter）</h3>
+<h2 id="心導管檢查與血管攝影">心導管檢查與血管攝影<a class="anchor" href="#%e5%bf%83%e5%b0%8e%e7%ae%a1%e6%aa%a2%e6%9f%a5%e8%88%87%e8%a1%80%e7%ae%a1%e6%94%9d%e5%bd%b1">#</a></h2>
+<h3 id="右心導管swan-ganz-catheter">右心導管（Swan-Ganz Catheter）<a class="anchor" href="#%e5%8f%b3%e5%bf%83%e5%b0%8e%e7%ae%a1swan-ganz-catheter">#</a></h3>
 <ul>
 <li>又稱肺動脈導管</li>
 <li><strong>測量</strong>：右心房、右心室、肺動脈、肺动脉閉塞壓力（PCWP）</li>
@@ -405,7 +430,7 @@
 </ul>
 </li>
 </ul>
-<h3 id="左心導管">左心導管</h3>
+<h3 id="左心導管">左心導管<a class="anchor" href="#%e5%b7%a6%e5%bf%83%e5%b0%8e%e7%ae%a1">#</a></h3>
 <ul>
 <li>導管經橈/肱/股动脉逆行至主動脈、通過主動脈瓣進入左心室</li>
 <li><strong>適應症</strong>：
@@ -416,7 +441,7 @@
 </ul>
 </li>
 </ul>
-<h3 id="冠狀動脈血管攝影coronary-angiography">冠狀動脈血管攝影（Coronary Angiography）</h3>
+<h3 id="冠狀動脈血管攝影coronary-angiography">冠狀動脈血管攝影（Coronary Angiography）<a class="anchor" href="#%e5%86%a0%e7%8b%80%e5%8b%95%e8%84%88%e8%a1%80%e7%ae%a1%e6%94%9d%e5%bd%b1coronary-angiography">#</a></h3>
 <ul>
 <li><strong>黃金標準</strong>：局部化和量化 CAD</li>
 <li><strong>適應症</strong>：
@@ -428,21 +453,21 @@
 </li>
 <li><strong>顯著狹窄定義</strong>：管腔直徑減少 ≥70%</li>
 </ul>
-<h3 id="ct-冠狀動脈血管攝影">CT 冠狀動脈血管攝影</h3>
+<h3 id="ct-冠狀動脈血管攝影">CT 冠狀動脈血管攝影<a class="anchor" href="#ct-%e5%86%a0%e7%8b%80%e5%8b%95%e8%84%88%e8%a1%80%e7%ae%a1%e6%94%9d%e5%bd%b1">#</a></h3>
 <ul>
 <li><strong>敏感度</strong>：85%，<strong>特異度</strong>：90%（診斷 &gt;50% 狹窄的阻塞性 CAD）</li>
 <li><strong>禁忌症</strong>：對比劑過敏、嚴重腎功能障礙、心律不整或心搏過速</li>
 </ul>
-<h3 id="心臟-mri">心臟 MRI</h3>
+<h3 id="心臟-mri">心臟 MRI<a class="anchor" href="#%e5%bf%83%e8%87%9f-mri">#</a></h3>
 <ul>
 <li><strong>優點</strong>：高空間解析度、無需含碘對比劑、無電離輻射</li>
 <li><strong>適應症</strong>：先天性心臟異常、主動脈評估、存活心肌、心肌病變</li>
 <li><strong>最準確的 ejection fraction 測量方法</strong></li>
 </ul>
 <hr>
-<h2 id="心律不整arrhythmias">心律不整（Arrhythmias）</h2>
-<h3 id="心律不整機轉">心律不整機轉</h3>
-<h4 id="衝動形成異常">衝動形成異常</h4>
+<h2 id="心律不整arrhythmias">心律不整（Arrhythmias）<a class="anchor" href="#%e5%bf%83%e5%be%8b%e4%b8%8d%e6%95%b4arrhythmias">#</a></h2>
+<h3 id="心律不整機轉">心律不整機轉<a class="anchor" href="#%e5%bf%83%e5%be%8b%e4%b8%8d%e6%95%b4%e6%a9%9f%e8%bd%89">#</a></h3>
+<h4 id="衝動形成異常">衝動形成異常<a class="anchor" href="#%e8%a1%9d%e5%8b%95%e5%bd%a2%e6%88%90%e7%95%b0%e5%b8%b8">#</a></h4>
 <p><strong>正常自律性</strong></p>
 <ul>
 <li>來自竇房結的衝動由自發去極化引起，為基本心臟 pacemaker 功能</li>
@@ -464,7 +489,7 @@
 </ul>
 </li>
 </ul>
-<h4 id="衝動傳導異常">衝動傳導異常</h4>
+<h4 id="衝動傳導異常">衝動傳導異常<a class="anchor" href="#%e8%a1%9d%e5%8b%95%e5%82%b3%e5%b0%8e%e7%95%b0%e5%b8%b8">#</a></h4>
 <p><strong>折返環路（Re-entry Circuits）</strong></p>
 <ul>
 <li>自續性折返電路導致快速反覆去極化</li>
@@ -476,7 +501,7 @@
 <li>缺血、纖維化、外傷、藥物可導致暫時或永久性、單向或雙向阻滯</li>
 <li>導致心搏過速（折返）或心搏過緩</li>
 </ul>
-<h3 id="心律不整分類">心律不整分類</h3>
+<h3 id="心律不整分類">心律不整分類<a class="anchor" href="#%e5%bf%83%e5%be%8b%e4%b8%8d%e6%95%b4%e5%88%86%e9%a1%9e">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -508,8 +533,8 @@
   </tbody>
 </table>
 <hr>
-<h3 id="心搏過緩bradyarrhythmias">心搏過緩（Bradyarrhythmias）</h3>
-<h4 id="竇房結功能障礙sinoatrial-node-dysfunction">竇房結功能障礙（Sinoatrial Node Dysfunction）</h4>
+<h3 id="心搏過緩bradyarrhythmias">心搏過緩（Bradyarrhythmias）<a class="anchor" href="#%e5%bf%83%e6%90%8f%e9%81%8e%e7%b7%a9bradyarrhythmias">#</a></h3>
+<h4 id="竇房結功能障礙sinoatrial-node-dysfunction">竇房結功能障礙（Sinoatrial Node Dysfunction）<a class="anchor" href="#%e7%ab%87%e6%88%bf%e7%b5%90%e5%8a%9f%e8%83%bd%e9%9a%9c%e7%a4%99sinoatrial-node-dysfunction">#</a></h4>
 <ul>
 <li><strong>心電圖表現</strong>：正常 P 軸，心率 &lt;60 bpm</li>
 <li><strong>常見原因</strong>：
@@ -522,7 +547,7 @@
 </li>
 <li><strong>治療</strong>：Atropine；必要時 pacemaker</li>
 </ul>
-<h4 id="av-傳導阻滯">AV 傳導阻滯</h4>
+<h4 id="av-傳導阻滯">AV 傳導阻滯<a class="anchor" href="#av-%e5%82%b3%e5%b0%8e%e9%98%bb%e6%bb%af">#</a></h4>
 <p><strong>一度 AV Block</strong></p>
 <ul>
 <li>P-R 間期延長（&gt;200 msec）</li>
@@ -549,8 +574,8 @@
 <li><strong>治療</strong>：Electrical pacing</li>
 </ul>
 <hr>
-<h3 id="室上性心搏過速svt">室上性心搏過速（SVT）</h3>
-<h4 id="竇性心搏過速sinus-tachycardia">竇性心搏過速（Sinus Tachycardia）</h4>
+<h3 id="室上性心搏過速svt">室上性心搏過速（SVT）<a class="anchor" href="#%e5%ae%a4%e4%b8%8a%e6%80%a7%e5%bf%83%e6%90%8f%e9%81%8e%e9%80%9fsvt">#</a></h3>
+<h4 id="竇性心搏過速sinus-tachycardia">竇性心搏過速（Sinus Tachycardia）<a class="anchor" href="#%e7%ab%87%e6%80%a7%e5%bf%83%e6%90%8f%e9%81%8e%e9%80%9fsinus-tachycardia">#</a></h4>
 <ul>
 <li>竇性心律但心率 &gt;100 bpm</li>
 <li><strong>原因</strong>：
@@ -563,7 +588,7 @@
 </li>
 <li><strong>治療</strong>：治療根本原因；如有症狀考慮 β-blocker</li>
 </ul>
-<h4 id="早期收縮premature-beats">早期收縮（Premature Beats）</h4>
+<h4 id="早期收縮premature-beats">早期收縮（Premature Beats）<a class="anchor" href="#%e6%97%a9%e6%9c%9f%e6%94%b6%e7%b8%aepremature-beats">#</a></h4>
 <p><strong>Premature Atrial Contraction（PAC）</strong></p>
 <ul>
 <li>起源於心房的異位心搏</li>
@@ -575,7 +600,7 @@
 <li>通常無 P 波或倒置 P 波</li>
 <li>通常無需治療</li>
 </ul>
-<h4 id="心房撲動atrial-flutter">心房撲動（Atrial Flutter）</h4>
+<h4 id="心房撲動atrial-flutter">心房撲動（Atrial Flutter）<a class="anchor" href="#%e5%bf%83%e6%88%bf%e6%92%b2%e5%8b%95atrial-flutter">#</a></h4>
 <ul>
 <li>心房再入電路，心房率 250-350 bpm（通常 300 bpm）</li>
 <li><strong>心電圖</strong>：鋸齒狀 F 波（II、III、aVF 最明顯），窄 QRS</li>
@@ -593,14 +618,14 @@
 </ul>
 </li>
 </ul>
-<h4 id="多源性房性心搏過速mat">多源性房性心搏過速（MAT）</h4>
+<h4 id="多源性房性心搏過速mat">多源性房性心搏過速（MAT）<a class="anchor" href="#%e5%a4%9a%e6%ba%90%e6%80%a7%e6%88%bf%e6%80%a7%e5%bf%83%e6%90%8f%e9%81%8e%e9%80%9fmat">#</a></h4>
 <ul>
 <li>由 ≥3 個心房焦點引起的規律不整心律</li>
 <li>心房率 100-200 bpm</li>
 <li><strong>常見於</strong>：COPD、低氧血症；少見於低血鉀、低鎂血症、敗血症</li>
 <li><strong>治療</strong>：治療根本原因；CCB（diltiazem、verapamil）</li>
 </ul>
-<h4 id="心房顫動atrial-fibrillation">心房顫動（Atrial Fibrillation）</h4>
+<h4 id="心房顫動atrial-fibrillation">心房顫動（Atrial Fibrillation）<a class="anchor" href="#%e5%bf%83%e6%88%bf%e9%a1%ab%e5%8b%95atrial-fibrillation">#</a></h4>
 <ul>
 <li>最常見的持續性心律不整</li>
 <li><strong>危險因子</strong>：年齡、高血壓、CHF、瓣膜疾病、心臟手術、肺癌疾病、過量酒精攝取、敗血症</li>
@@ -667,8 +692,8 @@
 </li>
 </ul>
 <hr>
-<h3 id="預激症候群pre-excitation-syndromes">預激症候群（Pre-Excitation Syndromes）</h3>
-<h4 id="wolff-parkinson-white-症候群">Wolff-Parkinson-White 症候群</h4>
+<h3 id="預激症候群pre-excitation-syndromes">預激症候群（Pre-Excitation Syndromes）<a class="anchor" href="#%e9%a0%90%e6%bf%80%e7%97%87%e5%80%99%e7%be%a4pre-excitation-syndromes">#</a></h3>
+<h4 id="wolff-parkinson-white-症候群">Wolff-Parkinson-White 症候群<a class="anchor" href="#wolff-parkinson-white-%e7%97%87%e5%80%99%e7%be%a4">#</a></h4>
 <ul>
 <li>先天性缺陷，1.5-2/1000 發生率</li>
 <li><strong>心電圖特徵</strong>：
@@ -694,7 +719,7 @@
 </ul>
 </li>
 </ul>
-<h4 id="av-結折返性心搏過速avnrt">AV 結折返性心搏過速（AVNRT）</h4>
+<h4 id="av-結折返性心搏過速avnrt">AV 結折返性心搏過速（AVNRT）<a class="anchor" href="#av-%e7%b5%90%e6%8a%98%e8%bf%94%e6%80%a7%e5%bf%83%e6%90%8f%e9%81%8e%e9%80%9favnrt">#</a></h4>
 <ul>
 <li>AV 結內雙徑路（快徑 + 慢徑）形成折返電路</li>
 <li>佔所有 PSVT 的 60-70%</li>
@@ -707,19 +732,19 @@
 </li>
 </ul>
 <hr>
-<h3 id="室性心律不整ventricular-arrhythmias">室性心律不整（Ventricular Arrhythmias）</h3>
-<h4 id="室性早期收縮pvc">室性早期收縮（PVC）</h4>
+<h3 id="室性心律不整ventricular-arrhythmias">室性心律不整（Ventricular Arrhythmias）<a class="anchor" href="#%e5%ae%a4%e6%80%a7%e5%bf%83%e5%be%8b%e4%b8%8d%e6%95%b4ventricular-arrhythmias">#</a></h3>
+<h4 id="室性早期收縮pvc">室性早期收縮（PVC）<a class="anchor" href="#%e5%ae%a4%e6%80%a7%e6%97%a9%e6%9c%9f%e6%94%b6%e7%b8%aepvc">#</a></h4>
 <ul>
 <li>QRS &gt;120 msec，無前置 P 波，形態怪異</li>
 <li><strong>意義</strong>：連續（≥3 = VT）、多形性、R-on-T 現象可能有危險</li>
 <li><strong>治療</strong>：生活方式改變（限制酒精、咖啡因、刺激物）；有結構性心臟病者 β-blocker、燒灼或抗心律不整藥物</li>
 </ul>
-<h4 id="加速性室性心律accelerated-idioventricular-rhythm">加速性室性心律（Accelerated Idioventricular Rhythm）</h4>
+<h4 id="加速性室性心律accelerated-idioventricular-rhythm">加速性室性心律（Accelerated Idioventricular Rhythm）<a class="anchor" href="#%e5%8a%a0%e9%80%9f%e6%80%a7%e5%ae%a4%e6%80%a7%e5%bf%83%e5%be%8baccelerated-idioventricular-rhythm">#</a></h4>
 <ul>
 <li>心室異位心律，心率 50-100 bpm</li>
 <li>常見於急性 MI，通常無需治療</li>
 </ul>
-<h4 id="室性心搏過速ventricular-tachycardia">室性心搏過速（Ventricular Tachycardia）</h4>
+<h4 id="室性心搏過速ventricular-tachycardia">室性心搏過速（Ventricular Tachycardia）<a class="anchor" href="#%e5%ae%a4%e6%80%a7%e5%bf%83%e6%90%8f%e9%81%8e%e9%80%9fventricular-tachycardia">#</a></h4>
 <ul>
 <li>≥3 個連續室性異位搏動，心率 &gt;100 bpm</li>
 <li><strong>心電圖特徵</strong>：寬 QRS（通常 &gt;140 msec）、AV dissociation、QRS 形態怪異</li>
@@ -738,27 +763,27 @@
 </ul>
 </li>
 </ul>
-<h4 id="torsades-de-pointes">Torsades de Pointes</h4>
+<h4 id="torsades-de-pointes">Torsades de Pointes<a class="anchor" href="#torsades-de-pointes">#</a></h4>
 <ul>
 <li>Long QT 相關的多形性 VT</li>
 <li>QRS 軸「扭轉」，心率通常 150-300 bpm</li>
 <li><strong>病因</strong>：先天性 Long QT、藥物（Class IA/III）、電解質失衡（低血鉀、低血鎂、低血鈣）</li>
 <li><strong>治療</strong>：IV magnesium、臨時心臟節律器、β-blocker、糾正根本原因</li>
 </ul>
-<h4 id="心室顫動ventricular-fibrillation">心室顫動（Ventricular Fibrillation）</h4>
+<h4 id="心室顫動ventricular-fibrillation">心室顫動（Ventricular Fibrillation）<a class="anchor" href="#%e5%bf%83%e5%ae%a4%e9%a1%ab%e5%8b%95ventricular-fibrillation">#</a></h4>
 <ul>
 <li>混亂心室心律，無明確 QRS</li>
 <li>院外心臟驟停最常見原因</li>
 <li><strong>治療</strong>：立即 ACLS、立即電擊除顫</li>
 </ul>
 <hr>
-<h3 id="心臟驟停sudden-cardiac-arrest">心臟驟停（Sudden Cardiac Arrest）</h3>
-<h4 id="定義">定義</h4>
+<h3 id="心臟驟停sudden-cardiac-arrest">心臟驟停（Sudden Cardiac Arrest）<a class="anchor" href="#%e5%bf%83%e8%87%9f%e9%a9%9f%e5%81%9csudden-cardiac-arrest">#</a></h3>
+<h4 id="定義">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9">#</a></h4>
 <ul>
 <li>心臟電活動停止伴循環衰竭（無脈搏）</li>
 <li>表現：突然無反應、無自發呼吸</li>
 </ul>
-<h4 id="病因">病因</h4>
+<h4 id="病因">病因<a class="anchor" href="#%e7%97%85%e5%9b%a0">#</a></h4>
 <table>
   <thead>
       <tr>
@@ -789,7 +814,7 @@
       </tr>
   </tbody>
 </table>
-<h4 id="管理">管理</h4>
+<h4 id="管理">管理<a class="anchor" href="#%e7%ae%a1%e7%90%86">#</a></h4>
 <ul>
 <li>根據 ACLS 指引復甦</li>
 <li><strong>調查根本原因</strong>：心導管、電生理檢查、超聲心動圖</li>
@@ -799,7 +824,7 @@
 <li>ICD（二級預防）</li>
 </ul>
 <hr>
-<h3 id="電生理檢查electrophysiologic-studies">電生理檢查（Electrophysiologic Studies）</h3>
+<h3 id="電生理檢查electrophysiologic-studies">電生理檢查（Electrophysiologic Studies）<a class="anchor" href="#%e9%9b%bb%e7%94%9f%e7%90%86%e6%aa%a2%e6%9f%a5electrophysiologic-studies">#</a></h3>
 <ul>
 <li>侵入性檢查，使用心內導管評估心律不整</li>
 <li><strong>適應症</strong>：
@@ -809,64 +834,64 @@
 </ul>
 </li>
 </ul>
-<h3 id="心臟節律器pacemaker">心臟節律器（Pacemaker）</h3>
-<h4 id="適應症">適應症</h4>
+<h3 id="心臟節律器pacemaker">心臟節律器（Pacemaker）<a class="anchor" href="#%e5%bf%83%e8%87%9f%e7%af%80%e5%be%8b%e5%99%a8pacemaker">#</a></h3>
+<h4 id="適應症">適應症<a class="anchor" href="#%e9%81%a9%e6%87%89%e7%97%87">#</a></h4>
 <ul>
 <li>竇房結功能障礙（最常見）：有症狀的心搏過緩</li>
 <li>AV 結/遠端傳導阻滯：Mobitz II、二度或三度 AV block</li>
 </ul>
-<h4 id="併發症">併發症</h4>
+<h4 id="併發症">併發症<a class="anchor" href="#%e4%bd%b5%e7%99%bc%e7%97%87">#</a></h4>
 <ul>
 <li>靜脈接入：氣胸、血胸、空氣栓塞</li>
 <li>導線相關：穿孔、心包膜積液、導線斷裂</li>
 <li>感染、靜脈血栓、蜂窩性組織炎</li>
 </ul>
-<h4 id="類型">類型</h4>
+<h4 id="類型">類型<a class="anchor" href="#%e9%a1%9e%e5%9e%8b">#</a></h4>
 <ul>
 <li><strong>臨時</strong>：經靜脈（頸內、鎖骨下、股）或經皮</li>
 <li><strong>永久</strong>：經靜脈進入右心房、右心室或雙心室</li>
 <li><strong>心臟再同步治療（CRT）</strong>：雙心室起搏用於 HFrEF</li>
 </ul>
-<h3 id="植入式心臟除顫器icd">植入式心臟除顫器（ICD）</h3>
+<h3 id="植入式心臟除顫器icd">植入式心臟除顫器（ICD）<a class="anchor" href="#%e6%a4%8d%e5%85%a5%e5%bc%8f%e5%bf%83%e8%87%9f%e9%99%a4%e9%a1%ab%e5%99%a8icd">#</a></h3>
 <ul>
 <li>偵測心室心搏過速/顫動並終止</li>
 <li><strong>二級預防</strong>：心臟驟停存活者</li>
 <li><strong>一級預防</strong>：LVEF &lt;30%，最佳藥物治療下仍有症狀</li>
 </ul>
-<h3 id="心導管燒灼-catheter-ablation">心導管燒灼（ catheter Ablation）</h3>
-<h4 id="方式">方式</h4>
+<h3 id="心導管燒灼-catheter-ablation">心導管燒灼（ catheter Ablation）<a class="anchor" href="#%e5%bf%83%e5%b0%8e%e7%ae%a1%e7%87%92%e7%81%bc-catheter-ablation">#</a></h3>
+<h4 id="方式">方式<a class="anchor" href="#%e6%96%b9%e5%bc%8f">#</a></h4>
 <ul>
 <li><strong>射頻（RF）燒灼</strong>：產生小、均質性壞死病變</li>
 <li><strong>冷凍燒灼</strong>：可逆性冰凍測試部位後永久性疤痕</li>
 </ul>
-<h4 id="適應症-1">適應症</h4>
+<h4 id="適應症-1">適應症<a class="anchor" href="#%e9%81%a9%e6%87%89%e7%97%87-1">#</a></h4>
 <ul>
 <li><strong>Paroxysmal SVT</strong>：AVNRT（&gt;50%）、 accessory pathway</li>
 <li><strong>心房撲動</strong>：右心房再入電路</li>
 <li><strong>AFib</strong>：肺靜脈隔離</li>
 <li><strong>Idiopathic VT</strong>：右心室或左心室出口心律失常</li>
 </ul>
-<h4 id="併發症-1">併發症</h4>
+<h4 id="併發症-1">併發症<a class="anchor" href="#%e4%bd%b5%e7%99%bc%e7%97%87-1">#</a></h4>
 <ul>
 <li>心臟：高階 AV block（需永久節律器）、新發心律不整、心包膜積液</li>
 <li>血管：血腫、血管損傷、栓塞、卒中</li>
 <li>肺：肺栓塞</li>
 </ul>
 <hr>
-<h2 id="缺血性心臟病ischemic-heart-disease">缺血性心臟病（Ischemic Heart Disease）</h2>
-<h3 id="流行病學">流行病學</h3>
+<h2 id="缺血性心臟病ischemic-heart-disease">缺血性心臟病（Ischemic Heart Disease）<a class="anchor" href="#%e7%bc%ba%e8%a1%80%e6%80%a7%e5%bf%83%e8%87%9f%e7%97%85ischemic-heart-disease">#</a></h2>
+<h3 id="流行病學">流行病學<a class="anchor" href="#%e6%b5%81%e8%a1%8c%e7%97%85%e5%ad%b8">#</a></h3>
 <ul>
 <li>心血管疾病發病率和死亡率最常見原因</li>
 <li>風險因子：男性、年齡增加、CAD 家族史、高血壓、DM、吸煙、血脂異常</li>
 <li>M:F = 2:1（年齡 &lt;40 為 8:1，&gt;70 為 1:1）</li>
 </ul>
-<h3 id="病理生理學">病理生理學</h3>
+<h3 id="病理生理學">病理生理學<a class="anchor" href="#%e7%97%85%e7%90%86%e7%94%9f%e7%90%86%e5%ad%b8">#</a></h3>
 <ul>
 <li><strong>粥狀硬化和血栓形成</strong>是最重要的致病機制</li>
 <li>內皮損傷 → 單核球浸潤 → LDL 氧化 → 泡沫細胞形成 → 斑塊形成</li>
 <li>斑塊破裂取決於：促/抗蛋白酶平衡、壞死程度、斑塊位置</li>
 </ul>
-<h3 id="風險因子">風險因子</h3>
+<h3 id="風險因子">風險因子<a class="anchor" href="#%e9%a2%a8%e9%9a%aa%e5%9b%a0%e5%ad%90">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -898,17 +923,17 @@
   </tbody>
 </table>
 <hr>
-<h3 id="慢性穩定型心絞痛chronic-stable-angina">慢性穩定型心絞痛（Chronic Stable Angina）</h3>
-<h4 id="定義-1">定義</h4>
+<h3 id="慢性穩定型心絞痛chronic-stable-angina">慢性穩定型心絞痛（Chronic Stable Angina）<a class="anchor" href="#%e6%85%a2%e6%80%a7%e7%a9%a9%e5%ae%9a%e5%9e%8b%e5%bf%83%e7%b5%9e%e7%97%9bchronic-stable-angina">#</a></h3>
+<h4 id="定義-1">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-1">#</a></h4>
 <ul>
 <li>供需失衡導致心肌氧氣需求超過供應</li>
 </ul>
-<h4 id="病理生理">病理生理</h4>
+<h4 id="病理生理">病理生理<a class="anchor" href="#%e7%97%85%e7%90%86%e7%94%9f%e7%90%86">#</a></h4>
 <ul>
 <li><strong>減少氧氣供應</strong>：管腔直徑減少（粥狀硬化、痙攣）、舒張期縮短（心搏過速）、血紅蛋白減少（貧血）、SaO₂ 降低（低氧）、先天性異常</li>
 <li><strong>增加氧氣需求</strong>：心率↑（甲狀腺毒症、運動）、收縮力↑（甲狀腺毒症）、室壁張力↑（心室肥大、主動脈瓣狹窄）</li>
 </ul>
-<h4 id="症狀">症狀</h4>
+<h4 id="症狀">症狀<a class="anchor" href="#%e7%97%87%e7%8b%80">#</a></h4>
 <ul>
 <li><strong>典型心絞痛</strong>：
 <ol>
@@ -921,7 +946,7 @@
 <li><strong>非心因性胸痛</strong>：滿足 0-1 標準</li>
 <li><strong>心絞痛等價症</strong>：呼吸困難、急性左心衰竭、突發肺水腫</li>
 </ul>
-<h4 id="評估">評估</h4>
+<h4 id="評估">評估<a class="anchor" href="#%e8%a9%95%e4%bc%b0">#</a></h4>
 <ul>
 <li><strong>病史和理學檢查</strong></li>
 <li><strong>實驗室</strong>：CBC、血糖、血脂、HbA1c、腎功能、甲狀腺功能</li>
@@ -930,7 +955,7 @@
 <li><strong>負荷試驗</strong>或<strong>血管攝影</strong></li>
 <li><strong>超聲心動圖</strong>（排除其他胸痛原因）</li>
 </ul>
-<h4 id="治療">治療</h4>
+<h4 id="治療">治療<a class="anchor" href="#%e6%b2%bb%e7%99%82">#</a></h4>
 <p><strong>一般措施</strong></p>
 <ul>
 <li>生活型態改變（飲食、運動、戒煙）</li>
@@ -978,20 +1003,20 @@
 <ul>
 <li>血管重建術（見冠狀動脈血管重建術章節）</li>
 </ul>
-<h4 id="變異型心絞痛prinzmetals-angina">變異型心絞痛（Prinzmetal&rsquo;s Angina）</h4>
+<h4 id="變異型心絞痛prinzmetals-angina">變異型心絞痛（Prinzmetal&rsquo;s Angina）<a class="anchor" href="#%e8%ae%8a%e7%95%b0%e5%9e%8b%e5%bf%83%e7%b5%9e%e7%97%9bprinzmetals-angina">#</a></h4>
 <ul>
 <li>冠狀動脈痙攣引起的缺血</li>
 <li>通常午夜至上午 8 點發生，與運動無關</li>
 <li><strong>治療</strong>：硝化物和 CCBs；強烈建議戒煙</li>
 </ul>
-<h4 id="冠狀動脈疾病-x-症候群">冠狀動脈疾病 X 症候群</h4>
+<h4 id="冠狀動脈疾病-x-症候群">冠狀動脈疾病 X 症候群<a class="anchor" href="#%e5%86%a0%e7%8b%80%e5%8b%95%e8%84%88%e7%96%be%e7%97%85-x-%e7%97%87%e5%80%99%e7%be%a4">#</a></h4>
 <ul>
 <li>有典型心絞痛症狀但血管造影正常</li>
 <li>預後比明顯心外膜粥狀硬化好</li>
 </ul>
 <hr>
-<h2 id="急性冠脈症候群acute-coronary-syndromes">急性冠脈症候群（Acute Coronary Syndromes）</h2>
-<h3 id="定義-2">定義</h3>
+<h2 id="急性冠脈症候群acute-coronary-syndromes">急性冠脈症候群（Acute Coronary Syndromes）<a class="anchor" href="#%e6%80%a5%e6%80%a7%e5%86%a0%e8%84%88%e7%97%87%e5%80%99%e7%be%a4acute-coronary-syndromes">#</a></h2>
+<h3 id="定義-2">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-2">#</a></h3>
 <ul>
 <li><strong>ACS 包括</strong>：不稳定心絞痛（UA）、NSTEMI、STEMI</li>
 </ul>
@@ -1007,12 +1032,12 @@
 <li>心肌標記物升高（TnI、TnT）</li>
 <li>加上以下任一：缺血症狀、ECG 改變（ST-T 改變、新 BBB、病理 Q 波）、影像學證據</li>
 </ul>
-<h3 id="分類">分類</h3>
+<h3 id="分類">分類<a class="anchor" href="#%e5%88%86%e9%a1%9e">#</a></h3>
 <ul>
 <li><strong>STEMI</strong>：ST 上升或新 BBB</li>
 <li><strong>NSTEMI</strong>：符合 MI 標準但無 ST 上升</li>
 </ul>
-<h3 id="診斷檢查">診斷檢查</h3>
+<h3 id="診斷檢查">診斷檢查<a class="anchor" href="#%e8%a8%ba%e6%96%b7%e6%aa%a2%e6%9f%a5">#</a></h3>
 <ul>
 <li><strong>病史和理學檢查</strong></li>
 <li><strong>心電圖</strong>：ST 改變、新 BBB</li>
@@ -1020,14 +1045,14 @@
 <li><strong>CXR</strong></li>
 <li><strong>實驗室</strong>：CBC、INR/PTT、電解質、肌酸酐、血糖、血脂</li>
 </ul>
-<h3 id="acs-管理">ACS 管理</h3>
-<h4 id="一般措施">一般措施</h4>
+<h3 id="acs-管理">ACS 管理<a class="anchor" href="#acs-%e7%ae%a1%e7%90%86">#</a></h3>
+<h4 id="一般措施">一般措施<a class="anchor" href="#%e4%b8%80%e8%88%ac%e6%8e%aa%e6%96%bd">#</a></h4>
 <ul>
 <li><strong>ABC</strong>：評估和糾正血行動力狀態</li>
 <li>臥床休息、心臟監測、氧氣</li>
 <li>硝化甘油舌下含服後靜脈注射</li>
 </ul>
-<h4 id="抗血小板和抗凝治療">抗血小板和抗凝治療</h4>
+<h4 id="抗血小板和抗凝治療">抗血小板和抗凝治療<a class="anchor" href="#%e6%8a%97%e8%a1%80%e5%b0%8f%e6%9d%bf%e5%92%8c%e6%8a%97%e5%87%9d%e6%b2%bb%e7%99%82">#</a></h4>
 <table>
   <thead>
       <tr>
@@ -1054,11 +1079,11 @@
 <ul>
 <li>Apixaban、dabigatran、rivaroxaban、edoxaban 優先於 warfarin</li>
 </ul>
-<h4 id="β-受體阻斷劑">β-受體阻斷劑</h4>
+<h4 id="β-受體阻斷劑">β-受體阻斷劑<a class="anchor" href="#%ce%b2-%e5%8f%97%e9%ab%94%e9%98%bb%e6%96%b7%e5%8a%91">#</a></h4>
 <ul>
 <li>STEMI 禁用於：心衰竭、低輸出狀態、心因性休克風險、心臟傳導阻滯、氣喘</li>
 </ul>
-<h4 id="侵入性策略">侵入性策略</h4>
+<h4 id="侵入性策略">侵入性策略<a class="anchor" href="#%e4%be%b5%e5%85%a5%e6%80%a7%e7%ad%96%e7%95%a5">#</a></h4>
 <p><strong>UA/NSTEMI</strong>：</p>
 <ul>
 <li>高風險指標（符合任一）：NSTEMI 診斷、復發性休息缺血、CHF、左心功能障礙、血行動力不穩定、高 TIMI 風險分數</li>
@@ -1069,7 +1094,7 @@
 <li><strong>首選 PCI</strong>（&lt;12 小時發病後）</li>
 <li><strong>溶栓</strong>：如 PCI 無法在 120 分鐘內進行且症狀 &lt;12 小時</li>
 </ul>
-<h4 id="timi-風險分數nstemi">TIMI 風險分數（NSTEMI）</h4>
+<h4 id="timi-風險分數nstemi">TIMI 風險分數（NSTEMI）<a class="anchor" href="#timi-%e9%a2%a8%e9%9a%aa%e5%88%86%e6%95%b8nstemi">#</a></h4>
 <table>
   <thead>
       <tr>
@@ -1109,7 +1134,7 @@
   </tbody>
 </table>
 <hr>
-<h3 id="溶栓禁忌症">溶栓禁忌症</h3>
+<h3 id="溶栓禁忌症">溶栓禁忌症<a class="anchor" href="#%e6%ba%b6%e6%a0%93%e7%a6%81%e5%bf%8c%e7%97%87">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -1153,8 +1178,8 @@
   </tbody>
 </table>
 <hr>
-<h3 id="acs-長期管理">ACS 長期管理</h3>
-<h4 id="藥物治療">藥物治療</h4>
+<h3 id="acs-長期管理">ACS 長期管理<a class="anchor" href="#acs-%e9%95%b7%e6%9c%9f%e7%ae%a1%e7%90%86">#</a></h3>
+<h4 id="藥物治療">藥物治療<a class="anchor" href="#%e8%97%a5%e7%89%a9%e6%b2%bb%e7%99%82">#</a></h4>
 <table>
   <thead>
       <tr>
@@ -1201,7 +1226,7 @@
       </tr>
   </tbody>
 </table>
-<h4 id="心肌梗塞後風險分層">心肌梗塞後風險分層</h4>
+<h4 id="心肌梗塞後風險分層">心肌梗塞後風險分層<a class="anchor" href="#%e5%bf%83%e8%82%8c%e6%a2%97%e5%a1%9e%e5%be%8c%e9%a2%a8%e9%9a%aa%e5%88%86%e5%b1%a4">#</a></h4>
 <table>
   <thead>
       <tr>
@@ -1229,16 +1254,16 @@
   </tbody>
 </table>
 <hr>
-<h2 id="冠狀動脈血管重建術">冠狀動脈血管重建術</h2>
-<h3 id="經皮冠狀動脈介入治療pci">經皮冠狀動脈介入治療（PCI）</h3>
-<h4 id="適應症-2">適應症</h4>
+<h2 id="冠狀動脈血管重建術">冠狀動脈血管重建術<a class="anchor" href="#%e5%86%a0%e7%8b%80%e5%8b%95%e8%84%88%e8%a1%80%e7%ae%a1%e9%87%8d%e5%bb%ba%e8%a1%93">#</a></h2>
+<h3 id="經皮冠狀動脈介入治療pci">經皮冠狀動脈介入治療（PCI）<a class="anchor" href="#%e7%b6%93%e7%9a%ae%e5%86%a0%e7%8b%80%e5%8b%95%e8%84%88%e4%bb%8b%e5%85%a5%e6%b2%bb%e7%99%82pci">#</a></h3>
+<h4 id="適應症-2">適應症<a class="anchor" href="#%e9%81%a9%e6%87%89%e7%97%87-2">#</a></h4>
 <ul>
 <li>藥物難治性心絞痛</li>
 <li>NSTEMI/UA 伴高風險特徵</li>
 <li>STEMI 的首選/救援 PCI</li>
 <li>CABG 禁忌或不適合的 UA/NSTEMI</li>
 </ul>
-<h4 id="技術">技術</h4>
+<h4 id="技術">技術<a class="anchor" href="#%e6%8a%80%e8%a1%93">#</a></h4>
 <ul>
 <li>球囊血管成形術</li>
 <li><strong>支架</strong>：
@@ -1248,13 +1273,13 @@
 </ul>
 </li>
 </ul>
-<h4 id="併發症-2">併發症</h4>
+<h4 id="併發症-2">併發症<a class="anchor" href="#%e4%bd%b5%e7%99%bc%e7%97%87-2">#</a></h4>
 <ul>
 <li>死亡率 &lt;1%</li>
 <li>非致死性 MI：2-3%</li>
 </ul>
-<h3 id="冠狀動脈繞道移植手術cabg">冠狀動脈繞道移植手術（CABG）</h3>
-<h4 id="適應症-3">適應症</h4>
+<h3 id="冠狀動脈繞道移植手術cabg">冠狀動脈繞道移植手術（CABG）<a class="anchor" href="#%e5%86%a0%e7%8b%80%e5%8b%95%e8%84%88%e7%b9%9e%e9%81%93%e7%a7%bb%e6%a4%8d%e6%89%8b%e8%a1%93cabg">#</a></h3>
+<h4 id="適應症-3">適應症<a class="anchor" href="#%e9%81%a9%e6%87%89%e7%97%87-3">#</a></h4>
 <ul>
 <li>左主冠狀動脈狹窄 ≥50%</li>
 <li>三支主要冠狀動脈各有 ≥70% 狹窄</li>
@@ -1262,7 +1287,7 @@
 <li>糖尿病伴多血管 CAD</li>
 <li>LV 功能障礙（LVEF 35-50%）伴顯著多血管 CAD</li>
 </ul>
-<h4 id="移植血管選擇">移植血管選擇</h4>
+<h4 id="移植血管選擇">移植血管選擇<a class="anchor" href="#%e7%a7%bb%e6%a4%8d%e8%a1%80%e7%ae%a1%e9%81%b8%e6%93%87">#</a></h4>
 <table>
   <thead>
       <tr>
@@ -1299,17 +1324,17 @@
       </tr>
   </tbody>
 </table>
-<h4 id="結果">結果</h4>
+<h4 id="結果">結果<a class="anchor" href="#%e7%b5%90%e6%9e%9c">#</a></h4>
 <ul>
 <li>perioperative 死亡率：~1%（最低風險）；~2%（所有患者）</li>
 </ul>
 <hr>
-<h2 id="心臟衰竭heart-failure">心臟衰竭（Heart Failure）</h2>
-<h3 id="定義-3">定義</h3>
+<h2 id="心臟衰竭heart-failure">心臟衰竭（Heart Failure）<a class="anchor" href="#%e5%bf%83%e8%87%9f%e8%a1%b0%e7%ab%adheart-failure">#</a></h2>
+<h3 id="定義-3">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-3">#</a></h3>
 <ul>
 <li>心臟無法維持足夠的心輸出量滿足身體需求</li>
 </ul>
-<h3 id="分類-1">分類</h3>
+<h3 id="分類-1">分類<a class="anchor" href="#%e5%88%86%e9%a1%9e-1">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -1336,14 +1361,14 @@
       </tr>
   </tbody>
 </table>
-<h3 id="病理生理-1">病理生理</h3>
+<h3 id="病理生理-1">病理生理<a class="anchor" href="#%e7%97%85%e7%90%86%e7%94%9f%e7%90%86-1">#</a></h3>
 <ul>
 <li><strong>心肌損傷</strong> → 幫浦功能障礙 → <strong>心肌重構</strong></li>
 <li>壓力負荷（HTN、AS）→ 向心性肥大</li>
 <li>容量負荷（AR）→ 偏心性擴張</li>
 <li>重構 → 前向 CO 減少 → SNS 和 RAAS 活化 → 心臟衰竭</li>
 </ul>
-<h3 id="病因-1">病因</h3>
+<h3 id="病因-1">病因<a class="anchor" href="#%e7%97%85%e5%9b%a0-1">#</a></h3>
 <ul>
 <li><strong>缺血性心臟病（60-70%）</strong></li>
 <li>高血壓</li>
@@ -1352,7 +1377,7 @@
 <li>酒精</li>
 <li>心肌炎</li>
 </ul>
-<h3 id="症狀-1">症狀</h3>
+<h3 id="症狀-1">症狀<a class="anchor" href="#%e7%97%87%e7%8b%80-1">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -1375,7 +1400,7 @@
       </tr>
   </tbody>
 </table>
-<h3 id="徵象">徵象</h3>
+<h3 id="徵象">徵象<a class="anchor" href="#%e5%be%b5%e8%b1%a1">#</a></h3>
 <ul>
 <li><strong>JVP 波形</strong>：
 <ul>
@@ -1389,7 +1414,7 @@
 <li><strong>第四心音（S4）</strong>：LVH、缺血</li>
 <li><strong>交替脈（Pulsus alternans）</strong>：嚴重 LV 功能障碍</li>
 </ul>
-<h3 id="診斷檢查-1">診斷檢查</h3>
+<h3 id="診斷檢查-1">診斷檢查<a class="anchor" href="#%e8%a8%ba%e6%96%b7%e6%aa%a2%e6%9f%a5-1">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -1416,7 +1441,7 @@
       </tr>
   </tbody>
 </table>
-<h3 id="急性肺水腫治療">急性肺水腫治療</h3>
+<h3 id="急性肺水腫治療">急性肺水腫治療<a class="anchor" href="#%e6%80%a5%e6%80%a7%e8%82%ba%e6%b0%b4%e8%85%ab%e6%b2%bb%e7%99%82">#</a></h3>
 <ul>
 <li><strong>LMNOP</strong>：
 <ul>
@@ -1429,8 +1454,8 @@
 </li>
 <li>嚴重時：Nitroprusside、hydralazine、inotropes</li>
 </ul>
-<h3 id="長期管理">長期管理</h3>
-<h4 id="藥物治療hfref">藥物治療（HFrEF）</h4>
+<h3 id="長期管理">長期管理<a class="anchor" href="#%e9%95%b7%e6%9c%9f%e7%ae%a1%e7%90%86">#</a></h3>
+<h4 id="藥物治療hfref">藥物治療（HFrEF）<a class="anchor" href="#%e8%97%a5%e7%89%a9%e6%b2%bb%e7%99%82hfref">#</a></h4>
 <table>
   <thead>
       <tr>
@@ -1472,14 +1497,14 @@
       </tr>
   </tbody>
 </table>
-<h4 id="hfpef-管理">HFpEF 管理</h4>
+<h4 id="hfpef-管理">HFpEF 管理<a class="anchor" href="#hfpef-%e7%ae%a1%e7%90%86">#</a></h4>
 <ul>
 <li>控制血壓</li>
 <li>ARB</li>
 <li>MRA（如血清 K⁺ &lt;5.0 且 eGFR &gt;30）</li>
 <li>SGLT2 抑制劑</li>
 </ul>
-<h3 id="nyha-功能分級">NYHA 功能分級</h3>
+<h3 id="nyha-功能分級">NYHA 功能分級<a class="anchor" href="#nyha-%e5%8a%9f%e8%83%bd%e5%88%86%e7%b4%9a">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -1506,7 +1531,7 @@
       </tr>
   </tbody>
 </table>
-<h3 id="手術治療">手術治療</h3>
+<h3 id="手術治療">手術治療<a class="anchor" href="#%e6%89%8b%e8%a1%93%e6%b2%bb%e7%99%82">#</a></h3>
 <ul>
 <li><strong>心臟移植</strong>：末期心衰竭</li>
 <li><strong>心室輔助裝置（VAD/LVAD）</strong></li>
@@ -1514,12 +1539,12 @@
 </ul>
 <hr>
 <hr>
-<h2 id="心肌病變cardiomyopathy">心肌病變（Cardiomyopathy）</h2>
-<h3 id="定義-4">定義</h3>
+<h2 id="心肌病變cardiomyopathy">心肌病變（Cardiomyopathy）<a class="anchor" href="#%e5%bf%83%e8%82%8c%e7%97%85%e8%ae%8acardiomyopathy">#</a></h2>
+<h3 id="定義-4">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-4">#</a></h3>
 <ul>
 <li>非由先天性、高血壓性、冠狀性、瓣膜性或心包膜疾病引起的原發性心肌疾病</li>
 </ul>
-<h3 id="分類-2">分類</h3>
+<h3 id="分類-2">分類<a class="anchor" href="#%e5%88%86%e9%a1%9e-2">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -1552,12 +1577,12 @@
   </tbody>
 </table>
 <hr>
-<h3 id="擴張型心肌病dilated-cardiomyopathy">擴張型心肌病（Dilated Cardiomyopathy）</h3>
-<h4 id="定義-5">定義</h4>
+<h3 id="擴張型心肌病dilated-cardiomyopathy">擴張型心肌病（Dilated Cardiomyopathy）<a class="anchor" href="#%e6%93%b4%e5%bc%b5%e5%9e%8b%e5%bf%83%e8%82%8c%e7%97%85dilated-cardiomyopathy">#</a></h3>
+<h4 id="定義-5">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-5">#</a></h4>
 <ul>
 <li>一側或雙側心室不明原因擴張和收縮功能障礙</li>
 </ul>
-<h4 id="病因-2">病因</h4>
+<h4 id="病因-2">病因<a class="anchor" href="#%e7%97%85%e5%9b%a0-2">#</a></h4>
 <ul>
 <li><strong>家族性/遺傳性</strong>：~60%</li>
 <li><strong>酒精</strong>：~20-30%</li>
@@ -1568,14 +1593,14 @@
 <li><strong>藥物</strong>：化療藥物（doxorubicin）、chloroquine、clozapine</li>
 <li><strong>內分泌</strong>：甲狀腺功能減退或亢進</li>
 </ul>
-<h4 id="症狀-2">症狀</h4>
+<h4 id="症狀-2">症狀<a class="anchor" href="#%e7%97%87%e7%8b%80-2">#</a></h4>
 <ul>
 <li>心臟衰竭</li>
 <li>全身或肺栓塞</li>
 <li>心律不整</li>
 <li>猝死</li>
 </ul>
-<h4 id="管理-1">管理</h4>
+<h4 id="管理-1">管理<a class="anchor" href="#%e7%ae%a1%e7%90%86-1">#</a></h4>
 <ul>
 <li>治療根本原因（如戒酒）</li>
 <li>標準心衰竭藥物治療</li>
@@ -1584,43 +1609,43 @@
 <li>高級治療：LVAD、心臟移植</li>
 </ul>
 <hr>
-<h3 id="肥厚型心肌病hypertrophic-cardiomyopathy">肥厚型心肌病（Hypertrophic Cardiomyopathy）</h3>
-<h4 id="定義-6">定義</h4>
+<h3 id="肥厚型心肌病hypertrophic-cardiomyopathy">肥厚型心肌病（Hypertrophic Cardiomyopathy）<a class="anchor" href="#%e8%82%a5%e5%8e%9a%e5%9e%8b%e5%bf%83%e8%82%8c%e7%97%85hypertrophic-cardiomyopathy">#</a></h3>
+<h4 id="定義-6">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-6">#</a></h4>
 <ul>
 <li>不明原因的左心室肥大（LVH）</li>
 <li>不對稱性室間隔肥大最常見</li>
 <li>常見：收縮期前向運動（SAM） of 二尖瓣瓣葉</li>
 </ul>
-<h4 id="病因-3">病因</h4>
+<h4 id="病因-3">病因<a class="anchor" href="#%e7%97%85%e5%9b%a0-3">#</a></h4>
 <ul>
 <li>遺傳性：<strong>&gt;400 種突變</strong>，常染色體顯性遺傳</li>
 <li>70% 致病變異發生在 MYH7 和 MYBPC3 基因</li>
 </ul>
-<h4 id="病理生理-2">病理生理</h4>
+<h4 id="病理生理-2">病理生理<a class="anchor" href="#%e7%97%85%e7%90%86%e7%94%9f%e7%90%86-2">#</a></h4>
 <ul>
 <li>組織學：肌細胞紊亂、肥大、間質纖維化</li>
 <li><strong>動態左心室出口阻塞（LVOTO）</strong> due to 室間隔肥大和 SAM</li>
 <li>舒張功能障礙</li>
 <li>供需失衡導致心肌缺血</li>
 </ul>
-<h4 id="分類-3">分類</h4>
+<h4 id="分類-3">分類<a class="anchor" href="#%e5%88%86%e9%a1%9e-3">#</a></h4>
 <ul>
 <li><strong>HOCM</strong>：靜息或誘發時 LVOT 梯度 ≥30 mmHg</li>
 <li><strong>非阻塞性 HCM</strong>（1/3）：無 LVOTO</li>
 </ul>
-<h4 id="症狀-3">症狀</h4>
+<h4 id="症狀-3">症狀<a class="anchor" href="#%e7%97%87%e7%8b%80-3">#</a></h4>
 <ul>
 <li><strong>猝死（SCD）</strong>：年輕運動員最常見猝死原因</li>
 <li>運動時呼吸困難、胸痛、暈厥</li>
 <li>心衰竭、房顫</li>
 </ul>
-<h4 id="徵象-1">徵象</h4>
+<h4 id="徵象-1">徵象<a class="anchor" href="#%e5%be%b5%e8%b1%a1-1">#</a></h4>
 <ul>
 <li><strong>頸动脉脈搏</strong>：快速上升，「尖峰-穹頂」型</li>
 <li><strong>心尖</strong>：雙重搏動、三重搏動</li>
 <li><strong>聽診</strong>：在 LLSB 或心尖粗糙的漸增-漸減菱形收縮期雜音（因 LVOTO）</li>
 </ul>
-<h4 id="治療-1">治療</h4>
+<h4 id="治療-1">治療<a class="anchor" href="#%e6%b2%bb%e7%99%82-1">#</a></h4>
 <ul>
 <li><strong>避免增加阻塞因素</strong>（如容量耗竭）</li>
 <li><strong>藥物</strong>：β-blockers、verapamil、disopyramide、mavacamten</li>
@@ -1629,25 +1654,25 @@
 <li><strong>高猝死風險</strong>：ICD</li>
 </ul>
 <hr>
-<h3 id="限制型心肌病restrictive-cardiomyopathy">限制型心肌病（Restrictive Cardiomyopathy）</h3>
-<h4 id="定義-7">定義</h4>
+<h3 id="限制型心肌病restrictive-cardiomyopathy">限制型心肌病（Restrictive Cardiomyopathy）<a class="anchor" href="#%e9%99%90%e5%88%b6%e5%9e%8b%e5%bf%83%e8%82%8c%e7%97%85restrictive-cardiomyopathy">#</a></h3>
+<h4 id="定義-7">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-7">#</a></h4>
 <ul>
 <li>心室充盈受損，收縮功能保留，非擴張或肥大</li>
 </ul>
-<h4 id="病因-4">病因</h4>
+<h4 id="病因-4">病因<a class="anchor" href="#%e7%97%85%e5%9b%a0-4">#</a></h4>
 <ul>
 <li><strong>最常見</strong>：澱粉樣變性、肉狀瘤病、血色素沉著症</li>
 <li><strong>浸潤性</strong>：澱粉樣變性、肉狀瘤病</li>
 <li><strong>非浸潤性</strong>：硬皮病、特發性心肌纖維化</li>
 <li><strong>儲存疾病</strong>：血色素沉著症、Fabry 病、Gaucher 病</li>
 </ul>
-<h4 id="症狀-4">症狀</h4>
+<h4 id="症狀-4">症狀<a class="anchor" href="#%e7%97%87%e7%8b%80-4">#</a></h4>
 <ul>
 <li>心衰竭（通常收縮功能保留）</li>
 <li>心律不整</li>
 <li>栓塞事件</li>
 </ul>
-<h4 id="管理-2">管理</h4>
+<h4 id="管理-2">管理<a class="anchor" href="#%e7%ae%a1%e7%90%86-2">#</a></h4>
 <ul>
 <li>排除狹窄性心包膜炎（可手術治療）</li>
 <li>控制心率；如有 AFib 則抗凝</li>
@@ -1655,17 +1680,17 @@
 <li>對難治性心衰竭考虑心臟移植</li>
 </ul>
 <hr>
-<h3 id="左心室心肌緻密化不全lvnc">左心室心肌緻密化不全（LVNC）</h3>
-<h4 id="定義-8">定義</h4>
+<h3 id="左心室心肌緻密化不全lvnc">左心室心肌緻密化不全（LVNC）<a class="anchor" href="#%e5%b7%a6%e5%bf%83%e5%ae%a4%e5%bf%83%e8%82%8c%e7%b7%bb%e5%af%86%e5%8c%96%e4%b8%8d%e5%85%a8lvnc">#</a></h3>
+<h4 id="定義-8">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-8">#</a></h4>
 <ul>
 <li>左心室緻密化不全導致顯著的內膜心肌小梁形成</li>
 </ul>
-<h4 id="病因-5">病因</h4>
+<h4 id="病因-5">病因<a class="anchor" href="#%e7%97%85%e5%9b%a0-5">#</a></h4>
 <ul>
 <li>遺傳性基礎（不完全清楚）</li>
 <li>可能與其他心肌病或先天性心臟病相關</li>
 </ul>
-<h4 id="臨床表現">臨床表現</h4>
+<h4 id="臨床表現">臨床表現<a class="anchor" href="#%e8%87%a8%e5%ba%8a%e8%a1%a8%e7%8f%be">#</a></h4>
 <ul>
 <li>可能無症狀</li>
 <li>心室心律不整或完全 AV block</li>
@@ -1673,14 +1698,14 @@
 <li>治療根據合併的心肌功能障礙、心律不整、先天性心臟病</li>
 </ul>
 <hr>
-<h2 id="心臟移植cardiac-transplantation">心臟移植（Cardiac Transplantation）</h2>
-<h3 id="適應症-4">適應症</h3>
+<h2 id="心臟移植cardiac-transplantation">心臟移植（Cardiac Transplantation）<a class="anchor" href="#%e5%bf%83%e8%87%9f%e7%a7%bb%e6%a4%8dcardiac-transplantation">#</a></h2>
+<h3 id="適應症-4">適應症<a class="anchor" href="#%e9%81%a9%e6%87%89%e7%97%87-4">#</a></h3>
 <ul>
 <li>儘管最大藥物治療仍嚴重心臟障礙（如復發性住院、NYHA III-IV、peak VO₂ &lt;14 mL/kg/min）</li>
 <li>藥物難治性心絞痛（LVEF &lt;20-25%）</li>
 <li>復發性有症狀心室心律不整</li>
 </ul>
-<h3 id="絕對禁忌症">絕對禁忌症</h3>
+<h3 id="絕對禁忌症">絕對禁忌症<a class="anchor" href="#%e7%b5%95%e5%b0%8d%e7%a6%81%e5%bf%8c%e7%97%87">#</a></h3>
 <ul>
 <li>活動性酒精/藥物使用障礙</li>
 <li>活動性吸煙</li>
@@ -1689,7 +1714,7 @@
 <li>不可逆轉的肺高壓（&gt;5 Wood units）</li>
 <li>嚴重 COPD（FEV1 &lt;1 L）</li>
 </ul>
-<h3 id="併發症-3">併發症</h3>
+<h3 id="併發症-3">併發症<a class="anchor" href="#%e4%bd%b5%e7%99%bc%e7%97%87-3">#</a></h3>
 <ul>
 <li><strong>排斥</strong>：移植後前 3 個月最高</li>
 <li><strong>感染</strong>：主要發病和死亡原因</li>
@@ -1698,69 +1723,69 @@
 <li><strong>心臟去神經</strong>：不響應 atropine</li>
 </ul>
 <hr>
-<h2 id="心室輔助裝置ventricular-assist-devices">心室輔助裝置（Ventricular Assist Devices）</h2>
-<h3 id="作用">作用</h3>
+<h2 id="心室輔助裝置ventricular-assist-devices">心室輔助裝置（Ventricular Assist Devices）<a class="anchor" href="#%e5%bf%83%e5%ae%a4%e8%bc%94%e5%8a%a9%e8%a3%9d%e7%bd%aeventricular-assist-devices">#</a></h2>
+<h3 id="作用">作用<a class="anchor" href="#%e4%bd%9c%e7%94%a8">#</a></h3>
 <ul>
 <li>卸載心室同時維持輸出</li>
 <li>允許心肌恢復</li>
 </ul>
-<h3 id="適應症-5">適應症</h3>
+<h3 id="適應症-5">適應症<a class="anchor" href="#%e9%81%a9%e6%87%89%e7%97%87-5">#</a></h3>
 <ul>
 <li>移植橋樑</li>
 <li>目的地治療（永久）</li>
 <li>術後機械支持</li>
 </ul>
-<h3 id="iabp主動脈內球囊泵">IABP（主動脈內球囊泵）</h3>
+<h3 id="iabp主動脈內球囊泵">IABP（主動脈內球囊泵）<a class="anchor" href="#iabp%e4%b8%bb%e5%8b%95%e8%84%88%e5%85%a7%e7%90%83%e5%9b%8a%e6%b3%b5">#</a></h3>
 <ul>
 <li>降低後負荷</li>
 <li>增加冠狀灌注</li>
 </ul>
-<h3 id="ecmo體外膜氧合">ECMO（體外膜氧合）</h3>
+<h3 id="ecmo體外膜氧合">ECMO（體外膜氧合）<a class="anchor" href="#ecmo%e9%ab%94%e5%a4%96%e8%86%9c%e6%b0%a7%e5%90%88">#</a></h3>
 <ul>
 <li><strong>VA-ECMO</strong>：心因性休克的治療</li>
 <li>生存率 ~35%</li>
 </ul>
 <hr>
-<h2 id="心臟腫瘤cardiac-tumours">心臟腫瘤（Cardiac Tumours）</h2>
-<h3 id="發生率">發生率</h3>
+<h2 id="心臟腫瘤cardiac-tumours">心臟腫瘤（Cardiac Tumours）<a class="anchor" href="#%e5%bf%83%e8%87%9f%e8%85%ab%e7%98%a4cardiac-tumours">#</a></h2>
+<h3 id="發生率">發生率<a class="anchor" href="#%e7%99%bc%e7%94%9f%e7%8e%87">#</a></h3>
 <ul>
 <li><strong>原發性</strong>：1-30/100,000 人/年</li>
 <li><strong>轉移性</strong>：10-20% 死於癌症的患者屍檢中發現</li>
 </ul>
-<h3 id="良性腫瘤">良性腫瘤</h3>
+<h3 id="良性腫瘤">良性腫瘤<a class="anchor" href="#%e8%89%af%e6%80%a7%e8%85%ab%e7%98%a4">#</a></h3>
 <ul>
 <li>~75% 原發性心臟腫瘤為良性</li>
 <li><strong>黏液瘤（Myxoma）</strong>：最常見（50%）</li>
 <li><strong>乳頭狀纖維彈性瘤（Papillary fibroelastoma）</strong>：瓣膜最常見</li>
 </ul>
-<h3 id="惡性腫瘤">惡性腫瘤</h3>
+<h3 id="惡性腫瘤">惡性腫瘤<a class="anchor" href="#%e6%83%a1%e6%80%a7%e8%85%ab%e7%98%a4">#</a></h3>
 <ul>
 <li><strong>肉瘤（Sarcoma）</strong>：最常見的原發性惡性心臟腫瘤（75%）</li>
 <li>右側腫瘤比左側更具侵襲性，更早轉移</li>
 </ul>
-<h3 id="臨床表現-1">臨床表現</h3>
+<h3 id="臨床表現-1">臨床表現<a class="anchor" href="#%e8%87%a8%e5%ba%8a%e8%a1%a8%e7%8f%be-1">#</a></h3>
 <ul>
 <li><strong>栓塞</strong>：全身或肺</li>
 <li><strong>心衰竭症狀</strong>：循環阻塞</li>
 <li><strong>瓣膜逆流</strong></li>
 <li><strong>心律不整</strong></li>
 </ul>
-<h3 id="治療-2">治療</h3>
+<h3 id="治療-2">治療<a class="anchor" href="#%e6%b2%bb%e7%99%82-2">#</a></h3>
 <ul>
 <li>良性：手術切除（黏液瘤建議切除）</li>
 <li>惡性：手術切除 + 輔助化療</li>
 <li>轉移性：根據原發腫瘤治療</li>
 </ul>
 <hr>
-<h2 id="瓣膜性心臟病valvular-heart-disease">瓣膜性心臟病（Valvular Heart Disease）</h2>
-<h3 id="主動脈瓣狹窄aortic-stenosis">主動脈瓣狹窄（Aortic Stenosis）</h3>
-<h4 id="病因-6">病因</h4>
+<h2 id="瓣膜性心臟病valvular-heart-disease">瓣膜性心臟病（Valvular Heart Disease）<a class="anchor" href="#%e7%93%a3%e8%86%9c%e6%80%a7%e5%bf%83%e8%87%9f%e7%97%85valvular-heart-disease">#</a></h2>
+<h3 id="主動脈瓣狹窄aortic-stenosis">主動脈瓣狹窄（Aortic Stenosis）<a class="anchor" href="#%e4%b8%bb%e5%8b%95%e8%84%88%e7%93%a3%e7%8b%b9%e7%aa%84aortic-stenosis">#</a></h3>
+<h4 id="病因-6">病因<a class="anchor" href="#%e7%97%85%e5%9b%a0-6">#</a></h4>
 <ul>
 <li><strong>鈣化性</strong>（退化）：最常見</li>
 <li><strong>先天性</strong>：雙葉、主葉瓣膜</li>
 <li><strong>風濕性</strong>：少見</li>
 </ul>
-<h4 id="分期">分期</h4>
+<h4 id="分期">分期<a class="anchor" href="#%e5%88%86%e6%9c%9f">#</a></h4>
 <table>
   <thead>
       <tr>
@@ -1787,22 +1812,22 @@
       </tr>
   </tbody>
 </table>
-<h4 id="病理生理-3">病理生理</h4>
+<h4 id="病理生理-3">病理生理<a class="anchor" href="#%e7%97%85%e7%90%86%e7%94%9f%e7%90%86-3">#</a></h4>
 <ul>
 <li>流出道阻塞 → LV 壓力增加 → <strong>向心性 LVH</strong> → LV衰竭、冠狀缺血</li>
 </ul>
-<h4 id="症狀-5">症狀</h4>
+<h4 id="症狀-5">症狀<a class="anchor" href="#%e7%97%87%e7%8b%80-5">#</a></h4>
 <ul>
 <li><strong>心絞痛、暈厥、呼吸困難（典型三聯徵）</strong></li>
 <li>末梢水腫</li>
 </ul>
-<h4 id="徵象-2">徵象</h4>
+<h4 id="徵象-2">徵象<a class="anchor" href="#%e5%be%b5%e8%b1%a1-2">#</a></h4>
 <ul>
 <li><strong>脈搏</strong>：狹脈壓、brachial-radial 延遲</li>
 <li><strong>PMI</strong>：持續、抬起</li>
 <li><strong>雜音</strong>：漸增-漸減菱形收縮期噴射性雜音，在右鎖骨和頸动脉放射</li>
 </ul>
-<h4 id="治療-3">治療</h4>
+<h4 id="治療-3">治療<a class="anchor" href="#%e6%b2%bb%e7%99%82-3">#</a></h4>
 <ul>
 <li><strong>無症狀</strong>：系列超聲隨訪</li>
 <li><strong>有症狀</strong>：瓣膜置換術</li>
@@ -1810,132 +1835,132 @@
 <li><strong>SAVR</strong>：年輕患者（&lt;65 歲）</li>
 </ul>
 <hr>
-<h3 id="主動脈瓣逆流aortic-regurgitation">主動脈瓣逆流（Aortic Regurgitation）</h3>
-<h4 id="病因-7">病因</h4>
+<h3 id="主動脈瓣逆流aortic-regurgitation">主動脈瓣逆流（Aortic Regurgitation）<a class="anchor" href="#%e4%b8%bb%e5%8b%95%e8%84%88%e7%93%a3%e9%80%86%e6%b5%81aortic-regurgitation">#</a></h3>
+<h4 id="病因-7">病因<a class="anchor" href="#%e7%97%85%e5%9b%a0-7">#</a></h4>
 <ul>
 <li><strong>瓣葉問題</strong>：心內膜炎、退化、風濕性疾病</li>
 <li><strong>主動脈根部問題</strong>：主動脈夾層、Marfan 症候群、強制分離</li>
 </ul>
-<h4 id="病理生理-4">病理生理</h4>
+<h4 id="病理生理-4">病理生理<a class="anchor" href="#%e7%97%85%e7%90%86%e7%94%9f%e7%90%86-4">#</a></h4>
 <ul>
 <li><strong>容量負荷</strong> → LV 擴張 → 離心性肥大</li>
 </ul>
-<h4 id="症狀-6">症狀</h4>
+<h4 id="症狀-6">症狀<a class="anchor" href="#%e7%97%87%e7%8b%80-6">#</a></h4>
 <ul>
 <li>慢性：通常無症狀多年</li>
 <li>急性：肺水腫、心因性休克</li>
 </ul>
-<h4 id="徵象-3">徵象</h4>
+<h4 id="徵象-3">徵象<a class="anchor" href="#%e5%be%b5%e8%b1%a1-3">#</a></h4>
 <ul>
 <li><strong>Waterhammer pulse</strong>（Corrigan&rsquo;s pulse）</li>
 <li><strong>Femoral-brachial SBP 差 &gt;20 mmHg</strong></li>
 <li><strong>Diastolic decrescendo murmur</strong>（左胸骨緣）</li>
 </ul>
-<h4 id="治療-4">治療</h4>
+<h4 id="治療-4">治療<a class="anchor" href="#%e6%b2%bb%e7%99%82-4">#</a></h4>
 <ul>
 <li><strong>急性</strong>：手術（藥物作為橋樑）</li>
 <li><strong>慢性嚴重 AR</strong>：手術（LVEF &lt;55%）</li>
 </ul>
 <hr>
-<h3 id="二尖瓣狹窄mitral-stenosis">二尖瓣狹窄（Mitral Stenosis）</h3>
-<h4 id="病因-8">病因</h4>
+<h3 id="二尖瓣狹窄mitral-stenosis">二尖瓣狹窄（Mitral Stenosis）<a class="anchor" href="#%e4%ba%8c%e5%b0%96%e7%93%a3%e7%8b%b9%e7%aa%84mitral-stenosis">#</a></h3>
+<h4 id="病因-8">病因<a class="anchor" href="#%e7%97%85%e5%9b%a0-8">#</a></h4>
 <ul>
 <li><strong>風濕性</strong>：最常見</li>
 </ul>
-<h4 id="病理生理-5">病理生理</h4>
+<h4 id="病理生理-5">病理生理<a class="anchor" href="#%e7%97%85%e7%90%86%e7%94%9f%e7%90%86-5">#</a></h4>
 <ul>
 <li>二尖瓣口狹窄 → <strong>LA 壓力增加</strong> → PVR 增加 → CHF</li>
 </ul>
-<h4 id="症狀-7">症狀</h4>
+<h4 id="症狀-7">症狀<a class="anchor" href="#%e7%97%87%e7%8b%80-7">#</a></h4>
 <ul>
 <li>呼吸困難、端坐呼吸、疲勞</li>
 <li>心房顫動（常見）</li>
 </ul>
-<h4 id="徵象-4">徵象</h4>
+<h4 id="徵象-4">徵象<a class="anchor" href="#%e5%be%b5%e8%b1%a1-4">#</a></h4>
 <ul>
 <li><strong>Low-pitched diastolic rumble</strong>（心尖，臥位最佳）</li>
 <li><strong>Opening snap（OS）</strong>：在 S2 後</li>
 </ul>
-<h4 id="治療-5">治療</h4>
+<h4 id="治療-5">治療<a class="anchor" href="#%e6%b2%bb%e7%99%82-5">#</a></h4>
 <ul>
 <li><strong>藥物</strong>：β-blockers（延長舒張期充盈時間）、抗凝（如有 AFib）</li>
 <li><strong>介入</strong>：二尖瓣球囊擴張術（PMBC）或手術</li>
 </ul>
 <hr>
-<h3 id="二尖瓣逆流mitral-regurgitation">二尖瓣逆流（Mitral Regurgitation）</h3>
-<h4 id="病因-9">病因</h4>
+<h3 id="二尖瓣逆流mitral-regurgitation">二尖瓣逆流（Mitral Regurgitation）<a class="anchor" href="#%e4%ba%8c%e5%b0%96%e7%93%a3%e9%80%86%e6%b5%81mitral-regurgitation">#</a></h3>
+<h4 id="病因-9">病因<a class="anchor" href="#%e7%97%85%e5%9b%a0-9">#</a></h4>
 <ul>
 <li><strong>原發性</strong>：MVP、腱索斷裂、乳頭肌功能障礙</li>
 <li><strong>繼發性</strong>：LV 擴張/缺血導致瓣環擴張</li>
 </ul>
-<h4 id="病理生理-6">病理生理</h4>
+<h4 id="病理生理-6">病理生理<a class="anchor" href="#%e7%97%85%e7%90%86%e7%94%9f%e7%90%86-6">#</a></h4>
 <ul>
 <li>容量負荷 → LV 和 LA 壓力增加 → LV 擴張</li>
 </ul>
-<h4 id="症狀-8">症狀</h4>
+<h4 id="症狀-8">症狀<a class="anchor" href="#%e7%97%87%e7%8b%80-8">#</a></h4>
 <ul>
 <li>呼吸困難、端坐呼吸、肺水腫</li>
 </ul>
-<h4 id="徵象-5">徵象</h4>
+<h4 id="徵象-5">徵象<a class="anchor" href="#%e5%be%b5%e8%b1%a1-5">#</a></h4>
 <ul>
 <li><strong>Holosystolic murmur</strong>（心尖，放射至腋下）</li>
 <li><strong>S3</strong></li>
 </ul>
-<h4 id="治療-6">治療</h4>
+<h4 id="治療-6">治療<a class="anchor" href="#%e6%b2%bb%e7%99%82-6">#</a></h4>
 <ul>
 <li><strong>急性</strong>：血管舒張劑、IABP</li>
 <li><strong>慢性</strong>：手術（二尖瓣修復首選）</li>
 </ul>
 <hr>
-<h3 id="三尖瓣疾病tricuspid-disease">三尖瓣疾病（Tricuspid Disease）</h3>
-<h4 id="三尖瓣狹窄">三尖瓣狹窄</h4>
+<h3 id="三尖瓣疾病tricuspid-disease">三尖瓣疾病（Tricuspid Disease）<a class="anchor" href="#%e4%b8%89%e5%b0%96%e7%93%a3%e7%96%be%e7%97%85tricuspid-disease">#</a></h3>
+<h4 id="三尖瓣狹窄">三尖瓣狹窄<a class="anchor" href="#%e4%b8%89%e5%b0%96%e7%93%a3%e7%8b%b9%e7%aa%84">#</a></h4>
 <ul>
 <li>罕見，常為風濕性</li>
 <li>症狀：週邊水腫、疲勞</li>
 <li>治療：利尿劑、手術</li>
 </ul>
-<h4 id="三尖瓣逆流">三尖瓣逆流</h4>
+<h4 id="三尖瓣逆流">三尖瓣逆流<a class="anchor" href="#%e4%b8%89%e5%b0%96%e7%93%a3%e9%80%86%e6%b5%81">#</a></h4>
 <ul>
 <li><strong>病因</strong>：右心室擴張（因肺高壓、LV 功能障礙）、心內膜炎（靜脈藥物使用）</li>
 <li><strong>徵象</strong>：JVP 顯著 v 波、Kussmaul&rsquo;s sign</li>
 <li><strong>治療</strong>：治療根本原因；嚴重時手術</li>
 </ul>
 <hr>
-<h3 id="肺動脈瓣疾病pulmonary-valve-disease">肺動脈瓣疾病（Pulmonary Valve Disease）</h3>
-<h4 id="肺動脈瓣狹窄">肺動脈瓣狹窄</h4>
+<h3 id="肺動脈瓣疾病pulmonary-valve-disease">肺動脈瓣疾病（Pulmonary Valve Disease）<a class="anchor" href="#%e8%82%ba%e5%8b%95%e8%84%88%e7%93%a3%e7%96%be%e7%97%85pulmonary-valve-disease">#</a></h3>
+<h4 id="肺動脈瓣狹窄">肺動脈瓣狹窄<a class="anchor" href="#%e8%82%ba%e5%8b%95%e8%84%88%e7%93%a3%e7%8b%b9%e7%aa%84">#</a></h4>
 <ul>
 <li>通常先天性</li>
 <li>治療：球囊瓣膜成形術</li>
 </ul>
-<h4 id="肺動脈瓣逆流">肺動脈瓣逆流</h4>
+<h4 id="肺動脈瓣逆流">肺動脈瓣逆流<a class="anchor" href="#%e8%82%ba%e5%8b%95%e8%84%88%e7%93%a3%e9%80%86%e6%b5%81">#</a></h4>
 <ul>
 <li>最常見於法洛氏四聯症術後</li>
 <li>治療：肺動脈瓣置換（嚴重時）</li>
 </ul>
 <hr>
-<h3 id="二尖瓣脫垂mvp">二尖瓣脫垂（MVP）</h3>
-<h4 id="定義-9">定義</h4>
+<h3 id="二尖瓣脫垂mvp">二尖瓣脫垂（MVP）<a class="anchor" href="#%e4%ba%8c%e5%b0%96%e7%93%a3%e8%84%ab%e5%9e%82mvp">#</a></h3>
+<h4 id="定義-9">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-9">#</a></h4>
 <ul>
 <li>瓣葉在收縮期脫垂進入左心房</li>
 </ul>
-<h4 id="病因-10">病因</h4>
+<h4 id="病因-10">病因<a class="anchor" href="#%e7%97%85%e5%9b%a0-10">#</a></h4>
 <ul>
 <li>黏液瘤性退化（最常見）</li>
 <li>瓣葉增厚、冗長</li>
 </ul>
-<h4 id="徵象-6">徵象</h4>
+<h4 id="徵象-6">徵象<a class="anchor" href="#%e5%be%b5%e8%b1%a1-6">#</a></h4>
 <ul>
 <li><strong>Mid-systolic click</strong>（特徵性）</li>
 <li>之後可能跟隨晚期收縮期雜音</li>
 </ul>
-<h4 id="治療-7">治療</h4>
+<h4 id="治療-7">治療<a class="anchor" href="#%e6%b2%bb%e7%99%82-7">#</a></h4>
 <ul>
 <li>無症狀：通常無需治療</li>
 <li>有症狀：β-blockers</li>
 <li>顯著 MR：手術修復</li>
 </ul>
 <hr>
-<h3 id="瓣膜置換選擇">瓣膜置換選擇</h3>
+<h3 id="瓣膜置換選擇">瓣膜置換選擇<a class="anchor" href="#%e7%93%a3%e8%86%9c%e7%bd%ae%e6%8f%9b%e9%81%b8%e6%93%87">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -1967,13 +1992,13 @@
   </tbody>
 </table>
 <hr>
-<h2 id="心包膜疾病pericardial-disease">心包膜疾病（Pericardial Disease）</h2>
-<h3 id="急性心包膜炎">急性心包膜炎</h3>
-<h4 id="定義-10">定義</h4>
+<h2 id="心包膜疾病pericardial-disease">心包膜疾病（Pericardial Disease）<a class="anchor" href="#%e5%bf%83%e5%8c%85%e8%86%9c%e7%96%be%e7%97%85pericardial-disease">#</a></h2>
+<h3 id="急性心包膜炎">急性心包膜炎<a class="anchor" href="#%e6%80%a5%e6%80%a7%e5%bf%83%e5%8c%85%e8%86%9c%e7%82%8e">#</a></h3>
+<h4 id="定義-10">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-10">#</a></h4>
 <ul>
 <li>心包的炎症，伴或不伴心包膜積液</li>
 </ul>
-<h4 id="病因-11">病因</h4>
+<h4 id="病因-11">病因<a class="anchor" href="#%e7%97%85%e5%9b%a0-11">#</a></h4>
 <ul>
 <li><strong>特發性</strong>（最常見，假定為病毒性）</li>
 <li><strong>病毒</strong>：Coxsackie A、B（最常見）、echovirus</li>
@@ -1982,7 +2007,7 @@
 <li><strong>尿毒症</strong></li>
 <li><strong>免疫相關</strong>：SLE、類風濕性關節炎</li>
 </ul>
-<h4 id="臨床表現-2">臨床表現</h4>
+<h4 id="臨床表現-2">臨床表現<a class="anchor" href="#%e8%87%a8%e5%ba%8a%e8%a1%a8%e7%8f%be-2">#</a></h4>
 <ul>
 <li><strong>四個主要診斷標準</strong>：
 <ol>
@@ -1993,110 +2018,110 @@
 </ol>
 </li>
 </ul>
-<h4 id="治療-8">治療</h4>
+<h4 id="治療-8">治療<a class="anchor" href="#%e6%b2%bb%e7%99%82-8">#</a></h4>
 <ul>
 <li><strong>NSAIDs</strong> + <strong>Colchicine</strong></li>
 <li>皮質類固醇（難治性或特殊情況）</li>
 <li>治療根本原因</li>
 </ul>
 <hr>
-<h3 id="心包膜積液pericardial-effusion">心包膜積液（Pericardial Effusion）</h3>
-<h4 id="定義-11">定義</h4>
+<h3 id="心包膜積液pericardial-effusion">心包膜積液（Pericardial Effusion）<a class="anchor" href="#%e5%bf%83%e5%8c%85%e8%86%9c%e7%a9%8d%e6%b6%b2pericardial-effusion">#</a></h3>
+<h4 id="定義-11">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-11">#</a></h4>
 <ul>
 <li>心包膜腔液體積聚（正常 10-50 mL）</li>
 </ul>
-<h4 id="病因-12">病因</h4>
+<h4 id="病因-12">病因<a class="anchor" href="#%e7%97%85%e5%9b%a0-12">#</a></h4>
 <ul>
 <li>特發性（高達 50%）</li>
 <li>腫瘤（10-25%）</li>
 <li>感染（15-30%）</li>
 <li>甲狀腺機能減退</li>
 </ul>
-<h4 id="徵象-7">徵象</h4>
+<h4 id="徵象-7">徵象<a class="anchor" href="#%e5%be%b5%e8%b1%a1-7">#</a></h4>
 <ul>
 <li><strong>症狀</strong>：呼吸困難、胸痛、端坐呼吸</li>
 <li><strong>理學</strong>：心音遙遠、JVP 增加、奇脈</li>
 <li><strong>心電圖</strong>：低電壓、 electrical alternans</li>
 </ul>
-<h4 id="治療-9">治療</h4>
+<h4 id="治療-9">治療<a class="anchor" href="#%e6%b2%bb%e7%99%82-9">#</a></h4>
 <ul>
 <li>治療根本原因</li>
 <li>炎症跡象：NSAIDs、colchicine</li>
 <li>大或有症狀積液：心包膜穿刺引流</li>
 </ul>
 <hr>
-<h3 id="心臟填塞cardiac-tamponade">心臟填塞（Cardiac Tamponade）</h3>
-<h4 id="定義-12">定義</h4>
+<h3 id="心臟填塞cardiac-tamponade">心臟填塞（Cardiac Tamponade）<a class="anchor" href="#%e5%bf%83%e8%87%9f%e5%a1%ab%e5%a1%9ecardiac-tamponade">#</a></h3>
+<h4 id="定義-12">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-12">#</a></h4>
 <ul>
 <li>心包液/膿/血蓄積導致心臟致命性壓迫</li>
 </ul>
-<h4 id="病理生理-7">病理生理</h4>
+<h4 id="病理生理-7">病理生理<a class="anchor" href="#%e7%97%85%e7%90%86%e7%94%9f%e7%90%86-7">#</a></h4>
 <ul>
 <li>心包內壓增加 → 靜脈回流減少 → 舒張期心室充盈減少 → CO 減少 → 低血壓和靜脈充血</li>
 </ul>
-<h4 id="經典型三聯徵becks-triad">經典型三聯徵（Beck&rsquo;s Triad）</h4>
+<h4 id="經典型三聯徵becks-triad">經典型三聯徵（Beck&rsquo;s Triad）<a class="anchor" href="#%e7%b6%93%e5%85%b8%e5%9e%8b%e4%b8%89%e8%81%af%e5%be%b5becks-triad">#</a></h4>
 <ol>
 <li><strong>低血壓</strong></li>
 <li><strong>頸靜脈怒張</strong></li>
 <li><strong>心音遙遠</strong></li>
 </ol>
-<h4 id="徵象-8">徵象</h4>
+<h4 id="徵象-8">徵象<a class="anchor" href="#%e5%be%b5%e8%b1%a1-8">#</a></h4>
 <ul>
 <li><strong>奇脈（Pulsus paradoxus）</strong>：吸氣時 sBP 下降 &gt;10 mmHg</li>
 <li><strong>Kussmaul&rsquo;s sign</strong>：吸氣時 JVP  paradoxically 上升</li>
 </ul>
-<h4 id="治療-10">治療</h4>
+<h4 id="治療-10">治療<a class="anchor" href="#%e6%b2%bb%e7%99%82-10">#</a></h4>
 <ul>
 <li><strong>緊急引流</strong>：心包膜穿刺引流（超聲或螢光透視引導）</li>
 <li><strong>避免</strong>：利尿劑、血管舒張劑、機械通氣</li>
 </ul>
 <hr>
-<h3 id="狹窄性心包膜炎constrictive-pericarditis">狹窄性心包膜炎（Constrictive Pericarditis）</h3>
-<h4 id="定義-13">定義</h4>
+<h3 id="狹窄性心包膜炎constrictive-pericarditis">狹窄性心包膜炎（Constrictive Pericarditis）<a class="anchor" href="#%e7%8b%b9%e7%aa%84%e6%80%a7%e5%bf%83%e5%8c%85%e8%86%9c%e7%82%8econstrictive-pericarditis">#</a></h3>
+<h4 id="定義-13">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-13">#</a></h4>
 <ul>
 <li>心包膜彈性喪失導致心室充盈受限</li>
 </ul>
-<h4 id="病因-13">病因</h4>
+<h4 id="病因-13">病因<a class="anchor" href="#%e7%97%85%e5%9b%a0-13">#</a></h4>
 <ul>
 <li>慢性心包膜炎後纖維化、增厚、粘連、鈣化</li>
 <li>特發性、病毒性、結核性、放射後、尿毒症</li>
 </ul>
-<h4 id="病理生理-8">病理生理</h4>
+<h4 id="病理生理-8">病理生理<a class="anchor" href="#%e7%97%85%e7%90%86%e7%94%9f%e7%90%86-8">#</a></h4>
 <ul>
 <li>僵硬的心包膜 → 舒張期心室充盈受損 → 全身靜脈充血 → 右心衰竭表現</li>
 </ul>
-<h4 id="徵象-9">徵象</h4>
+<h4 id="徵象-9">徵象<a class="anchor" href="#%e5%be%b5%e8%b1%a1-9">#</a></h4>
 <ul>
 <li><strong>呼吸困難、疲勞、腹水、肝脾腫大</strong></li>
 <li><strong>Kussmaul&rsquo;s sign</strong></li>
 <li><strong>心包叩擊音（Pericardial knock）</strong>：早期舒張音</li>
 </ul>
-<h4 id="治療-11">治療</h4>
+<h4 id="治療-11">治療<a class="anchor" href="#%e6%b2%bb%e7%99%82-11">#</a></h4>
 <ul>
 <li><strong>手術（心包膜切除術）</strong>：主要治療</li>
 <li><strong>藥物</strong>：對特定病原（如結核）可用抗炎藥</li>
 </ul>
 <hr>
-<h2 id="心臟外科">心臟外科</h2>
-<h3 id="體外循環cardiopulmonary-bypass">體外循環（Cardiopulmonary Bypass）</h3>
-<h4 id="組成部分">組成部分</h4>
+<h2 id="心臟外科">心臟外科<a class="anchor" href="#%e5%bf%83%e8%87%9f%e5%a4%96%e7%a7%91">#</a></h2>
+<h3 id="體外循環cardiopulmonary-bypass">體外循環（Cardiopulmonary Bypass）<a class="anchor" href="#%e9%ab%94%e5%a4%96%e5%be%aa%e7%92%b0cardiopulmonary-bypass">#</a></h3>
+<h4 id="組成部分">組成部分<a class="anchor" href="#%e7%b5%84%e6%88%90%e9%83%a8%e5%88%86">#</a></h4>
 <ul>
 <li><strong>动脉導管</strong>（主動脈、股动脉或腋动脉）</li>
 <li><strong>氧合器</strong>（膜氧合器、加熱/冷卻器）</li>
 <li><strong>泵</strong>（滾筒泵或離心泵）</li>
 <li><strong>靜脈導管</strong>（RA、SVC/IVC 或股静脉）</li>
 </ul>
-<h4 id="機制">機制</h4>
+<h4 id="機制">機制<a class="anchor" href="#%e6%a9%9f%e5%88%b6">#</a></h4>
 <ul>
 <li>靜脈血排入靜脈儲槽 → 氧合 → 加熱/冷卻 → 通過动脉導管回输</li>
 </ul>
-<h4 id="抗凝">抗凝</h4>
+<h4 id="抗凝">抗凝<a class="anchor" href="#%e6%8a%97%e5%87%9d">#</a></h4>
 <ul>
 <li><strong>Heparin</strong>：ACT &gt;400-480 秒</li>
 <li><strong>Protamine</strong>：逆轉肝素</li>
 </ul>
 <hr>
-<h2 id="心電圖快速參考表">心電圖快速參考表</h2>
+<h2 id="心電圖快速參考表">心電圖快速參考表<a class="anchor" href="#%e5%bf%83%e9%9b%bb%e5%9c%96%e5%bf%ab%e9%80%9f%e5%8f%83%e8%80%83%e8%a1%a8">#</a></h2>
 <table>
   <thead>
       <tr>
@@ -2157,5 +2182,19 @@
   <footer>
     <p>Powered by Hugo | Toronto Notes 2025 繁體中文翻譯</p>
   </footer>
+  <script>
+    function toggleTheme() {
+      const html = document.documentElement;
+      const current = html.getAttribute('data-theme');
+      const next = current === 'dark' ? 'light' : 'dark';
+      html.setAttribute('data-theme', next);
+      localStorage.setItem('theme', next);
+    }
+    const saved = localStorage.getItem('theme');
+    if (saved) document.documentElement.setAttribute('data-theme', saved);
+    else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+      document.documentElement.setAttribute('data-theme', 'dark');
+    }
+  </script>
 </body>
 </html>

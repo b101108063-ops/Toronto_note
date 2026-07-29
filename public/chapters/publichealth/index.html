@@ -3,33 +3,57 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>CH09 公共衛生學（Public Health and Preventive Medicine） - Toronto Notes 2025 繁體中文</title>
+  <title>Public Health 公共衛生學 - Toronto Notes 2025 繁體中文</title>
   <style>
+    :root {
+      --bg-primary: #ffffff;
+      --bg-secondary: #f8fafc;
+      --text-primary: #1e293b;
+      --text-secondary: #64748b;
+      --accent: #2563eb;
+      --border: #e2e8f0;
+      --code-bg: #f1f5f9;
+      --link: #2563eb;
+      --link-visited: #5500bb;
+    }
+    [data-theme="dark"] {
+      --bg-primary: #1a1a2e;
+      --bg-secondary: #16162a;
+      --text-primary: #e4e4e7;
+      --text-secondary: #a1a1aa;
+      --accent: #93c5fd;
+      --border: #3f3f46;
+      --code-bg: #27272a;
+      --link: #93c5fd;
+      --link-visited: #c4b5fd;
+    }
     * { box-sizing: border-box; }
-    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; line-height: 1.6; color: #333; max-width: 900px; margin: 0 auto; padding: 20px; }
-    header { border-bottom: 2px solid #2563eb; padding-bottom: 10px; margin-bottom: 20px; }
-    header h1 { margin: 0; font-size: 1.5em; color: #2563eb; }
-    nav a { margin-right: 15px; color: #2563eb; text-decoration: none; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; line-height: 1.6; color: var(--text-primary); background: var(--bg-primary); max-width: 900px; margin: 0 auto; padding: 20px; }
+    header { border-bottom: 2px solid var(--accent); padding-bottom: 10px; margin-bottom: 20px; display: flex; justify-content: space-between; align-items: center; }
+    header h1 { margin: 0; font-size: 1.5em; color: var(--accent); }
+    nav a { margin-right: 15px; color: var(--link); text-decoration: none; }
     nav a:hover { text-decoration: underline; }
-    h1, h2, h3 { color: #1e293b; }
-    h1 { font-size: 1.8em; border-bottom: 1px solid #e2e8f0; padding-bottom: 8px; }
-    h2 { font-size: 1.4em; border-bottom: 1px solid #e2e8f0; padding-bottom: 5px; }
+    h1, h2, h3 { color: var(--text-primary); }
+    h1 { font-size: 1.8em; border-bottom: 1px solid var(--border); padding-bottom: 8px; }
+    h2 { font-size: 1.4em; border-bottom: 1px solid var(--border); padding-bottom: 5px; }
     h3 { font-size: 1.15em; }
-    pre { background: #f1f5f9; padding: 15px; border-radius: 6px; overflow-x: auto; }
-    code { background: #f1f5f9; padding: 2px 5px; border-radius: 3px; font-size: 0.9em; }
+    pre { background: var(--code-bg); padding: 15px; border-radius: 6px; overflow-x: auto; }
+    code { background: var(--code-bg); padding: 2px 5px; border-radius: 3px; font-size: 0.9em; }
     pre code { background: none; padding: 0; }
-    blockquote { border-left: 4px solid #2563eb; margin: 0; padding: 5px 15px; color: #64748b; background: #f8fafc; }
+    blockquote { border-left: 4px solid var(--accent); margin: 0; padding: 5px 15px; color: var(--text-secondary); background: var(--bg-secondary); }
     table { border-collapse: collapse; width: 100%; margin: 15px 0; }
-    th, td { border: 1px solid #cbd5e1; padding: 8px 12px; text-align: left; }
-    th { background: #f1f5f9; font-weight: 600; }
-    tr:nth-child(even) { background: #f8fafc; }
+    th, td { border: 1px solid var(--border); padding: 8px 12px; text-align: left; }
+    th { background: var(--bg-secondary); font-weight: 600; }
+    tr:nth-child(even) { background: var(--bg-secondary); }
     .content-body { line-height: 1.8; }
-    footer { border-top: 1px solid #e2e8f0; margin-top: 30px; padding-top: 15px; color: #64748b; font-size: 0.9em; }
-    .breadcrumb { font-size: 0.9em; color: #64748b; margin-bottom: 15px; }
-    .breadcrumb a { color: #2563eb; text-decoration: none; }
-    a { color: #2563eb; }
+    footer { border-top: 1px solid var(--border); margin-top: 30px; padding-top: 15px; color: var(--text-secondary); font-size: 0.9em; }
+    .breadcrumb { font-size: 0.9em; color: var(--text-secondary); margin-bottom: 15px; }
+    .breadcrumb a { color: var(--link); text-decoration: none; }
+    a { color: var(--link); }
     a:hover { text-decoration: underline; }
     img { max-width: 100%; height: auto; }
+    .theme-toggle { background: none; border: 1px solid var(--border); color: var(--text-primary); cursor: pointer; padding: 4px 10px; border-radius: 4px; font-size: 0.85em; }
+    .theme-toggle:hover { background: var(--bg-secondary); }
   </style>
 </head>
 <body>
@@ -38,16 +62,17 @@
       <a href="https://b101108063-ops.github.io/Toronto_note/">首頁</a>
       <a href="/Toronto_note/categories/">章節</a>
     </nav>
+    <button class="theme-toggle" onclick="toggleTheme()">🌙 暗色</button>
   </header>
 
   <main>
     <div class="breadcrumb">
-      <a href="https://b101108063-ops.github.io/Toronto_note/">首頁</a> &gt; <a href="/Toronto_note/chapters/">Chapters</a> &gt; <a href="/Toronto_note/">Toronto Notes 2025 繁體中文</a> &gt; CH09 公共衛生學（Public Health and Preventive Medicine）
+      <a href="https://b101108063-ops.github.io/Toronto_note/">首頁</a> &gt; <a href="/Toronto_note/chapters/">Chapters</a> &gt; <a href="/Toronto_note/">Toronto Notes 2025 繁體中文</a> &gt; Public Health 公共衛生學
     </div>
     <article>
-      <h1>CH09 公共衛生學（Public Health and Preventive Medicine）</h1>
+      <h1>Public Health 公共衛生學</h1>
       <div class="content-body">
-        <h2 id="章節導讀">章節導讀</h2>
+        <h2 id="章節導讀">章節導讀<a class="anchor" href="#%e7%ab%a0%e7%af%80%e5%b0%8e%e8%ae%80">#</a></h2>
 <ul>
 <li><strong>公共衛生涵蓋範圍</strong>：人口健康促進、疾病預防、健康保護，整合生物、社會、環境及行為因素</li>
 <li><strong>流行病學核心概念</strong>：incidence、prevalence、sensitivity、specificity、PPV、NPV 等指標，用於評估篩檢與介入成效</li>
@@ -56,10 +81,10 @@
 <li><strong>研究方法與證據等級</strong>：從 case-control、cohort 到 RCT 與 meta-analysis，臨床試驗品質決定推薦強度</li>
 </ul>
 <hr>
-<h2 id="公共衛生學概論">公共衛生學概論</h2>
-<h3 id="公共衛生-context">公共衛生 context</h3>
+<h2 id="公共衛生學概論">公共衛生學概論<a class="anchor" href="#%e5%85%ac%e5%85%b1%e8%a1%9b%e7%94%9f%e5%ad%b8%e6%a6%82%e8%ab%96">#</a></h2>
+<h3 id="公共衛生-context">公共衛生 context<a class="anchor" href="#%e5%85%ac%e5%85%b1%e8%a1%9b%e7%94%9f-context">#</a></h3>
 <p>請另見 Ethical, Legal, and Organizational Medicine（ELOM）章節中加拿大醫療體系的組織、歷史背景與法規基礎。</p>
-<h3 id="定義">定義</h3>
+<h3 id="定義">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9">#</a></h3>
 <p><strong>Population health（人口健康）</strong></p>
 <ul>
 <li>指特定群體的健康狀態、健康決定因子、趨勢及健康不平等</li>
@@ -81,7 +106,7 @@
 <li>測量人群健康需求，發展改善健康與福祉的策略，透過健康促進、疾病預防及健康保護，同時關注 SDOH 並促進健康公平</li>
 <li>為期 5 年的 Royal College 訓練，涵蓋醫學技能與知識、流行病學、統計學、社會科學、公共行政、政策制定、計畫管理與領導</li>
 </ul>
-<h3 id="加拿大的公共衛生">加拿大的公共衛生</h3>
+<h3 id="加拿大的公共衛生">加拿大的公共衛生<a class="anchor" href="#%e5%8a%a0%e6%8b%bf%e5%a4%a7%e7%9a%84%e5%85%ac%e5%85%b1%e8%a1%9b%e7%94%9f">#</a></h3>
 <p>加拿大公共衛生體系由聯邦（Public Health Agency of Canada）、省級（如 Public Health Ontario）及地方/市政層級（地方公共衛生單位）的多個機構組成。各省公共衛生體系差異很大，通常與醫療服務系統分開運作。</p>
 <p><strong>Public Health Agency of Canada（PHAC）使命</strong>：透過公共衛生領域的領導、合作、創新、備災與行動，促進與保護加拿大人的健康。</p>
 <p>地方公共衛生單位（在大多數省份隸屬區域衛生局，Ontario 除外，則為自主單位或隸屬地方政府）提供地方與區域層級的健康保護、促進與疾病預防計畫與活動。服務範圍人口從數百人到數百萬人不等，面積達 15 至 150 萬平方公里。</p>
@@ -94,8 +119,8 @@
 <li><strong>Health promotion（健康促進）</strong>：倡議透過廣泛社區與政府措施（政策、介入、社區組織）改善健康</li>
 <li><strong>Emergency preparedness and response（緊急備災與應變）</strong>：為自然（如颶風）與人為（如鴉片危機）災難開發應變協定與基礎設施。在多種健康相關災難中，公共衛生主導或提供應變協調</li>
 </ol>
-<h3 id="法規架構">法規架構</h3>
-<h4 id="聯邦層級">聯邦層級</h4>
+<h3 id="法規架構">法規架構<a class="anchor" href="#%e6%b3%95%e8%a6%8f%e6%9e%b6%e6%a7%8b">#</a></h3>
+<h4 id="聯邦層級">聯邦層級<a class="anchor" href="#%e8%81%af%e9%82%a6%e5%b1%a4%e7%b4%9a">#</a></h4>
 <table>
   <thead>
       <tr>
@@ -122,7 +147,7 @@
       </tr>
   </tbody>
 </table>
-<h4 id="省級層級以-ontario-為例">省級層級（以 Ontario 為例）</h4>
+<h4 id="省級層級以-ontario-為例">省級層級（以 Ontario 為例）<a class="anchor" href="#%e7%9c%81%e7%b4%9a%e5%b1%a4%e7%b4%9a%e4%bb%a5-ontario-%e7%82%ba%e4%be%8b">#</a></h4>
 <ul>
 <li><strong>Health Protection and Promotion Act（HPPA）</strong>：指定公共衛生服務提供之地理區域；賦予 Chief Medical Officer of Health 控制公共衛生危害的權力</li>
 <li><strong>Ontario Public Health Standards</strong>：規範地方公共衛生單位必須提供的計畫與服務</li>
@@ -138,7 +163,7 @@
 <li>地方健康狀態報告之收集與發布</li>
 <li>口腔健康</li>
 </ul>
-<h3 id="歷史演變">歷史演變</h3>
+<h3 id="歷史演變">歷史演變<a class="anchor" href="#%e6%ad%b7%e5%8f%b2%e6%bc%94%e8%ae%8a">#</a></h3>
 <p>過去一個世紀以來，公共衛生的焦點已有所演變：</p>
 <ul>
 <li><strong>傳染病</strong>：在低所得與中等所得國家皆為重要議題，含新病原引起的新興疾病、不當抗生素使用、旅遊、氣候變遷（如 HIV、 drug-resistant TB、COVID-19），以及邊緣化社區（ Indigenous、Black 及有色人種社區）所承受的危機與貧窮</li>
@@ -146,8 +171,8 @@
 <li><strong>社會健康決定因子</strong>：1980 年代以來累積的證據顯示，普及醫療服務並未消除健康不平等，健康改善必須「往上游」透過政策行動達成</li>
 </ul>
 <hr>
-<h2 id="健康決定因子">健康決定因子</h2>
-<h3 id="健康概念">健康概念</h3>
+<h2 id="健康決定因子">健康決定因子<a class="anchor" href="#%e5%81%a5%e5%ba%b7%e6%b1%ba%e5%ae%9a%e5%9b%a0%e5%ad%90">#</a></h2>
+<h3 id="健康概念">健康概念<a class="anchor" href="#%e5%81%a5%e5%ba%b7%e6%a6%82%e5%bf%b5">#</a></h3>
 <ul>
 <li><strong>Wellness（健康）</strong>：個人能充分發揮潛能、享受生活的動態身心靈社會良好狀態</li>
 <li><strong>Disease（疾病）</strong>：病理過程，可能有或無症狀，導致病人生病</li>
@@ -162,7 +187,7 @@
 <p><strong>Health equality（健康平等）</strong>：指群體間健康狀態相同或相似，不必然帶有道德判斷。</p>
 <p><strong>Health intersectionality（健康交叉性）</strong>：個人各種社會身份（如種族、體重、性別、階級、能力等）可結合與重疊，產生獨特的健康歧視與/或特權體驗。</p>
 <p><strong>Health stigma（健康污名）</strong>：將個人身份縮減為對其健康狀態的負面刻板印象（如體重污名），可能限制病人信任、醫療品質與可近性。</p>
-<h3 id="健康決定因子-1">健康決定因子</h3>
+<h3 id="健康決定因子-1">健康決定因子<a class="anchor" href="#%e5%81%a5%e5%ba%b7%e6%b1%ba%e5%ae%9a%e5%9b%a0%e5%ad%90-1">#</a></h3>
 <p>1974 年，聯邦衛生部長 Marc Lalonde 發布《A New Perspective on the Health of Canadians》，提出決定健康的四大因素：「生物因素、環境、生活型態與醫療組織」。此後健康決定因子概念已擴展與精煉，納入更多因素。</p>
 <p>2023 年 WHO 定義 SDOH 為「影響健康結果的非醫療因素」，包括「人們出生、生長、工作、生活、老化的條件，以及塑造日常生活條件的更廣泛力量與體系」。</p>
 <p><strong>健康決定因子包括</strong>：</p>
@@ -181,7 +206,7 @@
 <li>暴露於殖民與種族偏見</li>
 <li>種族主義</li>
 </ul>
-<h3 id="文化相關概念">文化相關概念</h3>
+<h3 id="文化相關概念">文化相關概念<a class="anchor" href="#%e6%96%87%e5%8c%96%e7%9b%b8%e9%97%9c%e6%a6%82%e5%bf%b5">#</a></h3>
 <ul>
 <li><strong>Cultural humility（文化謙遜）</strong>：一種以謙遜承認自己是學習者的方式對待醫療照護，這是一個終身學習與自我反思的過程</li>
 <li><strong>Cultural safety（文化安全）</strong>：由毛利護理科學家 Dr. Irihapeti Ramsden 於 1980 年代提出，「關注護理師與被照護者之間的權力關係」，照護接受者被賦權決定什麼是文化安全的，而非被動服從護理師或其他健康專業人員的權威</li>
@@ -189,7 +214,7 @@
 <li><strong>Cultural sensitivity（文化敏感度）</strong>：認識到文化間差異且認為這些差異在醫療照護中需要被重視</li>
 <li><strong>Cultural competency（文化能力）</strong>：著重於從業人員習得技能、知識與態度，以更有效且尊重的方式與不同文化背景者（含原住民）合作</li>
 </ul>
-<h3 id="ottawa-健康促進憲章1986">Ottawa 健康促進憲章（1986）</h3>
+<h3 id="ottawa-健康促進憲章1986">Ottawa 健康促進憲章（1986）<a class="anchor" href="#ottawa-%e5%81%a5%e5%ba%b7%e4%bf%83%e9%80%b2%e6%86%b2%e7%ab%a01986">#</a></h3>
 <p><strong>Health promotion（健康促進）</strong>：使人們能夠增加對自身健康的控制並改善健康的過程。</p>
 <p>健康促進可透過與病人的臨床互動達成，但大部分由公共衛生專業人員與機構在人口層級進行，透過利害關係人參與、政策制定與上游因素影響。</p>
 <p>Ottawa 憲章指出，政府與醫療服務提供者應參與以下健康促進過程：</p>
@@ -201,9 +226,9 @@
 <li>重新定位健康服務</li>
 </ol>
 <hr>
-<h2 id="面對系統性障礙與結構性暴力的群體">面對系統性障礙與結構性暴力的群體</h2>
+<h2 id="面對系統性障礙與結構性暴力的群體">面對系統性障礙與結構性暴力的群體<a class="anchor" href="#%e9%9d%a2%e5%b0%8d%e7%b3%bb%e7%b5%b1%e6%80%a7%e9%9a%9c%e7%a4%99%e8%88%87%e7%b5%90%e6%a7%8b%e6%80%a7%e6%9a%b4%e5%8a%9b%e7%9a%84%e7%be%a4%e9%ab%94">#</a></h2>
 <p>某些群體面臨較差健康結果的更大風險，並非因為其身份，而是因為系統性障礙、歧視與結構性暴力（如有害政策、歷史與當代因素）。強烈建議讀者不要將整個群體病理化，並鼓勵進一步了解導致系統性障礙的歷史因素。</p>
-<h3 id="原住民健康indigenous-health">原住民健康（Indigenous Health）</h3>
+<h3 id="原住民健康indigenous-health">原住民健康（Indigenous Health）<a class="anchor" href="#%e5%8e%9f%e4%bd%8f%e6%b0%91%e5%81%a5%e5%ba%b7indigenous-health">#</a></h3>
 <p>2021 年，加拿大超過 180 萬人自我認證為原住民，約占總人口 5%。加拿大原住民包括三個群體（依據 Constitution Act 1982 第 35 條）：First Nations（已註冊與非已註冊）、Métis 與 Inuit。</p>
 <p><strong>歷史背景</strong>：殖民者在加拿大歷史上對原住民的身體、心理、情緒與心靈健康造成了深遠影響。原住民健康差距的歷史與當代根源包括：</p>
 <ul>
@@ -213,7 +238,7 @@
 <li><strong>強制絕育</strong>：20 世紀優生學計畫中，特別是原住民女性被不成比例地針對。</li>
 <li><strong>1960 年代 scoop 與兒童福利</strong>：原住民兒童被政府強制從家庭移出，導致今日原住民兒童在寄養系統中仍過度代表性。</li>
 </ul>
-<h3 id="對面臨系統性障礙群體的干預原則">對面臨系統性障礙群體的干預原則</h3>
+<h3 id="對面臨系統性障礙群體的干預原則">對面臨系統性障礙群體的干預原則<a class="anchor" href="#%e5%b0%8d%e9%9d%a2%e8%87%a8%e7%b3%bb%e7%b5%b1%e6%80%a7%e9%9a%9c%e7%a4%99%e7%be%a4%e9%ab%94%e7%9a%84%e5%b9%b2%e9%a0%90%e5%8e%9f%e5%89%87">#</a></h3>
 <ul>
 <li>識別與倡議改變 SDOH</li>
 <li>與社區組織合作</li>
@@ -221,15 +246,15 @@
 <li>倡議反種族主義政策</li>
 </ul>
 <hr>
-<h2 id="預防醫學">預防醫學</h2>
-<h3 id="疾病的自然史">疾病的自然史</h3>
+<h2 id="預防醫學">預防醫學<a class="anchor" href="#%e9%a0%90%e9%98%b2%e9%86%ab%e5%ad%b8">#</a></h2>
+<h3 id="疾病的自然史">疾病的自然史<a class="anchor" href="#%e7%96%be%e7%97%85%e7%9a%84%e8%87%aa%e7%84%b6%e5%8f%b2">#</a></h3>
 <p>疾病進程從發病到康復：</p>
 <ol>
 <li>病理發病（pathological onset）</li>
 <li>臨床前期（presymptomatic stage）：從發病到症狀/徵候首次出現</li>
 <li>臨床表現：可能自行消退、緩解與復發，或進展至死亡</li>
 </ol>
-<h3 id="監測surveillance">監測（Surveillance）</h3>
+<h3 id="監測surveillance">監測（Surveillance）<a class="anchor" href="#%e7%9b%a3%e6%b8%acsurveillance">#</a></h3>
 <p>持續、系統性收集、分析與解讀健康相關資料，以規劃、執行與評估公共衛生實務。</p>
 <p><strong>監測類型</strong>：</p>
 <ul>
@@ -237,9 +262,9 @@
 <li><strong>主動監測（Active surveillance）</strong>：定期訪視醫療機構審查病歷以發現疑似病例，或主動對人群進行疾病檢測。資源密集，用於根除目標疾病或爆發調查。</li>
 <li><strong>哨點監測（Sentinel surveillance）</strong>：由精心挑選的高可能病例報告點進行選擇性報告。可及時且具成本效益地反映趨勢、識別爆發，但可能無法有效發現稀有疾病。</li>
 </ul>
-<h3 id="疾病預防策略">疾病預防策略</h3>
+<h3 id="疾病預防策略">疾病預防策略<a class="anchor" href="#%e7%96%be%e7%97%85%e9%a0%90%e9%98%b2%e7%ad%96%e7%95%a5">#</a></h3>
 <p>針對疾病發生的預防、早期發現與治療介入，或減緩疾病進展與後遺症的策略。</p>
-<h4 id="疾病預防層級">疾病預防層級</h4>
+<h4 id="疾病預防層級">疾病預防層級<a class="anchor" href="#%e7%96%be%e7%97%85%e9%a0%90%e9%98%b2%e5%b1%a4%e7%b4%9a">#</a></h4>
 <table>
   <thead>
       <tr>
@@ -271,7 +296,7 @@
       </tr>
   </tbody>
 </table>
-<h3 id="篩檢screening">篩檢（Screening）</h3>
+<h3 id="篩檢screening">篩檢（Screening）<a class="anchor" href="#%e7%af%a9%e6%aa%a2screening">#</a></h3>
 <p>「篩檢是對人群使用的策略，以在無症狀個體中識別可能尚未確診疾病的跡象。」</p>
 <p>篩檢不是診斷性檢測。篩檢的主要目的為在大量健康個體中早期發現疾病或危險因子；診斷性檢驗的目的為在有症狀或篩檢陽性個體中確認或排除疾病。</p>
 <p>為減少偏差與傷害並最大化益處，篩檢最好在人口層級以篩檢計畫（如省級乳癌篩檢計畫）而非個人臨床層級進行。</p>
@@ -287,9 +312,9 @@
 <li><strong>Length-time bias（時間長度偏差）</strong>：單一時點篩檢時，納入穩定型疾病比例高於侵襲性疾病，後者存活時間較短，導致高估。</li>
 </ul>
 <p><strong>理想篩檢條件</strong>（疾病、檢驗、醫療體系三方面）：疾病需造成顯著病痛與/或死亡且自然史已知；檢驗需高敏感性、安全、快速、容易執行且相對便宜；醫療體系需有足夠能力報告陽性個案並進行追蹤與治療。</p>
-<h3 id="健康促進策略">健康促進策略</h3>
+<h3 id="健康促進策略">健康促進策略<a class="anchor" href="#%e5%81%a5%e5%ba%b7%e4%bf%83%e9%80%b2%e7%ad%96%e7%95%a5">#</a></h3>
 <p>健康促進指透過範圍廣泛的社會與環境介入，使個人與社區能夠增加對健康的控制並改善健康與福祉。</p>
-<h4 id="健康促進-vs-疾病預防">健康促進 vs. 疾病預防</h4>
+<h4 id="健康促進-vs-疾病預防">健康促進 vs. 疾病預防<a class="anchor" href="#%e5%81%a5%e5%ba%b7%e4%bf%83%e9%80%b2-vs-%e7%96%be%e7%97%85%e9%a0%90%e9%98%b2">#</a></h4>
 <table>
   <thead>
       <tr>
@@ -328,7 +353,7 @@
       </tr>
   </tbody>
 </table>
-<h3 id="健康公共政策">健康公共政策</h3>
+<h3 id="健康公共政策">健康公共政策<a class="anchor" href="#%e5%81%a5%e5%ba%b7%e5%85%ac%e5%85%b1%e6%94%bf%e7%ad%96">#</a></h3>
 <p>目的：創造支持性環境使人們能過健康生活，使市民更容易做出健康選擇。</p>
 <p><strong>方法</strong>：</p>
 <ul>
@@ -336,7 +361,7 @@
 <li><strong>立法手段</strong>：實施法律嚇阻（如吸菸禁令、法定酒精飲用年齡）</li>
 <li><strong>社會手段</strong>：改善超越普遍資助醫療服務的健康（如提供可負擔住房）</li>
 </ul>
-<h3 id="行為改變">行為改變</h3>
+<h3 id="行為改變">行為改變<a class="anchor" href="#%e8%a1%8c%e7%82%ba%e6%94%b9%e8%ae%8a">#</a></h3>
 <p>行為是三個因素的結果：</p>
 <ol>
 <li><strong>促成因素（Predisposing factors）</strong>：知識、態度、信念、價值觀、意圖</li>
@@ -357,14 +382,14 @@
 <li><strong>行動（Action）</strong>：積極投入改變</li>
 <li><strong>維持（Maintenance）</strong>：學習成功應對誘惑以避免回復先前行為模式</li>
 </ol>
-<h3 id="風險降低策略">風險降低策略</h3>
+<h3 id="風險降低策略">風險降低策略<a class="anchor" href="#%e9%a2%a8%e9%9a%aa%e9%99%8d%e4%bd%8e%e7%ad%96%e7%95%a5">#</a></h3>
 <ul>
 <li><strong>Risk reduction（風險降低）</strong>：在不消除風險的情況下降低健康風險（如避免日曬以降低皮膚癌風險）</li>
 <li><strong>Harm reduction（危害減低）</strong>：一套針對藥物使用與其他風險行為的負面後果進行減輕的策略（如針具交換計畫）</li>
 </ul>
 <hr>
-<h2 id="測量疾病與健康">測量疾病與健康</h2>
-<h3 id="疾病發生測量">疾病發生測量</h3>
+<h2 id="測量疾病與健康">測量疾病與健康<a class="anchor" href="#%e6%b8%ac%e9%87%8f%e7%96%be%e7%97%85%e8%88%87%e5%81%a5%e5%ba%b7">#</a></h2>
+<h3 id="疾病發生測量">疾病發生測量<a class="anchor" href="#%e7%96%be%e7%97%85%e7%99%bc%e7%94%9f%e6%b8%ac%e9%87%8f">#</a></h3>
 <p><strong>Rates、Ratio 與 Proportion</strong>：</p>
 <ul>
 <li><strong>Rate（率）</strong>：測量特定時間內特定人群中事件的頻率</li>
@@ -380,20 +405,20 @@
 </ul>
 <p><strong>年齡標準化率（Age-standardized rate）</strong>：使用「標準」人口調整健康相關事件的原始率。</p>
 <p>標準化防止在比較兩個不同人群的原始率時可能發生的偏差。可直接標準化（expressed as a rate）或間接標準化（expressed as standardized outcome ratio，如 SMR）。</p>
-<h3 id="死亡率測量">死亡率測量</h3>
+<h3 id="死亡率測量">死亡率測量<a class="anchor" href="#%e6%ad%bb%e4%ba%a1%e7%8e%87%e6%b8%ac%e9%87%8f">#</a></h3>
 <ul>
 <li><strong>Life expectancy（平均餘命）</strong>：基於特定時間年齡別死亡率，新生兒預期可存活的年數</li>
 <li><strong>Crude death rate（粗死亡率）</strong>：特定時間內每 1000 人中死於所有原因的死亡率</li>
 <li><strong>Infant mortality rate（嬰兒死亡率）</strong>：特定時間內報告之 1 歲以下死亡數除以報告活產數（per 1000 活產/年）</li>
 <li><strong>Maternal mortality rate（母體死亡率）</strong>：特定年度懷孕與產褥期死因之女性死亡數除以同年活產數（per 1000 活產）</li>
 </ul>
-<h3 id="疾病負擔測量">疾病負擔測量</h3>
+<h3 id="疾病負擔測量">疾病負擔測量<a class="anchor" href="#%e7%96%be%e7%97%85%e8%b2%a0%e6%93%94%e6%b8%ac%e9%87%8f">#</a></h3>
 <p><strong>Potential years of life lost（PYLL）</strong>：使用實際死亡年齡與標準/預期死亡年齡之差計算，對較年輕年齡死亡給予較高權重。</p>
 <p><strong>Disability-adjusted life year（DALY）</strong>：早死所失年數 + 失能所失年數。0 = 完全健康年，1 = 死亡。both 物理或精神失能皆計入。</p>
 <p><strong>Quality-adjusted life year（QALY）</strong>：以生活品質（utility）加權的存活年數。Utility 範圍從 0（死亡）到 1（完全健康）。某些狀態可能為負值（比死亡更差）。</p>
 <hr>
-<h2 id="流行病學研究方法">流行病學研究方法</h2>
-<h3 id="族群與抽樣">族群與抽樣</h3>
+<h2 id="流行病學研究方法">流行病學研究方法<a class="anchor" href="#%e6%b5%81%e8%a1%8c%e7%97%85%e5%ad%b8%e7%a0%94%e7%a9%b6%e6%96%b9%e6%b3%95">#</a></h2>
+<h3 id="族群與抽樣">族群與抽樣<a class="anchor" href="#%e6%97%8f%e7%be%a4%e8%88%87%e6%8a%bd%e6%a8%a3">#</a></h3>
 <p><strong>Population（族群）</strong>：由地理區域、性別、年齡等定義的個體集合。</p>
 <p><strong>Sample（樣本）</strong>：從族群中選出的個體。</p>
 <p><strong>抽樣方法</strong>：</p>
@@ -414,7 +439,7 @@
 </li>
 </ul>
 <p><strong>Sample size（樣本量）</strong>：增加樣本量提高觀察估計的統計精確度，縮小信賴區間；降低第一類與第二類錯誤機率，但不改變偏差/干擾風險。</p>
-<h3 id="偏差bias">偏差（Bias）</h3>
+<h3 id="偏差bias">偏差（Bias）<a class="anchor" href="#%e5%81%8f%e5%b7%aebias">#</a></h3>
 <p>系統性誤差導致真實關聯的錯誤估計。</p>
 <p><strong>Selection bias（選擇偏差）</strong>：</p>
 <ul>
@@ -428,9 +453,9 @@
 <li>Interviewer bias：訪員對結果狀態的認知偏差其行為</li>
 <li>Observer bias：對暴露狀態的認知偏差觀察者對診斷的傾向</li>
 </ul>
-<h3 id="干擾因子confounder">干擾因子（Confounder）</h3>
+<h3 id="干擾因子confounder">干擾因子（Confounder）<a class="anchor" href="#%e5%b9%b2%e6%93%be%e5%9b%a0%e5%ad%90confounder">#</a></h3>
 <p>與暴露和結果皆相關但非暴露-結果因果鏈中環節的變數。隨機分組、分層、配對與迴歸模型可幫助最小化干擾。</p>
-<h3 id="檢驗結果解讀">檢驗結果解讀</h3>
+<h3 id="檢驗結果解讀">檢驗結果解讀<a class="anchor" href="#%e6%aa%a2%e9%a9%97%e7%b5%90%e6%9e%9c%e8%a7%a3%e8%ae%80">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -466,14 +491,14 @@
 <p><strong>Pre-test probability</strong>：檢驗前病人有疾病的機率。</p>
 <p><strong>Post-test probability</strong>：問診/檢驗後疾病機率的修訂。</p>
 <p><strong>注意</strong>：Sensitivity 與 Specificity 是檢驗本身的特性；LR 取決於檢驗特性（非盛行率）；PPV 與 NPV 取決於疾病在族群中的盛行率。</p>
-<h3 id="干預成效測量">干預成效測量</h3>
+<h3 id="干預成效測量">干預成效測量<a class="anchor" href="#%e5%b9%b2%e9%a0%90%e6%88%90%e6%95%88%e6%b8%ac%e9%87%8f">#</a></h3>
 <p><strong>Efficacy（療效）</strong>：在理想條件下（如 RCT）干預產生有益結果的程度。</p>
 <p><strong>Effectiveness（效果）</strong>：在通常臨床照護條件下測量干預的益處。考慮干預的療效及其在真實世界中的實際影響。</p>
 <p><strong>Efficiency（效率）</strong>：具有已知成效的干預之經濟性測量。考慮資源（如金錢、時間、人力、設備）的最佳使用。</p>
 <p><strong>NNT（需治療人數）</strong>：需要治療多少人才能多獲得一個有利結果。= 1 / Absolute Risk Reduction。</p>
 <p><strong>NNH（需傷害人數）</strong>：若接受實驗治療，導致對照組多一人受害的人數。</p>
-<h3 id="研究設計">研究設計</h3>
-<h4 id="觀察性研究">觀察性研究</h4>
+<h3 id="研究設計">研究設計<a class="anchor" href="#%e7%a0%94%e7%a9%b6%e8%a8%ad%e8%a8%88">#</a></h3>
+<h4 id="觀察性研究">觀察性研究<a class="anchor" href="#%e8%a7%80%e5%af%9f%e6%80%a7%e7%a0%94%e7%a9%b6">#</a></h4>
 <p><strong>描述性研究</strong>：描述事件的發生率與分布（人、地點、時間）；估計疾病頻率與時間趨勢；可產生病因假設與政策規劃。</p>
 <p><strong>分析性研究</strong>：檢定特定假設。</p>
 <table>
@@ -524,7 +549,7 @@
       </tr>
   </tbody>
 </table>
-<h4 id="實驗性研究">實驗性研究</h4>
+<h4 id="實驗性研究">實驗性研究<a class="anchor" href="#%e5%af%a6%e9%a9%97%e6%80%a7%e7%a0%94%e7%a9%b6">#</a></h4>
 <p><strong>隨機對照試驗（RCT）</strong>：</p>
 <ul>
 <li>受試者隨機分配至兩組或多組，對照組接受標準照護或安慰劑</li>
@@ -532,11 +557,11 @@
 <li>優點：研究金標準；隨機化可消除干擾與自我選擇偏差</li>
 <li>缺點：某些暴露無法隨機化（如貧窮）；難以研究罕見事件；成本高</li>
 </ul>
-<h4 id="系統性回顧與統合分析">系統性回顧與統合分析</h4>
+<h4 id="系統性回顧與統合分析">系統性回顧與統合分析<a class="anchor" href="#%e7%b3%bb%e7%b5%b1%e6%80%a7%e5%9b%9e%e9%a1%a7%e8%88%87%e7%b5%b1%e5%90%88%e5%88%86%e6%9e%90">#</a></h4>
 <p><strong>Meta-analysis</strong>：彙總所有針對相同研究問題的相關研究進行統計分析，增加統計精確度。</p>
 <p><strong>Narrative systematic review</strong>：針對特定問題檢索證據的嚴謹系統性研究綜合。</p>
 <p><strong>Scoping review</strong>：系統性知識綜合，確定文獻體的範圍或覆蓋範圍。</p>
-<h3 id="資料分析">資料分析</h3>
+<h3 id="資料分析">資料分析<a class="anchor" href="#%e8%b3%87%e6%96%99%e5%88%86%e6%9e%90">#</a></h3>
 <p><strong>統計假設</strong>：</p>
 <ul>
 <li><strong>Null hypothesis（H0）</strong>：預設假設，通常表示兩變數間無關聯</li>
@@ -598,22 +623,22 @@
 <li>類比（analogy）</li>
 </ol>
 <hr>
-<h2 id="疾病爆發管理">疾病爆發管理</h2>
-<h3 id="定義-1">定義</h3>
+<h2 id="疾病爆發管理">疾病爆發管理<a class="anchor" href="#%e7%96%be%e7%97%85%e7%88%86%e7%99%bc%e7%ae%a1%e7%90%86">#</a></h2>
+<h3 id="定義-1">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-1">#</a></h3>
 <ul>
 <li><strong>Outbreak（爆發）</strong>：在特定人群或社區中，新病例數超出通常預期頻率</li>
 <li><strong>Endemic（地方性）</strong>：傳染源或疾病在特定人群或區域持續存在</li>
 <li><strong>Epidemic（流行）</strong>：病例數突然增加，超出通常預期（如 SARS 流行）</li>
 <li><strong>Pandemic（大流行）</strong>：跨國際或洲際邊界傳播，影響大量人口（如 COVID-19）</li>
 </ul>
-<h3 id="關鍵測量">關鍵測量</h3>
+<h3 id="關鍵測量">關鍵測量<a class="anchor" href="#%e9%97%9c%e9%8d%b5%e6%b8%ac%e9%87%8f">#</a></h3>
 <ul>
 <li><strong>Attack rate（攻擊率）</strong> = [新發病例數 / 初始風險人口] × 100%</li>
 <li><strong>Secondary attack rate（續發率）</strong> = [(總病例數 - 初始病例數) / (易感個體數 - 初始病例數)] × 100%</li>
 <li><strong>Case-fatality rate（CFR）</strong> = [死亡病例數 / 總病例數] × 100%</li>
 <li><strong>Basic reproduction number（R0）</strong>：一個感染所產生的平均續發感染數</li>
 </ul>
-<h3 id="十步驟爆發調查">十步驟爆發調查</h3>
+<h3 id="十步驟爆發調查">十步驟爆發調查<a class="anchor" href="#%e5%8d%81%e6%ad%a5%e9%a9%9f%e7%88%86%e7%99%bc%e8%aa%bf%e6%9f%a5">#</a></h3>
 <ol>
 <li>組建調查團隊</li>
 <li>確認爆發存在</li>
@@ -626,14 +651,14 @@
 <li>溝通發現</li>
 <li>持續監測</li>
 </ol>
-<h3 id="傳染病管制目標">傳染病管制目標</h3>
+<h3 id="傳染病管制目標">傳染病管制目標<a class="anchor" href="#%e5%82%b3%e6%9f%93%e7%97%85%e7%ae%a1%e5%88%b6%e7%9b%ae%e6%a8%99">#</a></h3>
 <p>傳染病管制需針對宿主、病原體、環境及其交互作用：</p>
 <ul>
 <li><strong>宿主（Host）</strong>：年齡、免疫反應、易感性</li>
 <li><strong>病原體（Agent）</strong>：致病力、毒性、體外存活能力</li>
 <li><strong>環境（Environment）</strong>：氣候、建築物、人口密度</li>
 </ul>
-<h3 id="感染預防與管制ipac">感染預防與管制（IPAC）</h3>
+<h3 id="感染預防與管制ipac">感染預防與管制（IPAC）<a class="anchor" href="#%e6%84%9f%e6%9f%93%e9%a0%90%e9%98%b2%e8%88%87%e7%ae%a1%e5%88%b6ipac">#</a></h3>
 <p><strong>常規措施（Routine Practices）</strong>：PHAC 建議用於所有醫療照護場景中所有照護對象的 IPAC 實務標準。</p>
 <p><strong>額外預防措施（Additional Precautions）</strong>：</p>
 <ul>
@@ -642,26 +667,26 @@
 <li><strong>接觸+飛沫</strong>：如季節性流感、COVID-19</li>
 <li><strong>空氣預防（Airborne）</strong>：N95 口罩（fit-tested）、負壓房（如 TB、麻疹、水痘）</li>
 </ul>
-<h3 id="國際衛生條例ihr">國際衛生條例（IHR）</h3>
+<h3 id="國際衛生條例ihr">國際衛生條例（IHR）<a class="anchor" href="#%e5%9c%8b%e9%9a%9b%e8%a1%9b%e7%94%9f%e6%a2%9d%e4%be%8bihr">#</a></h3>
 <p>196 個國家參與的國際公約，預防、防治與因應大流行病。</p>
 <p><strong>Public health emergency of international concern（PHEIC）</strong>：需國際協調應變的公共衛生緊急事件（如 COVID-19、SARS、mpox）。</p>
 <hr>
-<h2 id="環境衛生">環境衛生</h2>
-<h3 id="定義-2">定義</h3>
+<h2 id="環境衛生">環境衛生<a class="anchor" href="#%e7%92%b0%e5%a2%83%e8%a1%9b%e7%94%9f">#</a></h2>
+<h3 id="定義-2">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-2">#</a></h3>
 <p>研究環境因素（建造與自然）與健康的關聯。</p>
 <p><strong>常見環境危害</strong>：化學、生物、物理、輻射。</p>
 <p><strong>四大宿主</strong>：空氣、食物、水、土壤。</p>
 <p><strong>三大暴露途徑</strong>：吸入、攝入、經皮吸收。</p>
-<h3 id="環境健康jurisdiction">環境健康jurisdiction</h3>
+<h3 id="環境健康jurisdiction">環境健康jurisdiction<a class="anchor" href="#%e7%92%b0%e5%a2%83%e5%81%a5%e5%ba%b7jurisdiction">#</a></h3>
 <ul>
 <li><strong>公共衛生單位</strong>：水與食品安全法規執行；地方環境風險評估；傳染病監測與追蹤；環境污染與疾病叢集調查</li>
 <li><strong>市政府</strong>：廢棄物處理、回收、水與污水處理</li>
 <li><strong>省/區政府</strong>：水與空氣品質標準；工業排放規範</li>
 <li><strong>聯邦政府</strong>：指定與規範有毒物質；規範食品（含 Health Canada、CFIA）；規範跨省污染物政策</li>
 </ul>
-<h3 id="source-path-receiver-model">Source-Path-Receiver Model</h3>
+<h3 id="source-path-receiver-model">Source-Path-Receiver Model<a class="anchor" href="#source-path-receiver-model">#</a></h3>
 <p>為預防職業傷害，可在源頭改善安全概況、修改路徑與/或保護接收者。</p>
-<h3 id="環境健康史">環境健康史</h3>
+<h3 id="環境健康史">環境健康史<a class="anchor" href="#%e7%92%b0%e5%a2%83%e5%81%a5%e5%ba%b7%e5%8f%b2">#</a></h3>
 <p>使用 <strong>ICH20PD2</strong> 助記符：</p>
 <ul>
 <li><strong>C</strong>ommunity（社區）</li>
@@ -672,7 +697,7 @@
 <li><strong>D</strong>iet（飲食）</li>
 <li><strong>D</strong>rugs（藥物）</li>
 </ul>
-<h3 id="環境危害與健康影響">環境危害與健康影響</h3>
+<h3 id="環境危害與健康影響">環境危害與健康影響<a class="anchor" href="#%e7%92%b0%e5%a2%83%e5%8d%b1%e5%ae%b3%e8%88%87%e5%81%a5%e5%ba%b7%e5%bd%b1%e9%9f%bf">#</a></h3>
 <p><strong>化學危害</strong>：</p>
 <ul>
 <li>石油碳氫化合物、溶劑、鉛、殺蟲劑</li>
@@ -715,14 +740,14 @@
       </tr>
   </tbody>
 </table>
-<h3 id="環境種族主義environmental-racism">環境種族主義（Environmental Racism）</h3>
+<h3 id="環境種族主義environmental-racism">環境種族主義（Environmental Racism）<a class="anchor" href="#%e7%92%b0%e5%a2%83%e7%a8%ae%e6%97%8f%e4%b8%bb%e7%be%a9environmental-racism">#</a></h3>
 <p>定義：刻意且不成比例地在缺乏發聲權的社區（原住民、移民、有色人種、低 SES 群體）附近開發環境危害與有毒設施。</p>
 <p><strong>加拿大的例子</strong>：</p>
 <ul>
 <li><strong>Grassy Narrows, Ontario</strong>：1970 年代居民出現汞中毒症狀，源頭為上游造紙廠傾倒未處理的汞。數十年後（2020 年）才達成建造汞治療設施的協議。</li>
 <li><strong>Africville, Nova Scotia</strong>：非裔社區被迫搬遷至港口附近，承受油廠、焦油廠、監獄、傳染病醫院與垃圾掩埋場等設施。</li>
 </ul>
-<h3 id="氣候變遷與健康">氣候變遷與健康</h3>
+<h3 id="氣候變遷與健康">氣候變遷與健康<a class="anchor" href="#%e6%b0%a3%e5%80%99%e8%ae%8a%e9%81%b7%e8%88%87%e5%81%a5%e5%ba%b7">#</a></h3>
 <p><strong>氣候變遷對健康的影響</strong>：</p>
 <ul>
 <li>極端天氣事件（洪水、野火）：傷害、死亡</li>
@@ -738,8 +763,8 @@
 <li><strong>Adaptation（調適）</strong>：預期與準備應對氣候變遷影響</li>
 </ul>
 <hr>
-<h2 id="職業醫學">職業醫學</h2>
-<h3 id="定義-3">定義</h3>
+<h2 id="職業醫學">職業醫學<a class="anchor" href="#%e8%81%b7%e6%a5%ad%e9%86%ab%e5%ad%b8">#</a></h2>
+<h3 id="定義-3">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9-3">#</a></h3>
 <p>由 Royal College 定義的醫學專科，強調預防，臨床與行政處理個人與群體在工作環境中的健康需求，包括與工作相關疾病與傷害的辨識、評估、管制、管理與復健。</p>
 <p><strong>職業健康服務涵蓋</strong>：</p>
 <ul>
@@ -747,7 +772,7 @@
 <li>職業健康監測與篩檢（secondary prevention）</li>
 <li>治療、復健、復工與 workers&rsquo; compensation（tertiary prevention）</li>
 </ul>
-<h3 id="職業健康史">職業健康史</h3>
+<h3 id="職業健康史">職業健康史<a class="anchor" href="#%e8%81%b7%e6%a5%ad%e5%81%a5%e5%ba%b7%e5%8f%b2">#</a></h3>
 <ul>
 <li>現職與前職責</li>
 <li>暴露評估：化學（如金屬、粉塵）、生物、物理、人體工學危害與心理社會壓力因子</li>
@@ -756,7 +781,7 @@
 <li>工作外暴露</li>
 <li>可能需要進一步檢查（胸片、超聲、肺功能測試）</li>
 </ul>
-<h3 id="職業危害">職業危害</h3>
+<h3 id="職業危害">職業危害<a class="anchor" href="#%e8%81%b7%e6%a5%ad%e5%8d%b1%e5%ae%b3">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -791,7 +816,7 @@
       </tr>
   </tbody>
 </table>
-<h3 id="職業病補償">職業病補償</h3>
+<h3 id="職業病補償">職業病補償<a class="anchor" href="#%e8%81%b7%e6%a5%ad%e7%97%85%e8%a3%9c%e5%84%9f">#</a></h3>
 <p><strong>Workplace Safety and Insurance Board（WSIB）</strong>（Ontario）：</p>
 <ul>
 <li>僱主支付費用（無政府補助）之無過失保險</li>
@@ -799,15 +824,15 @@
 <li>僱員放棄起訴僱主權利換取保證補償</li>
 <li>醫師需在被保險人提出申請後提供健康資訊（不需醫療放棄書）</li>
 </ul>
-<h3 id="職業健康促進">職業健康促進</h3>
+<h3 id="職業健康促進">職業健康促進<a class="anchor" href="#%e8%81%b7%e6%a5%ad%e5%81%a5%e5%ba%b7%e4%bf%83%e9%80%b2">#</a></h3>
 <p><strong>職場健康促進</strong>：非立法規定之員工健康與福祉策略，可包括教育、活動規劃與職場支持。</p>
 <p><strong>Primary prevention（職場一級預防）</strong>：主動減少職場疾病或傷害。遵循危害控制層級（hierarchy of controls）：
 消除 &gt; 置換 &gt; 工程控制 &gt; 行政控制 &gt; 個人防護裝備（PPE）。</p>
 <p><strong>Secondary prevention（職場二級預防）</strong>：醫療監測（定期檢查發現早期變化）。範例：血鉛測試、肺功能測試、聽力圖。</p>
 <p><strong>Tertiary prevention（職場三級預防）</strong>：治療疾病或傷害以促進安全且適時返回工作。可能需要復健、復工計畫、重新培訓與 workers&rsquo; compensation。</p>
 <hr>
-<h2 id="傳染病通報">傳染病通報</h2>
-<h3 id="法定傳染病reportable-diseases">法定傳染病（Reportable Diseases）</h3>
+<h2 id="傳染病通報">傳染病通報<a class="anchor" href="#%e5%82%b3%e6%9f%93%e7%97%85%e9%80%9a%e5%a0%b1">#</a></h2>
+<h3 id="法定傳染病reportable-diseases">法定傳染病（Reportable Diseases）<a class="anchor" href="#%e6%b3%95%e5%ae%9a%e5%82%b3%e6%9f%93%e7%97%85reportable-diseases">#</a></h3>
 <p>加拿大醫師須依省法規向公共衛生機關通報特定疾病。failure to report 可導致停業處分。</p>
 <p><strong>強制通報理由</strong>：</p>
 <ol>
@@ -817,7 +842,7 @@
 <li>受感染者需要教育、治療與/或伴侶通知（如淋病、TB）</li>
 <li>監測（追蹤疾病趨勢）</li>
 </ol>
-<h3 id="其他強制通報條件">其他強制通報條件</h3>
+<h3 id="其他強制通報條件">其他強制通報條件<a class="anchor" href="#%e5%85%b6%e4%bb%96%e5%bc%b7%e5%88%b6%e9%80%9a%e5%a0%b1%e6%a2%9d%e4%bb%b6">#</a></h3>
 <ul>
 <li><strong>出生與死亡</strong>：所有活產與死產須於 2 個工作日內通報；醫師須填寫死亡醫學證明</li>
 <li><strong>兒童虐待</strong>：向當地 Children&rsquo;s Aid Society（CAS）通報</li>
@@ -827,29 +852,29 @@
 <li><strong>不適合飛行</strong>：向聯邦交通部通報</li>
 </ul>
 <hr>
-<h2 id="標竿預防醫學試驗">標竿預防醫學試驗</h2>
-<h3 id="mammographyswedish-two-county-trial">Mammography：Swedish Two-County Trial</h3>
+<h2 id="標竿預防醫學試驗">標竿預防醫學試驗<a class="anchor" href="#%e6%a8%99%e7%ab%bf%e9%a0%90%e9%98%b2%e9%86%ab%e5%ad%b8%e8%a9%a6%e9%a9%97">#</a></h2>
+<h3 id="mammographyswedish-two-county-trial">Mammography：Swedish Two-County Trial<a class="anchor" href="#mammographyswedish-two-county-trial">#</a></h3>
 <ul>
 <li>133,065 名 40-74 歲女性隨機分配至乳房攝影篩檢組或對照組</li>
 <li>29 年追蹤：RR = 0.68（95% CI: 0.56-0.80），篩檢組乳癌死亡率顯著降低</li>
 </ul>
-<h3 id="aaa-screeningmass-uk">AAA Screening：Mass (UK)</h3>
+<h3 id="aaa-screeningmass-uk">AAA Screening：Mass (UK)<a class="anchor" href="#aaa-screeningmass-uk">#</a></h3>
 <ul>
 <li>10 年追蹤：篩檢組主動脈瘤相關死亡率降低 48%（RR 48%；95% CI: 37%-57%）</li>
 </ul>
-<h3 id="colonoscopy-vs-fitcolonprev">Colonoscopy vs. FIT：COLONPREV</h3>
+<h3 id="colonoscopy-vs-fitcolonprev">Colonoscopy vs. FIT：COLONPREV<a class="anchor" href="#colonoscopy-vs-fitcolonprev">#</a></h3>
 <ul>
 <li>50-69 歲無症狀平均風險成人： Colonoscopy 與 FIT 組大腸癌發生率無差異（OR 0.99；95% CI: 0.6-1.9）</li>
 </ul>
-<h3 id="lung-cancer-screeningnlst">Lung Cancer Screening：NLST</h3>
+<h3 id="lung-cancer-screeningnlst">Lung Cancer Screening：NLST<a class="anchor" href="#lung-cancer-screeningnlst">#</a></h3>
 <ul>
 <li>53,454 名高風險受試者：低劑量 CT 篩檢組肺癌死亡率降低 20.0%（95% CI: 6.8-26.7；p=0.004）</li>
 </ul>
-<h3 id="influenza-vaccinationvaxicol">Influenza Vaccination（VAXICOL）</h3>
+<h3 id="influenza-vaccinationvaxicol">Influenza Vaccination（VAXICOL）<a class="anchor" href="#influenza-vaccinationvaxicol">#</a></h3>
 <ul>
 <li>40 家安養院：工作人員疫苗覆蓋率與院民全原因死亡率顯著負相關（correlation coefficient = -0.42，P=0.007）</li>
 </ul>
-<h3 id="covid-19-vaccinebnt162b2">COVID-19 Vaccine（BNT162b2）</h3>
+<h3 id="covid-19-vaccinebnt162b2">COVID-19 Vaccine（BNT162b2）<a class="anchor" href="#covid-19-vaccinebnt162b2">#</a></h3>
 <ul>
 <li>43,548 名 16 歲以上受試者：疫苗有效性 95%（95% CI: 90.3-97.9）</li>
 </ul>
@@ -861,5 +886,19 @@
   <footer>
     <p>Powered by Hugo | Toronto Notes 2025 繁體中文翻譯</p>
   </footer>
+  <script>
+    function toggleTheme() {
+      const html = document.documentElement;
+      const current = html.getAttribute('data-theme');
+      const next = current === 'dark' ? 'light' : 'dark';
+      html.setAttribute('data-theme', next);
+      localStorage.setItem('theme', next);
+    }
+    const saved = localStorage.getItem('theme');
+    if (saved) document.documentElement.setAttribute('data-theme', saved);
+    else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+      document.documentElement.setAttribute('data-theme', 'dark');
+    }
+  </script>
 </body>
 </html>

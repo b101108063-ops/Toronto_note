@@ -5,31 +5,55 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Anesthesia 麻醉學 - Toronto Notes 2025 繁體中文</title>
   <style>
+    :root {
+      --bg-primary: #ffffff;
+      --bg-secondary: #f8fafc;
+      --text-primary: #1e293b;
+      --text-secondary: #64748b;
+      --accent: #2563eb;
+      --border: #e2e8f0;
+      --code-bg: #f1f5f9;
+      --link: #2563eb;
+      --link-visited: #5500bb;
+    }
+    [data-theme="dark"] {
+      --bg-primary: #1a1a2e;
+      --bg-secondary: #16162a;
+      --text-primary: #e4e4e7;
+      --text-secondary: #a1a1aa;
+      --accent: #93c5fd;
+      --border: #3f3f46;
+      --code-bg: #27272a;
+      --link: #93c5fd;
+      --link-visited: #c4b5fd;
+    }
     * { box-sizing: border-box; }
-    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; line-height: 1.6; color: #333; max-width: 900px; margin: 0 auto; padding: 20px; }
-    header { border-bottom: 2px solid #2563eb; padding-bottom: 10px; margin-bottom: 20px; }
-    header h1 { margin: 0; font-size: 1.5em; color: #2563eb; }
-    nav a { margin-right: 15px; color: #2563eb; text-decoration: none; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; line-height: 1.6; color: var(--text-primary); background: var(--bg-primary); max-width: 900px; margin: 0 auto; padding: 20px; }
+    header { border-bottom: 2px solid var(--accent); padding-bottom: 10px; margin-bottom: 20px; display: flex; justify-content: space-between; align-items: center; }
+    header h1 { margin: 0; font-size: 1.5em; color: var(--accent); }
+    nav a { margin-right: 15px; color: var(--link); text-decoration: none; }
     nav a:hover { text-decoration: underline; }
-    h1, h2, h3 { color: #1e293b; }
-    h1 { font-size: 1.8em; border-bottom: 1px solid #e2e8f0; padding-bottom: 8px; }
-    h2 { font-size: 1.4em; border-bottom: 1px solid #e2e8f0; padding-bottom: 5px; }
+    h1, h2, h3 { color: var(--text-primary); }
+    h1 { font-size: 1.8em; border-bottom: 1px solid var(--border); padding-bottom: 8px; }
+    h2 { font-size: 1.4em; border-bottom: 1px solid var(--border); padding-bottom: 5px; }
     h3 { font-size: 1.15em; }
-    pre { background: #f1f5f9; padding: 15px; border-radius: 6px; overflow-x: auto; }
-    code { background: #f1f5f9; padding: 2px 5px; border-radius: 3px; font-size: 0.9em; }
+    pre { background: var(--code-bg); padding: 15px; border-radius: 6px; overflow-x: auto; }
+    code { background: var(--code-bg); padding: 2px 5px; border-radius: 3px; font-size: 0.9em; }
     pre code { background: none; padding: 0; }
-    blockquote { border-left: 4px solid #2563eb; margin: 0; padding: 5px 15px; color: #64748b; background: #f8fafc; }
+    blockquote { border-left: 4px solid var(--accent); margin: 0; padding: 5px 15px; color: var(--text-secondary); background: var(--bg-secondary); }
     table { border-collapse: collapse; width: 100%; margin: 15px 0; }
-    th, td { border: 1px solid #cbd5e1; padding: 8px 12px; text-align: left; }
-    th { background: #f1f5f9; font-weight: 600; }
-    tr:nth-child(even) { background: #f8fafc; }
+    th, td { border: 1px solid var(--border); padding: 8px 12px; text-align: left; }
+    th { background: var(--bg-secondary); font-weight: 600; }
+    tr:nth-child(even) { background: var(--bg-secondary); }
     .content-body { line-height: 1.8; }
-    footer { border-top: 1px solid #e2e8f0; margin-top: 30px; padding-top: 15px; color: #64748b; font-size: 0.9em; }
-    .breadcrumb { font-size: 0.9em; color: #64748b; margin-bottom: 15px; }
-    .breadcrumb a { color: #2563eb; text-decoration: none; }
-    a { color: #2563eb; }
+    footer { border-top: 1px solid var(--border); margin-top: 30px; padding-top: 15px; color: var(--text-secondary); font-size: 0.9em; }
+    .breadcrumb { font-size: 0.9em; color: var(--text-secondary); margin-bottom: 15px; }
+    .breadcrumb a { color: var(--link); text-decoration: none; }
+    a { color: var(--link); }
     a:hover { text-decoration: underline; }
     img { max-width: 100%; height: auto; }
+    .theme-toggle { background: none; border: 1px solid var(--border); color: var(--text-primary); cursor: pointer; padding: 4px 10px; border-radius: 4px; font-size: 0.85em; }
+    .theme-toggle:hover { background: var(--bg-secondary); }
   </style>
 </head>
 <body>
@@ -38,6 +62,7 @@
       <a href="https://b101108063-ops.github.io/Toronto_note/">首頁</a>
       <a href="/Toronto_note/categories/">章節</a>
     </nav>
+    <button class="theme-toggle" onclick="toggleTheme()">🌙 暗色</button>
   </header>
 
   <main>
@@ -48,7 +73,7 @@
       <h1>Anesthesia 麻醉學</h1>
       <div class="content-body">
         <hr>
-<h2 id="導讀摘要">導讀摘要</h2>
+<h2 id="導讀摘要">導讀摘要<a class="anchor" href="#%e5%b0%8e%e8%ae%80%e6%91%98%e8%a6%81">#</a></h2>
 <ul>
 <li><strong>吸入、異物風險</strong>：未禁食、意識障礙、胃排空延遲（糖尿病、GLP-1 agonist）、胃食道逆流、肥胖、妊娠等情況會增加 <strong>aspiration</strong> 風險，需採用 RSI 與保護性氣道（ETT）管理</li>
 <li><strong>困難氣道處理原則</strong>：氣道管理優先於氣管插管；困難插管時遵循 ABC（oxygenation &amp; ventilation 優先），必要時緊急建立外科氣道</li>
@@ -57,9 +82,9 @@
 <li><strong>區域麻醉優勢</strong>：減少術後肺部併發症、降低止痛藥需求、減少 PONV、縮短恢復時間；但血小板不足為相對禁忌</li>
 </ul>
 <hr>
-<h2 id="麻醉學概論">麻醉學概論</h2>
-<h3 id="術前評估常見疾病">術前評估常見疾病</h3>
-<h4 id="吸入風險aspiration">吸入風險（Aspiration）</h4>
+<h2 id="麻醉學概論">麻醉學概論<a class="anchor" href="#%e9%ba%bb%e9%86%89%e5%ad%b8%e6%a6%82%e8%ab%96">#</a></h2>
+<h3 id="術前評估常見疾病">術前評估常見疾病<a class="anchor" href="#%e8%a1%93%e5%89%8d%e8%a9%95%e4%bc%b0%e5%b8%b8%e8%a6%8b%e7%96%be%e7%97%85">#</a></h3>
+<h4 id="吸入風險aspiration">吸入風險（Aspiration）<a class="anchor" href="#%e5%90%b8%e5%85%a5%e9%a2%a8%e9%9a%aaaspiration">#</a></h4>
 <p><strong>增加吸入風險的情況：</strong></p>
 <ul>
 <li>未確實禁食（見 Fasting Guidelines）</li>
@@ -76,7 +101,7 @@
 <li>減少胃容積與酸性</li>
 <li>採用 RSI（Rapid Sequence Induction）</li>
 </ul>
-<h4 id="血液系統疾病">血液系統疾病</h4>
+<h4 id="血液系統疾病">血液系統疾病<a class="anchor" href="#%e8%a1%80%e6%b6%b2%e7%b3%bb%e7%b5%b1%e7%96%be%e7%97%85">#</a></h4>
 <p><strong>病史評估：</strong> 先天性或後天性凝血疾病（sickle cell anemia、factor VIII 缺乏、VWD、ITP、肝病）</p>
 <p><strong>術前檢查：</strong> 必要時評估 hemoglobin、Hematocrit、凝血功能（見 Table 1, A4）</p>
 <p><strong>貧血處理：</strong></p>
@@ -88,7 +113,7 @@
 <li>暫停或調整抗凝治療（warfarin、clopidogrel、ASA、apixaban、dabigatran）</li>
 <li>必要時給予逆轉劑：vitamin K、FFP、PCC、recombinant activated factor VII</li>
 </ul>
-<h4 id="內分泌疾病">內分泌疾病</h4>
+<h4 id="內分泌疾病">內分泌疾病<a class="anchor" href="#%e5%85%a7%e5%88%86%e6%b3%8c%e7%96%be%e7%97%85">#</a></h4>
 <p><strong>糖尿病（DM）：</strong></p>
 <ul>
 <li>確認 type 1 或 type 2</li>
@@ -113,13 +138,13 @@
 <ul>
 <li>考慮術中 steroid 補充</li>
 </ul>
-<h4 id="肥胖與阻塞性睡眠呼吸中止症osa">肥胖與阻塞性睡眠呼吸中止症（OSA）</h4>
+<h4 id="肥胖與阻塞性睡眠呼吸中止症osa">肥胖與阻塞性睡眠呼吸中止症（OSA）<a class="anchor" href="#%e8%82%a5%e8%83%96%e8%88%87%e9%98%bb%e5%a1%9e%e6%80%a7%e7%9d%a1%e7%9c%a0%e5%91%bc%e5%90%b8%e4%b8%ad%e6%ad%a2%e7%97%87osa">#</a></h4>
 <ul>
 <li>評估共病症，必要時進行測試以確定嚴重程度</li>
 <li>OSA 嚴重程度可由睡眠研究與家用 CPAP 裝置的處方壓力設定來判斷</li>
 </ul>
 <hr>
-<h3 id="加拿大麻醉與病人監測臨床指引">加拿大麻醉與病人監測臨床指引</h3>
+<h3 id="加拿大麻醉與病人監測臨床指引">加拿大麻醉與病人監測臨床指引<a class="anchor" href="#%e5%8a%a0%e6%8b%bf%e5%a4%a7%e9%ba%bb%e9%86%89%e8%88%87%e7%97%85%e4%ba%ba%e7%9b%a3%e6%b8%ac%e8%87%a8%e5%ba%8a%e6%8c%87%e5%bc%95">#</a></h3>
 <p><strong>基本原則：</strong></p>
 <ul>
 <li>麻醉醫師在場：「唯一不可或缺的監測器」</li>
@@ -147,14 +172,14 @@
 <li><strong>每小時尿量</strong></li>
 </ul>
 <hr>
-<h3 id="氣道解剖學">氣道解剖學</h3>
+<h3 id="氣道解剖學">氣道解剖學<a class="anchor" href="#%e6%b0%a3%e9%81%93%e8%a7%a3%e5%89%96%e5%ad%b8">#</a></h3>
 <ul>
 <li>鼻腔氣流阻力約占總氣道阻力的 2/3</li>
 <li>咽部氣道從鼻腔後方延伸至環狀軟骨</li>
 <li>聲門開啟：真假聲帶之間的三角形間隙；成人喉部最窄處</li>
 <li>氣管始於甲狀軟骨（C6）水平，於 T4–T5（胸骨角水平）分叉為左右主支氣管</li>
 </ul>
-<h3 id="氣道輔助方法">氣道輔助方法</h3>
+<h3 id="氣道輔助方法">氣道輔助方法<a class="anchor" href="#%e6%b0%a3%e9%81%93%e8%bc%94%e5%8a%a9%e6%96%b9%e6%b3%95">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -216,15 +241,15 @@
   </tbody>
 </table>
 <hr>
-<h3 id="氣管插管">氣管插管</h3>
-<h4 id="插管前準備">插管前準備</h4>
+<h3 id="氣管插管">氣管插管<a class="anchor" href="#%e6%b0%a3%e7%ae%a1%e6%8f%92%e7%ae%a1">#</a></h3>
+<h4 id="插管前準備">插管前準備<a class="anchor" href="#%e6%8f%92%e7%ae%a1%e5%89%8d%e6%ba%96%e5%82%99">#</a></h4>
 <ul>
 <li>插管失敗會使後續嘗試更困難（組織創傷）</li>
 <li>計畫、準備、評估困難可能性</li>
 <li>確認設備齊全且正常（測試 ETT 氣囊、檢查喉鏡光源與 suction、機器檢查）</li>
 <li><strong>預給氧/去氮</strong>：患者呼吸 100% O₂ 3-5 分鐘或 4-8 次肺活量呼吸</li>
 </ul>
-<h4 id="插管適當擺位">插管適當擺位</h4>
+<h4 id="插管適當擺位">插管適當擺位<a class="anchor" href="#%e6%8f%92%e7%ae%a1%e9%81%a9%e7%95%b6%e6%93%ba%e4%bd%8d">#</a></h4>
 <ul>
 <li>對齊三軸（口腔、咽部、喉部）以利從口腔到聲門的視野</li>
 <li><strong>Sniffing position</strong>：下頸椎屈曲（C5–C6）、頭部前傾、上頸椎在寰枕關節處伸展（C1）、鼻子朝天</li>
@@ -232,7 +257,7 @@
 <li>聲門開啟不佳時可施以喉部前方 pressure</li>
 <li>喉鏡尖端置於會厭谷（epiglottic vallecula）以顯露聲帶</li>
 </ul>
-<h4 id="設備準備mdsoles--navel">設備準備（MDSOLES / NAVEL）</h4>
+<h4 id="設備準備mdsoles--navel">設備準備（MDSOLES / NAVEL）<a class="anchor" href="#%e8%a8%ad%e5%82%99%e6%ba%96%e5%82%99mdsoles--navel">#</a></h4>
 <table>
   <thead>
       <tr>
@@ -271,7 +296,7 @@
       </tr>
   </tbody>
 </table>
-<h4 id="導管置入">導管置入</h4>
+<h4 id="導管置入">導管置入<a class="anchor" href="#%e5%b0%8e%e7%ae%a1%e7%bd%ae%e5%85%a5">#</a></h4>
 <ul>
 <li>喉鏡檢查與 ETT 置入可能因刺激第九與第十對腦神經（「異物反射」）引起顯著交感神經反應：心動過速、心律不整、心肌缺血、血壓升高、咳嗽</li>
 <li><strong>導管位置錯誤的危害</strong>：
@@ -283,7 +308,7 @@
 <li>ETT 尖端應位於氣管中點，至少高於 carina 2 cm；氣囊近端應低於聲帶至少 2 cm</li>
 <li>男性：口腔右角約 20–23 cm；女性：19–21 cm</li>
 </ul>
-<h4 id="氣管內導管位置的確認">氣管內導管位置的確認</h4>
+<h4 id="氣管內導管位置的確認">氣管內導管位置的確認<a class="anchor" href="#%e6%b0%a3%e7%ae%a1%e5%85%a7%e5%b0%8e%e7%ae%a1%e4%bd%8d%e7%bd%ae%e7%9a%84%e7%a2%ba%e8%aa%8d">#</a></h4>
 <p><strong>直接確認：</strong></p>
 <ul>
 <li>看到 ETT 通過聲帶</li>
@@ -308,7 +333,7 @@
 <li>胃/腹部通氣膨脹</li>
 </ul>
 <hr>
-<h3 id="困難氣道">困難氣道</h3>
+<h3 id="困難氣道">困難氣道<a class="anchor" href="#%e5%9b%b0%e9%9b%a3%e6%b0%a3%e9%81%93">#</a></h3>
 <p><strong>定義：</strong> Bag-mask ventilation、声門上氣道、喉鏡檢查、ETT 通過聲帶、聲門下氣道或外科氣道困難</p>
 <p><strong>預防措施：</strong> 術前評估（困難氣道病史、氣道檢查）與預給氧至關重要</p>
 <p><strong>預期困難氣道時考慮：</strong></p>
@@ -330,7 +355,7 @@
 <li>緊急侵襲性氣道（如外科氣道、經皮氣道、jet ventilation、逆向插管）</li>
 </ol>
 <hr>
-<h3 id="氧氣治療">氧氣治療</h3>
+<h3 id="氧氣治療">氧氣治療<a class="anchor" href="#%e6%b0%a7%e6%b0%a3%e6%b2%bb%e7%99%82">#</a></h3>
 <p><strong>目標：</strong> 維持 SaO₂ &gt;90%</p>
 <p><strong>低流量系統（0–10 L/min）：</strong></p>
 <ul>
@@ -347,8 +372,8 @@
 <li>Venturi mask：可變空氣入口调节特定 FiO₂（24–50%），FiO₂ 由面罩端口決定而非流量決定</li>
 </ul>
 <hr>
-<h3 id="通氣ventilation">通氣（Ventilation）</h3>
-<h4 id="適應症">適應症</h4>
+<h3 id="通氣ventilation">通氣（Ventilation）<a class="anchor" href="#%e9%80%9a%e6%b0%a3ventilation">#</a></h3>
+<h4 id="適應症">適應症<a class="anchor" href="#%e9%81%a9%e6%87%89%e7%97%87">#</a></h4>
 <ul>
 <li>Apnea</li>
 <li>換氣不足/急性呼吸性酸中毒</li>
@@ -357,7 +382,7 @@
 <li>提供 PEEP</li>
 <li>腹內壓升高（如腹腔鏡手術）</li>
 </ul>
-<h4 id="併發症">併發症</h4>
+<h4 id="併發症">併發症<a class="anchor" href="#%e4%bd%b5%e7%99%bc%e7%97%87">#</a></h4>
 <ul>
 <li><strong>氣道</strong>：氣管狹窄、喉部水腫</li>
 <li><strong>肺泡</strong>：VILI（氣壓傷、容量傷、肺泡塌陷傷）、VAP、炎症、auto-PEEP、人機不同步</li>
@@ -365,7 +390,7 @@
 <li><strong>神經肌肉</strong>：肌肉萎縮（尤其是橫膈）</li>
 <li><strong>代謝</strong>：過度換氣致 CO₂ 減少、慢性高碳酸鹽糾正過度時的鹼血症</li>
 </ul>
-<h4 id="通氣模式">通氣模式</h4>
+<h4 id="通氣模式">通氣模式<a class="anchor" href="#%e9%80%9a%e6%b0%a3%e6%a8%a1%e5%bc%8f">#</a></h4>
 <table>
   <thead>
       <tr>
@@ -401,8 +426,8 @@
   </tbody>
 </table>
 <hr>
-<h3 id="術中管理">術中管理</h3>
-<h4 id="體溫">體溫</h4>
+<h3 id="術中管理">術中管理<a class="anchor" href="#%e8%a1%93%e4%b8%ad%e7%ae%a1%e7%90%86">#</a></h3>
+<h4 id="體溫">體溫<a class="anchor" href="#%e9%ab%94%e6%ba%ab">#</a></h4>
 <p><strong>低體溫（&lt;36.0°C）原因：</strong></p>
 <ul>
 <li>手術室環境（冷間、輸液、器械）</li>
@@ -420,7 +445,7 @@
 </ul>
 <p><strong>低體溫的影響：</strong> 傷口感染↑、住院時間延長、凝血功能下降、出血增加、心室纖維顫動↑、麻醉劑代謝延遲</p>
 <hr>
-<h4 id="心律">心律</h4>
+<h4 id="心律">心律<a class="anchor" href="#%e5%bf%83%e5%be%8b">#</a></h4>
 <p><strong>心臟驟停（Pulseless arrest）：</strong></p>
 <p><strong>四種心律分類：</strong></p>
 <ul>
@@ -464,7 +489,7 @@
 <li>低體溫與甲狀腺機能減退</li>
 </ul>
 <hr>
-<h4 id="血壓">血壓</h4>
+<h4 id="血壓">血壓<a class="anchor" href="#%e8%a1%80%e5%a3%93">#</a></h4>
 <p><strong>術中低血壓/休克原因：</strong></p>
 <table>
   <thead>
@@ -520,7 +545,7 @@
 <li>高代謝狀態（MHS、NMS、Serotonin syndrome、甲狀腺風暴、嗜鉻細胞瘤）</li>
 </ul>
 <hr>
-<h4 id="液體平衡與復甦">液體平衡與復甦</h4>
+<h4 id="液體平衡與復甦">液體平衡與復甦<a class="anchor" href="#%e6%b6%b2%e9%ab%94%e5%b9%b3%e8%a1%a1%e8%88%87%e5%be%a9%e7%94%a6">#</a></h4>
 <p><strong>公式：</strong> 總需求 = 維持 + 缺口 + 持續流失</p>
 <p><strong>維持液（4-2-1 rule）：</strong></p>
 <ul>
@@ -542,10 +567,9 @@
 <li>&lt;5%：皮膚彈性降低、眼睛凹陷、黏膜乾燥</li>
 <li>5–6%：寡尿、姿態性低血壓、心搏過速、四肢冰冷</li>
 <li>
-<blockquote>
+<blockquote class='book-hint '>
 <p>9%：嚴重寡尿或無尿、中樞神經功能受損</p>
-</blockquote>
-</li>
+</blockquote></li>
 </ul>
 <p><strong>術中流失：</strong> 傳統上包括：失血、大型手術切口不顯性流失、Foley 導尿管、NG 管、外科引流液；第三腔隙液體隔離</p>
 <p><strong>靜脈輸液選擇：</strong></p>
@@ -605,10 +629,9 @@
 <pre tabindex="0"><code>EBV = 體重（kg）× 血量（mL/kg）
 ABL = [Hb(初始) - Hb(目標)] × EBV / Hb(初始)
 例：70 kg 男性，初始 Hb 150 g/L，目標 70 g/L
-ABL = (150-70) × 4900 / 150 ≈ 2600 mL
-</code></pre><hr>
-<h3 id="麻醉誘導">麻醉誘導</h3>
-<h4 id="常規誘導-vs-快速序列誘導rsi">常規誘導 vs. 快速序列誘導（RSI）</h4>
+ABL = (150-70) × 4900 / 150 ≈ 2600 mL</code></pre><hr>
+<h3 id="麻醉誘導">麻醉誘導<a class="anchor" href="#%e9%ba%bb%e9%86%89%e8%aa%98%e5%b0%8e">#</a></h3>
+<h4 id="常規誘導-vs-快速序列誘導rsi">常規誘導 vs. 快速序列誘導（RSI）<a class="anchor" href="#%e5%b8%b8%e8%a6%8f%e8%aa%98%e5%b0%8e-vs-%e5%bf%ab%e9%80%9f%e5%ba%8f%e5%88%97%e8%aa%98%e5%b0%8ersi">#</a></h4>
 <table>
   <thead>
       <tr>
@@ -666,8 +689,8 @@ ABL = (150-70) × 4900 / 150 ≈ 2600 mL
   </tbody>
 </table>
 <hr>
-<h3 id="誘導藥物">誘導藥物</h3>
-<h4 id="靜脈誘導藥物">靜脈誘導藥物</h4>
+<h3 id="誘導藥物">誘導藥物<a class="anchor" href="#%e8%aa%98%e5%b0%8e%e8%97%a5%e7%89%a9">#</a></h3>
+<h4 id="靜脈誘導藥物">靜脈誘導藥物<a class="anchor" href="#%e9%9d%9c%e8%84%88%e8%aa%98%e5%b0%8e%e8%97%a5%e7%89%a9">#</a></h4>
 <table>
   <thead>
       <tr>
@@ -714,7 +737,7 @@ ABL = (150-70) × 4900 / 150 ≈ 2600 mL
       </tr>
   </tbody>
 </table>
-<h4 id="吸入性麻醉劑">吸入性麻醉劑</h4>
+<h4 id="吸入性麻醉劑">吸入性麻醉劑<a class="anchor" href="#%e5%90%b8%e5%85%a5%e6%80%a7%e9%ba%bb%e9%86%89%e5%8a%91">#</a></h4>
 <table>
   <thead>
       <tr>
@@ -777,8 +800,8 @@ ABL = (150-70) × 4900 / 150 ≈ 2600 mL
 <li>降低 MAC：急性酒精中毒、低體溫、鎮靜藥物、高齡、慢性安非他命使用、藥物（opioids、benzodiazepines）、α2 激動劑、N₂O、IV 麻醉劑、休克</li>
 </ul>
 <hr>
-<h3 id="肌肉鬆弛劑與逆轉劑">肌肉鬆弛劑與逆轉劑</h3>
-<h4 id="肌肉鬆弛劑類型">肌肉鬆弛劑類型</h4>
+<h3 id="肌肉鬆弛劑與逆轉劑">肌肉鬆弛劑與逆轉劑<a class="anchor" href="#%e8%82%8c%e8%82%89%e9%ac%86%e5%bc%9b%e5%8a%91%e8%88%87%e9%80%86%e8%bd%89%e5%8a%91">#</a></h3>
+<h4 id="肌肉鬆弛劑類型">肌肉鬆弛劑類型<a class="anchor" href="#%e8%82%8c%e8%82%89%e9%ac%86%e5%bc%9b%e5%8a%91%e9%a1%9e%e5%9e%8b">#</a></h4>
 <p><strong>去極化型（Depolarizing）：Succinylcholine（SCh）</strong></p>
 <ul>
 <li>機制：模擬 ACh 引起持續去極化</li>
@@ -847,7 +870,7 @@ ABL = (150-70) × 4900 / 150 ≈ 2600 mL
       </tr>
   </tbody>
 </table>
-<h4 id="逆轉劑">逆轉劑</h4>
+<h4 id="逆轉劑">逆轉劑<a class="anchor" href="#%e9%80%86%e8%bd%89%e5%8a%91">#</a></h4>
 <table>
   <thead>
       <tr>
@@ -891,7 +914,7 @@ ABL = (150-70) × 4900 / 150 ≈ 2600 mL
 </table>
 <p><strong>重要：</strong> Neostigmine/Pyridostigmine/Edrophonium 為 competitive inhibitors，只能在阻斷有所恢復後使用（需有 train-of-four 反應）；只能逆轉 NDMRs</p>
 <hr>
-<h3 id="拔管extubation">拔管（Extubation）</h3>
+<h3 id="拔管extubation">拔管（Extubation）<a class="anchor" href="#%e6%8b%94%e7%ae%a1extubation">#</a></h3>
 <p><strong>標準：</strong></p>
 <ul>
 <li>不再有插管需求</li>
@@ -915,7 +938,7 @@ ABL = (150-70) × 4900 / 150 ≈ 2600 mL
 <li><strong>晚期</strong>：短暫聲帶功能障礙、水腫（聲門、聲門下）、咽炎、氣管炎</li>
 </ul>
 <hr>
-<h3 id="喉痙攣laryngospasm">喉痙攣（Laryngospasm）</h3>
+<h3 id="喉痙攣laryngospasm">喉痙攣（Laryngospasm）<a class="anchor" href="#%e5%96%89%e7%97%99%e6%94%a3laryngospasm">#</a></h3>
 <p><strong>定義：</strong> 上喉神經受刺激（咽部分泌物、血液、早期拔管）引起的聲門肌肉強直痙攣；導致部分或完全氣道阻塞</p>
 <p><strong>好發於牛清醒患者</strong></p>
 <p><strong>預防：</strong> 患者仍處深度麻醉或完全清醒時拔管</p>
@@ -929,8 +952,8 @@ ABL = (150-70) × 4900 / 150 ≈ 2600 mL
 <li>如缺氧未改善則重新插管</li>
 </ul>
 <hr>
-<h2 id="區域麻醉">區域麻醉</h2>
-<h3 id="概述">概述</h3>
+<h2 id="區域麻醉">區域麻醉<a class="anchor" href="#%e5%8d%80%e5%9f%9f%e9%ba%bb%e9%86%89">#</a></h2>
+<h3 id="概述">概述<a class="anchor" href="#%e6%a6%82%e8%bf%b0">#</a></h3>
 <ul>
 <li>局部麻醉藥注射於周邊神經任一點（從脊髓到神經末梢，不含神經末梢本身），以減少或防止衝動傳導</li>
 <li>無 CNS 抑制（除非 LA 過量）；患者保持清醒</li>
@@ -942,7 +965,7 @@ ABL = (150-70) × 4900 / 150 ≈ 2600 mL
 </ul>
 </li>
 </ul>
-<h3 id="硬膜外與脊椎麻醉">硬膜外與脊椎麻醉</h3>
+<h3 id="硬膜外與脊椎麻醉">硬膜外與脊椎麻醉<a class="anchor" href="#%e7%a1%ac%e8%86%9c%e5%a4%96%e8%88%87%e8%84%8a%e6%a4%8e%e9%ba%bb%e9%86%89">#</a></h3>
 <p><strong>最常用於肚臍以下手術</strong>，但可延伸至任何平面（胸腔、腹腔、下肢）</p>
 <p><strong>脊椎/硬膜外解剖（成年人）：</strong></p>
 <ul>
@@ -1024,7 +1047,7 @@ ABL = (150-70) × 4900 / 150 ≈ 2600 mL
 </ul>
 <p><strong>區域麻醉的優勢：</strong> 減少肺部併發症、減少術後止痛需求、降低 PONV、可監測 CNS 功能、改善灌流、降低 VTE 發生率、縮短恢復與改善康復、保留運動功能</p>
 <hr>
-<h3 id="周邊神經阻斷">周邊神經阻斷</h3>
+<h3 id="周邊神經阻斷">周邊神經阻斷<a class="anchor" href="#%e5%91%a8%e9%82%8a%e7%a5%9e%e7%b6%93%e9%98%bb%e6%96%b7">#</a></h3>
 <ul>
 <li>LA 注射於目標神經或神經叢</li>
 <li>超音波引導與周邊神經刺激可用於導引針頭到達目標/刺激神經，同時避免神經創傷或神經內注射</li>
@@ -1034,7 +1057,7 @@ ABL = (150-70) × 4900 / 150 ≈ 2600 mL
 </ul>
 <p><strong>禁忌：</strong> 對 LA 過敏、拒絕、缺乏復甦設備；相對禁忌：既有神經功能障礙、局部感染、出血體質</p>
 <hr>
-<h3 id="局部麻醉藥">局部麻醉藥</h3>
+<h3 id="局部麻醉藥">局部麻醉藥<a class="anchor" href="#%e5%b1%80%e9%83%a8%e9%ba%bb%e9%86%89%e8%97%a5">#</a></h3>
 <p><strong>作用機制：</strong> LA 與 Na⁺ 通道細胞質側受體結合，抑制 Na⁺ 流動，阻斷衝動傳導</p>
 <p><strong>吸收、分布與代謝：</strong></p>
 <ul>
@@ -1105,7 +1128,7 @@ ABL = (150-70) × 4900 / 150 ≈ 2600 mL
   </tbody>
 </table>
 <hr>
-<h3 id="全身毒性last-local-anesthetic-systemic-toxicity">全身毒性（LAST, Local Anesthetic Systemic Toxicity）</h3>
+<h3 id="全身毒性last-local-anesthetic-systemic-toxicity">全身毒性（LAST, Local Anesthetic Systemic Toxicity）<a class="anchor" href="#%e5%85%a8%e8%ba%ab%e6%af%92%e6%80%a7last-local-anesthetic-systemic-toxicity">#</a></h3>
 <p><strong>原因：</strong> 意外血管內注射、LA 過量、吸收過快</p>
 <p><strong>CNS 效應（順序出現）：</strong></p>
 <ol>
@@ -1135,21 +1158,21 @@ ABL = (150-70) × 4900 / 150 ≈ 2600 mL
 <li><strong>Intralipid® 20%</strong> 結合循環中的局部麻醉藥</li>
 </ol>
 <hr>
-<h3 id="其他局部麻醉技術">其他局部麻醉技術</h3>
+<h3 id="其他局部麻醉技術">其他局部麻醉技術<a class="anchor" href="#%e5%85%b6%e4%bb%96%e5%b1%80%e9%83%a8%e9%ba%bb%e9%86%89%e6%8a%80%e8%a1%93">#</a></h3>
 <p><strong>局部浸潤：</strong> 將 LA 注入組織；適用於小切口、縫合、小病灶切除；可用較大容積稀釋 LA；低濃度 epinephrine（1:100,000–1:200,000）可血管收縮減少出血並延長 LA 效果</p>
 <p><strong>骨折血腫阻斷：</strong> 骨折產生的血腫注入 LA 以麻醉周圍組織；感覺阻斷可能不完全；無肌肉鬆弛</p>
 <p><strong>表面麻醉：</strong> 多種 LA 製劑可用於表面使用（如 EMLA® = lidocaine 2.5% + prilocaine 2.5%）；需能穿透皮膚或黏膜</p>
 <hr>
-<h2 id="全身麻醉">全身麻醉</h2>
-<h3 id="全身麻醉的維持">全身麻醉的維持</h3>
+<h2 id="全身麻醉">全身麻醉<a class="anchor" href="#%e5%85%a8%e8%ba%ab%e9%ba%bb%e9%86%89">#</a></h2>
+<h3 id="全身麻醉的維持">全身麻醉的維持<a class="anchor" href="#%e5%85%a8%e8%ba%ab%e9%ba%bb%e9%86%89%e7%9a%84%e7%b6%ad%e6%8c%81">#</a></h3>
 <ul>
 <li>維持：吸入性麻醉劑及/或 IV 藥物（如 propofol 輸注）</li>
 <li>Analgesia：IV opioids、區域阻斷、神經軸阻斷</li>
 <li>根據需要給予肌肉鬆弛劑</li>
 </ul>
 <hr>
-<h2 id="術後照護">術後照護</h2>
-<h3 id="術後常見麻醉併發症">術後常見麻醉併發症</h3>
+<h2 id="術後照護">術後照護<a class="anchor" href="#%e8%a1%93%e5%be%8c%e7%85%a7%e8%ad%b7">#</a></h2>
+<h3 id="術後常見麻醉併發症">術後常見麻醉併發症<a class="anchor" href="#%e8%a1%93%e5%be%8c%e5%b8%b8%e8%a6%8b%e9%ba%bb%e9%86%89%e4%bd%b5%e7%99%bc%e7%97%87">#</a></h3>
 <p><strong>疼痛控制不佳：</strong> 見下方疼痛管理</p>
 <p><strong>噁心與嘔吐（PONV）：</strong></p>
 <ul>
@@ -1176,23 +1199,23 @@ ABL = (150-70) × 4900 / 150 ≈ 2600 mL
 <p><strong>低血壓：</strong> 鑑別與處理需快速，以防止灌流不足和缺血性損傷；常見原因為低血容量與周邊血管擴張；首選治療通常為輸液 + 血管加壓劑</p>
 <p><strong>高血壓：</strong> 疼痛、高碳酸血症、缺氧、血管內容積過多、交感神經藥物可引起；可用 IV nitroglycerin、hydralazine、鈣通道阻斷劑或 B-blockers（esmolol、metoprolol）治療</p>
 <hr>
-<h2 id="疼痛管理">疼痛管理</h2>
-<h3 id="定義">定義</h3>
+<h2 id="疼痛管理">疼痛管理<a class="anchor" href="#%e7%96%bc%e7%97%9b%e7%ae%a1%e7%90%86">#</a></h2>
+<h3 id="定義">定義<a class="anchor" href="#%e5%ae%9a%e7%be%a9">#</a></h3>
 <ul>
 <li><strong>疼痛</strong>：與實際或潛在組織損傷相關的不愉快感覺與情感體驗（IASP 2020 更新定義）</li>
 <li><strong>傷害感受（Nociception）</strong>：有害刺激的偵測、傳導與傳遞</li>
 </ul>
-<h3 id="分類">分類</h3>
+<h3 id="分類">分類<a class="anchor" href="#%e5%88%86%e9%a1%9e">#</a></h3>
 <ul>
 <li><strong>時間</strong>：急性 vs. 慢性</li>
 <li><strong>機制</strong>：傷害感受性 vs. 神經病理性</li>
 </ul>
-<h3 id="急性疼痛">急性疼痛</h3>
+<h3 id="急性疼痛">急性疼痛<a class="anchor" href="#%e6%80%a5%e6%80%a7%e7%96%bc%e7%97%9b">#</a></h3>
 <ul>
 <li>短暫疼痛（&lt;6 週），通常與手術創傷或急性疾病相關；常伴隨炎症</li>
 <li>通常限於受損/創傷區域，隨康復消失</li>
 </ul>
-<h3 id="藥物治療">藥物治療</h3>
+<h3 id="藥物治療">藥物治療<a class="anchor" href="#%e8%97%a5%e7%89%a9%e6%b2%bb%e7%99%82">#</a></h3>
 <p><strong>WHO 止痛階梯：</strong></p>
 <ol>
 <li><strong>非opioid</strong>（NSAID）± Adjuvant</li>
@@ -1242,7 +1265,7 @@ ABL = (150-70) × 4900 / 150 ≈ 2600 mL
 <li>Fentanyl：100 µg IV</li>
 </ul>
 <hr>
-<h3 id="pcapatient-controlled-analgesia">PCA（Patient Controlled Analgesia）</h3>
+<h3 id="pcapatient-controlled-analgesia">PCA（Patient Controlled Analgesia）<a class="anchor" href="#pcapatient-controlled-analgesia">#</a></h3>
 <ul>
 <li>電腦幫浦持續輸注 + 患者自行按壓追加 bolus</li>
 <li>以 lockout interval 限制</li>
@@ -1280,7 +1303,7 @@ ABL = (150-70) × 4900 / 150 ≈ 2600 mL
 </table>
 <p><strong>優勢：</strong> 提高患者滿意度、減少副作用、适应患者個別差異與需求變化</p>
 <hr>
-<h3 id="opioid-拮抗劑naloxonenaltrexone">Opioid 拮抗劑（Naloxone、Naltrexone）</h3>
+<h3 id="opioid-拮抗劑naloxonenaltrexone">Opioid 拮抗劑（Naloxone、Naltrexone）<a class="anchor" href="#opioid-%e6%8b%ae%e6%8a%97%e5%8a%91naloxonenaltrexone">#</a></h3>
 <ul>
 <li><strong>適應症：</strong> Opioid 過量（主要表現於 CNS，如意識障礙、呼吸抑制）</li>
 <li><strong>機制：</strong> 競爭性抑制 opioid 受體（主要 µ-opioid 受體）</li>
@@ -1289,28 +1312,28 @@ ABL = (150-70) × 4900 / 150 ≈ 2600 mL
 <li><strong>副作用：</strong> Naloxone 相對過量可能引起：噁心、躁動、出汗、心搏過速、高血壓、疼痛再現、肺水腫、癲癇（實質上為 opioid 戒斷）</li>
 </ul>
 <hr>
-<h3 id="神經病理性疼痛">神經病理性疼痛</h3>
+<h3 id="神經病理性疼痛">神經病理性疼痛<a class="anchor" href="#%e7%a5%9e%e7%b6%93%e7%97%85%e7%90%86%e6%80%a7%e7%96%bc%e7%97%9b">#</a></h3>
 <p>見 Neurology（N43）</p>
-<h3 id="慢性疼痛">慢性疼痛</h3>
+<h3 id="慢性疼痛">慢性疼痛<a class="anchor" href="#%e6%85%a2%e6%80%a7%e7%96%bc%e7%97%9b">#</a></h3>
 <ul>
 <li>持續或復發超過 3 個月的疼痛</li>
 <li>強度或持續時間超過正常組織癒合，負面影響功能</li>
 <li><strong>術前期</strong>：考慮繼續常規長效止痛藥 + 以區域技術、adjuvants、額外 opioid 止痛、非藥物技術（正念、物理治療、針灸）輔助</li>
 </ul>
-<h3 id="中樞敏感化">中樞敏感化</h3>
+<h3 id="中樞敏感化">中樞敏感化<a class="anchor" href="#%e4%b8%ad%e6%a8%9e%e6%95%8f%e6%84%9f%e5%8c%96">#</a></h3>
 <ul>
 <li>中樞敏感化：由 CNS 機制引起的痛覺過敏（hyperalgesia）</li>
 <li>可能涉及傷害感受性與神經病理性成分；止痛途徑失調</li>
 <li>在纖維肌痛中起作用</li>
 </ul>
-<h3 id="慢性術後疼痛cpsp">慢性術後疼痛（CPSP）</h3>
+<h3 id="慢性術後疼痛cpsp">慢性術後疼痛（CPSP）<a class="anchor" href="#%e6%85%a2%e6%80%a7%e8%a1%93%e5%be%8c%e7%96%bc%e7%97%9bcpsp">#</a></h3>
 <ul>
 <li>手術後發生並持續至少 2 個月的疼痛</li>
 <li>主要預測因子：慢性疼痛病史；其他風險因子包括：女性、手術方式/路徑、社會支持差、災難化行為</li>
 </ul>
 <hr>
-<h2 id="產科麻醉">產科麻醉</h2>
-<h3 id="妊娠期麻醉考量">妊娠期麻醉考量</h3>
+<h2 id="產科麻醉">產科麻醉<a class="anchor" href="#%e7%94%a2%e7%a7%91%e9%ba%bb%e9%86%89">#</a></h2>
+<h3 id="妊娠期麻醉考量">妊娠期麻醉考量<a class="anchor" href="#%e5%a6%8a%e5%a8%a0%e6%9c%9f%e9%ba%bb%e9%86%89%e8%80%83%e9%87%8f">#</a></h3>
 <p><strong>氣道：</strong> 組織水腫脆弱，direct laryngoscopy 可能困難</p>
 <p><strong>呼吸系統：</strong> FRC 減少 + O₂ 消耗增加 → 呼吸暫停時更快缺氧</p>
 <p><strong>心血管系統：</strong></p>
@@ -1332,7 +1355,7 @@ ABL = (150-70) × 4900 / 150 ≈ 2600 mL
 <li>腹內壓升高</li>
 <li>以上皆增加 aspiration 風險 → 手術前立即給予 sodium citrate 30 cc PO 中和胃酸</li>
 </ul>
-<h3 id="分娩止痛選項">分娩止痛選項</h3>
+<h3 id="分娩止痛選項">分娩止痛選項<a class="anchor" href="#%e5%88%86%e5%a8%a9%e6%ad%a2%e7%97%9b%e9%81%b8%e9%a0%85">#</a></h3>
 <ol>
 <li><strong>心理預防</strong>（Lamaze 法）：呼吸模式與專注</li>
 <li><strong>全身藥物</strong>：易給予，但有母體或新生兒呼吸抑制風險；如分娩預計 &gt;4 小時，常用 fentanyl</li>
@@ -1340,14 +1363,14 @@ ABL = (150-70) × 4900 / 150 ≈ 2600 mL
 <li><strong>神經軸麻醉（硬膜外/脊椎）</strong>：止痛效果最佳、抑制作用最小；主要併發症：阻斷不足與低血壓；硬膜外通常為首選（保留運動功能）</li>
 </ol>
 <p><strong>脊椎/硬膜外禁忌（相對）：</strong> 血小板不足</p>
-<h3 id="剖腹產止痛選項">剖腹產止痛選項</h3>
+<h3 id="剖腹產止痛選項">剖腹產止痛選項<a class="anchor" href="#%e5%89%96%e8%85%b9%e7%94%a2%e6%ad%a2%e7%97%9b%e9%81%b8%e9%a0%85">#</a></h3>
 <ul>
 <li>神經軸：脊椎或硬膜外</li>
 <li>全身：如果有禁忌或時間不允許區域麻醉</li>
 </ul>
 <hr>
-<h2 id="小兒麻醉">小兒麻醉</h2>
-<h3 id="呼吸系統差異">呼吸系統差異</h3>
+<h2 id="小兒麻醉">小兒麻醉<a class="anchor" href="#%e5%b0%8f%e5%85%92%e9%ba%bb%e9%86%89">#</a></h2>
+<h3 id="呼吸系統差異">呼吸系統差異<a class="anchor" href="#%e5%91%bc%e5%90%b8%e7%b3%bb%e7%b5%b1%e5%b7%ae%e7%95%b0">#</a></h3>
 <p><strong>解剖差異：</strong></p>
 <ul>
 <li>頭大、氣管短/頸短、舌頭大、喉部更上更前、腺樣體與扁桃腺</li>
@@ -1364,42 +1387,42 @@ ABL = (150-70) × 4900 / 150 ≈ 2600 mL
 <li>V/Q mismatch 更多（肺順應性低源於肺泡未成熟，8 歲成熟）</li>
 <li>呼吸功更大（胸壁順應性高、肋間肌/橫膈較弱、氣流阻力更高）</li>
 </ul>
-<h3 id="心血管系統差異">心血管系統差異</h3>
+<h3 id="心血管系統差異">心血管系統差異<a class="anchor" href="#%e5%bf%83%e8%a1%80%e7%ae%a1%e7%b3%bb%e7%b5%b1%e5%b7%ae%e7%95%b0">#</a></h3>
 <ul>
 <li>出生時血量約 80 mL/kg；失血 &gt;10% 血量時開始輸血</li>
 <li>兒童 HR 高、血壓低</li>
 <li>CO 取決於 HR 而非 SV（心室壁順應性低）；心搏過緩嚴重損害 CO</li>
 </ul>
-<h3 id="體溫調節">體溫調節</h3>
+<h3 id="體溫調節">體溫調節<a class="anchor" href="#%e9%ab%94%e6%ba%ab%e8%aa%bf%e7%af%80">#</a></h3>
 <ul>
 <li>易患低體溫</li>
 <li>預防：加溫毯、覆蓋嬰兒頭部、吸入氣體加濕、加溫輸液</li>
 </ul>
-<h3 id="中樞神經系統">中樞神經系統</h3>
+<h3 id="中樞神經系統">中樞神經系統<a class="anchor" href="#%e4%b8%ad%e6%a8%9e%e7%a5%9e%e7%b6%93%e7%b3%bb%e7%b5%b1">#</a></h3>
 <ul>
 <li>Halothane MAC：新生兒 0.87%、嬰兒 1.2%（均高於成人 0.75%）</li>
 <li>NMJ 成熟前 4 週對非去極化肌肉鬆弛劑敏感度增加</li>
 <li>副交感神經出生時成熟，交感神經 4–6 個月時成熟 → 自主神經失衡</li>
 <li>嬰兒腦部占體重 12%、接受 34% CO（成人：2% 體重、14% CO）</li>
 </ul>
-<h3 id="血糖維持">血糖維持</h3>
+<h3 id="血糖維持">血糖維持<a class="anchor" href="#%e8%a1%80%e7%b3%96%e7%b6%ad%e6%8c%81">#</a></h3>
 <ul>
 <li>&lt;1 歲嬰兒術前禁食與術後如不及時餵食可能發生嚴重低血糖</li>
 <li>1 歲後兒童可維持正常血糖穩態超過 8 小時</li>
 </ul>
-<h3 id="藥理學">藥理學</h3>
+<h3 id="藥理學">藥理學<a class="anchor" href="#%e8%97%a5%e7%90%86%e5%ad%b8">#</a></h3>
 <ul>
 <li>劑量需求較高（TBW 75% vs. 成人 60%、分佈容積更大）</li>
 <li>BBB 通透性更高 → barbiturates/opioids 效能更強</li>
 </ul>
-<h3 id="肌肉鬆弛劑">肌肉鬆弛劑</h3>
+<h3 id="肌肉鬆弛劑">肌肉鬆弛劑<a class="anchor" href="#%e8%82%8c%e8%82%89%e9%ac%86%e5%bc%9b%e5%8a%91">#</a></h3>
 <ul>
 <li><strong>非去極化</strong>：NMJ 不成熟，反應多變</li>
 <li><strong>去極化</strong>：需以 atropine 預處理（否則可能因 PNS &gt; SNS 引起深度心搏過緩/竇性停搏）；對心律不整、高鉀血症、横紋肌溶解、肌紅蛋白血症、咬肌痙攣、MHS 更敏感</li>
 </ul>
 <hr>
-<h2 id="罕見併發症">罕見併發症</h2>
-<h3 id="惡性高熱malignant-hyperthermia-mh">惡性高熱（Malignant Hyperthermia, MH）</h3>
+<h2 id="罕見併發症">罕見併發症<a class="anchor" href="#%e7%bd%95%e8%a6%8b%e4%bd%b5%e7%99%bc%e7%97%87">#</a></h2>
+<h3 id="惡性高熱malignant-hyperthermia-mh">惡性高熱（Malignant Hyperthermia, MH）<a class="anchor" href="#%e6%83%a1%e6%80%a7%e9%ab%98%e7%86%b1malignant-hyperthermia-mh">#</a></h3>
 <p><strong>發病機制：</strong></p>
 <ul>
 <li>骨骼肌高代謝疾病</li>
@@ -1447,7 +1470,7 @@ ABL = (150-70) × 4900 / 150 ≈ 2600 mL
 <li>轉入 ICU</li>
 </ol>
 <hr>
-<h3 id="異常-pseudocholinesterase">異常 Pseudocholinesterase</h3>
+<h3 id="異常-pseudocholinesterase">異常 Pseudocholinesterase<a class="anchor" href="#%e7%95%b0%e5%b8%b8-pseudocholinesterase">#</a></h3>
 <ul>
 <li>Pseudocholinesterase 水解 SCh 與 mivacurium</li>
 <li>異常者使用這些藥物會延長肌肉癱瘓</li>
@@ -1455,13 +1478,13 @@ ABL = (150-70) × 4900 / 150 ≈ 2600 mL
 <li>如意外給藥：機械通氣直到功能恢復正常（不使用膽鹼酯酶抑制劑，否則作用終止後會反彈）</li>
 </ul>
 <hr>
-<h2 id="附圖與表格摘要">附圖與表格摘要</h2>
-<h3 id="困難氣道演算法見原文-figure-1920">困難氣道演算法（見原文 Figure 19–20）</h3>
+<h2 id="附圖與表格摘要">附圖與表格摘要<a class="anchor" href="#%e9%99%84%e5%9c%96%e8%88%87%e8%a1%a8%e6%a0%bc%e6%91%98%e8%a6%81">#</a></h2>
+<h3 id="困難氣道演算法見原文-figure-1920">困難氣道演算法（見原文 Figure 19–20）<a class="anchor" href="#%e5%9b%b0%e9%9b%a3%e6%b0%a3%e9%81%93%e6%bc%94%e7%ae%97%e6%b3%95%e8%a6%8b%e5%8e%9f%e6%96%87-figure-1920">#</a></h3>
 <ul>
 <li><strong>非預期困難插管（無意識患者）</strong>：確保 NMB → 單次嘗試任何未用過的工具（SGA、優化後 FMV、超角度 VL）→ 評估是否可 face mask ventilation → 考慮喚醒患者或緊急前方氣道/外科氣道</li>
 <li><strong>預期困難插管</strong>：AT 明確指示時使用 AT；FMV/SGA 可能也困難時考慮 awake 技術</li>
 </ul>
-<h3 id="心臟驟停處理成人">心臟驟停處理（成人）</h3>
+<h3 id="心臟驟停處理成人">心臟驟停處理（成人）<a class="anchor" href="#%e5%bf%83%e8%87%9f%e9%a9%9f%e5%81%9c%e8%99%95%e7%90%86%e6%88%90%e4%ba%ba">#</a></h3>
 <ul>
 <li><strong>高品質 CPR</strong>：深度 5–6 cm（2 英寸），速率 100–120/min，完全回彈；每 2 分鐘更換按壓者</li>
 <li><strong>去顫</strong>：雙相：首次 120–200 J（未知時用最大可用劑量），其後相同，可考慮更高劑量；單相：360 J</li>
@@ -1469,7 +1492,7 @@ ABL = (150-70) × 4900 / 150 ≈ 2600 mL
 <li>進階氣道後：每 6 秒一次呼吸（10 次/分）；持續胸外按壓</li>
 <li><strong>ROSC 徵象</strong>：PETCO₂ 突然持續升高 &gt;40 mmHg、自發动脉壓波形</li>
 </ul>
-<h3 id="成人心搏過速有脈搏">成人心搏過速（有脈搏）</h3>
+<h3 id="成人心搏過速有脈搏">成人心搏過速（有脈搏）<a class="anchor" href="#%e6%88%90%e4%ba%ba%e5%bf%83%e6%90%8f%e9%81%8e%e9%80%9f%e6%9c%89%e8%84%88%e6%90%8f">#</a></h3>
 <ul>
 <li>評估臨床適當性；HR 通常 &gt;150 bpm</li>
 <li>識別與治療根本原因</li>
@@ -1479,14 +1502,14 @@ ABL = (150-70) × 4900 / 150 ≈ 2600 mL
 <li><strong>穩定型寬複合心搏過速</strong>：adenosine（如規則）、B-blocker、amiodarone、expert consultation</li>
 <li><strong>不穩定</strong>：同步 cardioversion</li>
 </ul>
-<h3 id="成人心搏過緩有脈搏">成人心搏過緩（有脈搏）</h3>
+<h3 id="成人心搏過緩有脈搏">成人心搏過緩（有脈搏）<a class="anchor" href="#%e6%88%90%e4%ba%ba%e5%bf%83%e6%90%8f%e9%81%8e%e7%b7%a9%e6%9c%89%e8%84%88%e6%90%8f">#</a></h3>
 <ul>
 <li>評估臨床適當性；HR 通常 &lt;50 bpm</li>
 <li>治療：Atropine 0.5 mg IV（最大 3 mg）；無效時經皮 pacemaker 及/或多巴胺、epinephrine 輸注</li>
 <li>考慮 expert consultation、經靜脈 pacemaker</li>
 </ul>
 <hr>
-<h2 id="重點回顧">重點回顧</h2>
+<h2 id="重點回顧">重點回顧<a class="anchor" href="#%e9%87%8d%e9%bb%9e%e5%9b%9e%e9%a1%a7">#</a></h2>
 <table>
   <thead>
       <tr>
@@ -1543,5 +1566,19 @@ ABL = (150-70) × 4900 / 150 ≈ 2600 mL
   <footer>
     <p>Powered by Hugo | Toronto Notes 2025 繁體中文翻譯</p>
   </footer>
+  <script>
+    function toggleTheme() {
+      const html = document.documentElement;
+      const current = html.getAttribute('data-theme');
+      const next = current === 'dark' ? 'light' : 'dark';
+      html.setAttribute('data-theme', next);
+      localStorage.setItem('theme', next);
+    }
+    const saved = localStorage.getItem('theme');
+    if (saved) document.documentElement.setAttribute('data-theme', saved);
+    else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+      document.documentElement.setAttribute('data-theme', 'dark');
+    }
+  </script>
 </body>
 </html>

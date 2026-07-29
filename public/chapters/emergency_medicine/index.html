@@ -5,31 +5,55 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>急診醫學 (Emergency Medicine) - Toronto Notes 2025 繁體中文</title>
   <style>
+    :root {
+      --bg-primary: #ffffff;
+      --bg-secondary: #f8fafc;
+      --text-primary: #1e293b;
+      --text-secondary: #64748b;
+      --accent: #2563eb;
+      --border: #e2e8f0;
+      --code-bg: #f1f5f9;
+      --link: #2563eb;
+      --link-visited: #5500bb;
+    }
+    [data-theme="dark"] {
+      --bg-primary: #1a1a2e;
+      --bg-secondary: #16162a;
+      --text-primary: #e4e4e7;
+      --text-secondary: #a1a1aa;
+      --accent: #93c5fd;
+      --border: #3f3f46;
+      --code-bg: #27272a;
+      --link: #93c5fd;
+      --link-visited: #c4b5fd;
+    }
     * { box-sizing: border-box; }
-    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; line-height: 1.6; color: #333; max-width: 900px; margin: 0 auto; padding: 20px; }
-    header { border-bottom: 2px solid #2563eb; padding-bottom: 10px; margin-bottom: 20px; }
-    header h1 { margin: 0; font-size: 1.5em; color: #2563eb; }
-    nav a { margin-right: 15px; color: #2563eb; text-decoration: none; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; line-height: 1.6; color: var(--text-primary); background: var(--bg-primary); max-width: 900px; margin: 0 auto; padding: 20px; }
+    header { border-bottom: 2px solid var(--accent); padding-bottom: 10px; margin-bottom: 20px; display: flex; justify-content: space-between; align-items: center; }
+    header h1 { margin: 0; font-size: 1.5em; color: var(--accent); }
+    nav a { margin-right: 15px; color: var(--link); text-decoration: none; }
     nav a:hover { text-decoration: underline; }
-    h1, h2, h3 { color: #1e293b; }
-    h1 { font-size: 1.8em; border-bottom: 1px solid #e2e8f0; padding-bottom: 8px; }
-    h2 { font-size: 1.4em; border-bottom: 1px solid #e2e8f0; padding-bottom: 5px; }
+    h1, h2, h3 { color: var(--text-primary); }
+    h1 { font-size: 1.8em; border-bottom: 1px solid var(--border); padding-bottom: 8px; }
+    h2 { font-size: 1.4em; border-bottom: 1px solid var(--border); padding-bottom: 5px; }
     h3 { font-size: 1.15em; }
-    pre { background: #f1f5f9; padding: 15px; border-radius: 6px; overflow-x: auto; }
-    code { background: #f1f5f9; padding: 2px 5px; border-radius: 3px; font-size: 0.9em; }
+    pre { background: var(--code-bg); padding: 15px; border-radius: 6px; overflow-x: auto; }
+    code { background: var(--code-bg); padding: 2px 5px; border-radius: 3px; font-size: 0.9em; }
     pre code { background: none; padding: 0; }
-    blockquote { border-left: 4px solid #2563eb; margin: 0; padding: 5px 15px; color: #64748b; background: #f8fafc; }
+    blockquote { border-left: 4px solid var(--accent); margin: 0; padding: 5px 15px; color: var(--text-secondary); background: var(--bg-secondary); }
     table { border-collapse: collapse; width: 100%; margin: 15px 0; }
-    th, td { border: 1px solid #cbd5e1; padding: 8px 12px; text-align: left; }
-    th { background: #f1f5f9; font-weight: 600; }
-    tr:nth-child(even) { background: #f8fafc; }
+    th, td { border: 1px solid var(--border); padding: 8px 12px; text-align: left; }
+    th { background: var(--bg-secondary); font-weight: 600; }
+    tr:nth-child(even) { background: var(--bg-secondary); }
     .content-body { line-height: 1.8; }
-    footer { border-top: 1px solid #e2e8f0; margin-top: 30px; padding-top: 15px; color: #64748b; font-size: 0.9em; }
-    .breadcrumb { font-size: 0.9em; color: #64748b; margin-bottom: 15px; }
-    .breadcrumb a { color: #2563eb; text-decoration: none; }
-    a { color: #2563eb; }
+    footer { border-top: 1px solid var(--border); margin-top: 30px; padding-top: 15px; color: var(--text-secondary); font-size: 0.9em; }
+    .breadcrumb { font-size: 0.9em; color: var(--text-secondary); margin-bottom: 15px; }
+    .breadcrumb a { color: var(--link); text-decoration: none; }
+    a { color: var(--link); }
     a:hover { text-decoration: underline; }
     img { max-width: 100%; height: auto; }
+    .theme-toggle { background: none; border: 1px solid var(--border); color: var(--text-primary); cursor: pointer; padding: 4px 10px; border-radius: 4px; font-size: 0.85em; }
+    .theme-toggle:hover { background: var(--bg-secondary); }
   </style>
 </head>
 <body>
@@ -38,6 +62,7 @@
       <a href="https://b101108063-ops.github.io/Toronto_note/">首頁</a>
       <a href="/Toronto_note/categories/">章節</a>
     </nav>
+    <button class="theme-toggle" onclick="toggleTheme()">🌙 暗色</button>
   </header>
 
   <main>
@@ -49,7 +74,7 @@
       <div class="content-body">
         <p><em>Toronto Notes 2025</em></p>
 <hr>
-<h2 id="導讀摘要">導讀摘要</h2>
+<h2 id="導讀摘要">導讀摘要<a class="anchor" href="#%e5%b0%8e%e8%ae%80%e6%91%98%e8%a6%81">#</a></h2>
 <p>本章節涵蓋急診醫學的核心內容，摘要如下：</p>
 <ul>
 <li><strong>創傷處理與復甦</strong>：Hemorrhagic shock 的分類與治療、Glasgow Coma Scale、CPR guideline、創傷 Primary survey 與 Secondary survey</li>
@@ -59,10 +84,10 @@
 <li><strong>專科急診</strong>：Otolaryngology、ophthalmology、dermatology、gynecology/urology 緊急狀況的處置</li>
 </ul>
 <hr>
-<h2 id="急診醫學概論">急診醫學概論</h2>
-<h3 id="創傷與復甦trauma-and-resuscitation">創傷與復甦（Trauma and Resuscitation）</h3>
-<h4 id="primary-survey-與-abcs">Primary Survey 與 ABCs</h4>
-<h5 id="hemorrhagic-shock-的分類">Hemorrhagic Shock 的分類</h5>
+<h2 id="急診醫學概論">急診醫學概論<a class="anchor" href="#%e6%80%a5%e8%a8%ba%e9%86%ab%e5%ad%b8%e6%a6%82%e8%ab%96">#</a></h2>
+<h3 id="創傷與復甦trauma-and-resuscitation">創傷與復甦（Trauma and Resuscitation）<a class="anchor" href="#%e5%89%b5%e5%82%b7%e8%88%87%e5%be%a9%e7%94%a6trauma-and-resuscitation">#</a></h3>
+<h4 id="primary-survey-與-abcs">Primary Survey 與 ABCs<a class="anchor" href="#primary-survey-%e8%88%87-abcs">#</a></h4>
+<h5 id="hemorrhagic-shock-的分類">Hemorrhagic Shock 的分類<a class="anchor" href="#hemorrhagic-shock-%e7%9a%84%e5%88%86%e9%a1%9e">#</a></h5>
 <p>失血性休克的分類是根據血液流失量、生命徵象變化和臨床表徵來判斷：</p>
 <table>
   <thead>
@@ -126,7 +151,7 @@
   </tbody>
 </table>
 <p><strong>注意</strong>：對血液流失的生理反應因人而異，會受到年齡、共病症、用藥等因素影響。</p>
-<h5 id="hemorrhagic-shock-的處理">Hemorrhagic Shock 的處理</h5>
+<h5 id="hemorrhagic-shock-的處理">Hemorrhagic Shock 的處理<a class="anchor" href="#hemorrhagic-shock-%e7%9a%84%e8%99%95%e7%90%86">#</a></h5>
 <ul>
 <li>先清除呼吸道並同時評估呼吸</li>
 <li>外部傷口直接加壓止血並抬高四肢。不要在急診移除穿刺物，因為可能正在 tamponade 出血</li>
@@ -135,7 +160,7 @@
 <li>若有「大量輸血 protocol」，包含 tranexamic acid、FFP、體溫控制、及時逆轉抗凝</li>
 <li>評估常見內出血位置（腹部、胸部、骨盆腔、長骨、腸胃道），可能需要外科介入</li>
 </ul>
-<h5 id="glasgow-coma-scale-gcs">Glasgow Coma Scale (GCS)</h5>
+<h5 id="glasgow-coma-scale-gcs">Glasgow Coma Scale (GCS)<a class="anchor" href="#glasgow-coma-scale-gcs">#</a></h5>
 <p>GCS 是用於評估創傷患者意識狀態的工具，可判斷損傷嚴重程度和神經外科預後：</p>
 <table>
   <thead>
@@ -204,7 +229,7 @@
 <li>若患者已插管，GCS 會以 10+T 報告（T = tubed，無言語部分）</li>
 <li>GCS 下降需要立即處理；預後應根據復甦後最佳 GCS 判斷</li>
 </ul>
-<h5 id="cpr-指南2010-aha-規範含-2020-更新">CPR 指南（2010 AHA 規範含 2020 更新）</h5>
+<h5 id="cpr-指南2010-aha-規範含-2020-更新">CPR 指南（2010 AHA 規範含 2020 更新）<a class="anchor" href="#cpr-%e6%8c%87%e5%8d%972010-aha-%e8%a6%8f%e7%af%84%e5%90%ab-2020-%e6%9b%b4%e6%96%b0">#</a></h5>
 <table>
   <thead>
       <tr>
@@ -263,7 +288,7 @@
 <li>若為 shockable rhythm（ventricular fibrillation 或 ventricular tachycardia），立即電擊</li>
 <li>若旁觀者未受訓或對傳統 CPR 不有信心，可採用純按壓 CPR</li>
 </ul>
-<h4 id="shock-的病因">Shock 的病因</h4>
+<h4 id="shock-的病因">Shock 的病因<a class="anchor" href="#shock-%e7%9a%84%e7%97%85%e5%9b%a0">#</a></h4>
 <p>可用 <strong>SHOCKED</strong> 幫助記憶：</p>
 <ul>
 <li><strong>S</strong>eptic、neurogenic</li>
@@ -275,7 +300,7 @@
 <li><strong>D</strong>rugs</li>
 </ul>
 <p>常見出血位置：外部（如 scalp）、胸部、腹部（peritoneum、retroperitoneum）、骨盆腔、長骨、腸胃道</p>
-<h4 id="fast-檢查">FAST 檢查</h4>
+<h4 id="fast-檢查">FAST 檢查<a class="anchor" href="#fast-%e6%aa%a2%e6%9f%a5">#</a></h4>
 <p>FAST（Focused Assessment with Sonography in Trauma）檢查四個區域：</p>
 <ul>
 <li>Subxiphoid view：pericardial window</li>
@@ -284,7 +309,7 @@
 <li>Pelvic/retrovesical view：膀胱和 Douglas pouch</li>
 </ul>
 <p>正常 FAST：無游離液體；陽性 FAST：存在游離液體需進一步評估</p>
-<h4 id="secondary-survey">Secondary Survey</h4>
+<h4 id="secondary-survey">Secondary Survey<a class="anchor" href="#secondary-survey">#</a></h4>
 <p>在 Primary survey 完成、初步復甦和穩定後開始：</p>
 <p><strong>病史</strong>：使用 <strong>SAMPLE</strong> 格式</p>
 <ul>
@@ -305,7 +330,7 @@
 </ul>
 <p>** Foley catheter 禁忌症**：若懷疑下泌尿生殖道創傷（blood at urethral meatus、perineal hematoma、high-riding prostate）</p>
 <p>** NG tube 禁忌症**：significant mid-face trauma、basal skull fracture</p>
-<h4 id="急診倫理考量">急診倫理考量</h4>
+<h4 id="急診倫理考量">急診倫理考量<a class="anchor" href="#%e6%80%a5%e8%a8%ba%e5%80%ab%e7%90%86%e8%80%83%e9%87%8f">#</a></h4>
 <p><strong>成人治療同意</strong>：</p>
 <ul>
 <li>Emergency Rule：當患者面臨嚴重傷害的立即風險，且無法取得同意或同意會增加風險時，不需要同意</li>
@@ -328,8 +353,8 @@
 <li>若危及生命的治療被拒絕，在法律上仍可以兒童最佳利益行事</li>
 </ul>
 <hr>
-<h2 id="創傷處理traumatology">創傷處理（Traumatology）</h2>
-<h3 id="創傷流行病學">創傷流行病學</h3>
+<h2 id="創傷處理traumatology">創傷處理（Traumatology）<a class="anchor" href="#%e5%89%b5%e5%82%b7%e8%99%95%e7%90%86traumatology">#</a></h2>
+<h3 id="創傷流行病學">創傷流行病學<a class="anchor" href="#%e5%89%b5%e5%82%b7%e6%b5%81%e8%a1%8c%e7%97%85%e5%ad%b8">#</a></h3>
 <ul>
 <li>全球每年約 490 萬人死於創傷（2016 年數據）</li>
 <li>加拿大：每年超過 269,000 人住院、17,000 人死亡（2018 年數據）</li>
@@ -348,7 +373,7 @@
 <li>Blunt（最常見）：MVC、行人車禍、摩托車事故、跌倒、攻擊、運動傷害</li>
 <li>Penetrating（發生率增加）：gunshot wound、stabbing、impalement</li>
 </ul>
-<h3 id="創傷機轉與考量">創傷機轉與考量</h3>
+<h3 id="創傷機轉與考量">創傷機轉與考量<a class="anchor" href="#%e5%89%b5%e5%82%b7%e6%a9%9f%e8%bd%89%e8%88%87%e8%80%83%e9%87%8f">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -375,7 +400,7 @@
       </tr>
   </tbody>
 </table>
-<h3 id="head-trauma">Head Trauma</h3>
+<h3 id="head-trauma">Head Trauma<a class="anchor" href="#head-trauma">#</a></h3>
 <p><strong>頭部創傷評估</strong></p>
 <p><strong>病史</strong>：</p>
 <ul>
@@ -440,7 +465,7 @@
 <li>受傷前健忘症 &gt;30 分鐘</li>
 <li>危險機轉（行人被 MVC 撞擊、從機車彈出、跌落 &gt;3 呎或五階樓梯）</li>
 </ul>
-<h3 id="spine-與-spinal-cord-trauma">Spine 與 Spinal Cord Trauma</h3>
+<h3 id="spine-與-spinal-cord-trauma">Spine 與 Spinal Cord Trauma<a class="anchor" href="#spine-%e8%88%87-spinal-cord-trauma">#</a></h3>
 <p><strong>假設</strong>：有重大跌倒（&gt;3 呎）、減速傷害、頭部/頸部/背部鈍傷時有 cord injury</p>
 <p><strong>症狀</strong>：</p>
 <ul>
@@ -477,7 +502,7 @@
 <li><strong>Neurogenic shock</strong>：血管運動張力喪失；低血壓（失去交感神經）、bradycardia（副交感神經優勢）、poikilothermia；發生於 T6 以上脊髓損傷後 30 分鐘內，可持續 6 週</li>
 <li><strong>Spinal shock</strong>：所有随意和反射活動消失，低於損傷 level；持續數天到數月</li>
 </ul>
-<h3 id="chest-trauma">Chest Trauma</h3>
+<h3 id="chest-trauma">Chest Trauma<a class="anchor" href="#chest-trauma">#</a></h3>
 <p><strong>主要調查發現於 Primary Survey 的危及生命胸腔傷害</strong>：</p>
 <table>
   <thead>
@@ -570,7 +595,7 @@
       </tr>
   </tbody>
 </table>
-<h3 id="abdominal-trauma">Abdominal Trauma</h3>
+<h3 id="abdominal-trauma">Abdominal Trauma<a class="anchor" href="#abdominal-trauma">#</a></h3>
 <p><strong>機轉</strong>：</p>
 <ul>
 <li><strong>Blunt</strong>：通常造成實心器官損傷（脾臟最常見、肝臟次之）</li>
@@ -627,7 +652,7 @@
 <li>穿透性創傷：休克、evisceration、free air、腸胃道出血</li>
 <li>鈍力創傷：無法解釋的休克/低血壓、陽性的 FAST</li>
 </ul>
-<h3 id="orthopedic-injuries">Orthopedic Injuries</h3>
+<h3 id="orthopedic-injuries">Orthopedic Injuries<a class="anchor" href="#orthopedic-injuries">#</a></h3>
 <p><strong>目標</strong>：</p>
 <ul>
 <li>診斷危及生命/肢體的損傷</li>
@@ -676,7 +701,7 @@
 </li>
 <li>處理：立即減壓（拆除石膏敷料、緊急筋膜切開術）</li>
 </ul>
-<h3 id="wound-management">Wound Management</h3>
+<h3 id="wound-management">Wound Management<a class="anchor" href="#wound-management">#</a></h3>
 <p><strong>傷口處理的目標</strong>：</p>
 <ul>
 <li>識別損傷、止血的活動性出血</li>
@@ -740,8 +765,8 @@
   </tbody>
 </table>
 <hr>
-<h2 id="緊急症狀approach-to-common-ed-presentations">緊急症狀（Approach to Common ED Presentations）</h2>
-<h3 id="腹痛abdominal-pain">腹痛（Abdominal Pain）</h3>
+<h2 id="緊急症狀approach-to-common-ed-presentations">緊急症狀（Approach to Common ED Presentations）<a class="anchor" href="#%e7%b7%8a%e6%80%a5%e7%97%87%e7%8b%80approach-to-common-ed-presentations">#</a></h2>
+<h3 id="腹痛abdominal-pain">腹痛（Abdominal Pain）<a class="anchor" href="#%e8%85%b9%e7%97%9babdominal-pain">#</a></h3>
 <p><strong>鑑別診斷</strong>：</p>
 <table>
   <thead>
@@ -799,7 +824,7 @@
 <li>止痛藥、IV、NP0、考慮 NG tube（若 SBO）、止吐藥、抗生素</li>
 <li>會診：internal medicine、general surgery、vascular surgery、gynecology 等</li>
 </ul>
-<h3 id="急性骨盆腔疼痛acute-pelvic-pain">急性骨盆腔疼痛（Acute Pelvic Pain）</h3>
+<h3 id="急性骨盆腔疼痛acute-pelvic-pain">急性骨盆腔疼痛（Acute Pelvic Pain）<a class="anchor" href="#%e6%80%a5%e6%80%a7%e9%aa%a8%e7%9b%86%e8%85%94%e7%96%bc%e7%97%9bacute-pelvic-pain">#</a></h3>
 <p><strong>病因</strong>：</p>
 <ul>
 <li><strong>Gynecological</strong>：
@@ -827,7 +852,7 @@
 <li>PID：broad spectrum antibiotics（ceftriaxone 500 mg IM + doxycycline + metronidazole）</li>
 <li>依據 Admission criteria 決定是否入院</li>
 </ul>
-<h3 id="意識改變altered-level-of-consciousness">意識改變（Altered Level of Consciousness）</h3>
+<h3 id="意識改變altered-level-of-consciousness">意識改變（Altered Level of Consciousness）<a class="anchor" href="#%e6%84%8f%e8%ad%98%e6%94%b9%e8%ae%8aaltered-level-of-consciousness">#</a></h3>
 <p><strong>定義</strong>：</p>
 <ul>
 <li><strong>Altered mental status</strong>：認知功能、行為或專注力改變的總稱</li>
@@ -876,7 +901,7 @@
 </ul>
 </li>
 </ul>
-<h3 id="胸痛chest-pain">胸痛（Chest Pain）</h3>
+<h3 id="胸痛chest-pain">胸痛（Chest Pain）<a class="anchor" href="#%e8%83%b8%e7%97%9bchest-pain">#</a></h3>
 <p><strong>鑑別診斷</strong>：</p>
 <table>
   <thead>
@@ -921,7 +946,7 @@
 <li>治療根本原因</li>
 <li>考慮 HEART score 做風險分層</li>
 </ul>
-<h3 id="頭痛headache">頭痛（Headache）</h3>
+<h3 id="頭痛headache">頭痛（Headache）<a class="anchor" href="#%e9%a0%ad%e7%97%9bheadache">#</a></h3>
 <p><strong>病因</strong>：</p>
 <p><strong>常見但較不嚴重</strong>：</p>
 <ul>
@@ -953,10 +978,9 @@
 <li><strong>Giant cell arteritis</strong>：
 <ul>
 <li>
-<blockquote>
+<blockquote class='book-hint '>
 <p>70 歲；頭痛、scalp tenderness、jaw claudication、關節痛、發燒</p>
-</blockquote>
-</li>
+</blockquote></li>
 <li>治療：立即 high-dose steroids</li>
 </ul>
 </li>
@@ -967,7 +991,7 @@
 </li>
 </ul>
 <p><strong>Ottsawa SAH Rule</strong>：用於 alert 患者 &gt;15 歲有新發嚴重創傷後頭痛，達到最大強度在數分鐘內</p>
-<h3 id="關節痛joint-pain">關節痛（Joint Pain）</h3>
+<h3 id="關節痛joint-pain">關節痛（Joint Pain）<a class="anchor" href="#%e9%97%9c%e7%af%80%e7%97%9bjoint-pain">#</a></h3>
 <p><strong>Rule out 危及生命的病因</strong>，如 septic joint</p>
 <p><strong>病史</strong>：</p>
 <ul>
@@ -990,7 +1014,7 @@
 <li>Acute polyarthritis：NSAIDs、止痛藥、corticosteroids</li>
 <li>Osteoarthritis：NSAIDs、acetaminophen</li>
 </ul>
-<h3 id="背痛back-pain">背痛（Back Pain）</h3>
+<h3 id="背痛back-pain">背痛（Back Pain）<a class="anchor" href="#%e8%83%8c%e7%97%9bback-pain">#</a></h3>
 <p><strong>Rule out 脊椎外緊急情況</strong>：aortic dissection、AAA、PE、MI、retroperitoneal bleed、pancreatitis</p>
 <p><strong>Rule out 脊椎緊急情況</strong>：osteomyelitis、cauda equina syndrome、epidural abscess/hematoma、discitis、spinal fracture、malignancy</p>
 <p><strong>Red Flags for Back Pain</strong>：</p>
@@ -1016,7 +1040,7 @@
 <li>Spinal infection：早期 IV 抗生素 + infectious disease/spine surgery 會診</li>
 <li>Cauda equina syndrome：dexamethasone、早期脊椎手術會診</li>
 </ul>
-<h3 id="癲癇seizures">癲癇（Seizures）</h3>
+<h3 id="癲癇seizures">癲癇（Seizures）<a class="anchor" href="#%e7%99%b2%e7%99%87seizures">#</a></h3>
 <p><strong>定義</strong>：</p>
 <ul>
 <li>Paroxysmal behavior 和/或 EEG 變化，源自異常過度神經元活動</li>
@@ -1057,7 +1081,7 @@
   </tbody>
 </table>
 <hr>
-<h2 id="呼吸急促shortness-of-breath">呼吸急促（Shortness of Breath）</h2>
+<h2 id="呼吸急促shortness-of-breath">呼吸急促（Shortness of Breath）<a class="anchor" href="#%e5%91%bc%e5%90%b8%e6%80%a5%e4%bf%83shortness-of-breath">#</a></h2>
 <p><strong>鑑別診斷</strong>：</p>
 <table>
   <thead>
@@ -1116,7 +1140,7 @@
 <li>嚴重 COPD/CHF：NIPPV 可能減少插管需求</li>
 <li>若出院，安排追蹤並教育何時返院</li>
 </ul>
-<h3 id="昏厥syncope">昏厥（Syncope）</h3>
+<h3 id="昏厥syncope">昏厥（Syncope）<a class="anchor" href="#%e6%98%8f%e5%8e%a5syncope">#</a></h3>
 <p><strong>定義</strong>：突然、短暫的意識喪失和姿勢張力喪失，自發恢復；通常由全腦或腦幹網狀啟動系統（brainstem）灌注不足引起</p>
 <p><strong>病因</strong>：</p>
 <ul>
@@ -1147,7 +1171,7 @@
 <li>心源性昏厥：入院內科/心臟科</li>
 <li>低風險昏厥：門診追蹤</li>
 </ul>
-<h3 id="過敏反應anaphylaxis">過敏反應（Anaphylaxis）</h3>
+<h3 id="過敏反應anaphylaxis">過敏反應（Anaphylaxis）<a class="anchor" href="#%e9%81%8e%e6%95%8f%e5%8f%8d%e6%87%89anaphylaxis">#</a></h3>
 <p><strong>診斷標準</strong>（符合以下任一）：</p>
 <ol>
 <li>急性發病（分至小時）涉及皮膚、黏膜 + 至少一個呼吸系統受累或低血壓/器官功能障礙</li>
@@ -1169,8 +1193,8 @@
 </ul>
 <p><strong>處理後</strong>：觀察直到症狀完全緩解和生命徵象正常；教育避免過敏原；開立 epinephrine auto-injector</p>
 <hr>
-<h2 id="心臟緊急情況">心臟緊急情況</h2>
-<h3 id="氣喘asthma">氣喘（Asthma）</h3>
+<h2 id="心臟緊急情況">心臟緊急情況<a class="anchor" href="#%e5%bf%83%e8%87%9f%e7%b7%8a%e6%80%a5%e6%83%85%e6%b3%81">#</a></h2>
+<h3 id="氣喘asthma">氣喘（Asthma）<a class="anchor" href="#%e6%b0%a3%e5%96%98asthma">#</a></h3>
 <p><strong>評估和處理分類</strong>：</p>
 <table>
   <thead>
@@ -1204,7 +1228,7 @@
   </tbody>
 </table>
 <p><strong>出院條件</strong>：FEV1 或 PEF &gt;60% 預測值</p>
-<h3 id="心律不整cardiac-dysrhythmias">心律不整（Cardiac Dysrhythmias）</h3>
+<h3 id="心律不整cardiac-dysrhythmias">心律不整（Cardiac Dysrhythmias）<a class="anchor" href="#%e5%bf%83%e5%be%8b%e4%b8%8d%e6%95%b4cardiac-dysrhythmias">#</a></h3>
 <p><strong>Bradydysrhythmias 和 AV Conduction Blocks</strong>：</p>
 <ul>
 <li><strong>1st degree AV block</strong>：PR interval &gt;200 ms；無需治療</li>
@@ -1251,7 +1275,7 @@
 </ul>
 </li>
 </ul>
-<h3 id="慢性阻塞性肺病急性發作acute-exacerbation-of-copd">慢性阻塞性肺病急性發作（Acute Exacerbation of COPD）</h3>
+<h3 id="慢性阻塞性肺病急性發作acute-exacerbation-of-copd">慢性阻塞性肺病急性發作（Acute Exacerbation of COPD）<a class="anchor" href="#%e6%85%a2%e6%80%a7%e9%98%bb%e5%a1%9e%e6%80%a7%e8%82%ba%e7%97%85%e6%80%a5%e6%80%a7%e7%99%bc%e4%bd%9cacute-exacerbation-of-copd">#</a></h3>
 <p><strong>定義</strong>：不可逆性氣道阻塞的進行性發展</p>
 <p><strong>主要症狀</strong>：呼吸困難增加、咳嗽頻率或嚴重度增加、痰量或膿性增加</p>
 <p><strong>處理</strong>：</p>
@@ -1263,7 +1287,7 @@
 <li>Ventilation：若嚴重窘迫或呼吸疲勞，應用 NIPPV（CPAP 或 BiPAP）</li>
 <li>若需要插管，refer ICU admission</li>
 </ul>
-<h3 id="心衰竭heart-failure">心衰竭（Heart Failure）</h3>
+<h3 id="心衰竭heart-failure">心衰竭（Heart Failure）<a class="anchor" href="#%e5%bf%83%e8%a1%b0%e7%ab%adheart-failure">#</a></h3>
 <p><strong>呈現</strong>：</p>
 <ul>
 <li><strong>左心衰竭</strong>：呼吸困難、端坐呼吸、陣發性夜間呼吸困難、夜尿、疲勞、意識改變、Angina</li>
@@ -1284,7 +1308,7 @@
 <li><strong>O</strong>xygen</li>
 <li><strong>P</strong>osition（坐直）、Pressure（BiPAP）</li>
 </ul>
-<h3 id="靜脈血栓栓塞venous-thromboembolism">靜脈血栓栓塞（Venous Thromboembolism）</h3>
+<h3 id="靜脈血栓栓塞venous-thromboembolism">靜脈血栓栓塞（Venous Thromboembolism）<a class="anchor" href="#%e9%9d%9c%e8%84%88%e8%a1%80%e6%a0%93%e6%a0%93%e5%a1%9evenous-thromboembolism">#</a></h3>
 <p><strong>風險因素（THROMBOSIS）</strong>：</p>
 <ul>
 <li><strong>T</strong>rauma、travel</li>
@@ -1310,8 +1334,8 @@
 <li>治療：anticoagulation（同 DVT）；massive PE 需要 thrombolysis 或 catheter-directed therapy</li>
 </ul>
 <hr>
-<h2 id="代謝緊急情況">代謝緊急情況</h2>
-<h3 id="diabetic-ketoacidosis-dka">Diabetic Ketoacidosis (DKA)</h3>
+<h2 id="代謝緊急情況">代謝緊急情況<a class="anchor" href="#%e4%bb%a3%e8%ac%9d%e7%b7%8a%e6%80%a5%e6%83%85%e6%b3%81">#</a></h2>
+<h3 id="diabetic-ketoacidosis-dka">Diabetic Ketoacidosis (DKA)<a class="anchor" href="#diabetic-ketoacidosis-dka">#</a></h3>
 <p><strong>定義</strong>：血糖 &gt;14 mmol/L、metabolic acidosis（pH &lt;7.3、bicarbonate &lt;18 mEq/L）、ketonemia/ketonuria</p>
 <p><strong>誘發因素（The 5 I&rsquo;s）</strong>：</p>
 <ul>
@@ -1334,7 +1358,7 @@
 <li>Potassium：若 K+ &lt;3.3 mmol/L 先補鉀後給胰島素</li>
 <li>Bicarbonate：pH &lt;7.0 且有併發症時才考慮</li>
 </ul>
-<h3 id="hyperosmolar-hyperglycemic-state-hhs">Hyperosmolar Hyperglycemic State (HHS)</h3>
+<h3 id="hyperosmolar-hyperglycemic-state-hhs">Hyperosmolar Hyperglycemic State (HHS)<a class="anchor" href="#hyperosmolar-hyperglycemic-state-hhs">#</a></h3>
 <p><strong>定義</strong>：極端高血糖（&gt;33.3 mmol/L）、相對胰島素缺乏、脫水</p>
 <p><strong>特點</strong>：</p>
 <ul>
@@ -1348,7 +1372,7 @@
 <li>胰島素管理（同 DKA）</li>
 <li>識別和治療誘發因素</li>
 </ul>
-<h3 id="低血糖hypoglycemia">低血糖（Hypoglycemia）</h3>
+<h3 id="低血糖hypoglycemia">低血糖（Hypoglycemia）<a class="anchor" href="#%e4%bd%8e%e8%a1%80%e7%b3%96hypoglycemia">#</a></h3>
 <p><strong>Whipple&rsquo;s triad</strong>：低血漿葡萄糖、症狀提示低血糖、給予葡萄糖後症狀迅速緩解</p>
 <p><strong>症狀</strong>：</p>
 <ul>
@@ -1364,7 +1388,7 @@
 <li>若 IV 不可能：glucagon 1-2 mg IM</li>
 <li>若懷疑 alcohol use disorder：thiamine 300 mg IM</li>
 </ul>
-<h3 id="電解質失衡electrolyte-disturbances">電解質失衡（Electrolyte Disturbances）</h3>
+<h3 id="電解質失衡electrolyte-disturbances">電解質失衡（Electrolyte Disturbances）<a class="anchor" href="#%e9%9b%bb%e8%a7%a3%e8%b3%aa%e5%a4%b1%e8%a1%a1electrolyte-disturbances">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -1413,7 +1437,7 @@
       </tr>
   </tbody>
 </table>
-<h3 id="高血壓緊急情況hypertensive-emergencies">高血壓緊急情況（Hypertensive Emergencies）</h3>
+<h3 id="高血壓緊急情況hypertensive-emergencies">高血壓緊急情況（Hypertensive Emergencies）<a class="anchor" href="#%e9%ab%98%e8%a1%80%e5%a3%93%e7%b7%8a%e6%80%a5%e6%83%85%e6%b3%81hypertensive-emergencies">#</a></h3>
 <p><strong>定義</strong>：BP 嚴重升高 + end-organ damage 證據（CNS、視網膜、CVS、腎臟、GI）</p>
 <p><strong>症狀</strong>：</p>
 <table>
@@ -1453,7 +1477,7 @@
 <li>若 aortic dissection：快速降低 sBP 至 110-120 mmHg</li>
 <li>若 ischemic stroke：不要快速降低 BP；維持 BP &gt;150/100</li>
 </ul>
-<h3 id="急性冠狀動脈症候群acute-coronary-syndrome">急性冠狀動脈症候群（Acute Coronary Syndrome）</h3>
+<h3 id="急性冠狀動脈症候群acute-coronary-syndrome">急性冠狀動脈症候群（Acute Coronary Syndrome）<a class="anchor" href="#%e6%80%a5%e6%80%a7%e5%86%a0%e7%8b%80%e5%8b%95%e8%84%88%e7%97%87%e5%80%99%e7%be%a4acute-coronary-syndrome">#</a></h3>
 <p><strong>定義</strong>：</p>
 <ul>
 <li>Negative cardiac biomarkers + no ECG changes = Unstable Angina</li>
@@ -1474,7 +1498,7 @@
 <li>Anticoagulation：依據 STEMI vs NSTEMI 選擇</li>
 <li>Early cardiology consult for reperfusion</li>
 </ul>
-<h3 id="敗血症sepsis">敗血症（Sepsis）</h3>
+<h3 id="敗血症sepsis">敗血症（Sepsis）<a class="anchor" href="#%e6%95%97%e8%a1%80%e7%97%87sepsis">#</a></h3>
 <p><strong>定義</strong>：</p>
 <ul>
 <li><strong>SIRS</strong>：T &gt;38°C 或 &lt;36°C、HR &gt;90、RR &gt;20、WBC &gt;12 × 10⁹/L（符合 ≥2 項）</li>
@@ -1490,8 +1514,8 @@
 <li>若在液體復甦期間或之後低血壓，應用 vasopressors 維持 MAP &gt;65 mmHg</li>
 </ol>
 <hr>
-<h2 id="神經學緊急情況">神經學緊急情況</h2>
-<h3 id="中風和暫時性缺血發作stroke-and-tia">中風和暫時性缺血發作（Stroke and TIA）</h3>
+<h2 id="神經學緊急情況">神經學緊急情況<a class="anchor" href="#%e7%a5%9e%e7%b6%93%e5%ad%b8%e7%b7%8a%e6%80%a5%e6%83%85%e6%b3%81">#</a></h2>
+<h3 id="中風和暫時性缺血發作stroke-and-tia">中風和暫時性缺血發作（Stroke and TIA）<a class="anchor" href="#%e4%b8%ad%e9%a2%a8%e5%92%8c%e6%9a%ab%e6%99%82%e6%80%a7%e7%bc%ba%e8%a1%80%e7%99%bc%e4%bd%9cstroke-and-tia">#</a></h3>
 <p><strong>定義</strong>：</p>
 <ul>
 <li><strong>Stroke</strong>：突然腦功能喪失，由缺血（87%）或出血（13%）引起，症狀持續 &gt;24 小時或有神經影像學證據</li>
@@ -1539,8 +1563,8 @@
 <li>入住最合適的科室</li>
 </ul>
 <hr>
-<h2 id="專科急診">專科急診</h2>
-<h3 id="耳鼻喉科otolaryngology">耳鼻喉科（Otolaryngology）</h3>
+<h2 id="專科急診">專科急診<a class="anchor" href="#%e5%b0%88%e7%a7%91%e6%80%a5%e8%a8%ba">#</a></h2>
+<h3 id="耳鼻喉科otolaryngology">耳鼻喉科（Otolaryngology）<a class="anchor" href="#%e8%80%b3%e9%bc%bb%e5%96%89%e7%a7%91otolaryngology">#</a></h3>
 <p><strong>Epistaxis（鼻出血）</strong>：</p>
 <ul>
 <li>90% 起自 anterior nasal septum（Kiesselbach&rsquo;s plexus）</li>
@@ -1553,7 +1577,7 @@
 </li>
 <li>預防：topical vaseline、humidifiers、saline spray、避免刺激物、管理 HTN</li>
 </ul>
-<h3 id="眼科ophthalmology">眼科（Ophthalmology）</h3>
+<h3 id="眼科ophthalmology">眼科（Ophthalmology）<a class="anchor" href="#%e7%9c%bc%e7%a7%91ophthalmology">#</a></h3>
 <p><strong>常見急診</strong>：</p>
 <table>
   <thead>
@@ -1586,7 +1610,7 @@
       </tr>
   </tbody>
 </table>
-<h3 id="皮膚急診dermatologic-emergencies">皮膚急診（Dermatologic Emergencies）</h3>
+<h3 id="皮膚急診dermatologic-emergencies">皮膚急診（Dermatologic Emergencies）<a class="anchor" href="#%e7%9a%ae%e8%86%9a%e6%80%a5%e8%a8%badermatologic-emergencies">#</a></h3>
 <p><strong>瀰漫性皮疹</strong>：</p>
 <table>
   <thead>
@@ -1642,8 +1666,8 @@
   </tbody>
 </table>
 <hr>
-<h2 id="環境傷害environmental-injuries">環境傷害（Environmental Injuries）</h2>
-<h3 id="熱傷害heat-related-illness">熱傷害（Heat-Related Illness）</h3>
+<h2 id="環境傷害environmental-injuries">環境傷害（Environmental Injuries）<a class="anchor" href="#%e7%92%b0%e5%a2%83%e5%82%b7%e5%ae%b3environmental-injuries">#</a></h2>
+<h3 id="熱傷害heat-related-illness">熱傷害（Heat-Related Illness）<a class="anchor" href="#%e7%86%b1%e5%82%b7%e5%ae%b3heat-related-illness">#</a></h3>
 <p><strong>Heat Exhaustion</strong>：</p>
 <ul>
 <li>症狀：非特異性不適、噁心、頭痛、疲勞；體溫 &lt;40.5°C</li>
@@ -1663,7 +1687,7 @@
 </ul>
 </li>
 </ul>
-<h3 id="低溫和冷傷害hypothermia-and-cold-injuries">低溫和冷傷害（Hypothermia and Cold Injuries）</h3>
+<h3 id="低溫和冷傷害hypothermia-and-cold-injuries">低溫和冷傷害（Hypothermia and Cold Injuries）<a class="anchor" href="#%e4%bd%8e%e6%ba%ab%e5%92%8c%e5%86%b7%e5%82%b7%e5%ae%b3hypothermia-and-cold-injuries">#</a></h3>
 <p><strong>Hypothermia</strong>：</p>
 <ul>
 <li>定義：核心體溫 &lt;35°C</li>
@@ -1713,7 +1737,7 @@
 </ul>
 </li>
 </ul>
-<h3 id="燒傷burns">燒傷（Burns）</h3>
+<h3 id="燒傷burns">燒傷（Burns）<a class="anchor" href="#%e7%87%92%e5%82%b7burns">#</a></h3>
 <p><strong>Burn Depth</strong>：</p>
 <ul>
 <li>Superficial（1st degree）：僅表皮；疼痛和壓痛</li>
@@ -1734,15 +1758,14 @@
 <p><strong>入院標準</strong>：</p>
 <ul>
 <li>
-<blockquote>
+<blockquote class='book-hint '>
 <p>10% BSA 的 2nd degree burns</p>
-</blockquote>
-</li>
+</blockquote></li>
 <li>臉、手、腳、會陰、或跨越大關節的 2nd degree burns</li>
 <li>電擊傷、化學傷、吸入性損傷</li>
 <li>有慢性病或免疫抑制的燒傷患者</li>
 </ul>
-<h3 id="咬傷bites">咬傷（Bites）</h3>
+<h3 id="咬傷bites">咬傷（Bites）<a class="anchor" href="#%e5%92%ac%e5%82%b7bites">#</a></h3>
 <p>** Mammalian Bites**：</p>
 <ul>
 <li>感染風險：dog bites 5%、cat bites 10-50%</li>
@@ -1757,7 +1780,7 @@
 </ul>
 </li>
 </ul>
-<h3 id="溺水drowning">溺水（Drowning）</h3>
+<h3 id="溺水drowning">溺水（Drowning）<a class="anchor" href="#%e6%ba%ba%e6%b0%b4drowning">#</a></h3>
 <p><strong>大多數發生在 &lt;4 歲兒童和青少年</strong></p>
 <p><strong>處理</strong>：</p>
 <ul>
@@ -1768,8 +1791,8 @@
 <li>嚴重缺氧、意識下降：ICU</li>
 </ul>
 <hr>
-<h2 id="中毒學toxicology">中毒學（Toxicology）</h2>
-<h3 id="overdose-患者的處理">Overdose 患者的處理</h3>
+<h2 id="中毒學toxicology">中毒學（Toxicology）<a class="anchor" href="#%e4%b8%ad%e6%af%92%e5%ad%b8toxicology">#</a></h2>
+<h3 id="overdose-患者的處理">Overdose 患者的處理<a class="anchor" href="#overdose-%e6%82%a3%e8%80%85%e7%9a%84%e8%99%95%e7%90%86">#</a></h3>
 <p><strong>病史</strong>：</p>
 <ul>
 <li>年齡、體重、潛在醫療問題、用藥</li>
@@ -1831,7 +1854,7 @@
 <li><strong>N</strong>aloxone：opioid 過量</li>
 <li><strong>T</strong>hiamine：若有 EtOH 史或營養不良</li>
 </ul>
-<h3 id="常見解毒劑">常見解毒劑</h3>
+<h3 id="常見解毒劑">常見解毒劑<a class="anchor" href="#%e5%b8%b8%e8%a6%8b%e8%a7%a3%e6%af%92%e5%8a%91">#</a></h3>
 <table>
   <thead>
       <tr>
@@ -1891,7 +1914,7 @@
   </tbody>
 </table>
 <hr>
-<h2 id="參考文獻">參考文獻</h2>
+<h2 id="參考文獻">參考文獻<a class="anchor" href="#%e5%8f%83%e8%80%83%e6%96%87%e7%8d%bb">#</a></h2>
 <p>Toronto Notes 2025 主要參考來源。本章節內容涵蓋 Emergency Medicine 的核心主題，包括創傷處理、緊急症狀評估、心臟緊急情況、代謝緊急情況、環境傷害和中毒處理。</p>
 
       </div>
@@ -1901,5 +1924,19 @@
   <footer>
     <p>Powered by Hugo | Toronto Notes 2025 繁體中文翻譯</p>
   </footer>
+  <script>
+    function toggleTheme() {
+      const html = document.documentElement;
+      const current = html.getAttribute('data-theme');
+      const next = current === 'dark' ? 'light' : 'dark';
+      html.setAttribute('data-theme', next);
+      localStorage.setItem('theme', next);
+    }
+    const saved = localStorage.getItem('theme');
+    if (saved) document.documentElement.setAttribute('data-theme', saved);
+    else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+      document.documentElement.setAttribute('data-theme', 'dark');
+    }
+  </script>
 </body>
 </html>
