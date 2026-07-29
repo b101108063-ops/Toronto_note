@@ -1,0 +1,11 @@
+baseURL = "https://b101108063-ops.github.io/Toronto_note/"
+languageCode = "zh-tw"
+title = "Toronto Notes 2025 繁體中文"
+enableEmoji = true
+hasCJKLanguage = true
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[taxonomies]
+  category = "categories"

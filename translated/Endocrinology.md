@@ -1,8 +1,7 @@
----
-title: "內分泌學 (Endocrinology)"
-description: "Toronto Notes 2025 內分泌學章節 - 繁體中文翻譯版"
-draft: false
-weight: 42
+# 內分泌學 (Endocrinology)
+
+*Toronto Notes 2025*
+
 ---
 
 ## 導讀摘要

@@ -1,8 +1,8 @@
----
-title: "G16 胃腸學 (Gastroenterology)"
----
+# 胃腸學 (Gastroenterology)
 
-# Toronto Notes 2025 - 胃腸學 (Gastroenterology)
+*Toronto Notes 2025*
+
+---
 
 ## 導讀摘要
 

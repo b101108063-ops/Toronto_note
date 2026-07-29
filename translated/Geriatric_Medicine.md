@@ -1,8 +1,10 @@
----
-title: "老年醫學（Geriatric Medicine）"
+# 老年醫學 (Geriatric Medicine)
+
+*Toronto Notes 2025*
+
 ---
 
-## 章節導讀
+## 導讀摘要
 
 本章節涵蓋老年醫學的核心內容，摘要如下：
 

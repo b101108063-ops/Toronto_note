@@ -1,8 +1,10 @@
----
-title: "CH03 急診醫學（Emergency Medicine）"
+# 急診醫學 (Emergency Medicine)
+
+*Toronto Notes 2025*
+
 ---
 
-## 章節導讀
+## 導讀摘要
 
 本章節涵蓋急診醫學的核心內容，摘要如下：
 

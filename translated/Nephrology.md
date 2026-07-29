@@ -1,11 +1,8 @@
----
-title: "Nephrology"
-weight: 20
----
+# 腎臟學 (Nephrology)
 
-# Nephrology 腎臟學
+*Toronto Notes 2025*
 
-> Toronto Notes 2025 - Nephrology 章節
+---
 
 ## 導讀摘要
 

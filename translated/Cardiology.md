@@ -1,10 +1,8 @@
----
-title: "Cardiology and Cardiac Surgery"
-description: "Toronto Notes 2025 - 心臟科與心臟外科"
----
+# 心臟科與心臟外科 (Cardiology and Cardiac Surgery)
 
-# Cardiology and Cardiac Surgery
-## 心臟科與心臟外科
+*Toronto Notes 2025*
+
+---
 
 ## 導讀摘要
 

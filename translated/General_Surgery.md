@@ -1,4 +1,10 @@
-Gss General and Thoracic Surgery Toronto Notes 2025
+# 普通外科與胸腔外科 (General and Thoracic Surgery)
+
+*Toronto Notes 2025*
+
+---
+
+## 導讀摘要
 
 Drains
 + NG tube

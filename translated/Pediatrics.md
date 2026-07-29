@@ -1,13 +1,10 @@
----
-title: "CH08 小兒科 (Pediatrics)"
-date: 2025-01-01
-draft: false
-weight: 8
+# 小兒科 (Pediatrics)
+
+*Toronto Notes 2025*
+
 ---
 
-# CH08 小兒科 (Pediatrics)
-
-## 章節導讀
+## 導讀摘要
 
 - 小兒科涵蓋從新生兒到青少年的全方位醫療照護，重點包括生長發育監測、疫苗接种、兒科常見疾病的診斷與治療
 - 熟悉 standard pediatric history 結構（BINDS），以及 well-child visit 的內容要點
