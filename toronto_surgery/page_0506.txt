@@ -1,0 +1,78 @@
+Gsi4 General and Thoracic Surgery Toronto Notes 2025
+
+Table 6. Differential Diagnosis for Benign vs. Malignant Solitary Nodule
+
+Benign (70%) Malignant (30%)
+Infectious granuloma (histoplasmosis, coccidiomycosis, TB, atypical _—_—Bronchogenic carcinoma Metastatic lesions
+mycobacteria) -mast common ‘Adenocarcinoma Breast
+Other infections (bacterial abscess, PCP, aspergilloma) sec Head and neck
+Benign neoplasms (hamartoma, lipoma, fibroma) Largecel carcinoma Melanoma
+Vascular (AV malformation, pulmonary varix) Smal cell carcinoma Colon
+Developmental bronchogenic cyst) Smal celllung cancer Kidney
+Inflammatory (granulomatosis with polyangits, heumatoid nodule, Sarcoma
+sarcoidosis, amyloidosis) Germ cell tumours
+Other (infarct, pseudotumour, rounded atelectasis, ymphnodes,
+amyloidoma)
+
+Investigations
+
++ CXR: always compare with previous CXR
++ CT and contrast-enhanced CT of thorax
++ biopsy (bronchoscopic or percutaneous) or excision (thoracoscopy): if clinical and radiographic features do
+not help distinguish between benign or malignant lesion
+= ifat risk for lung cancer, biopsy may be performed regardless of radiographic features
+= ifa biopsy is non-diagnostic, whether to observe, re-biopsy, or resect will depend on the level of
+suspicion
+. watchful waiting: repeat CT scan at 3, 6, 12 mo depending on nodule characteristics and patient risk
++ PET scan can narrow the differential diagnosis
+
+Table 7. CT Characteristics of Benign vs. Malignant Solitary Nodule
+
+Parameters Benign Malignant
+
+Size Nodule (<3 em) Mass 3.)
+
+Borders Smooth o lobulated Iegularorspiclated
+
+Features Coltied pattern: difuse, central, laminated, “popcorn” patternit Usually notcaled if calcified, patteniseccentic, stippled, no
+hamartoma, usually no cavitation; icavtating, wallis smooth and satelite lesion, cavitation with thick wal, may hove pleural effusions,
+thin,no otherlung pathology Iymphodenopathy
+
+DoublingTime __Doublesin 20 01-4004 Doubles between 20 and400 d
+
+Table 8. Evaluation of a Solitary Pulmonary Nodule
+
+‘SOLID NODULES
+Nodule Type ‘Size <6 mm 100mm") Size 6-8 mm (100-250 mm’) Size >8 mm 6250 mm?)
+Single
+Lowe Risk No routine follow-up {TH62 mo, encoder cTat Consider Ta 3 mo PETIT or tissue sampling
+24 mo
+High Risk Optional CT at 12mo (CTat6-12:mo, thenat 18-24 mo Consider CTa'3 mo PETIT or tissue sampling
+Multiple
+Lowe Risk No routine follow-up {Tai-6na,enconider Ta (CTat3-6 mo, then consider CTat 18-24mo
+24 mo
+High Risk Optional CT at 12mo CTat3-6 mo, thenat 18-24 mo CTat3-6 mo thenat 18-24 mo
+‘SUBSOLID NODULES
+Nodule Type ‘Size 6 mm (100 mm") Size26mm 100 mm’)
+Single
+Ground Glass No routine follow-up CTat6-12 moto confirmpersistencethen CT every2yruntl 5 yr
+Part Solid No routine follow-up CTat3-6 moto confirm persistence
+Hf unchanged andsoid component remains <6 mm, annualCT should be performed for5 yr
+Multiple (Ta3-6mo.lfstable consider (Tat CTat3-6mo
+Zand 4yr Subsequent management based onthemostsuspicous nodule(s)
+
+‘Adapted from: MacMahon H,Naidich DP, Goo JM, etal. Guidelines for Management of Incitental Pumonary Wodues Detected on CT knages. The Fkeischner Society 2017. Radiolgy Journal
+i 10.114 aol 2017161659, Feb 23 2017
+
+Lung Cancer
+
+Classification
++ lung tumours can be classified as:
+= primary or secondary
+= benign or malignant
+= endobronchial or parenchymal
++ bronchogenic carcinoma (epithelial lung tumours) are the most common type of primary lung tumour
+(other types make up less than 1%)
+= small cell lung cancer (SCLC): 10-15%
+= non-small-cell lung cancer (NSCLC): 85-90%
++ SCC: arise from the proximal respiratory epithelium

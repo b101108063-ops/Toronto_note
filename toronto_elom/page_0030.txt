@@ -1,0 +1,122 @@
+ELOMIO _ Ethical, Legal, and Organizational Medicine
+
+Table 5. CMA Code of Ethics and Professionalism
+
+A.Virtues exemplified by the ethical physician
+Compassion Integrity
+Honesty Prudence
+Humility
+
+B. Fundamental commitments of the medical profession
+
+‘Commitment to thewell-beingof the patient
+Commitment to respect for persons
+
+Commitment to justice
+
+Commitment to professional integrity and competence
+
+Commitment to professional excellence
+Commitment to self-care and peer support
+Commitment toinqury and reflection
+
+. Professional responsibilities
+
+Physicians and patients Patient physician relationship
+Decision-making
+
+Physicians and the practice of medicine Patient privacy andthe duty of confidentiality
+Managing and minimizing conflicts of interest
+
+Physicians and self ‘Awareness of wellness services and promote heath amongselt
+Seek suppor for professional and personal problems
+Cultivate safe training and working environments
+
+Physicians and colleagues. Treating colleagues with respectand dignity
+Takeresponsibilty for actions towards colleagues
+
+Physicians and society Commitment tohigh quality healthcare services
+
+Recognition ofthe social determinantsot health
+Supporting equitable access to healthcareresources, and building collaborative relationshipswith
+marginalized groups
+
+Confidentiality
+
+Overview of Confidentiality
+
+start from the foundational assumption that all information given by the patient is both confidential
+(meaning it cannot be disclosed to others) and privileged (meaning it cannot be used in court), then
+determine whether exceptions to this exist
+
+the legal and ethical basis for maintaining confidentiality is that personal health information and
+private details of a patient’s life are often required for accurate diagnosis and care of patients. As part
+
+of maintaining a therapeutic relationship, patients must trust their physician to keep this information
+confidential (see Privacy of Medical Records, ELOM11)
+
+privacy is a right of patients (which they may forgo), while confidentiality is a duty of physicians (which
+they must respect barring patient consent or requirements of the law)
+
+if confidentiality is inappropriately breached by a physician, that physician can be sanctioned by the
+hospital, court, or regulatory authority
+
+based on the ethical principle of autonomy, patients have the right to control their own health information
+and they may choose what aspects they want to disclose to their physicians
+
+confidentiality may be ethically and legally breached in certain circumstances (see below)
+
+while physician-patient privilege exists, it is limited in comparison to solicitor-client privilege.
+
+During conversations with patients about confidentiality, physicians should avoid promising absolute
+confidentiality or privilege, as it cannot be guaranteed by law
+
+legal duty to maintain patient confidentiality is imposed by provincial health information legislation and
+precedent-setting court cases in the common law
+
+Statutory Reporting Obligations
++ legislation has defined specific instances where public interest overrides the patient's right to.
+confidentiality; varies by province, but may include:
+1. suspected child abuse or neglect - report to local child welfare authorities (e.g. Children’s Aid
+Society)
+2. fitness to drivea vehicle or fly an airplane - report to provincial Ministry of Transportation
+(ee Geriatric Medicine, GM14)
+3. communicable diseases - report to local public health authority (see Public Health and Preventive
+Medicine, PH33)
+4, improper conduct of other physicians or health professionals - report to College or regulatory body
+
+of the health professional (sexual impropriety by physicians is required reporting in some provinces)
+
+5. vital statistics must be reported; reporting varies by province (e.g. in Ontario, births are required
+to be reported within 30 d to the Office of Registrar General or local municipality; death certificates
+must be completed by a physician then forwarded to municipal authorities)
+
+reporting to coroners (see Physician Responsibilities Regarding Death, ELOM21)
+
+oy
+
++ physicians who fail to report in these situations are subject to prosecution and penalty, and may be liable if
+
+a third party has been harmed
+
+Toronto Notes 2025
+
+| Aspects of Confidentiality
+‘Advice should always be sought from
+provincial licensing authorities, provincial
+territorial privacy commissioner's offices,
+and/or legal counsel when in doubt
+
+‘CMA Code of Ethics and Professionalism
+“Fulfill your duty of confidentiality to the
+patient by keeping identifiable patient
+information confidential; collecting,
+
+using, and disclosing only as much health
+information as necessary to benefit the
+patient; and sharing information only to
+benefit the patient and within the patient's
+circle of care. Exceptions include situations
+where the informed consent of the patient
+has been obtained for disclosure or as
+provided for by law”

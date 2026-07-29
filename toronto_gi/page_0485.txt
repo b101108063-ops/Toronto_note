@@ -1,0 +1,87 @@
+G51 Gastroenterology
+
+Investigations
++ laboratory
+= increase in serum glucose
+
+= increase in serum ALP, less commonly bilirubin (jaundice)
+
+= serum amylase and lipase usually normal
+
+= fecal elastase is low in steatorrhea
+abdominal x-ray: pancreatic calcifications
+U/S or CT: calcification, dilated pancreatic ducts, pseudocyst
+MRCP: abnormalities of pancreatic ducts-narrowing and dilatation
+EUS: abnormalities of pancreatic parenchyma and pancreatic ducts, most sensitive test
+72h fecal fat test: measures exocrine function, fecal elastase preferable
+secretin test: gold standard, measures exocrine function but difficult to perform, unpleasant for patient,
+expensive
+
+Treatment
++ most common problem is pain, difficult to control
++ general management
+
+= complete abstinence from EtOH
+
+= enzyme replacement may help pain by resting pancreas via negative feedback
+
+= analgesics
+
+= celiac ganglion blocks
+
+time: pain decreases with time as pancreas “burns out”
+
+endoscopy: sphincterotomy, stent if duct is dilated, remove stones from pancreatic duct
++ surgery: drain pancreatic duct (pancreaticojejunostomy) if duct is dilated (more effective than endoscopy);
+resect pancreas if duct is contracted
+steatorrhea
+
+= pancreatic enzyme replacement
+
+= neither endoscopy nor surgery can improve pancreatic function
+
+Autoimmune Pancrea
+
+most commonly presents as a mimicker of pancreatic cancer (pancreatic mass detected because of jaundice
++ abdominal pain)
+
+Investigations
+
++ histology: lymphocyte and plasma cell infiltration of pancreas
+
++ imaging: focal or diffuse enlargement of pancreas on CT or MRI, sausage-shaped, low density rim around
+pancreas
+
++ serology: increased serum IgG4 in type 1
+
+other organ involvement: sialadenitis, retroperitoneal fibrosis, biliary duct narrowing, nephritis
+
+Treatment
++ responds to prednisone
+
++ for refractory patients, consider immunomodulators (azathioprine, mycophenolate mofetil, methotrexate)
+or rituximab
+
+Determination of Nutritional Status
+
+Challenging to Differentiate Markers of Malnutrition from Markers of Disease
+
+most important feature in assessing the need for nutritional support is weight loss (expressed as change in
+body mass index (kg/m?)
+
+Subjective Global Assessment divides nutritional status into A) adequately nourished, B) mild or moderate
+malnutrition, and C) severe malnutrition in order to identify those who will benefit from nutritional
+support. C requires nutritional support. B may require nutritional support, Risk to Benefit needs to be
+considered. A does not require nutritional support
+
+includes weight change in past 6 mo, weight change in past 2 wk, dietary intake change, current dietary
+intake, GI symptoms, functional capacity, effect of disease on nutritional requirements and physical
+examination, including loss of subcutaneous fat/muscles wasting/edema/ascites
+
+Table 26. Small Bowel Nutrient Absorption
+
+Fe cHo Proteins, Lipids Na’, WO Bile Acids
+Duodenum = +++ as we .
+Jejunum + + ” . .
+
+Toronto Notes 2025

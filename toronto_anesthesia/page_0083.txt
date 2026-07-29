@@ -1,0 +1,134 @@
+A29 Anesthesia
+
++ muscle relaxants
+= non-depolarizing
++ immature NMJ, variable response
+= depolarizing
+* must pre-treat with atropine or may experience profound bradycardia and/or sinus node arrest due
+to PNS > SNS (also dries oral secretions)
+more susceptible to arrhythmias, hyperkalemia, rhabdomyolysis, myoglobinemia, masseter spasm,
+and malignant hyperthermia
+
+.
+
+Uncommon Complica
+
+Malignant Hyperthermia
+
++ hypermetabolic disorder of skeletal muscle
++ due to an uncontrolled increase in intracellular Ca’* (because of an anomaly of the ryanodine receptor that
+regulates Ca** channel in the sarcoplasmic reticulum of skeletal muscle)
++ autosomal dominant inheritance
++ incidence of 1-5 in 100,000, may be associated with skeletal muscle abnormalities such as dystrophy or
+myopathy
++ anesthetic drugs triggering MH include:
+= all inhalational agents except nitrous oxide
++ depolarizing muscle relaxants: SCh
+
+Clinical Picture
++ onset: immediate or hours after contact with trigger agent
+= increased O> consumption
+= increased ETCO: on capnograph
+= tachycardia/dysrhythmia
+. tachypnea/cyanosts
+«= diaphoresis
+« HTN
+. hyperthermia (late sign)
++ muscular symptoms
+= trismus (i.e. masseter spasm) common but not specific for MH (occurs in 1% of children given SCh with
+halothane anesthesia)
+= tender, swollen muscles due to rhabdomyolysis
+= trunk or total body rigidity
+
+Complications
+* coma
++ DIC
+
++ rhabdomyolysis
+
++ myoglobinuric renal failure/hepatic dysfunction
+
++ electrolyte abnormalities (e.g. hyperkalemia) and secondary arrhythmias
+
++ ARDS
+
++ pulmonary edema
+
++ canbe fatal if untreated
+
+Prevention
+
++ suspect MH in patients with a family history of problems/death with anesthetic
+
++ avoid all trigger medications, use vapour-free equipment, use regional anesthesia if possible
++ central body temp and ETCO: monitoring
+
+Malignant Hyperthermia Management
+Based on lgnanpertemia Assocation ot he US MHA Guidelines, 2024
+
+. notify surgeon, discontinue volatile agents and SCh, hyperventilate with 100% > at flows of 10 L/min or
+more, insert charcoal filters into breathing circuit, halt the procedure as soon as possible
+. dantrolene 2.5 mg/kg IV, through large-bore IV if possible
+= repeat until there is control of signs of MH; >10 mg/kg if persistent contractures or rigidity
+. obtain blood gas (venous or arterial) to determine degree of metabolic acidosis
+= sodium bicarbonate 1-2 mEq/kg for base excess greater than -8
+. cool patients with core temperature >39°C or less if rapidly rising
+= lavage open body cavities, stomach, bladder, rectum; apply ice to surface; infuse cold saline IV
+= stop cooling if temperature is <38°C to prevent drift to <36°C
+5. hyperkalemia
+treat with hyperventilation, sodium bicarbonate, glucose/insulin, calcium
+= bicarbonate 1-2 mEq/kg IV, calcium chloride 10 mg/kg, or calcium gluconate 10-50 mg/kg for life-
+threatening hyperkalemia and check glucose levels hourly
+if refractory hyperkalemia, consider albuterol (or other beta-agonist), dialysis, or ECMO if cardiac
+arrest
+
+v
+
+»
+
+i
+
+Toronto Notes 2025
+
+ETT Sizing in adiatrics
+Diameter (mm) of tracheal tube in children
+after tyear=(agel4) +4
+
+Length (cm) of tracheal tube = (age/2) +12
+
+e
+
+See Landmark hnesthesilogy Tals table for more
+information on astudy by Sunet a, 2016 wich
+deta the association between a single general
+anesthesia exposure prior age 36 months and
+neurocognitive outcomes in ater childhood
+
+‘Signs of Malignant Hyperthermia
+Unexplained ise in ETCOr
+Increase in minute ventilation
+Tachycardia
+
+Rigidity
+
+Hyperthermia (late sign)
+
+Basic Principles of MH Management
+
+“Some Hot Dude Better Get Iced Fluids
+Fast”
+
+Stop all triggering agents, give 100% O2
+Hyperventilate
+
+Dantrolene 2.5 mg/kg q5 min
+Bicarbonate
+
+Glucose and insulin
+
+1V fluids; cool patient to 38°C
+
+Fluid output; consider furosemide
+
+Fast Heart {tachycardia}; be prepared to
+treat VT

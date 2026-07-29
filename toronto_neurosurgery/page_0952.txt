@@ -1,0 +1,73 @@
+S20 ‘Neurosurgery Toronto Notes 2025
+Investigations
++ CT scan often first test in emergency department
++ MRI
+= imaging of choice
+« restriction on diffusion imaging (also seen in lymphoma)
+= apparent diffusion coefficient (ADC) used to differentiate abscess (black) from tumour (white)
++ WBCIESR may be normal, blood cultures rarely helpful, and LP contraindicated if large mass
++ CSF: non-specific (high ICP, high WBC, high protein, normal carbohydrate), rarely helpful, usually negative
+culture
+Treatment
++ aspiration + excision and send for Gram stain, acid-fast bacillus (AFB), C&S, fungal culture
++ excision preferable if location suitable
++ antibiotics
+= empirically: vancomycin + ceftriaxone + metronidazole or chloramphenicol or rifampin (6-8 wk
+therapy)
+= revise antibiotics when C&S known
++ anticonvulsants (1-2 yr)
++ follow-up is done clinically and with MRI
+Prognosis
++ ~10% mortality with appropriate therapy, permanent deficits in ~50% of cases
+Table 13. Stages of Cerebral Inflammation/Infection
+Stage CT Features Ri Features Microstructural changes
+Early cerebitis(13) Lowattenvation abnormality Low Tisignal Neutrophil accumulation
+Mass eect High Tsigal Tissue necrosis andedema
+Palchy contrast enhancement Microgia and astrocyte activation
+Latecerebritis (4.9 4) lncreesed lesion demarcation Macrophage and lymphocyte infiltration
+Microgia and astrocyte activation
+Early capsule formation Ringcontastenhancement, __—Betterdemarcatonof lesion Formation of thin, wel-vasclaized wall
+(10-134) particularly inte capsule Ring contrast enhancement Microgia and astrocyte activation
+Latecapsuleformation "mation baie dr thinner medial wall Thick capsule with multiple ayers
+(4a) est Microglia and astrocyte activation
+Table 14. Comparison of Epidemiology and Etiology of Intracranial Bleeds ©
+Typesof Etiology Epidemiology Clnicaleatures  CTFeatures Treatment Prognosis
+Hematoma/ CT Density and MRIAppearance
+Hemorrhage of Blood
+Epidural ‘Shall fracture Lucidinerval —Hyperdense Craniotomy Good with prompt management; Time CT RIT! MRIT2
+Hematoma ‘causing middle beforelossof lenticular mass, respiratory arrest canoccut from Kae nedoue Gey Bae
+meningeal bleed consciousness, with sharp margins, tuncal herniation; 89% recovery fa
+pupillary usually limited by at6mo
+‘changes, Cushing suture lines Subacute Isodense White White
+reflex ()
+Acute SDH Ruptured Age>50, No lucid interval, Hyperdense Craniotomyifbleed>1 40-60% mortaltyin patients Gra Hype-erse Sack Back
+subarachnoid _associatedwith hemiparesis, crescenticmass, —_emthick requiting surgery (2)
+bridgingvessels trauma pupillary changes crossing suture 'URLTI:"GeorgeWashington Bridge”
+lines [MRI-T2:"Ore0" cookie ~Black/ White/Black
+ChronicSDH Ruptured Age>50, Often Hypodense Burr hole todrain; 8.6% mortality at6 mo withdrain,
+subarachnoid ——_—EtOHusers, asymptomatic, _crescenticmass, craniotomy ifrecurs, 18.7% without
+bridging vessels anticoagulated minor HA, ‘crossing suture
+‘confusion, signs lines
+of increased ICP,
+light-headedness
+SAH Trauma, ‘Age55-60, 20%  Suddenonset —_Hyperdense Nonsurgicat NPO,IV Traumatic:
+Spontaneous cases under thunderdapWA, bloodincisterns/ normal saline (NS), 0.6% mortality with isolated SAH
+(aneurysms, idio- age45 signs of increased fissures (sensitivity ECG,Foley, BP 120-150, _in the setting of mild traumatic
+pathic, AVM) ep decreases over vasospasm prophylaxis _braininjury (GCS >13)
+time) (rimodipine); open vs.
+endovascular surgeryto More severe TBIistypically
+‘repair if rebleed; associated with additional forms
+external ventricular of brain injury.
+drainage or internal
+CSF diversionmay be Aneurysmal:
+needed if secondary 30% mortality at 1mo 20-40%
+hydrocephalus with moderate to severe disability
+with treatment
+Overall 30-day mortality: <30%
+IcH HTN, vascular Age>55, Tike Hyperdense Medical: decreaseBP, Poor: 4% mortality due to
+abnormality, -male,druguse symptoms, signs intra-parenchymal control ICP cerebral herniation
+‘tumours, (cocaine, EH, of increased ICP collection Surgical: craniotomy
+infections, amphetamine)
+
+coagulopathy
+

@@ -1,0 +1,154 @@
+ORI7 Orthopedic Surgery
+
+Treatment
++ medial and middle-third clavicle fractures
+= for nondisplaced fractures, simple sling for 1-2 wk prn
+= early ROM and strengthening once pain subsides
+= if fracture is shortened >2 cm, consider ORIF
++ distal-third clavicle fractures
+= undisplaced (with ligaments intact): sling for 1-2 wk
+= displaced (CC ligament injury): ORIF
+
+Specific Complications (see General Fracture Complications, OR7)
++ cosmetic bump (most common complication)
+
++ shoulder stiffness, weakness with repetitive activity
+
++ pneumothorax, brachial plexus injuries, and subclavian vessel (all very rare)
+
+Frozen Shoulder (Adhesive Capsulitis)
+
++ disorder characterized by progressive pain and stiffness of the shoulder, usually resolving spontaneously
+
+within 18 mo
+
+Mechanism
++ primary adhesive capsulitis
+
+= idiopathic, often associated with DM
+
+= usually resolves spontaneously in 9-18 mo
++ secondary adhesive capsulitis
+
++ due to prolonged immobilization, often following MI, stroke, shoulder trauma
++ shoulder-hand syndrome: CRPS/RSD characterized by arm and shoulder pain, decreased motion, and
+
+diffuse swelling
+= poorer outcomes
+
+Clinical Features
++ gradual onset (weeks to months) of diffuse shoulder pain with:
+= decreased active AND passive ROM
+= pain worse at night and often prevents sleeping on affected side
+
+= increased stiffness as pain subsides: continues for 6-12 mo after pain has disappeared
+
+Investigations
+
++ x-ray: AP (neutral, internal/external rotation), scapular Y, and axillary views of the shoulder
+
+= may be normal, or may show demineralization from disease
+
+Treatment
+
++ freezing phase
+= maintenance of active and passive ROM (physiotherapy)
+= NSAIDs and steroid injections if limited by pain
+
++ thawing phase
+
+= aggressive physiotherapy, possible manipulation under anesthesia and early physiotherapy
+
+= arthroscopy for debridement/decompression and capsular release
+
+Proximal Humeral Fracture
+
+Mechanism
++ young: high energy trauma (MVC)
++ elderly: FOOSH from standing height in osteoporotic individuals
+
+al Features
+
++ proximal humeral tenderness, deformity with severe fracture, swelling, painful ROM, bruising extends
+
+down arm and chest
+
++ physical exam usually reveals diminished forward elevation, with or without disuse atrophy of deltoid and
+
+periscapular musculature
+
+Investigations
++ test axillary nerve function (deltoid contraction and skin over deltoid)
++ xrays: AP, trans-scapular, and axillary views of the shoulder are essential
+
++ CT scan: to evaluate for tuberosity or articular involvement and fracture displacement, and if the diagnosis
+
+of non-union is unclear
+
+Toronto Notes 2025
+
+Associated Injuries with Clavicle
+Fractures
+
+Up to 9% of davide fractures are
+associated with other fractures (most
+‘commonly rib fractures)
+
+Majority of brachial plexus injuries are
+associated with proximal third fractures
+
+Stages of Adhesive Capsulitis
+
+4. Freezing phase: gradual onset, diffuse
+pain (lasts 6-9 mo)
+
+Frozen phase: decreased ROM impacts
+function (lasts 4-9 mo)
+
+Thawing phase: gradual return of motion
+{lasts 5-26 mo)
+
+Conditions Associated with an Increased
+Incidence of Adhesive Capsulitis
+
+Prolonged immobilization (most significant)
+Female gender
+
+Age >49
+
+DM (5x)
+
+Cervical disc disease
+
+Hyperthyroidism
+
+Stroke
+
+MI
+
+Trauma and surgery
+
+Autoimmune disease
+
+Neer Classification
+Based on 4 parts of humerus and
+displacement of fragment (a fracture partis
+considered displaced if angulation is >45°
+‘or displacement is >1 cm)
+
+Greater tuberosity
+
+Lesser tuberosity
+
+Humeral head
+
+Shaft
+One-part fracture: any of the 4 parts with
+none displaced
+Two-part fracture: any of the 4 parts with
+1 displaced
+Three-part fracture: displaced fracture of
+surgical neck + displaced greater tuberosity
+or lesser tuberosity,
+Four-part fracture: displaced fracture of
+surgical neck + both tuberosities

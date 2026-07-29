@@ -1,0 +1,52 @@
+ELOM13 _ Ethical, Legal, and Organizational Medicine Toronto Notes 2025
+
+It there is no SDM for the incapable patient, the doctor can apply to
+the CCB to appoint a patient representative
+
+Ifthe doctor has good reason to think the SDM is making
+inappropriate decisions forthe incapable patient, an application
+can be made to the CCBto review the SDM's decisions and appoint
+anew patient representative
+
+CCB consent and capacity board; SDM = substitute decision-maker
+
+Figure 2. Ontario consent flowchart
+‘Adapted by Hebert from Sunnybrook Heath Sciences Centre Consent Guidetnes
+
+Obtaining Legal Consent
++ consent of the patient must be obtained before any medical intervention is provided; consent can be:
+
+= verbal or written, although written is usually preferred
+
+= asigned consent form is only evidence of consent - it does not replace the process for obtaining valid
+consent
+most important component is what the patient understands and appreciates, not what the signed
+consent form states
+implied (e.g. a patient holding out their arm for an immunization) or expressed
+= consent is an ongoing process and can be withdrawn or changed after it is given, unless stopping a
+procedure would put the patient at risk of serious harm, and the patient is not informed of and/or
+capable of considering these harms
+if consent has been withdrawn during a procedure, the physician must stop treatment unless stopping
+the procedure would threaten the patient’s life
+in obtaining consent to continue the procedure, the physician need only re-explain the procedure and
+risks if there has been a material change in circumstances since obtaining consent originally. If there
+has been no material change in circumstances, simple assent to continue is sufficient (Ciarlariello v.
+Schachter)
++ HCCA of Ontario (1996) covers consent to treatment, admission to a facility, and personal assistance
+
+services (e.g. home care)
+
+Exceptions to Consent
+1. Emergencies
+= treatment can be provided without consent where a patient is experiencing severe suffering, or where
+
+a delay in treatment would lead to serious harm or death and consent cannot be obtained from the
+patient or their SDM
+emergency treatment should not violate a prior expressed wish of the patient (e.g. a signed Jehovah’s
+Witness card)
+if patient is incapable, the physician must document reasons for incapacity and why the situation is
+emergent
+patients have a right to challenge a finding of incapacity as it removes their decision-making ability
+= ifaSDMis not available, the physician can treat without consent until the SDM is available or the
+
+situation is no longer emergent

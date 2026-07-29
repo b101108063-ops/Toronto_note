@@ -1,0 +1,77 @@
+MI2 ‘Medical Imaging Toronto Notes 2025
+
+“FDG —_18-fluorodeoxyglucose eGFR estimated glomerularfiltration  LUQ _left upper quadrant RA rightatrium
+ADC apparent diffusion coefficient rate wv left ventricle RAIU radioactive iodine uptake
+AP anteroposterior ERCP endoscopic retrograde cholangio- MAA —_macroaggregated albumin RLL right lower lobe
+ARDS acute respiratory distress pancreatography MAG3 — mertiatide RLO right lower quadrant
+syndrome FLAIR fluid-attenuated inversion MCA middle cerebral artery RML right middle lobe
+AV arteriovenous recovery MIBG —_metaiodobenzylguanidine RUL _rightupperlobe
+BOOP —bronchiolitisobliteransorganizing FNA _ fineneedle aspiration MR magnetic resonance RUQ —_rightupper quadrant
+pneumonia GPA granulomatosis with polyangiitis MRA magneticresonance angiogram RV __rightventricle
+CNS central nervoussystem HCC hepatocellular carcinoma MRCP — magnetic resonance SPECT single-photon emission computed
+CT —_ computed tomography HIDA hepatobiliary iminodiacetic acid cholangiopancreatography tomography
+CTA computed tomographic angiogram HMPAO hexamethylpropyleneamine oxime MS multiple sclerosis SVC superior vena cava
+CVD collagen vascular disease HSG —_hysterosalpingogram MUGA — multiple gated acquisition TIA _ transient ischemic attack
+CVP central venous pressure IBD _ inflammatory bowel disease PA posteroanterior INK tenecteplase
+DDH — developmental dysplasia of the hip ICS _ intercostal space PBD percutaneous biliary drainage ‘tPA ~_ tissue plasminogen activator
+DEXA —duakenergyx-ray absorptiometry ICV _ileocecal valve PET —_positronemission tomography TPN _total parenteral nutrition
+DMSA — dimercaptosuccinic acid IPF idiopathic pulmonary fibrosis, PFT —_ pulmonary function test TRUS transrectal ultrasound
+DSA digital subtraction angiography IVP__intravenous pyelogram PICC _peripherally-inserted central TVUS transvaginal ultrasound
+DTPA diethylene triamine pentaacetic © KUB _ kidneys, ureters, bladder catheter UPJ —_ ureteropelvic junction
+acid wv left atrium PTA __ percutaneous transluminal US ultrasound
+DWI diffusion-weighted image LLL leftlowerlobe angioplasty VCUG voiding cystourethrogram
+ECD _ethylcysteinate dimer LLOQ —_leftlower quadrant PTC —_ percutaneous transhepatic VQ —_ventilation/pertusion
+LUL —_leftupper lobe cholangiography
+
+Imaging Modalities ©
+
+Typical Effective Doses from Diagnostic
+Medical Exposures (in Adults)”
+
+X-Ray Imaging “Diagnostic Equivalent _Approrimate
+
+Procedure Type umber Equivalent
+
++ xrays: form of short wavelength electromagnetic energy tchest Priodot
+
+* as x-ray photons traverse matter, they can be absorbed (a process known as “attenuation”) and/or scattered aa pockgound
++ the density of a structure determines its ability to attenuate or “weaken” the x-ray beam Radition"*
+= air < fat < water < bone < metal {Susi}
++ structures that have high attenuation (e.g. bone) appear white on the resulting images ed 5 6
+Cervical spine 0 3k
+Plain Films ee 8 a
+* xrays pass through the patient and interact with a detection device (film) to produce a 2-dimensional Ca EEO) i, za
+projection image ‘Mammo graphy a Twk
++ structures closer to the film appear sharper and less magnified a ae
++ contraindications: pregnancy (relative) Pelvis 2 vowk
++ advantages: inexpensive, non-invasive, readily available, portable, reproducible, fast, easily read Fe ee
++ disadvantages: radiation exposure (minimal), generally poor at distinguishing soft tissues eer) Ta Tua
+tech)
+Fluoroscopy Upper Gl series 300 4
++ continuous x-rays used for guiding angiographic and interventional procedures, in contrast examinations _—Smalbowelseries_ 200 200
+of the GI tract, and in the OR for certain surgical procedures (e.g. orthopedic, urological) cj
++ on the fluoroscopic image, structures that are radiolucent on plain film appear bright, and structuresthat eet 2 oy
+are radiopaque on plain film appear dark ae =3 ay
++ in comparison to continuous fluoroscopy, pulsed fluoroscopy reduces fluoroscopy time and radiation dose Chest(pimonay 505)
++ advantages: real-time visualization of structures al Dp 4
++ disadvantages: increased radiation dose compared to plain films toon oy hay
+
+Computed Tomography
++ xray beam opposite a detector moves ina continuous 360° arc as patient is advanced through the scanner five toate
+= anatomical structures are then reconstructed Thyroid (=) 5 8mo
++ attenuation is quantified in Hounsfield units: eta ay a
+= windowing and leveling: adjusting the “window width” (range of Hounsfield units displayed) and meg go
+“window level” (midpoint value of the window width) to maximally visualize certain anatomical oo ™
+structures (e.g. CT chest can be viewed using “lung,” “soft tissue,” and “bone” settings) Lingperasin 100m
++ contraindications: pregnancy (relative), adverse reactions to contrast agents (e.g. previous anaphylaxis Py
+allergy, renal failure) werent Bayt
+
++ advantages: delineates soft tissues, excellent at delineating bones and identifying lung/liver masses, may Bera aay INE NEDA:
+be used to guide biopsies, helical multidetector CT has fast data acquisition and allows 3D reconstruction, “Calculated using average natural background
+CTA is non-invasive compared to conventional angiography for visualization of vasculature ray a ~“
+
++ disadvantages: high radiation exposure, soft tissue characterization is inferior to MRI, some studies require __jrene,coronet ot conta tpated2023
+contrast (e.g. IV, oral, rectal), patient anxiety when going through scanner, increased cost and decreased June2; cited 2023 July]. Avaliable from: itp:
+
+availability compared to plain film, requires expert interpretation of images SSS
+

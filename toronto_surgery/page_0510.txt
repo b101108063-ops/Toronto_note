@@ -1,0 +1,96 @@
+Gsi8 General and Thoracic Surgery Toronto Notes 2025
+
+* spontaneous: no history of trauma or other underlying cause
+= primary (no underlying lung disease)
++ spontaneous rupture of apical subpleural bleb (pockets of air) of lung into pleural space
+« smoker, male, family history, Marfan’s syndrome
+= secondary (underlying lung disease)
+* rupture of subpleural bieb in the pleural space which can migrate along bronchioalveolar
+bronchoalveolar sheath to the mediastinum then to the intrapleural space
+* necrosis of lung tissue adjacent to pleural surface
+* pneumonia, abscess, PCP, lung cancer, COPD, CF, TB, lymphangioleiomyomatosis (LAM),
+pulmonary Langerhans cell histiocytosis (PLCH), lung metastasis (e.g. sarcoma)
+
+Clinical Features
+
+can be asymptomatic
+
+acute-onset pleuritic chest pain, dyspnea
+
+tachypnea, tachycardia
+
+tracheal deviation (contralateral deviation in tension pneumothorax)
+shock (in tension pneumothorax)
+
+ipsilateral diminished chest expansion
+
+decreased tactile/vocal fremitus
+
+hyperresonance
+
+ipsilateral diminished breath sounds
+
+Investigations
+
+ne (e)
+= small: separation of visceral and parietal pleura seen as fine crescentic line parallel to chest wall at apex ype horacostomy canbe completed
+= large: decreased density and decreased volume of lung on side of pneumothorax ui
+
+under U/S guidance
+= see Medical Imaging, M14 and M119
+Treatment Orientation
++ primary spontaneous pneumothorax ‘ A J
+= stable, small (<3 cm), minimal symptoms: observation + O2 NL
+
+= symptomatic or large (>3 cm): aspiration or chest tube
+= unstable/tension pneumothorax: needle decompression then chest tube, VATS bullectomy, and
+pleurodesis if unsuccessful (25-50%)
+* secondary spontaneous pneumothorax
+
+/
+« stable, small (<3 cm), minimal symptoms: observation + O2 /
+= symptomatic, large, or unstable: chest tube and VATS pleurodesis with or without bullectomy if WA
+unsuccessful Langihark for
+incision
+Tube Thoracostomy )
+ier
+icati erio
+Indications superior ib
+
++ todrain abnormal air or fluid collections in the pleural space
+«= hemothorax, pleural effusion, chylothorax, and empyema
+= pneumothorax, if:
+large or progressive
+* patient is on mechanical ventilation
++ bronchopleural fistula
++ tension pneumothorax
++ to treat symptomatic and/or recurrent pleural effusion
+= see Respirology, R24
+= forlong-term drainage of malignant effusions use: 1. tunneled pleural catheter; 2. pleural drainage and
+talc pleurodesis
+= via facilitation of pleurodesis - obliteration of the pleural space by instilling talc to cause fusion of,
+parietal and visceral pleura
+
+Intercostal vessels
+
+kelly clamp
+insertion
+
+Complications
+
++ overall complications are rare (1-3%) a_ Tr
+
++ malposition (most common complication), especially by inexperienced operators =ay atsuperor
+= tubes may be placed outside the pleural cavity in the chest wall, or below the diaphragm = poleot ung
+
+bleeding (anticoagulation is a relative contraindication) a9)
+
+local infection, empyema
+
+perforation of lung parenchyma, liver, spleen or vasculature
+
+risk of re-expansion pulmonary edema when large volumes of fluid are drawn off quickly (>1.0-1.5 L)
+
+‘© Marina Chang 2012
+
+Figure 6. Tube thoracostomy

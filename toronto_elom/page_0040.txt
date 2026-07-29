@@ -1,0 +1,140 @@
+ELOM20 —_Ethical, Legal, and Organizational Medicine
+
+Legal Aspect
+in the Carter v. Canada decision of February 2015, the criminal prohibition on assistance in suicide was
+ruled unconstitutional to the extent that they prohibit physician-assisted death for a competent adult
+person who (1) clearly consents to the termination of life and (2) has a grievous and irremediable medical
+condition that causes enduring suffering that is intolerable to the individual in the circumstances of his or
+her condition
+
+Bill C-14 (June 17, 2016) legalized MAID by amending the Criminal Code to create exemptions permitting
+medical practitioners to provide MAID, specified the eligibility criteria, safeguards, and required
+documentation and authorization from the Minister of Health, as well as new offences for failure to comply
+with the new regulations. As the Bill C-14 criteria are narrower than the Carter decision, there are ongoing
+constitutional challenges to the MAID framework as it currently stands
+
+Bill C-39 (March 9, 2023) temporarily postpones MAID eligibility for persons suffering solely from mental
+illness to March 17, 2024
+
+Bill 11 (June 7, 2023) passed in Quebec allows individuals to make an advance request for MAID (beginning
+on October 30, 2024) in cases where an individual has a terminal illness that can prevent them from
+providing consent in the future
+
+Bill C-62 (February 29, 2024) temporarily postpones MAID eligibility for persons suffering solely from
+mental illness to March 17, 2027
+
+Bill C-14 Criteria for MAID
+patient is eligible for publicly-funded health services in Canada
+at least 18 yr, and has capacity for clear and freely given consent
+grievous and irremediable medical condition: in an advanced state of irreversible decline in capability
+suffering intolerable to the patient, not relieved under conditions they consider acceptable
+recent update eliminated criteria of “reasonable foreseeability of natural death”
+MAID process:
+1. eligibility criteria satisfied
+2. patient signs and dates a written request for MAID
+3. two independent witnesses sign the written request. Witnesses must be 18 y/o, understand the
+nature of MAID, and must not a) benefit (financially or otherwise) from the death, b) be an owner or
+operator of the healthcare facility where the patient is receiving care, c) be directly involved in the
+provision of health or personal care of the patient
+healthcare provider must inform the patient that they can withdraw their consent at any time
+two independent assessors (physician or nurse practitioner) must provide written confirmation that
+eligibility criteria are met
+10 clear days must elapse between the request and the day on which MAID is provided, unless both
+healthcare providers agree that a shorter period is appropriate due to the patient’s imminent death or
+loss of capacity
+as per the new MAID legislation (updated in 2021), a patient may request MAID even if death is
+not reasonably foreseeable. For a patient whose death is not reasonably foreseeable, their eligibility
+assessment must be a minimum of 90 days unless the assessments are completed sooner and the
+patient is at immediate risk of losing the capacity to consent
+throughout the 10 or 90 day period and immediately before providing MAID, the healthcare
+provider must give the individual an opportunity to withdraw the request and ensure that the patient
+gives express consent to receive MAID
+— contravention of this process is an offence punishable by up to 5 yr in prison
+as of changes to the legislation in 2021, a patient may waive the requirement for giving final consent
+just before MAID is administered only if: (1) the patient's death is reasonably foreseeable and (2)
+while the patient has decision-making capacity the patient is:
+(a) assessed and approved for MAID
+(b) advised that they are at risk of losing capacity to provide final consent and
+(©) the patient makes a written arrangement with their health care provider where they consent
+in advance to receive MAID on a chosen date if they (i.e. the patient) no longer has capacity to
+consent on that date
+
+Da we
+
+oo x
+
+2
+
+Usage of Palliative and End-of-Life Care
++ the use of palliative sedation with opioids in end-of-life care, knowing that death may occur as an
+unintended consequence (principle of double effect) is distinguished from euthanasia and assisted suicide
+
+where death is the primary intent
+the appropriate withdrawal of life-support is distinguished from MAID as it is seen as allowing the
+underlying disease to take its ‘natural course,’ but this distinction may be more theoretical than real
+consent for withdrawal of life-support must be sought from the capable patient, or in case of incapable
+patient the SDMs, as per the Health Care Consent Act and Substitute Decisions Act, and as re-affirmed by the
+ruling in Cuthbertson v. Rasouli in 2013, as palliative care would be instituted and consent for that would
+require SDM consent
+refusals of care by the patient that may lead to death as well as requests for a hastened death, ought to be
+carefully explored by the physician to rule out any ‘reversible factors’ (e.g. poor palliation, depression,
+poverty, ill-education, isolation) that may be hindering authentic choice
+Government of Canada - Services and Information for End-of-Life Care:
+
+= https://www.canada.ca/en/health-canada/topics/end-life-care.html
+
+= options and decision making at end of life: palliative care, Do Not Resuscitate orders, refusal or
+
+withdrawal of treatment, refusal of food and drink, palliative sedation, MAID
+
+Toronto Notes 2025
+
+MAID: Ethically Appropriate Actions
+Respect capable decisions to forgo
+available treatment options and/or
+palliative care options
+
+Provide appropriate palliative measures
+with patient consent
+
+Try toassess reasons for MAID requests to
+see f there are ‘reversible factors'that are
+directly and unduly influencing one’s desire
+to receive MAID (e.g. depression, pain,
+loneliness, anxiety) that can be treated
+
+Exploring the Experience of Supporting a Loved One
+through MedicallyAssisted Death in Canada
+
+Can FamPhyscan, 2018;64(9:e387-£383
+
+Purpose: To explore the experince of family and close
+friends of patients seeking MAID in Canada,
+
+Methods: Primary support gives of inicpatients
+seeking MAID were ientfied during consuations for
+anassisted death evaluation. Te identified support
+givers were then insted to participate in the study, and
+those interested were asked tocontactinterviewers.
+Semi-structured interviews were conducted,
+transcribed, coded, and subjected to content analysis to
+elucidate common themes
+
+Results: 18 support peopl for patents seeking MAID
+were interviewed. Al partipants were supportive
+ftheiloved one's wishes for MAID and provided
+emaional and practical suppotin preparation for
+
+the procedure. Somepartcpant reported feeling
+opposed, however, changed thet mind after seeing
+the sfferingthirloved oneshadto endure. The
+
+time before the procedure involved saying goodbye
+and ceremonial rituals Those interviewed aftr the
+procedure found the death peaceful and reported that
+ieffered advantages compared with natural deathin
+theirlovedone'sindividual circumstances
+
+Conclisio: Participants were supportive oftheir loved
+one's wishes for assistance in death to end suffering
+and found the process tobe peaceful overall

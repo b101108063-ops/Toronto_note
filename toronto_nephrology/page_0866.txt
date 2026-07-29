@@ -1,0 +1,170 @@
+Nephrology
+
+Toronto Notes 2025
+
+Clinical Trial Details
+
+AMACING
+
+JASN 200718:1889-98
+
+Lancet 2017;389:1312-22
+
+Title: Renoprotection of Optimal Antiproteinuric Doses
+Purpose: Determine whether titration of benazepri ot losartan would improverenal outcomesin chronic renal insufficiency.
+
+Methods: 360 patients without DM, who had proteinuria and chronic renal insufficiency were randomized to benazepri 10 mg/d, benazepri 20 mgid, losartan 50 mgid,
+‘or losartan 100 mg/d. The primary endpoint wastimeto acomposite of doubling serum Cr, ESRD, or mortality.
+
+Results: Upttration of benazepril and losartan were associated witha 5T% and 53% reduction inthe primary endpoint risk P=0.028 and 0.022 respectively). There
+‘was no significant difference in the ratesof major adverse events between treatment groups.
+
+Conclusions: Up-ttrationof either ACEI benazepri or ARB osartanto optimal anti-proteinuria doses confered benefiton renal outcomein patients without DM who had
+proteinuria and renal insuficiency.
+
+Title: ProphylacticHydrationto Protect Renal Function from Intravascular lodinated Contrast Material in Patients at High isk of Contrast-Induced Nephropathy
+Purpose: Assess clinical effectiveness of prophylactic hydration in preventing contrast induced nephropathy inpatients with compromised renal function.
+Methods: High-risk adut patients undergoing an elective procedure requiring iodinated contrast were randomized tolV NaCI0.9% or no prophylaxis. The primary
+‘outcome was incidence of contrast-induced nephropathy.
+
+Results: Contrast-induced nephropathy was recorded in 2.6% of non hydrated patientsand 2.7% of hydrated patients.
+
+Conclusions: No-hydration prophylaxis was non-infrior and cost-saving in preventing contrast-induced nephropathy compared with IV hydration.
+
+‘CHRONIC KIDNEY DISEASE
+
+CHOIR
+
+cuick
+
+‘CREATE
+
+‘CREDENCE
+
+DAPA-CKD
+
+EMPA-KIDNEY
+
+Flow
+
+FIDELIO-OKD
+
+NEJM 2006;355:2085.98
+
+NEJM 2021; 385:2507-19
+
+NEJM 2006;355:2071-84
+
+NEJM 2019;380:2295-306
+
+NEJM 2020; 383:1436-46
+
+NEJM 2023;388:117-27
+
+NEM
+2024;391:109-121
+
+NEJM 2020;383:2219-29
+
+Title: Correction of Anemia with Epoetin Alfa in Chronic Kidney Disease
+Purpose: Determine the optima level of Hb correction inKD withery thropoietn (EPO) deficiency asa complication
+
+Methods: 1432 patients with CKD were randomized to receive epoetin alfa human recombinant EPO) targeted to Hb13.5 gid, or those receiving epoetn alfa targeted
+tol 11.3 gd. The primary endpoint was a composite of death, MI hospitalization or CHF, and stioke.
+
+Results: 125 primary events occurred inthe high-Hb group compared to97 events in the low-Hb group (hazard ratio 1.34; 95% CI1.03 to 174; P=0.03). More patientsin
+‘the high-H group had atleast one serious adverse event.
+
+Conclusions: Ahigher Hb correction target resulted in increased rats of infarction, hospalzation for CHF, and stroke.
+
+Title: Chlorthalidone for Hypertension in Advanced Chronic Kidney Disease
+
+Purpose: Understand the safety and efficacy of thiazide diuretic chlorthalidone for the treatment of HTN in patients with advanced CKD.
+
+Methods: 160 patients with stage4 CKD and pooty controled HIM were randomize (1:1ratio} to receive chlrthaidone or placebo. The primary outcomemeasure was
+the change in 24-h ambulatory BP from baseline to 12 wkpost treatment.
+
+Results: Patients with advanced CKD and poorly controfled CKD receiving chlrthaidone experienced a greater reduction insBP than those receiving placebo therapy
+(110 mmlig vs. 0.5 mmlig;P<0,00') Adverse events, including hypokalemia, hyperglycemia, dizness, and hyperuricemia occurred moe frequently inpatients
+receiving chorthaldone
+
+Concusions: In patients with advanced CKD and pooly controlled HIN, chlorthalidone more effectively reduces sP than placebo, however adverse events must be
+carelully considered
+
+Title: Normalization of HemogobinLevelin Patients with Chronic Kidney Disease and Anemia
+Purpose: Establish whether correction ofanemiain stage 3or4 CKD improves CV outcomes.
+
+Methods: 603 patientswith eGFR15.01035.0 mU/mint.73 m2 and mild-moderate anemia wererandomizedto a normal target Hb (13-1 g/dl) or a subnormal target
+range 10.5115 gid) The primary endpoint was a composite of CV events.
+
+Results: Complete correction of anemia didnot affctthe likelihood ofa first CVevent hazard ratio 0.78; 95% Cl 0.53 o 1.4; P=0.20), The mean eGFR was 24.9 mU/
+min/ 73 m2in the complete group, and 24.2 mL/mint.73 m2in the incomplete goup, decreasing by 3.6 and3.1 mLimin/t.73 m2iyr respectively
+
+‘Conclusions: In patients with CKD, complete comection of didnot reduce the risk of CV events or incidence of hypertensive episodes
+
+Title: Conaglfozin and Renal Outcomes in Type 2Diabetesand Nephropathy (CREDENCE)
+se: Since few effective treatments ar available for diabetic nephropatiy, this study aims to assess renal outcomes in ptientstreated with SGLT2 inhibitor
+
+canaglfioin
+
+Methods: Patintswith type? diabetes ad albuminuric CKD were randomized to receive canagitoin 100 mg daly, or placebo. Al patients hadan estimated GFR of 30
+
+t0<90 mL/min/1.73m2 and albuminuria>300 to 5000, and were treated with RAAS Hockade. The primary outcome wasa composite of ESRD (dialysis, transplantation,
+
+‘or sustained eGFR <15m/min.73 m2, a doubling of serumCr, or death rom renal o CV (CV) causes.
+
+Results: 01440 randomized patients with a median follow-up of 2.62yr, the RR of primary oxtcomewas 30% lower nthe canagltozn group thanin te placebo group
+
+(hazard rato 0.70; 95% C1 0.59 to 0.82; P-0,00009,Thecanagllzin goupalso hada lower risk ofCV death, lr stoke (hazard ratio 0.85; 95% C0.67100.95;
+
+0.01).
+
+Conclusions: In patients with T2DM and kidney disease, the risk of kidney failure and CV events was lower in the canagliflazin group than inthe placebo group,
+
+Title: Dapagiloinin Patients with Chronic Kidney Disease
+Purpose: Elucidate the safety of dapagiflozin in patients withCKD with or without T2DM.
+
+Method :4304 patients with CKD (eGFR 25-73 ml/min/1.73 m2 andACR 200-5000) wererandomizedto receve dapagitlzin or placebo. The outcome was a compsite
+‘of 250% reduction in eGFR, ESRD, and death rom cardiorenal causes.
+
+Results: Te primary outcome occuredless frequently in patents receiving dapaglflozn compared tothose receiving placebo 9, 2%vs. 4.5%; HR 0.61; 95% Cl OS
+(0.72;P<0.001, NNT to prevent one primary outcome event 19; 95% Cl 15-27), This rial was stopped early because of eicacy
+
+Conclusions: Patients receiving dapagifiozin areless tkely to experience a composite of 250% reduction ineGFR, ESRD, or death from cardiorenal causes compared to
+those receiving placebo. Dapaglflozin is safe in patients with CKD.
+
+Title: Empagitiozin in Patients with Chronic Kidney Disease
+
+Purpose: Toevaluate the impact of empagiflozin on patients with CKD whoare at risk of disease progression, encompassing a wide rangeof individuals
+
+Methods: 6609 participants were randomly assigned to receive empaglfacn 10 mgonce daiy) or placebo. Participants had CKO with different levels of kidney
+function. The primary outcome assessed kidney disease progression or cardovascular-elated death.
+
+Results: During a median 2.0 years of follow-up, the empagifizin group (13.1) hada ower occurrence of primary outcome events compared tothe placebo group
+(16.9%). There were fewer hospitalizations inthe empagiflozin group, butno significant effect on heat failure or cardiovascular death. Rates of serious adverse events
+were similar.
+
+Conclusions: Empagifiozin decreased the risk ofkidney disease progression or cardiovascular death in a broadrange of patientsat risk of CKD progression
+
+Title: Effects of Semaglutde on Chronic Kidney Disease in Patients with Type 2 Diabetes
+Purpose: Todetermine whether treatment with semaglitide mitigates risks in patents with type2 DM and CKD
+
+Methods: 3533 patients with type 2 DM and CKD were randomly assigned to receive semaglutide (Img weekiy) or placebo. The primary outcome was major kidney
+‘disease event, including kidney failure, significant eGFR reduction, or death from kidney-related or cardiovascular causes
+
+Results: Over a medianfollow-up of 3 4years, the semaglutide group had a 4% lower risk of primary outcome events compared to theplacebo group. Semaglitide also
+reduced the risk of major cardiovascular evens, and death from any cause. Serious adverse events were less common inthe semaglutide group (49.6%vs. 53.8%).
+Conclusions: Semaghitide reduced the isk of dnically important kidney outcomes and death from cardiovascular causes in patients with type2 DM andCKO.
+
+Title: Effect of Finerenone on Chronic Kidney Disease Outcomesin Type 2 Diabetes
+Purpose: Understand the effects offinerenone on kidney and cardiovascular outcomes inpatients with CKD and T2DM.
+
+Methods:5734 patients with CKD (diabetic retinopathy + urine ACR 30-300 + eGFR 25-60 mL/min/.73 m2 or urine ACR 300-5000 + eGFR 25-75 mL/min/173 m2) and
+T2DMwererandomized (1:1 rato) to recive finerenone or placebo. The primary outcome measure was acomposite of kidney faiure, »40%s reduction in GFR, and death
+‘romrenal causes.
+
+Results: The primary outcome occurredless frequently in patients receiving finerenone compared to those receiving placebo (17.8%ys. 21.1%; HR 0.82; 95%C10.73-
+10.93; P=0.007). Thefrequency of adverse events was comparable between groups, though hyperkalemia-related discontinuation of therapy occurred more frequently in
+patients receiving finereno
+Conclusions: Patients receiving finerenone are less likely to experience acomposite of kidney failure, 40% reduction in eGFR, and death from renal causes compared
+

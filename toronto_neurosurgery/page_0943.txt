@@ -1,0 +1,56 @@
+NSIL ‘Neurosurgery
+
+ontaneous Intracranial Hypotens
+
++ low CSF pressure + postural headache (secondary to CSF leak)
++ symptoms not attributable to another disorder, no recent history of dural puncture
+
+Etiology
++ CSF leakage from the thecal sac within or along the spinal canal
+
+Epidemiology
++ incidence: ~2-5 in 100000 per yr, but likely underdiagnosed; M:
+= can occur at any age, but most frequently in 4th or 5th decade
+
+Clinical Features
+
++ symptoms: orthostatic H/A in 75-80%, tinnitus or auditory disturbance (“underwater feeling”) in 50%,
+dizziness in 50%, N/V, photophobia, meningismus
+
+signs: CN III, CN IV, CN VI palsy in <10%
+
+morbidity: misdiagnosis and underdiagnosis are common, leading to delays in treatment and inappropriate
+treatment for mimickers of intracranial hypotension
+
++ clinical course: usually self-limited, recurrence in 10%, chronic in some
+
+Investigations
++ MRI brain with contrast: sagging of the brain (e.g. low cerebellar tonsils), pachymeningeal enhancement,
+subdural hematoma or hygroma, pituitary hyperemia
+
+. MRI spine with contrast: extrathecal fluid collections/extrathecal contrast accumulation and/or meningeal
+iverticula
+
++ CT niyelogram with contrast: preferred method to diagnose and localize CSF leak
+= digital subtraction myelogram (DSM): combines fluoroscopy and ability to subtract background images
+
+to visualize small CSF leaks by contrast extravasation
++ LP: opening pressure <6 cmH:0; xanthochromia, elevated protein, lymphocytic pleocytosis
+
+Treatment
+
++ conservative management: bed rest, hydration, caffeine, possibly theophylline
+
++ epidural blood patch: mainstay treatment; autologous blood (10-20 mL) injected into epidural space
++ surgery: indicated if epidural blood patches are ineffective and site of leak has been localized
+
+Treatments:
+
+Digitally Subtracted Blood Patches (improvement for 2 yr)
+
+Figure 9. Left Pane: Digital subtraction myelography demonstrating site of CSF leak (red arrow); Right Pane:
+
+intraoperative imaging of direct repair of the dura
+Figue courtesy ofr. rc M Masscotte
+
+Toronto Notes 2025

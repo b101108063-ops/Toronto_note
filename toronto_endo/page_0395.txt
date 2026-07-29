@@ -1,0 +1,240 @@
+FM19
+
+Asthma/COPD
+
++ see Respirology, R7
+
+Definition
++ asthma
+
+= chronic, reversible airway inflammation characterized by periodic attacks of wheezing, dyspnea, chest
+
+Family Medicine
+
+tightness, and coughing
+= airways are hyper-responsive to triggers/antigens leading to acute obstructive symptoms including
+bronchoconstriction, mucous plugs, and increased inflammation
+= cannot be diagnosed at first presentation
+= PFTs can be done starting at age 6 or when child is able to follow testing instructions
+
++ COPD
+
+peak flow metres are useful in the office and at home for monitoring
+
+= group of chronic, progressive, non-reversible lung diseases characterized by limited airflow with
+variable degrees of air sac enlargement and lung tissue destruction
+= emphysema and chronic bronchitis are the most common forms
+
+Table 8. Differentiating COPD from Asthma
+
+coPD
+
+‘Asthma
+
+‘Age of Onset
+
+Role of Smoking
+Reversibility ofr flow Obstruction
+
+Evolution
+
+History of Allergy
+Precipitators
+
+‘Symptoms Signs
+
+Diffusion Capacity
+Hypoxemia
+
+Spirometty
+
+Chest X Ray
+
+Management
+
+Usually in 6th decade
+
+>10 pack yr
+Airflow obstruction is chronic and persistent
+
+Slow, progressive worsening (with periodic
+exacerbations)
+
+Infrequent
+
+Environmental iritants (air pollution, cigarette
+smoking, o-1antitrypsin deficiency, viral
+infection, occupational exposure firefighters,
+dusty jobs)
+
+Chronic cough, sputum, andlor dyspnea
+
+Decreased (more so in pure emphysema)
+Chronic in advanced stages,
+
+May have improvement with bronchodilators but
+not universally seen
+
+Often normal
+
+Increased bronchial markings (chronicbronchitis)
+and chronic hyperinflation (emphysema) often
+co-exist, bullae
+
+Ail: Smoking Cessation
+
+Mi
+‘Step 1: SABA as needed (salbutamol)
+
+Step 2:SABR as needed + AAC (ie titropium)
+
+‘r+ LABA e.g. salmeterol)
+
+Moderate
+
+Step 3: SABA/SAMA + ABA or SABA LABA or LAC;
+‘consider inhaled vs. oral steroids
+
+Severe
+
+Step &
+
+[As above + pneumococcal vaccination, anual influenza
+immunization
+
+‘Any age (but 50% of casesare diagnosed in children ages
+<10)
+
+Not causal, known trigger
+
+Airflow obstruction is episodic and usually reversible with
+therapy
+
+Stable, episodic, <50% will outgrow
+
+>50% patients
+
+Environmental irritants (dust, pollen), animal fur, cold air,
+exercise, URTIs, cigarette smoke, use of B-blockers/ASA
+
+‘Wheeze (hallmark symptom), dyspnea, chest tightness,
+prolonged expiration, cough which is worse inthe cold, at
+night, and inthe erly AM
+
+‘Normal (for pure asthma)
+
+Notusually present
+Episodic with severe attacks
+
+Marked improvement with bronchodilators or steroids
+
+Often normal or episodic hyperinflation
+Hyperinflation during asthma attack
+
+Ongoing patient education, andenvironmental control
+
+SABA taken PRH as rescue medication + maintenance meds
+Maintenance medications
+
+Mild
+
+Step 1: Low-dose CS
+
+Step 2: Medium/igh-dose ICS or low-dose ICS pluseither LABA,
+UTRA modifier
+
+Moderate
+
+Step 3: Medium/bigh-dose ICS + either LABA, LT modifier
+Severe
+
+Step 4:As above +immunatherapy + oral jucacortcosterids +
+pneumococcal vaccination, annua influenza immu
+
+ICS =inhaled corticosteroids; LAAC =long-acting anticholinergic; LABA = long-acting f-agonist; LT modifier= leukotriene modifier; SABA=short-acting f-agoist, SAMA. short acing
+
+mmuscarnicantagonist
+
+Toronto Notes 2025
+
+‘Signs of Poorly Controlled Asthma
+B2-agonist use 23x/wk
+
+Asthma-related absence from work/school
+Exercise-induced asthma
+
+[Night-time symptoms >tx/wk
+
+What Colour is Your Inhaler?
+
+Wane ap Colour
+PAgoniss
+
+salbatamol-Ventoin® Light bvenavy
+salmeterol—Serevent? Tealight teal
+terbtaine Briony” Bue
+
+ks
+
+fhticasone —Rovent®? rangelpeach
+IudesonidePulmicort® ——_ Whitebrown
+
+Combined Long Acting Agonist Ics
+
+futicasonelsaimeterol-_-Pupledisas
+Advair?
+budesonidertormoterol-——Redlwhite
+‘Symbicort®
+
+ftcasone/vilanterol-Breo” —Greyibiue
+Aatichotinergics
+
+tumeciinium-Incruse” ——_White/green
+‘pratopium-Atrovent® —_Ceargreen
+titropium - Spiiva® Whiteturquise
+
+Normal
+N
+
+Obstucive — Restrictive
+
+LUNG VOLUME ()
+
+Figure 7. Expiratory flow volume
+curves (obstructive, normal, and
+restrictive disease)
+
+See Respirology, R4
+‘Adapted trom: Weinberger SE. Principles of pulmonary
+‘medicine, Sth ed. With permission from Bse ver, ©2008,
+
+More About Inhalers
+
+‘Aerosols (puffers = MDI, MDI + spacer) MDIs
+should be used with spacers to:
+
+Reduce side effects
+Improve amount inhaled
+Increase efficiency of use
+
+DPI (discuss, Turbuhaler®, and Diskhaler®)
+require deep and fast breathing (may not
+be ideal for children)
+
+Nebulizers can be used to convert liquid
+‘medications into a fine mist: recommended
+for use if contraindications to MDIs
+
+Currently there is large push in clinical
+practice to transition away from the use
+‘of MDI and to move towards using DPI to
+reduce the impact of aerosol treatments
+‘on the environment Evohaler MDIs had
+20-30 times larger carbon footprints than
+the Accuhaler and Elipta DPIs (Thorax 2020
+Jan:75¢l:82-84)
+
+When prescribing salbutamol, watch out for
+signs of hypokalemia: lethargy, iritabilty,
+paresthesias, myalgias, weakness,
+palpitations, NV, polyuria

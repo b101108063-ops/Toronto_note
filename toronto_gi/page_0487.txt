@@ -1,0 +1,107 @@
+G53 Gastroenterology
+
+= some evidence for efficacy, but convincing data not available for:
+¢ radiation/chemotherapy-induced enteritis
++ AIDS with wasting diarrhea
+* severe acute pancreatitis
++ long-term (>1 mo): can be given at home
+= severe untreatable small bowel disease (e.g. radiation enteritis, extensive CD, high output fistulae)
+= following surgical resection of >70% of small bowel (e.g. small bowel infarction)
+= severe motility diseases (e.g. scleroderma affecting bowel)
+
+Relative Contraindications
+
++ functional GI tract available for EN
+
++ active infection; at least until appropriate antibiotic coverage
+
++ inadequate venous access; triple-lumen central venous lines usually prevent this problem
+
+Complications of PN
+
++ sepsis: most serious of the common complications
+
++ mechanical pneumothorax from insertion of central line, catheter migration and thrombosis, air embolus
+
+«+ metabolic: congestive heart failure, hyperglycemia, gallstones, cholestasis, electrolyte abnormalities,
+micronutrient deficiency
+
+Enteral Nutrition Preferable to Parenteral Nutrition
+
++ fewer serious complications (especially sepsis)
+
++ nutritional requirements are better understood
+
++ can supply gut-specific fuels such as glutamine and short chain fatty acids with EN
+
++ nutrients in the intestinal lumen have a trophic effect (prevent atrophy of the gut and pancreas)
++ prevents gallstones by stimulating gallbladder motility
+
++ much less expensive
+
+Table 27. Common Drugs Prescribed in Gastroenterology
+
+Toronto Notes 2025
+
+Hypomagnesemia may be an intial sign of
+short bowel syndrome in patients who have
+undergone surgical bowel resection
+
+3)
+
+Enteral vs Parenteral Nutrition for Acute
+Pancea
+Cochrane 0B ys Rev2010,1:C0002837
+
+Purpose: Compare Ev TNon mortality, morbidity,
+and hospital stay in patients wth pancreatitis
+
+‘Study Selection: RTs of TPH vs. Nn pancreatitis
+Results: ighttrias 0-348) were inchded, EN
+decreases R of death (050), multiple organ faure
+{055}, infection (0.39), and other lcalcomplications
+(0.70), tals decreased hospital stay by 2.374
+Condusion: reduces mortality, organ tire,
+infections, and length of hospital stayin patients with
+pancreas
+
+Class GenericDrugName TradeName Dosing Mechanismof Action Indications Contraindicatons Side Effects
+Proton Pump ‘omeprazole Losec®? 20 mg PO once daily Inhibits gastric enzymes Duodenal ulcer, gastric ulcer, Hypersensitivity to drug Dizziness, headache, flatulence,
+Inhibitors Prilosec® HYF-AMPase proton —_NSAID-associated gastric abdominal pain, nausea, rash,
+(HIK-ATPase pump) and duodenal ulcers, refx increased sk of osteoporatic
+inhibitors) esophagitis, symptomatic fracture (secondary to impaired
+GERD, dy spepsi Ca absorption)
+Tellinget-Elisonsyndrome,
+eradication of. pylori
+(ombinedwith AB
+lansoprazole or Prevacid® Oraltherapy: lansoprazole Same asabove Same asabove Same as above Same as above
+dexlansoprazole Dexilant® 15-30 mg once daily (before
+breakfast), dexlansoprazole
+30-60.mg once daily (does
+not needto betaken before
+breakfast)
+pantoprazole Pantoloc® 440.mgPO oncedailyfor UGIB: Same asabove Same asabove andUGIB Same as above Same as above
+Protonix® 80 mg WV
+bolusthen 8 mah infusion
+rabeprazole Pariet®? 40 mg PO once daily Same asabove Same asabove Same as above Same as above
+Aciphex®
+esomeprazole ___Nexium® 20-401mg PO once daily hove Same asabove Same as above Same as above
+Histamine raniidine* Tantac™ 30mgPO once daly or'50 _Inhibitsgastic histamine Hypersensitivity to drug Confusion, diziness, headache,
+H2Receptor “ranitidine drugs ing BID Hteceptors esophagitis, symptomatic arrhythmias, constipation,
+Antagonists recalledin 2019 WV therapy: 0 mg qBh but GERD; not useful for acute ‘nausea, agranulocytosis,
+‘veto impurty tachyphylaxis problem) Glbleeds pancytopenia, depression
+concerns
+famotidine Pepcid® Oral therapy: GERD: 40mgQHS Same asabove Same asabove Same as above Same as above
+20mg BID
+Prophylaxis:
+WV therapy: 20 mgB1D
+‘Stool Softener ‘docusate sodium Colace® 700-400mgPOonce daily, Promotesincorporation Relefofconstipation (rely Presenceofabdominal pain, Throatirtation, abdominal
+
+dividedin 1-4 doses of water into stool
+
+treatment)
+
+used sincenotveryeffective fever, NN
+
+cramps, rashes
+

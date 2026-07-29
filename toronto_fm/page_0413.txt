@@ -1,0 +1,108 @@
+FM37 Family Medicine
+Management
++ counsel about noise control and hearing protection programs (high quality evidence)
+«= treat patients with unexplained, unilateral, sudden sensorineural hearing loss urgently with steroids
+= consider blood glucose, CBC and differential, TSH, syphilis testing for unexplained sensorineural
+hearing loss
+= consider a MRI for patients with progressive asymmetric sensorineural hearing loss to exclude
+vestibular schwannoma (acoustic neuroma)
++ refer patients who:
+= have an unknown etiology to an ENT specialist
+= experience sudden sensorineural hearing loss to an ENT specialist for ongoing care
+treatment: hearing amplification (e.g. hearing aids), assistive listening devices, and cochlear implants can
+dramatically improve quality of life
+
+Hypertension
+
++ hypertension guidelines are reviewed and updated annually, for up-to-date recommendations, please see
+http://guidelines.hypertension.ca/
+
+Definitions
++ HTN
+= if diabetic, office BP measurement (OBPM) >130/80 mmHg for >3 measurements on different days =
+probable HTN, rule out white coat HTN
+= ifnot-diabetic and automated office BP (AOBP) 2135/85 mmHg or OBPM 2140/90 mmHg, rule out
+white coat HTN
+¢ ambulatory BP monitoring (ABPM) daytime mean 2135/85 mmHg or ABPM 24 hr mean 2130/80
+mmHg = HTN
+¢ home BP monitoring (HBPM) series mean 2135/85 mmHg = HTN
+¢ mean AOBP or OBPM sBP 2180 mmHg or dBP 2110 mmHg = HTN
+isolated systolic HTN
+= sBP >140 mmHg and dBP <90 mmHg
+= associated with progressive reduction in vascular compliance
+= usually begins in 40s
+hypertensive urgency
+= sBP >210 mmHg or dBP >120 mmHg with minimal or no target-organ damage
+hypertensive emergenc
+= severe HTN (ABP >120 mmHg) & acute target-organ damage (acute heart failure, MI, aortic dissection,
+acute kidney injury, hypertensive encephalopathy, hypertensive retinopathy)
+= accelerated HTN
++ significant recent increase in BP over previous hypertensive levels associated with evidence of
+vascular damage on fundoscopy, but without papilledema
+= malignant HTN
+sufficient elevation in BP to cause papilledema and other manifestations of vascular damage
+(retinal hemorrhages, bulging discs, mental status changes, increasing creatinine)
+white coat HTN
+= high clinic BP with normal home BP and 24 h ambulatory BP, caused by anxiety in clinic
++ masked HTN
+= normal clinic BP with high BP in home and/or ambulatory setting, often provoked by anxiety, job
+stress, exercise
+
+Epidemiology
++ 22% of Canadian adults suffer from HTN (prevalence is 52% in the 60-70 age group)
+« lifetime risk of developing HTN is approximately 90%
++ 64% of Canadians who have HTN are treated and controlled, while 17% are unaware that they have HTN
++ 3rd leading risk factor associated with death
+
+= risk factor for CAD, HF, cerebrovascular disease, renal failure, PVD
+
+Etiology
++ essential HTN (90%, undetermined cause)
++ secondary HTN (10%, known cause)
+
+Predisposing Factors
+
++ family history
+
++ obesity (especially abdominal)
++ alcohol consumption
++ stress
+
++ sedentary lifestyle
++ smoking
++ male
+
++ age >30
+
++ excessive salt intake/fatty diet
++ Black ancestry
+
++ dyslipidemia
+
+Toronto Notes 2025
+
+Symptoms of HTN are usually not present
+{thisis why itis called the “silent killer”)
+
+Petients may have an occipital headache
+‘upon awakening or organ-specific
+complaints if advanced disease
+
+Renovascular HTN Suspected if Patient
+Presenting with 2 or more of:
+
+Sudden onset or worsening of HTN and
+ages>55 or 30
+
+Presence of abdominal bruit
+HIN resistant to 3 or more drugs
+
+Rise in Cr of 30% or more associated with
+use of an ACEI or ARB
+
+Other atherosclerotic vascular disease,
+particulary in patients who smoke or have
+dyslipidemia
+
+Recurrent pulmonary edema associated
+with hypertensive surges

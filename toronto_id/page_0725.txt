@@ -1,0 +1,191 @@
+1D7 Infectious Diseases
+
+Respiratory Infections
+
+Pneumonia
+« see Pediatrics, P68
+
+Definition
++ infection of the lung parenchyma
+
+Etiology and Risk Factors
++ impaired lung defenses
+
+= poor cough/gag reflex (e.g. illness, drug-induced)
+
+«= impaired mucociliary transport (e.g. smoking, cystic fibrosis)
+
+= immunosuppression (e.g. steroids, chemotherapy, AIDS/HIV, DM, transplant, cancer)
++ increased risk of aspiration
+
+= impaired swallowing mechanism (e.g. impaired consciousness, neurologic illness causing dysphagia)
+
++ mechanical obstruction
++ no organism identified in 75% of hospitalized cases, and >90% of ambulatory cases
+
+Table 8. Common Organisms in Pneumonia
+
+Community-Acquired Nosocomial Aspiration Immunocompromised Patients ‘Alcohol Use Disorder
+Typical Bacteria EntericGNB——Oralanaerabes —-Peumoqstisjrovecl Kebsidlla
+Streptococcuspneumoniae (e9.Ecoll) (2g. Bacteroides) Fungi(e.g.Cryptocacaus) Enteric GNB
+
+Moraxella catarhas Pseudomonas Enteric GHB Nocardia S.ureus
+Haemophilus influenzae aeruginosa §——_—S. aureus cm Oral anaerobes (aspiration)
+Stophylococars aureus S. aureus Gastriccontents, HSV 1B
+
+GAS (including MRSA) (chemical B
+
+Atypical bacteria pneumonitis)
+
+‘Mycoplasma pneumoniae
+
+Chlamydiapneumoniae
+
+Legionella preumophila
+
+Vir
+
+Jnflwenzavirus
+
+Adenovius
+
+SARS-COV?
+
+*See Pediatrics, PT, Table 45, Common Causes and Treatment of Community Acquired Pneumonia
+
+Clinical Features
+
++ cough (+ sputum), fever, pleuritic chest pain, dyspnea, tachypnea, and tachycardia
+
++ elderly often present atypically; altered LOC is sometimes the only sign
+
++ evidence of consolidation (dullness to percussion, bronchial breath sounds, and crackles)
+
++ features of parapneumonic effusion (decreased air entry, dullness to percussion)
+
++ complications: ARDS, lung abscess, parapneumonic effusion/empyema, and pleuritis + hemorrhage
+
+Investigations
++ pulse oximetry to assess severity of respiratory distress
++ CBC and differential, electrolytes, urea, creatinine, arterial blood gas (ABG) (if respiratory distress)
+
++ sputum Gram stain/C&S, blood C&S, + viral detection (influenza testing), + serology, and + pleural fluid
+
+C&S (if effusion >5 cm or respiratory distress)
++ CXR+ CT chest shows distribution (lobar consolidation or interstitial pattern), extent of infiltrate +
+cavitation
+
++ bronchoscopy + washings for: (1) severely ill patients refractory to treatment and (2) immunocompromised
+
+patients
+
+Treatment
+
++ airway/breathing/circulation, 02, IV fluids, consider salbutamol (nebulized or metered-dose inhaler)
++ determine prognosis and need for hospitalization and antibiotics
+
+Criteria for Hospitalization
+
++ along with clinical judgment, validated clinical prediction rules for prognosis can be used to determine
+the need for hospitalizations in adults diagnosed with community-acquired pneumonia (e.g. the CURB-65
+
+Score or Pneumonia Severity Index (PS1))
+Table 9. CURB-65 Score - Pneumonia Clinical Prediction Tool
+
+Component” Measurement(s) Points Total Score Mortality Disposition
+
+Confusion Altered mental status 1 ir S% Cantreat as outpatient
+UrealBUN Urea >7 mmol/L or BUN>20 mg/L 1 23 515% Consider hospitalization
+Respiratory Rate °30 breaths/min 1 45 15.30% Consider ICU
+
+Blood Pressure BP 90 mmtig or d8P <60 mmiig 1
+
+Age 65 orolder 1
+
+“ACRB-65 score may also be applied in community acquired pneumonia. Is crteria depends on cnical assessment alone
+
+Toronto Notes 2025
+
+When Klebsiella causes pneumonia:
+see red currantjelly sputum
+
+3Asof Klebsiella
+Aspiration pneumonia
+
+Alcohol use disorder and patients with
+diabetes
+
+Abscess in lungs
+
+Aspiration pneumonias more commonly
+‘manifest as inftrates in the right middle
+‘or lower lobes due to the larger calibre
+and mote vertical orientation of the right.
+bronchus
+
+Healtcare-Assciated Infections and Antimicrobial
+ResistanceinCanadian Acute Care Hospitals
+
+Can Commun Dis ep 202034699112
+
+Purpose: To describe thetrendsof healthcare
+associated infections (Hl) and antimicrobial
+resstanc AMR om 201 to 2018 using suveifance
+data rom the Canadian Wosocomal infection
+Suveiance Program,
+
+Methods: Data were colt rom70 Canadian
+sentinel hosptalsregarding losis dice
+infection (CD), MRSA boodstreaminfections, VR
+toodstreamintections and carbapenemase-prodvcing
+Enterobacteriaceae.
+
+Rests Rate per 10,000 patient dayinceased for
+MRSA (59% 0.66.05, 0.023) and REDIodstream
+infections (43%; 04-034, P0023). However, COL
+
+but infection ates remained low and stable,
+Condusion: Standardized surveilance data fromacute
+care hosptalsin aditiono antimicrobial stewardship
+willbe crucial forthe ongoing prevention of HAs and
+
+AMRin Canada,
+
+e
+
+Forareporton nosocomialinfectionsinthe US, please
+teferto: NIM 2014;370:1198-208, Consult your local
+hospital statistics fr the most applicable information
+for your workplace.
+
+Diagnosis of Ventlator-Associated Pneumoniain
+Gitically Adult Patients: ASystematic Review and
+Meta-Analysis
+
+Intensive CareMed 20204611109
+
+Purpose: To identity and compare the accuracy of
+
+the following measures for diagnosing VAP: physical
+examination, chestradiography, endotracheal aspirate
+(E1H, bronchoscopicsampling cultures protected
+specimen brush PSB) and bronchoalveolar lavage
+(BAL), and CIS.
+
+Study Selection: Big observational studies
+
+and RIsinclded 290% patients over 16 yo with
+measures conduct din the C1, incuding patients with
+
+Results: The cllective sensitivity and specifiy of VAP
+physical examination findings were poor: fever 66.4%
+and53.9%, respectively and purulent secretions
+(710%, 3903); anyinfitrate on chest radiography
+(88.9%, 26.1%); ETA 15.7%, 67939. Among
+bronchoscopic sampling methods, PSB 614%, 76.5%);
+BAL(T1.1%, 79.6%), (P1S>6 73.8%, 66.4%).
+
+CCondusion: VAP misdiagnosis and potentialy
+unnecessary antimicrobial use may result fom reliance
+onclassical cinica measures used in isolation.
+

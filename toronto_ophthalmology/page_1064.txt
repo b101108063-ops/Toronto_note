@@ -1,0 +1,146 @@
+op24 Ophthalmology
+
+Central/Branch Retinal Vein Occlusion
+
+Etiology
+
++ second most frequent “vascular” retinal disorder after DR
+
+* exact cause is not known; possible arteriosclerotic changes in the central retinal artery transform the artery
+into a rigid structure and impinge upon the central retinal vein as they share a common sheath
+predisposing factors: atherosclerotic vascular disease, HTN, DM, glaucoma, hyperviscosity (e.g. sickle
+
+cell disease, polycythemia rubra vera, lymphoma, leukemia), drugs (e.g. oral contraceptive pill, diuretics),
+autoimmune disorders ( younger patients <50 yr old, lupus, anticardiolipin antibody), hyperhomocysteinemia
+
+Clinical Features
++ painless, monocular, gradual, or sudden vision loss
++ +RAPD
++ fundoscopy
+= “blood and thunder” appearance (see Figure 17)
+« diffuse retinal hemorrhages, cotton wool spots, venous engorgement, swollen optic disc, macular
+edema
++ two fairly distinct groups
+= venous stasis/non-ischemic retinopathy
++ no RAPD, VA ~20/80
++ mild hemorrhage, few cotton wool spots
+* resolves spontaneously over weeks to months
+* may regain normal vision if macula unaffected
+= hemorrhagic/ischemic retinopathy
++ usually older patient with deficient arterial supply
++ RAPD, VA ~20/200, reduced peripheral vision
+* more hemorrhages, cotton wool spots, venous congestion
++ poor visual prognosis
+
+Complications
+
+* neovascularization of retina and iris (secondary rubeosis) may lead to secondary glaucoma
++ vitreous hemorrhage
+
++ macular edema
+
+Treatment
+
++ retinal laser photocoagulation, intravitreal anti-VEGF, and/or corticosteroid injection (triamcinolone, or
+dexamethasone implant)
+
+* optimize systemic risk factors (BP, lipids) and consider systemic work-up for patients without risk factors
+
+Retinal Detachment
+
+Definition
++ cleavage in the plane between the neurosensory retina and the RPE
++ three types
+= rhegmatogenous (most common)
++ caused by a tear or hole in the neurosensory retina, allowing fluid from the vitreous to pass into the
+subretinal space
++ tears may be caused by PVD, degenerative retinal changes, trauma, or iatrogenic complications
++ incidence increases with advancing age, in high myopes, and after ocular surgery/trauma
+= tractional
++ caused by vitreal, epiretinal, or subretinal membrane pulling the neurosensory retina away from
+the underlying RPE
+¢ found in conditions such as DR, RVO, sickle cell disease, ROP, and ocular trauma
+= exudative
++ caused by vascular transudation of fluid or damage to the RPE resulting in fluid accumulation in
+the subretinal space
+¢ main causes are intraocular tumour, posterior uveitis, central serous retinopathy
+
+al Features
++ sudden onset
++ flashes of light
+= due to mechanical stimulation of the retinal photoreceptors
+
++ floaters
++ hazy spots in the line of vision which move with eye position
+
+= due to drops of blood from torn vessels bleeding into the vitreous
+curtain of blackness/peripheral field loss
+
+= darkness in the field of vision where the retina has detached
++ loss of central vision (if macula “off”)
++ decreased IOP (usually 4-5 mmHg lower than the other, unaffected eye)
+fundoscopy: detached retina is grey-white from retinal edema, and loss of red reflex
++ RAPD
+
+Toronto Notes 2025
+
+|CRAO ("cherry red spot”)
+
+RVO (“blood and thunder”)
+
+Figure 17. Fundus photographs of
+CRAO (“cherry red spot”) and CRVO
+(“blood and thunder”)
+
+)
+
+EfectofBevaczumab vs. Aflibercepton Visual
+Acuityamong Patents with MacularEdema dve
+toCentral Retinal Vein Occlusion ~The SCORE
+Randomized Clinical Trial
+Ma2017;31720}2072-2087
+
+Purpose: To investigate whether bevaczumab (used
+fabs on-inferiortafibercept forthe treatment
+ob macula edema secondary to centalrtinalor
+/hemiretina vein occlusion,
+
+Methods: 362 patients with macular edema due to
+central tinal or hemiretinal vein occlusion were
+randomized to either the bevacizumab-reatment group
+‘ortheafibercepttreatment group.
+
+Results: At mo, the mean Veter score (VALS) was
+{69.3 (a mean increase from baseline of 18.6) in the
+bevacumab group and 62.3 a mean inceas from
+taselineot 18.9 inthe afibercept group (P= 0.001
+focnoninfrioty).Adverseevents were rare but were
+similar between the two groups.
+
+Conclusion: After 6 mo of treatment, bevacizumab
+‘was non-inferior to afibercept with respect to VA
+
+Cost differences between the drugs have important
+‘economic implications.
+
+Integrated Results from the COPERNICUS and
+GALILEO Studies
+
+Cin Ophthalmol 2077 11:1533-1540
+
+Purpose: Comparing theeffects of intravitreal
+afbercepttoshaminjcton for macular edema cused
+by cv
+
+Wethods: COPERNICUS f=187) and GALILEO (n=171)
+
+were parallel, double-blind, Phase I RCT. Inthe
+COPERNICUS tal, patients inthe sham group crossed
+‘vert the treatment group at 452 wk ofthe tral,
+Patients inthe GALILEO tril ceiving the sham
+treatment continued to receivesham injections every4
+wcbetween 24k and 52 wk
+
+Conclusion: Prompttreatment with intravitreal
+afiberceptis an effective treatment for macularedema
+folowing CRVO

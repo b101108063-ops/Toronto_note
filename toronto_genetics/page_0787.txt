@@ -1,0 +1,131 @@
+MG9 Medical Genetics
+
++ palliative care and advance care planning
++ gene therapy trials underway
+
+Tay-Sachs Disease
+Incidence
+
++ certain populations have higher carrier frequency:
+= individuals of Ashkenazi Jewish ancestry have 1 in 30 carrier frequency
+
+» French Canadian, Cajun from Louisiana, and Pennsylvania Dutch populations also have increased
+
+carrier frequency
+
+Etiology
++ autosomal recessive disorder caused by pathogenic variants in the HEXA gene
++ neurodegenerative lysosomal disease
+
+al Features
+
+classically presents in early infancy, with normal motor development in the first few months of life,
+followed by onset of incoordination, exaggerated startle response, loss of muscle tone, and progressi
+neurological deterioration at 5-6 mo of age
+
+the median survival is approximately 4 years
+
+of life
+
+aretinal cherry red spot typically develops between 3 and 12 mo, caused by accumulated glycolipids in the
+neuroretinal cells surrounding the macula. This finding can be seen in patients as early as within two days
+
+juvenile Tay-Sachs disease is seen between ages of two to ten years. Early symptoms include incoordination,
+clumsiness and muscle weakness, ataxia, dysarthria, dysphagia, and the progression of spasticity. A cherry
+
+Toronto Notes 2025
+
+Genetic and Metabolic investigations for
+Neurodevelopmental Disorders: Position Statement
+of the Canadian College of Medical Geneticists
+ecg,
+
+JMed Genet 2023;q-2022108962
+
+Purpose: To provide recommendations for genetic
+
+and metabolicivestigations for patients with
+neutadevelopmental disorders (NDD), speci
+patients wit lobal developmentaldely(6DD),
+imellectual dsabity (10), andor autism spectrum
+disorder (ASD).
+
+Methods: A uitiisciptnary group, composed of
+pysiciansand clinical scientists, reviewed exiting
+literature and guidelines Evdencewassynthesvedand
+Circulated tothe CCMG and Canadian PeaticSociety
+for feedback.
+
+Recommendations:
+
+Chromosomal micoarayfor patients with 600, 0, or
+ASD (fist-tertes)
+
+Fragie X testing for patient wit suggestive clinical
+features or family history (ister tet.
+
+Metabolic vestigation for patients with incl
+features sugestive of ninherited metabolic disease.
+Exome sequencing and comprehensive gee panelfor
+patients with GDD or ID second-tier test),
+
+Genetic testing isnot recommended for patients with
+NODin absence of 6D, 1, o ASD, unless accompanied
+ty clinica features suggestive of a syndrom etiology
+
+sive
+
+red spot is not consistently observed in this subset inherited metabolic disease,
++ adult Tay-Sachs disease is rare, and less aggressive, with residual activity of Hex A being present. There
+are several different phenotypes in adult onset Tay-Sachs, including progressive motor neuron disease,
+dystonia and spinocerebellar degeneration. Psychiatric features are common in adult-onset disease
+Diagnosis
+* serum enzyme testing
++ DNA sequencing for analysis of HEXA gene variants
+Management
++ supportive therapy involving airway clearance, seizure management, management of constipation and
+psychiatric symptoms
++ early involvement of physiotherapy and occupational therapy
++ gene therapy trials and enzyme replacement therapy under investigation
+Metabolic Diseases
++ individually rare but collectively occur in 1 in 1500 births
++ inherited disorders of metabolism; most are autosomal recessive
++ infants and older children may present with failure to thrive or developmental delay
+* organelle disorders can present with dysmorphism
++ universal newborn screening in Ontario, Canada includes some treatable metabolic disorders
+Table 8. Metabolic Disorders
+Protein Metabolism Disorders Carbohydrate Disorders Fatty Acid Disorders Organelle Disorders
+Examplesof PKU" Galactosemia® capo" Congenital disorders of glycosylation
+Conditions ——_‘Tyrosinemia® 650s: vonGierke, Pompe, Cori, VLCAD* lyscsomal storage diseases: mucopolysacchardosis (Hunter, Hurer*),
+Homocystinuria® Andersen, McArdle Lean Nemann-Pick, Tay Sachs, Gaucher, Fabry, Krabbe
+suo" Peroxisomal defects: Zellweger syndrome, X-linked
+‘Mkaptonuria adtencleukodystrophy
+Propionic acidemia*
+Uteacycle defects (ornithine transcarbamylase deficiency)
+linical Coma, iritabilty, lethargy, poor feeding Hypodlycemia, hepatomegaly liver Lethargy, poor feeding Progressive neurological problems
+Manifestations Seizures failure, cardiomyopathy Seizures, coma Developmental regression
+Intellectual disability Growth retardation falureto __—Symptomstriggeredbyfasting Chronic encephalopathy
+Vomiting and acidosis after feeding initiation thrive Liver dysfunction Developmental delay
+‘Sweet smelling urine (MSUD) Sudden infant death Bonecrises (Gaucher)
+Deaness, blindness
+Laboratory —_Hyperammonemia with normal anion gap (ureacycle defects), Elevated bver enzymes Hypoketotic hypoglycemia Hevatedurine oligosaccharides (oigosaccharidases) and
+Findings typerammonemia with highanion gap (organic acidemia) _(galactosemia) Beevatedtreefatty acs alycosaminoglycans (mucopolysaccharidoses), abnormal transferrin
+Hypoalycemia Bevated ceatine phosphokinase isoelectric focusing (congenital disorders of glycosylation), abnormal
+Lacticacidosis very long chain fatty acids (peroxisomal defects)
+Hyperlipidemia (65D)
+PhysicalExam —Hypotonialhypertonia Infantile cataracts (galactosemia) —Hepatomegaly Dysmorphic facial features
+Microcephaly, musty odour, eczema, hypapigmentation (PKU) Hepatomegaly Hypotonia Macrocephaly \ysosomal storage diseases)
+Darkurine, pigmented sclerae, arthralgias alkaptonuria)Muscleweakness/cramping Hepatosplenomegaly(Niemant-Pick ypeA/BIC, notTay Sacks)
+
+Lens subluxation, Marfanoid appearance homocystinuria)
+
+CChery-redspoton macula (Niemann-PicktypeA/B, Tay-Sachs, Gaucher)
+Corneal douding (Hurter)
+
+Infantile cataract Fabry)
+
+Peripheral neuropathy (Fabry, Krabbe)
+
+Spasticity
+
+Metabolic disorders included in Newborn Screening Ontario

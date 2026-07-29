@@ -1,0 +1,138 @@
+ELOM21 Ethical, Legal, and Organizational Medicine
+
+= decisions at end of life: capacity for informed consent, SDM, advanced care planning (written plan, will,
+or medical directive) often established through a family meeting
+
+Physician Responsibilities Regarding Death
++ physicians are required by law to complete a medical certificate of death unless the coroner needs
+notification; failure to report death is a criminal offence
+= Coroner's Act, 1990 (specific to Ontario, similar in other provinces) requires physicians to notify a
+coroner or police officer if death occurs:
+
+due to violence, negligence, misconduct, misadventure, or malpractice
+during pregnancy or is attributable to pregnancy
+suddenly and unexpectedly
+from disease which was not treated by a legally qualified medical practitioner
+from any cause other than disease
+under suspicious circumstances
+death from MAID
+coroner investigates these deaths, as well as deaths that occur in psychiatric institutions, jails, foster homes,
+nursing homes, hospitals to which a person was transferred from a facility, institution or home, etc.
+in consultation with forensic pathologists and other specialists, the coroner establishes:
+
+« the identity of the deceased
+
+= where and when the death occurred
+
+«= the medical cause of death
+
+«= the means of death (i.e. natural, accidental, suicide, homicide, or undetermined)
+coroners do not make decisions regarding criminality or legal responsibility
+while the Supreme Court of Canada noted that nothing in the Carter v. Canada decision compelled a
+physician to participate in MAID, the College of Physicians and Surgeons of Ontario mandatory referral
+policy, which has been upheld by the courts, requires physicians in Ontario to provide an effective referral if
+the physician conscientiously objects to MAID
+
+= the impact of MAID on religious institutions’ obligation towards patients is not yet clear
+
+Physici
+
+CanMEDS Competencies (Ethical/Policy Statement)
+
++ aframework of professional competencies established by the Medical Council of Canada (MCC) as
+objectives for the MCC Qualifying Exam
+
++ further information on Medical Council of Canada objectives can be found at www.mec.ca
+
+seer eee
+
+in Competence and Professional Conduct
+
+Legal Considerations
+
+physicians’ conduct and competence are legally regulated to protect patients and society via mandatory
+membership to provincial governing bodies (e.g. the CPSO)
+physicians are legally required to maintain a license with the appropriate authority, and are thus legally
+
+ound to outlined policies on matters of conduct within their medical practice
+
+the ultimate constraint on physician behaviour with regards to unprofessionalism is ‘conduct unbecoming
+a physician,’ such as inappropriate behaviour with colleagues, conflicts of interest, untruthfulness,
+unethical billing practices, and sexual impropriety with patients
+
+Common Policies on Physician Conduct
++ physicians must ensure that patients have knowledge offaccess to on-call coverage and are never abandoned
+= physicians are required to comply with the law, including human rights laws
++ sexual conduct with patients, even when consented to by the patient can lead to accusations of battery and
+professional misconduct by the provincial governing body. Important notes on this topic include:
+= inappropriate sexual conduct includes intercourse, undue touching, inappropriate and unrelated
+references to sexual matters, sexual jokes, and physician presence when capable patients undress or
+dress
+= in specific situations, physicians may have a personal relationship with a patient provided a year has
+passed since the last therapeutic contact
+«= physicians are permanently prohibited from personal relationships with patients whom they saw for
+psychotherapy
+= in Ontario, physicians must report any colleagues of whom they have information regarding sexual
+impropriety (as per CPSO Policy on Boundary Violations)
++ physicians must maintain adequate records for each patient, which include:
+= demonstration that care has been continuous and comprehensive
+= minimal standards for record-keeping, including readability, diagnosis, differential diagnosis,
+appropriate tests and referrals, and a coherent patient record, including drugs, a cumulative patient
+profile, and all aspects of charting that are required for safe patient care (full standards available at
+‘www.cpso.on.ca). Another physician should be able to take over the safe care of the patient based on the
+record
+«= records stored for 10 yr in most jurisdictions, though this ought to be verified with one’s provincial
+governing bodies
+«= although the medical record is the property of the physician or an institution:
++ the patient or the patient’s delegate must be allowed full access to information in the medical record
+
+Toronto Notes 2025
+
+Notify coroner if death occurs due to:
+Violence, negligence, misconduct
+Pregnancy
+
+Sudden or unexpected causes
+Disease nottreated
+
+Cause other than disease
+
+Suspicious circumstances
+
+MAID
+
+CPSO Policy: Treating Self and Family,
+Members
+
+Physicians will not diagnose or treat
+themselves or family members except
+for minor conditions or in emergencies,
+and only ifno other physician is readily
+available
+
+CPSO Policy: Ending the Physician-Patient
+Relationship
+
+Discontinuing services that are needed is
+an act of professional misconduct
+Exceptions include patient request,
+alternative services arranged, ot adequate
+notice has been given
+
+CMA Code of Ethics
+Report any unprofessional conduct by
+colleagues to the appropriate authority
+
+‘CanMEDS Competencies
+Communicator
+Collaborator
+
+Health Advocate
+
+Leader
+
+Professional
+
+Scholar
+
+Medical Expert

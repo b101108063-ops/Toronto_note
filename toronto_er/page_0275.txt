@@ -1,0 +1,129 @@
+Toronto Notes 2025
+
+Anaphylaxis and Allergic Reactions
+
+iology
++ anaphylaxis is an exaggerated immune-mediated hypersensitivity reaction that leads to systemic histamine
+
+and vasoactive mediator release leading to increased vascular permeability and vasodilation
++ allergic (e.g. re-exposure to allergen)
++ non-allergic (e.g. exercise-induced)
+
+Diagnostic Criteria
++ diagnosis of anaphylaxis is highly likely with any of the following:
+1. acute onset of an illness (min to h) with involvement of the skin, mucosal tissue, and at least one of
+respiratory compromise (e.g. dyspnea, wheeze, stridor, hypoxemia)
++ hypotension/end-organ dysfunction (e.g. hypotonia, collapse, syncope, incontinence)
+2. two or more of the following after exposure to a LIKELY allergen for that patient (min to h)
+¢ involvement of the skin-mucosal tissue
+* respiratory compromise
+¢ hypotension or associated symptoms
+persistent gastrointestinal symptoms (e.g. crampy abdominal pain, vomiting)
+3. hypotension after exposure to a KNOWN allergen for that patient (min to h)
+# management's also appropriate in cases which do not fulfill criteria, but who have had previous
+episodes of anaphylaxis
+¢ life-threatening differentials for anaphylaxis include asthma and septic shock
++ angioedema may mimic anaphylaxis but tends not to improve with standard anaphylaxis treatment
+
+Management
++ moderate reaction: generalized urticaria, angioedema, wheezing, tachycardia
+= epinephrine (1:1000) 0.3-0.5 mg (IM in anterolateral thigh)
+= antihistamine: cetirizine 10 mg PO/IV
+«= salbutamol (Ventolin’) 1 cc via MDI
+* severe reaction/evolution: severe wheezing, laryngeal/pulmonary edema, shock
+= ABCs, may need definitive airway (e.g. ETT) due to airway edema
+= epinephrine (1:1000) 1-10 1g/min IV (or via ETT if no IV access) titrated to desired effect
+= antihistamine: diphenhydramine (Benadryl") 50 mg IV (~1 mg/kg) or cetirizine (Reactine’) 10 mg IV
+= glucocorticoids: methylprednisolone 125-250 mg IV or prednisone/prednisolone 40-60 mg PO
+« large volumes of crystalloid may be required
+= try to remove trigger (e.g. search for insect stingers, decompress GI tract if possible)
++ patients on B-blockers may not respond to epinephrine in an anaphylactic reaction and may benefit from
+glucagon for reversal
+
+Disposition
+all patients should be kept under observation until symptoms fully resolve and vital signs normalise,
+especially if severe anaphylaxis and/or those who needed >1 dose of epinephrine (local practices may vary);
+arrange follow-up with family physician in 24-48 h
+can have second phase (biphasic) reaction up to 72 h later, patient may need to be supervised
+educate patient on avoidance of allergens
+instructions to seek immediate medical attention in ED during any future anaphylaxis reaction, even when
+self-treatment has been self-initiated
+medications
+
+= epinephrine auto-injector
+
+= H1 antagonist (cetirizine 10 mg PO once daily)
+
+= Second-generation Hl antagonists (e.g. cetirizine) are less sedating than first-generation H1 antagonists
+
+(e.g, diphenhydramine)
+= glucocorticoids not recommended
+
+Asthma
+
+Definition
+
++ see Respirology, R7 and Pediatrics, P91
+
++ chronic inflammatory airway disease with episodes of bronchospasm and inflammation resulting in
+reversible airflow obstruction
+
+History and Physical
+
++ find cause(s) of asthma exacerbation (e.g. viral, environmental, etc.)
+
++ history of asthma control; severity of exacerbations (e.g. ICU, intubation history)
++ signs of respiratory distress (e.g. accessory muscle use)
+
++ vitals, specifically O2 saturation
+
+Emergency Medicine ER29
+
+‘Most Common Triggers for Anaphylaxis
+Foods (nuts, shelifish, etc.)
+
+Stings
+
+Drugs (penicilin, NSAIDs, ACE,
+Radiographic contrast media
+
+Blood products
+
+Latex
+
+Anaphylaxis should be suspected if
+airway, breathing, or especialy circulation
+‘compromise is present after exposure toa
+known allergen
+
+Hypotension is defined as sBP >30%
+decrease from baseline or
+
+Myr: <90 mmHg
+
+440 yr:<70 mmig + (2xage)
+
+41mo-1 yr:<J0 mmHg
+
+Early epinephrine is lifesaving and there
+are no absolute contraindications
+
+Pediatric Dosing
+
+Epinephrine: 0.01 mg/kg IM up to 0.5 mg
+540 min
+
+Initial crystalloid bolus: 20-30 mUkg,
+reassess
+
+Epinephrine infusion: 01.5 yg/kgimin
+Diphenhydramine: 1 mg/kg PO/V q4-6 h
+Methylprednisolone: 1-2 mg/kg IV
+
+Beware of the silent chest in asthma
+exacerbations. Thisis a medical emergency
+and requires aggressive treatment.
+Intubation of patients with severe asthma
+is extremely high risk and maximum
+‘medical therapy should be used to avoid
+itifpossible

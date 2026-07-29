@@ -1,0 +1,123 @@
+Gs20 General and Thoracic Surgery
++ contraindications
+= ages >75, cigarette smoking within the prior 6 mo, higher risk of surgical mortality (e.g. severe CAD or
+HF)
+= homogeneously distributed emphysematous changes without areas of preserved lung tissue
+= severe cachexia or obesity, chest wall deformity, or pulmonary HTN (PA systolic pressure >45 mmHg)
+= diffusing capacity of lung for carbon monoxide <20% of predicted, PaCO: >60 mmHg, PaO: <45 mmHg
++ surgical procedures
+«= lung volume reduction surgery: wedge excision of emphysematous tissue
+« bilateral or unilateral, thoracotomy or VATS (preferred)
+
+Complications of Treatment
++ arrhythmias, pneumonia (may require reintubation and mechanical ventilation), prolonged air leak from
+chest tube
+
+Prognosis
++ worse early mortality but better exercise capacity and quality of life with LVRS
+
+Mediastinal Masses
+
+Definition
++ mediastinum: bound by the thoracic inlet, diaphragm, sternum, vertebral bodies, and the pleura
++ can be broken down into 3 compartments: anterior, middle, and posterior
+
+Etiology and Pathophysiology
++ diagnosis is aided by location and patient’s age
++ anterior compartment: more likely to be malignant
+= “Four Ts” (see sidebar), lymphadenopathy, lipoma, pericardial cyst, goitre, and ascending aortic
+aneurysm thymic tumours/cysts
++ middle compartment
+= pericardial cyst, bronchogenic cyst/tumour, lymphadenopathy, aortic aneurysm
++ posterior compartment
+= neurogenic tumours, meningocele, enteric cysts, lymphadenopathy, diaphragmatic hernias, esophageal
+tumours, aortic aneurysm
+
+Clinical Features
+
++ 50% asymptomatic (mainly benign); when symptomatic, 50% are malignant
+
++ chest pain, cough, dyspnea, recurrent respiratory infections
+
++ hoarseness, dysphagia, Horner's syndrome (see sidebar), facial/upper extremity edema (SVC compression)
++ paraneoplastic syndromes (e.g. myasthenia gravis (thymomas))
+
+Investigations
+
+CXR (compare to previous)
+
++ CT with contrast (anatomic location, density, relation to mediastinal vascular structures)
+
+MRI: specifically indicated in the evaluation of neurogenic tumours
+
+echocardiogram: best for assessment of structures in close proximity to the heart and pericardium
+radionuclide scanning: "I (for thyroid), gallium (for lymphoma), PET/CT
+
+biochemical studies: thyroid function, serum calcium, phosphate, PTH, AFP, B-hCG, LDH
+
+biopsy (mediastinoscopy, bronchoscopy, and EBUS, percutaneous needle aspiration)
+
+Management
++ excision - symptomatic benign mass that is enlarging or a mass with concerns for malignancy
+
++ resect bronchogenic cysts and localized neurogenic tumours via VATS or open surgery
+
+diagnostic biopsy rather than major operation if mass is likely to be a lymphoma, germ cell tumour, or
+unresectable invasive malignancy
+
+no biopsy if AFP, B-hCG, LDH elevated - pathognomonic for germ cell tumour
+
+Thymoma
+
+Definition
++ rare neoplasms in thymus, located in anterior mediastinum
+
+Epidemiology
+
++ patients between 40 and 60 yr
+
++ M=F
+
++ no known risk factors, strong association with myasthenia gravis and other paraneoplastic syndromes
+
+Toronto Notes 2025
+Differential of an Anterior Compartment
+Mass
+41s
+Thymoma
+Thyroid enlargement (goitre)
+Teratoma
+
+Tumours (lymphoma, parathyroid,
+esophageal, angiomatous)
+
+Mediastinal Components
+
+Anterior: sternum to pericardium and great
+vessels. Includes: thymus, extra-pericardial
+aorta and branches, great veins, lymphatic
+tissues
+
+Middle: pericardium (anteriorly), posterior
+pericardial reflection, diaphragm, thoracic
+inlet. Includes: heart, intrapericardial great
+vessels, trachea
+
+Posterior: posterior pericardial reflection,
+posterior border of vertebral bodies, frst
+tibto the diaphragm. Includes: esophagus,
+vagus nerve, thoracic duct, sympathetic
+chain, azygous venous system
+
+Masaoka Staging System
+
+‘Stage I: completely encapsulated
+
+‘Stage Invasion beyond capsule
+
+‘Stage It into another organ,
+
+‘Stage INa: pleural/pericarcial mets
+
+‘Stage IVb: hematogenous/lymphatic mets
+

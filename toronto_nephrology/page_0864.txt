@@ -1,0 +1,111 @@
+NP44 Nephrology
+
+Toronto Notes 2025
+
+Trial Name Reference (Clinical Trial Details
+ELECTROLYTE DISTURBANCES
+BICAR ICU Title: Sodium bicarbonate therapy for patients with severemetabolicacidaemiain the intensive care unit (BICAR-ICU):a multicentre, open-label, randomized controlled,
+phase3trial
+Purpose: Toassess the potential benefits ofsodium bicarbonate infusion onoutcomes incrticallyill patients.
+Methods:A multicenter, open-label, randomized controlled phase 3 trial was conductedin 26 ICUs in France. Critical i adult patents withsevere acidaemia were
+randomly assigned toreceive sodium bicarbonateinfusion or notreatment. The primary outcome measured death andorgan failure.
+Results: 389 patients were enrolledin the study. The primary outcome occured in 7% of the control group and 66% ofthe bicarbonate group. The probability of survival
+at day 28 was not significantly different between the groups, except for patients inthe Acute Kidney Injury Network stratum. Adverse events were more common inthe
+bicarbonate group, but no life-threatening complications were reported.
+‘Conclusions: Sodium bicarbonate had no effect onthe primary outcome in patients withsevere metabolic acidaemia, but benefited those with acute kidney injury
+SALT NEJM 2006;16:2099-412 Title: Tolvaptan, aSelective Oral Vasopressin V2-Receptor Antagonist, for Hyponatremia
+Purpose: Investigate whether tolvaptan mightbe of benefit nhyponatremia.
+Methods: Patientswith euvolemic ot hypervolemic hyponatremia were randomized to oral tohaptan 15 mg daily or oral matched placebo. The primary endpoints were
+‘changes in daily area-under-the-curve for serum a’ concentrations.
+Results: Serum Na concentrationsincreased more inthe tolvaptan roupthanplaceboduring the fist 4d (P<0.001) and ater 30d (P 0.001). Side effects included dry
+rst, and increased urination.
+‘Conclusions: In ptientswith ewvolemic or hypervolemic hyponatremia, tolvaptan, anoral vasopressin V2-receptor antagonist, was effective in increasing serum Nar
+‘concentrations.
+SMART NEJM 2018;378:829-39 Title: Balanced Crystallids versus Saline in Noncitically Il Adults
+Purpose: To examine the clinical impactof using balanced cy tallaids comparedto saline for routine intravenous fluid therapy in noncriically ill aduts inthe
+‘emergency department.
+Methods: Ina single-center trial, noncritcally il adults in the emergency department received either balancedcrystalloids or saline for intravenous fluid therapy. The
+study assessed hospita-free days and major adverse kidney events as outcomes
+Results: 13347 patients were enolled, receiving ether balanced cystalloidor saline inthe emergency department. Hspital-free days were similar between the
+‘groups. However, the incidence of major adverse kidney events within 30 d was lower inthe balanced crystalois group compared to saline.
+‘Conclusions: No disparity in hospta-fee days was observed between balanced crystallois and saline treatments in nonciicalill adults receiving intravenous lus.
+OPALHK NesM 2015;372:211-21 Title: Patiromerin Patients with Kidney Disease and Hyperkalemia Receiving RAAS Intibitors
+Purpose: Assess the saety and efficacy of ptiomer, aK binder, in reatinghyperkalemia,
+Methods: Patientswith CKD receiving RAAS inhibitors with serum K levels of 5.16.5 mmol/L received patromer for 4 wk. The primary efficacy endpoint wasthemean
+‘change in serum levels from baseline to week 4. Subsequently, 107 patients were randomly assignedtopatiromer or placebo or the randomized withdrawal phase.
+Results: The median increase in  levelsfrom baseline was greater with placebothan with patiromer (P<0,001). Arecurrence of hyperkalemia ocurred in 60% of
+placebo patents comparedwith 15% inthe patomer group,
+Conclusions: In CKO patients receivngRAAS inhibitors and who had hyperkalemia, patromer treatment was associated with adecrease in serumK’levelsand a
+reduction hyperkalemia recurrence.
+DIABETIC NEPHROPATHY
+
+ACElandDiabetic ——_-NEJM1993;329:1456-62
+
+BENEDICT NEJM 2004;351:1941.51
+DETAIL NEJM 2004,351:1952-61
+INT NEJM 2001;345:85-60
+RENAAL NEJM 2001;345:861-69
+
+Title: The Effect ofAngiotensin-Comverting Enzyme Inhibition on Diabeticephropathy
+Purpose: Determine whether captopi haskidney- protecting properties independent of BP control patients wit dabetc nephropathy.
+
+Methods: Patients with nsalin-dependent DM were randomized to captopril or placebo. The primary endpoint was a doubling of the baseline serum.
+
+Results: The associated risk reductions ofthe primary endpoint was 48%in the captopril goup. Serum Cr concentrations doubled in 25 patients inthe captopril group
+‘compared to 43 patients inthe placebo group. The meantate of decine inCr clearance was 1% per yrin the captopril group and 17% inthe placebo group.
+Conclusions: Captopril protects against deterioration inrenal function in insulin-dependent diabetic nephropathy and i significantly more effective than BP control
+alone.
+
+Title: Preventing Microalbuminuria in Type 2 Diabetes
+
+Purpose: Assess whether ACEI andnon diydropyridine calcium channel blockers (CCBs) alone or in combination, prevent microalbuminuria patients with HTH and
+720M.
+
+Method:1204 patients were randomized to3 yrof treatment wth trandolapril2 mg dil
+placebo. The primary endpoint was the development of persistent microalbuminu
+Results: The primary outcome was reached in of combination patents, 6% of randolapil patents, 11.9% of verapamil patients, and 10% of placebo patent
+Serious adverse events were similar among al treatment group.
+
+‘Conclusions: Treatment with ACEI trandolapi alone or randolapri combined with verapamil decreased theincidence of microalbuminuria in patients withT2DM and
+HTN with normoalbuminuria,
+
+Title: Angiotensin Receptor Blockade versus Converting-Enzyme Inhibition in Type 2 Diabetesand Nephropathy
+Purpose: Compare renoprotectve effects of ARBs and ACEIsin patients withT2DM.
+
+Methods: 250 patients with 120M and early nephropathy were randomized to either telmisartan 80 mg
+‘change in GFR betweenbaseline and last available value, during the S yr study period.
+
+Results: At Sy, the change in GFR was 179 mLimin/1.73 m2 with telmisartan, compared with 4.9 mLimin/1.73 m2 with enalapril (dference-3.0 ml/min/1.73 m2;95%
+0161016).
+
+‘Conclusions: The ARB elmisartan and the ACEI enalapril areequalyeffectivein slowing rena function deterioration in T2DM with mild tomoderate HTN and ealy
+nephropathy.
+
+Title: Renoprotective Effect ofthe Angiotensin-Receptor Antagonist Irbesartanin Patients with Nephropathy Due to Type 2 Diabetes
+
+Purpose: Assess whether the AR ibesartanor the CCB amlodipine slow progression of nephropathy inpatients withT2DM independently of BP effects.
+
+Methods: 1715 hypertensive patients with nephropathy dueto T20M were randomized tirbesartan 300 mg daily, amlodipine 10 mg daily, or placebo. The primary
+‘endpoint was a composite ofthe doubling of baseline serum Cr, development of ESRD, oral-cause mortality
+
+Results: Treatment with besartan was associated with a rate of primary endpoints 20% lower than placebo (P=0.02)and23% lower than amlodipine (P=0.006).
+‘Treatment with rbesartan was associated witha RR of ESRD23% lower thanthat in both other groups (?=0.07 for both comparisons). These differences were not
+‘explained by BP changes.
+
+Conclusions: Treatment wth irbesartan reduced the rskof developing ESRD and worsening renal function inpatients wth T2DM and diabetic nephropathy.
+
+Title: Effects of Losartanon Renal and Cardiovascular Outcomes inPatientswith Type 2 Diabetesand Nephropathy
+Purpose: Assess the role of ARB losartan inslowing progression of renal disease, in patients with T2DM and nephropathy.
+
+Methods: 1513 patients were randomized to losartan 50-100 mg daily or placebo, in addtionto conventional antihypertensive treatments. Te primary outcome was &
+‘composite of the doubling of serum Cr, ESRD, or mortality.
+
+Results: 327 patients inthe losartan group, compared with 359 in the placebo group, achieved the primary endpoint (isk reduction 16%; P-0.02) Losartan reduced the
+incidence of the doubling of serum Cr (risk reduction 25%; P-0.006) and ESRD (riskreduction28%;P=0.002), with no effect on mortality.
+
+Conclusions: Losartan conferred significantrenal benefits inpatients with T2DM and nephropathy, and was generally well-tolerated.
+
+plus verapamil SR 180 mg diy, trandolapril alone, verapamil alone, or
+
+‘or enalapri 20 mg daily. The primary endpoint was @
+

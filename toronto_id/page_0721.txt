@@ -1,0 +1,71 @@
+1D3 Infectious Diseases
+
+Table 1. Common Bacteria
+
+Toronto Notes 2025
+
+GPBacteria N Bacteria NotSeen on Gram Stain
+Cocci (round) Bacili (rod-like) Diplococci(paired cocci) Bail (rod-ke) Acid Fast Others
+Rerobes Staphylococcus Bacillus Ieisseria Enterobacterales Mycobacterium Obligate intracetistar
+Soureus B.onthradis ‘H.meningtids Eooli M. tuberculosis Rickettsie
+S.saprophyticus listeria H.gonarrboeae Kebsidlla M. leprae Chlamydia
+S-epidermidis Nocardia (modified cid Moraxella Salmonella M. avium complex trachomatis
+S.lugdunensis fast posite) Mcatarhis Shigella C. pneumoniae
+Streptococcus Yersinia
+S pneumoniae (iplococci) Campylobacter No cell wal
+S pyogenes (6AS) Legionella Mycoplasma
+agalactiae (685) Pseudomonas
+S.onginosus group Haemophils(coccobacil Spirochete (spiral)
+Enterococcus 4H influenzae Treponemapalidum
+E foecals
+Anaerobes Peplostreptococcus (Clostidioidesdifile Bacteroides
+Clostridium 8. fags
+ tetani
+botulinum
+.perhingens
+Cutibacerium
+@Propionibacterium) acres
+Table 2. Commensal Flora
+site Organisms
+Skin ‘Coagulase-negative staphylococd, Corynebacterium, Cutibacterium acne, Bacilus,S.ueus
+Gropharynx —_—_Viridans group streptococci, Haemophilus, Neisseria anaerobes (Peptosteptococcus, Bacteroides, Veillonella, Fusobacterium, Actinomyces, Prevtela)
+SmallBowel _E coli,anaerobes (low numbers)
+Colon E-col, Kebsella, Enterobacter, Enterococaus, anaerobes (Bacteroides, Peptostreptococus, Clostridium)
+Vagina Lactobocilus acidophilus, viridans group streptococd, coagulase-negativestephylococd, facutative anaerobes
+C4
+v ¥
+Obligate intracellular bacteria Non-obigate intracellular bacteria
+‘ ‘ t
+Rickettsia rckettsii Spiral shaped Coc! or bacilli
+Chlamydia trachomatis 1
+Coxiella burnetii + aa v v
+‘Treponema pallidum Gram-positive Gram-negative ‘Acid fast
+Borrelia burgdorferi
+Leptospira spp.
+Cocel Bacil Cocei BacilliCoccobaciliM. tuberculosis
+M. leprae
+‘Aerobic ‘Anaerobic Aerobic Anaerobic
+Catalase ve Catalase-ve ___—Peptococcus N. Veillonella
+Peptostreptococcus N. meningitidis
+Moraxella spp.
+Aerobic Anaerobic
+‘Staphylococcus Spore forming Non-spore forming Bacteroides fragilis
+L n 1
+v v v v v v
+Coagulase+ve Coagulase -ve ‘Aerobic ‘Anaerobic ‘Aerobic Anaerobic Growth onsheep No growth on sheep
++ + + + + + blood agar blood agar
+S.aureus _S.epidermidis | Bacillus anthracis. botulinum listeria Lactobacillus +
+'S. saprophyticus Bacillus cereus _C. tetani Actinomyces Haemophius influenzae
+C.perfringens C. diphtheriae —_Cutbacterium Legionella pneumophila
+difficile
+Enterococci ‘Streptococci Oxidase +ve Oxidase ve
+a-hemolytic B-hemolytic _y-hemolytic Glucose fermenter Non-glucose fermenter Lactose fermenter Nondactose fermenter
+S.pneumoniae Group AStrep _S. gallolyticus Vibrio cholerae —_—Bordatela pertussis Escherichia coli ‘Salmonella typhi
+Viridans group Strep _(S. pyogenes) Cardiobacterium —_ Campylobacter jejuni Klebsiella pneumoniae Shigella dysenteriae
+Group B Strep Pasteurella Pseudomonas aeruginosa ‘Aeromonas Proteus mirabilis
+(S.agalactiae) Bikenella Yersinia pestis
+Group ¢ Strep Moraxella
+Group G Strep
+
+Figure 2. Laboratory identification of bacterial species
+Bold = commonly encountered bacteria

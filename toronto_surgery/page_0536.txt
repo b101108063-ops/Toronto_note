@@ -1,0 +1,114 @@
+Gs44 General and Thoracic Surgery
+
+Treatment
++ colon cancer
+wide surgical resection of lesion according to vascular distribution and regional lymphatic drainage;
+usually colectomy with primary anastomosis
+curative: wide resection of lesion (5 cm margins) with nodes (>12) and mesentery
+care is taken to not spread tumour by unnecessary palpation
+adjuvant chemotherapy (oxaliplatin-based) for stage III and is considered in select stage II patients
+palliative: if distant spread, local control for hemorrhage or obstruction
++ metastatic lesions confined to the liver can be resected with curative intent
++ rectal cancer
+= choice of operation depends on individual case
+¢ LAR: curative procedure of choice if adequate distal margins (~2 cm); uses technique of total
+mesorectal excision
+¢ APR: if adequate distal margins cannot be obtained; involves the removal of distal sigmoid colon,
+rectum, and anus; permanent end colostomy required
+* transanal minimally invasive surgery (TAMIS): local excision for select T1 or less lesions, polyps, or
+Tis that cannot be resected by colonoscopy
+« palliative procedures involve proximal diversion with an ostomy for obstruction and radiation for
+bleeding or pain
+= in many cases, neoadjuvant (preoperative) therapy is required in the form of radiation, chemoradiation,
+chemotherapy, or a combination. The optimal management should be reviewed at a tumour board
+
+Follow-Up
+
++ stage I: mixed recommendations; either routine colonoscopy or screening like stage II & III
+
++ stage II & III: regular follow-up q3-6 mo for 3 yr, then q6 mo until 5 yr, with regular measurement of serum
+CEA for at least 3 yr; annual CT chest/abdo/pelvis for at least 3 yr; colonoscopy at 1 then 5 yr
+
++ stage IV: no data on surveillance strategy
+
+Other Co
+
+s of the Large Intes'
+
+Angiodysplasia
+
+Definition
++ vascular malformation: focal submucosal venous dilatation and tortuosity
+
+Clinical Features
+
++ most frequently in right colon of patients >60 yr
+
+. predispeition in end-stage renal disease, Von Willebrand disease, and aortic stenosis
+
++ bleeding typically intermittent, rarely massive, and not usually hypotensive (melena, anemia, and occult
+blood positive stools)
+
++ >90% of cases cease bleeding spontaneously
+
+Investigations
+
++ colonoscopy: cherry red spots, branching pattern from central vessel
+
++ angiography: early-filling vein, vascular tuft, and delayed emptying vein; rarely active bleeding
++ RBC technetium-99 scan
+
++ barium enema is contraindicated (obscures other x-rays, i.e. angiogram)
+
+Treatment
+
++ none if asymptomatic
+
++ cautery, embolization, vasopressin infusion, sclerotherapy, band ligation, laser, octreotide, and rarely
+segmental resection if other treatments fail
+
+Volvulus
+
+Definition
++ rotation of segment of bowel about its mesenteric axis
++ sigmoid (65%), cecum (30%), transverse colon (3%), and splenic flexure (2%)
+= elderly >70 yr (sigmoid), adult 40-60 yr (cecal), and neonates and infants (midgut)
++ 5-10% of large bowel obstructions; 25% of intestinal obstructions during pregnancy
+
+Risk Factors
+
++ age (50% of patients >70 yr: stretching/elongation of bowel with age)
+
++ high fibre diet (can cause elongated/redundant colon), chronic constipation, laxative abuse, pregnancy,
+bedridden, and institutionalization (less frequent evacuation of bowels)
+
+megacolon
+
+intestinal bands/adhesions
+
+Toronto Notes 2025
+
+a FYE
+N We NS
+¢ py é
+
+APR 2
+g
+
+Rg
+
+, Sal
+4
+
+Figure 16. LAR vs. APR
+
+Cecal Volvulus
+AXR: Central left of “coffee bean” sign
+points to RLO
+
+‘Sigmoid Volvulus
+AXR: Central left of “coffee bean” sign
+points to LLO
+
+Barium enema: “ace of spades” or “bird's
+beak" sign

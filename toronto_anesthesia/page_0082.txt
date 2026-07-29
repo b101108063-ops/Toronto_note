@@ -1,0 +1,154 @@
+A28 Anesthesia
+
++ systemic medication
+= easy to administer, but risk of maternal or neonatal respiratory depression
+= opioids most commonly used if delivery is not expected within 4 h; fentanyl can be considered
++ inhalational analgesia
+= easy to administer, makes uterine contractions more tolerable, but does not relieve pain completely
+= nitrous oxide 50% is insufficient alone but good safety profile for mother and child
++ neuraxial anesthesia
+provides excellent analgesia with minimal depressant effects
+inadequate block and hypotension are the most common complications
+risk of PDPH is <1/200
+maternal BP monitored q2-5 min for 15-20 min after initiation and regularly thereafter
+epidural usually given as it preferentially blocks sensation, leaving motor function intact
+maintenance options for neuraxial labour anesthesia: epidural administered as continuous infusion,
+intermittent boluses, and/or as patient-controlled epidural analgesia
+relative contraindication for patients with thrombocytopenia
+
+Options for Caesarean Section
+
++ neuraxial: spinal or epidural
+
++ general: used if contraindications or time precludes regional blockade (see Regional Anesthesia, Epidural
+and Spinal Anesthesia, A21)
+
+Pediatric Anesthesia
+
+Respiratory System
++ in comparison to adults, anatomical differences in infants include:
+= large head, short trachea/neck, large tongue, larynx positioned more superior and anterior, adenoids,
+and tonsils
+= narrow nasal passages (obligate nasal breathers until 5 mo)
+= narrowest part of airway at the level of the cricoid vs. glottis in adults
+= epiglottis is longer, U-shaped and angled at 45°; carina is wider and is at the level of T2 (T4 in adults)
++ physiologic differences include:
+= faster respiratory rate, immature respiratory centres that are depressed by hypoxia/hypercapnia
+(airway closure occurs in the neonate at the end of expiration)
+= less O: reserve during apnea - decreased total lung volume, vital capacity, and FRC together with higher
+metabolic needs
+to increase alveolar minute ventilation in neonates, increase respiratory rate, not tidal volume
+neonate: 30-40 breaths/min
+age 1-13: (24 - [age/2]) breaths/min
+greater V/Q mismatch - lower lung compliance due to immature alveoli (mature at 8 yr)
+greater work of breathing - greater chest wall compliance, weaker intercostals/diaphragm, and higher
+resistance to airflow
+
+Cardiovascular System
+
++ blood volume at birth is approximately 80 mL/kg; transfusion should be started if >10% of blood volume is
+lost
+
++ children have a high HR and low BP
+
++ CO is dependent on HR, not SV because of low heart wall compliance; therefore, bradycardia severely
+compromises CO
+
+Temperature Regulation
+
++ vulnerable to hypothermia
+
++ minimize heat loss by use of warming blankets, covering the infant’s head, humidification of inspired
+gases, and warming of infused solutions
+
+Central Nervous System
++ MAC of halothane is increased compared to the adult (0.75% adult, 1.2% infant, 0.87% neonate)
+
+NMJ is immature for the first 4 wk of life, and thus, there is an increased sensitivity to non-depolarizing
+relaxants
+
+parasympathetics mature at birth, sympathetics mature at 4-6 mo; thus, there is an autonomic imbalance
+infant brain is 12% of body weight and receives 34% of CO (adult: 2% body weight and 14% CO)
+
+Glucose Maintenance
+
++ infants <1 yrcan become seriously hypoglycemic during preoperative fasting and postoperatively if feeding
+is not recommenced as soon as possible
+
++ after 1 yr, children are able to maintain normal glucose homeostasis in excess of 8 h
+
+Pharmacology
+
++ higher dose requirements because of higher TBW (75% vs. 60% in adults) and greater volume of
+distribution
+
++ barbiturates/opioids more potent due to greater permeability of BBB
+
+Toronto Notes 2025
+
+@
+
+Techniques forPreventing Hypotension During
+Spinal Anesthesia for Caesarean Section
+
+Cochrane D8 Syst Rv 20178:C0002251
+Purpose:Toassesstheeffectsf prophylactic
+interventions for maternal hypotension following spinal
+anesthesia for caesarean section
+
+Methods: Searched Cochrane Pregnancy and
+Chibiths Tals Register and reference sts Induded
+RCTscomparng interventions to prevent hypotension
+with placebo oalternativ treatment
+
+Results: 126 studies were included involving 9565
+participants. ldentfid 3intervention goups
+
+which wer I fuids (colloids. cystallid s,no
+fluid), pharmacological interventions ephedrine
+
+¥. phenylephrine, or ondansetron vs control), and
+physical interventions (ower limb compression or
+ying waking) Al groups showed better control
+
+of hypotension with no differences between coloid
+¥s.cystaloid ephedrinevs phenylephrine, olying
+1. walking. llevdence was veryow quali to
+low-quaty.
+
+Condusions: While interventions such scystalloids,
+cols, ephedrine, phenylephrine, ondansetron, or
+lower eg compression can reduce the incidence of
+hypotension, none have been shown tobe superior
+tothe othe,
+
+‘Adult Upper Airway
+
+© Neole Cough 2014
+Child Upper Airway
+
+‘Andrew 0. Tran 2014 (after Leanne Chan 2011)
+
+‘1. Large head
+2 Newborns are obligate nasal breathers
+3. Adenoid and tonsils
+
+4. Larger tongue in proportion to mouth
+5, Smaller pharynx
+
+6. Larger and more flaccid epiglotis
+
+7. Larynxis more superior and anterior
+
+8. Narrowest point at crcoid cartiage
+
+9, Trachea is more narrow and less rigid
+
+Figure 18. Comparison of pediatric
+vs. adult airway
+
+See Landmark Anesthesiology Trials table for more
+information on the WOMAN ta, which determines
+the effects of ear traneramicacid administration on
+death, hysterectomy, and other relevant outcomes in
+women with postpartum hemorrhage

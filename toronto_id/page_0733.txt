@@ -1,0 +1,86 @@
+IDIS Infectious Diseases Toronto Notes 2025
+
+diagnosis of infected ulcer: >2 of the cardinal signs of inflammation (redness, warmth, swelling, pain) OR
+the presence of pus
++ crepitus, osteomyelitis, systemic toxicity
+visible bone or probe to bone: osteomyelitis
+infection severity
+= mild = superficial (no bone/joint involvement)
+= moderate = deep (beneath superficial fascia, involving bone/joint) or erythema >>2 cm
+= severe = infection in a patient with systemic toxicity (fever, tachypnea, leukocytosis, tachycardia, hypotension)
+
+Investigations
++ curettage specimen from ulcer base, aspirate from an abscess or bone biopsy (results from superficial swabs
+do not represent organisms responsible for deeper infections)
+
+blood C&S if febrile
+
+assess for osteomyelitis by x-ray (although not sensitive in early stages) or MRI/bone scan if high clinical suspicion
+
+if initial x-ray normal, repeat 2-4 wk after initiating treatment to increase test sensitivity
+
+Treatment
++ mild: cloxacillin or cephalexin
++ moderate or severe: amoxicillin/clavulanate or ceftriaxone
++ optimize glycemic control, pressure offloading, wound care, consider surgical debridement and revascularization
+= this is empiric treatment, and specific treatment needs to be adjusted based on culture and response to
+therapy
+
+Osteomyelitis
+
+« see Orthopedic Surgery, ORI
+
+Ca
+
+c Infectio
+
+Infective Endocarditis
+
+Definition
+
++ infection of cardiac endothelium, most commonly the valves
+
++ classifications: acute vs. subacute or chronic, native valve vs. prosthetic valve, right sided vs. left sided
++ leaflet vegetations are made of platelet-fibrin thrombi, WBCs, and bacteria
+
+Risk Factors and Etiology
++ predisposing conditions
+« high-risk: prosthetic cardiac valve, previous infective endocarditis (IE), congenital heart disease
+(unrepaired, repaired within 6 mo, or repaired with defects), cardiac transplant with valve disease
+(surgically constructed systemic-to-pulmonary shunts or conduits)
+= moderate risk: other congenital cardiac defects, acquired valvular dysfunction, hypertrophic
+cardiomyopathy
+= low/no risk: secundum atrial septal defect (ASD) or surgically repaired ASD, ventricular septal defect
+(VSD), patent ductus arteriosus (PDA), mitral valve (MV) prolapse, ischemic heart disease, previous
+coronary artery bypass graft (CABG)
+= opportunistic bacteremia: IVDU, indwelling venous catheter, hemodialysis, poor dentition, DM, HIV
++ frequency of valve involvement MV>>aortic valve (AV)>tricuspid valve (TV)>pulmonary valve (PV)
+= in 50% of [VDU-related IE the tricuspid valve is involved
+
+Table 17. Microbial Etiology of Infective Endocarditis Based on Risk Factors
+
+Native Valve wou Prosthetic Valve (recent surgery Prosthetic Valve (remote surgery>2 mo)
+<2mo)
+Streptococcus’ (36%) S. aureus (68°) S.aureus (36%) ‘Streptococcus (20°)
+S. aureus (28%) Streptococcus (13%) S.epidermidis (17°) $. aureus (20%)
+Enterococcus (11%) Fnterococaus Enterococcus S. epidermidis 20°)
+S.epidermidis NB NB Enterococcus (13%)
+Candida Other? Other?
+Other? Other?
+
+‘Organismsin bold are the mast common isolates
+4, Sreptococcusinciudes maint viritans group streptococci
+2. Other includes fess common organisms suchas
+« Streptococcus galloytcus previously known as S bovis; usualy associated with underying Gi malignancy and Grrosis)
++ Culture-negtiv organisms including Abotrophia,Granucatele, Bartonefla,Coxel, Chlamyeta, Legionella, Brucella
++ Haemophilus, Aggregatibacter, Cardiobacterium, Etene a, and Kinge a (HACEK)
+Candida
+3. INDU endocarits pathogens depend on substance usedto dilute the drugs (i.e. tap water = Pseudomonas, salva oralfiora toilet water=Gl fora)
+
+C al Features
++ systemic
+
+= fever (80-90%), chills, weakness, rigors, night sweats, weight loss, anorexia
++ cardiac
+
+= dyspnea, chest pain, clubbing (subacute)

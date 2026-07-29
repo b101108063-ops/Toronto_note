@@ -1,0 +1,101 @@
+NP28 Nephrology
+
+Tubulointerstitial Disease
+TUBULOINTERSTITIAL NEPHRITIS
+
+Definition
+
++ cellular infiltrates affecting primarily the renal interstitium and tubular cells
+
++ functional tubule defects are disproportionately greater than the decrease in GFR
++ classified as acute or chronic
+
+Signs and Symptoms
++ manifestation of disease depends on site of tubule affected
+1. proximal tubule (e.g. multiple myeloma, heavy metals, genetic diseases such as Dent’s disease or
+Lowes disease)
+— Fanconi syndrome: decreased reabsorption in proximal tubule causing glycosuria,
+aminoaciduria, phosphaturia, and hyperuricosuria
+— proximal RTA (decreased bicarbonate absorption): Type II RTA
+2. distal tubule (e.g. amyloidosis, obstruction)
+— distal RTA (decreased hydrogen secretion, usually hypokalemic): Type I RTA
+— Na*-wasting nephropathy
+— + hyperkalemia leading to Type IV RTA (where reduced renal bicarbonate production is
+caused by hyperkalemia)
+3. collecting duct (e.g. sickle cell anemia, analgesics, primary ciliary dyskinesia)
+— urinary concentrating defect leading to mild nephrogenic DI
+— polyuria
+
+41. ACUTE TUBULOINTERSTITIAL NEPHRITIS
+
+Definition
++ rapid (days to weeks) decline in renal function
++ 10-20% of all AKI
+
+Etiology
++ hypersensitivity
+1, antibiotics: B-lactams, sulfonamides, rifampin, quinolones, cephalosporins
+2. other: NSAIDs, allopurinol, furosemide, thiazides, triamterene, PPls, acyclovir, phenytoin,
+cimetidine
++ infections
+= bacterial pyelonephritis, Streptococcus, brucellosis, Legionella, CMV, EBV, toxoplasmosis, leptospirosis,
+HIV, Mycoplasma
++ immune
+= SLE, acute allograft rejection, Sjégren’s syndrome, sarcoidosis, mixed essential cryoglobulinemia (Type
+Il)
++ idiopathic (renal-ocular syndrome - acute TIN plus uveitis)
+
+Pathophysiology
++ acute inflammatory cell infiltrates into renal interstitium
+
+Clinical Features
+
++ AKI
+
++ if hypersensitivity reaction (common with antibiotics): may see fever, eosinophilia, skin rash, arthralgia,
+serum sickness-like syndrome (particularly rifampin)
+
+if pyelonephritis: flank pain and costovertebral angle tenderness
+
+if drug reaction, AKI usually occurs 7-10 d after exposure
+
+other signs and symptoms based on underlying etiology
+
+HTN and edema are uncommon
+
+Findings
++ urine
+= mild, non-nephrotic range proteinuria and microscopic hematuria
+= sterile pyuria, WBC casts
+= eosinophils if AIN (never the sole finding)
++ blood work
+= increased Cr and urea
+«= eosinophilia if drug reaction (high negative predictive value, common in B-lactam reactions)
+= normal AG metabolic acidosis (RTA)
+= hypophosphatemia, hypo- OR hyperkalemia, hyponatremia
++ gallium scan often shows intense signal due to inflammatory infiltrate
++ renal biopsy definitive - shows interstitial infiltrates and edema on biopsy
+
+Toronto Notes 2025
+
+IgA nephropathy is the most common type
+cof primary glomerular disease worldwide
+
+Features of Nephritic Syndrome
+
+PHAROH
+Proteinuria
+Hematuria
+Azotemia
+RBC casts
+Oliguria
+HIN
+
+Presentation of Nephrotic Syndrome
+
+HELP
+Hypoalbuminemia
+Edema
+
+Lipid abnormalities
+Proteinuria

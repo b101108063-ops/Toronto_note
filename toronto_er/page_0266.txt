@@ -1,0 +1,56 @@
+ER20 ‘Emergency Medicine Toronto Notes 2025
+
+Coma (GCS <8)
+(Majority) l (Minority)
+
+M — Major organ failure
+E — Electrolyte/Endocrine
+T ~ Toxins/Temperature
+A ~ Aciddisorders
+B — Basedisorders
+© ~ decreased Oxygen evel
+L — Lactate
+1 = Insulin/intection (sepsis)
+©  CardiacihyperCalcemia
+Figure 9. Etiology of coma
+History
+
++ obtain collateral from family, friends, police, paramedics, patient record, MedicAlert* bracelet, etc.
++ onset and progression
+= antecedent trauma, seizure activity, fever
+= abrupt onset suggests CNS hemorrhage/ischaemia, cardiac cause, or poisoning
+= progression over hours to days suggests progressive CNS lesion or toxic/metabolic cause
++ determine patient’s baseline LOC
+* past medical history (e.g. similar episode(s), depression, overdose, changes to usual medications)
+
+Physical Exam
+
++ ABCs, vitals including temperature; cardiac, respiratory, abdominal exams
+
++ complete neurological exam; in particular, examination of the pupils (pupils equal and reactive to light
+(PEARL))
+
++ use the AVPU to evaluate LOC (see Patient Assessment/Management, ER2)
+
+Investigations
++ blood work
+= point of care glucose, electrolytes, creatinine, BUN, LFTs, serum osmolality, CBC, VBG, lactate, PT/
+PTT/INR, troponins
+= serum acetaminophen, salicylate levels, ethanol (+ toxic alcohols)
+imaging
+= CT head, CXR (if respiratory compromise or symptoms)
+other tests
+
+ECG, U/A, urine toxicology
+Diagnosis
+distinguish between structural and toxic-metabolic coma
+= structural coma
+. pupils, extraocular movements, and motor findings, if present, are usually asymmetric
+look for focal or lateralizing abnormalities
+= toxic-metabolic coma
++ dysfunction at lower levels of the brainstem (e.g. caloric unresponsiveness)
++ respiratory depression with intact upper brainstem (e.g. equal and reactive pupils)
++ extraocular movements and motor findings are symmetric or absent
+essential to re-examine frequently because status can change rapidly
+diagnosis may become apparent only with the passage of time
+= delayed deficit after head trauma suggestive of epidural hematoma (characteristic “lucid interval”)

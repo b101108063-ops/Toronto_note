@@ -1,0 +1,136 @@
+G50 Gastroenterology
+
+Treatment
+. goals (only supportive therapy available)
+1, hemodynamic stability
+2. analgesia
+3. oxygen
+4, stop progression of damage (difficult)
+5. treat local and systemic complications
+
++ antibiotic use in infection (cephalosporins, imipenem), not indicated to prevent infection, although without
+
+aspiration/biopsy can be difficult to distinguish infection from non-infected inflammation
++ aspirate necrotic areas of pancreas to diagnose infection; drain if infected
++ IV fluids (crystalloid or colloid)
+= beware of third spacing of fluid (when fluid shifts from intravascular to interstitial spaces), monitor
+urine output carefully
++ NG suction (lets pancreas rest) if vomiting, stomach very dilated
++ endoscopic sphincterotomy if severe gallstone pancreatitis (i.e. cholangitis or ongoing obstruction)
++ nutritional support: NJ feeding tube or TPN if cannot tolerate enteric feeds
+= recent evidence supports NG enteral (or oral if feasible) feeds
++ no benefit: glucagon, atropine, aprotinin, H2-blockers, peritoneal lavage
++ follow clinically and CT or U/S to exclude complications
++ chief role of invasive intervention is to drain fluid collection, excise necrotic tissue (necrosectomy),
+especially indicated if pseudocyst or walled-off necrosis is infected
+« try to delay for >2 wk to allow demarcation between viable and necrotic tissue, better done
+endoscopically or radiologically, rather than surgically if technically possible
+
+Late Complications
++ pseudocysts: follow if asymptomatic, drain if symptomatic or growing
+= drain preferably: endoscopic, percutaneous under radiological guidance, surgical if less invasive
+methods fail
++ infected necrosis/abscesses: ABx + percutaneous drainage, endoscopic preferable to surgical
++ bleeding: (1) gastric varices if splenic vein thrombosis, (2) pseudoaneurysm of vessels in areas of necrosis,
+especially splenic artery, (3) duodenal ulcer related to compression of duodenum by enlarged pancreas
++ splenic and portal vein thrombosis: no effective therapy described, anticoagulation not proven, hazardous
++ rare: DM, pancreatic duct damage
+
+Chronic Pancreatitis
+
+Definition
+
++ irreversible damage to pancreas characterized by
+1, pancreatic cell loss (from necrosis)
+2. inflammation
+3. fibrosis
+
+Etiology/Pathophysiology
++ Toxic-metabolic
+= EtOH (most common)
+* causes a larger proportion (>90%) of chronic pancreatitis than acute pancreatitis
+changes composition of pancreatic secretions (e.g. increases viscosity)
++ decreases pancreatic secretion of pancreatic stone protein (lithostathine), which normally
+solubilizes calcium salts
+— precipitation of calcium within pancreatic duct results in duct and gland destruction
+* toxic effect on acinar and duct cells - directly or via increasing free radicals
++ acinar cell injury leads to cytokine release, which stimulates pancreatic stellate cells to form
+collagen (leading to fibrosis)
++ varying degrees of duct dilatation, strictures, protein plugs, calcification
++ nosatisfactory theory to explain why only a minority of individuals with EtOH use disorder
+develop pancreatitis
+smokin;
+hypercalcemia
+hypertriglyceridemia
+medications
+Idiopathic
+Genetic
+Autoimmune pancreatitis/steroid-responsive pancreatitis (e.g. IgG4-related disease)
+Recurrent acute pancreatitis/severe acute pancreatitis
+Obstructive (e.g. pancreas divisum (controversial), ampullary stenosis)
+
+Signs and Symptoms
++ early stages
+= recurrent attacks of severe abdominal pain (upper abdomen and back)
+= chronic painless pancreatitis: 10%
++ late stages: occurs in 15% of patients
+= steatorrhea (maldigestion) when >90% of function is lost
+= diabetes, calcification, jaundice, weight loss, pseudocyst, ascites, GI bleed, chronic pain
+
+Toronto Notes 2025
+
+Gallstones only cause acute pancreatitis
+{not chronic pancreatitis)
+
+‘Symptoms of Chronic Pancreatitis
+‘Abdominal pain
+
+Diabetes
+
+Steatorhea
+
+Biology = Almost Always Alcohol
+
+Treatment
+
+EtOH abstinence
+
+Pancreatic enzyme replacement
+Analgesics
+
+Pancreatic resection if ductular blockage
+
+‘When toCal the Surgeonin Acute Pancreatitis?
+Endoscopic Iransgastricys Surgical Necosectony for
+Infected Necrotizing Pancreat: ARandomized Trial
+JAMA20"2;3071053-1061
+
+Onceitwasrecogized tha severe acae (necrotizing)
+pancreatitis ada terible prognosis because ofan
+enuberant inflammatory response leading to multiorgan
+failure, pancreatectomy was attempted. However,
+Contrary tothe expected favourable resus, clinical
+eaperience has shown that sugical panceatectony
+‘susualy not helpul, perhaps because oncethe
+inflammatory cascade starts itpersistsasaselt-
+perpetuating cycle. The problems caused by acute
+pancreatitis canbe thought of asa widespread burn
+iniited by inflammation in the pancreas, but having
+Ite todowith ongoing problems within the pancreas
+ise As predicted, without removal ofsuchinfected
+panceatictssu, sepsis
+Inthis recent randomized
+necrosectomy, an endoscopic technique thatalso
+removes infected necotc pancreatic tissue, reduced
+both acomposteendpont of major pancreatitis
+complications (especialy new onset organ failure)
+
+andthe proinflammatory response(as measured by
+serumlL- evel) toa greater extent than surgical
+necrosectomy. Of couse, notall necrotic colectons
+arein areas amenabeto endoscopic intervention, and
+the aviceot an experienced surgeon should alwaysbe
+welcomed in severe acute pancreatits,buttheroleof
+surgery in ths previously considered surgical disease is
+rapidly diminishing,
+

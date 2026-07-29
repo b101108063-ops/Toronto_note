@@ -1,0 +1,156 @@
+ER22 ‘Emergency Medicine
+Table 14. Comparison of Chest Pain Diagnoses
+Classic History Classic Findings Diagnostic Investigations Management and Disposition
+Acute Coronary Neworworsening pattern Neworworsened murmur, ECG:ischaemia {S-lead ABCs, Aspiin®, anticoagulation, and
+Syndrome ofretrostemal squeezing! hypotension, diaphoresis, _ithypotensve, AV node emergent cardiology const to consider
+pressurepain, radiation pulmonary edema involvement, orinferior MI), percutaneous intervention or thrombolytic
+toarminec, dyspnea, serial troponin (sensitive
+worsened by exercise, 6-Bhafter onset), CXR
+relievedby rest, NN,
+syncope
+Pulmonary Embolism Pleurticchestpain(75%), Tachycardia, hypoxemia; Wells'criteria: D-dimer, ABCs, anticoagulation; consider airway
+dyspnea; riskfactorsfor evidence DVT CTpudmonary angiogram, —_managementand thrombolysis if massive
+venous thromboembolism ventlation-perfusion (VQ) PE (hypotension and cardiovascular
+scan; PERC criteria; YEARS collapse)
+‘algorithm; leg Doppler, XR
+AcutePericarditis Viral prodrome, anterior ——_—Frctionrub ECG:sinustachycardia, ABCs, ule out MI,highdose NSAIDs =
+precordial pan, pleutic, ‘ffuseSTelevation, PR —_calchcin;consutif chronicrecurent,
+rellevedby sitting upand ‘epressionin I, Il, aVF,and large pericardaletfuson, or non-viral cause
+leaning forward W4-6;reciprocalPRelevation _(¢ SLE,rena failure, requires surgery)
+and ST depression in aVR
+Vt; echocardiography
+Pneumothorax Trumaorspontaneous _—_Hemithoraxwithdecreased/ Clinical diagnosis. ‘ABCs, needleto 2nd ICS at mid-cavicular
+pleuriticchest pain; often in. absent breath sounds, OR: posteroanteriar line or th ICS inmid-axillry ine if
+tall, thin, young athetesif hyper-resonance; deviated view, ateral,expiratory _—_ unstable; finger thoracostomy; urgent
+spontaneous ‘trachea and hemodynamic views lung edge,lossof surgical consultthoracostomy th
+compromise ff tension lung markings, tracheal _—_—intercostalspaceand chesttube
+pneumothorax) shit; deep slcussign on
+supine view
+POCUS: Loss of lung slide,
+lack of comet tails, barcode
+sign, transton point
+Aortic Dissection Suddensevere tearing HIN; systolic BP ference CTangiogram; CXR: wide ABCs, reduce BP and HR; dassity type A
+retrosternalormidscapular  >20mmiigor pulsedefcit mediastinum, let pleural (ascending aorta, urgent surgery)vs.B not
+pains focal painvneurologic between arms; artic effusion, indistinctaortic ascending aorta, medical) on CT angiogram
+lossin extremities incontext regurgitant murmur knob, >4mmseparation of and urgent consult (cardiac surgery it
+of HT intimal calcification rom typed)
+aortic shadow, 20% normal
+CardiacTamponade Dyspnea, cold extremities, Beck'striad-hypotension, _Cinical diagnosis/POCUS to ABCs, cardiacsurgery or cardiology consult,
+‘chest pain; oftena recent elevated JVP, muffledheart look or pericardial effusion _pericardiocentesisif unstable, treat
+‘cardiac intervention of sounds; tachycardia pulsus CXR: mayshow underlying cause
+symptoms of malignancy, _paradoxus >10 mmllg cardiomegaly evidence
+comectve tissue disease of trauma, EG may show
+electrical alternans
+Esophageal Rupture Suidenonset severepain Subcutaneous emphysema, CAR: pleural effusion 75%), ABCs, early antibiotics, resuscitation,
+after endoscopy, forceful findings consistentwith —pneumomediastinum; CT _thoraccs consul, NPO, consider ches tube
+vomiting, labour, or sepsis cc water soluble contrast
+convulsion, or in conte of esophagogam
+<ortsiveinjury or cancer
+EsophagitisorGERD —Frequentheartburn, acid Oralthrushorulcers(rare)_Noneacutely ‘ABCs, PPL medication, avoid EtOH, tobacco,
+reflux, dysphagia, relief with trigger foods; Pink Lady Gaviscon and
+antacids viscous Edocaine na :10r 2:1 ratio for
+symptom management
+Herpes Zoster Abnormal skin sensation None if early;maculopapular Cinical diagnosis; direct s(t ABh onset), analgesia
+~itchingltingingpain— rash withdermatomal immunofiuorescence assay; dressing, fo ocular involvement!
+preceding rashby 154 Aistrbution) developing —_—_VaricellaZoster Virus relerifnecessary
+intovesides and pustules (VZV) PCR
+that crust
+SK History o injury Reproduction ofsymptoms SK inuryorfractue on ABCs, NSAID, rest, orthopedics
+with movementor palpation xays, Consultation for fractures
+(not specific present in
+25% of Ml)
+Anxiety ‘Symptoms ot anxiety, Tachycardia daphoresis, Diagnosis ofexdusion ‘Cs, arrange social supports, re out
+
+depression, history of
+psychiatric disorder; may
+<coexistwith physical disease
+
+‘tremor
+
+suicidality and consider psychiatry consult
+
+Toronto Notes 2025
+
+AACS more likely to be atypicalin females,
+diabetics, and >80 yr. Anginal equivalents
+include dyspnea, diaphoresis, fatigue, non-
+retrosternal pain
+
+Itis important to look for reciprocal
+changes in STEMI in order to differentiate
+from pericarditis (diffuse elevations)
+‘Most sensitive: Spodicks Sign, then
+
+‘ST depressions, then absence of PR
+depressions
+
+none of these present, then can consider
+pericarditis
+
+Tracheal deviation is away from tension or
+towards non-tension pneumothorax
+
+DoesthisPatient with Chest Pain have Acute
+Coronary Syndrome’: The Rational Clinical
+ExaminationSystematic Review
+
+MUA 2015, 3119551965
+
+Purpose: Toreview accuracy ofthe history,
+ysicalexanination, C6, andrisk scaes
+incorporating these elements with the fist cardiac-
+specific troponin.
+Methods:5ystematicreview of prospective studies
+‘among patients admitted tothe ED with symptoms
+‘suggesting ACS,
+
+Aesalts: Prior abnormalstess test (pectic 96%;
+131,955 C1 20-41, periphralartery disease
+(ecficty 7%; UR 27, 95% 15-4. and pain
+radiating to both arms (speci 96%; R26, 95%
+1183.7) were most suggestive of CS The most
+sugestive EG ndings were ST-segment depression
+and any evidence of ischaemia, Te istry, C6, Age,
+Risk Factors, Ioponin (HEART) (L813, 95% C172)
+and the Thombolyssin Ml (IM risk cores (LR6.8,
+S5%C1, 5.28.9) wereboth prediciveof ACS inthe
+high-risk scores,
+
+Conchsions: Among patients with suspected ACS
+‘presenting tothe ED, the initial history, physical
+examination and Calon dil ot conim oc exclude
+the diagnosis of AS. Instead, the HEAR or TIM isk
+scores, which incorporate thetirst cardiac troponin,
+‘provided more diagnostic information,
+
+Conservativevs. Interventional Treatment for
+Spontaneous Pheumothorax
+NEJM2020;382:405-415,
+
+Purpose: Determine whether conservative
+‘management isan acceptable alternative to
+interventional management for uncomplicated,
+moderate to are primary spontaneous
+preumothorar,
+
+Methods: Oper-abe, multicenter, noninferiority tr
+Patients 1450yr were recruited witha fistknown,
+tndatra, mode ate-o-Large primary spontaneous
+‘pneumothora. Patients (-316) were randomly
+assigned to immediteinterventional management
+‘ofthe preumathoraxor a conservative observational
+approach and were followed for 12 mo. The primary
+outcome was lung expansion within 8 wk
+
+Results: Reexpansion within 8 wk occurred in 129 0f
+‘Btpatients with interventional management andin
+‘118 of 125 wth conservative management 0.02, for
+noninferiority). Conservative management resulted in
+lower risk of serous adverse events or pneumothorax
+recurrence than interventional management.
+Conclusions: Thetsal provides modest evidence that
+conservative management of primary spontaneous
+‘pneumothorar was noninferirtointerentonal
+management, witha lower risk of serous adverse
+events,
+

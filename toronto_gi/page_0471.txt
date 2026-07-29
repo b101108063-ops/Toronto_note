@@ -1,0 +1,87 @@
+G37 Gastroenterology Toronto Notes 2025
+
++ others: azoles, statins, methyldopa, phenytoin, propylthiouracil (PTU), rifampin, sulfonamides, tetracyclines
+
++ herbs: khat, chaparral leaf, Chinese herbs (e.g. germander, comfrey, bush tea). Weight loss supplements
+(containing green tea extract) have been associated with cases of acute liver failure. Body-building
+supplements have been associated with prolonged cholestatic jaundice.
+
+Wilson’s Disease Pe
+
+Definition
++ autosomal recessive defect in copper elimination (gene ATP7B)
+
+Etiology Clinical Manifestations of Wilson's
+«+ decreased biliary excretion of copper plus decreased incorporation of copper into ceruloplasmin Disease
+
++ worldwide incidence: 1 in 40000 ‘ABCD
+
+Asterixis
+ical Features Basal ganglia degeneration: suspect if
+liver: acute hepatitis, ALF, chronic active hepatitis, cirrhosis, low-risk of HCC parkinsonian features in the young
+eyes: Kayser-Fleischer rings (copper deposits in Descemet’s membrane); more common in patients with hcee ens
+CNS involvement, present in only 50% of isolated liver involvement Corneal deposits (Keyser-Fleischer ring)
+CNS: basal ganglia (wing flapping tremor, Parkinsonism), cerebellum (dysarthria, dysphagia, Copper
+incoordination, ataxia), cerebrum (psychosis, affective disorder) Dementia
+kidneys: Fanconi’s syndrome (proximal tubule transport defects) and stones
+blood: intravascular hemolysis; may be initial presentation in fulminant hepatitis
+joints: arthritis, bone demineralization, calcifications
+
+Investigations
++ suspect if increased liver enzymes with clinical manifestations at young age (<40); especially combination
+of liver disease with dystonia, and/or psychiatric symptoms
+* screening tests
+1. reduced serum ceruloplasmin (<50% of normal)
+2. Kayser-Fleischer rings (usually require slit-lamp examination)
+3. increased urinary copper excretion (measure 24-hour urine copper)
++ gold standard
+1. increased copper on liver biopsy by quantitative assay
+2. genetic analysis imperfect as many mutations in ATP7B are possible
++ first-degree relatives should also be considered for screening
+
+Treatment
++ 4 drugs available
+1, penicillamine: chelates copper, but poorly tolerated
+trientine: chelates copper
+zinc: impairs copper excretion in stool and decreases copper absorption from gut. Often used as
+maintenance therapy or in neurologic presentations
+tetrathiomolybdate: preferred if neurological involvement
++ hepatic presentations are best treated with a trientine + zinc combination
++ liver transplant in severe cases of liver failure
+
+Hemochromatosis Po]
+
+Definition
++ excessive iron storage causing multiorgan system dysfunction (liver, in particular) with total body iron
+stores increased to 20-40 g (normal 1 g)
+
+ye
+
+=
+
+ology
++ primary (hereditary) hemochromatosis
+= usually related to HFE mutation (see Epidemiology below)
+= decreased hepcidin production results in increased GI absorption and tissue iron deposition despite
+adequate iron stores
++ secondary hemochromatosis
+= parenteral iron overload (e.g, transfusions, hemodialysis, parenteral iron injections)
+= excessive oral iron intake (e.g. dietary iron overload)
+= other liver diseases (e.g. EtOH, NAFLD, viral hepatitis)
+= iron-loading anemias (hemolytic, sideroblastic, aplastic, thalassemia major)
+
+ineffective erythropoiesis
+Hemochromatosis Clinical Features
+
+Epidemiology poe
+
++ classic hereditary hemochromatosis most common in Northern European descent Arthralgia
+
++ mainly caused by mutations in the HFE gene (e.g. C282Y/C282Y, C282Y/H63D), which has a homozygous Bronze skin
+genetic prevalence of 1/400, but incomplete penetrance - not everyone who has the genotype will get the Cardiomyopathy, cirrhosis of liver
+disease Diabetes (pancreatic damage)
+
+Hy di ite itui tar
+= C282¥/H63D only potentially causative as compound heterozygote oy
+
+very rare non-HFE mutations also exist (e.g. ferroportin, hemojuvelin, hepcidin, aceruloplasminemia)

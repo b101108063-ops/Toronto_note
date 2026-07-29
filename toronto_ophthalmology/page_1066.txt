@@ -1,0 +1,162 @@
+P26 Ophthalmology
+
+Risk Factors
+
++ female
+increasing age
+
++ family history
+
+smoking
+
+White individuals
+
++ blue irides
+
+Cc al Features
+
++ variable degree of progressive central vision loss
+
++ metamorphopsia (distorted vision characterized by straight parallel lines appearing convergent or wavy)
+due to macular edema
+
+Investigations
+
++ Amsler grid: held at normal reading distance with glasses on, assesses macular function
+
++ fluorescein angiography: assesses type and location of choroidal neovascularization - pathologic new
+vessels leak dye
+
+OCT retinal imaging: assesses the amount of intraretinal and subretinal exudation
+
+Fundus autofluorescence: non-invasive imaging of the natural photophore, lipofuscin within the RPE in the
+
+posterior pole, an indicator of the metabolic health of RPE. It is used for monitoring the progression of dry
+
+AMD and other retinal conditions, including retinal dystrophies
+
+Treatment
++ non-neovascular “dry” AMD
+= monitor, Amsler grid allows patients to check for metamorphopsia
+low vision aids (e.g. magnifiers, closed-circuit television)
+anti-oxidants, green leafy vegetables
+sunglasses/visors
+= see Age-related Eye Disease Study 2 (AREDS2) in sidebar
++ neovascular “wet” AMD
+= see Common Medications, OP 44
+= intravitreal injection of anti-VEGF
+ranibizumab (Lucentis*), bevacizumab (Avastin’), aflibercept (Eylea’), pegaptanib (Macugen’),
+brolucizumab (Beovu’), faricimab (Vabysmo") (see VEGF Inhibitors, OP45)
+= no definitive treatment for disciform scarring
+= photodynamic therapy with verteporfin (Visudyne’)
+¢ IV injection of verteporfin, followed by low-intensity laser to area of choroidal neovascularization
+
+Definition
+
+* progressive, irreversible, pressure-sensitive optic neuropathy involving characteristic structural changes to
+optic nerve head with associated visual field changes
+
++ commonly associated with high IOP, but not required for diagnosis
+
+Background
+
++ aqueous is produced by the ciliary body and drains into the episcleral veins via the trabecular meshwork
+and Canal of Schlemm
+
+an isolated increase in IOP is termed ocular hypertension (OHT) - should be followed for increased risk of
+developing glaucoma
+
++ IOP >21 mmHg increases the risk of developing glaucoma
+
++ central corneal thickness is important when interpreting the IOP (e.g. thicker cornea will result in
+overestimation of the IOP)
+
+loss of peripheral vision most commonly precedes central vision loss
+
++ structural changes commonly precede functional changes
+
+Investigations
+VA testing
+
+slit-lamp exam to assess anterior chamber depth; gonioscopy to assess angle (open or closed)
+
+fundoscopy to assess the disc features
+
+tonometry to measure IOP
+
+automated perimetry (formal visual field testing)
+
+pachymetry to measure corneal thickness
+
+OCT of the retinal nerve fibre layer (NFL) at the optic nerve to monitor for loss of NFL
+
+OCT of the macular ganglion cell layer-inner plexiform layer (GCIPL) to monitor for loss of GCIPL
+follow-up includes optic disc examination, IOP measurement, OCT of the retinal NFL and macular GCIPL,
+and visual field testing to monitor course of disease
+
+Toronto Notes 2025
+
+@
+
+Age Related Eye Disease Study 2 AREDS2)
+Lutein Zeavanthn and Omega-3 Fatty Acid for
+AMD: The Age-Related Eye Disease Study 2(AREDS2)
+Randomized Cical Trial
+
+JAMA 2013;309(19}:2005-2015,
+
+See Landmark Ophthalmology Tals tabefor
+
+‘more information on Age Related Eye Disease
+
+Stuy 2(AREDS2), which details whetherading
+
+lutein zeaxanthin docosahexanoicaci (DHA) +
+‘ecosapentanoc acid (EPA), orth tothe AREDS
+formulation decreases theriskof developing advanced
+‘AMD and to erluate the effect of eliminating
+fcarotene, lowering in doses or both inthe AREDS
+formulation inpatients atriskfor advanced AMD.
+
+Jow-Upof Age-Related Macular
+the Age Related Eye Disease Study:
+AREDS Report No. 36
+
+AMA Ophthalmol 2014 132(3:272277
+
+Study: Randonized clinical rial
+
+Purpose: To describe 10 yr progression ratesto
+intermediate or advanced AMD,
+
+Patients: Age-related eye dseasestudy (REDS)
+participants were observed for an addtional 5 yt after
+CT completion. Participant ages 5580 yr wth no
+‘MD or AMD of varying eveity f1=4757) were folowed
+upinthe AREDS trl ora median duration of 6.5 yt.
+‘When the tril ended, 3549 of th 4203 surviving
+participants were folowed for 5 addtionalyr
+Intervention: Ieatment wth antioxidant vianins
+and minerals
+
+Main Outcome: Development of varying stages of AMD
+and changsin VA.
+
+Results: The risk of progression to advanced AMD
+increased withinceasing age (P-0.01) and severity
+of drusen, Women (P=,005) and curent smokers
+{0.001 were atin ceased risk of neovascular AMD. In
+the oldest participants wth the most severe AMD status
+atbaseline,theriksof developing neovascular AMD
+and central geographic atrophy by 10yr were 48.1%
+and 26.0%, respectively. Sar, rats of progression
+tolarge drusen increased with increasing severity of
+drusen atbaseline with 70.9% of particpants with
+bilateral medium drusen progressing tage drusen
+and 13.8% to advanced AMD in yr. Median Vat
+‘yrineyesthathadlarge dase at baseline but
+never developed advanced AMD was 20/25; eyes that
+developed advanced AMDhada median VAof 20200.
+Conclusion: The natura history of AMO demonstrates
+relentless sof von in persons who developed
+advanced AND

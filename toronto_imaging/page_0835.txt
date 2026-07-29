@@ -1,0 +1,150 @@
+NPIS ‘Nephrology
+
+Table 6. Causes of Hyperkalemia
+
+Pseudohyperkalemia Increased Intake Transcelluar Shift Decreased Excretion
+‘Sample hemolysis" Diet Intravascular hemolysis Decreased GFR
+Prolonged time fromvenipunctureto KCI tabs Rhabdomyolysis. Renal failure
+analysis WKcl Tumour isis syndrome Low effective circulating volume
+Sample taken from vein Salt substitute Insulin deficiency NSAIDs in renalinsutficiency
+where IV KClistunning Hyperglycemia Normal GFR buthypoalosteronism
+Prolonged use of tourniquet Metabolic Acidasis*™** (Table 7)
+Leukocytosis (extreme) Drogs
+Thrombocytosis™ extreme) Brblockers
+
+Digitalis overdose (locks
+
+Ne/KeATPase)
+
+Succinyichline
+
+“Most common
+Usually when blood specimen hasbeen sting out ong before being analyzed
+"Lactic acidosis and ketoacidosis general do not cause hyperkalemia, since the anion e.g lactate enters cells along with Hs
+
+Table 7. Causes of Hyperkalemia with Normal GFR Secondary to Hypoaldosteronism
+
+Decreased Aldosterone Stimulus (low renin, low DecreasedAldosterone Production (normal renin, Aldosterone Resistance (decreased tubular
+
+aldosterone) low aldosterone) response)
+Associatedwith diabeticnephropathy, NSAIDs, chronic Adrenal insufficiency (e.g. Addison disease, AIDS, _K-sparing diuretics:
+interstitial nephritis, HN metastatic cancer) Spironolactone
+
+ACEI Blerenone
+
+Angiotensin receptor blockers Finerenone
+
+Heparin Iniloide
+
+Congenital adrenal hyperplasia with 21-bydroxylase _Triamterene
+
+deficiency Renal tubulointerstitial disease
+Approach to Hyperkalemia
+
+1. emergency measures: obtain ECG; if life threatening, begin treatment immediately
+2. rule out pseudohyperkalemia; repeat blood test
+3. hold exogenous K* (PO and IV) and any medications that are K* retaining
+= eg. RAAS inhibitors (ACEI, ARBs), aldosterone antagonists, non-selective B-blockers (propranolol/
+labetalol) or affect K* excretion (i.e. NSAIDs)
+4, assess potential causes of transcellular shift
+5, determine eGFR
+
+Treatment
+* acute therapy is warranted if ECG changes are present, or if patient is symptomatic regardless of [K*]
++ tailor therapy to severity of increase in [K*] and ECG changes
+= if [K+] <6.0 and normal ECG: treat underlying cause, stop K* intake, increase the loss of K* via urine
+and/or GI tract
+= if [K+] between 6.0 and 6.5, no ECG changes: add insulin to above regimen
+= if [K’] >6.5 and/or ECG changes: first priority is to protect the heart, add calcium gluconate to above
+1. Stabilize Myocardium
+calcium gluconate 1-2 amps (10 mL of 10% solution) IV
+antagonizes hyperkalemia induced membrane depolarization, protects cardiac conduction system, no
+effect on serum [K*]
+onset within minutes, lasts 30-60 min (may require repeat doses during treatment course of hyperkalemia)
+. Shift K* into Cells
+regular insulin (Insulin R) 10 units IV, with 50-100 mL D50W to prevent hypoglycemia
+= onset of action 15-30 min, lasts 4-6 h
+= monitor capillary blood glucose qth because of risk of hypoglycemia
+= can repeat q4-6 h
+= caution giving D50W before or without insulin if hyperkalemia is severe: hypertonic glucose increases
+plasma osmolality, promoting extracellular water and + shift, and can cause a serious arrhythmia
+2-agonist (Ventolin’) in nebulized form (dose =2 cc or 10 mg inhaled) or 0.5 mg IV
+= onset of action 30-90 min, stimulates Na*/K* ATPase
+= caution if patient has heart disease as may result in tachycardia
+Enhance K* Removal from Body
+via urine (preferred approach)
+= furosemide (240 mg IV), may need IV NS to avoid hypovolemia
+= fludrocortisone (synthetic mineralocorticoid) if suspecting aldosterone deficiency
+via GI (if renal function is severely impaired)
+= cation exchangers: patiromer (Veltassa’) 8.4 g PO OD (up to 25.2 g/d), sodium zirconium cyclosilicate
+(SZC, Lokelma") 10g PO TID x 48h, or sodium polystyrene sulfonate (Kayexalate’)
+practically, patiromer and SZC have not been widely employed due to high cost, but they are
+increasingly being used
++ sodium polystyrene sulfonate (Kayexalate*) should be used with caution, as this may lead to the
+development of colonic necrosis and intestinal perforation, especially when used in combination
+with sorbitol
+= osmotic laxatives e.g. lactulose can support GI excretion of K* in the form of diarrhea
+dialysis (renal failure, life threatening hyperkalemia unresponsive to therapy)
+
+v
+
+bad
+
+Toronto Notes 2025
+
+{n patients with DM and increased [K’] and
+hyperglycemia, often just giving insulin to
+restore euglycemia is sufficient to correct
+the hyperkalemia
+
+Treatment of Hyperkalemia
+
+BIG K DROP
+c Calcium gluconate
+
+BIG B-agonist, Insulin, Glucose
+K Kayexalate®
+
+DROP Diuretics, Dialysis
+
+)
+
+Acute Management of Hyperkalemia
+
+CurrHeart FaureRep 20191667-4
+
+Purpose: Qutine and review the current evidence
+behind the acite medical management of
+hypertaleia, including the three principal strategies
+cof stabilizing the myocardium, intra celuarshiting
+cof serum K, and enhancing eiination via urinary or
+fecalexcetion.
+4. Stabilizing the Myocardium: The protective effects
+fC sltson myocardial stabitzation should beseen
+within min of administration Doses canbe repeated
+inSmininterasif ite threatening ECG changes
+pesist There are concems regarding calcumusein
+Aigoxin toxcty causing reversible non-contractle
+state. Nolfe threatening dysthythmia ocurred
+within 1h of akium administration.
+
+2. Intracellular Shitting of Potassium: Reglarinsulin
+hasshowm effectiveness at deceasing erumK, with
+‘Winsulin decreasing serum K'by 08 mmolA at 1h. The
+main site effectof insulin-induced hypoglycemia can
+bemanaged with NV dextrose, Abuterolhas an onset
+within 15-30 min of administration, causing maximal
+decreases by! mmolLat 1h, Thereislitleevidence
+tosuggest that sodium bicarbonate has aol in the
+‘management of hyperkalemia exceptin the case of
+concomitant metabolic acidosis
+
+3. Enhanced Excretion: Though imited evidence for
+acite management, itis recommended to administer
+loop diuetis and sodium poystyrene sulfonate to
+eliminate K,Diuretcs may precipitate or worsen AKI
+inpatients with por volume statu, while sodium
+polystyrene sulfonate should be used with caution due
+tosevereGl side effects suchas ulceration, bleeding,
+coloncischemia/necrasis, and intestinal perforation
+

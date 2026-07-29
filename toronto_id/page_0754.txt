@@ -1,0 +1,90 @@
+1D36 Infectious Diseases Toronto Notes 2025
+
+Treatment and Prevention
+
++ metronidazole
+
++ for invasive disease or cyst elimination: follow with iodoquinol or paromomycin
+
+aspiration of hepatic abscess if risk of abscess rupture, poor response to medical therapy, or diagnostic
+uncertainty
+
+asymptomatic cyst shedding: iodoquinol or paromomycin alone
+
+good personal hygiene, purification of water supply by boiling, filtration (not chlorination)
+
+Giardia lamblia
+
+Etiology
+
++ infection with G. lamblia occurs via the fecal-oral route with the ingestion of cysts from water/food
+contaminated by infected humans and other mammals (especially in the Rockies)
+
++ risk factors: travel, camping, institutions, daycare centres, MSM
+
+Clinical Features
++ acute giardiasis (“beaver fever”)
+= symptoms vary from asymptomatic to self-limited mild watery diarrhea
+« diarrhea, steatorrhea, nausea, malaise, abdominal cramps, bloating, flatulence, fatigue, weight loss
+= no hematochezia (no invasion into intestinal wall), no mucous in stool
++ chronic giardiasis
+= recurrent symptoms
+= malabsorption syndrome; may lead to hypoalbuminemia and vitamin A/Bux/B» deficiencies
+= may affect growth and development in children
+
+Investigations
+
++ multiple stool samples (daily x 3 d) for microscopy; single stool for multiplex enteric parasite PCR; stool
+antigen used occasionally
+
++ occasionally small bowel aspirate or biopsy
+
+Treatment and Prevention
+
+single dose tinidazole or three-day course of nitazoxanide for:
+
+treatment of symptomatic individuals, OR
+
+treatment of asymptomatic infection in high risk individuals (e.g. immunocompromised host or household
+contact; food handlers; HCWs) to reduce transmission risk
+
+metronidazole indicated for children <12 mo
+
+good personal hygiene and sanitation, water purification (iodine better than chlorination), outbreak
+investigation
+
+Trichomonas vaginalis
+
+Etiology
++ infection with 7. vaginalis occurs via sexual contact
+
+Clinical Features
+* often asymptomatic (10-50%), especially males (occasionally urethritis, prostatitis) ©
++ Trichomonas vaginitis (see Gynecology, GY26)
+
++ vaginal discharge (profuse, malodorous, yellow-green or grey, frothy), pruritus, dysuria, dyspareunia ae ae
+
+Investigations
++ wet mount (motile parasites), antigen detection, culture
++ urine PCR to detect in males
+
+Treatment
++ metronidazole for patient and partner(s)
+
+Cryptosporidium spp.
+
+Etiology
+
++ infection with Cryptosporidium spp. via the fecal-oral route occurs with the ingestion of cysts from water
+contaminated by infected humans and other animals (including cows)
+
++ risk factors: summer and fall, young children (daycare), MSM, contact with farm animals,
+immunodeficiency
+
+Clinical Features
++ range from self-limited watery diarrhea (immunocompetent) to chronic, severe, non-bloody diarrhea with
+nausea/vomiting, abdominal pain, and anorexia resulting in weight loss and death (immunocompromised)
+
+Investigations
++ modified acid-fast stain of stool specimen, microscopic identification of oocysts in stool or tissue, stool
+antigen detection by direct fluorescent antibody, single stool for multiplex enteric parasite PCR

@@ -1,0 +1,121 @@
+MI8 Medical Imaging
+Pulmonary Nodule
++ findings
+
+= round opacity <3 cm (>3 cm is considered a mass) + silhouette sign
+= note: do not mistake nipple shadows for nodules; if in doubt, repeat CXR with nipple markers
++ differential diagnosis
+= extrapulmonary density: nipple, skin lesion, electrode, pleural mass, bony lesion
+= solitary nodule
+¢ tumour: carcinoma, hamartoma, metastasis, bronchial adenoma
+ infection/inflammation: histoplasmoma, tuberculoma, coccidioidomycosis
+« vascular: AV fistula, pulmonary varix (dilated pulmonary vein), infarct, septic embolus
+= multiple nodules: metastases, abscess, granulomatous lung disease (TB, fungal, sarcoid, rheumatoid
+nodules, silicosis, GPA), septic emboli
++ management: clinical information and CT appearance determine level of suspicion of malignancy
+« ifhigh probability of malignancy, invasive testing (transbronchial or CT-guided transthoracic biopsy) +
+PET/CT is indicated
+= iflow probability of malignancy, follow-up imaging as per Fleischner guidelines 2017
+
+Table 5. Characteristics of Benign and Malignant Pulmonary Nodules
+
+Malignant Benign
+Margin ll definedspiculatd (“corona radiata”) Wel-defined
+Contour Lobulated Smoath
+Calcification Eccentic or stippled Dittuse, central, popcorn, concentric
+Doubling Time 20-4604 <20dor>4604
+Other Features Cavitation, collapse, adenopathy, pleural effusion, lytic bone lesions,
+
+smoking history
+Sine “em som
+Cavitation Yes, especially with wal thickness >15 mm, eccentric cavity, andshaggy No
+
+internal margins
+Satellite Lesions No Yes
+
+Pulmonary Vascular Abnormalities
+
+Pulmonary Edema
++ pathogenesis: fluid accumulation in the airspaces of the lungs
++ findings
+= vascular redistribution/enlargement, cephalization, pleural effusion, cardiomegaly (may be present in
+cardiogenic edema and fluid overloaded states)
+fluid initially collects in interstitium
+loss of definition of pulmonary vasculature
+peribronchial cuffing
+Kerley B lines
+reticulonodular pattern
++ thickening of interlobar fissures
+= as pulmonary edema progresses, fluid collects in alveoli and causes diffuse airspace disease, often ina
+“bat wing” or “butterfly” pattern in perihilar regions (outermost lung fields tend to be spared)
++ differential diagnosis: cardiogenic (e.g. CHF), renal failure, volume overload, non-cardiogenic (e.g. ARDS)
+
+Pulmonary Embolism
++ pathogenesis: blockage in the pulmonary arteries due to emboli from pelvic or leg veins, rarely from central
+venous catheters, air, fat, or amniotic fluid
++ findings
+= generally not possible to definitively diagnose on plain film; diagnosis made by CT pulmonary
+angiography or ventilation/perfusion scintigraphy (VQ scan)
+= CXR: Westermark sign (localized pulmonary oligemia), Hampton's hump (triangular peripheral
+infarct), enlarged right ventricle and right atrium, atelectasis, pleural effusion, and rarely pulmonary
+edema
+= definitive imaging study: CT pulmonary angiography to look for filling defect in contrast-filled
+pulmonary arteries
+= VQ scan: can be used in patients with impaired renal function or in pregnancy
+
+Toronto Notes 2025
+
+Figure 8. Interstitial disease: fine
+reticular pattern
+
+Figure 9. Interstitial disease:
+medium reticular pattern
+
+Dx of Interstitial Lung Disease
+
+FASSTEN (upper lung disease)
+Farmer's lung (hypersensitivity
+pneumonitis)
+
+Ankylosing spondyfitis
+Sarcoidosis
+
+Silicosis
+
+Eosinophilic granuloma (Langerhans cell
+histiocytosis)
+Neurofibromatosis
+
+BAD RASH lower lung disease)
+Bronchiolitis obliterans organizing
+pneumonia (BOOP)
+
+Asbestos
+
+Drugs (nitrofurantoin, hydralazine,
+isoniazid, amiodarone, many
+chemotherapy drugs)
+Rheumatological disease
+Aspiration
+
+Scleroderma
+
+Hamman Rich and IPF
+
+Dx for Cavitating Lung Nodule
+
+WEIRD HOLES
+Wegener's (GPA)
+
+Embolic (pulmonary, septic)
+
+Infection (anaerobes, pneumocystis, TB)
+Rheumatoid (necrobiotic nodules)
+Developmental cysts (sequestration)
+Histiocytosis
+
+Oncological
+Lymphangioleiomyomatosis
+Environmental, occupational
+Sarcoidosis
+

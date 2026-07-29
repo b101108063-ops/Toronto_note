@@ -1,0 +1,84 @@
+OT21 Otolaryngology Toronto Notes 2025
+
++ aminoglycoside toxicity displays saturable kinetics, therefore, once daily dosing presents less risk than
+divided daily doses
++ duration of treatment is the most important predictor of ototoxicity
+«= treatment: immediately stop aminoglycosides
+
+Analgesics and Antipyretics
++ acetaminophen, NSAIDs, and salicylates
++ HLwith tinnitus, reversible if discontinued
+
+Others
+
++ antineoplastic agents (e.g. bleomycin)
+
++ loop diuretics (e.g. furosemide) and antimalarials (e.g. quinine)
+« reversible by decreasing or stopping medications
+
+Noise-Induced Sensorineural Hearing Loss
+
+Pathogenesis
+
++ 85-90 dB over mo or yr, single sound impulses >135 dB, or repetitive vibratory insults (e.g. jackhammer)
+can cause cochlear damage
+
+bilateral SNHL initially and most prominently at 4000 Hz (resonant frequency of the temporal bone),
+
+known as “boilermaker’s notch” on audiogram, extends to higher and lower frequencies with time (see
+
+Figure 16D, OT10)
+
+speech reception not altered until HL >30 dB at speech frequency, therefore considerable damage may occur
+
+before patient complains of HL
+
+difficulty with speech discrimination, especially in situations with competing noise
+
+Phases of Hearing Loss
++ dependent on: intensity of sound and duration of exposure
+= temporary threshold shift
++ when exposed to loud sound, decreased sensitivity, or increased threshold for sound
+¢ may have associated aural fullness and tinnitus
+¢ hearing returns to normal with removal of noise
+= permanent threshold shift
++ hearing does not return to previous state
+
+Treatment
+
++ hearing aid
+
+* prevention
+= ear protectors: muffs, plugs
+« limit exposure to noise with frequent rest periods
+= regular audiologic follow-up
+
+Temporal Bone Fractures
+
+Table 9. Features of Temporal Bone Fractures
+
+Otic Capsulelnvolving Otic Capsule Sparing
+Extension Into bony labyrinth and intemal auditory meatus Into middle ear
+Incidence 10-20% 70-90%
+
+Etiology Frontalloccipital trauma Lateral sulltrauma
+
+(CH Pathology CNV palsy (60%) CHM palsy (10-20%)
+Hearing Loss SNH dueto direct cochlear injury CHL 2°to ossicular injury
+
+Vestibular Symptoms Sudden onsetvestibular symptoms dueto direct semicircular canalinjury Rare
+(vertigo, spontaneous nystagmus)
+
+Other Features Intact extemal auditory meatus, TM + hemotympanum Tom TM or hemotympanum
+Spontaneous nystagmus Bleeding from EAC
+(SFleak in Eustachian tubeto nasopharynx Step formation in EAC
+‘thinorthea (risk of meningitis) CSFotorthea
+Battle's sign =mastoid ecchymesis ‘© Teddy Cameron 2002
+
+Raccoon eyes = periorbital ecchymosis
+
+Figure 18. Types of temporal bone
+fractures
++ characterized as longitudinal or transverse relative to the long axis of the petrous temporal bone
+
++ temporal bone fractures are rarely purely transverse or longitudinal (often a mixed picture)

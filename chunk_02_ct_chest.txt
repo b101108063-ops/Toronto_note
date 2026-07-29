@@ -1,0 +1,82 @@
+
+
+Lung Abnormalities
+
+Atelectasis
++ pathogenesis: collapse of lung tissue due to restricted breathing, blockage of bronchi, external compression,
+or poor surfactant
++ findings
+= increased opacity of involved segment/lobe, vascular crowding, silhouette sign, air bronchograms
+= volume loss: fissure displacement, hilar/mediastinal displacement, diaphragm elevation
+= compensatory hyperinflation of remaining normal lung
+differential diagnosis
+= obstructive (most common): alveolar air distal to obstruction is resorbed causing alveolar collapse
++ postsurgical, endobronchial lesion, foreign body, inflammation (granulomatous infections,
+pneumoconiosis, sarcoidosis, radiation injury), or mucous plug (cystic fibrosis)
+compressive: tumour, bulla, effusion, enlarged heart, lymphadenopathy
+traction (cicatrization): due to scarring, which distorts alveoli and contracts the lung
+adhesive: due to lack of surfactant
++ hyaline membrane disease, prematurity
+= passive (relaxation): a result of air or fluid in the pleural space preventing full aeration
+« pleural effusion, pneumothorax
++ management: in the absence of a known etiology, persisting atelectasis must be investigated (i.e. CT chest or
+bronchoscopy) to rule out bronchogenic carcinoma centrally
+
+Consolidation
++ pathogenesis: air in alveoli replaced by fluid (transudate, exudate, blood), inflammatory exudates, protein,
+or tumour/tissue Figure 5. Atelectasis: RML collapse
+
++ findings
+
+* air bronchograms: lucent branching bronchi visible through opacification
+
+= airspace nodules: fluffy, patchy, poorly defined margins with later tendency to coalesce, may take on
+
+lobar or segmental distribution
+
+« silhouette sign (e)
++ differential diagnosis
+
+= fluid: transudate (pulmonary edema), blood (trauma, vasculitis, bleeding disorder, pulmonary infarct) _DDxof Airspace Disease
+
+= inflammatory exudates: bacterial infections, TB, allergic hypersensitivity alveolitis, COP (cryptogenic Pus (e.g. infections such as pneumonia)
+
+organizing pneumonia), allergic bronchopulmonary aspergillosis, aspiration, sarcoidosis Fluid (e.g, pulmonary edema)
+= protein: pulmonary alveolar proteinosis Blood (e.g. pulmonary hemorthage)
+= tumour: adenocarcinoma, lymphoma Cells (e.g. bronchioalveolar carcinoma,
+* management: varies depending on the pattern of consolidation, which can suggest different etiologies; lymphoma)
+should also be done in the context of clinical picture Protein (e.g. alveolar proteinosis)
+
+Interstitial Disease
++ pathogenesis: pathological process involving pulmonary interstitium (i.e. “lung scaffolding”)
++ findings
+. septal thickening: fine lines caused by thickened connective tissue septae (most commonly due to
+pulmonary edema or lymphangitis carcinomatosis)
++ these manifest on CXRas:
+— Kerley A: long thin lines in upper lobes
+— Kerley B: short horizontal lines extending from lateral lung margin
+— Kerley C: diffuse linear pattern throughout lung
+* nodular pattern: 1-5 mm well-defined or ill-defined nodules distributed throughout lung or with alung
+zone predominance
++ seen in metastases, pneumoconiosis, granulomatous disease (e.g. sarcoidosis, miliary TB)
+= reticular pattern: fine curvilinear opacities Figure 6. Air bronchograms in right
++ seen in interstitial lung diseases (pulmonary fibrosis) lung
++ watch for pneumothorax as a complication
+« reticulonodular: combination of reticular and nodular patterns
+= may also see signs of airspace disease (atelectasis, consolidation)
++ differential diagnosis
+= occupational/environmental exposure
++ inorganic: asbestosis, coal miner’s pneumoconiosis, silicosis, berylliosis, talc pneumoconiosis
++ organic: hypersensitivity pneumonitis, bird fancier’s lung, farmer’s lung (mouldy hay), and other
+organic dust
+= autoimmune: connective tissue diseases (e.g. rheumatoid arthritis, scleroderma, SLE, polymyositis,
+mixed connective tissue disease), IBD, celiac disease, vasculitis
+drug-related: antibiotics (cephalosporins, nitrofurantoin), NSAIDs, phenytoin, carbamazepine,
+fluoxetine, amiodarone, chemotherapy (e.g. methotrexate), immunotherapy, heroin, cocaine,
+
+methadone
+= infections: TB, non-tuberculous mycobacteria, certain fungal infections, viral infections
+= idiopathic: IPF, nonspecific interstitial pneumonia (NSIP), organizing pneumonia Figure 7. Consolidation: bacterial
+= for causes of interstitial lung disease classified by distribution, see Respirology, R13 pneumonia
+
++ management: high-resolution CT thorax and + open lung biopsy, multidisciplinary team discussions

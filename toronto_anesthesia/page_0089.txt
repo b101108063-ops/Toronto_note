@@ -1,0 +1,63 @@
+A35 Anesthesia Toronto Notes 2025
+Tal Name Reference (Clinica Trial Details
+POISE NEM 2014;370:1491-1503 Title: Aspirinin Patients Undergoing Noncardiac Surgery
+Purpose: To evaluate low-dose aspirin vs. placebo inpatients having noncardiac surgery
+Methods: Patents (110,010 preparingto undergo noncardiac surgery andatrisk or vascular complications were randomly assignedto receive aspirin or placebo
+Resuits:Deathand nonfatal Ml occured in 7.0% inthe aspiin group and in 71% of patients inthe placebo group (HR 0.99, 95% Cl 086 to 1.15, pP=0.92) 30 days post
+‘surgery. Majo bleeding was more common inthe aspirin group than the placebo group (4.6%vs. 3.8%, HR1.23, 95% CI1.01t01.49,P=0.04)
+Conclusion: Aspirin before surgery andthroughout the early postsurgical period had no sigaficanteffectontherate ota composite of death or nonfatal but
+increasedthe risk of major bleeding.
+POISE Lancet 2008;371:1839-1847 Title Effects ofExtended-Release Metoprolol Succinate in Patients Undergoing Non-cardiac Surgery (POISE tra}: ARandomized Contralled Trial
+Purpose: To investigate the eects of perioperative B-blockers.
+Methods: Patents (n-8351) with o at riskof atherosclerotic dsease having non-cardiac surgery wererandomly assigned to receive extended release metoprolol
+succinate or placebo.
+Results: 5.8% of the metoprolol goupys. 6 8%in the placebo group hada major cardiovascular event (HR0.84, 95% C1 0.70 to 0.99, P=0.0398). The metoprolol group
+had lower incidences of MI (4.2% vs. 5.7%, P-0, 0017), but had higher incidences of death (21%vs. 2.3%, P-0. 0317) and stroke (1.0% vs. 0.5%, P=0.0053}.
+Conclusion: Perinperatve blockers have benefit without substantial harm. Patients are unlikely to acceptthe associated risks.
+PROTECT Lancet 2022;389(10337)1199- Title: Agressive Intraoperative Warming versus Routine Thermal Management during Won-Cardia Surgery (PROTECT): AMukicentre, Parallel Group, Superiority Trial
+1808 Purpose: To determineif aggressive intraoperative warming reducesmajr periperative complications.
+Methods: Patients (r-5013) having non-cardiacsurgery were randomly assigned to receive either aggressive warming toa targetcore temperature of 37°Cor routine
+thermal management toa targetof 35.5°C.
+Results: The primary outcome (Ml, cardiac arrest or mortality) occurred in 9.9% of patients in the aggressively warmed group vs. 9.6%in the rutine thermal
+management group. The common elatve risk of aggressivevs. outine thermal management was anestimated 1.04 95% C10.87 to 1.27, P=0.69.
+Conclusion: The incidence of majo cardiovascular complications didnot fer significantly nthe aggressively warmed o routine thermal management group.
+cas Lancet 2019;393:664-677 Title: Neurodevelopmental Outcome at 5 Yearsof Age ter General Anesthesia or Awake-Regional Anesthesia inInfancy (GAS): An International Multicentre,
+Randomized, Controlled Equivalence Trial
+Purpose: To determineit general anesthesiain early infancy affects neurodevelopmental outcomes.
+Methods: Infants (722) undergoing inguinal herniorrhaphy without risk factors forneurological injury were randomly assigned to receive awake-regional
+anesthetic or sevoflurane-based GA
+Results: Ful scale intelligence quotient score at 5 yr was 99.08 SD 18.35) in the awake-regional anesthesia roupand 98,97 SD19.6) inthe general anesthesia
+‘group, witha difference in means (awake-regional anesthesia minus general anesthesia) of 0.23 (95% CI-259 to 3.06).
+Conclusion: Less than’ hrofGAin early infancy doesnot alter neurodevelopmental outcome compared to awake-regional anesthesia,
+BALANCEDLT Lancet 2019;394(10212):1901- Title: Anesthetic Depth and Complications After Major Surgery: An International, RandomizedContolled Trial
+194 Purpose: To compare all<ause- yr mortality in older patients having major surgery and randomly assignedto light BS target 50) or deep (BIS target 35) general
+anesthesia
+Methods: Patients (n-6644) athigh risk f complications aftr major surgery were randomly assigned to receive light general anesthesia or deep general anesthesia,
+Results:1 yr mortality was 6.5% inthe deep anesthesia group and 7.2% inthe ight anesthesia group (HR 0.88, 95%CI 0.73 01.07, absolute isk reduction 0.8%, 95%
+00.5020)
+Conclusion: Light anesthesia was not associated with lower -year mortality than deep general anesthesia,
+RELIEF NEJM 2018;378:2263-22M Title: Restrictive versus Liberal Fluid Therapy fr Major Abdominal Surgery
+Purpose: To assess a restrictive IV fi strategy fr patients having major abdominal surgery.
+Methods: Patients (3000) with an increased riskof complications were randomly assigned to receivea restrictive or liberal Vid regimen during andup to24h
+ater surgery
+Results: Theratect disability fee survival at 1yr was 81.9% intherestictve ud group and 82.3% inthe liberal uid group (HR‘.05, 95% C10.88 to 1.24, P=0.6),
+The rate of acute kidney injury was 8.6% in the restrictive lid group and 5.0%in the liberal fluid group (P<. 00).
+‘Conclusion: Restrictive fluid regimen was nt associated with higher.
+WoMAN Lancet 2017;389:2105-2116 Title: Effect of Early ranexamic AcidAdministration onMortality, Hysterectomy, and Other Morbidities in Womenwith Post-Partum Hemorthage (WOMAN): An
+Intemational, Randomized, Double-blind, Placebo<ontrolied Trial
+Purpose: To determine the effects of early administration oftranexamic acid (TKA)on death, hysterectomy, and other relevant outcomesin women with postpartum
+hemorrhage.
+Methods: Patients (120,060) withaclinical diagnosis of postpartum hemorrhage after a vaginal birth or caesareansection were randomly assigned to receive TKAor
+placebo inaddition to usual care.
+Results: Death dueto bleeding was signficantly reduced in TXAgroup (LS%vs. 1.9%, RRO.81, 95% 0.65 o 1.00, pP=0.045), especially if givenwithin3 hr of giving
+birth 1.2% vs. 1.7%, RRO.69, 5% C1 0.520 0.91, pP-0.008). Al other causes of death or thromboembolic events didnot differ significantly
+Conclusion: TXAreduces death due to bleeding in women with postpartum hemorhage andshould be given as soon as possible ater bleeding onset.
+ENIGMA Lancet 2014;384(9952)1446- Title: The Safety of Adition of Witrous Oxideto General Anesth tiskPatients Having a Major Non-cardiac Surgery (ENGMAI): A Randomized, Single Blind Trial
+1454 Purpose: To determineifritrous oxide NO) affects perioperative cardiovascular risk.
+
+Methods: Patients (1-7112) with knownor suspected CAD undergoing noncardiac surgery were randomly assigned toreceive NO or NO-{ree anesthesia,
+
+Results: Cardiovascular complications occured in 8% of patients receiving WO andin 8% of patentsin the NO-free group (RR 0.96, 95% Cl 0.83 to 1.12, P=0.64) within
+30 days ofsurgery-Surgical site infection (6S) occurred in9% of patients receiving NO andi 9% of NO-free patients (P-0.61.
+Conclusions: NO didnot increase the rsk of death, cardiovascular complications, or SSLin major noncardiac surgery
+

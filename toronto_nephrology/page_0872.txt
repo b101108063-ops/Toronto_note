@@ -1,0 +1,90 @@
+N2 Neurology
+
+Toronto Notes 2025
+
+AD Alzheimer’s disease EMG __ electromyography IVIG___ intravenous immunoglobulin PD
+ADL activities of daily living FDG-PET fluorodeoxyglucose LEMS Lambert-Eaton myasthenic PNS
+ALS amyotrophic lateral sclerosis 18-F __ positron emission tomography syndrome RAPD
+ASM antiseizure medication FTD _frontotemporal dementia LMN lower motor neuron REM
+CIDP chronic inflammatory GBS Guillain-Barré syndrome LOC _level of consciousness ‘SAH
+demyelinating polyneuropathy GCA _giant cell arteritis LP lumbar puncture SSRI
+CJD Creutzfeldt-Jakob disease GCS Glasgow coma scale MG myasthenia gravis
+CN cranial nerve HD Huntington's disease MMSE mini-mentalstate examination TBI
+CNS central nervoussystem IADL instrumental activities of daily MoCA Montreal cognitive assessment TCA
+CSF cerebrospinal fluid living MS multiple sclerosis TA
+CVD cerebrovascular disease ICH intracerebral hemorrhage MSA multiple system atrophy tPA
+DBS deep brain stimulation IcP intracranial pressure NCD neurocognitive disorder UMN
+DLB —_dementiawith Lewy bodies uH idiopathic intracranial NCS nerve conduction study
+EEG _ electroencephalography hypertension NPH normal pressure hydrocephalus
+
+Lesion Localization
+
++ CNSvs. PNS lesion
+= CNS: cortical, subcortical, brainstem (midbrain, pons, medulla), cerebellum, spinal cord
+= PNS: anterior horn cell, nerve root, plexus, peripheral nerve, neuromuscular junction, muscle
+= see Table 3, N4 for differentiating LMN, UMN, and extrapyramidal lesions
++ cortical
+= contralateral hemiparesis (with differential effect on face and arm vs. leg)
+= contralateral hemisensory loss, cortical sensory loss (graphesthesia, stereognosis)
+= dominant hemisphere: aphasia, alexia, agraphia, acalculia, left-right disorientation
+= non-dominant hemisphere: hemineglect, dysprosody, amusia, constructional apraxia, alien hand
+syndrome
+homonymous hemianopsia/quadrantanopsia
+gaze deviation (involvement of frontal eye field)
+seizure
+agnosia (visual, auditory)
+= ideomotor and ideational apraxia
++ subcortical
+= internal capsule: contralateral hemiparesis with equal face, arm, and leg involvement without
+sensory/cortical deficits (pure motor); contralateral hemiparesis and sensory deficit (sensorimotor);
+contralateral dysmetria/clumsiness and paresis (ataxic hemiparesis); dysarthria and ataxia of the hand
+(clumsy hand-dysarthria syndrome)
+« basal ganglia: resting tremor, bradykinesia, festinating gait, hemiballism, chorea, dystonic posture
+«= thalamus: dense sensory loss, contralateral severe pain, visual field defect, cognitive impairment,
+altered LOC
++ brainstem (midbrain, pons, medulla)
+= crossed hemiplegia or hemisensory loss (i.e. ipsilateral face, contralateral body)
+= ipsilateral limb ataxia (dysmetria, impaired rapid alternating movements)
+= nystagmus, diplopia, ptosis, pupil abnormalities (miosis, mydriasis), gaze impairment, internuclear
+ophthalmoplegia
+= dysphagia, dysarthria
+= hearing loss, vertigo
+= ipsilateral Horner's syndrome
++ cerebellum
+= symptoms ipsilateral to side of lesion
+= limb ataxia (dysmetria, intention tremor, dysdiadochokinesia, hypotonia causing pendular reflexes)
+= truncal ataxia (wide-based gait, inability to perform heel-to-toe gait, truncal titubation)
+= nystagmus, hypermetric or hypometric saccades, impaired smooth pursuit
+= scanning speech (explosive speech with noticeable pauses and accentuated syllables)
++ spinal cord
+= LMN signs at level of lesion; UMN signs below level of lesion
+= sensory level (line below which there is sensory loss); suspended “cape-like” sensory level (in central
+cord lesions)
+= neurogenic bladder and bowel, sexual dysfunction
+«= saddle anesthesia (involvement of conus medullaris)
+= sensory ataxia (involvement of dorsal columns)
++ anterior horn cell
+= weakness without sensory symptoms
+= fasciculations, atrophy, cramps
+= for example: ALS, spinal muscular atrophy, Kennedy disease, West-Nile virus, poliomyelitis
++ nerve root
+= deficits beyond distribution of a single peripheral nerve
+= myotomal/dermatomal deficits
+= back/neck pain radiating to limb
+= saddle anesthesia (involvement of cauda equina)
+
+Parkinson's disease
+peripheral nervous system
+relative afferent pupillary defect
+rapid eye movement
+subarachnoid hemorrhage
+selective serotonin reuptake
+inhibitor
+
+traumatic brain injury
+
+tricyclic antidepressant
+transient ischemic attack
+
+tissue plasminogen activator
+upper motor neuron

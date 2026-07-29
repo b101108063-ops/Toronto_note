@@ -1,0 +1,138 @@
++ achronic endocrine disorder that affects females of reproductive age
++ involves polycystic ovaries, ovulatory dysfunction/menstrual irregularity, and hyperandrogenism
+
+Etiology
+
+,
+
+7 estrogen ———————> | FSH secretion + T LH secretion —————> Anovulation
+
+t t
+
+1 peripheral conversion to estrogen >—P 7 ovarian secretion of androgens Oligomenorthea
+Obesity < Hirsutism Infertility
+
+Figure 12. Pathophysiology of polycystic ovarian syndrome
+
+Diagnosis
++ Rotterdam diagnostic criteria: 2 of 3 required
+= oligomenorrhea/irregular menses for 6 mo
+= hyperandrogenism
++ clinical evidence - hirsutism or acne
++ biochemical evidence - raised free testosterone
+= polycystic ovaries on U/S (not appropriate in adolescents)
+
+Clinical Features
+
++ average age 15-35 yr at presentation
++ inadolescents, wait at least 1-2 yr to make diagnosis as adolescence resembles PCOS
+
++ abnormal/irregular uterine bleedi ne hirsutism, infertility, obesity, virilization
+
++ acanthosis nigricans: darkening of skin folds in intertriginous zones (indicative of insulin resistance)
++ insulin resistance occurs in both lean and obese patients
+
++ FHx of DM
+
+Investigations
+
++ assess BMI, BP, and fasting lipid profile at presentation
+= goal: identify hyperandrogenism or chronic anovulation and rule out specific pituitary or adrenal
+isease as the cause
++ laboratory
+= prolactin, TSH, free T4
+= 17-hydroxyprogesterone, LH:FSH >2:1 (LH is chronically high with FSH mid-range or low (low
+sensitivity and specificity)
+= increased DHEAS, androstenedione, and free testosterone (most sensitive)
++ transvaginal or transabdominal U/S: polycystic-appearing ovaries
+= “string of pearls” - 12 small follicles 2-9 mm or increased ovarian volume (>10 cc)
++ tests for insulin resistance or glucose tolerance
+= 75g OGTT every other year (particularly if obese)
++ consider endometrial biopsy if long-standing abnormal uterine bleeding to rule out hyperplasia
++ tule out other causes of abnormal leeding
+
+Treatment
++ cycle control
+= lifestyle modification (decrease BMI, increase exercise) to decrease peripheral estrone formation
+= hormonal IUS, combined hormonal contraception or cyclic Provera* to prevent endometrial hyperplasia
+due to unopposed estrogen
+= oral hypoghcemic (e.g. metformin) if T2DM or if trying to become pregnant
+= tranexamic acid (Cyklokapron’) for menorrhagia only
++ infertility
+= medical induction of ovulation: letrozole, clomiphene citrate, human menopausal gonadotropins (HMG
+(Pergonal")), LHRH, recombinant FSH, and metformin
++ metformin may be used in conjunction with clomiphene citrate for ovulation induction
+= ovarian drilling (perforate the stroma), wedge resection of the ovary - rarely done
+. bromocriptine {i \yperprolactinemia)
++ hirsutism
+= any OCP can be used
++ Diane 35° (cyproterone acetate): antiandrogenic
++ Yasmin’ (drospirenone and ethinyl estradiol): spironolactone analogue (inhibits steroid receptors)
+mechanical removal of hair
+finasteride (5-a reductase inhibitor)
+flutamide (androgen reuptake inhibitor)
+spironolactone (androgen receptor inhibitor)
+
+Toronto Notes 2025
+
+Polycystic Ovarian Syndrome
+HHAIIR-AN
+
+Hirsutism, HyperAndrogenism, Infertility,
+Insulin Resistance, Acanthosis Nigricans
+
+PCOS may be confused with
+Late onset CAH (21hydroxylase deficiency)
+Cushing's syndrome
+
+Ovarian and adrenal neoplasms
+Hyperprolactinemia
+
+Hypothyroidism
+
+Clinical Signs of Endocrine Imbalance
+Menstrual disorder/amenorrhea (80%)
+Infertility (74%)
+
+Hirsutism (69%)
+
+Obesity 49%)
+
+Impaired glucose tolerance (35%)
+
+DM (10%)
+
+Long-Term Health Consequences
+Hyperlipidemia
+
+Adult-onset DM
+
+Endometrial hyperplasia
+Subfertility
+
+Obesity
+
+Sleep apnea
+
+)
+
+nostic Criteria forPolycystic Ovary Syndrome:
+Pitfalls and Controversies
+
+‘Obstet GynaecolCan 20088:671679
+
+Atpresnt, there isno clear-cut defition of
+biochemical hyperandrogeneni, particular since
+thereis dependence on poor laboratory standards
+
+for measuring androgens in women, Cinica signs of
+hyperandrogenismare ill-defined in women with PCOS,
+and diagnosis ofboth hirstsm and polycjstic ovarian
+morphology remains subjective. Thereisabo the
+inappropriate tendency to asign ovulatory status solely
+nthe basis of menstrual cy history or poorly timed
+endocrine measurements. Therefor itisimportantas
+linicians to recognize the multifactorial and complex
+nature of PCOSand place thin the context of our
+resent diagnostic limitations
+

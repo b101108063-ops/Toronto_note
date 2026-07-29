@@ -1,0 +1,93 @@
+OP10 Ophthalmology Toronto Notes 2025
+
+Table 7. Clinical Features of Preseptal and Orbital Cellulitis
+
+Finding Preseptal Cellulitis Orbital Cellulitis
+
+Fever Maybe present Present
+
+Lid Edema Moderateto severe Severe
+
+Conjunctival Injection Absent Present
+
+Chemosis ‘Absent or mild Marked
+
+Proptosis. Absent Present
+
+Painon Eye Movement Absent Present
+
+Ocular Mobility Normal Decreased
+
+Vision Normal Diminished + diplopia
+
+RAPD Absent May beseenif severe
+
+Leukocytosis Moderate Marked
+
+Complications Uncommonunless secondary orbital spread occurs _Subperiosteal abscess, cranial neuropathies, cavernous
+or MRSA sis thrombosis, intracranial extension
+
+Erythrocyte Sedimentation Rate (ESR) Normal or elevated Blevated
+
+Additional Findings Skin infection Sinusitis, dental abscess
+
+Lacrimal Apparat
+
++ tear film, formed by the lacrimal gland, is made up of three layers
+outer oily layer (reduces evaporation): secreted by the meibomian glands
++ middle aqueous layer (forms the bulk of the tear film): constant secretion from conjunctival glands and
+reflex secretion by lacrimal gland with ocular irritation or emotion
++ inner mucinous layer (aids with tear adherence to cornea): mucin secreted by conjunctival goblet cells
++ tears drain from the eyes through the upper and lower lacrimal puncta > superior and inferior canaliculi >
+lacrimal sac-> nasolacrimal duct > nasal cavity behind inferior concha (ee Figure 3, OP3)
+
+Dry Eye Syndrome (Keratoconjunctivitis Sicca)
+
+Definition and Etiology
++ aqueous-deficient DES (decreased tear production)
+= Sjégren syndrome (autoimmune etiology; e.g. RA, SLE)
+= non-Sjégren syndrome (idiopathic age-related disease; lacrimal gland scarring e.g. trachoma; decreased
+secretion e.g. contact lenses, CN VII palsy, anticholinergics, antihistamines, diuretics, B-blockers)
+* evaporative DES (normal lacrimal function, excessive evaporation of aqueous layer)
+meibomian gland dysfunction (posterior blepharitis)
+vitamin A deficiency (xerophthalmia with goblet cell dysgenesis)
+eyelid abnormalities e.g. ectropion, CN VII palsy (decreased blinking)
+topical ocular medications with preservatives
+contact lenses, allergic conjunctivitis
++ mixed etiologies are common
+
+Clinical Features
+
++ dry eyes, red eyes, foreign body sensation, eye pain, blurred vision, excessive tearing
+
++ slit-lamp exam: decreased tear meniscus, decreased tear break-up time (normally should be >10 s), punctate
+staining of cornea with fluorescein
+
+in severe cases, there can be filaments (strands of epithelium cells attached to corneal epithelium; often
+painful), corneal keratinization
+
+Investigations
++ surface damage observed with fluorescein/Lissamine green/Rose Bengal staining
+
++ fluorescence stains disruption of epithelial intercellular junction
+
++ Lissamine green and Rose Bengal stains devitalized epithelium and mucous strands
++ decreased wetting distance in Schirmer’s test
+
+Complications (2)
+
++ erosions and scarring of cornea (erosions can be anywhere, but scarring is usually worst inferonasally) Long term use of artificial tears with
+preservatives should be avoided when
+Treatment CEES
+
++ medical: topical cyclosporine, preservative-free artificial tears up to ql h and ointment at bedtime
+(preservative toxicity becomes significant if used more than 4-6 x/d), short course of mild topical
+corticosteroids, omega-3 fatty acids orally (controversial), and eyelid hygiene for blepharitis
+
+= for moderate cases, cyclosporine ophthalmic emulsion 0.05% (Restasis*), 0.09% solution (Cequa’), or
+lifitegrast 5% (Xiidra*) can be used
+
++ procedural: punctal occlusion (punctal plug insertion), lid taping, tarsorrhaphy (partial surgical fusion of
+the lids) if severe
+
++ treat underlying cause

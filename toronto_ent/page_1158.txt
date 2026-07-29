@@ -1,0 +1,92 @@
+oT14 Otolaryngology
+
+Epidemiology
++ peak incidence 40-60 yr
++ bilateral in 35% of cases
+
+Clinical Features
+
+episodic vertigo, fluctuating low frequency SNHL, tinnitus, and aural fullness, + drop attacks (Tumarkin
+crisis), + N/V
+
+vertigo disappears with time (min to h), but SNHL remains
+
+early stages: fluctuating SNHL
+
+later stages: persistent tinnitus and progressive SNHL
+
+attacks occur in clusters and can be debilitating to the patient
+
+triggers: high salt intake, caffeine, stress, nicotine, and alcohol
+
+Treatment
++ acute management may consist of bed rest, antiemetics, antivertiginous drugs (e.g. betahistine (Serc’),
+meclizine, diphenhydramine), and anticholinergics (e.g. scopolamine)
++ long-term management may include:
+= medical
+low salt diet, diuretics (e.g. hydrochlorothiazide, triamterene, amiloride), identify and control
+allergies
+Serc’ prophylactically to decrease intensity of attacks
+intratympanic gentamicin to destroy vestibular end-organ, results in complete SNHL
+intratympanic glucocorticoids (e.g. dexamethasone) may improve vertigo symptoms
+must monitor opposite ear, 35% of cases are bilateral
+= surgical
++ selective vestibular neurectomy or labyrinthectomy
++ potential benefit for endolymphatic sac decompression or sacculotomy
+
+eee ie
+
+Vestibular Neuronitis (Labyrinthitis)
+
+Definition
+
++ acute onset of disabling vertigo often accompanied by N/V and imbalance without HL that resolves over
+days, leaving a residual imbalance that lasts d to wk
+
++ vestibular neuronitis: inflammation of the vestibular portion of CN VIII
+
++ labyrinthitis: inflammation of the vestibular and cochlear portions of CN VIII
+
+Etiology
+
++ thought to be due toa viral infection (e.g. measles, mumps, herpes zoster) or post-viral syndrome
+
++ only ~30% of cases have associated URTI symptoms
+
++ labyrinthitis may occur as a complication of acute and chronic otitis media, bacterial meningitis,
+cholesteatoma, and temporal bone fractures
+
+Clinical Features
+* acute phase
+= severe vertigo with N/V and imbalance lasting 1-5 d
+= irritative nystagmus (fast phase towards the offending ear)
+= ataxia: patient tends to veer towards affected side
+«= tinnitus and HL in labyrinthitis
++ convalescent phase
+= imbalance and motion sickness lasting d to wk
+= spontaneous nystagmus away from affected side
+= gradual vestibular adaptation requires wk to mo
+
+Treatment
++ acute phase
+= bed rest, antivertiginous drugs
+= corticosteroids (methylprednisolone) + antivirals
+= bacterial infection: treat with IV antibiotics, drainage of middle ear, + mastoidectomy
++ convalescent phase
+= progressive ambulation, especially in the elderly
+= vestibular exercises: involve eye and head movements, sitting, standing, and walking to promote central
+compensation and improve balance/coordination
+
+Toronto Notes 2025
+
+Drop Attacks (Tumarkin's Otolthic Crisis)
+are sudden falls occurring without warning
+and without loss of consciousness, where
+patient experiences feeling of being
+pushed down into the ground
+
+Before proceeding with gentamicin
+treatment, perform a gadolinium-enhanced
+‘MRI to rule out CPA tumour as the cause
+
+of symptoms

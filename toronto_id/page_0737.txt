@@ -1,0 +1,82 @@
+ID19 Infectious Diseases Toronto Notes 2025
+
+Investigations
++ CSE: opening pressure, cell count and differential, glucose, protein, Gram stain, bacterial C&S, PCR for
+HSV, VZV, EBV, enteroviruses/parechoviruses, M. pneumoniae, and selectively for other less common
+etiologies
+serology: may aid diagnosis of certain causes of encephalitis (e.g. EBV, West Nile virus, rabies, Bartonella
+henselae)
+imaging/neurologic studies: CT, MRI, EEG to define affected anatomical sites
+invasive testing: brain tissue biopsy may be required for culture, histological examination, and
+immunocytochemistry (if diagnosis not clear via non-invasive means)
++ findings in herpes simplex encephalitis (must rule out due to high mortality)
+
+= CT/MRI: medial temporal lobe necrosis
+
+= EEG: early focal slowing, periodic discharges
+
+Treatment
+
++ general supportive care
+
++ monitor vital signs carefully
+
++ IV acyclovir empirically until HSV encephalitis ruled out
+
+Generalized Tetanus
+
+Etiology and Pathophysiology
++ caused by Clostridium fetani: motile, spore forming, anaerobic GP bacillus
++ found in soil, splinters, rusty nails, GI tract (humans and animals)
++ traumatic implantation of spores into tissues with low oxygenation (e.g. puncture wounds, burns, non-
+sterile surgeries, or deliveries)
++ upon inoculation, spores develop into C. tetani bacilli that produce tetanus toxins
+* toxin travels via retrograde axonal transport to the CNS where it irreversibly binds presynaptic neurons
+to prevent the release of inhibitory neurotransmitters (e.g. GABA)
+= net effect is the disinhibition of spinal motor reflexes which results in tetany and autonomic
+hyperactivity
+
+Clinical Features
++ generalized tetanus
+« initially resent with painful spasms of masseters (trismus or “lockjaw”)
+
+= sustained contraction of skeletal muscle with periodic painful muscle spasms (triggered by sensory
+stimuli, og loud noises) ie)
+= paralysis descends to involve large muscle groups (neck, abdomen)
+= apnea, respiratory failure, and death secondary to tonic contraction of pharyngeal and respiratory Antimicrobial therapy (e.g. metronidazole)
+muscles ‘may fail to treat C. tetani unless adequate
++ autonomic hyperactivity Se Ee
+«= diaphoresis, tachycardia, HTN, fever as illness progresses
+Investigations
++ primarily a clinical diagnosis, often although not always with a history of a traumatic wound and lack of
+immunization
+
++ culture wounds, CK may be elevated
+
+Treatment
++ stop toxin production
+= wound debridement to clear necrotic tissue and spores
+
+= antimicrobial therapy: IV metronidazole (effective alternative: IV penicillin G)
+neutralize unbound toxin with tetanus immune globulin (TIg)
+supportive therapy: intubation (early tracheostomy often indicated), spasmolytic medications
+(benzodiazepines), quiet environment, cooling blanket
++ control autonomic dysfunction: a- and B-blockade (e.g. labetalol), magnesium sulfate
+
+Prevention
++ infection with C. fetani does not produce immunity - vaccinate patients on diagnosis
++ tetanus toxoid vaccination (see Pediatrics, P65 and Emergency Medicine, ER17)
+
+Rabies
+
+Definition
++ acute progressive encephalitis caused by RNA virus (genus Lyssavirus of the Rhabdoviridae family)
+
+Etiology and Pathophysiology
+* any mammal can transmit the rabies virus
+= most commonly transmitted by raccoons, skunks, bats, foxes, cats, and dogs; monkeys also a risk in the
+tropics and sub-tropics
++ transmission: breaching of skin by teeth or direct contact of infectious tissue (saliva, neural tissue) with
+skin or mucous membranes
+= almost all cases due to bites
+= animals can be carriers for several days before manifesting signs of disease

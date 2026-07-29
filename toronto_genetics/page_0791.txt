@@ -1,0 +1,106 @@
+MI Medical Imaging
+
+Aly Fawzy, Aaditeya Jhaveri, Natalie Kozlowski, Jimin Lee, Mikail Malik, Matthew Mueller, and Aiman
+Shahid, chapter editors
+
+Lyra Halili, Suhaila Abdelhalim, and Sandra Lee, associate editors
+
+Alina Sami and Matthew Veitch, EBM editors
+
+Dr. Angela Atinga, Dr. Andrew Chan, Dr. Ciara O’Brien, and Dr. Anastasia Oikonomou, staff editors
+
+Acronyms. . -MI2
+
+.MI2
+
+Imaging Modalities
+X-Ray Imaging
+Ultrasound
+Magnetic Resonance Imaging
+Positron Emission Tomography Scans
+Contrast Agents
+
+Chest Imaging... 6... cee eee eee eee eee mia
+Chest X-Ray
+
+Chest Computed Tomography
+
+Lung Abnormalities
+
+Pulmonary Vascular Abnormalities
+
+Pleural Abnormalities
+
+Mediastinal Abnormalities
+
+Tubes, Lines, and Catheters
+
+Abdominal Imaging... .........0200e00ee ee Mit
+Abdominal X-Ray
+
+Abdominal Computed Tomography
+
+Approach to Abdominal Computed Tomography
+
+Contrast Studies
+
+Specific Visceral Organ Imaging
+
+“itis” Imaging
+
+Angiography of Gastrointestinal Tract
+
+Genitourinary System and Adrenals ..........-.- MI16
+Urological Imaging
+
+Gynecological Imaging
+
+Adrenal Mass
+
+Neuroradiology... 2.2.2... eee eee eee ee eee Mi19
+Approach to Head Computed Tomography
+Selected Pathology
+
+Musculoskeletal System... 2.2... eee eee eee MI22
+Modalities
+
+‘Approach to Bone X-Rays
+
+Trauma
+
+Arthritis
+
+Bone and Soft Tissue Tumours
+
+Infection
+
+Metabolic Bone Disease
+
+Nuclear Medicine... 2.0... eecee eee eee Mi25
+Brain
+
+Thyroid
+
+Respiratory
+
+Cardiac
+
+Abdomen and Genitourinary System
+
+Interventional Radiology... ... 0.2.0.2. 0022s Mi27
+Vascular Procedures
+
+Breast Imaging . .
+Modalities
+
+Breast Diagnostic and Interventional Procedures
+
+Breast Findings
+
+Landmark Radiology Trials... 0... 0.0.02... 000 Mi29
+
+References... 0. 22s ce cee eee n scans MI30
+
+MI28
+
+MIL ‘Medical Imaging Toronto Notes 2025

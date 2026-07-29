@@ -1,0 +1,93 @@
+NPS Nephrology Toronto Notes 2025
+
+Eosinophils
++ detected using Wright's or Hansel’s stain (not affected by urine pH)
++ consider AIN, atheroembolic disease, but not specific nor sensitive for AIN
+
+Oval Fat Bodies
++ tubular epithelial cells or macrophages laden with lipid droplets
++ seen in heavy proteinuria (e.g. nephrotic syndrome)
+
+2. CASTS
+
++ cylindrical structures formed by intratubular precipitation of uromodulin, previously called Tamm-
+Horsfall mucoprotein, cells (RBCs, WBCs, and/or epithelial cells) may be trapped within the matrix of
+protein
+
++ casts originate only from the nephron
+
+Table 3. Interpretation of Casts
+
+Casts Interpretation
+Hyaline Casts Physiologic (concentrated urine, fever, exercise)
+Granular Casts xo
+AIM (less specific)
+RBC Casts Glomeruiar bleeding (proliferative GH, vascultis)
+WBC Casts Infection (pyelonephritis)
+Inflammation (interstitial nephrtis)
+Pigmented Granular Casts (heme granular casts, muddy brown) an
+‘cute praliferative GN
+FattylLipid Casts Nephrotic syndrome (proteinuria >3.5 94)
+
+3. CRYSTALS
+
++ uric acid (rosette shaped or needle shaped): consider acidic urine, hyperuricosuria, tumour lysis syndrome
++ calcium phosphate: alkaline urine
+
+calcium oxalate (envelope shaped): consider hyperoxaluria, ethylene glycol poisoning, nephrolithiasis
+sulfur: sulfa-containing antibiotics
+
+triple phosphate (coffin-lid shaped): consider UTI - Klebsiella
+
+medications that may cause crystalluria: acyclovir
+
+Urine Biochemistry
+
++ commonly measure: Na’, K’, Cl-, osmolality, and pH
+
++ 24hurine collection more reflective of mineral balance
+
++ no “normal” values; electrolyte excretion depends on intake and current physiological state
+
++ results must be interpreted in the context of a patient’s current state, for example:
+
++ Lifapatient clearly has ECF volume depletion: expect low urine [Na*] (kidneys should be retaining Na’)
+* urine [Na*] >20 mmol/L suggests a tubular injury or the action of a diuretic
++ urine [Na‘] <20 mmol/L suggests either extrarenal loss of fluid (e.g. diarrhea), or previous use of ie}
+
+diuretic, but the diuretic action has worn off
+
+Fractional Excretion of Sodiu
++ if you suspect a patient has ECF volume depletion and the urine [Na*] and/or urine [Cl] is <20 fnesNehexitbes
+mmol/L, then this supports the conclusion of ECF volume depletion [Na"Jonen x [Cre x 100
+
++ 2.ima patient with hypokalemia, the expected renal response is to retain K’; therefore, daily urinary K*
+excretion rate should be decreased (<20 mmol/d)
++ ifhigher than 20 mmol/d, suggests renal contribution to hypokalemia or action of a diuretic
+
++ FExa refers to the fractional excretion of Na* (Na* excreted in urine/Na‘ filtered through kidney)
+
+= FEn. <1% suggests a patient with AKI has “prerenal” cause
++ osmolality is useful to estimate the kidney’s concentrating ability
+
+= eg. ifa patient has hypernatremia, and the urine osmolality is dilute (i.e. less than serum osmolality),
+
+then this suggests the patient has a defect in urinary concentration, which is called diabetes insipidus
+
++ urine pH is useful to grossly assess renal acidification
+
+= low pH (<5.5) in the presence of low serum pH is an appropriate renal response
+
+= ahigh pH in this setting might indicate a renal acidification defect (e.g. RTA Type 1)
+
+Electrolyte Diso
+
+Sodium Homeostasis
+
++ hyponatremia and hypernatremia are disorders of water balance
+= hyponatremia usually suggests too much water in the ECF relative to Na* content
+= hypernatremia usually suggests too little water in the ECF relative to Na* content
++ solutes (such as Na’, K*, glucose) that cannot freely traverse the plasma membrane contribute to effective
+osmolality and induce transcellular shifts of water
+= water moves out of cells in response to increased ECF osmolality
+= water moves into cells in response to decreased ECF osmolality

@@ -1,0 +1,120 @@
+GS58 General and Thoracic Surgery
+
+Treatment
++ treat with ERCP for CBD stone extraction possibly followed by elective cholecystectomy in 25% of patients
++ biliary tree flushing with laparoscopic cholecystectomy:
+«= during a laparoscopic cholecystectomy + cholangiogram, the cystic duct can be flushed to the CBD
+with the use of glucagon to relax the sphincter between the CBD and duodenum. Can also use
+cholangiogram to confirm stones flushed into duodenum
+
+Acute Cholangitis
+
+Pathogenesis
++ obstruction of CBD leading to biliary stasis, bacterial overgrowth, suppuration, and biliary sepsis - may be
+life-threatening, especially in elderly
+
+Etiology
+
++ choledocholithiasis (60%), stricture, neoplasm (pancreatic or biliary), extrinsic compression (pancreatic
+pseudocyst or pancreatitis), instrumentation of bile ducts (PTC, ERCP), and biliary stent
+
++ organisms: E, coli, Klebsiella, Enterobacter, Pseudomonas, Enterococcus, B. fragilis, and Proteus
+
+Clinical Features
+
++ Charcot’s triad: fever, RUQ pain, and jaundice
+
++ Reynold’s pentad: Charcot’s triad, hypotension, and altered mental status
+
++ may have N/V, abdominal distention, ileus, acholic stools, and tea-coloured urine (elevated direct bilirubin)
+
+Investigations
+
++ CBC: elevated WBC + left shift
+
++ may have positive blood cultures
+
++ LETs: obstructive picture (elevated ALP, GGT, and conjugated bilirubin, possible mild increase in AST,
+ALT)
+
+lipase: rule out pancreatitis
+
+U/S: intra-/extra-hepatic duct dilatation
+
+CT: bile duct dilatation and can identify biliary stenosis
+
+MRCP when diagnosis is unclear
+
+Treatment
++ initial: NPO, fluid and electrolyte resuscitation, + NG tube, IV antibiotics (treats 80%)
++ biliary decompression
+= ERCP + sphincterotomy: diagnostic and therapeutic
+= PTC with catheter drainage: if ERCP not available or unsuccessful
+= open or laparoscopic CBD exploration and T-tube placement if above fails
++ in addition to biliary decompression, the underlying cause should be addressed. In the case of patients
+with choledocholithiasis, elective cholecystectomy is recommended after resolution of acute cholangitis to
+prevent re-occurrence
+
+Prognosis
++ suppurative cholangitis mortality rate: 20-30%
+
+Gallstone Ileus
+
+Pathogenesis
+
++ repeated inflammation causes a cholecystoenteric fistula (usually duodenal) > large gallstone enters the GI
+tract (impacting near the ileocecal valve) causing a mechanical bowel obstruction (note: ileus is a misnomer
+in this context)
+
+Clinical Features
++ crampy abdominal pain, N/V, constipation/obstipation (see Large Bowel Obstruction, GS37)
+
+Investigations
+
++ AXR: dilated small intestine, air fluid levels, may reveal radiopaque gallstone, and air in biliary tree
+(pneumobilia) (40%)
+
++ CT: biliary tract air, obstruction, and gallstone in intestine
+
++ Rigler’s triad: pneumobilia, SBO (partial or complete), and gallstone (usually in right iliac fossa)
+
+Treatment
++ fluid resuscitation, NG tube decompression
+
+surgery: enterolithotomy and removal of stone, inspect small and large bowel for additional proximal
+stones
+generally do not deal with the fistula at the time of the emergency surgery; or typically will manage
+expectantly (can resolve spontaneously)
+cholecystectomy is generally not performed
+
+Toronto Notes 2025
+
+Charcot’s Triad
+Fever, RUQ pain, jaundice
+
+Reynolds’ Pentad
+Fever, RUO pain, jaundice, shock, and
+altered mental status
+
+‘Common Bacteria in Biliary Tract
+
+KEEPS
+
+Kebsiella
+Enterococcus
+
+E coli, Enterobacter
+Proteus, Pseudomonas
+Serratia
+
+Rigler’s Triad of Gallstone lleus
+Pheumobilia
+
+‘Small bowel obstruction
+Gallstone
+
+Bouveret’s Syndrome
+Gastric outlet/duodenal obstruction caused
+by alarge gallstone passing through a
+cholecystogastric or cholecystoduodenal
+fistula

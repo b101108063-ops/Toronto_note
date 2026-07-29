@@ -1,0 +1,125 @@
+Gs28 General and Thoracic Surgery
+
+Treatment
++ surgical resection if >2 cm; follow with serial endoscopy if <2 cm (gastric GIST) and resect if growing or
+symptomatic
++ localized GIST
+«= surgical resection with preservation of intact pseudocapsule
+«= lymphadenectomy NOT required as GISTs rarely metastasize to lymph nodes
+= consider adjuvant treatment with imatinib Gleevec’) if high-risk of relapse (large, >4 cm with
+significant mitotic activity)
++ advanced disease (i.e. metastases to liver and/or peritoneal cavity)
+« palliative intent chemotherapy with imatinib
+= metastasectomy may be considered for liver limited disease
+
+Prognosis
++ risk of metastatic potential depends on
+
+= tumour size (worse if >10 cm)
+
+= mitotic activity (worse if >5 mitotic figures/50 HPF (high-power field))
+
+= degree of nuclear pleomorphism
+
+« location: with identical sizes, extra-gastric location has a higher risk of progression than GISTs in the
+
+stomach
+
+frequently metastasize to the liver and omentum; nodal and lung metastases rare
+
+Bariatric Surgery
+
+weight reduction surgery for morbid obesity
+indications: BMI >35 without illness or BMI 230 with 1+ serious comorbidity (e.g. DM, CAD, sleep apnea,
+GERD, or severe joint disease)
+
+= Asian patients: growing evidence to lower BMI criteria by 2.5 (i.e. BMI 237.5 or BMI 235.5) due to
+higher prevalence of truncal obesity
+consult with a multidisciplinary bariatric team: nutrition, psychological deterrents, life modifications,
+lifelong surveillance, reliable bariatric program (details realistic outcomes) to optimize success post-
+operation
+
+Surgical Options
++ combination malabsorptive and restrictive
+« laparoscopic Roux-en-Y gastric bypass (most common, most effective; higher complication rates)
+small gastric pouch (restrictive), from distal stomach, anastomosed with Roux limb of small bowel
+(malabsorptive); connect to biliopancreatic limb to maintain digestive enzymes and bile
+¢ complications: gastric remnant distention, stomal stenosis, marginal ulcers, cholelithiasis,
+ventral incisional hernia, short bowel syndrome, dumping syndrome, metabolic perturbations,
+gastrogastric fistula
+= restrictive laparoscopic sleeve gastrectomy
++ creation of tubular stomach via removal of majority of greater curvature
++ complications: bleeding from gastric or short gastric vessels from dissection of greater curve,
+stenosis at the gastroesophageal junction, gastric leaks
++ malabsorptive
+
+= biliopancreatic diversion with duodenal switch (performed asa rescue operation after traditional Roux-
+
+en-y)
++ anastomosis of stomach to distal ileum, anastomosis of biliopancreatic limb to terminal Ileum
++ complications: protein calorie malnutrition, anemia, metabolic bone disease, fat-soluble vitamin
+deficiency
+
+Complications of Gastric Surgery (Figure 10, GS29)
+
++ most resolve within 1 yr
+
++ important to note that morbidly obese patients usually do not present with the symptoms and signs shown.
+below; often times, the only presenting sign is tachycardia
+
+Alkaline Reflux Gastritis
+
++ duodenal contents (bilious) reflux into stomach causing gastritis + esophagitis
+
++ treatment
+= medical: H2-blocker, metoclopramide, cholestyramine (bile acid sequestrant)
+= surgical: conversion of Billroth I or II to Roux-en-Y
+
+Afferent Loop Syndrome
++ accumulation of bile and pancreatic secretions causes intermittent mechanical obstruction and distention
+of afferent limb
+clinical features
+
+= early postprandial distention, RUQ pain, nausea, bilious vomiting, anemia
+treatment: surgery (conversion to Roux-en-Y increases afferent loop drainage)
+
+Toronto Notes 2025
+
+2)
+
+Extent of Lymph Node Dissection or
+‘Menocarcinoma ofthe Stomach
+
+CochraneDB yt Rev 2015;1:CD001964
+
+Study: Systematic review and meta-analysisonthe
+impactofthethreemain types of progressively more
+ertended lymph node dissection (D1, D2 and D3
+lymphadenectomy) onthe cic outcome of patents
+with primary resectable carcinoma othe stomach,
+Results Conclusions: Data suggested no significant
+ditlerencein overallsuvival between D2 and D3 ype
+dissection. There was nosignicantdference in overal
+survival between D1 and 2 type node dissection. In
+contrast, D2}ymphadenectony wasassocated witha
+significantly better disease spctc survival compared
+toD1ymphadenectomy bt was als associated with a
+higher postoperative mortality rate.
+
+2)
+
+Surgery for Weight Losin Mts
+Cochrane DB Syst Rev 204 8:C0003641
+
+Study: Update ofa 2003 Cochrane review assessing the
+effect aratriesugery and contol of carbides,
+Conclusions: Surgery rsutedin deceased BM one to
+two yar postoperative, 3RCT found that paroscopc
+AooxenYgasticbypass achieved significant greater
+weight osand BMI reduction po yr after sugery
+compared vith laparoscopic adjustable gasticbaning
+(ean dterence5.2kgn?;95%C1-64 10-40). More
+patients experienced remission of diabetes with lap
+Fen! however, dierent definitions ere used. Risks
+cf surgery ince leaks, hernias, infection, pulmonary
+‘embolism, cholecystitis, nd postoperative mortality

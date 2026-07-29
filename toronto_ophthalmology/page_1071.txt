@@ -1,0 +1,99 @@
+OP31 Ophthalmology
+
+Table 10. Summary of Conditions Causing Anisocoria
+
+Features Siteof Lesion Light and Accommodation _Anisocoria Effect of Pilocarpine
+‘ABNORMAL MIOTIC PUPIL (impaired pupillary dilation)
+Homner’s Syndrome Round, unilateral, Sympatheticsystem Both brisk Greaterin dark Nik
+ptosis, anhidrosis,
+pseudoenophthalmos,
+ArgyllRobertson Pupil Irregular, usally Midbrain Poor inlight; better to Nik
+bilateral accommodation
+‘ABNORMAL MYDRIATIC PUPIL (impaired pupillary constriction)
+‘Adie'sTonic Pupil Irregular, largerin _—_Cilary ganglion Poor inlight, better to Greaterin ight Constrits (hypersensitivity to
+brightlight accommodation dilute pilocarpine)
+CHIIIPalsy Round Superficial CNINL ‘fixed (acutely) at 79mm —Greaterin ight Constricts
+Pharmacologic Round, uni-or bilateral ris sphincter Fixed at7-8 mm Greaterin ight Will not constrict
+Dilation
+
+Dilated Pupil (Mydriasis)
+
+Sympathetic Stimul
++ fight or flight response
++ mydriatic drugs: epinephrine, phenylephrine
+
+Parasympathetic Under-Stimulation
++ cycloplegics/mydriatics: atropine, tropicamide, cyclopentolate (parasympatholytic)
++ CNIII palsy
+= eye deviated down and out with ptosis present
+= etiology includes microvascular ischemia (associated with vascular risk factors), vasculitis (e.g. GCA),
+compression (e.g. pituitary adenoma or posterior communicating artery aneurysm), or midbrain stroke
+
+Acute Angle-Closure Glaucoma
++ fixed, mid-dilated pupil
+
+Adie’s Tonic Pupil
++ 80% unilateral, F>M
++ pupil is tonic or reacts poorly to light (both direct and consensual) but constricts with accommodation
++ caused by benign lesion in ciliary ganglion; results in denervation hypersensitivity of parasympathetically
+innervated constrictor muscle
+= dilute (0.125%) solution of pilocarpine will constrict tonic pupil but have no effect on normal pupil
++ long-standing Adie’s pupils are smaller than unaffected eye
+
+Trauma
+
++ damage to iris sphincter from blunt or penetrating trauma
+
++ iris transillumination defects may be apparent using ophthalmoscope or slit-lamp
+
++ pupil may be dilated (traumatic mydriasis) or irregularly shaped from tiny sphincter ruptures
+
+Constricted Pupil (Miosis)
+
+Senile Miosis
++ decreased sympathetic stimulation with age
+
+Parasympathetic Stimulation
++ local or systemic medications such as:
+= cholinergic agents: pilocarpine, carbachol
+= opiates, barbiturates
+
+Homer’s Syndrome
+lesion in sympathetic pathway
+
+difference in pupil size greater in dim light, due to decreased innervation of adrenergics to iris dilator
+muscle
+
+associated with ptosis and anhidrosis of ipsilateral face/neck (in pre-ganglionic lesions)
+
+apraclonidine (strong a-2 and weak a-1 blocker) is the most common pharmacologic diagnostic test, in
+which denervation hypersensitivity results in dilation of the Horner pupil but not the normal pupil (leading
+to reversal of anisocoria)
+
+application of cocaine 4-10% (blocks reuptake of norepinephrine) to eye does not result in dilation of the
+Horner's pupil, whereas the normal pupil will dilate, thereby confirming the diagnosis
+
+Toronto Notes 2025
+
+CN Ill palsy with pupillary involvement.
+‘may be associated with a posterior
+communicating artery aneurysm
+
+Down and out
+
+mydriasis
+Post. comm.
+artery
+aneurysm
+
+Central Vascular CN Ill Lesion
+
+Down and out
+pupil spared
+
+Cental infarct
+
+(© Andreea Margineanu 2012
+
+Figure 22. CN Ill lesions with and
+without mydriasis

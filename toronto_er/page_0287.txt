@@ -1,0 +1,101 @@
+Toronto Notes 2025
+
+Physical Exam
++ ABCs (especially noting postural BP/HR)
++ abdominal examination (signs of peritoneal pathology, tenderness, distension, mass)
++ speculum examination (NOT if 2nd/3rd trimester bleeding as it may worsen bleeding; perform only if
+placenta previa has been ruled out with U/S)
+= look for active bleeding and source (cervix vs. vagina vs. external), trauma/anomaly, and cervical
+dilatation
+= in Ist trimester, removing a clot at cervical os can help slow bleeding and improve symptoms
+= a dilated os is highly suggestive of incomplete abortion, although inter-rater reliability is poor
+bimanual examination (NOT if nd/3rd trimester bleeding as it may worsen bleeding; perform only if
+placenta previa has been ruled out with U/S)
+= cervical motion tenderness, size of uterus, cervical length/dilatation
+sterile gloves and speculum if pregnant and beyond the first trimester
++ POCUS: rule in intra-uterine pregnancy, check for free fluid in pelvis/right upper quadrant (RUQ)/left
+upper quadrant (LUQ), consider assessment of fluid responsiveness (intra-hepatic IVC collapsibility, carotid
+flow measurement)
+
+Investigations
++ B-hCG test for all patients with childbearing potential
+CBC, blood and Rh type, quantitative B-hCG, PTT, INR
+type & cross if significant blood loss
+transvaginal U/S if post-pubescent and sexually active (rule out ectopic pregnancy and spontaneous
+abortion)
++ abdominal U/S (rule out placenta previa, fetal demise, or retained products postpartum)
+
+Management
+ABCs
+cardiac monitors if unstable
+Rh immune globulin (Rhogam") for vaginal bleeding in pregnancy and Rh-negative mother
+Ist/2nd trimester pregnancy
+= ectopic pregnancy: definitive treatment with surgery or methotrexate
+= intrauterine pregnancy, no concerns of coexistent ectopic: discharge patient with obstetrics follow-up
+= U/S indeterminate or 6-hCG >1000-2000 IU: further workup and/or gynecology consult
+= abortions: if complete, discharge if stable; for all others, consult gynecology
+2nd/3rd trimester pregnancy
+= placenta previa or placental abruption: obstetrics consult for possible admission
+postpartum
+= manage ABCs: start 2 large bore IVs, type & cross 4 units of blood, consult OB/GYN immediately
+= uterine atony: oxytocin 10 units IM or 40 units in 1L wide open until the uterus is firm, then 200 cc/hr
+= genital tract trauma: visual inspection and repair
+= retained products of conception: bimanual or speculum
+= coagulopathy: TXA may be helpful
+= tamponade: use Bakri tube or foley catheter to tamponade, if other measures not successful
+* non-pregnant
+= if unstable admit to gynecology for IV hormonal therapy, possible dilation and curettage
+= non-structural abnormalities
+tranexamic acid to stabilize clots
+. medroxyprogesterone acetate 10 mg PO once daily x10 d, warn patient of a withdrawal bleed
+= stable structural abnormalities (fibroids, polyps, endometrial thickening, adenomyosis), outpatient
+gynecology referral once stable
+
+Disposition
+
++ decision to admit or discharge should be based on the stability of the patient, as well as the nature of the
+underlying cause; consult OBIGYN for patients requiring admission
+
+if patient can be safely discharged, ensure follow-u with family physician or OB/GYN
+
+instruct patient to return to ED for increased bleeding or presyncope
+
+Pregnant Patient in the ED
+
+Table 24. Complications of Pregnancy
+
+Trimester Fetal Maternal
+First Pregnancy failure Ectopic pregnancy
+awk ‘Spontaneous abortion Anemia
+Fetal demise Hyperemesis gavidarum
+Gestational trophoblastic disease Ullpyetonephritis
+Second Disorders of fetal growth Gestational DM
+B21 wk Intrauterine growth restriction Rhincompatiiity
+‘ligo/polyhydramnios UlUpyelonephritis
+Cervical incompetence
+Third Vasa previa Preterm labour preterm premature rupture ofthe membranes
+2-41 wk Preeclampsia (hypertension in pregnancy}iedampsia
+Placenta previa
+Placental abruption
+Uterine rupture
+
+DVTIPE
+
+Emergency Medicine
+
+Vaginal bleeding can be life-threatening.
+Always start with ABCs and ensure your
+patient is stable
+
+{An ectopic pregnancy can be ruled out by
+confirming an intrauterine pregnancy by
+bedside U/S unless the patient is using in
+Vitro fertilization (IVF) due to the associated
+high-risk of heterotopic pregnancy
+
+Vaginal bleeding (and its underlying
+causes) can be a very distressing event
+for patients; ensure appropriate support
+is provided
+
+ER4L

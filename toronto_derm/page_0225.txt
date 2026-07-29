@@ -1,0 +1,66 @@
+D37 Dermatology Toronto Notes 2025
+
+ROSEOLA
+« see Pediatrics, P62
+
+RUBELLA
+« see Pediatrics, P63
+
+VERRUCAE VULGARISMS
+«+ see Table 20, D36
+
+Yeast Infections 6)
+CANDIDIASIS
+
+Etiology
++ many species of Candida (70-80% of infections are from Candida albicans)
+* opportunistic infection in those with predisposing factors (e.g. trauma, malnutrition, immunodeficiency)
+
+Candidal Paronychia
++ clinical features: painful red swelling of periungual skin
++ management: topical agents not as effective; oral antifungals recommended
+
+Candidal Intertrigo
++ clinical features
+= macerated/eroded erythematous patches that may be covered with papules and pustules, located in
+intertriginous areas often under breast, groin, or interdigitally
+= peripheral “satellite” pustules
+« starts as non-infectious maceration from heat, moisture, and friction
++ predisposing factors: obesity, DM, systemic antibiotics, immunosuppression, malignancy
+. mana ement: keep area dry, terbinafine, ciclopirox olamine, ketoconazole/clotrimazole cream BID until
+rash clears
+
+PITYRIASIS (TINEA) VERSICOLOR
+
+Clinical Features
+
++ asymptomatic superficial fungal infection with brown/white scaling macules
+
++ affected skin darker than surrounding skin in winter, lighter in summer (does not tan)
+* common sites: upper chest and back
+
+Pathophysiology
+
++ microbe produces azelaic acid > inflammatory reaction inhibiting melanin synthesis yielding variable
+pigmentation
+
++ affinity for sebaceous glands; requires fatty acids to survive
+
+Etiology
+
++ caused by Malassezia sp. (formerly known as Pityrosporum)
+
++ also associated with folliculitis and seborrheic dermatitis
+
++ predisposing factors: summer, tropical climates, excessive sweating, Cushing's syndrome, prolonged
+corticosteroid use
+
+Investigations
++ clinical diagnosis but can perform microscopic examination, KOH prep of scales for hyphae and spores
+
+Management
+ketoconazole 2% shampoo or cream daily for 3 d
+selenium sulfide 2.5% lotion applied for 10 min for 7d
+ciclopirox olamine BID
+
+systemic fluconazole or itraconazole for 7 d if extensive

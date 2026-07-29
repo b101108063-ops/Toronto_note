@@ -1,0 +1,96 @@
+
+MRI Medical Imaging Toronto Notes 2025
+
+Selected Pathology
++ see Neurosurgery, NS4 for intracranial mass lesions CEL To Sea
++ see Neurosurgery, NS36 for head trauma and Plastic Surgery, PL31 for craniofacial injuries MAGIC DR
++ see Emergency Medicine, ER9 for spinal trauma Metastasis
++ see Neurosurgery, NS30 and Orthopedic Surgery, OR25 for degenerative spinal abnormalities Abscess
+Glioblastoma multiforme
+. Infarction (subacute/chronic)
+Cerebrovascular Disease (see Neurosurgery, NS22) Contusion/hematoma
++ pathogenesis of stroke: see Neurology, N51 Demyelinating disease (e.g. MS)
++ best imaging modality: MRI Radiation necrosis
+
+Table 17. Temporal Findings of Infarction with CT and MRI
+
+initial imaging modality: CT
+
+TimefromStroke Onset CT MRI
+
+Hyperacute (0-24) Usually normal within 6h Hyperintenity on DWI within minutes of arterial occlusion due to
+Edema (loss of grey-white matter differentiation —“insularribbon restriction of water movement indcativeof cytotoxic edema
+sign,” effacement of suki, mass effect) Hypointensiy on ADC within minutes
+Hyperattenuating artery “hyperdense MCA sign” representing Hyperintensity on T2UFLAIR approximately Gh after onset due to
+intravascular thrombus/embolimay be seen in ischemic stroke edema loss ofgrey-white matter differentiation, effacement of
+
+Aeute (24-1 wk) Increasing edema (seen ashypoattenuation) may resutin significant Continued hyperintenity on DW
+
+Hyperattenuating acute blood surrounded by edemamay beseenin suld, mass effect)
+hemorrhagic stroke
+
+positive mass effect Hypointensty on ADC reaches nadir at3-5 dand begins to
+increase
+Continued hyperintenity on T2FLAIR
+
+Figure 35. CT image of early infarct:
+
+Subacute (1-3 wk) Resolutionof edema leads to increased attenuation of infarcted Continued hyperintensity on DWI due to “T2 shine through” hyperdense artery
+
+‘area that may regain near-normal density andmask stroke “fogging Intensity on ADC continues to rise, pseudo-normalies at 10-15 d,
+phenomenon” andthen surpasses that of suounding norma tissue
+Continued hyperintensity on T2FLAIR
+
+Chronic (3 wk) Encephalomalacia (parenchymal volume loss) appears as Hyperintensity on DWIZ/FLAIR progressively decreases
+bypoattenuation with negative mass effect ADC intensity remains elevated
++ carotid artery disease
+
+Multiple Sclerosis (see Neurology, N55)
++ best imaging modality: MRI has high sensitivity in diagnosing MS (>90%) but low specificity (71-74%)
+
+CNS Infections
+
++ herpes simplex encephalitis (see Infectious Diseases, ID18)
+
+= best imaging modality: Duplex (Doppler U/S)
+= other modalities: MRA or CTA if carotid angioplasty or endarterectomy is under consideration
+(conventional angiography reserved for inadequate MRA or CTA)
+
+characteristic lesion locations: juxtacortical (grey-white junction), periventricular, infratentorial, and
+spinal cord
+cerebral lesions typical of MS:
+involvement of the brainstem, cerebellum, and corpus callosum
+= “Dawson's fingers” refers to perivenular regions of demyelination that are seen to radiate outwards into Figure 36. DWI of patient with right
+the deep periventricular region frontotemporal infarct
+= plaques usually hyperintense on T2, and hypointense on T1
+= perivascular and interstitial edema may be prominent; enhances with gadolinium contrast when
+actively inflamed
+spinal cord lesions typical of MS:
+* little or no cord swelling
+= less likely to enhance with gadolinium contrast
+= incomplete involvement of the cord in cross-section (dorsolateral common)
+
+meningitis
+= pathogenesis: inflammation of the pia or arachnoid mater, most often secondary to hematogenous
+spread from infection or via direct seeding of organisms through areas not protected by the blood-brain
+barrier (choroid plexus or circumventricular organs)
+= pathogens include: S. pneumoniae, H. influenzae, N. meningitidis, L. monocytogenes
+best imaging modality: MRI (T2-weighted/FLAIR)
+findings:
++ meningeal enhancement (following the gyri/sulci and/or basal cisterns), hydrocephalus
+(communicating), cerebral swelling, subdural effusion
+= anormal MRI does not rule out leptomeningitis
+
+= pathogenesis: inflammation of the brain parenchyma secondary to infection with herpes simplex virus,
+asymmetrically affects the limbic regions of the brain (i. temporal lobes, orbitofrontal region, insula, Figure 37. T2-weighted FLAIR
+
+and cingulate gyrus) {A) sagittal (B) axial images of multiple sclerosis
+= best imaging modality: MRI (T1- and T2-weighted) with periventricular “Dawson's Fingers”
+= findings:
+
+* acute (within 4-5 d): asymmetric high intensity lesions on T2 MRI in temporal and inferior frontal
+lobes strongly suggestive
+
+* CT may show hypodensity in temporal lobe and insula; rarely basal ganglia involvement
+
++ long-term may show parenchymal loss to affected areas

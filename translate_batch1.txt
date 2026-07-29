@@ -1,0 +1,500 @@
+===== SECTION: intro =====
+MIS ‘Medical Imaging Toronto Notes 2025
+
+Approach to CXR
+
+Basics
+
++ ID: patient name, medical record number (MRN), sex, age
+
++ date of exam
+
++ markers: right and/or left
+
++ technique: view (e.g. PA, AP, lateral), supine or erect
+
++ indications for the study
+
++ comparison: date of previous study for comparison (if available)
+
+* quality of film: inspiration (10 posterior and 7 anterior ribs should be visible), penetration (thoracic
+spine should be visible), rotation (spinous processes should be equidistant from medial ends of clavicles),
+magnification (AP films magnify the heart), angulation (clavicles should be $ shaped)
+
+Analysis
++ tubes and lines: check position and be alert for pneumothorax or pneumomediastinum
++ soft tissues: neck, axillae, pectoral muscles, breasts/nipples, chest wall @
+= nipple markers can help identify nipples (may mimic lung nodules)
+= amount of soft tissue (check for any asymmetry), presence of masses, presence of air (subcutaneous Chest X-Ray Interpretation
+emphysema) Basics ABCDEF
++ abdomen (see Abdominal Imaging, M111) AP.PA or other view
+= free air under the diaphragm, air-fluid levels, distention in small and large bowel Body position/rotation
+= herniation of abdominal contents (i.e. diaphragmatic hernia) Confirm name
++ bones: cervical spine, thoracic spine, scapulae, ribs, sternum, clavicles, proximal humerus ney
+« lytic and sclerotic lesions, fractures Films for comparison
++ mediastinum: trachea, heart, great vessels
+= cardiomegaly (cardiothoracic ratio >0.5 on PA), tracheal shift, tortuous aorta, widened mediastinum ternal
++ hila: pulmonary vessels, mainstem and segmental bronchi, lymph nodes fe)
+: Pl ry vessels, mail gm ‘yp! Bones and Breast shadows
++ lungs: parenchyma, interstitium, pleura, diaphragm Cardiac silhouette and Costophrenic
+= abnormal lung opacity, pleural effusions, or thickening angle
++ right hemidiaphragm usually higher than left due to liver Be SUR TENS!
+= right vs. left hemidiaphragm can be discerned on lateral CXR due to heart resting directly on left Fields (ung fields)
+hemidiaphragm
++ please refer to the coloured atlas at www.torontonotes.ca for supplementary material on how to approach a
+CXR
+Anatomy
+Legend
+
+al anterior strib
+
+a2 anterior 2ndrib
+
+aa aorticarch
+
+pw —aorto-pulmonary window
+as anteriorairspace
+
+ca carina
+clavicle
+
+€ —_coracoid process
+
+cpa _—_costophrenic angle
+di diaphragm
+
+9 gastric bubble
+
+ive inferiorvenacava
+
+la leftatrium
+
+Ir left mainstem bronchus
+Ipa—_left pulmonary artery
+Ww leftventricle
+
+mt majortissure
+
+mi minortissure
+
+3 posterior 3rd rb
+
+4 posterior ath rib
+
+pa main pulmonary artery
+ra rightatrium
+
+tbr right mainstem bronchus
+tpa right pulmonary artery
+vy rightventricle
+
+sc scapula
+
+sp spinousprocess
+
+st sternum
+
+svc superior venacava
+
+tr
+
+vb
+
+PA view Lateral view tee
+
+vertebral body
+
+Figure 2. Location of fissures, mediastinal structures, and bony landmarks on CXR
+Note that anterior space is also commonly called retrostemal space
+-e 
+
+## Page 796
+
+===== SECTION: 796 =====
+
+MI6 ‘Medical Imaging
+
+we RUL
+PML
+r,t Wwe
+RML uw g
+RL R
+aL g
+Front AP Right-Lateral Back AP Left-Lateral 2
+
+RUL: Right Upper Lobe; RML: Right Middle Lobe; RLL: Right Lower Lobe; LUL: Left Upper Lobe; LLL: Left Lower Lobe
+Figure 3. Location of lobes of the lung
+
+Localizing Lesions for Parenchymal Lung Disease
++ silhouette sign: when two objects of the same radiodensity abut, they appear indistinguishable on imaging
+(i.e. the silhouette expected at an anatomical border due to difference in density disappears)
+«= can be used to identify lung pathology (consolidation, atelectasis, mass) and localize disease to specific
+lung segments
++ spine sign: on lateral films, vertebral bodies should appear progressively radiolucent (dark) as one moves
+
+down the thoracic vertebral column; if they appear more radiopaque, it is an indication of pathology (e.
+consolidation in overlying lower lobe)
+
++ air bronchogram: branching pattern of air-filled bronchi made visible on a background of opacification (i.e.
+
+solid or fluid-filled alveoli)
+
+Table 3. Localization Using the Silhouette Sign
+
+Interface Lost Location of Lung Pathology
+VCiight superior mediastinum UL
+
+Right heart border aML
+
+Right hemidiaphragm AL
+
+Aortic noite superior mediastinum we
+
+Left heart border Lingula
+
+Left hemidiaphragm Ww
+
+Chest Computed Tomography
+
+Approach to CT Chest
++ soft tissue window
+«= thyroid, chest wall, pleura
+« heart: chambers, coronary artery calcifications, pericardium
+= vessels: aorta, pulmonary artery, smaller vasculature
+«= lymph nodes: mediastinal, axillary, hilar
++ bone window
+= vertebrae, sternum, ribs: fractures, lytic lesions, sclerosis
++ lung window
+trachea: patency, secretions
+bronchi: anatomic variants, mucus plugs, airway collapse
+lung parenchyma: nodules, fibrosis, interstitial changes, consolidation, atelectasis
+pleural space: effusions, thickening
+
+Table 4. Types of CT Chest
+
+Advantage Disadvantage Contrast Indication
+Standard Scans flung very quickly (<1 min) Radiation + GR abnormality
++ high resolution reconstructions Pleural andmedastinal abnormatty
+Lung cancer staging
+Cancer follow-up
+Empyemaivs. abscess
+LowDose 1/5ththe radiation Decreased detail No Lung cancer screening
+Follow-up infections, lungtransplant, metastases
+mA lodinatedcontrasthighlightsvasculature (scan Contrastcan causesevere allergic Yes PE
+timed for maximum opacification of vessel _reactionand can causeacute Jorticaneurysms
+being studied) kidney injury Jotticdissection
+
+Toronto Notes 2025
+
+Figure 4. CT chest windows in axial
+view
+-e 
+
+
+===== SECTION: 797 =====
+
+MI7 ‘Medical Imaging Toronto Notes 2025
+
+Lung Abnormalities
+
+Atelectasis
++ pathogenesis: collapse of lung tissue due to restricted breathing, blockage of bronchi, external compression,
+or poor surfactant
++ findings
+= increased opacity of involved segment/lobe, vascular crowding, silhouette sign, air bronchograms
+= volume loss: fissure displacement, hilar/mediastinal displacement, diaphragm elevation
+= compensatory hyperinflation of remaining normal lung
+differential diagnosis
+= obstructive (most common): alveolar air distal to obstruction is resorbed causing alveolar collapse
++ postsurgical, endobronchial lesion, foreign body, inflammation (granulomatous infections,
+pneumoconiosis, sarcoidosis, radiation injury), or mucous plug (cystic fibrosis)
+compressive: tumour, bulla, effusion, enlarged heart, lymphadenopathy
+traction (cicatrization): due to scarring, which distorts alveoli and contracts the lung
+adhesive: due to lack of surfactant
++ hyaline membrane disease, prematurity
+= passive (relaxation): a result of air or fluid in the pleural space preventing full aeration
+« pleural effusion, pneumothorax
++ management: in the absence of a known etiology, persisting atelectasis must be investigated (i.e. CT chest or
+bronchoscopy) to rule out bronchogenic carcinoma centrally
+
+Consolidation
++ pathogenesis: air in alveoli replaced by fluid (transudate, exudate, blood), inflammatory exudates, protein,
+or tumour/tissue Figure 5. Atelectasis: RML collapse
+
++ findings
+
+* air bronchograms: lucent branching bronchi visible through opacification
+
+= airspace nodules: fluffy, patchy, poorly defined margins with later tendency to coalesce, may take on
+
+lobar or segmental distribution
+
+« silhouette sign (e)
++ differential diagnosis
+
+= fluid: transudate (pulmonary edema), blood (trauma, vasculitis, bleeding disorder, pulmonary infarct) _DDxof Airspace Disease
+
+= inflammatory exudates: bacterial infections, TB, allergic hypersensitivity alveolitis, COP (cryptogenic Pus (e.g. infections such as pneumonia)
+
+organizing pneumonia), allergic bronchopulmonary aspergillosis, aspiration, sarcoidosis Fluid (e.g, pulmonary edema)
+= protein: pulmonary alveolar proteinosis Blood (e.g. pulmonary hemorthage)
+= tumour: adenocarcinoma, lymphoma Cells (e.g. bronchioalveolar carcinoma,
+* management: varies depending on the pattern of consolidation, which can suggest different etiologies; lymphoma)
+should also be done in the context of clinical picture Protein (e.g. alveolar proteinosis)
+
+Interstitial Disease
++ pathogenesis: pathological process involving pulmonary interstitium (i.e. “lung scaffolding”)
++ findings
+. septal thickening: fine lines caused by thickened connective tissue septae (most commonly due to
+pulmonary edema or lymphangitis carcinomatosis)
++ these manifest on CXRas:
+— Kerley A: long thin lines in upper lobes
+— Kerley B: short horizontal lines extending from lateral lung margin
+— Kerley C: diffuse linear pattern throughout lung
+* nodular pattern: 1-5 mm well-defined or ill-defined nodules distributed throughout lung or with alung
+zone predominance
++ seen in metastases, pneumoconiosis, granulomatous disease (e.g. sarcoidosis, miliary TB)
+= reticular pattern: fine curvilinear opacities Figure 6. Air bronchograms in right
++ seen in interstitial lung diseases (pulmonary fibrosis) lung
++ watch for pneumothorax as a complication
+« reticulonodular: combination of reticular and nodular patterns
+= may also see signs of airspace disease (atelectasis, consolidation)
++ differential diagnosis
+= occupational/environmental exposure
++ inorganic: asbestosis, coal miner’s pneumoconiosis, silicosis, berylliosis, talc pneumoconiosis
++ organic: hypersensitivity pneumonitis, bird fancier’s lung, farmer’s lung (mouldy hay), and other
+organic dust
+= autoimmune: connective tissue diseases (e.g. rheumatoid arthritis, scleroderma, SLE, polymyositis,
+mixed connective tissue disease), IBD, celiac disease, vasculitis
+drug-related: antibiotics (cephalosporins, nitrofurantoin), NSAIDs, phenytoin, carbamazepine,
+fluoxetine, amiodarone, chemotherapy (e.g. methotrexate), immunotherapy, heroin, cocaine,
+
+methadone
+= infections: TB, non-tuberculous mycobacteria, certain fungal infections, viral infections
+= idiopathic: IPF, nonspecific interstitial pneumonia (NSIP), organizing pneumonia Figure 7. Consolidation: bacterial
+= for causes of interstitial lung disease classified by distribution, see Respirology, R13 pneumonia
+
++ management: high-resolution CT thorax and + open lung biopsy, multidisciplinary team discussions
+-e 
+
+
+===== SECTION: 798 =====
+
+MI8 Medical Imaging
+Pulmonary Nodule
++ findings
+
+= round opacity <3 cm (>3 cm is considered a mass) + silhouette sign
+= note: do not mistake nipple shadows for nodules; if in doubt, repeat CXR with nipple markers
++ differential diagnosis
+= extrapulmonary density: nipple, skin lesion, electrode, pleural mass, bony lesion
+= solitary nodule
+¢ tumour: carcinoma, hamartoma, metastasis, bronchial adenoma
+ infection/inflammation: histoplasmoma, tuberculoma, coccidioidomycosis
+« vascular: AV fistula, pulmonary varix (dilated pulmonary vein), infarct, septic embolus
+= multiple nodules: metastases, abscess, granulomatous lung disease (TB, fungal, sarcoid, rheumatoid
+nodules, silicosis, GPA), septic emboli
++ management: clinical information and CT appearance determine level of suspicion of malignancy
+« ifhigh probability of malignancy, invasive testing (transbronchial or CT-guided transthoracic biopsy) +
+PET/CT is indicated
+= iflow probability of malignancy, follow-up imaging as per Fleischner guidelines 2017
+
+Table 5. Characteristics of Benign and Malignant Pulmonary Nodules
+
+Malignant Benign
+Margin ll definedspiculatd (“corona radiata”) Wel-defined
+Contour Lobulated Smoath
+Calcification Eccentic or stippled Dittuse, central, popcorn, concentric
+Doubling Time 20-4604 <20dor>4604
+Other Features Cavitation, collapse, adenopathy, pleural effusion, lytic bone lesions,
+
+smoking history
+Sine “em som
+Cavitation Yes, especially with wal thickness >15 mm, eccentric cavity, andshaggy No
+
+internal margins
+Satellite Lesions No Yes
+
+Pulmonary Vascular Abnormalities
+
+Pulmonary Edema
++ pathogenesis: fluid accumulation in the airspaces of the lungs
++ findings
+= vascular redistribution/enlargement, cephalization, pleural effusion, cardiomegaly (may be present in
+cardiogenic edema and fluid overloaded states)
+fluid initially collects in interstitium
+loss of definition of pulmonary vasculature
+peribronchial cuffing
+Kerley B lines
+reticulonodular pattern
++ thickening of interlobar fissures
+= as pulmonary edema progresses, fluid collects in alveoli and causes diffuse airspace disease, often ina
+“bat wing” or “butterfly” pattern in perihilar regions (outermost lung fields tend to be spared)
++ differential diagnosis: cardiogenic (e.g. CHF), renal failure, volume overload, non-cardiogenic (e.g. ARDS)
+
+Pulmonary Embolism
++ pathogenesis: blockage in the pulmonary arteries due to emboli from pelvic or leg veins, rarely from central
+venous catheters, air, fat, or amniotic fluid
++ findings
+= generally not possible to definitively diagnose on plain film; diagnosis made by CT pulmonary
+angiography or ventilation/perfusion scintigraphy (VQ scan)
+= CXR: Westermark sign (localized pulmonary oligemia), Hampton's hump (triangular peripheral
+infarct), enlarged right ventricle and right atrium, atelectasis, pleural effusion, and rarely pulmonary
+edema
+= definitive imaging study: CT pulmonary angiography to look for filling defect in contrast-filled
+pulmonary arteries
+= VQ scan: can be used in patients with impaired renal function or in pregnancy
+
+Toronto Notes 2025
+
+Figure 8. Interstitial disease: fine
+reticular pattern
+
+Figure 9. Interstitial disease:
+medium reticular pattern
+
+Dx of Interstitial Lung Disease
+
+FASSTEN (upper lung disease)
+Farmer's lung (hypersensitivity
+pneumonitis)
+
+Ankylosing spondyfitis
+Sarcoidosis
+
+Silicosis
+
+Eosinophilic granuloma (Langerhans cell
+histiocytosis)
+Neurofibromatosis
+
+BAD RASH lower lung disease)
+Bronchiolitis obliterans organizing
+pneumonia (BOOP)
+
+Asbestos
+
+Drugs (nitrofurantoin, hydralazine,
+isoniazid, amiodarone, many
+chemotherapy drugs)
+Rheumatological disease
+Aspiration
+
+Scleroderma
+
+Hamman Rich and IPF
+
+Dx for Cavitating Lung Nodule
+
+WEIRD HOLES
+Wegener's (GPA)
+
+Embolic (pulmonary, septic)
+
+Infection (anaerobes, pneumocystis, TB)
+Rheumatoid (necrobiotic nodules)
+Developmental cysts (sequestration)
+Histiocytosis
+
+Oncological
+Lymphangioleiomyomatosis
+Environmental, occupational
+Sarcoidosis
+
+-e 
+
+===== SECTION: 799 =====
+## Page 799
+
+MIO ‘Medical Imaging
+
+Pleural Abnormalities
+Pleural Effusion
+
+Table 6. Sensitivity of Plain Film Views for Pleural Effusion
+
+X-Ray Projection Minimum Volume to Visualize
+Lateral decubitus 25ml:most sensitive
+
+Upright lateral 50 mL: meniscusseen in the posterior costophrenic sulcus
+PA 200 mi
+
+Supine Variable (May appear as itfuse haziness)
+
+Toronto Notes 2025
+
+ahorizontal fluid level is seen only in ahydropneumothorax (ie. both fluid and air within pleural cavity)
+effusion may exert mass effect, shift trachea and mediastinum to opposite side, or cause atelectasis of
+adjacent lung
+
+U/Sis superior to plain film for detection of small effusions and may also aid in thoracentesis; POCUS is
+now standard of care in acute situations
+
+Pneumothorax
+
++ pathogenesis: gas/air accumulation within the pleural space resulting in separation of the lung from the
+chest wall
+
+findings
+
+upright chest film allows visualization of visceral pleura as curvilinear line paralleling chest wall,
+separating partially collapsed lung from pleural air
+
+more obvious on expiratory (increased contrast between lung and air) or lateral decubitus films (air
+collects superiorly)
+
+more difficult to detect on supine film; look for the “deep (costophrenic) sulcus” sign, “double
+diaphragm” sign (dome and anterior portions of diaphragm outlined by lung and pleural air,
+respectively), hyperlucent hemithorax, sharpening of adjacent mediastinal structures
+
+contralateral tracheal and mediastinal shift may occur in tension pneumothorax
+
+differential diagnosis: spontaneous (tall and thin males, smokers), iatrogenic (lung biopsy, ventilation,
+central venous catheter insertion, thoracentesis), trauma (associated with rib fractures), emphysema,
+malignancy, honeycomb lung
+
+management: supplemental oxygen and observation, chest tube insertion in 5th ICS anterior axillary line,
+or emergent needle decompression in 2nd ICS midclavicular line if tension pneumothorax (followed by
+chest tube insertion); repeat CXR to ensure resolution
+
+Asbestos
++ asbestos exposure may cause various pleural abnormalities including benign plaques (most common; these
+may calcify), diffuse pleural fibrosis, effusion, and malignant mesothelioma
+
+Mediastinal Abnormalities
+
+Mediastinal Mass
++ Felson’s method of division outlines three compartments, which provides an approach to the differential
+diagnosis of a mediastinal mass
+anterior compartment is bordered anteriorly by the sternum and posteriorly by the heart and great vessels
+= 4s: thyroid, thymic neoplasm, teratoma, terrible lymphoma
+= cardiophrenic angle mass differential: thymic cyst, epicardial fat pad, foramen of Morgagni hernia
+middle compartment extends from the posterior border of anterior mediastinum to line 1 cm posterior to
+the anterior edge of thoracic vertebral bodies
+= esophageal carcinoma, esophageal duplication cyst, esophageal leiomyomas, metastatic disease,
+lymphadenopathy (all causes), hiatus hernia, bronchogenic cyst, aneurysm (aortic, pulmonary/
+bronchial artery), neurogenic tumour (vagal or phrenic nerve)
+posterior border (posterior to the middle line described above)
+= neurogenic tumour (e.g. neurofibroma, schwannoma), neurenteric cyst, thoracic duct cyst, lateral
+meningocele, Bochdalek hernia, extramedullary hematopoiesis, infection (paraspinal abscess)
+any compartment may give rise to lymphoma, lung cancer, aortic aneurysm or other vascular
+abnormalities, abscess, or hematoma
+
+Enlarged Cardiac Silhouette
++ heart borders
+= on PA view, right heart border is formed by right atrium; left heart border is formed by left atrium and
+left ventricle
+= onlateral view, anterior heart border is formed by right ventricle; posterior border is formed by left
+atrium (superior to left ventricle) and left ventricle
+
+Figure 10. LUL mass: bronchogenic
+carcinoma
+
+Figure 11. Peribronchial cuffing:
+interstitial edema
+
+Figure 12. Pleural effusion in lateral
+view
+
+Figure 13. Pneumothorax
+-e 

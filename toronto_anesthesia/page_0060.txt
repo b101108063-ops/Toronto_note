@@ -1,0 +1,146 @@
+A6 Anesthesia
+
+Aspiration
+
++ increased risk of aspiration with:
+not fasted appropriately (see Fasting Guidelines, AS)
+decreased LOC (drugs/alcohol, head injury, CNS pathology, trauma/shock)
+delayed gastric emptying (diabetes, narcotics, GLP-1 receptor agonist use)
+decreased sphincter competence (GERD, hiatus hernia, nasogastric tube, pregnancy, obesity)
+increased intra-abdominal pressure (pregnancy, obesity, bowel obstruction, acute abdomen)
+unprotected airway (LMA and any other supraglottic airway)
++ management
+= manage risk factors if possible
+« utilize protected airway (i.e. ETT)
+«= reduce gastric volume and acidity
+= employ RSI (see Rapid Sequence Induction, A16)
+
+Hematological Disorders
+
++ history of congenital or acquired conditions (sickle cell anemia, factor VIII deficiency, VWD, ITP, liver
+disease)
++ evaluate hemoglobin, hematocrit, and coagulation profiles when indicated (see Table 1, A4)
++ anemia
+= preoperative treatments to increase hemoglobin (PO or IV iron supplementation, erythropoietin, or
+pre-admission blood collection in certain populations)
++ coagulopathies
+= discontinue or modify anticoagulation therapies (warfarin, clopidogrel, ASA, apixaban, dabigatran) in
+advance of elective surgeries
+= administration of reversal agents if necessary: vitamin K, FFP, PCC, recombinant activated factor VII
+
+Endocrine Disorders
+
++ DM
+= darify type 1 vs. type 2
+« clarify treatment - oral anti-hyperglycemics and/or insulin
+= assess glucose control with history and HbA\c; patients with well-controlled diabetes have more stable
+glucose levels intraoperatively
+= end organ damage: be aware of damage to cardiovascular, renal, and central/peripheral/autonomic
+nervous systems
+. preoperative guidelines for DM:
++ verify target blood glucose concentration with frequent glucose monitoring: <10 mmol/L in critical
+patients, <7.8 mmol/L in stable patients
+use insulin therapy to maintain glycemic goals
+hold biguanides, a-glucosidase inhibitors, thiazolidinediones, sulfonylureas, and GLP-1 agonists on
+the morning of surgery
++ consider canceling non-emergency procedures if patient presents with metabolic abnormalities (e.g.
+DKA, HHS, etc.) or glucose reading above 22.2-27.7 mmol/L
+— formulate intraoperative glucose management plan based on type (1 vs. 2), glucose
+control, and extent of end organ damage
++ hyperthyroidism
+= can experience sudden release of thyroid hormone (i.e. thyroid storm) if not treated or well-controlled
+preoperatively
+= treatment: B-blockers and preoperative prophylaxis
++ adrenocortical insufficiency (e.g. Addison's, exogenous steroid use)
+= consider intraoperative steroid supplementation
+
+Obesity and Obstructive Sleep Apnea
+
++ assess for comorbid conditions and administer testing to characterize the severity, if needed
++ severity of OSA may be determined from sleep studies and prescribed pressure set tings of home CPAP
+device
+
+Toronto Notes 2025
+
+@
+
+Implementation ofa Comprehensive Patient Blood
+Management Program forHospitalied Patients ata
+Large United States Medical Center
+
+Mayo Cin Pro. 2021:96(12}2980
+
+Purpose: To assess changes to utizaton of inpatient
+transfusion andthe associated outcomes with
+implementation of a Patient Blood Management
+Program.
+
+Methods: An observational study was conducted
+between 2010and 207 atamajorUS academic
+centre, Transtsion usage and clinical outcomes were
+assessed.
+
+Results: 400998 admissions were assessed. Overall
+usage of inpatient transfusion decreased from 607
+40405 pe 1000 admissions. Ase ngth of stayin
+hospital and in-hospital adverse events decreased,
+Conclusion: This study exhibits that hospital-wide
+patient blood management protocols esti an overal
+decrease in transtusion usage and improved clinical
+outcomes.
+
+Interventions fr Preoperative Smoking Cessation
+CochraneD8 yt Rev 20143:€0002294
+
+Purpose: Asses the effet of preoperative smoking
+intervention on smoking cessation atthe timeof
+surgery and 12 mo postoperatively, and onthe
+incidence of postoperative complications,
+
+Methods: 5jstematicrevew including RCT that
+recruited peoplewho smoked proto suger, offered
+a smoking cessation intervention, and measured
+‘eoperativeandong-em abstinence from smoking of
+the incidence of postoperative complications or both
+Results Thiten ras enoling 2010 participants
+ined Overall quality of evidencewas moderate
+Compared studies involving intensiveinerveton,
+viich included mut-sesion face to face counseling
+crcomputr-based scheduled interventions, brit
+interventions These wer pooled separately An effect
+cncessation atthe time of surgery was apparent in
+both subgroups, but the effect wage frintensive
+intervention, For ng em cessation, onl the intensive
+intervention showed effet. In those that had intensive
+intervention there was significant effin preventing
+any postoperative complications.
+
+Conclusion: Theres evidence tat preoperative
+smoking intervention providing behavioural support
+nd offering HRT increase shor-ermsmoking cessation
+and may reduc postoperative morbidity. Interventions
+that begin 4to 8 wk before surgery, incude weekly
+counseling, and use NT are mor litely to have an
+impacton complications and longterm smoking
+cessation.
+
+Preoperative Anemia and Postoperative Outcomesin
+Non-Cardiac Sugery: Retrospective Cohort Study
+Lancet 201;378:1396-1407
+
+Purpose: Assess effect of preoperative anemia on 30
+postoperative morbidity and mortal in patents
+undergoing major non-cardiac surgery
+
+Methods: Patients undergoing major non-cardiac
+surgeryin 2008 rom the American Collegeof Surgeons’
+National Surgical Ouaity Improvement Program
+database.
+
+Results 2745 adult patients. Postoperative
+‘moray at 30 was higher inpatients wth anemia
+than those without (OR 142, 95% C113141.54)
+Conclusion: Preoperative anemia, even oa mild
+degre, is independently associated with an increased
+risk of 30 d morbidity and mortality.
+

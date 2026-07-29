@@ -1,0 +1,79 @@
+NP13 ‘Nephrology Toronto Notes 2025
+
+= thiazides can help by paradoxically reducing urine output: thiazides induce hypovolemia stimulate
+proximal tubular reabsorption of sodium and water > less delivery of glomerular filtrate to the
+collecting duct + lower urine volume
+
+Potassium Homeostasis
+
+~98% of total body K* stores are intracellular
+normal serum K* ranges from 3.5-5.0 mmol/L
+in response to K* rise, rapid removal from ECF is necessary to prevent life-threatening hyperkalemia (K*
+>6.5 mEq/L)
++ insulin, beta-2 agonists and alkalemia increase K* movement into cells
+= aldosterone has a minor effect
++ K* excretion is regulated at the DCT and collecting ducts
+= K’ excretion = urine flow rate x urine [K*]
+
+Factors which Increase Renal K’ Loss
+
++ hyperkalemia
+
++ increased distal tubular urine flow rate and Na’ delivery (thiazides and loop diuretics)
+
++ increased aldosterone activates epithelial sodium channels in cortical collecting duct, causing Na*
+reabsorption and K* excretion
+
+metabolic alkalosis (increases K* secretion)
+
+hypomagnesemia
+
+increased non-resorbable anions in tubule lumen: HCOs”, penicillin, salicylate (increased tubular flow rate
+increases K* secretion)
+
+Hypokalemia
+
+Definition
++ serum [K‘] <3.5 mEq/L
+
+Signs and Symptoms
+usually asymptomatic, particularly when mild (3.0-3.5 mmol/L)
+nausea/vomiting, fatigue, generalized weakness, myalgia, muscle cramps, and constipation
+if severe: arrhythmias, rhabdomyolysis, myoglobinuria, and rarely paralysis with eventual impairment of
+ventilation
+arrhythmias occur at variable levels of K*; more likely with, hypomagnesemia, CAD or digoxin use
+ECG changes are more predictive of clinical picture than serum [K*]
+= U waves most important (low amplitude wave following a T wave)
+= flattened or inverted T waves
+«= depressed ST segment
+«= prolongation of Q-T interval
+«= sinus bradycardia
+= with severe hypokalemia: P-R prolongation, wide QRS, arrhythmias; increases risk of digitalis toxicity
+
+= common arrhythmias seen with hypokalemia: ventricular fibrillation, ventricular tachycardia ie}
+1 2 3 4 5
+8 Hypokalemia is often accompanied by
+> > § metabolic alkalosis:
+2 Ke shifts from cells to ECF; H’ shifts into
+2 cells in response
+Normal Uwave Uwave Progression Plasma [HCO] increases, while
+- - - intracellular pH decreases
+Figure 7. ECG changes in hypokalemia In response to low pH, renal tubular ces
+‘secrete H’ into lumen, and increase renal
+Approach to Hypokalemia Reston sion of marino
+L emergency measures if K* <2.5 mEq/L: obtain ECG; if potentially life threatening, begin treatment aoe
+immediately
+2. rule out transcellular shifts of K* as cause of hypokalemia
+3. assess contribution of dietary K’ intake
+4, spot urine K:Cr
+
+» if <1.5 mEq/mmol, consider GI loss
+= if >1.5 mEq/mmol, consider a renal loss
+
+. consider 24 h K* excretion
+
+if renal K* loss, check BP and acid-base status
+
+may also assess plasma renin and aldosterone levels, serum (Mg”]
+
+Naw

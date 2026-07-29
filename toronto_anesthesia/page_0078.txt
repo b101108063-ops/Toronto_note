@@ -1,0 +1,167 @@
+A24 Anesthesia
+
+Local Infiltration and Hematoma Blocks
+
+Local Infiltration
+
++ injection of tissue with LA, producing a lack of sensation in the infiltrated area due to LA acting on nerves
+
++ suitable for small incisions, suturing, and excising small lesions
+
++ can use fairly large volumes of dilute LA to infiltrate a large area
+
++ low concentrations of epinephrine (1:100000-1:200000) cause vasoconstriction, thus reducing bleeding and
+prolonging the effects of LA by reducing systemic absorption
+
+Fracture Hematoma Block
+
+special type of local infiltration for pain control during manipulation of certain fractures
+hematoma created by fracture is infiltrated with LA to anesthetize surrounding tissues
+sensory blockade may only be partial
+
+no muscle relaxation
+
+Topical Anesthetics
+
+various preparations of LAs available for topical use, which may be a mixture of agents (e.g. EMLA* cream
+is a combination of lidocaine 2.5% and prilocaine 2.5%)
++ must beable to penetrate the skin or mucous membrane
+
+Postoperative Care
+
++ pain management should be continuous from OR to PACU to hospital ward and home
+
+Common Postoperative Anesthetic Complications
+
+Uncontrolled/Poorly Controlled Pain
++ See below
+
+Nausea and Vomiting
+
++ hypotension and bradycardia must be ruled out
+
++ pain and surgical manipulation also cause nausea
+
++ often treated with dimenhydrinate (Gravol*), ondansetron (Zofran’), granisetron (Kytril"), dexamethasone
+(Decadron’), metoclopramide (Maxeran’; not with bowel obstruction), prochlorperazine (Stemetil’),
+haloperidol (Haldol")
+
+Confusion and Agitation
+
++ ABCs first - confusion or agitation can be caused by airway obstruction, hypercapnia, hypoxemia
++ neurologic status (Glasgow Coma Scale, pupils), residual paralysis from anesthetic
+
++ pain, distended bowel/bladder
+
++ fear/anxiety/separation from caregivers, language barriers
+
+metabolic disturbance (e.g. hypoglycemia, hypercalcemia, hyponatremia — especially post-TURP)
+intracranial cause (e.g. stroke, raised ICP)
+
+drug effect (e.g. ketamine, anticholinergics, serotonin, benzodiazepines, opioids)
+
+elderly patients are more susceptible to postoperative delirium
+
+Respiratory Complications
+
+susceptible to aspiration of gastric contents due to PONV and unreliable airway reflexes
+
++ airway obstruction (secondary to reduced muscle tone from residual anesthetic, soft tissue trauma and
+edema, or pooled secretions) may lead to inadequate ventilation, hypoxemia, and hypercapnia
+
+airway obstruction can often be relieved with head tilt, jaw elevation, and anterior displacement of the
+
+mandible. If the obstruction is not reversible, a nasal or oral airway may be used
+
+Hypotension
+
++ must be identified and treated quickly to prevent inadequate perfusion and ischemic damage
+
++ reduced cardiac output (the most common cause is hypovolemia) and/or peripheral vasodilation (e.g.
+residual anesthetic agent)
+
++ first step in treatment is usually the administration of fluids + vasopressor agents
+
+Hypertension
+
++ pain, hypercapnia, hypoxemia, increased intravascular fluid volume, and sympathomimetic drugs can
+cause hypertension
+
++ IVnitroglycerin, hydralazine, calcium channel blockers, or B-blocking drugs (e.g. esmolol and metoprolol)
+can be used to treat hypertension
+
+Toronto Notes 2025
+
+Local Anesthetics and Regional
+‘Anesthesia vs. Conventional Analgesia for
+Preventing Persistent Postoperative Pain
+in Adults and Children
+
+Cochrane DB Syst Rev 2018;6:CD007105,
+
+Purpose: Compare LAand Rvs conventional
+anesthesia forthe prevention of persistent
+
+pesto peratve pain PPP) beyond 3mo.
+
+Methods Searched CENTRAL MEDLINE and Embaseto
+December 2016, RTs comparing RAs. conventional
+anesthesia were induded
+
+Results: Total 63 RCTs inchded, Data on RA forthe
+prevention of PPP beyond 3 moar surgery from
+
+39 studies, enroling total of 3027 participant
+inchsive ana sis Moderate quality evidence favoring
+Rover conventional for thoracotomy, C-section (OR
+(052and0R0.46 respetveh) Moderate qualty
+eden showing the infusion of NV LAfor the
+prevention of PPP3-6 moafterbeastcancesugery
+wih an ORof 0.24, Low quay eviencein RA forthe
+evento of PPP312 mo ater breast cance sugery
+veithan ORof 043.
+
+Conclusions: There is moderate-quaty evidence that
+‘A may reduce the risk of developing PPP after 318
+rmnafterthoracotomy and 3-12 mo after caesarean
+section. Further studies inclding lage populations
+are needed
+
+Risk Factors for PONV
+Young age"
+
+Female’
+
+History of PONV or motion sickness*
+Non-smoker*
+
+Use of perioperative opioids*
+
+Type of surgery: ophtho, ENT, abdo/pelvic,
+plastics
+
+Type of anesthetic: NO, opioids, volatile
+agents
+
+"These actors eer tothe Apteltol or PONY isk
+strattication and management
+
+See Landmark Anesthesiology Tra tableformore
+information on results from the IMPACT il which
+compares th efficacy of six well-established
+‘ophylactic antiemetic interventions in patents
+Scheduled to undergo electvesurgery during general
+anesthesia at high isk or postoperative nausea and
+vomiting.
+
+See Landmark Anesthesiology Tra tableformore
+information on rests from the DREAMStral, which
+details the effect of preoperative dexamethasone
+administration inpatients with postoperative voting
+
+fe)
+
+See Landmark Anesthesiology Tra tablformore
+information onthe BALANCEDLT tra, which compares
+al-cuse-yrmortalityinlightvs. dep Ghin patients
+having major surgery.

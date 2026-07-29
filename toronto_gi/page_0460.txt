@@ -1,0 +1,137 @@
+G26 Gastroenterology
+
+= ozanimod: an oral sphingosine-1-phosphate receptor modulator used for treating moderate-to severe
+UC
++ does not require previous failure of immunosuppressants, glucocorticoids, biologics, or other small
+molecules
+increases clinical remission rates compared to placebo
++ surgical treatment (restorative)
+= aim for cure with colectomy; bowel continuity can be restored with ileal pouch-anal anastomosis
+(IPAA)
+= indications: failure of adequate medical therapy, toxic megacolon, uncontrollable bleeding, pre-
+cancerous changes detected either by endoscopy or endoscopic biopsies (dysplasia), inability to taper
+corticosteroids, overt malignancy
+
+Complications
++ similar to CD, except:
+
+= more liver problems (especially PSC in men)
+
+= greater risk of colorectal cancer
+
+risk increases with duration and extent of disease (5% at 10 yr, 15% at 20 yr for pancolitis; overall
+
+relative risk is 8%)
+risk is increased in patients with chronic, active mucosal inflammation
+thus, regular colonoscopy with surveillance biopsies and/or chromoendoscopy is indicated in
+pancolitis of 28 yr
+patients with coincident PSC have a 5-fold risk of colon cancer versus those with UC alone. Patients
+with UC and PSC require annual surveillance colonoscopy with biopsy and/or chromoendoscopy
+annually
+patients with proctitis alone have the same risk for colon cancer as the general population
+= toxic megacolon (transverse colon diameter >6 cm on abdominal x-ray) with immediate danger of
+
+perforation (see General Surgery and Thoracic Surgery, GS45)
+
+Prognosis
++ chronic relapsing pattern in most patients
++ 10-15% chronic continuous pattern
++ >1 attack in almost all patients
++ more colonic involvement in the Ist yr correlates with increased severity of attacks and increased colectomy
+rate
+= colectomy rate = 1% for all patients after the Ist yr; 20-25% eventually undergo colectomy
+normal life ex, ectancy
+if proctitis only, usually benign course, lifetime risk of extension is 15%
+fecal calprotein is a useful stool surrogate marker of bowel mucosal inflammation, that can be utilized as a
+follow-up marker for disease activity
+
+oe
+
+Irritable Bowel Syndrome
+
+Definition
++ a disorder of gut brain interaction characterized by the presence of abdominal pain and alteration in bowel
+habit
+
+Epidemiology
+
++ 5-7% worldwide prevalence
+
++ onset of symptoms usually in young adulthood
++ FoM
+
+Clinical Features
++ Rome IV Criteria are used for diagnosis
++ diagnosis is based chiefly on history; no specific diagnostic test available
+
+Pathophysiology
+multifactorial in nature and can vary between patients
+disorder of the gut-brain axis
+hallmark in most patients is the presence of visceral hypersensitivity
+patients often have alterations in central processing of pain signals coming from the gut
+increasing evidence of immune cell dysfunction, changes in intestinal permeability, changes in gut
+serotonin signaling and/or alterations in the gut microbiome in some patients with IBS
+altered GI motility can be seen in a subset of patients with IBS but not all patients with IBS
+psychological factors can contribute to the development and severity of IBS. Presence of early life
+trauma/adversity, a diagnosis of anxiety/depression, exposure to chronic stressors are risk factors for the
+development of IBS
+4 subtypes of IBS that are determined based on the patient’s predominant stool form using the Bristol Stool
+Chart
+«= IBS-D: IBS with predominant diarrhea
+«= IBS-C: IBS with predominant constipation
+«= IBS-M: IBS-mixed with both diarrhea and constipation (each >25% of all abnormal bowel movements)
+«= IBS untyped: insufficient abnormalities to be IBS-C, D, or M
+
+Toronto Notes 2025
+
+When Considering Complications of IBD,
+Think:
+
+ULCERATIVE COLITIS
+Urinary calculi
+
+Liver problems
+
+Cholelithiasis
+
+Epithelial problems
+
+Retardation of growth/sexual maturation
+Arthralgias:
+
+Thrombophiebitis
+
+Iatrogenic complications
+
+Vitamin deficiencies
+
+Eyes
+
+Colorectal cancer
+
+Obstruction
+
+Leakage (perforation)
+
+Iron deficiency
+
+Toxic megacolon
+
+Inanition (wasting)
+
+Strictures
+
+Emerging Biologic Treatments for
+
+Ulcerative Colitis
+
+GenericName — BrandName —Majorstudy
+
+Ustekinumad —Stelara™ NEJM 2019;
+aenoveM
+
+Vedoliuma —Entyio™ ——— NEJM2019;
+3112154226
+
+Adalimumad —Humira NEJM 2019;
+31215-4226

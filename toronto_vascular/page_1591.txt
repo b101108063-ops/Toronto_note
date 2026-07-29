@@ -1,0 +1,85 @@
+sil ‘Vascular Surgery
+
+ulceration: usually above the medial malleolus (gaiter area), shallow, wet/weeping, painless, and have
+irregular edges
+
+CEAP CS for healed ulcer with no open wound, while CEAP C6 indicates an active, open venous ulcer
+recurrent superficial thrombophlebitis and DVT
+
+bleeding or hematoma of varicosities secondary to trauma
+
+Table 4. CEAP Classification of Venous Disease
+
+Clinical Etiological ‘Anatomical Pathophysiological
+
+CO Nodinical signs of disease Ee Congenital As Superticialveins Pr Reflux
+
+C1 Telangiectasia or reticular veins Ep Primary ‘Ap Perforatingveins Po Obstruction
+
+(2 Varicose veins Es Secondary ‘Ad Deep veins Pro Reflux+ obstruction
+
+(3 Edema En Noetiology identified ‘kn Novenous location Pn Noppathophysiology
+identified identified
+
+(A: Skin changes:
+
+Ca Eczema, pigmentation
+
+4b Lipodermatosclerosis or atrophie
+blanche
+
+(5 Healed venous ulcers
+6 Activevenous ulcers
+S$ Symptomatic
+A___Asymptomatic
+
+Investigations
++ ABI (pre-compression to ensure no arterial disease)
++ venous Doppler U/S or DUS
+
+Treatment
+* conservative
+= elastic compression stockings, ambulation, periodic rest-elevation, avoid prolonged standing
+= ulcers: wound care using multilayer compression bandage + antibiotics + debridement PRN
+= medical treatments are variable, e.g. pentoxifylline for venous ulcer healing, flavonoids (e.g. diosmin)
+for pain, etc.
++ surgical
+= surgical destruction of vein with partial or complete removal; techniques include vein ligation/
+stripping, phlebectomy, perforator ligation
+indications for surgery:
+= documented reflux at the saphenofemoral or saphenopopliteal junction by DUS or Doppler U/S
+= failed trial of conservative treatment for >3 mo
+= signs of CVI (eczema, pigmentation, lipodermatosclerosis, ulceration) or complications associated
+with varicosities (ulceration due to venous stasis, hemorrhage from superficial varicosity, recurrent
+superficial thrombophlebitis, stasis dermatitis, varicose eczema, lipodermatosclerosis, unremitting
+edema/pain affecting quality of life and requiring chronic analgesia)
+10 yr postoperative recurrence of 20%
+endovenous: laser therapy, radiofrequency ablation, foam/liquid/glue sclerotherapy
+
+ymphedema
+
+Definition
++ Progressive swelling of a limb due to impaired lymphatic drainage distally to proximally, resulting in
+accumulation of interstitial fluid and fibroadipose tissue
+
+Etiology
++ primary
+= congenital lymphedema (e.g, Milroy disease, Turner syndrome): presents age <2
+«= lymphedema praecox (75% of primary cases): presents in adolescence at onset of puberty
+= lymphedema tarda: presents age >35
++ secondary: due to an obstruction occluding the proximal lymphatic vessels or lymph nodes
+= outside pressure compressing the lymphatic lumen:
+malignancy: axillary, groin or pelvic tumors
++ chronic venous insufficiency: high venous pressure and fluid overload can impair the lymphatic
+drainage
+= damage tolymphatic vessel walls
+inflammation: rheumatoid arthritis, dermatitis, psoriasis, sarcoidosis
+* traumatic injury/burns
+
++ iatrogenic: radiation/surgery (axillary, groin lymphadenectomy) (leading cause in North America),
+
+vein surgery, lymph node dissection, scarring
+= patients who develop lymphedema after axillary lymph node dissection are at increased risk for
+developing angiosarcoma
+
+Toronto Notes 2025

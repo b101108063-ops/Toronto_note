@@ -1,0 +1,143 @@
+Toronto Notes 2025
+
+OT10 Otolaryngology
+Table 4. The Interpretation of Tuning Fork Tests ©
+Examples Weber Rinne
+Normal or bilateral SNHL Central ‘AC>BC (+) bilaterally FrequencyofTuning — MinimumHearingLoss
+Right-sided CHL, normal left ear Lateraizes right BO>AC (-)right Fox ima) oe
+Right-sided SNHL, normal leftear Lateralizesleft ‘AC>BC (+) bilaterally Rinne) (4B)
+Right-sided severe SNHL or dead rightear, Lateralizesleft BO>AC (-) right” 26 8
+normal left ear 52 »
+“Avibatng tuning fork onthe mastoid stimulates the cochlea itera, therefore, mts ase, het caclen stimulated he ine testo the right (9. false negate tet). toe 6
+Tesetestsare nol wld the er cana ae obstructed ceraen 9 wil cee conductive bss)
+Pure Tone Audiometry
++ a threshold is the lowest intensity level at which a patient can hear the tone 50% of the time (ie)
++ thresholds are obtained for each ear at frequencies of 250, 500, 1000, 2000, 4000, and 8000 Hz Ronn of Frequencies Audible to Human
++ AC thresholds are obtained with headphones and measure outer, middle, inner ear, and auditory nerve Penge of Frequencies Audible
+function 20 to 20000 Hz
+
++ BC thresholds are obtained with bone conduction oscillators, which bypass the outer and middle ear
+
+Degree of Hearing Loss
+
++ determined on basis of the pure tone average at 500, 1000, and 2000 Hz
+
+‘Audiogram Legend
+fora Left Ear
+
+x ‘AC Unmasked
+BC Unmasked
+‘AC Masked
+] = BCMasked
+
+Audiogram
+Left Ear X Right Ear 0
+
+Frequency in Hertz (Hz)
+
+250 500 1000 2000 4000 8000
+
+250 500 1000 2000 4000 8000
+
+125 250 500 1000 2000 4000 8000
+“0 0 10
+
+Norffa Hari o 0 0
+oe 0 0 oy
+nF | 20 2
+
+908 30 30
+
+405 40 40
+
+508 50 50
+
+60 5 © 60
+
+108 r) 7)
+
+80g 80 80
+
+90 | 90 Ey
+
+100 & 100 100
+
+110 10 n0
+
+20 120 120
+
+A. Normal Audiogram
+
+250 500 1000 2000 4000 8000
+
+250 500 1000 2000 4000 8000,
+
+B. Conductive Hearing
+Loss (Otitis Media)
+
+250 500 1900 2000 4000 8009,
+
+10 =
+
+0 oO
+
+0 0
+
+20 20
+
+30 30
+
+40 40
+
+IL. 50 50
+
+60 6
+
+7 70
+
+80 80
+
+0 90
+
+100 100
+
+110 110
+
+t - 120 - = 120
+C. Conductive Hearing D. Sensorineural
+Loss (Otosclerosis) Hearing Loss
+
+(Noise Induced)
+
+E. Sensorineural
+Hearing Loss
+(Presbycusis)
+
+‘Most sensitive frequencies: 1000 to 4000
+He
+
+Range of human speech: 500 to 2000 Hz
+
+HL occurs most often at higher frequencies.
+Noise-induced (occupationa) HL is
+dassicaly seen at 4000 Hz (Bollermaker’s
+notch). HL associated with otosclerosis is
+seen at 2000 Hz (Carhart's notch)
+
+Figure 16. Types of hearing loss and associated audiograms of a left ear
+PURE TONE PATTERNS
+
+4. Conductive Hearing Loss (see Figures 16B and 16C)
++ BCin normal range
+
++ AC outside of normal range
+
++ gap between AC and BC thresholds >10 dB (an air-bone gap)
+
+2. Sensorineural Hearing Loss (see Figures 16D and 16)
++ both air and bone conduction thresholds below normal
++ gap between AC and BC <10 dB (no air-bone gap)
+
+3. Mixed Hearing Loss
++ both air and bone conduction thresholds below normal
++ gap between AC and BC thresholds >10 dB (an air-bone gap)

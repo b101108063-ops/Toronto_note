@@ -1,0 +1,152 @@
+Ps4 Psychiatry
+
+17
+Neurodevelopmental Disorde
+
++ Attention Deficit Hyperactivity Disorder (see Pediatrics, Attention Deficit Hyperactivity Disorder, P31)
++ Autism Spectrum Disorder (see Pediatrics, Autism Spectrum Disorder, P30)
+
+Disruptive, Impulse Control, and Conduct Disorder
+
+Oppositional Defiant
+
+order
+
++ prevalence: 2-16%, M=F after puberty
+
+Diagnosis
++ pattern of negativistic/hostile and defiant behaviour for >6 mo, with 21 non-sibling, with >4 symptoms
+manifested in 3 areas of:
+
+angry/irritable mood: easily loses temper, touchy or easily annoyed, often angry and resentful
+argumentative/defiant: argues with adults/authority figure, defies requests/rules, deliberately annoys,
+blames others for their own mistakes or misbehaviour
+vindictiveness: spiteful or vindictive twice in past 6 mo
+
+= note: difference between normal behaviour and ODD is frequency of symptoms (most days if age <5 yr,
+
+weekly if age 25 yr) exceeds what is normative for one’s age, gender, culture
+
+behaviour causes significant distress or impairment in social, academic, or occupational functioning
+behaviours do not occur exclusively during the course of a psychotic, substance use, or mood disorder
+severity (mild/moderate/severe) according to number of settings in which symptoms are present
+diagnosis of disruptive mood dysregulation disorder supersedes ODD if criteria for both are met
+
+Clinical Features
+
++ first symptoms usually appear during preschool and rarely later than early adolescence
+
++ associated with poor school performance, few friends, strained parent/child relationships, risk of
+developing mood disorders later on, often precedes CD
+
+Treatment
+
+. parents parent management training, psychoeducation for parents and family
++ behavioural therapy: to teach, practice, and reinforce prosocial behaviour
+
++ social: school/day-care interventions
+
++ pharmacotherapy for comorbid disorders
+
+Conduct Disorder
+
++ prevalence: 1.5-3.4% (M:F=4:1)
+
+Etiology
+
++ parental/familial factors: parental psychopathology (e.g. ASPD, substance use disorder), child-rearing
+practices (e.g. child abuse, discipline), low socioeconomic status (SES), family violence
+
++ child factors: difficult temperament, ODD, learning problems, ADHD, neurobiology
+
+Diagnosis
++ pattern of behaviour that violates rights of others and age appropriate social norms with 23 criteria noted
+in past 12 mo and 21 in past 6 mo:
+aggression to people and animals: bullying, initiating physical fights, use of weapons, forced sex, cruel
+
+to people and/or animals, stealing while confronting a person (ie. armed robbery)
+destruction of property: arson, deliberately destroying others’ property
+deceitfulness or theft: breaking and entering, conning others, stealing non-trivial items without
+confrontation
+violation of rules: out all night before age 13, often truant from school before age 13, runaway >2 times
+at least overnight or for long periods of time
+disturbance causes clinically significant impairment in social, academic, or occupational functioning
+
+= if218yr, criteria not met for ASPD
++ diagnostic types
+
+«= childhood-onset (21 criterion prior to age 10)
+
+= adolescent-onset (no criteria until age 10)
+
+= unspecified onset (insufficient information)
+
+= mild, moderate, severe
++ differential: ADHD, depression, head injury, substance misuse
+
+Toronto Notes 2025
+
+a
+
+AsystematicReview and Analysis of Long Term
+Outcomesin Attention Deficit Hyperactivity Disorder:
+Effects of Treatment and Non Treatment
+BMCMed2012:10:99,
+
+Purpose: To determine the ong termoutcomes of ADHD
+and whether there isan effect on long-term outcomes
+with treatment.
+
+Methods: Systematic review of studies, incding
+patents with diagnosed or symptomatic presentation
+fADHD, assigned to pharmacological, non-
+pharmacological, multi-modal treatments, ora
+1o-reatment contol. Outcome measuresinduded use!
+addictive behaviout, academic outcomes, antisocial
+behaviour, soil function occupation, sel-esteem,
+Atriving outcomes, service use, and obesity,
+
+Results Untreated participants with ADHD had
+
+poorer outcomes s.non-ADHD partcipantsin 74s
+(0-244) of studies, while 26% (89) showed similar
+‘outcomes, 72% 0-37 of studies showed a benefit from
+ADHD treatments untreated ADHD and 28% (0-15)
+showed no benef. Treatment of ADD was ound to
+
+be beneficial in studies looking at diving 100%),
+besty (100%), self-esteem (90%), social function
+(83%), academic outcomes (719, drug useladicive
+behaviour (67), antisocial behaviour (508), and
+occupation 23%).
+
+CCondusion: Overal, peopl wit ADD have poorer
+Jong-erm outcomes than contol (thas without
+ADHD), For thosewith ADE, treatment improves
+long-tem outcomes,
+
+Children with ODD like “RATs and BEARS”
+
+Rule breaker
+Annoying
+Temper
+
+Blames others
+Easily annoyed
+‘Argues with adults
+Resentful
+Spiteful/vindictive
+
+Conduct Disorder Diagnosis
+
+TRAP
+Theft: breaking and entering, deceiving,
+‘non-confrontational stealing
+
+Rule breaking: running away, skipping
+school, out late
+
+Aggression: people, animals, weapons,
+forced sex
+
+Property destruction

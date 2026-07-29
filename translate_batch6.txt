@@ -1,0 +1,345 @@
+===== SECTION: 811 =====
+## Page 811
+
+MRI Medical Imaging Toronto Notes 2025
+
+Selected Pathology
++ see Neurosurgery, NS4 for intracranial mass lesions CEL To Sea
++ see Neurosurgery, NS36 for head trauma and Plastic Surgery, PL31 for craniofacial injuries MAGIC DR
++ see Emergency Medicine, ER9 for spinal trauma Metastasis
++ see Neurosurgery, NS30 and Orthopedic Surgery, OR25 for degenerative spinal abnormalities Abscess
+Glioblastoma multiforme
+. Infarction (subacute/chronic)
+Cerebrovascular Disease (see Neurosurgery, NS22) Contusion/hematoma
++ pathogenesis of stroke: see Neurology, N51 Demyelinating disease (e.g. MS)
++ best imaging modality: MRI Radiation necrosis
+
+Table 17. Temporal Findings of Infarction with CT and MRI
+
+initial imaging modality: CT
+
+TimefromStroke Onset CT MRI
+
+Hyperacute (0-24) Usually normal within 6h Hyperintenity on DWI within minutes of arterial occlusion due to
+Edema (loss of grey-white matter differentiation —“insularribbon restriction of water movement indcativeof cytotoxic edema
+sign,” effacement of suki, mass effect) Hypointensiy on ADC within minutes
+Hyperattenuating artery “hyperdense MCA sign” representing Hyperintensity on T2UFLAIR approximately Gh after onset due to
+intravascular thrombus/embolimay be seen in ischemic stroke edema loss ofgrey-white matter differentiation, effacement of
+
+Aeute (24-1 wk) Increasing edema (seen ashypoattenuation) may resutin significant Continued hyperintenity on DW
+
+Hyperattenuating acute blood surrounded by edemamay beseenin suld, mass effect)
+hemorrhagic stroke
+
+positive mass effect Hypointensty on ADC reaches nadir at3-5 dand begins to
+increase
+Continued hyperintenity on T2FLAIR
+
+Figure 35. CT image of early infarct:
+
+Subacute (1-3 wk) Resolutionof edema leads to increased attenuation of infarcted Continued hyperintensity on DWI due to “T2 shine through” hyperdense artery
+
+‘area that may regain near-normal density andmask stroke “fogging Intensity on ADC continues to rise, pseudo-normalies at 10-15 d,
+phenomenon” andthen surpasses that of suounding norma tissue
+Continued hyperintensity on T2FLAIR
+
+Chronic (3 wk) Encephalomalacia (parenchymal volume loss) appears as Hyperintensity on DWIZ/FLAIR progressively decreases
+bypoattenuation with negative mass effect ADC intensity remains elevated
++ carotid artery disease
+
+Multiple Sclerosis (see Neurology, N55)
++ best imaging modality: MRI has high sensitivity in diagnosing MS (>90%) but low specificity (71-74%)
+
+CNS Infections
+
++ herpes simplex encephalitis (see Infectious Diseases, ID18)
+
+= best imaging modality: Duplex (Doppler U/S)
+= other modalities: MRA or CTA if carotid angioplasty or endarterectomy is under consideration
+(conventional angiography reserved for inadequate MRA or CTA)
+
+characteristic lesion locations: juxtacortical (grey-white junction), periventricular, infratentorial, and
+spinal cord
+cerebral lesions typical of MS:
+involvement of the brainstem, cerebellum, and corpus callosum
+= “Dawson's fingers” refers to perivenular regions of demyelination that are seen to radiate outwards into Figure 36. DWI of patient with right
+the deep periventricular region frontotemporal infarct
+= plaques usually hyperintense on T2, and hypointense on T1
+= perivascular and interstitial edema may be prominent; enhances with gadolinium contrast when
+actively inflamed
+spinal cord lesions typical of MS:
+* little or no cord swelling
+= less likely to enhance with gadolinium contrast
+= incomplete involvement of the cord in cross-section (dorsolateral common)
+
+meningitis
+= pathogenesis: inflammation of the pia or arachnoid mater, most often secondary to hematogenous
+spread from infection or via direct seeding of organisms through areas not protected by the blood-brain
+barrier (choroid plexus or circumventricular organs)
+= pathogens include: S. pneumoniae, H. influenzae, N. meningitidis, L. monocytogenes
+best imaging modality: MRI (T2-weighted/FLAIR)
+findings:
++ meningeal enhancement (following the gyri/sulci and/or basal cisterns), hydrocephalus
+(communicating), cerebral swelling, subdural effusion
+= anormal MRI does not rule out leptomeningitis
+
+= pathogenesis: inflammation of the brain parenchyma secondary to infection with herpes simplex virus,
+asymmetrically affects the limbic regions of the brain (i. temporal lobes, orbitofrontal region, insula, Figure 37. T2-weighted FLAIR
+
+and cingulate gyrus) {A) sagittal (B) axial images of multiple sclerosis
+= best imaging modality: MRI (T1- and T2-weighted) with periventricular “Dawson's Fingers”
+= findings:
+
+* acute (within 4-5 d): asymmetric high intensity lesions on T2 MRI in temporal and inferior frontal
+lobes strongly suggestive
+
+* CT may show hypodensity in temporal lobe and insula; rarely basal ganglia involvement
+
++ long-term may show parenchymal loss to affected areas
+-e 
+
+===== SECTION: 812 =====
+## Page 812
+
+MI22 ‘Medical Imaging
+= DDx: infarct, tumour, status epilepticus, limbic encephalitis
++ cerebritis/cerebral abscess
+= pathogenesis: an infection of the brain parenchyma (cerebritis) which can progress to a collection of
+pus (abscess), most frequently due to hematogenous spread of infectious organisms, commonly located
+in the distribution of the MCA
+= pathogens include: S. aureus (often in IV drug users, nosocomial), Streptococcus, Gram negative
+bacteria, Bacteroides
+= best imaging modality: MRI including DWI imaging series (abscess will be DWI positive); CT still used
+asa viable alternative
+= findings according to one of four stages of abscess formation:
+early cerebritis (1-3 d): inflammatory infiltrate with necrotic centre, low intensity on T1, high
+intensity on T2
+late cerebritis (4-9 d): ring enhancement may be present
+early capsule (10-13 d): ring enhancement
+late capsule (>14 d): well demarcated ring-enhancing lesion, low intensity core, with mass effect;
+considerable edema around the lesion, seen as hyperintensity on T2
+
+.
+
+eee
+
+usculoskeletal System
+
+Modalities
++ see Imaging Modalities, MI2 for advantages and disadvantages of the following:
+
+Plain Film/X-Ray
+
++ usually initial study used in evaluation of bone and joint disorders
+
++ indications: arthritis, fractures and dislocations, assessment of malunion or nonunion, orthopedic
+hardware, and bone lesions (initial)
+
++ minimum of two orthogonal views (usually AP and lateral) image the joint proximal and distal to injury
+site to ensure there is no associated dislocation or second fracture site, particularly important with bony
+rings (e.g. radius/ulna, tibia/fibula). Image joint above and below in bone lesions, especially if primary, to
+look for skip lesions
+
++ oblique views are helpful in trauma to look for subtle fractures
+
+soft tissue ment limited, but can identify calcification, hydroxyapatite deposition, ossification,
+
+swelling, joint effusions (elbow, knee, and ankle), soft tissue gas (osteomyelitis, necrotizing fasciitis), and
+
+radiodense foreign bodies
+
+cT
+
+evaluation of fine bony detail
+
+indications: preoperative assessment of complex, comminuted, intra-articular fractures, or detection of
+radiographically-occult fractures including scaphoid, skull, spine, pelvis, midfoot, and calcaneus
+evaluation of soft tissue calcification/ossification and bone tumours
+
+MRI
+
+indications: evaluation of internal derangement of joints (e.g. ligaments, joint capsule, menisci, labrum,
+cartilage), assessment of tendons and muscle injuries, characterization and staging of soft tissue and bony
+masses, infection of bone (osteomyelitis), occult fracture assessment
+
+whole body MRI is used to assess CRMO and enthesitis related arthritis in pediatrics, myeloma in adults,
+metastases (i.e. myxoid liposarcomas)
+
+Ultrasound
+
++ indications: tendon injury (e.g. rotator cuff, Achilles tendon), detection and characterization of soft tissue
+masses (i.e. cystic or solid), detection of foreign bodies, U/S-guided biopsy and injections, bone/joint
+
+evaluation pre- ossification (e.g. DDH in early months), dynamic imaging (i.e. snapping hip, extensor carpi
+
+ulnaris subluxation), small joint Doppler assessment for arthritis, assessment of nerves (e.g. cubital or
+
+carpal tunnel syndrome)
+
+in post injury or post operative setting where metallic objects or foreign debris obscure soft tissues in CT or
+
+MRI, if superficial enough, can be assessed on ultrasound
+
++ doppler determines vascularity of structures
+
+Nuclear Medicine (Primarily Bone Scan/Skeletal Scintigraphy)
+
++ determines the location and extent of bony lesions using radiopharmaceuticals (*mTc-methylene
+diphosphonate)
+
++ increased binding when increased blood supply to bone and/or high bone turnover (active osteoblasts)
+
++ indications: bone lesion characterization, occult fractures (spine, scaphoid, small bones), bone pain of
+unknown origin, staging or restaging of cancer with bony metastases (or primary bone cancer), imaging of
+polyarthritis, imaging of arthroplasty complications like loosening or infection, osteomyelitis imaging
+
+= when used to assess for osteomyelitis, usually done in combination with gallium or white blood cell
+scan
+
++ DDx of positive bone scan: bone metastases (primary breast, prostate, lung, thyroid), primary bone tumour,
+
+arthritis, fracture, infection, anemia, Paget’s disease
+
+Toronto Notes 2025
+
+Figure 38. T2-weighted (FLAIR)
+coronal image of herpes simplex
+virus encephalitis affecting temporal
+lobes
+
+Figure 39. CT image of late capsule
+cerebral abscess
+
+Well-demarcated smooth ring-enhancing lesion
+‘on CT with contrast, with mass effect and
+
+edema surrounding the lesion
+Case courtesy of Frank Gaillard, Radiopaedia.org,r1D:5150
+
+Characterization of Rotator Cut Tears: Ultrasound
+¥s. MagneticResonance maging
+
+Orthopedics 2017401240130
+
+Purpose: Determine whether USor MRIs more
+accurate and precise in evahating the characteristics of
+{ul thickness rotator cuftarsin surgical population.
+Methods: Review of patients who underwent repait
+cau thickness rotator uf tear overa ty period. Of
+these patients, 6thadboth preoperative MRI and UIS
+forreview. Thre radiologists evaluated each US and
+lina randomized, blinded fashion on 2ocasions.
+Tear size, retraction status, muscle atrophy, and fatty
+inftraton were anayzed and compared between the
+2modalies
+
+Results: US measurements were statistically smallerin
+both tearsze P=0.001) and retraction status (20.007)
+compared with MRI MR showed greater interobserver
+relat assessment of terse, reaction statis,
+and atrophy.
+
+Conclusion: independent observers are more likely to
+agree on measurements ofthe characteristic of rotator
+cafftearswhen using MRI compared with US As tear
+size increases, the 2image modalties show greater
+ditferencesin measurement ofteasize and retraction
+status. US may be best sed to identify tear, and MRI
+i superior for usein surgical planning for larger teas
+-e 
+
+===== SECTION: 813 =====
+## Page 813
+
+M3 Medical Imaging Toronto Notes 2025
+
+caution: bone tumours that do not elicit osteoblastic response are often occult on bone scan (myeloma,
+highly vascular tumours such as RCC, or thyroid carcinoma)
+
+Approach to Bone X-Rays
+
+identification: name, MRN, age of patient, type of study, region of investigation. Age is very important in
+choosing correct differential diagnosis.
+
+soft tissues: swelling, calcification/ossification, loss of soft tissue planes
+
+joints: alignment, joint space, presence of effusion, osteophytes, erosions, proliferative bony changes, bone
+density, overall pattern, symmetry of affected joint
+
+bone: periosteum, cortex, medulla, trabeculae, density, articular surfaces, bone destruction, bone
+production, appearance of the edges or borders of any lesions
+
+Figure 40. X-ray findings of first
+carpometacarpal joint: normal
+image (left) and osteoarthritis (right)
+Trauma with joint space narrowing and
+subchondral sclerosis
+
+Fracture/Dislocation
+
++ description of fractures
+
+« site of fracture (bone, region of bone, intra-articular vs. extra-articular)
+
+pattern of fracture line (simple vs. comminuted)
+
+displacement (distal fragment with reference to the proximal fragment)
+
+soft tissue involvement (calcification, gas, foreign bodies)
+
+type of fracture (stress vs. pathologic)
+
+for specific fracture descriptions and characteristics, see Orthopedic Surgery, ORS
+
+Arthritis
++ see Rheumatology for radiographic features of specific arthritides
+
+Bone and Soft Tissue Tumours
+
+Bone Tumours
+
+. penign bone lesions (e.g. hemangiomas, enostoses, enchondromas) are more common than malignant bone
+lesions
+
+primary bone tumours are rare after 3rd decade; metastases to bone are relatively common after 3rd decade
++ MRlis helpful for detection, characterization, staging, soft tissue involvement, and surgical planning
+
++ plain film is important for assessing pattern of destruction, mineralization, and aggressiveness.
+Remember: zone of transition, periosteal reaction, presence of soft tissue mass and cortical destruction in Figure 41. X-ray findings of
+
+all focal lesions to determine if lesion is aggressive or not aggressive. Benign processes such as Langerhans _Meumatoid arthritis (A) compared
+cell histiocytosis and infection can be aggressive with osteoarthritis (B)
+biopsy may be required if no primary is identified, or suspect primary bone tumour
+
+may present with pathological fractures or bone pain
+
+most common metastatic bone tumours: breast, prostate, lung
+
+for specific bone tumours, see Orthopedic Surgery, OR50
+
+Soft Tissue Tumours
++ soft tissue masses are most commonly benign
++ common benign soft tissue masses include lipomas, benign peripheral nerve sheath tumours, and vascular
+malformations
+soft tissue sarcomas are uncommon but require urgent workup and specialized treatment
+U/Sis helpful for differentiating lipoma from cyst from mass
+MRlis helpful for diagnostic workup
+if the mass is not clearly benign, biopsy or wide excision is required for diagnosis
+
+Margination Patterns of cortical Patterns of medullary _—_—Pericstealnew
+of lesions disturbance destruction bone formation
+e ©
+\ pared Expansile Permeative
+” ‘ be decreased density
+i = increased density
+Endosteal
+Thin im ot sealoping
+sclerosis
+Invisible
+margin
+= Moth-eaten
+Thickrimot l a
+sceoss 4
+
+Figure 42. Radiographic appearance of bone remodeling and destruction processes
+-e 

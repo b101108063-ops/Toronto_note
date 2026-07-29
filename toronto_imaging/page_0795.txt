@@ -1,0 +1,107 @@
+MIS ‘Medical Imaging Toronto Notes 2025
+
+Approach to CXR
+
+Basics
+
++ ID: patient name, medical record number (MRN), sex, age
+
++ date of exam
+
++ markers: right and/or left
+
++ technique: view (e.g. PA, AP, lateral), supine or erect
+
++ indications for the study
+
++ comparison: date of previous study for comparison (if available)
+
+* quality of film: inspiration (10 posterior and 7 anterior ribs should be visible), penetration (thoracic
+spine should be visible), rotation (spinous processes should be equidistant from medial ends of clavicles),
+magnification (AP films magnify the heart), angulation (clavicles should be $ shaped)
+
+Analysis
++ tubes and lines: check position and be alert for pneumothorax or pneumomediastinum
++ soft tissues: neck, axillae, pectoral muscles, breasts/nipples, chest wall @
+= nipple markers can help identify nipples (may mimic lung nodules)
+= amount of soft tissue (check for any asymmetry), presence of masses, presence of air (subcutaneous Chest X-Ray Interpretation
+emphysema) Basics ABCDEF
++ abdomen (see Abdominal Imaging, M111) AP.PA or other view
+= free air under the diaphragm, air-fluid levels, distention in small and large bowel Body position/rotation
+= herniation of abdominal contents (i.e. diaphragmatic hernia) Confirm name
++ bones: cervical spine, thoracic spine, scapulae, ribs, sternum, clavicles, proximal humerus ney
+« lytic and sclerotic lesions, fractures Films for comparison
++ mediastinum: trachea, heart, great vessels
+= cardiomegaly (cardiothoracic ratio >0.5 on PA), tracheal shift, tortuous aorta, widened mediastinum ternal
++ hila: pulmonary vessels, mainstem and segmental bronchi, lymph nodes fe)
+: Pl ry vessels, mail gm ‘yp! Bones and Breast shadows
++ lungs: parenchyma, interstitium, pleura, diaphragm Cardiac silhouette and Costophrenic
+= abnormal lung opacity, pleural effusions, or thickening angle
++ right hemidiaphragm usually higher than left due to liver Be SUR TENS!
+= right vs. left hemidiaphragm can be discerned on lateral CXR due to heart resting directly on left Fields (ung fields)
+hemidiaphragm
++ please refer to the coloured atlas at www.torontonotes.ca for supplementary material on how to approach a
+CXR
+Anatomy
+Legend
+
+al anterior strib
+
+a2 anterior 2ndrib
+
+aa aorticarch
+
+pw —aorto-pulmonary window
+as anteriorairspace
+
+ca carina
+clavicle
+
+€ —_coracoid process
+
+cpa _—_costophrenic angle
+di diaphragm
+
+9 gastric bubble
+
+ive inferiorvenacava
+
+la leftatrium
+
+Ir left mainstem bronchus
+Ipa—_left pulmonary artery
+Ww leftventricle
+
+mt majortissure
+
+mi minortissure
+
+3 posterior 3rd rb
+
+4 posterior ath rib
+
+pa main pulmonary artery
+ra rightatrium
+
+tbr right mainstem bronchus
+tpa right pulmonary artery
+vy rightventricle
+
+sc scapula
+
+sp spinousprocess
+
+st sternum
+
+svc superior venacava
+
+tr
+
+vb
+
+PA view Lateral view tee
+
+vertebral body
+
+Figure 2. Location of fissures, mediastinal structures, and bony landmarks on CXR
+Note that anterior space is also commonly called retrostemal space

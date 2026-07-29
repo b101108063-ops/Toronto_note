@@ -1,0 +1,74 @@
+OT30 Otolaryngology Toronto Notes 2025
+
+Recurrent Respiratory Papillomatosis
+
+Definition
++ small, benign wart-like growths (papillomas) in the respiratory tract
+
+Etiology
++ most commonly HPV types 6, 11, but can be caused by types 16, 18, 31, 33
++ possible hormonal influence, possibly acquired during delivery through birth canal
+
+Epidemiology
+
++ biphasic distribution
+« birth to puberty (most common laryngeal tumour)
+= adult-onset (age >12 yr)
+
+Clinical Features
+
++ progressive hoarseness, stridor, and respiratory distress; less commonly wheezing, chronic cough,
+recurrent pneumonia, dyspnea, hemoptysis, dysphagia, failure to thrive, apneic events
+
+can seed into tracheobronchial tree
+
+highly resistant to complete removal, high tendency of recurrence
+
+some juvenile papillomas resolve spontaneously at puberty
+
+may undergo malignant transformation to squamous cell carcinoma
+
+Investigations
+
++ flexible nasolaryngoscopy shows wart-like lesions with vascular core in supraglottic larynx and trachea
++ bronchoscopy with biopsy to confirm diagnosis and rule out malignancy
+
+chest x-ray followed by CT chest if indicated. Findings of pulmonary involvement require referral to
+respirology
+
+for high-risk patients, rule out TB, HIV
+
+Treatment
++ prevention using quadrivalent HPV recombinant vaccine
+* suspension microlaryngoscopy with laser removal and preservation of normal mucosa is gold standard (not
+curative, goal is improvement in voice and/or breathing)
+= preferably with CO2 or potassium titanyl phosphate (KTP) laser
+= other options include microdebridement and cold steel
++ consider systemic adjuvants if requiring >4 surgeries/yr. These include quadrivalent HPV recombinant
+vaccine, bevacizumab, cidofovir, interferon, indole-3-carbinol
++ PPLif concomitant GERD
+
+Laryngeal Carcinoma
+
++ see Neoplasms of the Head and Neck, OT35
+
+Definition ©
+
++ inflammation of salivary glands forotd enarebots SHH och
+Etiology
++ viral most common (mumps)
++ bacterial causes: S. aureus, S. pneumoniae, H. influenzae
++ obstructive vs. non-obstructive
+* obstructive infection involves salivary stasis and retrograde bacterial flow
+
+a . ‘Treatment of Sialadenitis (MASH)
+Predisposing Factors ae ey
++ anorexia/bulimia pre rr
++ Sjogren’ syndrome Foecctnus
++ Cushing’s syndrome, hypothyroidism, DM Heaton
+
+hepatic/renal failure
+medications that increase stasis: diuretics, tricyclic antidepressants, B-blockers, anticholinergics,
+antibiotics
+
+sialolithiasis (can cause chronic sialadenitis)

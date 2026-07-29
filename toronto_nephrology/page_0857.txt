@@ -1,0 +1,126 @@
+NP37 ‘Nephrology
+
+Table 15. Stages of CKD (KDIGO, 2024)
+
+Persistent Albuminuria Categories
+GFR mM R ry
+(mUminit.73m) <30mgig 30-300 malg >300mgig
+<3mg/mmol 330mgimmol >30mgimmol
+Normal to mildly Moderatelyincreased Severely increased
+
+inaeased
+GFRCategories Gt Normal or high 230
+(mUmin/t 73m?)
+a Mildlydecreased 60-89
+a Midlytomoderately 45-59
+decreased
+3b Moderately to 30-44
+severely decreased
+cl Severely decreased 15-29
+5 Kidney failure 15 (kidney failure)
+
+‘Classification isbased on cause, GFR, and amount of albuminuria
+Rate of progression and risk of complications are determined by the cause of CKD
+
+‘Green: low tsk (in other markers of kidn disease, no CK); Yellow: moderately increased risk; Orange: high sk; Red: very high isk,
+
+“D" isadded to G5 for patients requiring alysis
+
+‘Adapted rom: Kiney Disease: Improving Global Outcomes KDIGO) CKD Work Group. KDIGO2024 Clinical Practice Guideline forthe Evaluation and Mana gement of Chronic
+
+Kidney Disease. Kidney Int, 2024;105(45):St7-S314,
+
+Prevention of Progression
+
++ control of HTN, DM (HbA Ic <7%), cardiovascular risk factors (e.g. smoking cessation, physical activity,
+weight loss)
+
++ avoid nephrotoxins such as NSAIDs, COX2 inhibitors, IV contrast in patients with eGFR <60 mL/min/1.73 m*
+
++ address reversible causes of AKI
+
+Management
+* use a comprehensive approach to reduce risks of progression of CKD and its associated complications
+. diet, physical activity (at least 150 mins/wk, or as tolerated), weight management and stop use of tobacco
+roducts
+i preventing HTN and volume overload
+= low-protein diet with adequate caloric intake in order to limit endogenous protein catabolism;
+maintaining a protein intake of 0.8 g/kg body weight/d is suggested for adults with CKD G3-G5. Not
+recommended in children as protein is needed for growth. Literature is conflicted regarding use of
+protein restriction in certain other populations
+= Na* restriction (<2 g/d) if HTN, CHF, or oliguria are present
+= K° restriction (40-60 mmol/d), phosphate (1 g/d) for hyperkalemia and hyperphosphatemia
+respectively, reduce magnesium (avoid antacids; preventing uremia and potentially delaying decline in
+GFR) intake
++ medical
+= adjust dosages of renally excreted medications
+HTN: target SBP <120 mmHg, as per most recent guideline
+ACEI/ARB (target SBP 120 mmHg) in patients without kidney transplant; CCB/ARB (target BP 130/80
+mmHg) in patients receiving kidney transplant
+dyslipidemia: statins (target LDL <2 mmol/L)
+use a sodium-glucose cotransporter-2 inhibitor (SGLT2i); continue unless not tolerated or kidney
+replacement therapy initiated
+
++ indicated in patients with type 2 DM, CKD, and an eGFR +20 mL/min/1.73 m’, and in patients with
+CKD if eGFR +20 mL/min/1.73 m? with urine ACR +20 mg/mmol, or heart failure (irrespective of
+level of albuminuria)
+
++ along-acting glucagon-like peptide-1 receptor agonist (GLP-1 RA) should be used in adults with
+type 2 DM and CKD who have not achieved glycemic targets despite use of metformin and SGLT2i,
+or who are unable to use these agents
+
+— prioritize GLP-1 RA agents with documented CV benefits
+calcium and phosphate disorders
+
++ consider vitamin D and calcitriol (1,25-dihydroxy-vitamin D) for secondary hyperparathyroidism
+
++ calcium carbonate as a phosphate binder for hyperphosphatemia
+
++ sevelamer or lanthanum salts asa phosphate binder if both hypercalcemic and hyperphosphatemic
+
+¢ parathyroidectomy or cinacalcet for tertiary hyperparathyroidism (sensitizes parathyroid to Ca”,
+decreasing PTH)
+
+metabolic acidosis: sodium bicarbonate
+
+anemia: IV vs PO iron if TSAT <20% or ferritin <200 and an increase in Hb/decrease in ESA is
+desired; avoid IV in active systemic infections. Erythropoietin-Stimulating Agent (ESA) initiation
+if Hb <100, with target 95-110. Epoetin-alfa, or darbepoetin are erythropoiesis stimulating agents.
+Contraindications: active malignancy, history of stroke, history of malignancy
+
+platelet dysfunction: DDAVP if patient has clinical bleeding or invasive procedures
+
+dialysis (see Table 17, NP41)
+
+renal transplantation for end stage kidney disease
+
+Toronto Notes 2025
+
+Incidence of Etiolagies of CKD
+ou 29%
+m 2m
+Glomerulonepirits 9.9%
+Other Unknown u%
+Interstiialnephitiy, 4.0%
+Pyelonephrts
+Cystcmereditaryy 3.7%
+Congenital
+
+2%
+Management of Complications of CKD
+NEPHRON
+Low-Nitrogen diet
+
+Electrolytes: monitor K’
+pH: metabolic acidosis
+HIN
+
+RBCs: manage anemia with
+erythropoietin
+
+Osteodystrophy: give calciumbetween
+‘meals (to increase Ca”) and calcium with
+meals (to bind and decrease PO.)
+Nephrotoxins: avoid nephrotoxic drugs
+{ASA, gentamicin) and adjust doses of
+renally excreted medications

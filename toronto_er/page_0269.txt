@@ -1,0 +1,150 @@
+Toronto Notes 2025
+
+Table 15. Common Life-Threatening ECG Changes
+
+Pathology ECG Findings
+
+Dysthythmia
+
+Torsades de pointes Ventricular complexes in upward-pointing and downward-pointing continuum (160-250 bpm)
+
+Ventricular tachycardia 3ormore consecutive premature ventricular beats (100 bpm, ORS >120 ms)
+Ventricular flutter ‘Smoothsine wave pattern of similar amplitude (200 bpm)
+Ventricular fibration Erratic £6 tracing, no identiiablewaves
+Conduction
+2nd degree heartblock(Mobitz Type I) Constant PR interval, intermittently dropped ORS complex
+‘3rddegree heart block SR’ inV5 or V6
+Total AV dissociation, but stable PP andR-Rintervals
+Ischaemia
+STEMI ‘STelevation in leads associated with injured area of heart and reciprocal lead changes (depression)
+Metabolic
+Hyperkalemia Initaly tall F-waves
+Followed by PR prolongation, ORS widening, loss of P waves
+Finally, sinusoidal pattern and pulse electrical activity (PEAY Mbiasystole
+Hypokalemia Pwave flattening
+‘ORS complex widening and flattering
+Uwavesappear
+FlattenedT waves
+
+Digitalis Toxicity Range of arrhythmiasmay present (bidirectional VT ispathognomonic)
+Supravertricuar tachycardia
+
+Siow ventricular response
+
+Frequent premature ventricular contractions
+
+Atrisk for AVblocks and ventricular irritability
+
+‘Syndromes
+Brugada ‘Three types of repolarization patternsin leads V1, V2, and V3
+‘Type 1(“Brugada sign”): coved ST segment elevation >2mm in >1 of V1-V3, followed by an inverted T wave; only type that
+‘s diagnostic
+Syndrome diagnosis if patient has Brugada ign and one of the folowing: family history of sudden cardiac death atage
+45; arrhythmia related symptoms (e.g. syncope, seizures); or ventricular arrhythmias (VFib, polymorphic ventricular
+tachycardia)
+Susceptible to deadly dysthythmias, including VFib
+Wellens Marked T wave inversion in V2. and V3
+Left anterior descending coronary stenosis
+Long OT syndrome OT interval longer than ¥2 of cardiac cycle
+Predisposed toventricular dysttythmias
+Can be congenital or acquired (often through medication side effect)
+Headache
++ see Neurology, N46
+Etiology
+
++ common and less serious
+= common migraine (without aura)/classic migraine (with aura)
+¢ common: unilateral, throbbing, aggravated by activity, moderate/severe intensity, N/V, photo-/
+phonophobia
++ classic: fully reversible aura symptoms that precede headache, e.g. flashing lights, pins and needles
+(paresthesia), loss of vision, dysarthria
++ treatment: simple analgesics (NSAIDs, acetaminophen, Aspirin’), antiemetics, triptans
++ family physician to consider prophylactic treatment
+= tension headache
++ bilateral, non-throbbing, not aggravated by routine physical activity, mild-moderate intensity
+can last 30 min to 7d
++ triggered with stress, sleep deprivation
++ treatment: modify stressor(s), simple analgesics (NSAIDs, acetaminophen, Aspirin")
++ less common but potentially fatal
+= subarachnoid hemorthage (SAH) (see Neurosurgery, NS22)
+¢ sudden onset, “worst headache of life,” maximum intensity within minutes, “thunderclap
+headache”
++ increased pain with exertion, N/V, meningeal signs
++ diagnosis
+— new generation CT 100% sensitive within 6 h of onset (hyperattenuating signal around
+Circle of Willis)
+— LP to look for xanthochromia if suspected SAH and normal CT after 6h
+* management: urgent neurosurgery consult
+= increased ICP
+* worse in morning, when supine or bending down, with cough or Valsalva
+
+Emergency Medicine ER23
+
+Diagnosis of Pulmonary Embolsm with D-Dimer
+Adjustedto Cnical Probability
+
+NEM 2019;381:2125.204
+
+Purpose: Retrospective analyses suggest that PEs
+ruled outby D-dimer level <1000ng/n.n patients
+with low nial pretest probability (CTP) and
+
+by ad-imerlevel of <S00nginl inpatients witha
+moderate CPT
+
+Methods: Prospective study in which PE was
+considered tobe ruled out without further testing in
+2017 outpatients witha low C-PTP and a ¢- dimer level
+of 1000 ng/ml or with a moderate C-PTPandad-dimer
+level of <SOO ng/ml IPE was not diagnosed, patients
+id notreceve anticoagulant therapy Patients were
+followed for 3moforVTE
+
+Results: Of the 1325 patients who had alow C-PTP or
+rmoderate CPTP and negative d-imer test none had
+TE during follow-up hs diagnostic strategy resulted
+inthe use of chest imaging in 34.3% of patients. A
+strategyin which PE is considered tobe ruled out with
+‘low CPTP anda dimer level of $00 ng/mL would
+resitinthe wseofchestimagingin 51.9%.
+
+Condusion: combination of alow CPTPanda d-dimer
+level of 1000 ng/mL identified agoupof patients at
+lows for daring follow-up,
+
+Common Therapeutic Approach to Severe
+Migraine
+
+41 L bolus of NS (f signs of dehydration)
+Prochlorperazine/metoclopramide 10 mg IV
+Ketorolac 30 mg IV
+
+Dexamethasone 10 mg
+
+Other options include haloperidol,
+ergotamine, sumatriptan, analgesics
+
+Ottawa SAHRule
+JAMA 2013;310(12}: 1248-1255
+Usefor alert patients older than 15 yr wth new severe
+‘on raumatic headache reaching maximum intensity
+within th
+Notfor patients wth new neurologic defi, previous
+aneurysms, SAH, brain tumours, ohistor of reurent
+headaches (23 episodes over the course of 26 ma)
+Investigate high isk variables present;
+
+Age>40yr
+
+Neck pan or stitness
+
+Witnessed loss of consciousness
+
+Onset during exertion
+
+Thunder dap headache (stant peaking pin)
+
+Limited neck fexion on examination
+Subarachnoid hemorrhage canbe predicted with 100%
+senstty sing thistle,
+

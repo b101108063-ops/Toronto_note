@@ -1,0 +1,55 @@
+1D32 Infectious Diseases Toronto Notes 2025
+
+Types of Testing
+
+|. Nominal/Name-Based HIV Testing
+person ordering the test knows the identity of the person being tested for HIV
+HIV test is ordered using the name of the person being tested
+person ordering the test is legally obligated to notify Public Health officials if test results are positive for
+HIV
+test result is recorded in the healthcare record of the person being tested
+
+cee ne
+
+2. Non-Nominal/Non-Identifying HIV Testing
+similar to nominal/name-based testing on all points except:
+«= HIV testis ordered using a code or the initials of the person being tested
+
+. Anonymous Testing
+available at specialized clinics
+person ordering the HIV test does not know the identity of the person being tested
+HIV test is carried out using a unique non-identifying code that only the person being tested for HIV knows
+test results are not recorded on the healthcare record of the person being tested
+patient identification and notification of Public Health required to gain access to ART
+
+HIV Pre- and Post-Test Counselling
+
++ a diagnosis of HIV can be overwhelming and is often associated with stigma and discrimination
++ consider pre- and post-test counselling, regardless of the results
+goals include: assessing risk, making informed decision to be tested, education to protect themselves and
+others from virus exposure, where to go for more information and support
+HIV-positive individuals should be connected with local support services
+
+Skin and Subcutaneous Infec
+
+Superficial Fungal Infections
+
+re?)
+
+«+ see Dermatology, D32, D33, D37, D45 D46, and D49
+Dermatophytes
+«+ see Dermatology, D31
+
+Subcutaneous Fungal Infections
+
+Etiology
++ subcutaneous inoculation by fungi that naturally reside in the soil, including Sporothrix schenckii, which
+usually occurs in gardeners injured by a rose thorn or splinter
+
+Clinical Features
++ causes subcutaneous nodules at the point of entry, may develop into an ulcer
++ fungi may migrate up lymphatic vessels creating nodules along the way - “nodular lymphangitis”
+
+Treatment
++ oral azole antifungal agent
++ IVamphotericin B for severe or disseminated infection

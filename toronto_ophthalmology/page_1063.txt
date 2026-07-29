@@ -1,0 +1,102 @@
+0P23 Ophthalmology Toronto Notes 2025
+
+Endophthalmitis and Vitritis fo)
+
++ intraocular infection: acute, subacute, or chronic
+
+at e
++ most commonly as postoperative complication; risk following cataract surgery is <0.1%
++ also due to penetrating injury to eye (risk is 3-7%), endogenous spread, and intravitreal injections Remember to inquire about tetanus status
++ etiology usually bacterial, may be fungal in post-traumatic endophthalmitis
+
+ical Features
+
++ painful, red eye, photophobia, discharge
+
++ severely reduced VA, lid edema, proptosis, corneal edema, anterior chamber cells/flare, hypopyon, reduced
+red reflex
+
+may have signs of a ruptured globe (severe subconjunctival hemorrhage, chemosis, hyphema, decreased
+
+IOP, etc.)
+
+Treatment (see Ocular Trauma, OP41)
+
++ OCULAR EMERGENCY: presenting vision indicates prognosis
+
++ LP or worse: admission, immediate vitrectomy, and intravitreal antibiotics to prevent loss of vision
++ HM or better: vitreous tap for culture and intravitreal antibiotics
+
++ topical fortified antibiotics
+
++ composed of two parts (see Figure 2, OP 2)
+
+. heurosensory retina: comprises 9 of the 10 retinal layers, including photoreceptors and ganglion cell
+
+ayer
+
+. RPE layer: external to neurosensory retina y
+macula: rich in cones (for colour vision), most sensitive area of retina Fovea /optisneve
+fovea: centre of macula, responsible for detail, fine vision, lacks retinal vessels Macula
+optic disc: collection of retinal nerve fibre layers forming optic nerve (CN II)
+ora serrata: irregularly-shaped, anterior margin of the retina (cannot be visualized with direct
+ophthalmoscope, but possible with indirect ophthalmoscope/scleral depression)
+
+Central/Branch Retinal Artery Occlusion
+
+Figure 16. Retina
+
+Etiology
++ occlusion of blood flow from the following causes results in loss of vision due to oxygen starvation of the
+retinal tissues and eventual cell death
+= emboli from carotid arteries or heart (e.g. arrhythmia, endocarditis, valvular disease)
+= thrombus
+= GCA/temporal arteritis
+
+ical Features ©
+
+cl
++ sudden, painless (except in GCA), severe monocular loss of vision Hallmark of CRAO
++ RAPD in CRAO orlarge BRAO ™Cherty-ted spot” located at centre of
+
+‘macula (visualization of unaffected highly
+
++ patient may have experienced transient episodes in the past (amaurosis fugax) eed GRarsld asigh Wa fared
+
++ fundoscopy
+= “cherry-red spot” (see Figure 17, OP24)
+
+= retinal edema ()
+= cotton wool spots (retinal infarcts)
+= cholesterol emboli (Hollenhorst plaques) - usually located at arteriole bifurcations Treatment for a CRAO must be initiated
+
+within 2 h of symptom onset for any hope
+
+of reste
+Treatment weemgeen
+
++ OCULAR EMERGENCY: attempt to restore blood flow within 2 h (irreversible retinal damage if >90 min of
+complete CRAO)
+massage the globe (compress eye with heel of hand for 10 s, release for 10 s, repeat for 5 min) to dislodge
+
+embolus
+The “blood and thunder” appearance on
+decrease IOP vs
+
+fundoscopy is very specific for CRVO
+
+= topical B-blocker
+
+= IVacetazolamide
+
+= IV mannitol (draws fluid from eye)
+
+= drain aqueous fluid - anterior chamber paracentesis (carries risk of infection, lens puncture) ie}
+YAG laser embolectomy
+intra-arterial or intravenous thrombolysis
+hyperbaric oxygen therapy
+urgent neurology referral, optimize vascular risk factors (e.g. smoking cessation), anticoagulation/
+antiplatelet, carotid artery duplex ultrasonography, and possible vascular surgery referral
+
+There is an 8-10% risk of developing CRVO
+‘or BRVO in the other eye

@@ -1,0 +1,46 @@
+E59 Endocrinology Toronto Notes 2025
+Dyslipidemia Medications
+Dyslipidemia Common Medications
+Drug Class Mechanism of Action Generic Drug CanadaName USName(if Dosing Indications Contraindications Side Effects:
+Name. different)
+HMG-CoA Inhibits cholesterol atorvastatin Lipitor® 10-80 mgt Istline monotherapy. Activeliver disease +t liver enzymes
+Reductase Inhibitor biosynthesis, # LDL fluvastatin Lescal® 20-80 mgd Used for # LDL, #16 (Myositis (¢ risk if combined with fibrates)
+{statins) synthesis, # LDL lovastatin Mevacor® 20-80 mgid Rhabdomyolysis
+clearance, modest ¢ HDL, pravastatin Pravachol® 10-40 mg/d
+limited + VLDL rosuvastatin Crestor® 5-40 mgid
+simvastatin Locor® 10-80 mg
+Fibrates Activate PPAR a, bezafibrate Bezalip® 400 maid Used for # 16, Hepatic disease Glupset
+upregulate lipoprotein fenofibrate Lipidil® 48-200 mgid ——hyperchylomicronemia —_—Renal disease ‘Skin rashes
+lipase +apo Al, # VLDL, gemfibrozil Lopid® 600-1200 mgid +t riskof gallstone formation
+416, modest LDL, +t riskof rhabdomyolysis when combined
+modest + HDL with statins
+Niacin Inhibits secretion nicotinic acid Niaspan® Wiacor® 0529/4 Used for severe Hypersensitivity Generalized flushing
+ofhepatic VLDL via ‘generic niacin hhypertriglyceridemianot Hepatic dysfunction ‘Abnormal liver enzymes
+lipoprotein ipase (LPL) controlled by fibrate Active peptic ucer disease Pruritus
+pathway decreased (PUD) Ast
+‘VLDL andLDL; decreased NOTE: rarely used ‘Hyperuricemia ‘Watch glucose control withovert DM
+clearance of HDL anymore Severe hypotension
+BileAcidSequestrants Resins thatbind bile cholestyramine — Questran® 2g Used for ¢ LOL Complete biliary Constipation, nausea
+acids in intestinal lumen Useas adjunct with obstruction Flatulence
+and prevent absorption statins or fibrates: T6>3.5mmol/L Bloating
+thereby colestipol Colestid® 5-30g/d Rise in 16
++L Binds other medications
+Cholesterol. Inhibits cholesterol -ezetimibe Enetrol® Tetia® 10mgd Used for ¢ LOL Hypersensitivity Fatigue
+‘Absorption Inhibitors absorption at the small Hepatic dysfunction (when Pharyngitis
+intestine brush border used with statin) Sinusitis
+Do not combine with ‘Abdominal pain
+fibrates or bile acid resins Diarrhea
+Arthralgia
+‘Anti-PCSK9 Inhibits degradation of | evolocumab Repatha® 140mg q2wk Add-on to maximally Hypersensitivity ‘Nasophar yngitis, URTI, influenza
+‘the LDL receptor by PCSK9 0420 mg once toleratedstatin therapy Soreness atsite of Sinusitis
+emyme monthly inheterozygous familial injection Back pain
+LDL dearance alirocumab Praluent® T5mgq2wkor hypercholesterolemia —-Nostudies regarding use Myalgia
+300 mgonce (FH) (evolocumab, inseverehepaticorrenal — Arthralgia
+monthly lirocumab) and impairment Nausea
+homozygous FH
+(evolocumab)
+Consider in patients,
+with atherosderotic
+
+CVDand LDL-C notat
+

@@ -1,0 +1,95 @@
+Al4 Anesthesia Toronto Notes 2025
+
+Maintenance Fluid
++ average healthy adult requires approximately 2500 mL water/d
+
+= 200 mL/d GI losses
+
+= 800 mL/d insensible losses (respiration, perspiration)
+
+= 1500 mL/d urine (beware of renal failure)
+maintenance should not exceed 3 mL/kg/h
+increased requirements with fever, sweating, GI losses (vomiting, diarrhea, NG suction), adrenal
+insufficiency, hyperventilation, and polyuric renal disease
+decreased requirements with anuria/oliguria, SIADH, highly humidified atmospheres, and CHF
+maintenance electrolytes
+
+= Na‘: 3 mEq/kg/d
+
+= Ki: 1 mEq/kg/d
+4-2-1 rule: 4 mL/h first 10 kg, 2 mL/h next 10 kg, 1 mL/h for every kg after to calculate maintenance fluid
+requirement
+
+« alternatively, in patients who weigh 220 kg, add 40 mL to their total weight to calculate maintenance
+
+fluid requirement in mL/h
+
+e.g. 250 kg patient’s maintenance requirements
+
+© fluid = (4 mL/hx 10kg) + (2 mU/hx 10kg) + (1 mL/hx 30 kg) = 40 mL/h + 20 mL/h + 30 mL/h = 90
+
+mL/h = 2160 mL/d
+
+= Na’ = 150 mEq/d (therefore 150 mEq/2.16 L/d ~ 69 mEq/L)
+
+= K*= 50 mEq/d (therefore 50 mEq/2.16 L/d ~ 23 mEq/L)
+above patient's requirements roughly met with 2/3 dextrose 5% in water (DSW), 1/3 normal saline (NS)
+0.9%
+
+= 2/3 + 1/3 at 100 mL/h with 20 mEq KCI per litre
+
+Fluid Deficit
+
+patients should be adequately hydrated prior to anesthesia TBW (42)
+
+total body water (TBW) = 60% or 50% of total body weight for an adult male or female, respectively (e.g. for
+
+a 70 kg adult male TBW = 70 x 0.6 = 42 L)
+
+total Na* content determines ECF volume; [Na*] determines ICF volume 23 V3
+
+hypovolemia due to volume contraction ICF (28 L) ECF (14)
+= extra-renal Na* loss
+
+¢ GI: vomiting, NG suction, drainage, fistulae, diarrhea
++ skin/respiratory: insensible losses (fever), sweating, burns 3/4 v4
++ vascular: hemorrhage Interstitial 10.51) Intravascular (3.5 L)
+renal Na‘ and H20 loss {Starling's forces maintain balance)
++ diuretics Figure 10. Total body water division
++ osmotic diuresis ina 70 kg adult
++ hypoaldosteronism
+ salt-wasting nephropathies
++ renal H20 loss
+diabetes insipidus (central or nephrogenic)
++ hypovolemia with normal or expanded ECF volume
++ decreased CO
+redistribution
++ hypoalbuminemia: cirrhosis, nephrotic syndrome
++ capillary leakage: acute pancreatitis, rhabdomyolysis, ischemic bowel, sepsis, anaphylaxis
++ replace water and electrolytes as determined by patient's needs
++ with chronic hyponatremia, correction must be done gradually over >48 h to avoid central pontine
+myelinolysis
+Table 4. Signs and Symptoms of Dehydration
+Percentage ofBody Severity ‘Signs and Symptoms
+Water Loss
+% Mid Decreased skin turgor, sunken eyes dry mucous membranes, dry tongue, reduced sweating
+6% Moderate ‘Gliguria, orthostatic hypotension, tachycardia, low volume pulse, cool extremities, reduce filing of peripheralveins
+‘and CVP,hemoconcentration, apathy
+9% Severe Profound oligura or anuria andcompromisedCNS function with or without altered sensorium
+
+What are the Ongoing Losses?
+
++ traditionally thought that fluid loss during surgery resulted from blood loss, insensible losses from large
+surgical incision/exposure, losses from Foley catheter, NG, surgical drains, and minor losses due to
+
+sequestration of fluid into other body compartments
+
+fluid therapy accounting for these losses often resulted in excess crystalloid administration
+
+goal-directed fluid regimens associated with lower rate of postoperative complications compared to
+
+predetermined calculations. These can be done using point of care ultrasound (POCUS), esophageal
+
+doppler, or pulse or pressure variation available either using arterial line monitoring or certain pulse
+
+oximetry

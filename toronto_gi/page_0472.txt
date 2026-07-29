@@ -1,0 +1,117 @@
+G38 Gastroenterology
+
+Clinical Features
+
++ usually presents with trivial elevation in serum transaminases although often picked up incidentally when
+iron studies noted to be elevated
+
+liver: cirrhosis (less common nowadays due to earlier detection), HCC (200x increased risk)
+
+pancreas: DM, chronic pancreatitis
+
+skin: bronze or grey (due to melanin, not iron)
+
+heart: diastolic dysfunction and arrhythmias in early stages with dilated cardiomyopathy in later stages
+pituitary: hypogonadotropic hypogonadism (impotence, decreased libido, amenorrhea)
+
+joints: arthralgia (any joint, but especially metacarpophalangeal joints), chondrocalcinosis
+
+Investigations
++ screening for individuals with clinical features and/or family history (25% chance of sibling having the
+disease)
+« transferrin saturation (free Fe*/total iron binding capacity (TIBC)) >45%
+= serum ferritin >400 ng/mL
+«= HFE gene analysis: 90% of primary hemochromatosis involves C282Y allele, while H63D and S65C
+alleles also commonly involved and screened
++ MRI (often used instead of a liver biopsy)
+= non-invasive approach to assess iron overload
+= most sensitive and specific modality in the diagnosis of hemochromatosis
+= serum ferritin >1000 ng/mL or symptoms of organ injury (e.g. elevated LFTs, symptoms of heart
+failure)
+= can be used to follow treatment by phlebotomies
++ liver biopsy (generally used to detect cirrhosis or if potential for other causes of liver disease)
+= markers of advanced fibrosis: if any of the following are present at the time of diagnosis > age >40,
+elevated liver enzymes, or ferritin >1000 ng/mL
+= considered if compound heterozygote and potential other cause of liver injury (e.g. NAFLD, excess
+EtOH, hepatitis)
+= if C282Y/C282Y and no markers of advanced fibrosis, then biopsy generally not needed
++ HCCscreening if cirrhosis
+
+Treatment
+
++ phlebotomy: weekly or q2 wk then lifelong maintenance phlebotomies q2-6 mo, generally aiming for
+ferritin of 50-100 ng/mL.
+
++ chelation therapy such as deferoxamine if phlebotomy contraindicated (e.g. cardiomyopathy, anemia)
+
++ primary hemochromatosis responds well to phlebotomy
+
++ secondary hemochromatosis usually requires chelation therapy (administration of agents that bind and
+sequester iron, and then excreted)
+
+Prognosis
++ normal life expectancy if treated before the development of cirrhosis or DM
+
+Alcohol-related Liver Disease
+
+Definition
++ spectrum of diseases, ranging from:
+= steatotic liver disease (common amongst individuals with EtOH use disorder): reversible if EtOH
+stopped
+= acute alcoholic hepatitis (35% of individuals with EtOH use disorder): usually reversible if EtOH
+stopped
+= cirrhosis (10-15% of individuals with EtOH use disorder): chronic architectural changes to the liver
+which are permanent, even if alcohol consumption stops and fibrosis improves
+
+Pathophysiology
++ several mechanisms, poorly understood
++ ethanol oxidation to acetaldehyde
+= reduces NAD+ to NADH; increased NADH decreases ATP supply to liver, impairing lipolysis so fatty
+acids and triglycerides accumulate in liver
+= binds to hepatocytes evoking an immune reaction
++ EtOH increases gut permeability leading to increased bacterial translocation
++ EtOH metabolism causes:
+= relative hypoxia in liver zone III (near central veins; poorly oxygenated) > zone I (around portal tracts,
+where oxygenated blood enters)
+= necrosis and hepatic vein sclerosis
++ histology of alcoholic hepatitis
+= ballooned (swollen) hepatocytes often containing Mallory bodies, characteristically surrounded by
+neutrophils
+= large fat globules
+= fibrosis: space of Disse and perivenular
+
+Toronto Notes 2025
+
+Ferritin may never normalize if other causes
+of high ferrtin present (e.g, fatty liver from
+‘metabolic syndrome or EtOH)
+
+‘Standard Drink Equivalent
+
+‘standard drink = 14 g EtOH
+
+= 1202 beer (5% alcohol)
+
+‘oz wine (12-17%)
+
+02 fortified wine (17-22%)
+
+=15 02 liquor (40%)
+
+Tip: percentage EtOH multiplied by oz in 1
+standard drink roughly equals 60
+
+Biopsy + Histology of Alcoholic Hepatitis,
+(triad)
+
+Hepatocyte necrosis with surrounding
+inflammation in zone Il
+
+Mallory bodies (intracellular eosinophilic
+aggregates of cytokeratins)
+
+Chicken-wire fibrosis (network
+
+of intralobular connective tissue
+surrounding cells and venules)
+

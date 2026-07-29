@@ -1,0 +1,83 @@
+OT32 Otolaryngology
+
+Treatment
+treatment of choice is surgery for all salivary gland neoplasms - benign and malignant
+pleomorphic adenomas are excised due to risk of malignant transformation (5% risk over prolonged period
+of time)
+superficial tumour
+= superficial parotidectomy above plane of CN VII
+« incisional biopsy contraindicated
+deep lesion
+«= near-total parotidectomy sparing as much of CN VII as possible
+«= if CN VII involved, then it is removed and cable grafted
+complications of parotid surgery
+= hematoma, infection, salivary fistula, temporary or permanent facial paresis, Frey’s syndrome
+(gustatory sweating), sialocele, numbness of the overlying skin
+postoperative radiotherapy, if high risk of locoregional recurrence
++ chemotherapy is largely reserved for palliative cases
+
+Prognosis
++ benign: excellent, <5% of pleomorphic adenomas recur
++ malignant: dependent on stage and type of malignancy (see Table 17, OT37)
+
+Approach to a Neck Mass
+
++ ensure that the neck mass is not a normal neck structure (e.g, hyoid, transverse process of Cl vertebra,
+prominent carotid bulb)
++ any neck mass persisting for >2 wk should be investigated for possible neoplastic causes
+
+Table 15. Prevalence of Acquired Causes of Neck Lumps According to Age
+
+Age) Possible Causes of Neck Lump
+40 1 Inflammatory 2.CongenitaliDevelopmental 3. Neoplastic
+40 1 Neoplastic 2.nlammatory 3. Congenital
+
+Differential Diagnosis
+* congenital
+« lateral (branchial cleft cyst, laryngocele, plunging ranula, lymphatic/venous/venolymphatic
+malformation)
+= midline (thyroglossal duct cyst, dermoid cyst, teratoma, thyroid/thymus anomaly, vascular
+malformation)
++ infectious/inflammatory
+= reactive lymphadenopathy (2° to tonsillitis, pharyngitis)
+= infectious mononucleosis (see Family Medicine, FM50)
+= Kawasaki, Kikuchi-Fujimoto, Kimura, Cat-scratch, Castleman, Rosai-Dorfman disease
+« HIV
+« sialolithiasis, sialadenitis
+= thyroiditis
++ granulomatous disease
+= mycobacterial infections
+= sarcoidosis
++ neoplastic
++ lymphoma
+= salivary gland tumours
+= thyroid tumours
+= metastatic malignancy (“unknown primary”)
+= lipoma, fibroma, hemangioma, nerve or nerve sheath tumour
+
+Toronto Notes 2025
+
+DDx Parotid Tumour
+
+Benign
+Pleomorphic adenoma
+
+Warthin’s tumour (M>F)
+
+Benign lymphoepithelial cysts (viral
+etiology, e.g. HIV)
+
+Oncocytoma
+
+Malignant
+‘Mucoepidermoid carcinoma
+Adenoid cystic carcinoma
+Acinic cell carcinoma
+
+Frey/s syndrome is a postoperative
+complication characterized by gustatory
+‘sweating. Itis thought that damaged
+parasympathetic nerve fibres of the
+auriculotemporal nerve regenerates
+abnormally to innervate the cutaneous
+sweat glands

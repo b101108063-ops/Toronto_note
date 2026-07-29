@@ -1,0 +1,88 @@
+MG2 Medical Genetics Toronto Notes 2025
+
+cr cystic fibrosis GA —_ gestational age MCADD medium chain acyl-CoA NGS next generation sequencing
+CNV copy number variant Gs genome sequencing dehydrogenase deficiency PKU phenylketonuria
+
+(W)ES (whole) exome sequencing GSD glycogen storage disease MLPA multiplex ligation-dependent SNP single nucleotide polymorphism
+(W)GS (whole) genome sequencing LCHAD — long chain 3-hydroxyacy-CoA probe assay VLCAD very long chain acyl-CoA
+
+FISH fluorescence in situ hybridization dehydrogenase deficiency MSUD — maple syrup urine disease dehydrogenase deficiency
+
+Introduction to Genetics
+
+Common Terms
+
+penetrance: probability that a gene variant is observably expressed in an individual who carries it
+
+expressivity: extent of gene expression — refers to the range of variation seen in a phenotype for a certain
+enotype
+
+genetic heterogeneity: when a phenotype/genetic disorder can be caused by different genotypes, due to
+
+genetic variation within the same gene (allelic heterogeneity) or in different genes (locus heterogeneity)
+
+phenotypic heterogeneity: pathogenic variants in the same gene result in multiple clinical manifestations
+
+and varying degrees of severity
+
+mosaicism: presence of two or more genotypes (e.g. chromosome patterns or gene variants) in the different
+
+cells of the same person
+
+nondisjunction: a cell division error in which chromosomes fail to segregate, resulting in daughter cells
+
+with fewer or more chromosomes than expected
+
+uniparental disomy: inheritance of two full or partial copies of a chromosome from one parent and no
+
+corresponding full/partial chromosome from the other parent
+
+allele: one form of a DNA sequence
+
+Genetic Variation
+* avariant is a permanent change in the nucleotide sequence that differs from the most common nucleotide
+sequence (reference sequence)
+variants are classified based on their likelihood of disrupting the function of the gene product. The
+American College of Medical Genetics and Genomics has created commonly used guidelines for classifying
+variants for single gene disorders:
+= benign: not associated with genetic disease
+. likely benign: probably not associated with genetic disease, but insufficient evidence to classify as
+enign
+. variant of uncertain significance (VUS): insufficient evidence to classify variant as benign or pathogenic
+« likely pathogenic: 90% likely to be pathogenic and clinically treated as a pathogenic variant
+«= pathogenic: known to be associated with genetic disease
+nomenclature no longer used in clinical genetics:
+= mutation: previously synonymous with pathogenic variant. Now this term is only used to describe the
+actual process of genetic change
+= polymorphism: a variant that is relatively common in the population and not typically associated with
+a genetic disease. This term is typically used in the context of population genetics
+
+Types of Genetic Variation
+
+deletions or duplications of a whole gene(s) caused by aneuploidy, unbalanced chromosome
+rearrangements, or copy number variants (e.g. 22q11.2 deletion or DiGeorge syndrome; 17p11.2 duplication
+or Potocki-Lupski syndrome)
+
+disruption of a gene: inversions, balanced chromosome rearrangements
+
+variants that cause alteration in the protein coding sequence: missense (encodes for a different amino acid),
+nonsense (encodes for a premature stop codon), frameshift (deletion/insertion of a number of nucleotides
+that is not a multiple of 3, thus shifting the reading frame)
+
+variants that affect the transcription of a gene
+
+variants that affect splicing
+
+Single Gene Disorders
++ traits or disorders determined by variation occurring in a specific gene, which often follow a Mendelian
+inheritance pattern
+autosomal inheritance: disorder is caused by pathogenic variants in a gene located on chromosomes 1-22
+(the autosomes)
+= autosomal dominant: one copy of a gene with a pathogenic variant is sufficient to cause a trait/disorder
+= autosomal recessive: both copies of a gene must have pathogenic variants to cause a trait/disorder; an
+individual with one copy of a pathogenic gene variant is a carrier
+Sex-linked inheritance: when disease is caused by pathogenic variants in a gene on the X or the Y
+chromosome. Because the X chromosome contains more genes than the Y chromosome, almost all
+sex-linked traits are X-linked. X-linked inheritance generally results in a trait/disorder that is seen more
+commonly or with greater severity in males than females
+= eg. Hemophilia A, Duchenne muscular dystrophy

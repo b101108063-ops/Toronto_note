@@ -1,0 +1,127 @@
+N Nephrology
+
+see Family Medicine, FM37
+HTN occurs in about 20% of population
+
+exacerbate the HTN
+
+Hypertensive Nephrosclerosis
+
+Table 16. Chronic vs. Malignant Hypertension
+
+[Hypertension
+
+etiology classified as primary (“essential;” makes up 90% of cases) or secondary
+primary HTN can cause kidney disease (hypertensive ischemic nephropathy), which may in turn
+
+secondary HTN can be caused by renal parenchymal or renal vascular disease
+hypertension in CKD can be both cause and effect: can cause hypertensive nephrosclerosis; as the CKD
+progresses, there may be increased Na* retention, leading to hypertension
+
+Toronto Notes 2025
+
+Eflecsof Intensive BP Control in CKD
+
+‘hm Soc Nephrol 2017, 28(9):28122823
+
+Purpose: To evaluate appropiate target for BPin
+patients with CKD and HT,
+
+Methods: RCT sub group analyses of participants in
+
+the Systolic Blood Pressure Intervention ial (SPRINT
+Participants were randomiy assigned to intensive group
+{sBP-<20 mig or standard group (sBP<140 mmHg,
+Results. The intensive group had alowerrateot
+al-cuse death (HR 0.72, 95% (10.63.05) and major
+CHevent (HR 0:81, 95% C1 0.63-105).Deceasesin
+GFR were comparable between treatment groups (HR
+(0:90, 95% C1 044-183), Treatment effects didnot fer
+betwen participants wth and without CKD
+Conclusion: inpatients with CKD and HTM without
+diabetes, target BP of 120 mmgys. 140 mmilg
+reduced rates of major CV events and alk cause death
+
+Chronic Nephrosclerosis
+
+Malignant Nephrosclerosis
+
+Histology Sow vascular sclerosis with ischemic changes affecting
+intralobular and afferent arterioles
+
+Clinical Picture Black race (ApoL1 mediated hypertension
+nephrosclerosis), underlying CKD, chronic hypertensive
+disease
+
+Urinalysis Mildto severe proteinuria, normal urine sediment
+
+Therapy Blood pressure contral, target <120/80) with frequent
+follow-up
+
+Prognosis Canprogresstorenalfailure HTN pootty controlled
+
+Fibrinoid necrosis of arterioles, disruption of vascular
+endothetum
+
+‘Acute elevation in BP (4BP>120 mmilg) HTH
+encephalopathy, acuteend organ damage
+(papilledema, stroke, ACS, AKI)
+Proteinuria and hematuria RBC casts)
+
+Lower dB to 100-110 mmilg within 6-24h
+More aggressive treatment can cause ischemic event
+entity and treat underlying cuse of HTN
+
+Lower survivalif renal insuficiency develops
+
+Renovascular Hypertension
+
++ see Vascular Diseases of the Kidney, NP31
+
+Renal Parenchymal Hypertension
+
++ HTN secondary to GN, AIN, diabetic nephropathy, or any other chronic renal disease
+
++ mechanism of HTN not fully understood but may include:
+
+= excess RAAS activation due to inflammation and fibrosis in multiple small intra-renal vessels
+= production of unknown vasopressors, lack of production of unknown vasodilators, or lack of clearance
+
+of endogenous vasopressor
+«= ineffective sodium excretion with fluid overload
+
+Investigations
+
++ as well as investigations for renovascular HTN, additional tests may include:
+
+= 24hurinary estimations of CrCl and protein excretion
+= imaging (U/S, CT)
+
+= serology for collagen-vascular disease
+
+= renal biopsy (very rarely if at all)
+
+Treatment
+
++ most chronic renal disease is irreversible; however, treatment of HTN can slow the progression of renal
+
+insufficincy
+
+control ECF volume: Na* restriction (Na*: 2 g/d intake, salt <5 g/d), diuretic, dialysis with end-stage disease
+ACEI or ARB may provide added benefit (monitor K* and Cr) if there is significant proteinuria (>300 mg/d)
+
+Cystic Diseases of the Kidney
+
+characterized by epithelium-lined cavities filled with fluid or semisolid debris within the kidneys
+includes: simple cysts (present in 50% of population >50), medullary cystic kidney, medullary sponge
+kidney, polycystic kidney disease (autosomal dominant and recessive), and acquired cystic kidney disease
+(in chronic hemodialysis patients)
+
+Adult Polycystic Kidney Disease
+
+autosomal dominant; at least 2 genes: PKDI (chr 16p) and PKD2 (chr 4q)
+
+PKDI (1:400), PKD2 (1:1000) accounts for about 10% of cases of renal failure
+
+patients generally heterozygous for mutant PKD gene but accumulate a series of second ‘somatic hits’
+precipitating the condition

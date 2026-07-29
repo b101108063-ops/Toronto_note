@@ -1,0 +1,83 @@
+GS25 General and Thoracic Surgery Toronto Notes 2025
+
+Investigations
++ barium esophagram with a classic finding of smooth tapering of the lower esophagus to a “bird’s beak”
+appearance
+
+upper endoscopy
+
+esophageal manometry will show incomplete lower esophageal sphincter relaxation in response to
+swallowing and sometimes a lack of peristalsis in the lower esophagus
+
+Treatment
++ non-surgical treatment:
+= pharmacologic: nitrates, calcium channel blockers, and phosphodiesterase-5 inhibitors to reduce LES
+pressure
+= endoscopic botulinum toxin injection
+= pneumatic dilation
++ surgical treatment options:
+= laparoscopic Heller myotomy
+= peroral endoscopic myotomy
+
+Complications
++ esophageal perforation
++ GERD
+
++ bloating
+
+Stomach and Duodenum
+
+Peptic Ulcer Disease
+
+GASTRIC ULCERS
+see Gastroenterology, G11
+
+Indications for Surgery
+
++ treat complications: bleeding (common indication for emergency management), perforation and
+obstruction (3x greater risk compared to duodenal ulcers)
+
+refractory to medical management-time period is unclear but generally after 8-12 wk of medical therapy
+suspicion of malignancy (even if biopsy is benign), especially if ulcer fails to heal after 12 wk of medical
+therapy
+
+surgery is becoming increasingly rare due to H. pylori eradication, medical treatment, endoscopic
+treatments (injection therapy with adrenaline, polidocanol, or fibrin glue) and coagulation therapy (heater
+probe or argon plasma)
+
+Procedures
+
+ligation of bleeding vessels
+
+distal gastrectomy with ulcer excision: Billroth II, Roux-en-Y gastrojejunostomy, or Billroth I (rarely)
+reconstruction
+
+vagotomy and pyloroplasty only if acid hypersecretion (very rare)
+
+wedge resection if possible
+
+biopsy for suspicion of malignancy, followed by gastroscopy to minimize further bleeding and aid with
+healing
+
+DUODENAL ULCERS
+« see Gastroenterology, Peptic Ulcer Disease, G11
++ most within 2 cm of pylorus (duodenal bulb)
+
+Indications for Surgery
++ hemorrhage, rebleed in hospital, perforation, gastric outlet obstruction
++ refractory to medical and endoscopic management
+
+Procedures
+
++ omental (Graham) patch: plication of perforated ulcer supported by overlying omental patch
++ oversewing of bleeding ulcer + pyloroplasty
+
++ treat with H. pylori eradication protocol postoperatively
+
+Complications of Gastric Surgery
+
++ retained antrum
+
++ fistula (gastrocolic/gastrojejunal)
+
++ dumping syndrome, postvagotomy diarrhea, afferent loop syndrome

@@ -1,0 +1,113 @@
+General and Thoracic Surgery
+
+ical Features
++ minimal pain to generalized peritonitis depending on severity of inflammation and whether or not
+complications are present
++ LLQpain/tenderness (2/3 of patients) often for several days before admission
++ constipation, diarrhea, N/V, and urinary symptoms (with adjacent inflammation)
++ low-grade fever, and mild leukocytosis are commonly seen
+occult or gross blood in stool is rare in acute diverticulitis
+complications (25% of cases)
+= abscess: unlikely to be palpable, tender abdominal mass
+« fistula: colovesical (most common), coloenteric, colovaginal, and colocutaneous
+«= colonic obstruction: related to colonic strictures secondary to scarring from repeated inflammation
+«= perforation: generalized peritonitis (feculent vs. purulent)
+recurrent attacks rarely lead to peritonitis
+
+Investigations
++ CT scan (test of choice)
+very useful for assessment of severity and prognosis (97% sensitive, 99% specific)
+= usually done with IV contrast
+increased soft tissue density within pericolic fat secondary to inflammation, diverticula secondary to
+inflammation, bowel wall thickening, soft tissue mass (pericolic fluid, abscesses), and fistula
+= 10% of diverticulitis cannot be distinguished from carcinoma
++ AXR, upright CXR
+= localized diverticulitis (ileus, thickened wall, SBO, and partial colonic obstruction)
+= free air may be seen in 30% with perforation and generalized peritonitis
++ colonoscopy or barium enema and flexible sigmoidoscopy (elective evaluation)
+= establish extent of disease and rule out other diagnoses (polyps and malignancy) AFTER resolution of
+acute episode
+
+Treatment
++ uncomplicated: conservative management
++ outpatient: clear fluids only until improvement. Avoid treatment with antibiotics for those with
+uncomplicated acute diverticulitis
+hospitalize: if severe presentation, inability to tolerate oral intake, significant comorbidities, or fail to
+improve with outpatient management
+
+= treat with NPO, IV fluids, and IV antibiotics (e.g. IV ceftriaxone + metronidazole)
+image-guided (CT) percutaneous drainage of abscesses reduces the urgency of surgical resection in most
+patients
++ surgery:
+
+= indications:
+
+¢ unstable patient with peritonitis
+
++ Hinchey stage 3-4 (see Table 20)
+procedures:
+
++ Hartmann resection (for unstable or complex cases): colon resection + colostomy and rectal stump
+
+> colostomy reversal in 3-6 mo
+
+pros/cons of elective surgery should be discussed with patients following resolution of acute episodes
+for more stable patients with Hinchey stage 3 and 4 acute diverticulitis: colonic resection, primary
+anastomosis + diverting loop ileostomy is becoming more common, with benefits for mortality and
+morbidit}
+for Hinchey stage 3: laparoscopic peritoneal lavage with drain placement near the affected colon, in
+addition to antibiotics (NO resection), has been proposed
+complications: perforation, abscess, fistula, obstruction, hemorrhage, inability to rule out colon cancer
+on endoscopy, or failure of medical management
+
+Prognosis
++ mortality rates: 6% for purulent peritonitis, 35% for feculent peritonitis
++ recurrence rates: 13-30% after first attack, 30-50% after second attack
+
+Table 20. Hinchey Staging and Treatment for Diverticulitis
+
+Toronto Notes 2025
+
+Etficacy and Safety of Wonantbiotic Outpatient
+
+study): AMuiticente, Randomised, Open label,
+NoninterorityTrial
+Aan Surg 2021;2745 0435
+Background: In recent years, ithas shown no benefit
+of antbiotcs(ATB)in the treatment of uncomplicated
+Acute Divertcultisin hospitaled patents.
+Methods: Prospective, mitcentre, open label,
+‘noninferiority, randomized controlled tia
+Results: Diferencesin hospitalization ats, revs,
+and por pain controlat2¢ follow-up were within the
+on nfronity margin,
+5: Nonantibitic outpatient treatment
+
+il Dis sae and effective ands notinferior to
+Caen standard treatment
+
+diverts and
+
+inflammation
+Colostomy
+Resection of
+diseased area
+and dosure
+of distal
+rectal stump
+
+‘Anastomosis
+inapprosimatey
+
+HincheyStage Description ‘Acute Treatment
+
+1 Phlegmon’small percolicabscess Medical
+
+2 Large abscessfistula Medical, abscess drainage resection withprimary anastomosis,
+3 Purulent peritonitis ruptured abscess) Resection or Hartman procedure
+
+4 Feculent peritonitis Hartmann procedure
+
+‘Myra Rudakewich
+
+Figure 14. Hartmann procedure

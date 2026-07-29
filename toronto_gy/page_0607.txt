@@ -1,0 +1,90 @@
+GY13 Gynecology Toronto Notes 2025
+
+Treatment
+
+. surgical confirmation of disease is NOT required prior to starting medical management. Asymptomatic
+endometriosis does not require treatment. Management depends on certainty of the diagnosis, severity
+of symptoms, extent of disease, desire for future fertility, and impact to GI/GU systems (e.g. intestinal
+obstruction)
+
++ medical
+
+= medical suppression to prevent progression of disease, unless trying to conceive, which has not been
+roven in the literature
+«= NSAIDs (e.g. naproxen sodium - Anaprox*). Avoid selective COX-2 inhibitors (celecoxib, rofecoxib,
+valdecoxib) in those who are attempting conception as some studies indicate these drugs can prevent or
+delay ovulation
+= Istline
++ cyclic/continuous estrogen-progestin (OCP)
+* progestin (IM medroxyprogesterone (Depo-Provera’) or oral dienogest (Visanne"))
++ Mirena’ IUS
+= 2nd line
+* GnRH agonist (e.g, leuprolide (Lupron’) or elagolix (Orlissa*)): suppresses pituitary gland and induces
+pseudomenopauses. Not a contraceptive
+— side effects: hot flashes, vaginal dryness, reduced libido
+— Lupron use >6 mo: include add-back progestin or estrogen to prevent decreased BMD, reduce
+vasomotor side effects
+— Orlissa’ low dose (150 mg once daily) does not require add-back progestin or estrogen. High
+dose (200 mg PO BID) does require add-back
++ Myfembree® (40mg ralugolix, estradiol Img and norethidrone acetate 0.5 mg) isa GnRH antagonist
+used to treat moderate to severe pain associated with endometriosis, and with add back included to
+counter vasomotor side effects
+¢ danazol (Danocrine’): weak androgen
+— side effects: weight gain, fluid retention, acne, hirsutism, voice change (not commonly used
+due to side effects)
++ surgical
+= limited to failure of medical treatment, or desire for definitive treatment
+= conservative laparoscopy using laser, electrocautery + laparotomy
++ ablation/resection of implants, lysis of adhesions, ovarian cystectomy of endometriomas
+= definitive: hysterectomy + bilateral salpingo-oophorectomy
+= best time to become pregnant is immediately after conservative surgery
+= if patient is not planning to become pregnant postoperatively, suppress ovulation medically to prevent
+recurrence (not proven but recommended)
+
++ above treatments are for the pain, not for the infertility associated with endometriosis, which usually
+involves surgery + assisted reproductive technologies. Also, management for endometriomas is surgical for
+symptomatic and expanding masses, but this can decrease ovarian reserve, so if it is asymptomatic and small
+(<5 cm), then no surgery is necessary
+
+ ifconsidering surgery for endometriomas, particularly if bilateral, refer to REI for consideration of
+ovarian freezing
+
+|Adenomyosis CO
+
+Definition
++ extension of areas of endometrial glands and stroma into the myometrium
++ synonym: “endometriosis interna” (uterine wall may be diffusely involved)
+
+Epidemiology
+
++ 15% of females >35 y/o; found in 20-40% of hysterectomy specimens
+
++ mean age at presentation: 40-50 y/o (older age group than seen in endometriosis)
++ adenomyosis is a common histologic finding in asymptomatic patients
+
+Clinical Features
+
++ often asymptomatic
++ heavy menstrual bleeding, secondary dysmenorrhea, pelvic discomfort
++ dyspareunia, dyschezia
+
++ uterus symmetrically bulky, usually <14.cm
+
++ Halban’s sign: tender, softened uterus on premenstrual bimanual exam
+
+investigation e
+
++ clinical diagnosis Final diagnosis of adenomyosis is based
++ U/SorMRIcan be helpful on pathologic findings, but predictably
++ endometrial sampling to rule out other pathology identtied on MRL
+
+Treatment
++ medical
+«= iron supplements for anemia
+= analgesics, NSAIDs
+= Mirena*IUS
+= CHC, dinogest (Visanne’), medroxyprogesterone (Depo-Provera*) — limited evidence for efficacy
+= GnRH agonists (eg. leuprolide (Lupron *), elagolix (Orlissa’))
+= danazol 100-200 mg PO once daily (trial x 4 mo)
++ surgical
+= definitive: hysterectomy — treatment of choice in patients who have completed childbearing

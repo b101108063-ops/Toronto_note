@@ -1,0 +1,77 @@
+Gis Gastroenterology Toronto Notes 2025
+
+Table 10. Parasites in Infectious Diarrhea
+
+Pathogen Source orMode Incubation Clinical Features Duration Antimicrobial Therapy Notes
+of Transmission
+
+Fever Bloody Abdo Nausea/
+Stool Pain Vomiting
+
+Cryptosporidium —Fecaloral 14 fe - + 120d Paromomycins Immune reconstitution it
+nitazoxanide immunosuppressed
+Entamoeba Worldwide 24k foo - + Variable Metronidazole untreated, potential for liver
+histolytica endemic areas + indoquinol or abscess
+Fecal-oral paromomycinit Sigmoidoscopy may show lat
+symptomatic infection ulcers withyellow exudates,
+Only iodoquino or
+paromomycin for
+asymptomatic cyst
+passage
+GiardialambliaFecaloral 14k - = + 6 Variable Metronidazole or Higher risk: daycare
+Contaminated nitazoxanide children, intake of untreated
+foodiwater Treatment of water ("beaver fever"), MSM,
+
+asymptomatic carriers immunodeficiency (decreased
+NoTrecommended ol)
+May need duodenal biopsy
+
+Table 11. Viruses in Infectious Diarrhea
+
+Pathogen Source orMode Incubation —_Clinical Features Duration Antimicrobial Therapy Notes
+of Transmission
+Fever Bloody Abdo Nausea/
+Stool Vomiting
+Norovirus: Fecatoral mh - - * + mh None Noroviruses indude Norwalk
+vis
+Rotavirus Fecatoral 24d t - - t 38d None Can cause severe dehydration
+Virtually al children are
+infected by 3 yr
+Oral vaccine given at 2and4 mo
+Traveller’s Diarrhea Po]
+Epidemiology
+
++ most common illness to affect travellers
+* up to 50% of travellers to developing countries affected in first 2 wks and 10-20% after returning home
+
+Etiology
+
+bacterial (80-90%): E. coli most common (ETEC), Campylobacter, Shigella, Salmonella, Vibrio (non-
+cholera); wide regional variation (e.g. Campylobacter more common in Southeast Asia)
+
+viral: norovirus, rotavirus, and astrovirus account for 5-8%
+
+protozoal (rarely): Giardia, Entamoeba histolytica, Cryptosporidium, and Cyclospora for ~10% in long-term
+travellers
+
++ pathogen-negative traveller’s diarrhea common despite exhaustive microbiological workup
+
+Treatment
++ rehydration is the mainstay of therapy
+= rehydrate with sealed beverages
+= in severe fluid loss, use oral rehydration solutions (1 package in 1 L boiled or treated water)
++ treat symptoms: antidiartheal agents (e.g. rifamycin ABx, bismuth subsalicylate, loperamide)
++ empiric ABx in moderate or severe illness: ciprofloxacin, azithromycin, or rifaximin
++ note: there is increasing fluoroquinolone resistance in causative agents, especially in South and Southeast
+Asia
+
+Prevention
++ proper hygiene practices
+= avoid consumption of: foods or beverages from establishments with unhygienic conditions (e.g. street
+vendors), raw fruits or vegetables without a peel, raw or undercooked meat and seafood
+= avoid untreated water, beer on tap
++ bismuth subsalicylate (Pepto-Bismol'): 60% effective (2 tablets QUID)
++ antibiotic prophylaxis not recommended
+= increased risk of infection with resistant organisms
+= high-risk groups (e.g. immunocompromised individuals) likely to be infected with pathogen not
+covered by standard antimicrobial agents

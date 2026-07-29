@@ -1,0 +1,142 @@
+ER42 Emergency Medicine
+
+Nephrolithiasis (Renal Colic)
+
+«+ see Urology, U19
+
+Epidemiology and Risk Factors
+
++ 10% of population (twice as common in males)
+
++ recurrence 50% at 5 yr
+
++ peak incidence 30-50 yr
+
++ 75% of stones <4 mm pass spontaneously within 2 wk, larger stones may require consultation
+
+Clinical Features
+
+urinary obstruction > upstream distention of ureter or collecting system > severe colicky pain
+
+may complain of pain at flank, groin, testes, or tip of penis
+
+writhing, N/V, hematuria (90% microscopic), diaphoresis, tachycardia, tachypnea
+
+occasionally symptoms of trigonal irritation (frequency, urgency)
+
+fever, chills, rigors in secondary pyelonephritis
+
+peritoneal findings/anterior abdominal tenderness usually absent (if present, consider renal pelvis rupture
+or other cause)
+
+Differential Diagnosis of Renal Colic
+
+* acute ureteric obstruction
+
++ acute abdomen: biliary, bowel, pancreas, AAA rupture, diverticulitis
+
+* urogynecological: ectopic pregnancy, torsion/rupture of ovarian cyst, testicular torsion
++ pyelonephritis (fever, chills, pyuria, vomiting)
+
++ radiculitis (L1): herpes zoster, nerve root compression
+
+Investigations
+
++ CBC: elevated WBC in presence of fever may support an infectious cause
+
+electrolytes, Cr, BUN to assess renal function
+
+U/A: routine and microscopy (WBCs, RBCs, crystals), C&S
+
+non-contrast CT is the study of choice (better specificity and sensitivity)
+
+consider abdominal U/S in females of childbearing age, children, or if patient has another contraindication
+to CT scanning: may demonstrate stone(s), hydronephrosis, debris in the collecting system, reduced
+cortical vascularity, abnormal renal parenchyma
+
+AXR will identify Tange radiopaque stones (calcium, struvite, and cystine stones) but may miss smaller
+stones, uric acid stones, or stones overlying bony structures; consider as an initial investigation in patients
+who have a history of radiopaque stones and similar episodes of acute flank pain, carry out with U/S (CT
+necessary if film is negative).
+
+Management
+
++ analgesics: NSAIDs (usually ketorolac (Toradol’), preferable over opioids), antiemetics, IV fluids if indicated
+
++ urology consult indicated, especially if stone >5 mm, bilateral obstructing stones, septic stone, renal
+impairment, solitary kidney, or if patient has signs of obstruction leading to renal dysfunction or infection
++ a-blocker (e.g. tamsulosin) may be helpful to increase stone passage in select cases
+
+Disposition
+
++ most patients can be discharged
+
++ ensure patient is stable, has adequate analgesia, and able to tolerate oral medications
++ may advise hydration and limitation of protein, sodium, oxalate, and alcohol intake
+
++ see Ophthalmology, OPS
+
+History and Physical Exam
+
+* patient may complain of pain, tearing, itching, redness, photophobia, foreign body sensation, trauma
+
++ mechanism of foreign body insertion — if high velocity injury suspected (welding, metal grinding, metal
+striking metal), must obtain orbital x-rays, U/S, or CT scan to exclude presence of intraocular metallic
+
+foreign body
+
+ask about sexual partners and exposure of eye(s) to bodily fluids (semen, urine, blood, vaginal fluids, saliva,
+
+etc.)
+
+visual acuity in both eyes Pupils, extraocular structures, extraocular movements, fundoscopy, tonometry,
+
+slit amp exam, visual fields
+
+Management of Ophthalmologic Foreign Body
+for achemical injury: copious irrigation with saline for any foreign body
+remove foreign body under slit lamp exam with cotton swab, sterile needle, or electric burr tool
+antibiotic drops if indicated (e.g. organic foreign body, or if the patient is a contact lens wearer)
+patching may not improve healing or comfort - do not patch contact lens wearers
+imit use of topical anesthetic to examination only
+tetanus prophylaxis
+ophthalmology should see in follow-up or ED consult if globe penetration suspected
+
+Toronto Notes 2025
+
+Kidney Stones
+80% calcium oxalate
+10% struvite
+
+10% uric acid
+
+®
+
+Obstruction + Infection
+= Urological Emergency
+
+Urgent urology consult +IV fluids + broad
+spectrum antibiotics
+
+Indications for Admission to Hospital
+Intractable pain
+
+Fever (suggests infection) or other
+evidence of pyelonephritis,
+
+Single kidney with ureteral obstruction
+Bilateral obstructing stones
+
+Intractable vomiting
+
+‘Compromised renal function
+
+Contraindications to Pupil Dilation
+Shallow anterior chamber
+
+Iris supported lens implant
+Potential neurological abnormality
+requiring pupillary evaluation
+
+Caution with CV disease — mydriatics can
+cause tachycardia

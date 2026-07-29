@@ -1,0 +1,91 @@
+NP45 Nephrology Toronto Notes 2025
+Trial Name Reference (linical Trial Details
+ROADMAP NEJM 2011364:907-17 Title: Oimesartanforthe Delay or Prevention of Microalbuminuria in Type 2 Diabetes
+Purpose: Assess whether treatment withan ARB would prevent the occurence of microalbuminuria inT 20M patients with normoalbuminura,
+Methods: 4447 patients with T2DM were randomized toreceive olmesartan 40 mg OD cr placebo. Additonal hypertensives were used as needed to meet the target BP of
+-<130/80 mig Theprimary outcome was the iment thefirst onset of microalbuminuria.
+Results: Microalbuminuria developedin 8.2% of olmesartan-treated patients, and 9.8%in the placebo group. The timeto onset this increase was increased by 23%
+with olmesartan (hazard rato 0.77; 95% C10,63 to0.94; P=O.01)
+‘Conclusions: The use ofthe ARB olmesartanwas mare effective than placebo in delaying the onset of microalbuminuria inpatients with T2DM, normoabbuminuria, and
+{good BP control
+VA-NEPHROND NEJM 2013; 369: 1892-903 Title: Combined Angiotensin Inhibition forthe Treatment of Diabetic Nephropathy
+Purpose: To compare the safety and effectiveness of combining an ACE inhibitor and an ARB versus ARB monotherapy in proteinurc diabetic nephropathy progression
+Methods: Patients withT20M, urinary albumin-to-creatinineratio>300, and estimated GFR of 30.0-89.9 ml/min/1.73 m* received losartan, They werethen randomly
+assigned tosinopril or placebo. The primary outcome was adecline inestimated GFR, ESRD, or death. The secondary outcome was adecline inestimated GFR or ESRD.
+Safety outcomes were aso assessed.
+Results: The study was halted early due to salty concerns. Among 1448 patients with a median follow-up of 2.2 years, there was no significant fferencein the primary
+‘endpoint between monotherapy and combination therapy groups. The trend towards asecondary endpoint benefit decreased ove time. Combination therapy increased
+the risk of hyperkalemiaand acute kidney injury.
+Conclusions: The combination an ACE inhibitor and an ARB inpatients with diabetic nephropathy was inked to higher adverse event risks.
+PARENCHYMAL KIDNEY DISEASES
+ASK JAMA 2001;285:2719-28 Title Effectof Ramiprl vs. Amlodipine on Renal Outcomes in Hypertensive Nephrosclerosis
+Purpose: Compare the effectsof an ACEI dihydropyridine CCB and B-blocker on hypertensiverenal disease progression.
+Methods: 1094 patients with hypertensiverenal disease were randomized to amlodipine 5-10 mg/d, metoprolol 50-200 mg/d or ramipri 2.5-10 mg/d, with other agents
+Theprimary outcome was the rateof change of GR.
+Results: The ramipril group had a 36% slower mean dectine inGFR (P=0,006),s. the amlodipine group (95% Cl 20%: to66%), There wereno significant differences inthe
+mean GFR decine rombaselineto 3 yr between treatment groups.
+Conclusions: Ramipil, compared with amlodipine, slows progression of hypertensive renal disease and proteinuria, and may benefit patients without proteinuria as
+well,
+AURORA Lancet 2021; 397(10289):2070-80 Title Efficacy andsafetyofvoclosporn versus placebo for lupus nephritis (AURORA): 2 double-blind, randomised, multicentre, placebo-contolled, phase 3 tral
+Purpose: Evaluate the safety and efficacy of voclosporininthetreatmentof pusnephitis.
+Methods: Adults éagnosed with systemic lupus erythematosus with lupus nephritis (biopsy dass Il-V} wererandomized(t:1ratio) to receive oral voclosporin or
+placebo, in additionto standard therapy. The primary outcomeat wh52 was a complete renal response (urine protein: Cr ratio <0.5 mg/mg, stable renal function (GFR
+260 mLmin/173 m2 of 20% decrease frombaseline eGFR, and no rescue therapy).
+Results: At endpoint wk 52 significantly more patients inthe voclosporingroup had acomplete renal response, as compared tothe placebo group (4 vs, 23%; OR
+2.65; 95% Cl 11.64-4.27; P<O.0001). The adverse evet profile was similar between groups (27% vs. 21) with no deaths attributable stud-related treatments,
+Conclusions: Patients who received vodosporin in addition to standard therapy hada higher ate of complete renal responsethan those receiving standard therapy
+alone.
+BUISS-LN NEJM 2020;3831117-28 Title: TwoYear, Randomized, Controlled Trial of Belimumab in Lupus Nephriis
+Purpose: Elucidate the efficacy and safety ofVbelimumab as compared withplacebo, when added to standard therapy of mycophenolate mofetil or cydophosphamide-
+azathioprine.
+Methods: Adults wih biopsy-proven, active lpus nephritis were randomized 1 rato) to receive IW belimumab (10 maka) or matching placebo, inadidtion to standard
+therapy. The primary outcome at week 104 was a primary efficacy renal response (urinary protein: Crratio 0.7, eGFR no <20% pre fae value, or 260 mUmin and nouse
+ofrescue therapy).
+Results: At endpoint wk104, significantly more patients inthe belimumab group hada primary efficacy response, as compared tothe placebo group (43% vs. 32%; OR
+1.65;95%Cl11to 2.5;P=0.02) Theriskof arenal-related eventor death was lower among patients whoreceivedbelimumab than placebo (hazard ratio 0.51; 95% Cl
+0.34t00.71;P-0.001).
+‘Conclusions: Patients who received belimumab in addition to standard therapy had a higher rate of primary efficacy response than those whoreceived standard therapy
+alone.
+CORAL NEJM 2014;370:13-22 Tile: Stenting and Medical Therapy fr Atherosclerotic Renal-Artery Stenosis
+Purpose: Study the usefulness of renal artery stentingfor the prevention of major adverse renal and CV evens in patients with atherosclerotic renal artery stenosis
+Methods: 47 patients with atherosceroticrenal artery stenosis andeither systolic HTN or CKD were randomized to medical therapy plus stenting, or to medical therapy
+2. The primary outcomes were occurrence of adverse CV and renal events.
+Results: The rate of primary events did not differ significantly between partipants who underwent stenting or medica therapy alone (35.1% vs. 35.8%; hazard ratio
+10,94; 95% C1 0.76 to 1.1; P-0.58).Therewere no significant differences in other components of the primary endpoint
+‘Conclusions: Rena-artry stenting id not confer a significant benefit with respect tothe prevention of renal or cardiac events when addedto comprehensive,
+matifatorial medical therapy in people with atherosclerotic renal-atery stenosis and hypertension or chronic kidney disease
+MAINRITSAN NEJM 2045;3711771-80 Title: Rituximab versus Azathioprine for Maintenancein ANCA-Associated Vascultis
+Purpose: Assess whether rituximab helps maintainremission of ANCA-associated vasculitis
+Methods: Patients with newly diagnosed ANCA-associatedvascultides in complete emission were randomizedto ether rituximab 500 mg or daily azathioprine. The
+primary endpoint at28 mo was therate of majr relapse.
+Results: At 28 mo, major relapse occurred in29% of patients in the azathioprine group, comparedto 5% of patients in the rituximab group (hazard ratio 6.61; 95% Cl
+1.56 027.96; P=0.002). The frequency of serious adverse events was comparable between groups.
+‘Conclusions: More patients with ANCA-associated vasculitis had sustained remission at28 mowih rituximab than with azathioprine.
+PEXIVAS NEJM 2020;382:622-31 Title: Plasma xchange and Glucocorticoids in Severe ANCA-Assocated Vasculitis
+asses the effectiveness of plasma exchange versus no plasma exchange interms of mortality or ESRD inpatients with severe ANCA-associated vasculitis
+randomized trial with 2-by-2 factorial design assessing plasma exchange and two orl glucocorticoid regimens in severe ANCA-assocated vasculitis, The
+primary outcome was a composite of death or ESRD. The follow-up periodwas upto 7years.
+Results: Death o ESRD rates were 28.4% intheplasma-exchange group and 31.0%in the control group, showing no significant difference The reduced-dose
+‘glucocorticoid regimen was non-inferor tothe standard-dose regimen fr death or ESRD. Thereduced dose group had fewer seiousinfections, but ather outcomes
+‘ere similar between the groups.
+‘Conclusions: Plasma exchange did not reduce death or ESRD insevere ANCA-assocated vasculitis. The reduced-dose glcocorticoid regimen was as effective asthe
+standard dose.
+REIN Lancet 1999;354:359-64 Je: Renoprotective Properties of ACE-in Non-diabetic Nephropathies with Non-Nephrotic Pote
+Purpose: Assess he renoprotectve effects of ACE inhibition innon-diabetic nephropathies with non-nephrotic proteinuria
+Methods: 186 patients were randomized to ramipril or control placebo plus conventional antihypertensive) The primary endpoints were change in GFR and timeto
+‘overt proteinuria.
+Results: The dedine in monthly GFR was not significantly different (0.26 mUmin/173 m2in ramipra group vs. 0.29 mLimin/1.73 m2 inthe control group). Progressionto
+ESRD was significantly less common with ramipril than contrl, fora RRof 2.72 (95% Cl1.22t06.08), likewise or progressionto overt proteinuria (RR 2.40;95% Cl 1.27
+10452).
+‘Conclusions: In non-diabetic nephropathy, ACEI were renoprotectivein patients withnon-nephrotc range proteinuria,
+REIN Lancet 2005;365:939-46 Blood Pressure ontrol for Renoprotection in Patients with Non-diabetic ChronicRenal Disease
+
+Purpose: Assess effects of intensified vs. conventional BP control with ACEI on progressionto ESRD.
+Methods: Patients withnon-ciabetic nephropathies receivingbackground treatment were randomized toeither conventional (diastolic <90 mmHg) or intensified (<130
+mm) BP control. The primary outcome was time toESRD over 36 mo.
+
+Results: Patients assigned to intensified BP control progressed to ESRD ata rate of 23% compared to20% in the control group.
+
+‘Conclusions: In patients withnon-diabetc nephropathy akeady on ACEI there was no futher benefit from intensified BP contol by adding CCB vs. conventional BP
+<controlon ACEIalone.
+

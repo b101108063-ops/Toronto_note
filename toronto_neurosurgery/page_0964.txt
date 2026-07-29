@@ -1,0 +1,102 @@
+S32 ‘Neurosurgery
+
+Table 21. Differentiating Conus Medullaris Syndrome from Cauda Equina Syndrome
+
+Conus Medullaris Syndrome Cauda Equina Syndrome
+Onset ‘Sudden, bilateral Gradual, uniateral
+Spontaneous Pain Rare, if present usually bilateral, symmetric in perineum Severe, radicular type: in perineum, thigh, egs, back,
+or thighs orbladder
+Sensory Deficit Saddle; bilateral and symmetric; sensory Gssociation Saddle; no sensory dissociation; may be unilateral and
+asymmetric
+Motor Deficit Symmetric; paresis ess marked; fasciculationsmay Asymmetric; paresis more marked; atrophy may be
+be present present; fasciculations rare
+Reflexes Only ankle jerk absent preserved knee jerk) Knee and ankle jerk may be absent
+‘Autonomic Symptoms ladder dysfunction, Urinary etention and atonic anal sphincter prominent Sphincter dysfunction presentslate; mpotenceless
+impotence, etc) eatly;impotencefrequent frequent
+
+Cauda Equina Syndrome
+
+Etiology
+
+* compression or irritation of lumbosacral nerve roots below conus medullaris (below L2 level)
++ decreased space in the vertebral canal below L2
+
++ common causes: herniated disc + spinal stenosis, vertebral fracture, and tumour
+
+Clinical Features
++ usually acute (develops in <24h); rarely subacute or chronic
++ motor (LMN signs)
+= weakness in multiple root distribution
+= reduced deep tendon reflexes (knee or ankle)
++ autonomic
+= urinary retention (or overflow incontinence) and/or fecal incontinence due to loss of anal sphincter tone
++ sensor;
+. bak pain radiating to legs (sciatica) aggravated by Valsalva maneuver and by sitting; relieved by
+lying down
+= bilateral sensory loss or pain: depends on the level affected
+= saddle area (S2-S5) anesthesia
+= sexual dysfunction (late finding)
+
+Investigations
+
++ urgent MRI to confirm compression of $2-S3-S4 nerve root by a large disc herniation
+
++ post-void residual very helpful to determine if true retention is present; volumes controversial but anything
+over 250 cc in a healthy individual is cause for concern
+
+Treatment
+
++ surgical decompression (<48 h) to preserve bowel, bladder, and sexual function, and/or to prevent
+progression to paraplegia
+
++ consult radiation oncology for urgent symptomatic management if palliative oncology patient
+
+Prognosis
+
++ markedly improves with surgical decompression
+
++ recovery correlates with function at initial presentation: if patient is ambulatory, likely to continue to be
+ambulatory; if unable to walk, unlikely to walk after surgery
+
+Lumbar Spinal Stenosis
+
+Etiology
++ congenital narrowing of spinal canal combined with degenerative changes (herniated disc, hypertrophied
+facet joints, and ligamentum flavum)
+
+C al Features
+
++ gradually progressive back and leg pain with standing and walking relieved by sitting, lying down, or
+movements involving lumbar flexion (e.g. riding a bicycle, leaning over a shopping cart); NC 60% sensitive
+
++ neurologic exam may be normal, including SLR test
+
+Investigations
++ MRI is best to confirm and localize the level of stenosis (unlike nerve root compression which can be
+localized with clinical exam)
+
+Treatment
++ nonsurgical: NSAIDs, analgesia, physical therapy
++ surgical: laminectomy with root decompression
+«= fusion typically advised if evidence of segmental instability prior to surgery (e.g. in flexion/extension
+x-rays)
+
+Toronto Notes 2025
+
+Causes of Cauda Equina Syndrome
+Lumbar disc herniation
+
+Spinal stenosis
+
+Spinal tumour
+
+Epidural abscess
+
+Hematoma
+
+Trauma
+
+Neurosurgery Tra table formore
+information onthe SPORT ial for outcomes of surgery
+1s. nonoperative care for symptomatic ambar spinal
+stenosis

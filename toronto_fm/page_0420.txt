@@ -1,0 +1,103 @@
+FM44 Family Medicine
+Management
++ person-specific support and offering of health education about menopause (if desired)
+« https://www.menopauseandu.ca
++ non-pharmacological management: encourage physical exercise, smoking cessation, and a balanced diet
+with adequate intake/supplementation of calcium (1200 mg/d) and vitamin D (1000 IU/d)
+pharmacological management:
+= hormone therapy (HT)
+initiation of HT requires a thorough discussion of short- and long-term benefits and risks
+HT should not be initiated if >10y post-menopause
+* regimens: cyclic or continuous estrogen-progestin, estrogen only (if no uterus, patch/gel/cream/
+ring/vaginal tablet)
++ advantages: decreases risk of osteoporotic fractures, CRC
+
+¢ disadvantages: increases risk of DVT and PE. Can increase risk of breast cancer and stroke if HT is
+
+initiated >60 yr old or >10 yr from menopause
+= venlafaxine, SSRIs, or gabapentin to ease vasomotor instability
+
+Osteoarthritis
+
+see Rheumatology, RH5
+
+Definition
++ progressive deterioration of articular cartilage and surrounding joint structures caused by genetic,
+metabolic, biochemical, and biomechanical factors with secondary components of inflammation
+
+Epidemiology
+
++ most common form of arthritis seen in primary care
+
++ prevalence is 10-12% and increases with age
+
++ results in long-term disability in 2-3% of patients with OA
+
++ almost everyone >65 yr shows signs of OA on x-ray, but only 33% of these individuals will be symptomatic
+
+Clinical Features
+
++ joint pain with activity, improved with rest, morning stiffness or gelling <30 min
+
++ deformity, bony enlargement, crepitus, limitation of movement, periarticular muscle atrophy
++ usually affects distal joints of hands, spine, hips, and knees
+
+Investigations
+
++ nolaboratory tests for the diagnosis of OA
+
++ hallmark radiographic features: joint space narrowing, subchondral sclerosis, subchondral cysts,
+osteophytes
+
+Management
++ goals: relieve pain, preserve joint motion and function, prevent further injury
+* conservative
+= patient education, weight loss, low-impact exercise (through occupational therapy/physiotherapy),
+assistive devices (e.g. canes, orthotics)
++ pharmacological
+= consider comorbidities such as PUD, HTN, IHD, hepatic disease, and renal disease
+= medications do not alter natural course of OA
+=  Istline: acetaminophen up to 4 g/d (OA is not an inflammatory disorder)
+= 2nd line: NSAIDs (cyclooxygenase-2 (COX2) selective) in low doses for short durations
+= 3rd ine: duloxetine, combination analgesics (e.g. acetaminophen and codeine)
+= other pharmacological adjuncts:
+* intra-articular corticosteroid or hyaluronic acid injections
++ topical NSAIDS (diclofenac)
+* capsaicin cream
++ oral glucosamine (evidence remains inconclusive)
++ surgery
+= consider if persistent significant pain and functional impairment despite optimal pharmacotherapy
+(e.g. debridement, osteotomy, total joint arthroplasty)
+
+Toronto Notes 2025
+
+yn
+
++ Hand (DIP, PIP, 1st CMC)
+
++ Hip
+
++ Knee
+
++ 1st MTP
+
++ L-spine (L4-5, L5-S1)
+
+spine
+
++ Uncommon: ankle, shoulder,
+elbow, MCP, rest of wrist
+
+fs
+
+© Linda Colati
+
+Figure 14. Common sites of
+involvement in OA
+
+CMC = carpometacarpal joint
+
+DIP = distal interphalangeal joint
+MCP = metacarpophalangeal joint
+MTP = metatarsophalangeal joint
+PIP = proximal interphalangeal joint

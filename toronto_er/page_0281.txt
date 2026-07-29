@@ -1,0 +1,92 @@
+Toronto Notes 2025
+
+= insulin
+critical, as this is the only way to inhibit gluconeogenesis/ketosis
+do not give insulin if K* <3.3 mmol/L as insulin will exacerbate hypokalemia
+continuous infusion at 0.05-0.1 U/kg/h
+once the blood glucose <14 mmol/L, dextrose should be added to the patient’s IV fluids
+«= bicarbonate is not given unless patient is at risk of shock or death (typically pH <7.0)
+
+Hyperosmolar Hyperglycemic State
++ hyperosmolar hyperglycemic state (HHS) is characterized by extreme hyperglycemia (33.3 mmol/L) due to
+relative insulin deficiency, counter-regulatory hormones excess, gluconeogenesis, and dehydration (due to
+osmotic diuresis)
++ clinical features
+= often older, T2DM patients with more comorbid illnesses and larger fluid losses with symptoms
+evolving over days to weeks, fewer GI symptoms and more neurological deficits than DKA including:
+mental disturbances, coma, delirium, seizures
+= polyuria, N/V
++ investigations
+= blood work: CBC, electrolytes, extended lytes, Cr, BUN, glucose, ketones, osmolality
+= urine: glucose and ketones
+«= VBG
+= find underlying cause (e.g. pneumonia, UTI, sepsis): ECG, CXR, blood and urine C&S
+= monitor pH (expected: pH >7.3) and bicarbonate (>18 mEq/L)
++ management
+= rehydration with IV NS (total water deficit estimated at average 100 cc/kg body weight)
+= On, cardiac monitoring, frequent electrolyte, and glucose monitoring
+= insulin management as per DKA
+# identify and treat precipitating factors, similar to DKA but HHS has also been noted following
+cardiac surgery and with the use of certain drugs (e.g. diuretics, glucocorticoids, lithium, atypical
+antipsychotics)
+= admission to medicine
+
+Hypoglycemia
++ characterized by Whipple's triad: low plasma glucose, symptoms suggestive of hypoglycemia, prompt
+resolution of symptoms when glucose administered
++ clinical features
+= neuroglycopenic symptoms: headaches, confusion, seizures, loss of consciousness, coma
+= autonomic symptoms: diaphoresis, nausea, tremor, hunger, tachycardia, palpitations
+history and physical exam
+= last meal, known DM, prior similar episodes, drug therapy, and compliance
+« liver/renal/endocrine/neoplastic disease
+«= depression, alcohol or drug use
++ management
+= check a bedside capillary blood glucose
+= oral sugar if possible (juice, sugar tablets)
+= [Vaccess if oral route not possible
+= D50W 50 mL IV push
++ use lower concentration dextrose solutions in children (rule of 50's: 1 mL/kg of D50W, 2 mL/kg of D25W, 5
+mL/kg of DIOW, 10 mL/kg of DSW)
+= if IV access and oral replacement not possible, glucagon 1-2 mg IM, repeat in 10-20 min
+= 02, cardiac, frequent blood glucose monitoring
+thiamine 300 mg IM (if alcohol use disorder is suspected)
+full meal as soon as mental status permits
+if due to long-acting insulin, or sulfonylureas, watch for prolonged hypoglycemia due to long half-life
+(may require admission for monitoring)
+search for cause (common causes include exogenous insulin, alcohol, or sulfonylureas)
+
+Emergency Medicine
+
+ER35
+
+‘Signs and Symptoms of DKA
+
+Diuresis, dehydration, drowsy, delirium,
+dizziness
+
+Kussmaul's breathing, ketotic breath
+‘Abdominal pain, anorexia
+
+Precipitating Factors in DKA
+
+The Sis
+Infection
+Ischaemia
+Infarction
+Intoxication
+Insulin missed
+
+Cerebral edema may occur if
+hhyperosmolaityis treated too aggressively
+
+Causes of Hypoglycemia
+
+Most common: excessive insulin use in
+setting of poor PO intake
+
+Common: alcohol intoxication, sepsis, liver
+disease, oral ant-hyperglycemics
+
+Rare: insulinomas, hypopituitarism, adrenal
+insufficiency, medication side effects,

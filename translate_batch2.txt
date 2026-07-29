@@ -1,0 +1,362 @@
+===== SECTION: 800 =====
+## Page 800
+
+MILO ‘Medical Imaging
++ cardiothoracic ratio = greatest transverse dimension of the central shadow relative to the greatest
+transverse dimension of the thoracic cavity
+= using a good quality erect PA chest film in adults, cardiothoracic ratio of >0.5 is abnormal
+= differential of ratio >0.5
++ cardiomegaly (myocardial dilatation or hypertrophy)
+* pericardial effusion
+* poor inspiratory effort/low lung volumes
+* pectus excavatum
+«= ratio <0.5 does not exclude enlargement
+pericardial effusion: globular heart with loss of indentations on left mediastinal border
+RA enlargement: increase in curvature of right heart border and enlargement of SVC
+LA enlargement: straightening of left heart border; increased opacity of lower right side of cardiovascular
+shadow (double heart border); elevation of left main bronchus (specifically, the upper lobe bronchus on the
+lateral film); distance between left main bronchus and “double” heart border >7 cm; splayed carina (late
+sign)
+RV enlargement: elevation of cardiac apex from diaphragm; anterior enlargement leading to loss of
+retrosternal air space on lateral; increased contact of right ventricle against sternum
+LV enlargement: rounding of the cardiac apex; displacement of left cardiac border leftward, inferiorly, and
+posteriorly
+
+Tubes, Lines, and Catheters
+
++ ensure appropriate placement and assess potential complications of lines and tubes
+avoid mistaking a line/tube for pathology (e.g, oxygen rebreather mask for pneumothoraces)
+
+Central Venous Catheter
++ used for fluid and medication administration, vascular access for hemodialysis, and CVP monitoring
++ ideally located at the SVC/atrial junction to prevent inducing arrhythmias or perforating wall of atrium
+« ifmonitoring CVP, catheter tip must be proximal to venous valves
+tip of well-positioned central venous catheter projects over silhouette of SVC ina zone demarcated
+superiorly by the anterior first rib end and clavicle, and inferiorly by top of RA
+course should parallel that of the SVC; if appears to bend as it approaches wall of SVC or appears
+perpendicular, catheter may damage and ultimately perforate wall of SVC
++ complications: pneumothorax, bleeding (mediastinal, pleural), malposition (artery, pleura), air embolism
+
+Endotracheal Tube
+
+frontal chest film: tube projects over trachea and shallow oblique or lateral chest radiograph will help
+determine position in 3 dimensions
+
+progressive gaseous distention of stomach on repeat imaging is concerning for esophageal intubation
+
+tip should be located 2-4 cm above tracheal carina (avoids bronchus intubation and vocal cord irritation)
+maximum inflation diameter <3 cm to avoid necrosis of tracheal mucosa and rupture; ensure diameter of
+balloon is less than tracheal diameter above and below balloon
+
+complications: aspiration (parenchymal opacities), pharyngeal perforation (subcutaneous emphysema,
+pneumomediastinum, mediastinitis)
+
+Nasogastric Tube
+
++ tip and side port should be positioned distal to esophagogastric junction and proximal to gastric pylorus
+
++ radiographic confirmation of tube is mandatory because clinical techniques for assessing tip position may
+be unreliable
+
++ complications: aspiration (parenchymal opacities), pneumothorax
+
+Swan-Ganz Catheter
++ tomonitor pulmonary capillary wedge pressure and estimate diastolic filling of left heart
+
+if tip is located more distally, increased risk of prolonged pulmonary artery occlusion resulting in
+pulmonary infarction or, rarely, pulmonary artery rupture/pseudoaneurysm
++ complications: pneumothorax, bleeding (mediastinal, pleural), air embolism
+
+Chest Tube
+
++ in dorsal and caudal portion of pleural space to evacuate fluid
+
++ in ventral and cephalad portions of pleural space to evacuate pneumothoraces
++ tube may lie in fissure as long as functioning
+
++ complications: bleeding, infection, lung laceration
+
+tip should be positioned within right or left main pulmonary arteries or in one of their large, lobar branches
+
+Toronto Notes 2025
+
+Elevated Hemidiaphragm Suggests
+PAL DIP
+
+Pregnancy
+
+Atelectasis
+
+Lungresection
+
+Diaphragmatic paralysis
+Intra-abdominal process
+Pneumonectomy
+
+Pleural effusion also may result in
+apparent elevation
+
+Depressed Hemidiaphragm Suggests
+Tac
+Tumour
+
+Asthma
+Large pleural effusion
+coPD
+
+Dx Anterior Mediastinal Mass
+
+Thymicneoplasm
+Teratoma
+Terrible lymphoma
+
+Figure 14. Lateral CXR showing three
+mediastinal compartments:
+
+Figure 15. CXR showing well-
+positioned central venous catheter
+-e 
+
+===== SECTION: 801 =====
+## Page 801
+
+MIL
+
+Abdominal Imaging
+
+‘Medical Imaging
+
+Abdominal X-Ray
+
+Indications
+
++ acute abdomen: bowel perforation, toxic megacolon, bowel ischemia, small bowel obstruction, large bowel
+obstruction
+
+chronic symptoms: constipation, calcifications (gallstones, renal stones, urinary bladder stones, etc.)
+not useful in: GI bleeds, chronic anemia, vague GI symptoms
+
+Anatomy
++ the abdomen is divided into 2 cavities:
+
+= peritoneal cavity: lined by peritoneum that wraps around most of the bowel, the spleen, and most of the
+
+liver; forms a recess lateral to both the ascending and descending colon (paracolic gutters)
+
+= retroperitoneal cavity: contains several organs situated posterior to the peritoneal cavity; the contour of
+
+these can often be seen on radiographs
+
+Table 7. Differentiating Small and Large Bowel
+
+Property ‘Small Bowel Large Bowel
+
+Mucosal Folds Uninterrupted valvulae conniventes (or plicae Interrupted haustra extend only partway acoss lumen
+circulates)
+
+Location Central Peripheral (picture frame)
+
+Maximum Diameter 3cm 6 cm @cmat cecum)
+
+Maximum Fold Thickness 3mm 5mm
+
+Other Rarely contain slid fecal material Commonly contains solidfeca material
+
+Approach to Abdominal X-Ray
++ mnemonic: “Free ABDO”
++ “Free”: free air and fluid
+« free fluid
+small amounts of fluid: increased distance between lateral fat stripes and adjacent colon may
+
+indicate free peritoneal fluid in the paracolic gutters
+
++ large amounts of fluid: diffuse increased opacification on supine film; bowel floats to centre of
+
+anterior abdominal wall
+
+* ascites and blood (hemoperitoneum) are the same density on the radiograph and cannot be
+
+differentiated
+
+« free intraperitoneal air suggests rupture of a hollow viscus (anterior duodenum, transverse colon, etc.),
+penetrating trauma, or recent (<7 d) surgery
++ “A”: air in the bowel (can be normal, ileus, or obstruction)
+= volvulus - twisting of the bowel upon itself resulting in obstruction; from most to least common:
+
+1
+
+3.
+4,
+5.
+
+sigmoid: massively dilated sigmoid projects to right or mid-upper abdomen with proximal
+
+dilation (“coffee bean” sign)
+
+. cecal: massively dilated bowel loop projecting to left or mid-upper abdomen with small bowel
+dilation, where the twisted bowel loops appear narrowed (“bird’s beak” sign)
+
+. gastric: rare
+transverse colon: rare (usually in younger individuals)
+
+. small bowel: “corkscrew” sign (rarely diagnosed on plain films, seen best on CT), and “whirlpool”
+sign describing the twisting of mesenteric vessels and small bowel loops
+
+= toxic megacolon
+« manifestation of fulminant colitis
++ extreme dilatation of colon (>6.5 cm) with mucosal changes (e.g. foci of edema, ulceration,
+
+pseudopolyps) and loss of normal haustral pattern
+
++ “B’: bowel wall thickening
+= increased soft tissue density in bowel wall, thumb-like indentations in bowel wall (“thumb-printing”),
+ora picket-fence appearance of the valvulae conniventes (“stacked coin” appearance)
+= may be seen in IBD, infection, ischemia, hypoproteinemic states, and submucosal hemorrhage
++ “D”: densities
+= bones: look for gross abnormalities of lower ribs, vertebral column, and bony pelvis
+= abnormal calcifications: approach by location
+
+.
+.
+.
+.
+.
+
+.
+
+RUQ: renal stone, adrenal calcification, gallstone, porcelain gallbladder
+RLQ: ureteral stone, appendicolith, gallstone ileus
+
+LUQ: renal stone, adrenal calcification, tail of pancreas
+
+LLQ: ureteral stone
+
+central: aorta/aortic aneurysm, pancreas, lymph nodes
+
+pelvis: phleboliths (i. calcified veins), uterine fibroids, bladder stones
++ “0”: organs
+= kidney, liver, gallbladder, spleen, pancreas, urinary bladder, psoas shadow
+= outlines can occasionally be identified because they are surrounded by more lucent fat, but all are best
+visualized with other imaging modalities (CT, MRI)
+
+Toronto Notes 2025
+
+3 Views of AXR
+ErectiUpright
+Supine
+
+Left lateral decubitus
+
+3-6-9 Rule of Dilation
+‘Small bowel 3 cm)
+Large bowel >6 cm)
+Cecum (>9 cm)
+-e 
+
+===== SECTION: 802 =====
+## Page 802
+
+MII2 Medical Imaging Toronto Notes 2025
+
+©
+
+Biliary vs. Portal Venous Air
+“Gowith the flow”: air follows the flow of
+bile or portal venous blood
+
+Biliary airis most prominent centrally over
+the liver
+
+Portal venous air is most prominent
+peripherally
+
+Figure 16. Normal AXRs: (left) supine anteroposterior AXR, (middle) upright anteroposterior AXR, and (right) left
+lateral decubitus AXR
+
+Table 8. Abnormal Air on Abdominal X-Ray
+Air Appearance
+
+Extraluminal Intraperitoneal
+{pneumoperitoneum)
+
+Common Etiologies
+Perforated viscus
+Postoperative (upto 10 dto beresorbed
+
+Upright film: air under diaphragm
+
+Lett lateral decubitus film: air between fiver and abdominal
+wall
+
+‘Supine film: gas outlines of structuresnot normally seen:
+Inner andouter bowel wal (“Rigler’s” sign)
+
+Falaiform ligament
+
+Peritoneal cavity (football” sign)
+
+Retroperitoneal Gas outlining retroperitoneal structures allowing increased Perforation of retroperitoneal segments of bowel:
+
+visualization: duodenal cer, post colonoscopy
+sous shadows
+Renal shadows
+Intramural (pneumatosisintestinals) Lucentairstreaksin bowel wal, 2types: Linear ischemia necrotizing enterocolitis
+‘.tinear Roundediysteides generally benign:
+2.Rounded(cystoides type) imary(diopathi), secondary (COPD)
+Intraluminal Dilated loops of bowel, ir-id levels ‘dynamic (paralytic les, mechanical bowel
+cbstruction
+Loculated Mottled, localized in abnormal position withoutnormal Abscess
+bowel features
+Bilary Aircetrally ver lver Sphincterotomy,glistoneileus, erosive peptic uke,
+cholangitis, emphysematous cholecystitis
+Portal Venous Airperpherally over ver in branching pattern Bowel ischemia/infarction
+
+Table 9. Adynamic Ileus vs. Mechanical Obstruction
+
+Feature Adynamic Ileus Mechanical Obstruction
+Calibre of Bowel Loops. Normal or dilated Usually dated
+Air-Fuid Levels ‘Samelevelin the same sngleloop
+(erectandleft lateral decubitus films only)
+‘accumulationsin the dilated valvulae conniventes) Figure 17. (A) “Rigler’s” sign (B)
+Distribution of Bowel Gas Air throughout Gl tractis generalized or localized Dated bowel up to the point of obstruction (i.e. “football” sign (C) “string of pearls”
+
+Ina localzedileus (eg. pancreatitis, appendicitis),
+dilated “sentinel oop” remains inthe same
+location on serial films, usually adjacent tothe area
+ofinflammation
+
+ion point)
+jistal to obstructed segment
+(1807 turns inbowel
+
+Abdominal Computed Tomography
+
++ indications for plain CT: renal colic, hemorrhage
++ indications for CT with contrast:
+= IV contrast given immediately before or during CT to allow identification of arteries and veins
++ portal venous phase: indicated for majority of cases
++ biphasic (arterial and portal venous phases): liver, pancreas, bile duct tumours
+caution: contrast allergy (may pre-medicate with steroids and antihistamines)
+* contraindication: impaired renal function (eGFR <30 mL/min/1.73 m’)
+
+= oral contrast: barium or water-soluble (water soluble if suspected perforation) given in most cases to
+
+demarcate GI tract
+
+= rectal contrast: given for investigation of colonic lesions
+
+sign
+Riger'ssign courtesy ofr Jeremy Jones, Radipaedi.
+or, 1; 808, Prot rank Galard
+
+Football sign courtesy ofDrMasime St Amant, Radiopae da
+rg, 1018597
+
+String of pearls courtesy ofr Maui Patel, Radiopae dia
+rg 1014006, 4
+
+Figure 18. Sigmoid volvulus on plain
+
+film, “coffee bean” sign
+Courtesy fr Henry rie, Rad opaedia ox, 0: 28520.
+-e 

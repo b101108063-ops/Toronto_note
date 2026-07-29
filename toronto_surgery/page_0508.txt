@@ -1,0 +1,122 @@
+GsI6 General and Thoracic Surgery
+
+Table 10. Paraneoplastic Syndromes
+
+System Clinical Features ‘Associated Malignancy
+‘Skeletal ‘Clubbing, hypertrophic pulmonary osteoarthropathy POA) Non-smallcll ing cancer (NSCLC)
+Dermatologic ‘Acanthosis nigricans Lungcancer
+Dermatomyositis
+Endocrine Hypercalcemia (osteolysis or PHP) sec
+Hypophosphatemia sec
+Hypoglycemia Sarcoma
+Cushing’ syndrome ACTH) Smal cel lung cancer SCLC)
+Carcinoid syndrome Bronchial carcinoid
+SUADH seuc
+Neuromyopathic Lambert Eatonsyndrome seuc
+Polymyositis
+
+‘Subacute cerebellar degeneration
+Spinocerebella degeneration
+
+Peripheral neuropathy
+
+Vascular/Hematologic Nonbacterial endocarditis Lungcancer
+Trousseau'ssyndrome (migratory thrombophlebitis) Nsclc
+ic
+
+Renal Nephrotic syndrome Lung carcinoma
+
+Investigations
++ initial diagnosis
+= imaging: CXR, CT chest + abdomen, PET scan
+= biopsy: bronchoscopy, EBUS, CT-guided percutaneous needle biopsy
++ staging workup
+= TNM staging system: T - primary tumour (size); N - regional lymph nodes; M — distant metastasis
+= blood work: electrolytes, LFTs, calcium, ALP
+= imaging: CXR, CT thorax and abdomen, PET scan, bone scan (-in confirmed stage 4 cancer),
+neuroimaging (MRI Brain)
+= invasive: bronchoscopy (EBUS), mediastinoscopy, VATS
+
+Table 11. SCLC vs. NSCLC
+Stage Definition Treatment Median Survival
+SCLC Limitedstage Confined to singleradiationport (one Radiaton* chemotherapy 12 (12k without treatment)
+hemithorax and regional lymph nodes) + prophylactic to brain
+Extensivestage _Extensionbeyondasingleraditionport Chemotherapy 6 mo ( wk ithouttreatment)
+Stage 1M Treatment 5 YrSurvival fo)"
+wscic 0 TiO ‘stline iscomplete surgical resection
+itt TraNOwO (VATSoropen thoracotomy) with possible 90-82
+wn TteNOwO postoperativeadjwant chemotherapy with 83-85
+a3 Trewowo stage IBand tagelt radiotherapy ornon- 77-80
+iB TaakoMo surgical candidates fa)
+Ty Taboo 60465
+1B T3NOMO orTW1M0 or T2NIMO 53.56
+ta T4NOMO or ANNO orT3MINO or TIHZHO Combined modality approach chemo = 36.41
+orT2N2MO radiation, and sometimes surgical resection)
+1B T3NQMO or 4M2NO or TIHGMO or T2K3MO 426
+we T3NGMO or T4N3MO 1213
+WA THANO-3Mfa-1b Systemic therapy or molecularly targeted 10
+therapy or symptom-based paliative
+ne ThANO-3Mte management (radiation) Solatedmetastasis 9
+may be resected
+Depends on cinical ws. pathologicstage Refer toAJCECancr Staging Manual th ed 201 for complete THM Cssication
+Treatment
+
++ options include surgery, radiotherapy, ablation, chemotherapy, and palliative care for end-stage disease
++ surgery not usually performed for SCLC since it is generally non-curable
++ contraindications for surgery
+= spread to contralateral mediastinal lymph nodes or distant sites
+* patients with potentially resectable disease must undergo mediastinal node sampling since CT
+thorax is not accurate in 20-40% of cases.
+= poor pulmonary status (e.g. unable to tolerate resection of lung)
+* postoperative estimated FEV: and DLCO must be at least 40% of predicted to tolerate surgery
++ chemotherapy (used in combination with other treatments)
+= common agents: cisplatin-vinorelbine (standard of care), etoposide, ifosfamide, vincristine,
+anthracyclines, paclitaxel, irinotecan, gefitinib (an endothelial growth factor receptor inhibitor)
+= pembrolizumab, a PD-1 monoclonal antibody is used in those with tumour PD-L1 levels >50%; for
+
+those with PD-L1 levels <50%, combination of doublet chemotherapy and pembrolizumab is initiated
+= targeted therapies such as EGFR tyrosine kinase inhibitors and ALK tyrosine kinase inhibitors are used
+
+if tumour tests positive for these mutations
+
+Toronto Notes 2025
+
+2/3 of primary lung cancer is found in the
+upper lung; 2/3 of metastases occur in
+the lower lung (hematogenous spread
+secondary to increased blood flow to the
+base of the lung)
+
+Prevention
+‘Smoking cessation
+‘Awidance of exposures
+Early detection
+
+Terminology
+“Nodule” <3 cm
+“Mass >3cm
+
+‘Mutations in endothelial growth factor
+receptor are more common in non-smoking
+patients with adenocarcinoma
+
+Corona Radiata Sign on Chest CT
+
+Fine striations that extend linearly from a
+‘nodule ina spiculated fashion
+
+Highly associated with malignancy
+
+Carcinoids
+
+Early onset (40-60 yr)
+
+‘Most are central and can produce
+symptoms and signs of bronchial
+obstruction
+
+Hemoptysis is present in ~50% of cases
+Assuming adequate pulmonary function,
+surgical resection (ie. segmentectomy,
+wedge resections, and lobectomy) is the
+preferred treatment approach

@@ -1,0 +1,90 @@
+Gu Gastroenterology
+
+Celiac Disease (Gluten Enteropathy/Sprue)
+
+Definition
++ abnormal small intestine mucosa due to intestinal response to gluten, a protein found in wheat, barley, rye,
+and possibly oats (certified gluten-free oats may be acceptable in a subgroup of patients)
+
+Etiology
+
+* unique autoimmune disease because the genetics (HLA-DQ2/8), the auto-antigen (tTG), and the
+environmental trigger (gluten) are known
+
+associated with other autoimmune diseases, especially Sjé;
+gluten is broken down to gliadin, which is the toxic protein
+
+HLA-DQ2 (chromosome 6) found in 90% of patients compared to 20% of the general population; celiac also
+associated with HLA-DQ8 (5%)
+
+HLA-DQ2/Q8 are necessary permissive genes, but their presence does not confer a diagnosis of celiac
+disease (note: up to 40% of White individuals carry the HLA alleles, but will never develop celiac disease)
+
+en's, TIDM, thyroid disease
+
+Epidemiology
+
++ more common in women
+
++ prevalence: 1 first degree relative: 10%; 2 first degree relatives: 209%
+
++ may present any time in life, with peak presentation in infancy (when cereals introduced)
+
+Clinical Features
++ dassic presentation: diarrhea, weight loss, anemia, symptoms of vitamin/mineral deficiency, failure to
+thrive; more common current presentation: bloating, gas, iron deficiency, or asymptomatic (patient at risk)
++ improves with gluten-free diet, disease exacerbation when gluten reintroduced
++ disease is usually most severe in proximal bowel
+= iron, calcium, and folic acid deficiency (absorbed in proximal small bowel) more common than vitamin
+Bn deficiency (absorbed in distal small bowel or ileum)
++ gluten enteropathy may be associated with dermatitis herpetiformis skin eruption, bone fractures/
+metabolic bone disease, infertility, epilepsy, myopathy, depression, paranoia, ataxia
+
+Investigations
++ serological tests
+
+= serum anti-tTG antibody, IgA, is 90-98% sensitive, 94-97% specific
+
+= patients with selective IgA deficiency have a false-negative anti-tTG
+
++ therefore, measure serum IgA concomitantly (via serum immunoglobulin quantitation)
+
+incorporate serum testing tTG and/or DGP IgG in IgA deficiencies
+small bowel mucosal biopsy (usually duodenum) is diagnostic:
+
+= increased intraepithelial lymphocytes (earliest pathologic finding)
+
+. crypt hyperplasia (next stage of pathophysiology)
+
+= villous atrophy (last stage of pathophysiology)
+
+= note: there is a wide differential diagnosis for villous atrophy, including, but not limited to, small bowel
+
+overgrowth, CD, lymphoma, Giardia, HIV
+
+improvement with a gluten-free diet, but should not be started before serological tests and biopsy
+consider CT enterography to visualize small bowel to rule out complications, e.g. lymphoma, ulcerative
+jejunoileitis, as well as non celiac pathology
+evidence of malabsorption (localized or generalized)
+
+«= steatorrhea
+
+= low levels of ferritin/iron saturation, Ca’, Fe, albumin, cholesterol, carotene, B12 absorption
+quantitative fecal fat >7%
+
+Treatment
++ dietary counseling
+= gluten free diet; avoid barley, rye, wheat (as these related grains have toxic proteins, similar to gliadin)
+= oats allowed if not contaminated by other grains (grown in soil without cross-contamination)
+= rice and corn flour are acceptable
+= iron, folate supplementation (with supplementation of other vitamins as needed)
++ if poor response to diet change, consider
+= non-adherence to gluten-free diet (advertent or inadvertent)
+concurrent disease (e.g. microscopic colitis, pancreatic insufficiency)
+development of intestinal (enteropathy-associated T-cell) lymphoma (abdominal pain, weight loss,
+palpable mass)
+development of diffuse jejunal ileal intestinal ulceration, characterized by aberrant intraepithelial
+T-cell population (precursor to lymphoma)
+alternate diagnosis
+
+Toronto Notes 2025

@@ -1,0 +1,4786 @@
+NS8 ‘Neurosurgery
+
+Treatment of Elevated ICP
+
++ treatment principle: treat primary etiology (i.e. remove mass lesions, ensure adequate ventilation e.g. in
+acute respiratory distress syndrome (ARDS))
+
++ if elevated ICP persists following treatment of primary cause, consider therapy when ICP >20 mmHg
+
++ targets: ICP <20 mmHg, CPP 60-70 mmHg, sBP >100 (ages 50-69) or >110 (age <50 or >70) mmHg (targets
+should be individualized based on the patient's clinical picture, progression, and the treating physician's
+
+judgment)
+
+Table 6. Management of Elevated ICP
+
+Consideration Intervention Rationale
+Conservative Measures
+Position Elevatehead of bed 30° Increases
+Maintainneck in neutral position 1. Jugular venous patency
+2. Intracranial venous outflow with minimal effect on MAP
+Fever Management Acetaminophen or mechanical cooing Decreases basal metabolic andoxygen demands in order tominimize
+braininjury
+Prevent Hypotension PRN: fui, vasopressors, dopamine, norepinephrine Maintains (BF
+Normocarbia Ventilate to pCO: 35-40 mmg Prevents vasodilation
+Adequate 0: Target p0:>60mmig Prevents hypoxic brain injury
+Osmolar Diuresis. Manvitol 20% IV solution 1-15 g/kg, then0.25 g/kg q6h to Increases serumtonicty + osmotial dives fi outof brain
+serum osmolarity of 315-320 mOsmvig
+Acts in 15-30 min, maintainsBP>100 mig
+Hypertonic saline 3% comparable tomarnital
+Corticosteroids Dexamethasone Decreases vasogenic edema over subsequent days around braintumour,
+abscess, blood
+Mo provenvaluein head injury or stroke
+Aggressive Measures
+Sedation Usually propofol Reduces sympathetic tone
+‘Others: barbiturates/codeine,orfentanyl/MgS 0s Reduces HTN induced by muscle contraction
+Light = barbituratescodeine
+Heavy = fentanylMgS04
+Paralysis Vecuroniam Reduces sympathetic tone
+Reduces HTN induced by muscle contraction
+Barbiturate-Induced Coma Phenobarbital 10 mg/kg over 30 min, then mg/kg th Reduces CBF and metabolism
+(refractory ICP) «continuous infusion Decreases mortality, but no effect on neurologic outcome
+No rte for theuseof hypothermia in headinjury
+Hyperventilate Target pCO: 30-35 mmiig Decreases CBF and thus ICP, but use for brie periods only
+Avoid within 24h following trauma
+Drain SF Insert EVD (if acute or shunt Reduces intracranial volume
+Drain 35 mL CSF
+Decompression Decompressivecraniectomy ‘lowsbrain to swell while reducing risk of herniation
+
+Idiopathic Intracranial Hypertension
+
+(Pseudotumour Cer
+
+Definition
+
++ raised ICP with papilledema, but without: mass, hydrocephalus, infection, or hypertensive encephalopathy
+
+bri)
+
+(ie. diagnosis of exclusion)
++ diagnosed by modified Dandy’s criteria
+
+Etiology
+
++ unknown (majority), but associated with:
+
+vascular: dural venous sinus thrombosis
+habitus/diet: obesity, hypervitaminosis A
+endocrine: reproductive age, menstrual irregularities, Addison’s/Cushing's disease
+
+hematologic: iron deficiency anemia, polycythemia vera
+
+drugs: steroid withdrawal, tetracycline, amiodarone, lithium, nalidixic acid, oral contraceptive, growth
+
+hormone, retinoids
++ risk factors overlap with those of venous sinus thrombosis; similar to those for gallstones (“fat, female,
+
+fertile, forties”)
+
+Epidemiology
+
++ incidence: general population ~1-2 in 100000 per yr; women of childbearing age with obesity 19-21 in
+
+100000 per yr
+
+Toronto Notes 2025
+
+‘Treatment of Elevated ICP
+
+ICP HEAD
+Intubate
+
+Calm sedatey/Coma
+Place drain/Paralysis,
+Hyperventilate
+Elevate head
+‘Adequate BP
+Diuretic (mannitol)
+
+a
+
+alot DecompressiveCranectomy for Traumatic
+Intracranial Hypertension
+
+NesM 2016375:119.130
+
+Purpose: To conparetheetfectof decompressive
+canectomy on clinical outcomes to that of medical
+management in patents with traumatic bran nury
+(1B) and refractry intracranial HTN,
+
+Methods Patients with TBland refractory intracranial
+HIN25 mtg were andonized to undergo
+decompressive craniectomy or receive ongoing medical
+care. Primary outcome was Extended Glasgow Outcome
+Scale at 6m.
+
+Results: Patients treated with decompressive
+caniectomyhad loner mortality rates (26.9%.
+48.9) but higher rates of sabi (8.5% s.2.1%
+lower severe disabity, 21. ys. MA upper severe
+disability 15. 4ys. 8.0% moderate sabi)
+Conclusion: Compared to medical are, decompressive
+ccanectomyin patients wth TB and refractory
+intracranial HTNresuts in lower mortality but higher
+rates of vegetative state and severedsably
+
+Modified Dandy's Criteria
+
+4 Symptoms of raised ICP
+
+2 Nolocalizing signs except CN VI palsy
+
+3. Patient awake and alert
+
+4, Normal neuroimaging without evidence
+of thrombosis
+
+5. LP opening pressure >25 cm H20,
+normal CSF
+
+6. Nobetter explanation for raised ICP
+-e 
+
+## Page 941
+
+NSO ‘Neurosurgery
+
+Clinical Features
+
++ symptoms: H/A in >90%, nausea, transient visual obscurations, pulsatile tinnitus, diplopia can occur with
+CN VI palsy, neck/back pain
+
++ signs: CN VI palsy can occur (otherwise no neurologic deficits), visual acuity and field deficits, papilledema,
+optic atrophy
+
++ morbidity: risk of blindness and severe visual impairment (6-24% risk) are the major morbidity of
+idiopathic intracranial hypertension (IIH), but are not reliably correlated to duration, symptoms, or clinical
+course
+
++ clinical course: usually self-limited, recurrence in 10%, chronic in some
+
+Investigations
++ MRI brain (with and without contrast): slit-like ventricles and distended perioptic subarachnoid space, but
+otherwise normal
+= rule out: venous sinus thrombosis, mass, infection, hydrocephalus
++ LP findings
+= opening pressure >25 cmH20
+= normal CSF analysis
++ ophthalmologic: fields, acuity, papilledema
+
+Treatment
+
++ lifestyle change: encourage weight loss, fluid/salt restriction
+
++ pharmacotherapy: acetazolamide (decreases CSF production), thiazide diuretic, or furosemide; discontinue
+any medications contributing to the condition
+
++ surgery: if above fail, serial LPs (temporizing), optic nerve sheath fenestration (if progressive impairment of
+visual acuity), shunt placement (VP, lumboperitoneal)
+
++ long term: 2 yr follow-up, repeat imaging to rule out occult tumour, ophthalmology follow-up
+
+lydrocephalus
+
++ for hydrocephalus in children, see Pediatric Neurosurgery, NS41
+
+Definition
++ accumulation of excess CSF in the brain; functionally divided into obstructive and communicating
+= flow of CSF: produced by choroid plexus, lateral ventricles > interventricular foramen of Monro >
+3rd ventricle > cerebral aqueduct of Sylvius > 4th ventricle > foramina of Luschka (lateral aperture)
+and Magendie (median aperture) > subarachnoid space where CSF is reabsorbed by arachnoid villi/
+granulations into dural venous sinuses
+
+Classification
+Table 7. Classification of Hydrocephalus
+Disorder Definition Etiology Findings on CTI
+‘Obstructive (Non- (SF circulation Blocked within Acquired Ventricular enlargement proximal to block
+Communicating) ventricular system proximal to Aqueductal stenosis: adhesions after infection, (etlarged temporal horns, ballooning
+Hydrocephalus the arachnoid granulations hemorrhage; gsi, tumour (.g. pontine glioma)
+Intraventricular lesions: tumours, (e.g. 3d ventriclecoloid
+‘st, hematoma), mass causing tentorial herniation causing hydrocephalus)
+‘aqueduct/sthventrcle compression Perventricuarhypodensityucency
+Posterior fossa lesions: tumours, e.g. brain metastasis, _(transependymal migration of CSFforced
+medulloblastoma, ependymoma compromising 4th into extraceluar space)
+ventricle) Sulcal effacement, reduced visibility of
+Others: neurosarcoidosis, abscessigranuiomas, arachnoid Sylvianand interhemispherc fissures
+sts
+Congenitat Primary aqueductal stenosis, Dandy.
+Walker malformation, Arnold-Chiar malformation,
+myelomeningocele, encephalocele (see Pediatric
+Nearosurgery, WS41)
+Non-Obstructive Most commonly CSF absorption Post-infectious (#1 cause) -+ meningitis, abscess, ‘Alventrices dilated
+(Communicating) Blocked at extraventricuarsite cysticercasis
+Hydrocephalus arachnoid granulations, rarely Post-hemorrhagic (#2.cause)- SAH, IVH, traumatic
+SF absorptions overwhelmed Leptomeningeal carcinomatosis metastatic meningitis
+by increased production Choroid plexus papifoma
+Idiopathic » NPH
+NH Persistent ventricuardiation Idiopathic (50%) Enlarged ventricles without increased
+inthecontextof normal CSF Others: SAH, meningitis, trauma, radiation induced prominence of cerebral suld
+pressure
+Hydrocephalus ExVacuo Ventricular enlargement resulting Normal aging Enlarged ventricles and sulci
+
+fromatrophy of surrounding
+brain tissue
+
+Degenerative dementias: Aluheimer’s,frontotemporal,
+Creutzfeldt-Jakob disease (see Neurology, N27)
+
+Cerebral atrophy
+
+Toronto Notes 2025
+
+@
+
+Effect of Acetazlamide on Visual Functor
+Patients with Idiopathic Intracranial Hypertension
+and Mild Visual Loss (HTT)
+
+JAMA 201431116): 1681-1651
+
+Purpose: To determine whether acetazolamide and
+low-sodium weight reduction itis benefical in
+{improving vision compared to det aloe in patents
+with IH and mid visual oss.
+
+Methods: 165 patients wererandonized to either a
+‘ow sodium weight reduction diet plus the maximally
+tolerated dosage of acetazolamide o placebo for6 mo.
+Results: Acetazlamide was superioo placebo with
+regardsto perimeric mean deviation improvement
+(P=.05), papiedema gradeimprovement P<0.01),
+vison-telated quay of fe (0,003) and weight
+reduction (P<,00",
+
+Condusion:Acetazolamie wth low-sodium weight
+reduction diet rested in improvementin visual field
+functonin patients with Hand mild visual ss.
+
+CSF production = CSF reabsorption =
++500 mUd in normal adults
+
+Normal CSF volume ~150 mL (50% spinal,
+'50% intracranial » 25 mL intraventricular,
+50 mL subarachnoid)
+
+1. Lateral ventricles
+2. Choroid plexus
+
+3.Thirdventride
+
+4. Cerebral aqueduct (of Syvius)
+
+5. Fourth ventride
+
+6. Foramina of Luschka and Magendie
+7. Arachnoid granulations
+
+8. Subarachnoid space
+
+9. Confluence of sinuses (trcula)
+
+© Kari Francis 2004
+
+Figure 8. The flow of CSF
+-e 
+
+## Page 942
+
+NS1O ‘Neurosurgery
+
+Etiology
++ impaired CSF dynamics
+
+= obstruction of CSF flow
+
+= decreased CSF absorption
+
+= increased CSF production (rarely in choroid plexus papilloma 0.4-1% of intracranial tumours)
++ congenital and acquired causes
+
+Epidemiology
++ estimated prevalence 1-1.5%; incidence of congenital hydrocephalus ~1-2 in 1000 live births
+
+Clinical Features
++ acute hydrocephalus: signs and symptoms of acutely elevated ICP (see Table 4, NS7)
++ chronic/gradual onset hydrocephalus (wk to mo; i.e. NPH): presents with a classic triad (Hakim’s triad)
+= ataxia (magnetic gait) + apraxia (pressure of ventricle on lower extremity motor fibres > gait
+disturbance)
+«= incontinence (pressure on cortical bowel/bladder centre)
+= dementia (subcortical)
+
+Investigations
++ imaging
+= CT/MRI findings (see Table 7, NS9)
+= ultrasound (through anterior fontanelle in infants): ventriculomegaly, size and location of lesions (e.g.
+IVH)
++ mantle radionuclide cisternography can test CSF flow and absorption rate (unreliable)
++ ICP monitoring (e.g. LP, EVD) may be used to investigate NPH and test response to shunting (lumbar tap
+test)
+
+Treatment
+EVD (acute hydrocephalus, intraventricular hemorrhage)
+intermittent LPs for transient communicating hydrocephalus (SAH, IVH in premature infants)
+eliminating obstruction (i.e. excision of mass, posterior fossa decompression for Chiari malformation)
+endoscopic
+= endoscopic third ventriculostomy (ETV) + choroid plexus cauterization (for obstructive hydrocephalus)
+= endoscopic placement of aqueductal stent
+shunt
+= VP: most common shunt
+«= ventriculopleural
+= ventriculoatrial (VA)
+= lumboperitoneal: for communicating hydrocephalus and pseudotumour cerebri
+
+Shunt Complications
+
+Table 8. Shunt Complications
+Complication Etiology Clinical Features Investigations
+Obstruction ‘Obstruction by choroid plexus ‘Acute hydrocephalus signs and symptoms of “Shunt series” (plain x-rays of
+{mostcommon) Buildup of proteinaceousaccretions, blood, increased ICP entice shuntthat only rule-out
+Proximal Catheter calls inflammatory or tumour) disconnection, break, tp.
+Valve Infection migration)
+Distal Catheter Discomection or damage a
+Radionuclide “shuntogram”
+
+Infection 5. epidermidis Fever, NV, anoreia, ritability cc
+(36%) aureus Meningtis Blood culture
+
+P.acnes Petitonits Tapshunt for C4S (LP usualy NOT
+
+Gram-negative baci Signs and symptoms ofshunt obstruction recommended)
+
+Shunt nephritis (VAshunt)
+
+Overshunting Slitventride syndrome, cllapse of Chronic orrecuring WiAoften relieved when lying CT/MRY
+(10°%over 6.5 yt) ventriclesleadingto occlusion of shunt down Sit-tke ventricles on imaging
+
+ports by ependymal lining
+
+SoH Asymptomatic a
+
+Collapsing brain tears bridgingveins
+(especially commonin NPH patients)
+
+HA, vomiting, somnolence
+
+Secondary craniosynostosis (children): Abnormal headshape Clinical
+apposition and overlapping ofthe a
+‘cranial sutures inan infant following
+decompression of hydrocephals
+
+Seizures Ventricular shunts only EEG
+
+(5.5%riskin ist yr, .tbafter
+
+3rdyt)
+
+Inguinal hernia Increased intraperitoneal ressure/fuid Inguinal sweling discomfort us
+
+(13-15% incidence when shunt
+insertedin childhood)
+
+resultsinhernia becoming apparent
+
+Toronto Notes 2025
+
+Classic (Hakim’s) Triad of NPH
+Progression
+
+“Wet, wacky, wobbly”: Incontinence,
+dementia, ataxia
+
+Important Features to Note on CT and
+MRI (+ contrast enhancement)
+Lesions (¢ edema, necrosis, hemorrhage)
+MLS and herniations
+
+Effacement of ventricles and suci often
+ipsilateral), basal cisterns
+
+Single or muitiple (multiple implies
+metastasis)
+
+Complications of Specific Hydrocephalus
+Treatments:
+
+VP Shunt: intra-abdominal ests,
+adhesions, ascites
+
+VAShunt: greater infection risk,
+septicemia, emboli
+
+Ventriculopleural Shunt: pleural effusion,
+hydrothorax, respiratory distress
+
+LP Shunt: radiculopathy, CSF leaks,
+adhesions, arachnoidtis,
+
+ETV: 56% success rate, hypothalamic injury,
+iatrogenic basilar aneurysm
+-e 
+
+## Page 943
+
+NSIL ‘Neurosurgery
+
+ontaneous Intracranial Hypotens
+
++ low CSF pressure + postural headache (secondary to CSF leak)
++ symptoms not attributable to another disorder, no recent history of dural puncture
+
+Etiology
++ CSF leakage from the thecal sac within or along the spinal canal
+
+Epidemiology
++ incidence: ~2-5 in 100000 per yr, but likely underdiagnosed; M:
+= can occur at any age, but most frequently in 4th or 5th decade
+
+Clinical Features
+
++ symptoms: orthostatic H/A in 75-80%, tinnitus or auditory disturbance (“underwater feeling”) in 50%,
+dizziness in 50%, N/V, photophobia, meningismus
+
+signs: CN III, CN IV, CN VI palsy in <10%
+
+morbidity: misdiagnosis and underdiagnosis are common, leading to delays in treatment and inappropriate
+treatment for mimickers of intracranial hypotension
+
++ clinical course: usually self-limited, recurrence in 10%, chronic in some
+
+Investigations
++ MRI brain with contrast: sagging of the brain (e.g. low cerebellar tonsils), pachymeningeal enhancement,
+subdural hematoma or hygroma, pituitary hyperemia
+
+. MRI spine with contrast: extrathecal fluid collections/extrathecal contrast accumulation and/or meningeal
+iverticula
+
++ CT niyelogram with contrast: preferred method to diagnose and localize CSF leak
+= digital subtraction myelogram (DSM): combines fluoroscopy and ability to subtract background images
+
+to visualize small CSF leaks by contrast extravasation
++ LP: opening pressure <6 cmH:0; xanthochromia, elevated protein, lymphocytic pleocytosis
+
+Treatment
+
++ conservative management: bed rest, hydration, caffeine, possibly theophylline
+
++ epidural blood patch: mainstay treatment; autologous blood (10-20 mL) injected into epidural space
++ surgery: indicated if epidural blood patches are ineffective and site of leak has been localized
+
+Treatments:
+
+Digitally Subtracted Blood Patches (improvement for 2 yr)
+
+Figure 9. Left Pane: Digital subtraction myelography demonstrating site of CSF leak (red arrow); Right Pane:
+
+intraoperative imaging of direct repair of the dura
+Figue courtesy ofr. rc M Masscotte
+
+Toronto Notes 2025
+-e 
+
+## Page 944
+
+NS12 ‘Neurosurgery
+
+Ventricular: colloid cyst, choroid plexus
+
+papilloma, ependymoma,
+germinoma, teratoma,
+meningioma
+
+Supratentorial extra-axial:
+meningioma, cysts
+
+Supratentorial
+intra-axial
+astrocytoma,
+glioblastoma,
+oligodendroglioma,
+ganglioma,
+lymphoma,
+
+metastases
+‘Skull base: carcinoma,
+
+chordoma, glomus
+
+jugulare, osteoma Posterior fossa intra-axial:
+
+schwannoma,meningioma,
+cysts, metastases,
+medulloblastoma
+
+Sellar or suprasellar: Posterior fossa extra-axial:
+pituitary adenoma, schwannoma, meningioma,
+craniopharyngioma, cyst, metastases
+optic nerve glioma, cyst
+
+Ryan Kissinger 2010
+
+Figure 10. Tumours of the CNS
+
+Classification
+
++ benign vs. malignant; primary vs. metastatic (e.g. primary in breast, lung); intra-axial (parenchymal) vs.
+
+extra-axial; supratentorial vs. infratentorial; adult vs. pediatric
+
++ benign: non-invasive, but can be devastating due to mass effect in fixed volume of skull (e.g. most
+
+meningiomas)
+
++ malignant: implies rapid growth, invasiveness, possibly drop-metastases to spinal cord froma primary
+
+CNS tumour (rare)
+Table 9. WHO 2021 Classification of Tumours of the CNS
+
+Gliomas, Glioneuronal Tumours, Neuronal Tumours
+
+Adult-type diffuse gliomas Astrocytoma, IDH-mutant
+Oigodendrogioma, IDK-mutant, and 1p/19q-codeleted
+
+Glioblastoma, IDH-wildty pe
+
+Dittuse astrocytoma, MIB-or MYBLT- altered
+
+‘Angiocentrc glioma
+
+Polymorphous low-grade neuroepithelial tumour ofthe young
+Ditfuselow-grade gioma, MAPK pathway-altered
+
+Diffuse midline gloma, H3K27altered
+
+Dittuse hemispheric glioma, H3634-mutant
+
+Dittuse pediatrictype high-grade glioma, H3-wildtype and IDH-wildtype
+Infant-type hemispheric glioma
+
+Circumscribed astrocytic lomas Pilocytc astrocytoma
+High-grade astrocytoma with piloid features
+Pleomorphicxanthoastrocytoma
+Subependymal giant cell astrocytoma
+Chordoid glioma
+Astroblastoma, MNT-altered
+
+Glioneuronal and neuronal tumours Gangioglioma
+Desmoplastic infantile gangioglioma/desmoplastc infantil astrocytoma
+Dysembryoplastc neuroepthelial tumour
+Diffuse glioneuronal tumour witholigodencroglioma-tkefeaturesand nuclear clusters
+Papilay glionewronal tumour
+Rosette-forming glioneuronal tumour
+Myxoid glioneuronal tumour
+Diffuse leptomeningea glioneuronal tumour
+Ganglocytoma
+Multinodulr and vacuolating neuronal tumour
+Dysplastic cerebellar gangliocytoma (Lhermitte-Ducos disease)
+Central neurocytoma
+Extraventricular neurocytoma
+Cerebellar liponeurocytoma
+
+Pediatrictype diffuse low-grade gliomas
+
+Pediatictypeditfuse high-grade gliomas
+
+Ependymal tumours ‘Supratentoral ependymoma (including ZFTAfusion-positve or YAP fusion-positive)
+Posterior fossa ependymoma (including group PFAand PFB)
+Spinal ependymoma including MICH-amplified
+Mycopapilary ependymoma
+Subependymoma
+
+Toronto Notes 2025
+
+CNS Tumours Pe]
+
+Dx for Ring Enhancing Lesion on CT with
+Contrast
+
+MAGICAL DR
+
+Metastases*
+
+Abscess"
+
+Glioblastoma (high-grade gliomay*
+Infarct
+
+Contusion
+
+AIDS (toxoplasmosis)
+
+Lymphoma
+
+Demyelination
+
+Resolving hematoma, Radiation Necrosis
+(°3 most common diagnoses)
+
+Ring Enhancing Lesions in Patients with
+HV
+
+Dx: Toxoplasmosis or CNS lymphoma
+Treatment: Empiric treatment with
+pyrimethamine and sulfadiazine; brain
+biopsy fno resolution with antimicrobial
+therapy
+
+Primary CNS lymphoma reported in 6-20%
+of HIV infected patients
+
+Primary Brain Tumours
+Rarely undergo metastasis
+‘Adults = mostly supratentorial
+Children = mostly infratentorial
+
+-e 
+
+## Page 945
+
+NSI3 ‘Neurosurgery
+
+Table 9. WHO 2021 Classification of Tumours of the CNS
+
+Choroid Plexus Tumours
+
+Choroidplexuspapiloma
+Atypicalchoroid plexus papilloma
+Choroidplexuscarcinoma
+
+Embryonal Tumours
+
+Nedulloblastoma Meduloblastomas, molecularly defined: WNT- activated, SHH-activated and PS3-wildtype, SHH-activatedand
+1P53-mutant, on-WNT/non-SHH
+Meduloblastomas, histological defined
+
+‘Other CHS embryonal tumours ‘Mypical teratoidirhabdoid tumour
+Cribrtormneuroepithelial tumour
+Embryonal tumour with multilayered rosettes
+(CNS neuroblastoma, FOXRZ-actvated
+‘CNS tumour with BCOR internal tandem duplication,
+{CNSembryonal tumour
+
+Pineal Tumours
+
+Pineocytoma
+
+Pineal parenchymal tumour of intermediate
+differentiation
+
+Pineoblastoma
+
+Papillary tumour ofthe pineal region
+Desmoplastic mysoid tumour of thepineal region,
+F-mutant
+
+Cranial and Paraspinal Nerve Tumours
+
+Schwamoma
+Neurofibroma
+
+Perineurioma
+
+Hybrid nervesheathtumour
+
+Malignant melanotic nerve sheath tumour
+Malignant peripheral nerve sheath tumour
+Paraganglioma
+
+Meningiomas
+
+Mesenchymal, Non-Meningothelil Tumours
+
+Softtissue tumours
+
+Chondro-osseous tumours
+
+Fibroblasticand myofibroblastictumous: solitary fibrous tumour
+Vascular tumou's: hnemangiomas and vascular malformations, hemangioblastomas
+Skeletal muscle tumours: rhabdomyosarcoma
+
+Uncertain dferentiation:ntracrarial mesenchymal tumour, FE-CREB mutation posit
+primary intracranial sarcoma, DICER1-mutant, Ewing sarcoma
+
+CChondrogenictumours: mesenchymal chondresarcoma, chondrosarcoma
+Notochordal tumours: cordoma (incudingpoorl differentiated chardoma)
+
+, IC rearranged sarcoma,
+
+Melanocytic Tumours
+Diffuse meningeal melanocytic neoplasms Meningeal melanocytosis
+Meningeal melanomatoss
+Cicumscribed meningeal melanocytic neoplasms Meningeal melanocytoma
+Meningeal melanoma
+Hematolymphoid Tumours
+Lymphomas ‘CNS ymphomas: primary diffuse large B-cell ymphoma ofthe CNS, immunodeficiency-associatedCNS lymphoma,
+lymphomatoid granulomatosis, intravascular large B-cell ymphoma
+Niscellaneousrare ymphomasin the CHS: MALT lymphoma ofthe dua, other low-grade 8-el lymphomas ofthe
+‘CNS, anaplastic large cll ymphoma (AUK~/ALK-), T-cell and NK/T-cell Iymphomas,
+Histocytic tumours Erdheim-Chester disease
+Rosai-Dorfman disease
+Juvenile xanthogranuloma
+Langerhans cel histiocytosis
+Histioytic sarcoma
+‘Germ ell Tumours
+Teratoma: mature, immature, somatic type
+malignancy
+Germinoma
+
+Embryonal carcinoma
+Yolksac tumour
+CChoriocarcinoma
+Mixedgermcelltumour
+
+Tumours ofthe Sellar Region
+
+‘Adamantinomatous craniopharyngioma
+Papillary craniopharyngioma
+Pituicytoma, granular cel tumour of the sellar
+region, and spindle cell oncocytoma
+
+Pituitary adenoma/itNET
+
+Pituitary blastoma
+
+Metastases to theCNS
+
+Metastases tothe brain and spinal cord parenchyma
+Netastases tothe meninges
+
+Toronto Notes 2025
+-e 
+
+## Page 946
+
+NSI4 ‘Neurosurgery
+
+Familial Syndromes Associated with CNS Tumours
++ ataxia telangiectasia
+
++ Cowden syndrome
+
++ familial adenomatous polyposis
+
++ hereditary non-polyposis-related colorectal cancer
++ Li-Fraumeni syndrome
+
++ Gorlin syndrome
+
++ neurofibromatosis types 1 & 2
+
++ multiple endocrine neoplasia type 1
+
++ tuberous sclerosis complex
+
++ von Hippel-Lindau disease
+
++ Turcot syndrome
+
++ Lynch syndrome
+
+Investigations
+
++ CT, MRI with contrast, stereotactic biopsy (tissue diagnosis and molecular markers for prognosis), tumour
+resection (often performed as initial step rather than biopsy), metastatic workup, tumour markers (i.e.
+germ cell tumours)
+
+Treatment
+
++ conservative: serial history, physical, imaging for slow growing/benign lesions
+
++ medical: corticosteroids to reduce ICP, cytotoxic cerebral edema; pharmacologic (i.e. pituitary adenoma)
+
++ surgical: total or partial excision (decompressive, palliative)
+
++ radiotherapy: conventional fractionated XRT, hypofractionated XRT, SRS (e.g. Gamma Knife)
+
++ chemotherapy: e.g. alkylating agents (i.e. temozolomide, vincristine, cyclophosphamide, etc.)
+
++ targeted therapy: e.g. trastuzumab for HER2-positive breast cancer and brain metastases, osimertinib for
+EGFR-mutant lung cancer and brain metastases
+
+Table 10. Tumour Location: Etiology and Clinical Features
+
+Supratentorial Infratentorial (Posterior Fossa)
+
+Epidemiology
+
+Age 5 yr
+Incidence: 2-5 in 100000 per yr
+
+‘Glioma (ll grades) (50%)
+CCraniopharyngioma (2-5%)
+
+Cerebellar astrocytoma (15%)
+
+60%binfratentorial Others: pineal region tumours, choroid Ependymoma(9%)
+plexus tumours, ganglioglioma,dysembryoplastic ——_—Brainstemastrocytoma
+neuroepithelal tumours (NET)
+
+Age>t5yr High-grade glioma (1215%, eg. Glioblastoma Metastasis
+
+80° supratentorial Multiforme- GBM) Acousticneuroma schwannoma) 510%)
+Metastasis (15-30%, indudesinfrotentoia) Hemangioblstoma 2%)
+Meningioma (15-20%) Meningioma
+Low-grade astrocytoma (8%)
+Pituitar noma (5-8%)
+
+Oligodendrogtioma (5%)
+Other: colloid cyst, CNS lymphoma, dermoid/epidermoid
+
+cysts
+Clinical Features
+‘Shared Features from elevated ICP) H/A: usually worse in AM and made worse with straining, coughing
+NW
+Papilledema
+Diplopia- CNVI palsy
+
+Distinguishing Features Seizure: commonly the ist symptom
+
+Progressiveneurological deficits (10%)
+
+Brainstem involvement: N deficits and long tact signs
+WV: compression on vagal nucleusarea postrema
+
+Frontal lobe: hemiparesis, dysphasia, personality
+changes, cognitive changes
+
+Temporal lobe: auditoryolfacory hallucinations,
+memory deficits, contralateral superior quadrantanopia
+Mental status change: depression, apathy, confusion,
+lethargy
+
+“Tumour TIA” (transient ischemic attack) stroke ike
+symptoms caused by
+
+‘a)occlsion of vessel by tumour cels
+
+b) hemorrhage
+
+« 2°to"steal phenomenon” - blood is shunted from
+ischemictegions to non-ischemic regions
+
+Endocrine disturbance: pituitary tumours (see
+Endocrinology, £23)
+
+Diplopia: drectcompression CNVI
+
+Vertigo
+
+Nystagmus
+
+Truncalatana+ttubation: cerebellar vermis lesions
+Limb ataxia, dysmetia, intention tremor: cerebellar
+hemisphere lesions
+
+Obstructive hydrocephalus more common than
+supratetarial lesions
+
+Toronto Notes 2025
+
+‘New onset communicating hydrocephalus
+ina patient with cancer should raise the
+suspicion of leptomeningeal carcinomatosis
+-e 
+
+## Page 947
+
+NSI5 ‘Neurosurgery
+
+Metastatic Tumours
+
+Brain Metastasis
+
++ most common intracranial tumour in adults (~50% of all brain tumours)
+
++ afflict ~25% of patients with any cancer
+
++ hematogenous spread most common
+
++ 80% are hemispheric, often at grey-white matter junction or temporal-parietal-occipital lobe junction
+= likely emboli spreading to terminal middle cerebral artery (MCA) branches
+
+Investigations
++ identify primary tumour
+«= full metastatic workup (CXR, CT chest/abdomen, abdominal U/S, nuclear medicine scan/PET,
+mammogram)
++ CT with contrast > round, well-circumscribed, often ring enhancing, ++ edema, often multiple
++ contrast-enhanced MRI more sensitive, especially for posterior fossa
++ consider biopsy/resection in unusual cases or if no primary tumour identified
+
+Treatment
++ medical
+phenytoin (or levetiracetam) for seizure prophylaxis if patient presents with seizure
+dexamethasone to reduce edema given with H2 blocker
+role of chemotherapy limited because of poor penetration across BBB
+targeted therapies are currently being investigated (e.g. EGFR (epidermal growth factor receptor)
+inhibitors in patients with EGFR-mutant lung cancer and brain metastases)
+= immunotherapy (currently under investigation)
++ radiation
+= SRS (highly focused fraction of radiation targeted to tumour): for discrete, deep-seated/inoperable
+tumours
+= multiple lesions: use WBRT (>10 lesions); consider SRS (<10 lesions)
+= postoperative adjuvant radiotherapy consideration: SRS to surgical cavity following resection
+emerging evidence supports avoidance of WBRT and use of focal radiation to spare cognitive functions
+(refer to Brown et al., 2016)
++ surgical
+= single/solitary lesions or dominant lesion with significant mass effect or symptoms: surgical resection
+and radiation in carefully selected patients
+= emerging: SRS prior to surgical resection (neoadjuvant XRT - through to reduce risk of local
+leptomeningeal dissemination during surgical resection)
+
+Prognosis
+
++ median survival without treatment once symptomatic is ~1 mo, with optimal treatment 6-9 mo; may be
+prolonged survival in some patient subgroups (e.g. HER2/neu breast cancer, EGFR-mutant lung cancer)
+the disease-specific Graded Prognostic Assessment (DS-GPA) is a useful prognostic index
+
+depending on primary tumour type, prognosis may depend on a combination of patient age, Karnofsky
+score, extent of extracranial metastatic disease, number of intracranial lesions, and molecular disease
+subtype
+
+Adult Diffuse Gliomas
+
++ most common primary intra-axial brain tumour, common in 4th-6th decades
+Table 11. WHO 2021 Diffuse Gliomas Classification
+
+Type WHO Grade” Typical CTMRI Findings ‘AteredMolecularProfiles Prognosis
+Oligodendroglioma 2,3 Low grade: areas ofcalafication Defining: DH-mutant Low grade:~10yr
+onCT, «enhancement
+Other: TERT promoter CIC, High grade:5 yr
+High grade:enhancement FUBP1, NOTCH
+Astrocytoma 2,34 Lowgrade:masseffect,no Defining: IH mutant and 1p/19q Low grade: 3 yr
+enhancement codeleted
+High grade:1.5-2yr
+High grade: complex Other: ATRX,TP53, COKN2AB
+enhancement
+Glioblastoma 4 Necrosis (ring enhancement) Defining: OH-widtype 15m
+
+Other: TERT promoter,
+chromosomes 710, EGFR
+
+“grade based on natural history
+
+Toronto Notes 2025
+
+Figure 11. Multiple brain metastases
+(see arrows)
+
+‘Most Common Cancers that Metastasize
+tothe CNS
+
+‘ite of Primary Frequency of CHS
+metastasis
+
+lung ws
+
+Breast 0%
+
+ney Rec) h%
+
+a %
+
+Nelanome %
+
+“*RCC-renlcellcarcinoma
+
+1. Heterogenous contrast enhancement
+2.lldefined borders (nfitrative)
+
+3. Peritumoural edema
+
+4. Central necrosis
+
+5. Compression of ventricles, midiine shift
+
+Figure 12. High-grade glioma on CT
+
+a
+
+SurgiclResectionys, Watchful Witingin Low.
+
+Grade Giomas
+
+Aan Oncol201;78:1942-1948
+
+Purpose: This study examined the effect of upfront
+
+iting for treatment of low. grade
+7
+
+Methods: The study was designed as a populaton-
+based parallel cohort study that compared outcomes
+froma hospital favouring watcha wating (66
+
+patients) and one favouring eal resection
+patients). Follow-up was between 7and 18 yt post-
+agnosis. The two groups were equivalent in terns of
+baseline parameters
+
+with ary surgical resection Patient from the centre
+favouring watchful waiting hada median survival of 5.8
+yr(95%C145-7.2) whereas patients fromthe centre
+favouring eary resection hada median survival of 144
+yr(95%C1 104185), The enhanced survival benefit
+remained after adjusting for molecular marker.
+Condusions: Early surgical resection oflow- grade
+jiomas i associated wit sigcant improved
+‘overall survival compared to watchful waiting
+-e 
+
+## Page 948
+
+‘Neurosurgery
+
+ical Features
+«+ sites: cerebral hemispheres >> cerebellum, brainstem, spinal cord
++ symptoms: recent onset of new/worsening H/A, N/V, seizure, + focal deficits or symptoms of increased ICP
+
+Investigations
++ CT/MRI with contrast: variable appearance depending on grade
+= hypodense on CT, hypointense on T1 MRI, hyperintense on T2 MRI
+«= low-grade: most do not enhance and have calcification on CT
+«= high-grade: most enhance with CT contrast dye/gadolinium, possibly with central necrosis (especially
+if IDH wildtype)
+= histology during surgical resection or biopsy
+
+Treatment
++ low-grade diffuse gliomas
+= close follow-up, radiation, chemotherapy, and surgery are all valid options
+= dedifferentiation to more malignant grade; typically occurs faster when diagnosed after age 45
+= surgery: maximal safe resection, not curative, trend towards better outcomes, provides tissue sample
+for histologic/molecular characterization
++ early surgery is recommended for oligodendroglioma, with treatment including XRT and PCV
+(chemotherapy regimen)
+early surgery is recommended for astrocytomas, with treatment including radiation therapy and
+TMZ
+
+= XRT alone or postoperative prolongs survival (retrospective evidence)
+= chemotherapy: initial therapy in all patients with high-risk low-grade glioma
++ high-grade diffuse gliomas
+= goal is to prolong “quality” survival
+= surgery
+* gross total resection: maximal safe resection + fractionated radiation with 2. cm margin +
+concomitant and adjuvant TMZ
+— except: nearing end-of-life; or extensive brainstem, bilateral, or dominant lobe GBM
+involvement
++ awake craniotomy for tumours in “eloquent” regions (e.g. speech and language regions or near
+motor strip)
++ stereotactic biopsy if resection not possible, followed by fractionated radiation with 2. cm margin
+— expectant: based on functional impairment Karnofsky score <70; patient’s/family’s wishes
+= chemotherapy: TMZ (agent of choice); better response to TMZ predicted by MGMT gene methylation
++ multicentric gliomas
+= WBRT + chemotherapy
+
+Primary Central Nervous System Lymphoma
+
++ highly aggressive, non-Hodgkin lymphoma confined to the CNS; ~95% are large B-lymphocyte
++ brain + spinal cord, leptomeningeal, CSF, and ocular manifestations possible
++ intracranial lesions predominantly supratentorial
+
+Clinical Features
+
+occurs in both immunocompetent and immunocompromised populations (multifocal lesions in 20-40% of.
+
+immunocompetent patients, and in 30-80% of immunocompromised patients)
+
+epidemiology: 0.47 in 100000 per yr; 1.35:1; age of onset 50-70 (30-40 in immunocompromised
+
+individuals)
+
+symptoms: focal neurological deficit, cognitive/behavioural symptoms + increased ICP or seizures or CN
+alsies
+
+n blurred vision + floaters if ocular involvement
+
++ high association with Epstein-Barr virus in patients with HIV
+
+Investigations
++ CT: hyper- or iso-attenuated lesions; significant enhancement with contrast
++ MRI with contrast (imaging of choice): intensely enhancing lesions, often localized to periventricular space
+= immunocompetent > homogenous enhancement + minimal edema
+= immunocompromised > heterogenous or ring enhancement, necrosis, edema + hemorrhage
+= restriction on diffusion imaging due to hypercellularity helpful to distinguish from other brain
+tumours
++ confirmation by stereotactic biopsy and histopathology
+= corticosteroids may prevent histopathological diagnosis > avoid until biopsy complete when clinically
+possible
+
+Treatment
+
++ chemotherapy: first-line treatment; induction therapy using MATRix regimen (high-dose methotrexate
+(HDMTX) + cytarabine + thiotepa + rituximab) preferred
+
+* surgery: generally reserved for stereotactic biopsy; resection discouraged
+
+Toronto Notes 2025
+
+CS)
+
+Comparison ofa Strategy Favouring Early Surgical
+Resection vs. Strategy Fawouring Watchful Waiting
+inLow-Srade Giomas
+
+AMA 2012;308(18) 1881-1888
+
+Purpose: To examine “watchful waiting". early
+surgical resection of low-grade gliomas.
+
+‘Study: A population-based parallel cohort study was
+undertaken between two hospitals that each favoured
+different management approaches forlow-grade
+jiomas (biopsy and watchful wating vs, erly surgical
+resection),
+
+Results: 66 patients wereincuded fromthe watchul
+waiting hospital and 7 patients from the earl
+resection centre, Median follow-up was7.Oand7.1y at
+cach centre. The two groups were equivalentin tems of
+baseline parameters. Overall, survivals signcantly
+beter with earl surgical esecton (watchful waiting:
+median survival of 59 95% CI, 4573s. early
+resection: median survival was not reached dv to
+prolonged length fie, 0.0,
+
+Conclusion: Early surgical resection oflow-grade-
+jiomasis associated with better overall survivals
+Compared to watchful waiting
+
+Bevacizumab lus Radiotherapy Temazolomde for
+Newly Diagnosed Glioblastoma
+
+NesM 204;370:70872
+
+Purpose: To evaluat the efectof combined
+bevacumab and XR temozolamie inthe teatmentof
+rent dign ose glblstoma
+
+Methods: Patents wth supratentoral GBM were
+
+3)
+{or 30wktotalin yds, folowed by bevacizumabor
+placebo monotherapy. Outcomes were progression-free
+survivalandoeral survival
+Results: The median pogresson-eesurvival
+was ongerin the bevacizumab group compared
+wih placebo (10.6movs,6.2mo, HRO64, 95% C1
+1055-0.) although overall survival did not fer
+significantly between groups (HR 0.88, 95% C1
+(076-102) Baseline health-elated quality o-ife
+and performance status were maintained longer in
+the bevacizumab group although therewas a higher
+frequency of adverse evens
+Conclusions: The addition of evaczumab to XRT.
+‘temozolomide improves progression-free survival but
+‘not overall suvivalin patients with glioblastoma,
+
+)
+
+Interim Results from the CATNON tral (EORTC study
+26053-22054) of Treatment with Concurent and
+Adjuvant tlmozolomide fr 1p/19qNon-co-deleted
+Anaplastic Glioma: aphase 3, randomised, open-
+label intergroup study
+
+Lancet 2017;380(10103):1645-53
+
+Purpose: Toassesstheuse of radiotherapy with
+concurrent and adjwant temozolomidenaduts wth
+on-c- deleted anaplastic gliomas.
+
+Methods: Patients with nem diagnosed non-<o-
+deleted anaplastic gloma wererandomizedtoreceive
+radiotherapy alone or wth adjuvant temozolmide; or
+toreceive XRT wth concurrent temozolomide 75 mg,
+with or witout adjuvant temnzohomide. The primary
+endpoint was overall survival
+
+Results: Overalsurvival at yearswas55:9% (95%
+(1412-638 with nd 44.7% (963-51.6 without
+adjuvant temozolomide, Grade3—4 adverse events
+wereseenin 812% of 549 patents assigned
+temozolomide, and were mainly haematologicaland
+revessble,
+
+Conclusions: Adjvanttemozolomie chemotherapy
+was associated with significant suvivalbenefit
+inpatients with newly diagnosed non-co-deleted
+anaplastic gloma,
+-e 
+
+## Page 949
+
+NSI7 ‘Neurosurgery
++ radiation: WBRT used in consolidation therapy and for palliation; consider as second-line induction
+therapy in HDMTX-ineligible patients
+« significant risk of neurotoxicity when combined with HDMTX
+
+Prognosis
+
++ age and performance status are key prognostic factors
++ median survival: 26 mo across all age groups; <7 mo for patients >70 y/o
+
+Meningioma
+
+most common primary intracranial tumour, arising from arachnoid cap cells
+
++ sometimes calcified, often causes hyperostosis of adjacent bone (detectable on imaging)
+
++ classically see Psammoma bodies (“meningocytic whorls”) on histology
+
++ location: 70% occur along the parasagittal convexity, falx cerebri, and sphenoid bone; other locations:
+tuberculum sellae, foramen magnum, olfactory groove, and CPA
+
+ical Features
+
++ middle aged, slight female predominance (M:F
+size with pregnancy)
+
+* many are asymptomatic and can be an incidental finding; when symptoms occur focal neurologic deficits
+
+specific to location, + seizures, symptoms of increased ICP
+
+molecular changes: bet ween 40-80% of meningiomas contain mutations in chromosome 22 (involved
+
+in suppressing tumour growth); some have extra copies of PDGFR and EGFR; some are associated with
+
+mutations in the Neurofibromatosis Type 2 (NF2) gene
+
+:1.8), many express the progesterone receptor (increase in
+
+Investigations
++ CT with contrast: homogeneous, densely enhancing, along dural border (“dural tail”), well circumscribed,
+usually solitary (10% multiple, likely with loss of NF2 gene/22q12 deletion)
+MRI with contrast: characterization of mass and provides a better assessment of the patency of dural
+venous sinuses
+angiography
+
+= most are supplied by external carotid feeders (meningeal vessels)
+
+= can assess venous sinus involvement, “tumour blush” commonly seen (prolonged contrast image)
+
+Treatment
+
+conservative management: asymptomatic and/or non-progressive on CT/MRI serial monitoring for interval
+growth changes
+
+surgery: often curative if complete resection and indicated when symptomatic and/or documented growth
+on serial CT/MRI
+
+endovascular: embolization for highly vascularized, likely bloody, tumours to facilitate surgery
+
+radiation: SRS is an option for lesions <3 cm and may be considered an alternative in older patients or
+
+in cases in which surgical risks are high (deep tumour location, medical comorbidities); SRS should be
+considered as adjuvant therapy for patients with atypical/malignant meningiomas
+
+Prognosis
+
++ 5Syrsurvival is >85% for Grade I, 60-90% for Grade II, and 35-65% for Grade III
+
++ depends on extent of resection
+
++ Simpson's classification: degree of surgical resection completeness with symptomatic recurrence
+
+Table 12. Simpson Grade of Meningioma Resection
+
+Grade Criteria
+
+1 Macroscopical complete removal of tumour, with excisionof its dural attachment and of any abnormal bone
+
+0 Macroscopical complete removal of tumour, with coagulation of ts dural attachment
+
+m Macroscopical complete removal of tumour without resection or coagulation of dural attachment or extradural extensions
+v Partial removal oftumour
+
+v Simple decompression with or without biopsy
+
+Vestibular Schwannoma (Acoustic Neuroma)
+
+slow-growing (60% show no growth over 1 yr; average rate for growing tumours 1-2 mm/yr), benign
+posterior fossa tumour (8-10% of tumours)
+
+arises from vestibular nerve of CN VIII in internal auditory canal, expanding into bony canal and CPA
+if bilateral, diagnostic of NF2
+
+epidemiology: 1.5 in 100000; all age groups affected, peaks at 4th-6th decades
+
+often identified in setting of unilateral tinnitus/hearing loss
+
+ical Features
+
+early clinical triad (tumour <2 cm): unilateral progressive hearing loss 98%, tinnitus, and disequilibrium
+(compression of CN VIII)
+
+Toronto Notes 2025
+
+1, Homogenous contrast enhancement
+2. Dural attachment
+3. Distinct margins
+
+Figure 13. Meningioma on CT
+
+WHO Classification of Meningioma
+(by his
+
+Grade 1 low-tisk of recurrence
+
+Grade 2: intermediate risk of recurrence
+Grade 3: high-risk of recurrence
+
+Recommendations for Management of Meningiomas
+Lancet Oncol 2016179} 2383-391
+
+European Association of Neuro-Oncology assessed
+avaiable tecture, rated scientific evidence, and
+saded recommendation levels
+Keyrecommendatons:
+
+Fst standard therapyis gas ota surgical
+resection inching ined dura)
+
+Aernative treatmentsincude radiosurgery for
+small tumours and fractionated XRTinarge!
+previous rated tumours
+
+New treatment concepts combining surgery and
+radisurgeyractinated XRT to treat complete
+tumour volume are being developed
+
+though pharmacologicltreatmentsaestil
+
+agents are candidates for future pharmacological
+approaches to treat refractory meningioma o
+WHO grades
+
+Progressive unilateral or asymmetrical
+sensorineural hearing loss = vestibular
+‘schwannoma until proven otherwise
+-e 
+
+## Page 950
+
+NSI8 ‘Neurosurgery
++ later clinical features
+= tumour usually >2 cm: otalgia, facial numbness + weakness, changes to taste (due to CN V and VII
+compression, respectively)
+= tumour usually >4 cm: ataxia, H/A, N/V, diplopia, cerebellar signs (due to brainstem compression; +
+obstructive hydrocephalus)
+
+Investigations
+
++ MRI with gadolinium or T2 fast imaging employing steady-state acquisition (FIESTA) sequence (>98%
+sensitive/specific); CT with contrast 2nd choice
+
++ audiogram, brainstem auditory evoked potentials, caloric tests
+
+Treatment
+
+* expectant: serial imaging (CT/MRI q6 mo) and audiometry if tumour is small, hearing is still preserved,
+high perioperative risk, or elderly patient
+
+radiation: SRS for lesions <3 cm
+
+surgery: if lesion >3 cm, brainstem compression, edema, hydrocephalus
+
+curable if complete resection (almost always possible, but comes with risk of facial nerve dysfunction)
+operative complications: CSF leak, meningitis, required shunt; CN V, VII, VIII dysfunction (proportional to
+tumour size; only significant CN VIII disability if bilateral)
+
+genetic testing and counseling should be considered for family members of NF2 mutation carriers
+
+Pituitary Adenoma
+
+primarily from anterior pituitary, 3rd-4th decades, M=F, associated with multiple endocrine neoplasia type
+1 (MEN-1) syndrome
+incidence in autopsy studies approximately 20%
+classification
+= microadenoma <1 cm; macroadenoma >1 cm
+= endocrine active (functional/secretory) vs. inactive (non-functional)
+= most common functional: prolactinomas, adrenocorticotropic, GH-producing
+= DDx: parasellar tumours (e.g. craniopharyngioma, tuberculum sellae meningioma), carotid artery
+aneurysm
+
+Clinical Features
++ mass effects
+H/A
+bitemporal hemianopia (compression of optic chiasm); hydrocephalus (3rd ventricle compression)
+invasive adenomas: CN III, IV, V1, V2, VI palsy (cavernous sinus compression); proptosis and chemosis
+(cavernous sinus occlusion)
+endocrine effects (see Endocrinology, E23)
+= hyperprolactinemia (prolactinoma): infertility, amenorrhea, galactorrhea, decreased libido
+= ACTH production: Cushing’s disease, hyperpigmentation
+« GH production: acromegaly/gigantism
+= panhypopituitarism: due to compression of pituitary (hypothyroidism, hypoadrenalism,
+hypogonadism)
+= DI- rare, except in apoplexy
+pituitary apoplexy (sudden expansion of mass due to hemorrhage or necrosis)
+= abrupt onset H/A, visual disturbances, ophthalmoplegia, reduced mental status, panhypopituitarism
+and DI
+= CSF rhinorrhea and seizures (rare)
+= signs and symptoms of SAH (rare)
+
+Investigations
+
++ formal visual fields, CN testing
+
++ endocrine tests (prolactin level, TSH, 8 AM cortisol, fasting glucose, FSH/LH, insulin-like growth factor 1
+(IGF-1)), electrolytes, urine electrolytes, and osmolarity
+
++ imaging (MRI with and without contrast)
+
+Treatment
++ medical
+= for apoplexy: rapid corticosteroid administration + surgical decompression
+= for prolactinoma: dopamine agonists (e.g. bromocriptine)
+= for Cushing’: serotonin and histamine antagonist (cyproheptadine), inhibition of cortisol production
+(ketoconazole)
+«= for acromegaly: somatostatin analogue (octreotide) + bromocriptine
+= endocrine replacement therapy
++ surgical
+= endoscopic endonasal trans-sphenoidal, and less commonly trans-cranial approaches (ice. for
+significant suprasellar extension)
+
+Toronto Notes 2025
+
+Figure 14. Vestibular schwannoma
+{tumour in CPA)
+
+Go Look For The Adenoma Please - GH,
+LH, FSH, TSH, ACTH, Prolactin
+Accompressive adenoma in the pituitary will
+impair hormone production in this order
+(.e. GH-secreting cells are most sensitive to
+compression)
+
+Figure 15. Pituitary adenoma shown,
+with contrast MRI (arrow)
+
+From Miranda Rs, J, Brnet-lLobe, L, Lahor Ske, E
+etal. le cetng pituitary macroadenoma aciomegay)
+associated wth progressive dentalmaloccison and
+refractory CPAP treatment, Head Face Med 13,7207.
+tps: og/10.186/13005-017-0140-6
+
+-Kaia Chessen 2017
+
+Son wen
+Cry
+
+a
+
+‘LArterior cerebral artery
+2. Internal carotid artery (communicating part)
+3.Pituitay gland
+
+4, Oculomotor nerve
+
+5, Troctiear nerve
+
+6. Internal carotid artery (cavernous segment)
+7. Ophthalmic nerve
+
+8, Abducens nerve
+
+9. Cavernous sinus
+
+10, Maxillary nerve
+
+Figure 16. Cavernous sinus
+-e 
+
+## Page 951
+
+NSI9 ‘Neurosurgery
+
++ postoperative concerns: DI, adrenal insufficiency (Al), CSF leak
+= Dland AI: AM cortisol, serum sodium and osmolality, urine output and specific gravity (treatment -
+AL: glucocorticoids; DI: desmopressin/DDAVP™)
+= CSF rhinorrhea: test for B-transferrin
+
+Genetic Associations
+
++ sellar masses have known associations with several classic oncogene mutations, including:
+= MENI: loss-of-function mutations are common
+= GNSAI: activating mutations found in ~40% of somatotroph adenomas
+«= AIP: mutations associated with familial pituitary adenomas
+
+Cerebral Abscess
+
+Definition
++ pus in brain substance, surrounded by tissue reaction (capsule formation)
+
+Etiology
+
++ modes of spread: 10-60% of patients have no identifiable cause
+
++ pathogens
+
+Streptococcus (most common), often anaerobic or microaerophilic
+
+Staphylococcus (penetrating injury)
+
+Gram negatives, anaerobes (Bacteroides, Fusobacterium)
+
+in neonates: Proteus and Citrobacter (exclusively)
+
+immunocompromised: Toxoplasma, Nocardia, Candida albicans, Listeria monocytogenes,
+Mycobacterium, and Aspergillus
+
+Sources of Pus/Infection
++ four routes of microbial access to CNS
+1, hematogenous spread: arterial and retrograde venous
+— adults: chest is most common source (lung abscess, bronchiectasis, empyema)
+— children: congenital cyanotic heart disease with R-to-L shunt
+— immunosuppression (AIDS toxoplasmosis)
+2. direct implantation (dural disruption)
+— trauma
+— iatrogenic (e.g. following LP, postoperative)
+— congenital defect (eg. dermal sinus)
+3. contiguous spread (adjacent infection): from air sinus, naso/oropharynx, surgical site (e.g. otitis
+media, mastoiditis, sinusitis, osteomyelitis, dental abscess)
+4, spread from peripheral nervous system (PNS) (e.g. viruses: rabies, herpes zoster)
++ common examples
+= epidural abscess: in cranial and spinal epidural space, associated with osteomyelitis
+treatment: immediate drainage and antibiotics, surgical emergency if cord compression
+= subdural empyema: bacterial/fungal infection, due to contiguous spread from bone or air sinus,
+progresses rapidly
++ treatment: surgical drainage and antibiotics, 20% mortality
+
+meningitis, encephalitis (see Infectious Diseases, ID17)
+cerebral abscess
+
+Risk Factors
+
+lung abnormalities (infection, AVFs; especially Osler-Weber-Rendu syndrome/hereditary hemorrhagic
+
+telangiectasia)
+
++ congenital coronary heart disease: R-to-L shunt bypasses pulmonary filtration of microorganisms
+bacterial endocarditis
+
+penetrating head trauma
+
+immunosuppression (e.g. AIDS)
+
+dental abscess, poor dentition
+
+ical Features
++ focal neurological signs and symptoms
+= HI/A, decreased LOC
+mass effect, increased ICP and sequelae (cranial enlargement in children)
++ hemiparesis and seizures in 50% of cases
++ signs and symptoms of systemic infection (low-grade fever, leukocytosis)
+
+Complications
+
++ with abscess rupture: ventriculitis, meningitis, venous sinus thrombosis
++ CSF obstruction
+
++ transtentorial herniation
+
+Toronto Notes 2025
+
+1. Surrounding edema
+2. Central low density (pus)
+
+3. Ring enhancement
+
+Figure 17. Cerebral abscess on CT
+
+a
+
+Recommendations or Duration of Antibiotic Therapy
+
+for BrainAbscesses
+
+Int JInfet Dis 2010;14Supp4:579.92
+
+Systematic iteature search sing MEDLINE database
+
+for studies during 1988-2008 to methodologically
+
+evaluate antibitictherapy duration pertaining to
+
+brainascess
+
+Keyrecommendations:
+
+4. Prudent pernd of 4-6 wi of antibiotic therapy for
+surgically treated abscesses.
+
+2. 6-8wkoflV treatment forabscessestreated
+medially nly.
+
+3. 6-8wkoflV treatment formuitpleabscesses when
+larger ones are treated surgical.
+-e 
+
+## Page 952
+
+S20 ‘Neurosurgery Toronto Notes 2025
+Investigations
++ CT scan often first test in emergency department
++ MRI
+= imaging of choice
+« restriction on diffusion imaging (also seen in lymphoma)
+= apparent diffusion coefficient (ADC) used to differentiate abscess (black) from tumour (white)
++ WBCIESR may be normal, blood cultures rarely helpful, and LP contraindicated if large mass
++ CSF: non-specific (high ICP, high WBC, high protein, normal carbohydrate), rarely helpful, usually negative
+culture
+Treatment
++ aspiration + excision and send for Gram stain, acid-fast bacillus (AFB), C&S, fungal culture
++ excision preferable if location suitable
++ antibiotics
+= empirically: vancomycin + ceftriaxone + metronidazole or chloramphenicol or rifampin (6-8 wk
+therapy)
+= revise antibiotics when C&S known
++ anticonvulsants (1-2 yr)
++ follow-up is done clinically and with MRI
+Prognosis
++ ~10% mortality with appropriate therapy, permanent deficits in ~50% of cases
+Table 13. Stages of Cerebral Inflammation/Infection
+Stage CT Features Ri Features Microstructural changes
+Early cerebitis(13) Lowattenvation abnormality Low Tisignal Neutrophil accumulation
+Mass eect High Tsigal Tissue necrosis andedema
+Palchy contrast enhancement Microgia and astrocyte activation
+Latecerebritis (4.9 4) lncreesed lesion demarcation Macrophage and lymphocyte infiltration
+Microgia and astrocyte activation
+Early capsule formation Ringcontastenhancement, __—Betterdemarcatonof lesion Formation of thin, wel-vasclaized wall
+(10-134) particularly inte capsule Ring contrast enhancement Microgia and astrocyte activation
+Latecapsuleformation "mation baie dr thinner medial wall Thick capsule with multiple ayers
+(4a) est Microglia and astrocyte activation
+Table 14. Comparison of Epidemiology and Etiology of Intracranial Bleeds ©
+Typesof Etiology Epidemiology Clnicaleatures  CTFeatures Treatment Prognosis
+Hematoma/ CT Density and MRIAppearance
+Hemorrhage of Blood
+Epidural ‘Shall fracture Lucidinerval —Hyperdense Craniotomy Good with prompt management; Time CT RIT! MRIT2
+Hematoma ‘causing middle beforelossof lenticular mass, respiratory arrest canoccut from Kae nedoue Gey Bae
+meningeal bleed consciousness, with sharp margins, tuncal herniation; 89% recovery fa
+pupillary usually limited by at6mo
+‘changes, Cushing suture lines Subacute Isodense White White
+reflex ()
+Acute SDH Ruptured Age>50, No lucid interval, Hyperdense Craniotomyifbleed>1 40-60% mortaltyin patients Gra Hype-erse Sack Back
+subarachnoid _associatedwith hemiparesis, crescenticmass, —_emthick requiting surgery (2)
+bridgingvessels trauma pupillary changes crossing suture 'URLTI:"GeorgeWashington Bridge”
+lines [MRI-T2:"Ore0" cookie ~Black/ White/Black
+ChronicSDH Ruptured Age>50, Often Hypodense Burr hole todrain; 8.6% mortality at6 mo withdrain,
+subarachnoid ——_—EtOHusers, asymptomatic, _crescenticmass, craniotomy ifrecurs, 18.7% without
+bridging vessels anticoagulated minor HA, ‘crossing suture
+‘confusion, signs lines
+of increased ICP,
+light-headedness
+SAH Trauma, ‘Age55-60, 20%  Suddenonset —_Hyperdense Nonsurgicat NPO,IV Traumatic:
+Spontaneous cases under thunderdapWA, bloodincisterns/ normal saline (NS), 0.6% mortality with isolated SAH
+(aneurysms, idio- age45 signs of increased fissures (sensitivity ECG,Foley, BP 120-150, _in the setting of mild traumatic
+pathic, AVM) ep decreases over vasospasm prophylaxis _braininjury (GCS >13)
+time) (rimodipine); open vs.
+endovascular surgeryto More severe TBIistypically
+‘repair if rebleed; associated with additional forms
+external ventricular of brain injury.
+drainage or internal
+CSF diversionmay be Aneurysmal:
+needed if secondary 30% mortality at 1mo 20-40%
+hydrocephalus with moderate to severe disability
+with treatment
+Overall 30-day mortality: <30%
+IcH HTN, vascular Age>55, Tike Hyperdense Medical: decreaseBP, Poor: 4% mortality due to
+abnormality, -male,druguse symptoms, signs intra-parenchymal control ICP cerebral herniation
+‘tumours, (cocaine, EH, of increased ICP collection Surgical: craniotomy
+infections, amphetamine)
+
+coagulopathy
+
+-e 
+
+## Page 953
+
+NS21 ‘Neurosurgery
+
+Epidural (Extradural) Hematoma
+
+Etiology
++ temporal-parietal skull fracture: 85% are due to ruptured middle meningeal artery; remainder of cases are
+due to bleeding from middle meningeal vein, diploic veins, dural sinus, or bone
+
+Epidemiology
++ young adult, M:F=4:1; rare in ages <2 or >60
++ 1-4% of traumatic head injuries
+
+al Features
+
++ classic sequence (seen in <30%): post-traumatic reduced LOC, a lucid interval of several hours, then
+obtundation, hemiparesis, ipsilateral pupillary dilation, and coma
+
++ signs and symptoms depend on severity but can include H/A, N/V, amnesia, altered LOC, aphasia, seizures,
+HTN, and respiratory distress
+
++ deterioration can take hours to days
+
+Investigations
++ CT without contrast: “lenticular-shaped,” usually limited by suture lines but not limited by dural
+attachments (not visible on initial CT in 8% of cases)
+
+Treatment
++ admission, close neurological observation with serial CT indicated if all of the following are present
+= small volume clot (<30 mL), clot thickness <15 mm, minimal midline shift (MLS <5 mm), GCS >8, no
+focal deficit
+
++ otherwise, urgent craniotomy to evacuate clot, follow-up CT
+
++ patients with initial epidural hematoma >10 mL on CT within 2h or epidural hematoma enlargement in
+temporoparietal region are more likely to develop epidural hematoma enlargement and require close CT
+follow-up at 5-6 h post impact
+
++ mannitol preoperative if elevated ICP or signs of brain herniation
+
++ reverse anticoagulation
+
+Prognosis
+
++ good with prompt management, as the brain is often not damaged
+
++ worse prognosis if bilateral Babinski, decerebration preoperatively, pupillary changes, or low GCS on
+admission
+
++ death is usually due to respiratory arrest from uncal herniation (injury to the midbrain)
+
+Subdural Hematoma
+
+Table 15. Comparison of Epidemiology and Etiology of Acute and Chronic SDH
+
+Acute SDH Chronic SDH
+TimeCourse 4-2dater bleeding onset 215 dafter bleeding onset
+Etiology Rupture of vessels thatbridgethesubarachnoidspace e.g.cortical Maystart out as acute SDH
+artery, large vein, venous sinus) o cerebral laceration Often dueto minor injuries orno history of injury
+Blood withinthe subdural space evokes an inflammatory response:
+Fibroblastinvasion of clot andformation of neomembraneswithindays
++ growthof neocapillaries fibrinolysis and liquefaction of blood clot
+(forming a hygroma)
+Course isdeterminedby the balance of rebleeding from neomembranes
+and resorption of fluid
+Risk Factors Trauma, acceleration-deceleration injury, antithrombotics, ‘Advanced age, alcoholics, patients with CSF shunts, anticoagulants,
+
+Clinical Features
+
+Investigations
+Treatment
+
+Prognosis
+
+(anticoagulants, antiplatelets), EtOH, cerebral atrophy, infant head
+‘trauma, shaken baby syndrome
+
+‘teredLOC, pupillary regularity hemiparesis
+Upto 50% of patients can presentwith coma rom the time of injury
+
+(CThyperdense, concave, crescenticmas, cossingsuturelines
+
+Indications fr craniotomy: if clinically symptomatic, hematoma >1 cm
+thick, MLS>5 mm, 6CS deceased by>2 fromtime of injury to hospital
+admission, or ICP persistently>20 mig (optimal surgery <4h
+‘romonset)
+
+Otherwise observewith serial imaging if stable or improving
+
+Poor overall since the brain parenctyma és often injured (mortality
+rangeis <30%, due largely to underlying brain injury)
+Prognosticfactors: initial GCS andneurological status, postoperative
+le
+
+coagulopathis, shaken baby syndrome
+
+May present withminor H/A, confusion, language difficulties, T-like
+symptoms, symptoms of raised ICP + seizures, progressive dementia, gat
+problem, light headedness
+
+Presents with gba rather than focal deficits, such as dsturbanceof
+consciousness; “the great imitator” of dementia, tumours
+
+CE: hypodense (liquefied dot), crescentic mass
+
+Seizure prophylaxis only if post-traumatic seizure
+Reverse coagulopathies
+
+Burrhole rainage of liquefied clotindicated i symptomatic or thickness >1
+
+cm; caniotomy if ecursmorethan twice
+
+Good overall as brain usually undamaged, butmay require repeat drainage
+
+Toronto Notes 2025
+
+1, Compression of ventricles (MLS)
+2. Blood
+
+Figure 18. Extradural hematoma
+onCT
+
+Poor Prognostic Indicators for Epidural
+Hematoma
+
+Older age
+Low GCS on admission
+
+Pupillary abnormalities (especially non-
+reactive)
+
+Longer delay in obtaining surgery (f
+needed)
+
+Postoperative elevated ICP
+
+‘Compression of ventticles/MLS
+Blood
+
+Old blood
+
+Figure 19. Subdural hematoma on CT
+
+Ce)
+
+Use of Drains vs. No Drain After Bur-Hole
+Evacuation Fo Treatment of Chronic Subdural
+Hematoma
+
+Cochrane DB Syst Rev 20168: COOT1402
+
+Purpose: To compare externa subdural drains ono
+
+drain after bur-hol evacuation for treatment of
+
+chronic DH
+
+Methods: Sjstematicreview wth comprehensive
+
+search strategy databases etactng 9 RCTs (1-968)
+
+Results: Significant eduction inthe risk of recurrence
+
+wit subdural drains (0.45, 95% C1 0.320.610
+
+strong evidence of increase in complications (0.78,
+
+95% C1O.771.72), mortality (RRO.78, 95% C10 45-133),
+
+poor functional outcome (RR 0.68, 95% C1 0.44.05
+
+Conclusions
+
+4L. Some evidence that postoperative drainage’
+effective in reducing the symptomatic ecuence
+of chronic subdural hematoma,
+
+2. Theetfectof drainage on theoccurrenceof surgical
+complications, mortality, and poo functional
+cutcomesis uncertain due to lw quality evidence
+
+3. Nostrong evidence of ncreasein complications
+when drains are used
+
+-e 
+
+## Page 954
+
+NS22 ‘Neurosurgery
+
+Cerebrovascular Disease
+
+Cerebrovascular disease may be divided into two general categories:
+
+Ischemic Cerebral Infarction (80% of disease)
+
++ includes embolism, thrombosis of intracerebral arteries, vasculitis, hypercoagulability, etc. (see Neurology,
+
+Stroke, N51)
+
+Intracranial Hemorrhage (20% of disease)
++ includes SAH, spontaneous ICH, IVH
++ may occur due to ruptured intracranial aneurysms
+
+1. Anterior communicating artery, 30%
+2. Middle cerebral artery, 20%
+
+Internal carotid/posterior
+communicating artery, 30%
+Basilar tip, 7
+
+Superior cerebellar artery, 3%
+Vertebrobasilar junction, 2%
+
+Posterior inferior cerebellar artery, 3%
+
+Moose
+
+Types of Aneurysms
+
+isa:
+
+Saccular Fusiform Dissecting
+
+Jerry Won 201, after Kristina Neuman 2011
+
+Figure 20. Aneurysms of the Circle of Willis: figure outlines most common aneurysms in the vessels
+
+Subarachnoid Hemorrhage
+
+Definition
++ bleeding into subarachnoid space (intracranial vessel between arachnoid and pia)
+
+Etiology
++ trauma (most common)
++ spontaneous
+= ruptured aneurysms (75-80%)
+= idiopathic (14-22%)
+= AVMs (4-5%)
++ coagulopathies (iatrogenic or primary), vasculitides, tumours, cerebral artery dissections (<5%)
+
+Epidemiology
++ ~10-28 in 100000 per yr
++ peak age 55-60, 20% of cases occur <45 yr
+
+Risk Factors
+
++ HIN
+
+pregnancy/parturition in patients with pre-existing AVMs, eclampsia
+
+oral contraceptive pill
+
+substance use disorder (cigarette smoking, cocaine, EtOH)
+
+conditions associated with high incidence of aneurysms (see Intracranial Aneurysms, NS24)
+
+Clinical Features of Spontaneous SAH
+
++ sudden onset (seconds) of severe “thunderclap” H/A usually following exertion and described as the “worst
+headache of my life” (up to 97% sensitive, 12-25% specific)
+
++ NIV, photophobia
+
++ meningismus (neck pain/stiffness, positive Kernig’s and Brudzinski’s sign)
+
+Toronto Notes 2025
+
+@
+
+niectomy in Older Patients with Extensive
+Widdle-Cerebral-Artery Stroke
+NEJM20%4;370:1091-1100
+
+Purpose: To determin f early decompressive
+hemicraniectomy reduces mortality among patients
+
+Ny".
+Methods: 112patens>60 yr (median age70y0
+
+vith malignant MCKinfrction randomly assigned
+
+to conservative CU treatment. hemicraniectony.
+Endpoint was survival without severe disabity
+{odfied Rankin sca score 0-4)
+
+Results: Thepropoton of patient who survived
+without severedsabity was 38 the
+hemicraniectomy group and 185 inthe control goup
+(0R 291, 95% Cl 1.06749), Moied Rankin scale
+scoresinhenicraniectomy vs, cotrol group interns of
+percentages patients: 020%. 0), 3 or moderate
+isabity (ys. 38, 4ox moderate severe csaity
+(82% 16.158, Sor severe disability 28% rs. 18%),
+and 6 or death (33% vs. 70%). fection were more
+frequentin the hemicaniectony group and herniation
+ore fequentin the contol group.
+
+Conclusions: Hemianiectony increased survival
+without severedsabity among patents 60 yt witha
+malignant MCR infarction,
+
+Hunt and Hess Grade (Clinical Grading
+Scale for SAH)
+
+Grade Desc
+
+1 Wo Stor mild H/Aandfor mit
+‘meningismus
+
+2 Grade 1+ CN palsy
+
+3 Contusionethar gy, mild
+hemiparesis, or aphasia.
+
+4 6S <15but8, moderate-severe
+hemiparesis, mid rigidity
+
+5 Coma (6CS <8), decerebrate,
+‘moribund appearance
+
+Mortality of Grade 12 20% increased with grade
+-e 
+
+## Page 955
+
+NS23 ‘Neurosurgery
+
+decreased LOC (due to either raised ICP, ischemia, or seizure)
+focal deficits: cranial nerve palsies (CN III, IV), hemiparesis
+ocular hemorrhage in 20-40% (due to sudden raised ICP compressing central retinal vein)
+reactive HTN
+sentinel bleeds
+= represents undiagnosed SAH
+= SAH-like symptoms lasting <1 d (“thunderclap H/A”)
+= may have blood on CT or LP
+= ~30-60% of patients with full blown SAH give history suggestive of sentinel bleed within past 3 wk
++ DDx: sentinel bleed, dissection/thrombosis of aneurysm, venous sinus thrombosis, benign cerebral
+vasculitis, benign exertional H/A
+
+Investigations
++ non-contrast CT (NCCT) for diagnosis of SAH
+= 98% sensitive within 12 h, 93% within 24h; 100% specificity
+= may be negative if small bleed or presentation delayed several days
+= acute hydrocephalus, IVH, ICH, infarct or large aneurysm may be visible
++ LP (highly sensitive) for diagnosis of SAH if CT negative but high suspicion:
+= elevated opening pressure (>18 cm H20)
+« bloody initially, xanthochromic supernatant with centrifugation (“yellow”) by ~12 h, lasts 2 wk
+= RBC count usually >100000/mm3 without significant drop from first to last tube (in contrast to traumatic tap)
+« elevated protein due to blood breakdown products
++ four vessel cerebral angiography (“gold standard” for aneurysms)
+= demonstrates source of SAH in 80-85% of cases
+= angiogram negative SAH: repeat angiogram in 7-14 d, if negative > “perimesencephalic SAH”
++ MRAand CT anglography/an iogram (CTA): sensitivity up to 95% for aneurysms, CTA>MRA for smaller
+aneurysms and delineating adjacent bony anatomy
+
+Blood in
+intethemispheric fissure
+
+Blood in
+suprasellar cistern
+
+Blood in
+basal cisterns
+
+Blood in
+Sylvian fissures
+
+surface of tentorium
+
+Figure 21. Diagnosis of SAH
+
+(Neer) Positive
+
+o
+
+Positive
+Yes No
+
+positive
+LP positive
+Diagnostic DSA
+
+Aneurysm Treatment
+
+Gold Standard
+
+(Clipping) (Coiling)
+
+Gold Standard
+
+Figure 22. Approach to SAH
+‘Adapted from: de Oliveira Manoelet a. (2014) Subarachnoid hemorrhage froma ne woimaging perspective. Critical Care
+
+Treatment
++ admit to ICU or NICU
+= oxygen/ventilation PRN
+= NPO, bed rest, elevate head of bed 30°, minimal external stimulation, neurological vitals q1 h
+= aim to maintain sBP=120-150 mmHg (balance of vasospasm prophylaxis, risk of rebleed, risk of
+hypotension since CBF autoregulation impaired by SAH)
+= cardiac rhythm monitor, Foley PRN, strict monitoring of ins and outs
+
+Toronto Notes 2025
+
+World Federation of Neurological
+‘Surgeons (WENS) Grading of SAH
+
+WNSGrade GCS Score
+
+6 =
+BM =
+aM ’
+™m tor
+6 tor
+
+Nontraumatic Subarachnoid Hemorihage inthe
+Setting of Negative Cranial Computed Tomography
+Results: Enteral Valdationof aGinical and Imaging
+PredictionRule
+
+Aan Emerg Med 20133611):140
+
+Purpose: Tovadate two decision ues forthe
+ingnosis of SAH: 1)A clinica prediction rule tates that
+patients wth acute severe HA but without the cnc
+variables age 240, neck pain, loss of consciousness,
+x onsetof HA with exertion ar at oesisk or SAH;
+(2)Animaging prediction rule bases diagnosis on non-
+contrast cranial for patients within 6 ho HAonse
+Methods: Matched case-control study of 5 patents at
+emer gency departments between 2000and 201,
+dinguoses were verified by LP
+
+Results: The clinical prediction ue for diagnosis of SAH
+was 97.7% sensitive, 22.7% speci and hada negative
+lkehood rato of 013. Using the imaging prediction
+rule resulted ina false negativerate of 20%,
+Condusons Pert ormin the lial and imaging rules
+together has the potential for maximizing sensittyof
+prediction and reducing rates of, but using imaging
+alone canesultin mised cases
+
+@
+
+TheVasograde:ASimple Grading Scale for Prediction
+of Delayed Cerebral ischemia after Subarachnoid
+Hemorrhage
+
+Stroke 2015:467) 18261831
+
+Purpose: Patients areclasscaly atrisk of DCl after
+aneurysmal SAH This study vakidated a grading scale
+the VASOGRADE-fr prediction of DI
+
+Methods: Datafromthre Phase II RCTs anda single
+hospital series were used to assess the relationship
+between theVASOGRADEand DCL
+
+Results: Ina cohort of 746 patient, the VASOGRADE
+significantly predicted DCI (P 0.001). The VASOGRADE-
+Yelowhad atendency for increased risk or DCL
+
+(081.31, 95% C10.77-2.23} when compared wth
+\VASOGRADE- Green; those with VASOGRADE-Red hada
+‘Hold higher riskof DCI (0R3.19; 95% C1 2.07450,
+\VASOGRADE had an adequate discrimination for
+‘rediction of Dl (area under the receiver operating
+characteristics curve=0.63) and good caliaton.
+CCondusion: The VASOGRADE results validated
+‘previously published risk hartsin large and
+
+diverse sample of SAH patents, which alows DCI risk
+stratcaton on presentation after SAH, Itcould help
+toselect patents at high-sk of Cl and standard
+treatment protocol and esearch studies
+
+-e 
+
+## Page 956
+
+NS24 ‘Neurosurgery
+
++ medications
+= IV normal saline with 20 mmol KCI/L at 125-150 cc/h
+nimodipine 60 mg PO/NG q4h x 21 d for delayed cerebral ischemia (DCI) neuroprotection; may
+discontinue earlier if patient is clinically well
+seizure prophylaxis: levetiracetam (Keppra*) 500 mg PO/IV ql2h x 1 wk
+mild sedation PRN
+neuroprotection
++ nimodipine: the only validated neuroprotective agent
++ IV magnesium and clazosentan (endothelium-A receptor antagonist): studies show reduction in
+DCI and vasospasm, respectively, without any effect on functional outcome
+¢ statins: trial did not show any neuroprotective benefit
+
+Complications
+* vasospasm: vasoconstriction and permanent pathological vascular changes in response to vessel irritation
+by blood can lead to delayed cerebral ischemia and death
+
+onset: 4-14 d post-SAH, peak at 6-8 d; most commonly due to SAH, rarely due to ICH/IVH
+clinical features (new onset ischemic deficit): confusion, decreased LOC, focal deficit (speech or motor,
+e.g. pronator drift)
+risk factors: large amount of blood on CT (high Fisher grade), smoking, increased age, HTN
+“symptomatic” vasospasm in 20-30% of SAH patients
+“angiographic” vasospasm in 30-70% of arteriograms performed 7 d following SAH
+diagnosed clinically, and/or with transcranial Doppler (increased velocity of blood flow)
+risk of cerebral infarct and death
+treatment
+
++ hyperdynamic (“triple H”) therapy using fluids and pressors, usually after ruptured aneurysm has
+
+been clipped/coiled
+
++ direct vasodilation via angioplasty or intra-arterial verapamil for refractory cases
+delayed cerebral ischemia: neurological deterioration persisting >1 h in the absence of any obvious
+contributing physiological radiological, or laboratory abnormalities
+peaks 4-10 d post-ictus
+= can progress to cerebral infarction and is associated with significant morbidity and mortality
+
+mechanism behind DCI is unclear, but includes vasospasm, vascular dysautoregulation, neurotoxic
+effects from the blood breakdown products, inflammation, micro-thrombi, and cortical spreading
+depolarizations
+= essential target for SAH management
+. hydrocephalus (15-20%): due to blood obstructing arachnoid granulations
+= can be acute or chronic, requires extraventricular drain or shunt, respectively
+
+neurogenic pulmonary edema
+hyponatremia: due to cerebral salt wasting (increased renal sodium loss and ECF volume loss), not SIADH
+DI
+
+1
+cardiac: arrhythmia (>50% have ECG changes), MI, CHF
+
+Prognosis
+
++ 10-15% mortality before reaching hospital, overall 50% mortality (majority within first 2-3 wk)
++ 30% of survivors have moderate to severe disability
+
+* a major cause of mortality is rebleeding, for untreated aneurysms:
+
+risk of rebleed: 4% on Ist day, 15-20% within 2 wk, 50% by 6 mo
+
+if no rebleed by 6 mo, risk decreases to same incidence as unruptured aneurysm (2%)
+
+only prevention is early clipping or coiling of “cold” aneurysm
+
+rebleed risk for “perimesencephalic SAH’ is approximately same as for general population
+
+Intracranial Aneurysms
+
+Epidemiology
++ prevalence 1-4% (20-30% have multiple)
++ F>M; 35-65 yr (mean age of presentation is 50 yr)
+
+Types
++ saccular (berry)
+= most common type
+= located at branch points of major cerebral arteries (circle of Willis)
+= 85-95% in carotid (anterior) system, 5-15% in vertebrobasilar (posterior) circulation
++ fusiform
+= atherosclerotic
+= more common in vertebrobasilar system, rarely rupture
++ infectious (mycotic)
+= secondary to any infection of vessel wall, 20% multiple
+= 60% Streptococcus and Staphylococcus
+= 3-15% of patients with bacterial endocarditis
+
+Toronto Notes 2025
+VASOGRADE
+VASOGRADE WFNS Moditied
+Fisherscale
+Green rr n
+Yellow i) uM
+ed 45 any
+
+TheDurabily of Endovascular Colingvs.
+Neurosurgical Clipping of Ruptured Cerebral
+Aneurysms: 18 Follow-Upof Th UK Cohort of The
+International Subarachnoid Aneurysm Tia (ISAT)
+Lancet 2015;385(9969:691-687
+
+Methods: RCT comparing endovascularcoing
+
+‘treatment with craniotomy and clipping for ruptured
+
+intracranial aneurysmsin 243 patients who were
+
+considered eigibetor ether modality or therapy
+beeen 1994-2002. 164 patients were followed for
+eats and outcomes for 10-185 yt
+
+Results: A 10, 83% of endovascular colin group
+
+and 79% ol newasugical clipping group were alive.
+
+2% of patients treated with endovascular cling and
+
+78% of patents treated with neurosurgical clipping
+
+were indepen dent. Patints nthe endovascular
+
+‘group were morelikely tobe alive and independent
+
+at 0 yrs neurosurgery group (OR 134, 95%.C1
+
+1074.67, Rebeeding risks from get aneurysmfor
+
+endovascular group and neurosurgery group were
+
+(0.0216 5% C1 0.0121-0.0383) and 0.0064 95%.C1
+
+.0024-0.0173, respective.
+
+Conclusions:
+
+‘L. The probability of death or dependency was
+significantly greater inthe neurosurgical group (vs
+‘endovascular group) at 10yrfollow-up,
+
+2. Rebleeding was more likely in endovascular group
+vs. neurosurgical group, butriskwassmallat 10,
+yrfolow-up.
+
+3. Probability of disability free survival was
+significantly greater inthe endovascular group (vs.
+‘neurosurgical group) at 10 yt folow-up.
+
+‘Most Common Locations of Saccular
+Aneurysms
+
+Anterior communicating artery (Com): 30%
+PCom: 25%
+
+MCA: 20%
+
+Basilar tip: 7%
+
+Risk Factors for Saccular Aneurysms
+‘Smoking
+HIN
+
+Adult Polycystic kidney disease
+Ehlers-Danlos syndrome
+Family history: >2 first-degree relatives
+-e 
+
+## Page 957
+
+NS25 ‘Neurosurgery
+
+Risk Factors
++ autosomal dominant polycystic kidney disease (15%)
+fibromuscular dysplasia (7-21%)
+AVMs
+connective tissue diseases (Ehlers-Danlos syndrome, Marfan syndrome)
+family history
+bacterial endocarditis
+Osler-Weber-Rendu syndrome (hereditary hemorrhagic telangiectasia)
+atherosclerosis, HTN, and smoking
+trauma
+aortic coarctation
+estrogen deficiency related to menopause
+
+Table 16. Five Year Cumulative Rupture Risk in Unruptured Aneurysms Based on Size and Location
+
+Cavernous Carotid ‘ACKor ACom/MCNICA Vertebrobasilar/PCN/PCom
+Imm 0% 0% 2.5%
+
+142mm % 26% HS%
+
+13-24mm 3% 45% 8.4%
+
+224mm 64% 0% 50%
+
+‘ACA= anterior cerebral artery
+Table adapted fromthe ISUIA Til; Lancet 2003;362:103-110
+
+Clinical Features
+
++ rupture (90%), most often SAH, but 30% ICH, 20% IVH, 3% subdural bleed
+
++ sentinel hemorrhage (“thunderclap H/A”) > requires urgent clipping/coiling to prevent catastrophic bleed
+
++ mass effect (giant aneurysms)
+
+= ICA ACom aneur’ = may cm ress: h
+
++ the pituitary stalk or hypothalamus causing hypopituitarism
++ the optic nerve or chissm producinga visual fd defect
++ basilar artery aneurysm may compress midbrain, pons (limb weakness), or CN IIT
+¢ PCom aneurysm may produce CN III palsy
+ intracavernous aneurysms (CN III, IV, V1, V2, VI)
+
+distal embolization (e.g. amaurosis fugax)
+
+seizures
+
+H/A (without hemorrhage)
+
+incidental CT or angiography finding (asymptomatic)
+
+Investigations
++ CTA, MRA, cerebral angiogram
+
+Treatment
++ ruptured aneurysms
+= overall trend towards better outcome with early surgery or coiling (48-96 h after SAH)
+
+* treatment options: surgical placement of clip across aneurysm neck, trapping (clipping of proximal
+and distal vessels), coiling using Guglielmi detachable coils, flow diversion stents, wrapping (last
+resort)
+
+= choice of surgery vs. coiling: consider location, size, shape, and tortuosity of the aneurysm, patient
+comorbidities, age, and neurological condition; in general:
+
+endovascular coiling > clipping for ruptured intracranial aneurysms suitable for both treatments >
+greater survival benefit at 1 yr with sustained effect for up to 7 yr post-treatment
+
++ coiling: posterior > anterior circulation, deep/eloquent location, basilar artery bifurcation/apex,
+older age, presence of comorbidities, presence of vasospasm
+
++ clipping: difficult endovascular access, broad aneurysmal base, branching arteries at the aneurysm
+base, tortuosity/atherosclerosis of afferent vessels, dissection, hematoma, acute brainstem
+compression
+
++ unruptured aneurysms
+
+average 1.4% annual risk of rupture; predictors include: age, HTN, history of SAH, aneurysm size and
+location, and geographical region (Finnish people = 3.6 times increased risk; Japanese people = 2.8
+times increased risk)
+no clear evidence on when to operate; need to weigh life expectancy
+risk of morbidity/mortality of SAH (20-50%) vs. risk of coiling (~2%)
+generally treat unruptured aneurysms >10 mm
+treatment guided by balance of risks of SAH per ISUIA and PHASES, and of intervention per centre
+experience and outcomes
+follow smaller aneurysms with serial angiography
+
+Toronto Notes 2025
+
+Long Term, Serial Screening for Intracranial
+Aneurysmsinindividuals witha FamilyHistory of
+Aneurysmal Subarachnoid Hemorrhage: A Cohort
+Study
+
+Lancet Neurol 201413385392
+
+Purpose: To examine the yield of long-term serial
+screening for intracranial aneurysms for individuals
+with postive fami history of aneurysmal
+subarachnoid hemorrhage (a SAH (toot morefirst
+degree relatives who have had aSAH or unruptured
+intracranial aneurysms),
+
+Study: Screening results rom April1 1993 o April
+2013 were reviewedin a cohort study, MRKor CTAWas
+one rom ages 16-1o ages 65-10 After a negative
+screen individuals wee advised to contact the inicin
+Syrforfolw ap.
+
+Results: Aneurysms were identified in 1% of
+individuals at fist screening (458), 8% at second
+Screening (0-261), 5% at third screning 1-128), and
+‘5% atfourth screening (n=63). Smoking (0R 2.7, 95% C1
+125.9) history of previous aneurysms (39, 12-121),
+and ania history of aneurysms (3.5, 16-81) ere
+significant risk factors for aneuysmatirstscreeing,
+Historyof previous aneurysms was the nl significant
+risk actor for aneurysms at follow-up screening (HR
+45, 995011148.)
+
+CCondusions: The benefit of lng-term screening in
+individuals with amily history of aSAAis substantial
+uptoandatter10yroffolow-upand two inital
+negative screens.
+
+The Unruptured intracranial Aneurysm Treatment
+
+Score
+
+Neurology 201,850) 881-89
+
+Purpose: To develo an uruptred intracranial
+
+aneurysm (UN treatment scare (VAS) modethat
+
+inudes and quantifies key fctrsinvolvedinclnicl
+
+ecsion-makngin the management of UAs and to
+
+‘assessagreement for thismodel among specialist in.
+
+‘Amanagement and research
+
+Methods: An ntrnational mutdisciphinary
+
+(neurosurgery, neuroradiology, neurology, cinkcal
+
+epidemiology) group of 69 specialists was convened
+
+todevelopand validate the VAS modelusng a Delphi
+
+‘consensus method.
+
+Results The VATS accounts for 29h factors in UIA
+eat
+
+Condon: This novel UIA decision guidance study
+
+‘captures an excellent consensus among highly informed
+
+individuals on UIA management, irrespective of their
+
+underlying specialty.
+
+See Landmark Neurosurgery Trials table for more
+information onthe natural story of unruptured
+intracranial aneurysms andthe risk associated with
+therepait.
+
+-e 
+
+## Page 958
+
+NS26 ‘Neurosurgery
+
+Intracerebral Hemorrhage
+
+Definition
+
+hemorrhage within brain parenchyma, accounts for ~10% of strokes
+can dissect into ventricular system (IVH) or through cortical surface (SAH)
+
+Etiology
+
+HTN (usually causes bleeds at putamen, thalamus, pons, and cerebellum)
+hemorrhagic transformation (reperfusion post-stroke, surgery, strenuous exercise, etc.)
+vascular anomalies
+= aneurysm, AVMs, and other vascular malformations (see Vascular Malformations, NS27)
+= venous sinus thrombosis
+= arteriopathies (cerebral amyloid angiopathy, lipohyalinosis, vasculitis)
+tumours (1%): often malignant (e.g. GBM, lymphoma, metastases)
+drugs (amphetamines, cocaine, alcohol, anticoagulants, etc.)
+coagulopathy (iatrogenic, leukemia, thrombotic thrombocytopenic purpura, aplastic anemia)
+CNS infections (fungal, granulomas, herpes simplex encephalitis)
+post-trauma (immediate or delayed, frontal and temporal lobes most commonly injured via coup-
+contrecoup mechanism)
+eclampsia
+postoperative (post-carotid endarterectomy cerebral reperfusion, craniotomy)
+idiopathic
+
+Epidemiology
+
+12-31 in 100000 per yr
+
+Risk Factors
+
+increasing age (mainly >55 yr)
+male
+
+HTN
+
+Black/Asian > White
+
+previous cerebrovascular accident of any type (23 times risk)
+oth acute and chronic heavy EtOH use; cocaine, amphetamines
+
+liver disease
+
+anticoagulants
+
+Clinical Features
+
+TIA-like symptoms often precede ICH, can localize to site of impending hemorrhage
+fradual onset of symptoms over min-hr, usually during activity
+
+/A, N/V, and decreased LOC are common
+specific symptoms/deficits depend on location of ICH
+
+Investigations
+
+. yperdense blood on non-contrast CT
++ CTA routine, if spot sign (contrast in the hematoma) demonstrated there is high likelihood of clot growth
+Treatment
+
+baseline severity score such as the ICH Score should be performed as part of the initial workup
+
+patients should be transferred to and managed in a neuro-ICU or stroke unit
+medica
+decrease MAP to pre-morbid level or by ~20% (target BP 140/90 mmHg) in emergency department
+check partial thromboplastin time/international normalized ratio (PTT/INR), and correct
+coagulopathy (immediate reversal of anticoagulation)
+control raised ICP (see Intracranial Pressure Dynamics, NS4)
+corticosteroids should NOT be used for elevated ICP in ICH
+levetiracetam/phenytoin for seizure prophylaxis
+follow electrolytes (SIADH common)
+angiogram to rule out vascular lesion unless >45 yr, known HTN, and putamen/thalamic/posterior
+fossa ICH (yield ~0%)
+surgical
+= craniotomy with evacuation of clot, treatment of source of ICH (i.e. AVM, tumour, cavernoma),
+ventriculostomy to treat hydrocephalus
+« indications
++ symptoms of raised ICP or mass effect
++ rapid deterioration (especially if signs of brainstem compression)
++ favourable location (e.g. cerebellar, non-dominant hemisphere)
+* young patient (<50 yr)
+* suspected tumour, AVM, aneurysm, or cavernoma (resection or clip to decrease risk of rebleed)
+= contraindications
++ small bleed: minimal symptoms, GCS >10
++ poor prognosis: massive hemorrhage (especially dominant lobe), low GCS/coma, lost brainstem
+‘unction
++ medical reasons (e.g. advanced age, severe coagulopathy, difficult location (e.g. basal ganglia,
+thalamus))
+
+Toronto Notes 2025
+
+Location of ICH
+
+Basal gangiia/intermal capsule (50%)
+Thalamus (15%)
+
+Cerebral white matter (15%)
+Cerebellum/brainstem — usually pons (15%)
+Other (5%)
+
+ICH Score Components
+
+GCS score (3-4=2 pts; 5-12-1 pt, 13-15=0 pt)
+ICH volume (230 cm=1 pt, <30.cm=0 pt)
+Presence of VH (yes=1 pt, no=0 pt)
+Infratentorial origin (yes=1 pt, no=0 pt)
+‘Age (280 =1 pt, <B0 =0 pt)
+
+Surgical Decision MakinginBrain Hemonhage: New
+alysis ofthe STCH, SICH and STITCH (Trauma)
+Randomized ils
+
+Saroke 201501108115
+
+Summary: The TCH (Surgical inLobar
+Intracerebral Hemorrhage) (1083 patients and
+1(o-60 patents tas randomized patients ith
+spontaneousinracerebral hemorrhage (CH) to
+
+ary surgery rintaly conservative eatment. The
+STITCH (Trauma tri investigated these options in
+
+the context of head-injured patients (n=170 patients}.
+eta-analsisof spontaneous ICH patients suggests
+that those presenting witha So 10-13 anda large
+{CHare moe ikl to benef om er surgery than
+those presenting witha GS outside this range. Surgical
+treatment oftaumaticlCH with 6510-13 mayhave
+‘similarly beneficial outcomes,
+
+Ale tothe Landmark Neurosurgery Trias talefor
+deta of SCH
+
+‘Spetzler-Martin AVM Grading Scale
+tem Score
+
+Sie
+
+03cm 1
+
+316.0cm 2
+
+>a 3
+
+Location
+
+Non-eloguent o
+
+Boquent 1
+
+Deep Venous Drainage
+
+Not present o
+
+Present 1
+
+‘im gradesare calculated by adding the 3
+
+individual Spetzer Martin Scale scores from the
+above table.
+
+4. a2cmtumourinnon-eloquent cation without
+eep venous drainage = Grade
+-e 
+
+## Page 959
+
+S27
+
+Prognosis
+
+‘Neurosurgery
+
++ 30d mortality rate 44%, mostly due to cerebral herniation
++ rebleed rate 2-6%, higher if HTN poorly controlled
+
+Vascular Malformations
+
+Types
++” AVMs
+
++ cavernous malformations (cavernomas, cavernous hemangiomas/angiomas)
++ Venous angioma
+
++ capillary telangiectasias
++ AVF (carotid-cavernous fistula, dural AVF, vein of Galen aneurysm)
++ “angiographically occult vascular malformations” (any type, 10% of malformations)
+
+Arteriovenous Malformations, Cavernous Malformations, and
+Dural Arteriovenous Fistulas
+
+Table 17. Comparison of Pathoetiology, Clinical Features, and Treatment of Arteriovenous
+Malformations, Cavernous Malformations, and Dural Fistulas
+
+‘Arteriovenous Malformations
+
+Cavernous Malformations
+
+Dural Fistulas
+
+Definition
+
+Epidemiology
+
+Clinical Features
+
+Investigations
+
+Treatment
+
+Prognosis
+
+Tangle of abnormal vesselsirteriovenous
+shunts, with no intervening capillary beds or
+brainparenchyma; usually congenital
+
+Prevalence 0.4%, MLF=2:1, average ageat
+iagnosis=33 yr
+
+15-20% of patients withhereditary
+hemorrhagic telangiectasia (Osler-Weber-
+Reendu syndrome) will have cerebral AVMs
+
+Hemorrhage 40-60%): small AVMs are more
+likely tobleed dueto direct high pressure AV
+comections
+
+Seizures (60%): more common with larger
+AVMs
+
+Mass effect
+
+Focal neurological signs secondary to
+ischemia (high flow » “steal phenomena”)
+Localized Hi, increased ICP
+
+Bruit (specially with dural AVMs)
+
+May be asymptomatic (‘silent”)
+
+MRI {flow void), MRA
+Angiography (7% will alsohave one or more
+associated aneurysms)
+
+Decreases rsk of future hemorrhage and
+seizure
+
+Surgical excsionis treatmentof choice even
+in Spetaer-Martin grades I~ IIwith general
+{good health
+
+‘Sis preferred for small (<3 cm) or very
+deep lesions
+
+Endovascular embolization glue, balloon)
+«can be curative (5%) or used as adjuvant to
+surgery or SRSin larger lesions
+Conservative (e.g. palliative embolization,
+seizure control necessary)
+
+12-66% mortality, 23-40% morbidity serious
+neurological deficit) per bleed
+
+Risk of major bleedin untreated AVMs:
+24
+
+‘Outcomes depend on Spetzer-Martin grade
+
+Benign vascular hamartoma consisting
+ofiregular sinusoidal vascularchannels
+located within the brain without
+intervening neural tssue or associated
+large arteresiveins
+
+Several genesnow described: CCM,
+cme, coM3
+
+Prevalence of 0.1-0.2%, both sporadic
+and hereditary forms described
+
+Seizures (60%), progressive neurologkcal
+deficit (50%), hemorrhage (20%), HIA
+Often anincidental finding
+
+Hemorrhage risk less than AVM, usually
+minor bleeds
+
+T2-weighted image MRI (non-enhancing)
+Gradientecho sequencing best for
+diagnosis)
+
+Surgical excision:
+Only appropriate for symptomatic
+lesions that are suigicaly accessible
+(supratentorial lesions are less likely to
+bleed than infratentorial lesions)
+
+‘Annual bleedingrates:0.25-11% for
+supratentoral,-3% for brainstem
+Symptomatic lesions have ahigher
+hemorrhage riskthan asymptomatic
+
+Fistulas connecting dural arteriesto dural veins orthe
+dural sinus
+
+Frequently occu atthe transverse and cavernous
+sinuses, but canbe found at every cranial dural sinus
+Hypothesized tobe related to venoussinus thrombosis
+formation, and subsequent microvascular shunt
+formationwithinthe dura between arteries and veins
+
+Unknown true incidence
+
+Constitute 10-1
+abnormalities
+
+Asymptomatic, pulsatile tinnitusifivolving sigmoid or
+transverse sinuses, bruits, H/A
+
+Carotid cavernous involvement classically produces
+proptosis,chemoss, and brits
+
+Symptoms of SAH, SDH, or ICH
+
+‘Angiography remains the gold standard
+Non-enhanced CT to rue out hemorrhage
+
+MRI; however, this does not demonstratethe arterial
+supply tothe fistula
+
+‘Approachis dependent on size location and symptoms,
+and includes:
+
+Conservative treatment
+
+Neutoradiological endovascular interventions
+Radiation therapy
+
+Surgery
+
+Combinationof the above
+
+0.7% annua riskothemorrhage
+6.9% annual risk for non-hemorthagic neurological
+deficit
+
+10.4% mortaltyrate
+
+Outcomes influenced by dural fistula type (presence of
+cortical venous drainage ~ poorer outcomes)
+
+Toronto Notes 2025
+
+Figure 23. MRI of cavernous
+malformation
+
+A. T2.weighted imaging MRI
+
+B. Gradient echo sequencing MRI
+
+@
+
+inical Course of Untreated Cerebral Cavernous
+Malformations (CM)
+
+Lancet Neurol 20% pS 4144422(5)00303.8
+Purpose: To obtain precise estimates and predictors
+cof the iskof intracranial hemerthage (CH) in patents
+with untreated cerebral cavernous malformations
+(cos.
+
+Methods: Collected individual patent data from
+investigators of pushed studies on MEDLINE and
+Ease since inception nt Apr 2015 (7 cohorts
+from6 studies, n-1620)on clinica course fom CCM
+iagosis unt fst COM treatment orlast available
+followap.
+
+Results: 204 ofthe 1620 patients experienced ICH
+daring 5187 person-yfolow-up Kaplan-Meier
+estimated 5 yrsk 5.8%, 95% (113.747. 9) CH within
+Syrof CCM diagnosis was associated wth clinical
+resentation with ICH or focal neurological deficit
+without brain ima ging evidence ofrecenthemorrhage
+(vs.other presentations ARS 6, $5% C13.2917} and
+with brainstem COM location(s, other locations;
+44,95% (123-86),
+
+Condusions: (1) Made of cinica presentation and
+(2) CCMIocation are independently associated with
+1H within yr of CCM diagnosis The risk a recurrent
+hemorthageftom a CCM s greater than the risk ofthe
+firstevent and decines over5 yt
+
+-e 
+
+## Page 960
+
+NS28 ‘Neurosurgery
+
+Toronto Notes 2025
+
+Cerebrospinal Fluid Fistulas ©
+
+Etiology
+
++ cranial or spinal
+
++ traumatic: after head trauma, iatrogenic (post transsphenoidal surgery, post skull base surgery)
+
+* nontraumatic: high pressure (hydrocephalus, tumour), normal pressure (bone erosion secondary to
+infection, congenital defect)
+
+Clinical Features
+
++ otorrhea or rhinorrhea (clear fluid)
+
++ low pressure H/A (worse when sitting up)
+
++ confirmatory testing for CSF: B-transferrin test, quantitative glucose analysis of fluid, “ring sign,”
+“reservoir sign”
+
+Investigations
++ CT (detect pneumocephalus, fractures, skull base defects), water contrast CT cisternography
+
+Treatment
++ lower ICP (avoid straining, acetazolamide to reduce CSF production, modest fluid restriction)
++ persistent leak: may require continuous lumbar drainage via percutaneous catheter
+
++ surgical indications: traumatic leak lasting >2 wk, spontaneous leaks, delayed onset of leak after trauma or
+
+surgery, leaks complicated by meningitis
+
+EXTRACRANIAL PATHOLOG
+Approach to Limb/Back Pain
+
+« see Orthopedic Surge:
+
+Extradural Lesions
+
+© Post. circulation
+© Ant. circulation
+
+AXIAL SECTION OF
+THORACIC SPINE
+
+poe acne Fasciculus gracilis
+rior spit funiculus i
+artery Fasciculus cuneatus
+
+Dorsal hom
+
+(sensory) Lateral
+
+corticospinal
+
+Lateral horn tract (efferent)
+(autonomic)
+‘only present Lateral
+‘THL2, $2-55, funiculus
+Ventral horn ‘Spinothalamic
+(motor) tract (afferent)
+Anterior i Ventral
+Posterior spinal aa. spinal artery AMETION | funiculus
+
+tract (efferent)
+
+Anterior
+segmental
+medulary a.
+
+Post. & ant. ‘Anterior spinal a.
+reticular aa.
+
+Branch to vertebral
+body & dura mater
+
+Dorsal branch.
+of intercostal a.
+
+Spinal a. Thoracic aorta
+
+Intercostal a.
+
+© Natalie Cormier 2015, after Takami ima
+
+Figure 24. Vascular supply of spinal cord
+
+Suspect CSF fistula in patients with
+otorthea or rhinorrhea after head trauma or
+recurrent meningitis
+
+Ring Sign: Demonstrates if CSF is mixed
+with blood. Allow CSF to drain onto the
+surrounding sheets; positive if clear in
+centre with surrounding blood coloured
+ring (double ring sign)
+
+Reservoir Sign: Gush of CSF leaks out in
+certain head positions (ie. teapot sign); not
+specific or sensitive
+
+Red Flags for Back Pain
+
+BACK PAIN
+Bowel/Bladder (retention or incontinence)
+Anesthesia (saddle)
+
+Constitutional symptoms
+
+“K°hronic disease
+
+Paresthesia
+
+‘Age>50 or <20
+
+WV drug use
+
+Neuromotor deficits
+
+Cauda Equina
+Urinary retention or incontinence, fecal
+incontinence or loss of anal sphincter
+tone, saddle anesthesia, unilateral leg
+weakness/pain
+
+Malignancy
+‘Age >50, previous Hx of cancer, pain
+unrelieved by bed rest, constitutional
+symptoms
+
+Infection
+Increased ESR, IV drug use,
+immunosuppressed, fever
+
+Compression Fracture
+‘Age >50, trauma, prolonged steroid use
+-e 
+
+## Page 961
+
+NS29 ‘Neurosurgery Toronto Notes 2025
+
+Root Compression ©
+
+radiculopathy is a pain and/or sensorimotor deficit syndrome that involves compression of a nerve root. SS
+
+. ee a Sa 7 Fasciculus gracilis/cuneatus:
+Nerve compression generally occurs as a result of disc herniation, degenerative disc diseases (spondylosis), __Fascsulusgaciscwneais,
+instability, and masses (rare) Spinothalamic tract: pain and
+patients generally present with referred pain, sensory changes (numbness and/or tingling) or weakness. temperature
+‘Whereas patients might sometimes describe sensory changes in a dermatomal distribution, the referred etre act: sklled movements
+pain will not be in a dermatomal distribution. The areas of pain and altered sensorium may be incongruent a
+muscle innervation has less overlap than sensory innervation and hence is a better predictor of level of
+pathology
+
+Differential Diagnosis
+
++ herniated disc
+
++ neoplasm (neurofibroma, schwannoma)
++ synovial cyst, abscess
+
++ hypertrophic bone/spur
+
+Cervical Disc Syndrome
+
+Etiology
++ nucleus pulposus herniates through annulus fibrosus and impinges upon nerve root, most commonly at ©
+C5-C6 (C6 root) and C6-C7 (C7 root) ; ; Disc herniations impinge the nerve root at
++ cervical spondylosis can lead to nerve root compression due to foraminal compression the level below the interspace (ie. C5-6
+disc affects the C6 nerve root)
+
+Clinical Features
++ pain in arm follows nerve root distribution, worse with neck extension, ipsilateral rotation, and lateral
+lexion (all compress the ipsilateral neural foramen)
++ LMN signs and symptoms (diminished reflexes, non-spastic motor weakness)
++ central cervical disc protrusion and/or cervical spondylosis with osteophytes may cause myelopathy as well
+as nerve root deficits
+
+Investigations
+
++ ifred flags (e.g. symptoms/signs of myelopathy; motor deficits; night pains): cervical spine (C-spine) x-ray,
+CT, MRI (imaging of choice)
+
+only consider EMG/nerve conduction studies if diagnosis uncertain and presenting more as peripheral
+nerve issue
+
+Treatment
+* nonsurgical
+= no bed rest unless severe radicular symptoms
+= activity modification, patient education (reduce sitting, lifting)
+« physiotherapy, exercise programs focus on strengthening core muscles
+= analgesics; NSAIDs are more efficacious
++ avoid cervical manipulation
++ surgical indications
+= anterior cervical discectomy and fusion is the usual approach (posterior foraminotomy with
+discectomy is another option; cervical artificial disc is an emerging option)
+= intractable pain despite adequate conservative treatment for >3 mo
+= progressive neurological deficit
+
+Prognosis
++ 95% improve spontaneously in 4-8 wk
+
+Table 18. Lateral Cervical Disc Syndromes
+
+45 (5.6 67 on
+
+Rootlnvolved 5 6 a ae
+
+Incidence w% 19% @% 0%
+
+Sensory Shoulder Thumb Middle finger Ringfinger, Sth finger
+
+Motor Deltid, biceps, Biceps, wrist extensors Triceps Digital flexors, intrinsics
+supraspinatus
+
+Reflex Nochange Biceps, brachioradalis Triceps Finger jerk Hoffman's sign)
+
+-e 
+
+## Page 962
+
+NS30 Neurosurgery
+Degenerative Cervical Myelopath
+
+Defi n
+
+* progressive degenerative process of cervical spine leading to canal stenosis, congenital spinal stenosis,
+degeneration of intervertebral discs, hypertrophy of dura or ligaments, subluxation, altered mobility,
+telescoping of the spine due to loss of height of vertebral bodies, alteration of normal lordotic curvature
+resultant syndromes: mechanical neck pain, radiculopathy (root compression), myelopathy (spinal cord
+compression)
+
+Epidemiology
++ typically begins at ages 40-50, M>F, most commonly at the C5-C6 > C6-C7 levels
+
+Pathogenesis
+
+«+ any of: disc degeneration/herniation, osteophyte formation, ossification of the PLL, and/or hypertrophy of
+ligaments
+
++ pathophysiology includes static compression, dynamic compression, and vascular compromise
+
+Clinical Features
+
++ insidious onset
+
+neck pain radiating into arms, exacerbated by excess vertebral motion e.g. Spurling’s test. Potential
+Lhermitte’s sign with neck extension
+
++ gait disturbance
+
++ sensory defects and decreased dexterity
+
+lower extremity weakness
+
+UMN signs
+
++ bladder dysfunction
+
+Investigations
+
++ x-ray of cervical spine + flexion/extension (alignment, fractures)
+
++ MRI most useful for determination of compression of the neural element
++ CT is used for better determination of bony anatomy (i.e. OPLL)
+
++ EMG/nerve conduction studies reserved for peripheral nerve investigation
+
+Figure 25. CT (left) and MRI (right) representations of cei
+Images cures oO. icmassicate
+
+I spondylo:
+
+Treatment
+nonsurgical: physiotherapy, anti-inflammatory medications
+surgical: anterior approach (anterior cervical discectomy or corpectomy), posterior approach
+(decompressive cervical laminectomy)
+in multilevel degenerative cervical myelopathy (DCM), both anterior and posterior options are acceptable
+approaches with generally comparable outcomes
+
+= with kyphosis > anterior approach generally preferred
+
+= with preserved cervical lordosis > posterior approach generally preferred
+
+Toronto Notes 2025
+
+DCM is the most common cause of spinal
+cord impairment.
+
+Giinical Grading Scores to Assess DCM
+Modified Japanese Orthopaedic
+Association (mJOA)
+
+Nurick Grade
+
+Neck Disability Index
+
+Recommendations fr Patients with Mid, Moderate,
+and Severe Disease and Nonnelopathic Patients
+wit vidence of Cord Compression
+
+ob Spine Journal 201,735) 75-835
+
+Severeand moderate DCM: Moderate evidence
+suggesting ston recommendation of sugkal
+intervention.
+
+id DOM: Verylowto om evidence suggesting offering
+surgcalinterventon ora structured rehabilitation
+
+andi non-operativemanagement intl pursued,
+consider operative intervention if evince of
+neurological deterioration,
+Non-myelopathic patients without radiculopathy:
+Insuch patients with imaging evdenceof cervical ord
+‘compression, suggestion of nat offering prophylactic
+surgery couse, educate and follow dial.
+Non-myelopathic patient with radiculopathy
+
+Sach patients with maging evidence of cervical
+
+Cord compression are at higher isk f developing
+myelopathy and should be counseled Ofer surgical or
+‘nonoperative treatment with appropriate follow-up and
+‘structured rehabiltation,
+-e 
+
+## Page 963
+
+NS31 ‘Neurosurgery
+
++ surgical indications: myelopathy with motor impairment, progressive neurologic impairment, intractable
+pain
+
++ complete remission almost never occurs; surgical decompression stops progression of disease in almost all
+cases; 80% of patients experience neurological improvement
+
+Table 19. 2017 Summary AO Spine-CSRS Guideline for the Management of Degenerative Cervical
+Myelopathy
+
+Patient Population Level of Recommendation Guideline/Recommendation
+‘Severe DCM (mJOA 0-11) Strong Surgical intervention is recommended
+Moderate DCM (mJOA 12-14) Strong Surgical intervention is recommended
+Mild DCM (mJOA 15-17) Weak ‘Surgical intervention or structured rehabilitation is recommended;
+consider surgery if with neurologic deterioration or failure to improve
+Non-myelopathic patients with Weak Prophylactic surgery is not recommended
+‘cord compression and without
+radiculopathy
+Non-myelopathic patients with Weak Either surgical intervention or nonoperative treatment (close follow-up or
+cord compression and with structured rehabilitation)
+radiculopathy
+Lumbar Disc Syndrome
+Definition
+
++ compression of nerve roots caused by herniation of the nucleus pulposus through the annulus fibrosus of an
+
+intervertebral disc in the lumbar spine
+
+Etiology
+
++ posterolaterally herniated disc compressed nerve root exiting BELOW the level of the disc or the traversing
+nerve root
+
++ farlateral disc herniation compressed nerve root at the level of the disc or the exiting nerve root
+
++ central herniation may cause cauda equina compression or lumbar stenosis (NC)
+
+Clinical Features
++ initially back pain, then leg pain > back pain
+limited back movement (especially forward flexion) due to pain
+motor weakness, dermatomal sensory changes, decreased reflexes
+exacerbation with Valsalva; relief with flexing the knee or thigh
+nerve root tension signs
+= straight leg raise (SLR) (Lasegue’s test) or crossed SLR (pain should occur at less than 60°) suggests L5,
+S1 root involvement
+«= femoral stretch test suggests L2, L3, or L4 root involvement
+
+Investigations
+
++ MRIis modality of choice
+
+* xray spine (only to rule out other lesions), CT (bony anatomy)
+
++ myelogram and post-myelogram CT (only if MRI is contraindicated)
+
+Treatment
++ nonsurgical (same as cervical disc disease)
++ surgical indications: same as cervical disc and cauda equina syndrome
+
+Prognosis
+
++ 95% improve spontaneously within 4-8 wk
+
++ ifno improvement is made with conservative treatment, then symptom relief can be achieved faster with
+surgery than with continuation of conservative management; however, the long-term outcome after surgery
+is comparable to conservative therapy
+
+do not follow patients with serial MRIs; clinical status is more important for guiding management
+
+Table 20. Lateral Lumbar Disc Syndromes
+
+Ba us 5st
+
+Rootlnvolved u 5 st
+
+Incidence 10% 45% 45%
+
+Pain Femoral pattern Sciatic pattern Sciatic pattern
+
+Sensory Medial eg Dorsal foottohallux Lateralfoot
+Lateralleg
+
+Motor Tibilis anterior (dorsiflexion) Extensor hallucslongus(halox Gastrocnemixs, soleus (plantar flexion)
+extension)
+
+Reflex Patellar Medial hamstrings Achilles
+
+Toronto Notes 2025
+
+Figure 26. T2-weighted MRI of
+lumbar disc herniation
+
+See Landmark Neurosurgery Trialstabl for more
+information onthe SPORT trial for outcomes of surgery
+5. nonoperative cae formar dsc heaton
+
+MagneticResonance ImaginginFollow-Up
+Assessment of Sciatica
+NEIM2013;368:999-1007
+
+Background: Fl is
+for monitoring sciatica inpatients with known umbar-
+disc herniation.
+
+Methods: Partipant(n-283) were ected froma
+simultaneous, parallel, randomized study comparing
+surgery and conservative care for sciatica the Sciatica
+Tra). MR and clnicalassessment were undertaken
+ye treatment and Tyr posttreatment randomization to
+visualize disc hemiation and evaluate outcome,
+Results: tr, ischeriion was vsblein 35% with
+favourable outcome (complete, or nearly complete
+symptom solution) andin 33% with an unfavourable
+‘outcome (P-0.70) Afavourabloutcomewas reported
+in 85% of patients with disc hemiaton and 83% without
+déscherniaton 0.70)
+Conclusions: Anatomical abnormal
+
+Jumbar-dscheriation cold not isting shptints
+with resolution oftheir symptoms rom patents til
+‘experiencing symptoms.
+-e 
+
+## Page 964
+
+S32 ‘Neurosurgery
+
+Table 21. Differentiating Conus Medullaris Syndrome from Cauda Equina Syndrome
+
+Conus Medullaris Syndrome Cauda Equina Syndrome
+Onset ‘Sudden, bilateral Gradual, uniateral
+Spontaneous Pain Rare, if present usually bilateral, symmetric in perineum Severe, radicular type: in perineum, thigh, egs, back,
+or thighs orbladder
+Sensory Deficit Saddle; bilateral and symmetric; sensory Gssociation Saddle; no sensory dissociation; may be unilateral and
+asymmetric
+Motor Deficit Symmetric; paresis ess marked; fasciculationsmay Asymmetric; paresis more marked; atrophy may be
+be present present; fasciculations rare
+Reflexes Only ankle jerk absent preserved knee jerk) Knee and ankle jerk may be absent
+‘Autonomic Symptoms ladder dysfunction, Urinary etention and atonic anal sphincter prominent Sphincter dysfunction presentslate; mpotenceless
+impotence, etc) eatly;impotencefrequent frequent
+
+Cauda Equina Syndrome
+
+Etiology
+
+* compression or irritation of lumbosacral nerve roots below conus medullaris (below L2 level)
++ decreased space in the vertebral canal below L2
+
++ common causes: herniated disc + spinal stenosis, vertebral fracture, and tumour
+
+Clinical Features
++ usually acute (develops in <24h); rarely subacute or chronic
++ motor (LMN signs)
+= weakness in multiple root distribution
+= reduced deep tendon reflexes (knee or ankle)
++ autonomic
+= urinary retention (or overflow incontinence) and/or fecal incontinence due to loss of anal sphincter tone
++ sensor;
+. bak pain radiating to legs (sciatica) aggravated by Valsalva maneuver and by sitting; relieved by
+lying down
+= bilateral sensory loss or pain: depends on the level affected
+= saddle area (S2-S5) anesthesia
+= sexual dysfunction (late finding)
+
+Investigations
+
++ urgent MRI to confirm compression of $2-S3-S4 nerve root by a large disc herniation
+
++ post-void residual very helpful to determine if true retention is present; volumes controversial but anything
+over 250 cc in a healthy individual is cause for concern
+
+Treatment
+
++ surgical decompression (<48 h) to preserve bowel, bladder, and sexual function, and/or to prevent
+progression to paraplegia
+
++ consult radiation oncology for urgent symptomatic management if palliative oncology patient
+
+Prognosis
+
++ markedly improves with surgical decompression
+
++ recovery correlates with function at initial presentation: if patient is ambulatory, likely to continue to be
+ambulatory; if unable to walk, unlikely to walk after surgery
+
+Lumbar Spinal Stenosis
+
+Etiology
++ congenital narrowing of spinal canal combined with degenerative changes (herniated disc, hypertrophied
+facet joints, and ligamentum flavum)
+
+C al Features
+
++ gradually progressive back and leg pain with standing and walking relieved by sitting, lying down, or
+movements involving lumbar flexion (e.g. riding a bicycle, leaning over a shopping cart); NC 60% sensitive
+
++ neurologic exam may be normal, including SLR test
+
+Investigations
++ MRI is best to confirm and localize the level of stenosis (unlike nerve root compression which can be
+localized with clinical exam)
+
+Treatment
++ nonsurgical: NSAIDs, analgesia, physical therapy
++ surgical: laminectomy with root decompression
+«= fusion typically advised if evidence of segmental instability prior to surgery (e.g. in flexion/extension
+x-rays)
+
+Toronto Notes 2025
+
+Causes of Cauda Equina Syndrome
+Lumbar disc herniation
+
+Spinal stenosis
+
+Spinal tumour
+
+Epidural abscess
+
+Hematoma
+
+Trauma
+
+Neurosurgery Tra table formore
+information onthe SPORT ial for outcomes of surgery
+1s. nonoperative care for symptomatic ambar spinal
+stenosis
+-e 
+
+## Page 965
+
+NS33 ‘Neurosurgery Toronto Notes 2025
+
+Neurogenic Claudication
+
+Etiology
++ ischemia of lumbosacral nerve roots secondary to vascular compromise and increased demand from
+exertion, often associated with lumbar stenosis
+
+Clinical Features ©
+
++ dermatomal pain/parest hesia/weakness of buttock, hip, thigh, or leg initiated by standing or walking Ooo
+
++ slow relief with postural changes (sitting >30 min) and NOT simply by exertion cessation Claudication
++ induced by variable degrees of exercise or standing
++ may be elicited by lumbar extension, but may not have any other neurological findings or signs of vascular ‘Neurogenic Claudication: dermatomal
+compromise (e.g. ulcers, poor capillary refill) distribution wth positional elie occuring
+over minutes
+Investigations Vascular Claudication: sclerotomal
+
++ bicycle test may help distinguish NC from vascular claudication (the waist-flexed individuals on the bicycle —_ distribution with relief occurring with rest
+‘over seconds
+
+with NC can last longer)
+
+Treatment
++ same as for lumbar spinal stenosis
+
+Intradural Intramedullary Lesions
+
+Syringomyelia (Syrinx)
+
+Definition
+
++ cystic cavitation of the spinal cord
+
++ presentation is highly variable, usually progresses over mo to yr
+
++ initially pain, weakness; later atrophy and loss of pain and temperature sensation
+
+Etiology
+
+syringomyelia can be classified as communicating or non-communicating based on the presence or absence
+of communication with the 4th ventricle
+
+most cases of communicating syringomyelia are due to Chiari malformations
+non-communicating syringomyelia arises due to localized pathology in the spinal cord that causes
+disruption of CSF flow dynamics (e.g. SCI, arachnoiditis)
+
+70% are associated with Chiari I malformation, 10% with basilar invagination
+
+post-traumatic
+
+post-infectious
+
+post-inflammatory
+
+tumour
+
+tethered cord
+
+Clinical Features
+Fi 27. T1 weighted MRI of
+«+ nonspecific features for any intramedullary spinal cord pathology: Svingamyella °
+
+«= initially pain, weakness, atrophy, then loss of pain and temperature (spinothalamic tract) in upper
+extremities (central syrinx) with progressive myelopathy over years
+
+sensory loss with preserved touch and proprioception (dorsal column-medial lemniscus pathway) ina
+band-like distribution at the level of cervical syrinx
+
+dysesthetic pain often occurs in the distribution of the sensory loss
+
+LMN arm/hand weakness or wasting
+
+painless neuropathic arthropathies (Charcot’s joints), especially in the shoulder and neck due to loss of
+pain and temperature sensation
+
+Investigations
+
++ MRTisbest method, myelogram with delayed CT is an older option that can be considered when a MRI is
+not an option (e.g. pacemaker; stainless steel spine instrumentation). Gadolinium contrast recommended
+for identification of associated tumour/pathology
+
+Treatment
+
++ treat underlying cause (e.g. posterior fossa decompression for Chiari I, surgical removal of tumour if
+causing a syrinx)
+
++ shunting is rarely required in the setting of communicating syringomyelia associated with a Chiari I
+malformation; only needed when progressive and size allows for insertion of tube; shunting of a syrinx is
+more commonly indicated in non-communicating forms of syringomyelia (e.g. due to SCI, arachnoiditis)
+
+= syringosubarachnoid and syringopleural shunting are two options; if the syrinx is due to focal cord
+tethering (e.g. due to arachnoid webs), a detethering procedure with/without duroplasty may be
+indicated
+-e 
+
+## Page 966
+
+‘Neurosurgery
+
+Spinal Cord Syndromes
+
+Complete Spinal Cord Lesion
+
++ bilateral loss of motor/sensory and autonomic function at >4 segments below lesion/injury, with UMN signs
+
++ about 3% of patients with complete injuries will develop some recovery within 24 h; beyond 24 h, no distal
+function will recover
+
+Incomplete Spinal Cord Lesion
+
++ any residual function at >4 segments below lesion
+
++ signs include sensory/motor function in lower limbs and “sacral sparing” (perianal sensation, voluntary
+rectal sphincter contraction)
+
+Table 22. Comparison Between Incomplete Spinal Cord Lesion Syndromes
+
+Syndrome Etiology Motor Sensory
+BrownSéquard Hemisection of cord Ipsilateral MN weaknessat he lesion Ipsilateral loss of vbrationand
+Ipsilateral UMN weakness below thelesion proprioception
+Contralateral loss of pain and temperature
+Preserved light touch
+Anterior Cord Anterior spinal artery compression Bilateral MN weakness atthelesion Preserved vibration and proprioception
+
+‘orocclsion Bilateral UMM weaknessbelow the lesion Bilateral oss ofpainand temperature
+
+Urinary retention Preserved light touch
+Central Cord (mostcommon) Syringomyelia, tumours, spinal Bilateral motor weakness: Upperlimb Variable bilateral suspended sensory loss
+hyperextension injury ‘weakness (UMN lesion)» Lower limb Loss of painand temperature> loss of
+‘weakness (UMN lesion) vibration and proprioception
+Urinary retention
+Posterior Cord Posterior spinal arteryinfarction, Preserved Bilateral loss of vibration, proprioception,
+
+trauma light touch at and below the lesion
+
+Preserved painand temperature
+
+Peripheral Nerves
+
++ see Neurology, N38
+
+Classification
+Table 23. Seddon’s Classification of Peripheral Nerve Injury
+Nerve Injury Description Recovery
+Newrapraxia (lass) ‘Axon structurally intact but fist function Within ht mo average 6-8 wi)
+‘Avonotmesis (lass) ‘Axon and myelin sheath disrupted but endoneurium and supporting Spontaneous axonal recovery at Immid, maxat +2yr
+structuresintact » Wallerian degeneration of axon segment distal
+toinjry
+Neurotmess (cass Nerve completely transected Need surgical repait for possiilit of recovery
+Etiology
++ ischemia
+
+* nerve entrapment (compression) by nearby anatomic structures, often secondary to localized, repetitive
+mechanical trauma with additional vascular injury to nerve
+
+direct trauma (e.g. transection)
+
++ iatrogenic
+
+Investigations
+
++ clinical exam: muscle bulk and tone, power, sensation, reflexes, localization via Tinel’s sign (paresthesias
+elicited by tapping along the course of a nerve)
+
+electrophysiological studies: EMG/nerve conduction study (assess nerve integrity and monitoring recovery
+
+after 2-3 wk post-injury)
+
+labs: blood work (e.g. CBC, TSH, vitamin B12), CSF
+
+imaging: C-spine, chest/bone x-rays, myelogram, CT, magnetic resonance neurography, angiogram if
+
+vascular damage is suspected
+
+Treatment
++ early neurosurgical consultation if injury is suspected
+
+Toronto Notes 2025
+
+can Spinal Injury Association
+itment Scale
+
+Desc
+
+a Complete, no motorsensory below
+‘neurological eel ining 4/5
+
+8 ‘complet, sensory but not motor
+function preserved below neurological
+evel including S45
+
+c Incomplete, motor function preserved
+below neurologicallevel, and more
+than haf of the key muscles below
+‘neurological evel have a muscle
+goaded
+
+D {ncomplete, motor function preserved
+below neurologicallevel, and more
+than haf of the key muscles below
+‘neurological level have amuse
+gader3
+
+Brown-Séquard
+
+Vib
+
+HMMM
+
+Jenna Rebelo 2010
+
+Figure 28. Spinal cord lesion
+syndromes
+
+-e 
+
+## Page 967
+
+NS35 ‘Neurosurgery
+
+Table 24. Treatment by Injury Type
+
+Injury Treatment
+Entrapment Nonsurgical: Prevent repeated stress/injury, physiotherapy, NSAIDs, local anesthesia/steroid injection
+‘Surgical: Nerve decompression + transposition for progressive deficits, muscle weakness/atrophy, failure of medical management
+Stretch/Contusion Follow-up clinically for recovery; exploration i no recovery in 3 mo
+Axonotmesis, W noevidenceof recovery resect damaged segment
+Prompt physical therapy and rehabiltationto increase muscle function, maintain joint ROM, maximizeretur of useful function
+Recovery usually incomplete
+Neurotmesis ‘Surgical repair of nerve heath unless known tobe intact suture nerve sheaths directly fends approximate or nerve graft usually sual nerve))
+Clean laceration: early exploration and repair
+Contamination or associated injuries: tag initially with nonabsorbable suture, approach within 10 d
+Complications
+
++ loss of function (temporarily or permanently)
++ neuropathic pain: with neuroma formation
++ complex regional pain syndrome: with sympathetic nervous system involvement
+
+SPECIALTY TOPICS
+
+Trauma Management
+
++ see Emergency Medicine, ER7
+
+Indications for Intubation in Trauma
+
++ 1. depressed or decreasing LOC (patient cannot protect airway): usually GCS <8
+
++ 2.need for hyperventilation
+
++ 3. severe maxillofacial trauma (patency of airway is doubtful)
+
++ 4.need for pharmacologic paralysis for evaluation or management
+= ifbasal skull fracture suspected, avoid nasotracheal intubation as may inadvertently enter brain
+= note: intubation prevents patient's ability to verbalize for determining GCS
+
+Trauma Assessment
+Initial Management
+
+ABCs of Trauma Management
++ see c’ cine, ER2
+
+NEUROLOGICAL ASSESSMENT
+
+Mini-History
+
++ period of loss of consciousness, post-traumatic amnesia, loss of bowel/bladder control, loss of sensation,
+weakness, type of injury/accident
+
++  inurgent situations, remember “SAMPLE-F”: signs/symptoms, allergies, medications, PMHx, last meal,
+events leading up to the trauma, and baseline functioning
+
+Neurological Exam
+ABCs
+
+vital signs
+
+GCS
+
+brainstem reflexes (if appropriate)
+
+cranial nerve exam
+
+motor and sensory exam, including peripheral reflexes
+
+spine (pain/tenderness, palpable deformity)
+
+sphincter tone and saddle sensation
+
+record and repeat neurological exam at regular intervals, as appropriate
+
+Toronto Notes 2025
+
+‘Axon
+
+Schwann cell
+
+Schwann cell
+nucleus
+
+© Andreea Margineanu 2012
+
+Figure 29. Peripheral nerve structure
+
+Glasgow Coma Scale
+fyeResponse Verbal Response
+“spontaneous Sorented
+opens eyes confused Slocalies to
+tovoice pain
+Zopens eyes inappropriate withdraws
+topain words from pain
+‘noeye incomprehensible 3flexion
+pening ——_ sounds topain
+(Gecorticate
+posturing)
+‘noresponse extension
+topain
+(Gecerebrate
+posturing)
+intubated tno
+response
+
+Best response for each component recorded
+inivially (e.g. E3V3M5)
+
+213ismild injury, 912is moderate injury; <Bis
+severeinjuy
+-e 
+
+## Page 968
+
+NS36 ‘Neurosurgery
+
+Investigations
++ spinal injury precautions (cervical collar) are continued until C-spine is deared
++ C,T, L-spine and head CT scan
+AP, lateral, odontoid views for C-spine (swimmer's view if necessary)
+= CI-T1 should be well-visualized as ~50% of injuries happen at the junction of the cervical and thoracic
+spines
+look for fractures, loss of mastoid or sinus air spaces, blood in cisterns, pneumocephalus
+rarely done: oblique views looking for pars interarticularis fracture (“Scottie dog” sign)
+if CT is unavailable, can do C-spine x-ray with T1 well visualized, but not recommended since injuries
+at Cand T spine junction are seldom adequately visible with x-ray
++ cross and type, arterial blood gas (ABG), CBC, drug screen (especially EtOH)
++ chest and pelvic x-ray as indicated
+
+TREATMENT
+
+Treatment for Minor Head Injury (GCS 13-15)
+
++ observation over 24-48 h
+
++ wake every hour
+
++ judicious use of sedatives or pain killers during monitoring period
+
+* outpatient: advise patients to undergo stepwise approach to return to play and return to school (for latest
+recommendations, refer to 2019 Parachute Canada Concussion Guidelines)
+
+Treatment for Moderate (GCS 9-12) and Severe Head Injury (GCS <8)
++ clear airway and ensure breathing; intubate if necessary
+secure C-spine
+maintain adequate BP
+monitor for clinical deterioration
+monitor and manage increased ICP if present (see Herniation Syndromes, NS7)
+
+Admission Required if:
+
++ skull fracture (indirect signs of basal skull fracture, see Head Injury)
++ confusion, impaired consciousness, concussion with >5 min amnesia
+focal neurological signs, extreme H/A, vomiting, seizures
+
+unstable spine
+
+use of EtOH
+
+poor social support
+
+Head Injury
+
+Epidemiology
++ M:F=2-3:1
+
+Pathogenesis
++ acceleration/deceleration: contusions, SDH, axon and vessel shearing/mesencephalic hematoma
++ impact: skull fracture, concussion, epidural hematoma
++ penetrating: worse with high velocity and/or high missile mass
+= low velocity: highest damage to structures on entry/exit path
+= high velocity: highest damage away from missile tract
+
+Scalp Injury
++ rich blood supply
++ considerable blood loss (vessels contract poorly when ruptured)
++ minimal risk of infection due to rich vascularity
+Skull Fractures
++ depressed fractures: double density on skull x-ray (outer table of depressed segment below inner table of
+skull), CT with bone window is gold standard
++ simple fractures (closed injury): no need for ABX, no surgery
++ compound fractures (open injury): increased risk of infection, surgical debridement within 24 h is
+necessary
+= internal fractures into sinus may lead to meningitis or pneumocephalus
+= risk of operative bleed may limit treatment to antibiotics
+basal skull fractures: not readily seen on x-ray, rely on clinical signs
+= retroauricular ecchymosis (Battle’s sign)
+= periorbital ecchymosis (“raccoon eyes”)
+= hemotympanum
+
+CSF rhinorrhea, otorrhea (suspect CSF if halo or target sign present); suspect with Lefort I/II midface
+
+fracture
+
+Toronto Notes 2025
+
+Never do LP in head injury unless increased
+ICP has been ruled out
+
+Al patients with head injury have C-spine
+injury until proven otherwise
+
+Suspect hematoma in EtOH-related injuries
+Low BP after head injury means injury
+elsewhere
+
+‘Must dear spine both radiologically AND
+clinically
+
+Comparative Etectiveness of Using Computed
+Tomography Alone to Exclude Cervical Spine juries
+JnObtundedorntubated Patients: Meta-Analysis of
+14321 Patients with Bunt Trauma
+Neurosurg 201; 115541549
+
+Purpose: To determin the effectiveness of helical
+(Talone (is. CTand adjuvantimaging such as MR)
+todiagnoseacate unstable C-pne injury folowing
+unt trauma
+
+Methods: Meta-analysis comparing modem CT with
+jie ia ging moda.
+
+Results: 17 stdis wit 4327 patents otal, Senstty
+and speciticty for modern CT were both 9.9% 35%
+10.994.00{0rboth. The negative predictive valie
+anormal CT scan was 100% (95% 1096-100 and
+accuracy wasnotatfectd byte glbalseverity of
+injury, Csi thickness or ty quality.
+
+Condusions: Talon is sufientt detect unstable
+spine injries in trauma patients nd adjvant
+imaging sunnecssary with negative CT scanresut
+Consequently, CT can's negative for acuteinjury,
+the cervical collar may be removed fromobtunded or
+intubated trauma patents,
+
+The Canadian C Head Rule for Patients with Minor
+Head injury
+
+Lancet 2001,357:1391-396
+CTHeadisonly required for patients with minor head
+injures with anyone of thefotowing:
+
+High-Risk (for neurological intervention:
+
+GCS score <15at2hatter inary
+
+Suspected open or depressed sl fracture
+
+Any sign of basa shal fracture (hemotympanum,
+*racoon” es, cerebrospinal fd otorthea!
+thinarea, Batte'sign
+
+Vomiting 2 episodes
+
+Age265yt
+
+Medium Risk forbraninjuryonC):
+
+Ami 30min
+
+Dangerous mechanism pedestrian struck by motor
+vehicle, occupant ejected frommotor vehicle ffm
+height >3 feet orfve sti)
+MinorHead injury s defined as witnessed ass
+consciousness, dente amnesia, or witnessed
+isoienttion ina patient wth GCS score of 138.
+
+Periorbital
+‘ecchymosis
+
+Retroauricular
+ecchymosis
+(attle’s sign)
+
+g
+g
+2
+a
+3
+
+Figure 30. Signs of basal skull
+fractures
+-e 
+
+## Page 969
+
+S37 ‘Neurosurgery
+
+Cranial Nerve Injury
++ most traumatic causes of cranial nerve injury do not warrant surgical intervention
++ surgical intervention indicated for:
+= CNIL: local eye/orbit injury
+= CNIII, IV, VI: if herniation secondary to mass
+= CN VIIE: repair of ossicles
++ prognoses:
+= CNI: recovery may occur in a few months; most do not improve
+= CNIIL, IV, VI: majority recover
+= CNVIL recovery with delayed lesions
+«= CN VIII: vestibular symptoms improve over weeks, deafness usually permanent (except when resulting
+from hemotympanum)
+
+Arterial Injury
+«+ eg. carotid-cavernous (C-C) fistula, carotid/vertebral artery dissection
+
+Intracranial Bleeding
++ see Blood, NS20 and Cerebrovascular Disease, NS22
+
+Brain Injury
+
+Primary Impact Injury
++ mechanism of injury determines pathology
++ penetrating injuries, direct impact
+= low velocity: local damage
+= high velocity: distant damage possible (due to wave of compression), concussion
+concussion: a trauma-induced alteration in mental status
+= refer to American Academy of Neurology (AAN) guidelines for classification and management
+= no parenchymal abnormalities on CT
+coup (damage at site of blow) and contrecoy (damage at opposite site of blow)
+= acute decompression causes cavitation followed by a wave of acute compression
+contusion (hemorrhagic)
+= high density areas on CT + mass effect
+= commonly occurs with brain impact on bony prominences (inferior frontal lobe, pole of temporal lobe)
+diffuse axonal injury/shearing
+«= wide variety of damage results
+= may tear blood vessels (hemorrhagic foci)
+= often the cause of decreased LOC when no space-occupying lesion is visible on CT
+
+Secondary Pathologic Processes
+
++ same subsequent biochemical pathways for each traumatic etiology
+
++ delayed and progressive injury to the brain due to:
+
+high glutamate release > NMDA receptor activation > cytotoxic cascade
+cerebral edema
+
+intracranial hemorrhages
+
+ischemia/infarction
+
+raised ICP, intracranial HTN
+
+hydrocephalus
+
+Extracranial Con
++ hypoxemia
+
+= due to trauma to the chest, upper airway, brainstem
+
+= extremely damaging to vulnerable brain cells
+
+« leads to ischemia, raised ICP
++ hypercarbia
+
+» leads to raised ICP (secondary to vasodilation)
+
+= systemic hypotension
+
+= caused by blood loss (e.g. ruptured spleen)
+
+« loss of cerebral autoregulation leads to decreased CPP, ischemia
++ hyperpyrexia
+
+= leads to increased brain metabolic demands > ischemia
+
+= caused by severe infections (e.g. meningitis, sepsis)
++ fluid and electrolyte imbalance
+
+= Most commonly iatrogenic
+
+= SIADH caused by head injury
+
+= DI
+
+= may lead to cerebral edema and raised ICP
++ coagulopathy
+
+ions
+
+Toronto Notes 2025
+
+‘AAN Concussion Classification
+Grade t: altered mental status <15 min
+Grade 2: altered mental status >15 min
+Grade 3: any loss of consciousness
+
+Concussion Grades
+
+MAN Management Options
+
+Grade
+
+1 ‘15min for amnesia and other symptoms
+Retumto normalactivityit symptoms
+cearwithin 15min
+
+2 Remove omactvity for, then
+reemnine
+
+(Tor MRI if Hor other symptoms
+worsen or last>4 wk.
+
+Retumto normal activity after
+‘wk without symptoms
+
+3 Emergent neurological examand
+imaging; itntiat exam s norma, nay
+johome with cosefotow-up
+Aditi any signs of pathology or
+pesistent abnormal mental satus
+Toc MRI it HROrother symptoms
+‘bret oss of consciousness (<1 min),
+‘etunto norma activtyatter 1k
+without symptoms
+prolonged oss of consciousness ot
+in), return to normal actvty only
+ater 2k without symptoms
+
+Figure 31. CT showing coup-
+contrecoup injury
+
+Atialofntracranial-Pressure Monitoring in
+TraumatiBrain Injury
+NEM 2012367:2471-2481
+Background: ICP monitoring frequently used to
+‘monitor severe BL, but controversy exists over whether
+itisbeneficial
+Methods: Thestudy sample (r-324 patients, 213)
+consisted of those with severeTB and were treated in
+an ICU in Bolivia or Ecuador. Patients were randomly
+assigned to one management group:
+4L1CP-monitoring based management.
+2.Management based on maging and cinical
+mination.
+utcome wasa compose of surivaltime,
+red consciousness, functional status (a3, 6m),
+and newopsychoogical status at 6m)
+Results: No significant difference between
+‘management groups based on primary outcome, 6 m0
+mortality, median length of CU stay, or occurence of,
+serious adverse events. However, duration of brain
+specictreatments (eg. se ofhyperasmolar fads or
+hyperventiaton) was higherin the imaging-inial
+examination group (48 dvs. 344, P-0.002).
+Condusion: Maintaining montored CPat 20 mmf
+co essis not superior tocar based on imaging and
+linia eranination.
+
+-e 
+
+## Page 970
+
+NS38 ‘Neurosurgery Toronto Notes 2025
+
+Intracranial Conditions
++ raised ICP due to traumatic cerebral edema OR traumatic intracranial hemorrhage
+
+Brain Injury Outcomes
+
++ mildly traumatic (GCS 13-15): post-concussive symptoms: H/A, fatigue, dizziness, nausea, blurred vision,
+diplopia, memory impairment, tinnitus, irritability, low concentration; 50% at 6 wk, 14% at 1 yr
+moderately traumatic (GCS 9-12): outcome proportional to age (>40) and CT findings; 60% good recovery,
+26% moderately disabled, 7% severely disabled, 7% vegetative/dead
+
+severe (GCS <8): difficult to predict, correlates with post-resuscitation GCS (especially motor) and age
+
+Late Complications of Head/Brain Injury
+seizures: 5% of head injury patients develop seizures
+
+«= incidence related to severity and location of injury (increased with local brain damage or intracranial
+
+hemorrhage)
+
+= post-traumatic seizure may be immediate, early, or late
+
+= presence of early (within the first week) post-traumatic seizure raises the incidence of late seizures
+meningitis: associated with CSF leak from nose or ear
+hydrocephalus: acute hydrocephalus or delayed NPH
+Post-Concussion Syndrome: H/A, dizziness, cognitive changes, psychological symptoms, and behavioural
+symptoms
+
+Spinal Cord Injury
+« see Orthopedic Surgery, OR25 and Emergency Medicine, ER9
+Neurogenic and Spinal Shock ABCDS
++ neurogenic shock: hypotension that follows spinal cord injury (SCI) (sBP usually <80 mmHg) caused by: Alignment
+= interruption of sympathetics (unopposed parasympathetics) below the level of injury, usually with columns
+injuries above the T6 level poster vertebral ine 2)
+= loss of muscle tone due to skeletal muscle paralysis below the level of injury > venous pooling (relative spinolaminar line (3)
+hypovolemia) posterior spinous line (4)
+. neurogenic shock is to be distinguished from hemodynamic shock due to blood loss from associated
+wounds (true hypovolemia) bone bral bod
+* neurogenic shock > hypotension, bradycardia, warm and well-perfused extremities tet es
+. hemodynamic shock > suspect in multisystem trauma and if there is peripheral vascular shut- spinous processes
+lown
++ spinal shock: transient loss of all neurologic function below the level of the SCI, associated with loss of Cartilage
+bulbocavernosus reflex, flaccid paralysis and areflexia for variable periods vise
+di
+Whiplash-Associated Disorders interspinous space
++ definition: traumatic injury to the soft tissue structures in the region of the cervical spine due to
+hyperflexion, hyperextension, or rotational injury to the neck Soft tissues
+
+Initial Management of Spinal Cord Injury
++ major causes of death in SCI are aspiration and shock
++ the following patients should be treated as having a SCI until proven otherwise:
+= all victims of significant trauma
+= minor trauma patients with decreased LOC or complaints of neck or back pain, weakness, abdominal
+breathing, numbness/tingling, or priapism
+
+© YuXiangRen2021
+
+Pre-vertebral soft tissues (A)
+
+Stabilization and Initial Evaluation in the Hospital
+. ABCs, immobilization (backboard/head strap), oxygenation, Foley catheter to urometer, temperature
+regulation
+. hypotension: maintain sBP >90 mmHg with pressors (e.g. dopamine), hydration, and atropine
++ deep vein thrombosis (DVT) prophylaxis
+monitor CBC/electrolytes
+perform a mental status and CN function assessment as many patients with SCI have co-occurring
+traumatic brain injury
+. focused history and exam as the patient is being immobilized (see Trauma Assessment, NS35)
+. spine palpation: point tenderness or deformity
+7. motor level assessment (including rectal exam for voluntary anal sphincter contraction)
+. sensory level assessment: pinprick, light touch, and proprioception
+9. evaluation of reflexes
+10.signs of autonomic dysfunction: altered level of perspiration, bowel or bladder incontinence, priapism
+1Lradiographic evaluation
+¢ 3 views C-spine x-rays (AP, lateral, and odontoid) to adequately visualize C1 to C7-T1 junction (note _ Figure 32. Assessment of spine
+plain films have been largely supplanted by CT) CT/X-Ray (parasagittal view)
+« flexion-extension views to disclose occult instability Images seit prison on Dr. Ftc Berger and
+* CT scan (bony injuries); typically most trauma centres use CT as the modality of choice forlooking  "“**°¥*"*
+at fractures; very sensitive with the high-resolution scanners
++ MRI mandatory if neurological deficits (soft tissue injuries); MRI can also be helpful to assess for
+ligamentous injury and disc herniation
+
+BY
+
+eu Aw
+
+-e 
+
+## Page 971
+
+NS39 ‘Neurosurgery
+
++ ifone fracture has been detected - the entire spine should be scanned (CT) to assess for a second
+lesion (can occur in 15% of spine fractures)
+
+Medical Management Specific to Spinal Cord Injury
+
+option: methylprednisolone (given within 8 h of injury) is controversial; must confer with Neurosurgery
+service
+
+surgical decompression and stabilization is recommended within 24 h of all types of severe SCI (AIS A-C)
+regardless of level, provided the patient is medically stable
+
+the management of milder forms of SCI, especially central cord, is more controversial although surgery is
+the generally preferred option
+
+Fractures of the Spine
+FRACTURES OF THE CERVICAL SPINE
+Types of Injury
+Table 25. AO Spine Upper Cervical Spine Injury Classification System
+Type
+1 Occipital condyle and occipital cervical joint complex injuries,
+2 (Cling and C1-2 joint complex injuries
+3 C2and C23 joint complex injuries
+
+“A,B, and sub-<ateorzations apply teach type ofiury
+‘bony injuries only (table)
+
+8 tension band injuries potently nstable)
+
+- transationalnuris (stable)
+
+Table 26. Fracture Patterns of the Cervical Spine
+
+Fracture Type Description
+Vertebral Fracture Vertical compression forcesthe occipital condyles ofthe kul dwnon the Cl vertebra atlas), pushing its lateral masses outward and
+(Jefferson fracture) distuptingitsring
+
+Also cancause anoccipitalcondyar fracture
+Odontoid Fracture CousesClandodontoidof C2 to move independently of C2 body
+
+Thisoccus becouse
+Normally vertebm andodontoidof C2 area single funcional nit
+
+Ar andtransverse ligaments on posterior aspect of odontoidusullyremainintac after injury
+Patients oftenrepotafeeing ofinstabilty and present holding their head wittheir hands
+Type fracture the most common
+
+Bilateral fracture trough the parsintrarticulais of C2 wit sbluxationof C2 on 3 (spondylolisthesi of ais)
+(hangman fracture) Usual neurologically intact
+
+Clay Shoveler Fracture __Avulsionof spinous process, usually (5 or C7
+
+(C2 Vertebral Fracture
+
+The AO Spine clasitcationsprteredto character fractures ofthe cervical spine, Dut he terminology éscribedabovemay stilbe encountered onthe wards
+
+Imaging
++ AP spine x-ray (open-mouth and lateral view), CT
+
+Treatment
++ immobilization in cervical collar or halo vest until healing occurs (usually 2-3 mo)
+
++ type Il and III odontoid fractures: consider surgical fixation for comminution, displacement, or inability to
+
+maintain alignment with external immobilization
+
+= type odontoid fractures more likely to require surgery than type III due to higher risk of non-union
+
+(fracture line in watershed zone)
++ confirm stability after recovery with flexion-extension x-rays
+
+FRACTURES AND FRACTURE-DISLOCATIONS OF THE THORACIC AND LUMBAR SPINE
++ assess ligamentous injury/instability using MRI + flexion/extension x-ray views
++ thoracolumbar spine unstable if 4/6 segments disrupted (3 columns divided into left and right)
+= anterior column: anterior half of vertebral body, disc, and anterior longitudinal ligament
+= middle column: posterior half of vertebral body, disc, and posterior longitudinal ligament
+= posterior column: posterior arch, facet joints, pedicle, lamina and supraspinous, interspinous, and
+ligamentum ligaments
+
+Toronto Notes 2025
+
+Resolution of spinal shock is indicated by
+the return of reflexes (most commonly the
+bulbocavernosus reflex)
+
+See Landmark Neurosurgery Trials table for more
+information onthe STASCIS trial for efectveness of
+cays te decompressive surgery or raumatic
+cervical spinal ordinjry
+
+Type 1
+
+© Hidenori Miyagawa 2006
+
+Figure 33. Odontoid fracture
+classification
+-e 
+
+## Page 972
+
+Ns40 ‘Neurosurgery
+
+Table 27. AO Spine Classification System for Subaxial Cervical Spine Injury and Thoracolumbar Spine
+
+Injury
+Type Description
+n ‘Compression fractures
+Involves anterior elements (vertebral body andor dsc)
+0 No injury/rocess fracture
+1 ‘Wedge compression fracture of single endplate wi involvement of posterior vertebralbody wall
+2 Spltipincer type (fracture ofboth endplates wio involvement of posterior vertebral body wal)
+3 Incomplete burst imolvement of posterior vertebral body wall and only single endplate)
+4 Complete burst (involvement of posterior vertebral body wal and both endplates)
+B Tension bandinjuries
+1 Posterior ransoesseous disruption
+2 Posterior ligamentous disruption
+3 Anterior ligamentous disruption
+c Translation injuries (displacementidislocation)
+F (only or subaial cervical pine injury) Facet injuries
+1 Non-displaced facet fracture ragment<1cm, <40% lateral mass)
+2 Facet fracturewith potential for instability (ragment>1cm, >40% lateral mass or displaced)
+3 Floatinglateral mass (disconnection of superior and inferior articular processes)
+4 Pathologic subluxation or dislocatedtacet
+
+Management of Thoracolumbar Injury
++ severity and management based on thoracolumbar injury classification and severity (TLICS) classification
+
+Neurologically Determined Death
+
+Definition
++ irreversible and diffuse brain injury resulting in absence of clinical brain function
++ cardiovascular activity may persist for up to 2 wk
+
+Criteria of Diagnosis
+
++ prerequisites: no CNS depressant drugs/neuromuscular blocking agents, no drug intoxication/poisoning,
+temperature >32°C, no electrolyte/acid-base/endocrine disturbance
+
++ absent brainstem reflexes: pupillary light reflex, corneal reflexes, oculocephalic response, caloric responses
+(e.g. no deviation of eyes to irrigation of each ear with 50 cc of ice water; allow 1 min after injection, 5 min
+between sides), pharyngeal and tracheal reflexes, cough with tracheal suctioning, absent respiratory drive
+at PaCO2 260 mmHg, 220 mmHg rise above baseline, and pH <7.28 (apnea test)
+
++ 2evaluations separated by time, usually performed by two specialists (e.g. anesthetist, neurologist,
+neurosurgeon)
+
++ confirmatory testing: flat EEG, absent perfusion assessed with cerebral angiogram
+
+Coma
+
+Definition
++ anunrousable state in which patients show no meaningful response to environmental stimuli
+
+Pathophysiology
+
++ lesions affecting the cerebral cortex bilaterally, the reticular activating system, or their connecting fibres
+
++ focal supratentorial lesions do not alter consciousness except by herniation (compression on the brainstem
+or on the contralateral hemisphere) or by precipitating seizures
+
+Classification
++ structural lesions (tumour, pus, blood, infarction, CSF): 1/3 of comas
+= supratentorial mass lesion: leads to herniation
+« infratentorial lesion: compression of or direct damage to the reticular activating system (RAS) or its
+projections
++ metabolic disorders/diffuse hemispheric damage: 2/3 of comas
+= deficiency of essential substrates (e.g. oxygen, glucose, vitamin B12)
+= exogenous toxins (e.g. drugs, heavy metals, solvents)
+= endogenous toxins/systemic metabolic diseases (e.g. uremia, hepatic encephalopathy, electrolyte
+imbalances, thyroid storm)
+= infections (e.g. meningitis, encephalitis)
+= trauma (eg. concussion, diffuse shear axonal damage)
+
+Toronto Notes 2025
+
+Thoracolumbar Injury Classification and
+Severity Scoring
+
+Parameter Points
+‘Morphology
+
+Compression fracture 1
+Burstfractue 2
+Tansationtottinnal tacure 3
+Distraction 4
+Newologic Status
+
+Intact o
+Nerve rootinjry 2
+Spinal Cordstatus
+
+Incomplete 3
+Complete 2
+(Cauda equine 3
+Posterior Ligamentous Complex
+
+Intact 0
+Injury suspecten determinate 2
+Injures 3
+
+TLICS scoring based on morphology of injury, status
+‘of posterior ligamentous complex, and neurological
+status
+
+Non-operative management TICS =0-3, operative
+‘management TLCS =5:, ether operative or n0n-
+
+operative FTUCS=4
+
+Prenatal vs Postnatal Repair of Mylomeningocele
+wc)
+
+NEJM2011;364993-1004
+
+Purpose: To compare outcomes ofin-aterorepai of
+‘MMC with standard postnatal repair of MMC.
+
+Methods: RCT comparing prenatal surgery before26
+icf gestation) and standard postoperative surgery.
+‘Amo outomesincuded death or need fo placement
+ofa CSFshunt 30mo outcomes included mental
+evelopment and motor function,
+
+Results: 40% of prenatal surgery patents, compared to
+82% of postnatal surgery patents, required CSF shunt
+(0.001, Prenatal surgery esuited in improvement
+inmental development and motor function P-0.007}
+However, prenatal surgery was associated wth an
+increased tsk of gynecological omy
+Conclusion: Prenatal surgery for MMC reduced the
+need for shunting and improved motor outcomes but
+was associated with maternal and fetal risks related to
+preterm detvery.
+
+-e 
+
+## Page 973
+
+NS41 ‘Neurosurgery
+
+Investigations and Management
+
++ ABCs
+
++ labs: electrolytes, extended electrolytes, TSH, LFTs, Cr, BUN, toxin screen, glucose
++ CT/MRI, LP (after ruling out space-occupying lesion/increased ICP), EEG
+
+Persistent Vegetative State
+
+Definition
+
++ acondition of complete unawareness of the self and the environment accompanied by sleep-wake cycles
+with either complete or partial preservation of hypothalamic and brainstem autonomic function
+
++ “awake but not aware”
+
++ follows comatose state
+
+Etiology/Prognosis
+
++ most commonly caused by cardiac arrest or head injury
+
++ due to irreversible loss of cerebral cortical function but intact brainstem function
++ average life expectancy is 2-5 yr
+
+Pediatric Neurosurgery
+
+Spinal Dysraphism
+
++ spinal dysraphism refers to a spectrum of congenital anomalies resulting in a defective neural arch through
+which CNS elements are herniated
+
++ the spectrum is divided largely into aperta (visible lesion; no skin covering) and occulta (no visible lesion;
+skin covering)
+
+Table 28, Summary of Spinal Dysraphic Anomalies
+Spina Bifida Occulta
+
+Meningocele(Spinal Bifida Aperta) _ Myelomeningocele (Spina Bifida Aperta)
+
+Definition Congenital absence of a spinous process Heriationof meningeal tissue and CSF Heriationof meningeal and CNS tissue
+‘anda variable amount of lamina througha defectinthe spine, without through a defect inthe spine
+No visible exposure of meninges or associated herniation of newal tissue
+neural tissue
+Epidemiology 15.20% ofthe general population; most 040.2% olive births
+«common at {5 orS1
+Etiology Failure offusionof vertebral bodies Failure offusionof posterior neural arch Primary failure of neural tube closure
+resulting from abnormal fusion of
+posterior vertebra arches
+Clinical Features No obvious clinical signs Most common inlumbosacral area Sensory and motor changes distal to
+Presence oflumbosacral cutaneous Usually no disability, low incidence _—_anatomiclevel producing varying degrees
+abnormalities (dimple, sinus,portwine of assodated anomalies, and
+stain, or hai tuft should increase hydrocephalus Usinary and fecal incontinence
+suspicion of an underying anomaly of patients)
+(lipoma, dermoid, dastematomyelia) Most have Type It Chiari malformation
+(see Chia Malformations, NSA3)
+Investigations Plain fim: Absence ofthe spinous Plain films, CT, MRI, U/S, echo, 6U lain films, CT, MRI, US, echo, GU
+process and minor amounts ofthe investigations investigations
+neural arch
+US, MRI to exclude spinal anomalies
+Treatment Requites no treatment Surgical excisionand tissuerepait Surgical clasureto preserve neurologic
+statusand prevent CRS infections
+Closurein-stero shownto decrease
+hydrocephalus and improve postnatal
+motor scores
+Prognosis ‘Generally ood prognosis Good prognosis with surgical treatment Operative mortality close to0%,
+95% 247 survival
+
+80% havel0>80 butmostare 80-95},
+40-85% ambulatory, 310% have normal
+urinary continence
+
+Early mortality: usually due to Chiari
+malformation complications (respiratory
+arrest, aspiration), latemortaliy:dueto
+shunt malfunction
+
+Toronto Notes 2
+
+‘Subarachnoid
+space
+
+Hair tuft
+
+‘Subarachnoid
+space
+
+‘Subarachnoid
+space
+
+025
+
+© Jen Pok 2002
+
+Jen Pok 2002
+
+‘© Savanna Jackson 2¢
+
+‘Savanna Jackson
+
+Figure 34. Spina bifida occulta,
+
+meningocele, myelomeningocele
+
+-e 
+
+## Page 974
+
+NS42 ‘Neurosurgery
+
+Intraventricular Hemorrhage
+
+Definition
++ hemorrhage originating in the periventricular subependymal germinal matrix
+
+Epidemiology
++ incidence and severity increase as gestational age (GA) and birth weight (BW) decrease
++ 50% of IVH occurs within 8 h of birth; 90% occurs by day 3
+
+Risk Factors
+
+* prematurity (<32 wk GA), BW <1500 g, need for vigorous resuscitation at birth, pneumothorax, ventilated
+preterm infants, hemodynamic instability, respiratory distress syndrome (RDS), chorioamnionitis,
+coagulopathy
+
+Clinical Features
+
++ many infants with VH are asymptomatic
+
++ subtle signs: altered LOC, decreased tone and/or activity, hypoventilation/apnea
+
++ catastrophic deterioration: may have bulging fontanelle, apnea/hypoventilation, hypotension, bradycardia,
+cranial nerve abnormalities, sudden drop in hematocrit, metabolic acidosis, seizures, coma
+
+Diagnosis
+
++ routine head U/S screening conducted for all preterm infants <32 wk GA or <1500 g gestation throughout
+NICU stay
+
++ IVH graded using Papile classification
+
++ parenchymal hemorrhage may also occur in the absence of IVH
+
+Management of Acute Hemorrhage
+
++ supportive care to maintain blood volume, minimizing fluctuations in cerebral blood flow, cerebral
+erfusion, and acid-base status
+
++ follow up with serial U/S imaging and MRI
+
+Prognosis
+
+outcome largely dependent on grade of IVH, with grades I and II having a relatively favourable prognosis
+greatest morbidity and mortality is seen
+
+with grade IV IVH and development of posthemorrhagic hydrocephalus requiring VP shunt placement
+short-term sequelae for severe IVH: mortality, extension of bleed, posthemorrhagic hydrocephalus,
+posthemorrhagic infarction, cyst formation
+
+possible long-term major neurological sequelae: cerebral palsy (CP), cognitive deficits, motor deficits, visual
+and hearing impairment
+
+Hydrocephalus in Pediatrics
+
+Etiology
+* congenital
+= aqueductal anomalies, primary aqueductal stenosis in infancy
+= secondary gliosis due to intrauterine viral infections (e.g. mumps, varicella, TORCH)
+= Dandy-Walker malformation (2-4%)
+= Chiari malformation, especially type II (see Table 29, NS29)
+=» MMC
++ acquired
+= post meningitis
+= post hemorrhage (SAH, IVH)
+= masses (vascular malformation, neoplastic)
+
+Clinical Features
+
+symptoms and signs of hydrocephalus are age related
+
+increased head circumference, bulging anterior fontanelle, widened cranial sutures
+irritability, lethargy, poor feeding, and vomiting
+
+“cracked pot” sound on cranial percussion
+
+scalp vein dilation (increased collateral venous drainage)
+
+“sunset eyes”
+
+episodic bradycardia and apnea
+
+Investigations
++ skull x-ray, U/S, CT, MRI, ICP monitoring
+
+Treatment
++ similar to adults (see Hydrocephalus, Treatment, NS10)
+
+Toronto Notes 2025
+
+Papile Classification
+Grade I: germinal matrix hemorrhage
+
+IVH without ventricular dilation
+IVH with ventricular dilation
+Grade IV: IVH with parenchymal extension
+
+-e 
+
+## Page 975
+
+NS43 ‘Neurosurgery
+
+Dandy-Walker Malformation
+
+Definition
++ atresia of foramina of Magendie (median aperture) and Luschka (lateral apertures), resulting in:
+= complete or incomplete agenesis of the cerebellar vermis with widely separated, hypoplastic cerebellar
+hemispheres
+= posterior fossa cyst, enlarged posterior fossa
+«= dilation of 4th ventricle (also 3rd and lateral ventricles)
+= can be detected in-utero
++ associated anomalies
+= hydrocephalus (90%)
+= agenesis of corpus callosum (17%)
+= occipital encephalocele (7%)
+
+Epidemiology
++ 2-4% of pediatric hydrocephalus
+
+al Features
+
++ 20% are asymptomatic, seizures occur in 15%
+
++ symptoms and signs of hydrocephalus combined with a prominent occiput in infancy
++ ataxia, spasticity, and poor fine motor control common in childhood
+
+Investigations
++ ultrasound, CT, MRI
+
+Treatment
++ asymptomatic patients require no treatment
++ associated hydrocephalus requires surgical treatment
+= e.g. VP shunt, cystoperitoneal shunt, lumboperitoneal shunt, VA shunt, lumbar drain
+
+Prognosis
++ 75-100% survival, 50% have normal IQ
+
+Chiari Malformations
+
+Definition
++ structural defects as a result of malformations at the medullary-spinal junction leading to compression
+Etiology
+
++ unclear, likely partially attributable to familial predisposition and folate deficiency/teratogens causing
+maldevelopment/dysgenesis during fetal life
+
+Categories
+
+Table 29. Categories of Chiari Malformations
+Typel Typell
+
+Definition Cerebellar tonsisiebelow thelevelof the foramen magnum Part ofthe cerebellar vermis, medulla, and th ventricle extend
+
+through the foramen magnum often to midcervical region
+
+Epidemiology Average age at presentation 15 yr Present ininfancy
+
+Clinical Features Many ae asymptomatic Findings dueto brainstem and lower cranial nerve dysfunct
+Pain (69%), weakness (56%), numbness (62%), lossot Neurogenic dysphagia (69%), apnea 58%), stridor (56%), a
+temperaturesensation (40%) (40%), arm weakness (27%), downbeat nystagmus
+Central cordsyndrome (65%) Respiratory arrstis the most common causeof mortality
+
+Investigations
+Treatment
+
+Foramen magnum compression syndrome 22%), cerebellar
+syndrome (1), syringomyelia (50%), hydrocephalus (103)
+RI
+
+‘Symptomatic patents (early surgery recommended; <2 yr post
+symptom onset) + subocciptal caniectomy,duraplasty
+
+Usual
+
+sociated with MMC andhydrocephalus
+
+Preserved
+
+‘When symptomatic, check the shuntfirst. Then consider surgical
+decompression (which does not reverse intrinsic brainstem
+abnormalities) + cervical laminectomy, duraplasty
+
+Toronto Notes 2025
+
+Chiari I
+
+Camila Matuk
+
+Figure 35. Chiari malformations

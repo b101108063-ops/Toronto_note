@@ -1,0 +1,145 @@
+Gs43 General and Thoracic Surgery
+
+Colorectal Carcinoma
+
+Epidemiology
++ 3rd most common cancer (lung>breast>colon), 2nd most common cause of cancer death
+
+Risk Factors
++ most patients have no specific risk factors
++ age >50 (dominant risk factor in sporadic cases), mean age is 70
+genetic: FAP, HNPCC, or family history of CRC
+colonic conditions
+= adenomatous polyps (especially if >1 cm, villous, multiple)
+= IBD (especially UC: risk is 1-2%/yr if UC >10 yr)
+«= previous colorectal, gonadal, or breast cancer
+diet (increased fat, red meat, decreased fibre) and smoking
+DM and acromegaly (insulin and IGF-1 are growth factors for colonic mucosal cells)
+
+Pathogenesis
++ adenoma-carcinoma sequence; rarely arise de novo
+
+Clinical Features
++ often asymptomatic
++ hematochezia/melena, abdominal pain, and change in bowel habits
++ others: weakness, anemia, weight loss, palpable mass, and obstruction
++ 20% patients have distant metastatic disease at time of presentation
++ spreads via direct extension, lymphatic, hematogenous, and transperitoneal routes
+* hematogenous sites: liver (most common), lung (more common from tumour of distal rectum which
+drains into IVC then lungs)
+* peritoneal seeding: any of the parietal or visceral peritoneal surfaces, including the pelvic cul-de-sac
+
+peritoneum
+Table 22. Clinical Features of CRC
+RightColon Left Colon Rectum
+Frequency 25% 35% 30%
+‘Symptoms, Weightloss, weakness, rarely Constipation +overiow (alternating bowel patterns), Obstruction, tenesmus, rectal bleeding
+obstruction, dark blood mixed abdominal pain, decreased stool calibre, rectal
+into stool Bleeding
+Signs Fe-deficiency anemia, RLOmass ——_BRBPR, LB0 Palpable mass on DRE, BRBPR
+
+(10%), occultbloodloss (positive FIT)
+
+Investigations
++ for screening average risk patients: FIT, colonoscopy, or flexible sigmoidoscopy
++ for case-finding in patients with suspicious symptoms (i.e. positive FIT, anemia, change in bowel habits,
+abnormal imaging findings): colonoscopy
++ for known CRC:
+= colonoscopy to detect synchronous lesions (flexible sigmoidoscopy insufficient)
+= laboratory: CBC, U/A, LFTs, CEA (preoperative for baseline, >5 ng/mL have worse prognosis)
+= staging: CT chest/abdomen/pelvis; bone scan and CT head only if lesions suspected
+= rectal cancer: pelvic MRI or endorectal U/S to determine T and N stage
+
+Table 23. TNM Classification System for Staging of Colorectal Carcinoma (AJCC/UICC 8th edition)
+
+Primary Tumour (1) Regional Lymph Nodes (N) Distant Metastasis (M)
+
+Tx Primary tumourcannot beassessed Nx Regional nodes cannot beassessed MO Nodistant metastasis
+
+TO Noprimary tumour found NO Noregional node metastasis and no tumour MYfa_—_—Distant metastasis to organ orsite andno
+deposits peritoneal metastasis
+
+Tis Carcinoma init, limited to Ma Metastasis in 1regional node Mtb Distant metastasis to>1 (2 or more organs sites)
+
+intraepithelial or invasive lamina propria and no peritoneal metastasis
+1 Invasion into submucosa Nib Metastasis in 2-3 regional nodes Mic Metastasis to peritoneal surface
+T2 Invasion into muscularispropria Mic Noregional node metastasis; tumour deposits
+
+‘were submucosal, mesangial or peritoneum-
+covered para-clorectal tissue
+
+13 Invasion through muscularis proprisand — W2a
+into pericolrectal tissues
+
+Metastasis in 4-6 regional nodes
+
+Téa Invasion through visceral peritoneum 2b ‘Metastasis in>7regional nodes
+
+Tb Invasion or adherent to other organs or
+structures
+
+Toronto Notes 2025
+
+Elderly persons who present with iron-
+deficiency anemia should be investigated
+for colon cancer
+
+APR removes distal sigmoid colon, rectum,
+and anus; permanent end colostomy
+required
+
+LAR removes distal sigmoid and rectum
+with anastomosis of distal colon to distal
+rectum/anus
+
+'5 Year Survival Rates for CRC
+Stage 2064yr_—265yr
+1 952% a9t%
+a 896% 84.4%
+iB 616% 55%
+WA 13% 85.1%
+MB 769% — GA6%
+ic 618% 5.5%
+v "2% 78%
+
+Results ofthe
+German CAO/AROIAO-94 Randomized Phase I Tal
+ateraMedianFollow-Upof 11 Yr
+
+Clin Oncol 2012;30:1926-1833
+
+Background: The CAO/ARO/IO-94 al (published
+2004) recommended preoperative chemoradotherapy
+(CRT) as standard treatment for locally advanced rectal
+cancer, However, no survival benef was shown after
+median folow-up of 46 mo, and ths study reports
+long-tem effects
+
+Methods: Patients with stage Il tollrectalcancer
+(0-199) were randoniy assigned to preoperative
+(1-404) r postoperative CR (0-395) with lurourac
+(FU, radiation, and adjuvant chemotherapy, in
+addition to total mesorectal excision surgery. Follow-up
+was designed to assesslong term overall suvivalas
+the primary endpoint and cumulative incidence of acl
+and distantrelapses as well as disease reesurvivalas
+secondary endpins
+
+Results: 10yrincidence of local relapsewas
+significantly lower in thepreoperative CRT group than
+inthe postoperative group (71s. 101%, P=0.048)
+Overall survival at 10yrwassinilar at 60% for
+patients treated with preoperative orpostoperative
+(RT(P-085) Disease-free survival rates a Oyr was
+similar at~68% fr patients treated with preoperative
+(postoperative CRT (P=0.54) No signtcantdference
+was detected or 10yrincidence of distant metastases
+(preoperative CRT 29.8% vs, postoperative CRT 29.6%,
+P09),
+
+CCondusion: Thee slong -ermreductonin local
+recurrence of stage tol etal cance with
+
+preoperative chemoradotherapy, btno improvement
+inoveral survvalo distant recurrence of disease
+

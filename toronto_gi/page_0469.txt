@@ -1,0 +1,100 @@
+G35 Gastroenterology Toronto Notes 2025
+
+Treatment
++ blood-borne precautions; vaccinate for hepatitis A and B if serology negative; avoid EtOH
+= now thata safe, effective cure is available, the risk/benefit ratio favours treating everyone with chronic
+hepatitis C
+
+. choiceand duration of treatment depends mostly on whether patient is cirrhotic (and if so, whether
+decompensated or not), prior treatment history, and possibly genotype (but less so with availability of pan-
+genotypic therapies)
+
++ direct acting antiviral (DAA) tablets (Maviret*, a combination of glecaprevir and pibrentasvir, and Epclusa’,
+a combination of velpatasvir and sofosbuvir) are the most commonly used
+
++ other oral interferon-free regimens (for all genotypes) (e.g. sofosbuvir/ledipasvir, ombitasvir/paritaprevir/
+
+ritonavir+dasabuvir, elbasvir/grazoprevir, and sofosbuvir/velpatasvir) are also available but used less
+
+frequently
+
++ itis important to check for hepatitis B prior to therapy as direct acting antivirals may lead to reactivation of
+
+hepatitis
+
+Prognosis
+
++ 70-80% of acute hepatitis C cases become chronic (of these, 20% evolve to cirrhosis within 20 years of
+
+exposure)
+
+«risk of HCC if cirrhotic
++ can cause cryoglobulinemia; associated with membranoproliferative glomerulonephritis, and some
+subtypes of lymphoma
+
+Table 20. Characteristics of the Viral Hepatitides
+
+Hav Hv nev nov Hey ony BY Yellow Fever
+Virus Family Pcornavtidae ‘Hepadnovridve  Fovvidoe ———Deltovidow Cabchindoe —Herpesvtidve ——‘Herpeswirdae—Flovvius
+Genome NA ona ANA NA RNA om RNA RM
+Envelope No Yes Yes Yes No Yes Yes Yes
+Transmission Feal-oral —Porenteralsexwal Parenteralsexual Non-parenteal © “Fecal-oral ose contacts, most Salva-oral Vector
+orequvalent ——(tansfwsion,V (dose contactin——(endemic.-—_—body fds (mosquit)
+Vertial ‘ruguser, sexual endemicareas) fica Asia,
+(<ev) Parenteral(tiood central
+40°haveno known products, IVdug user) America, Indi,
+riskfoctors —senultransmission Pakistan)
+'s inefficient
+Incubation 46k == wk-6 mo 226 wk 33wk 28k 60d 50d 36d
+Onset Usual abrupt Usual insidious Insidious Usuay abrupt Usualyabrpt Variable Variable Usualyabrupt
+Communicabilty 2-3wkinlote Hstgestate highly Communicable Infectiousonyin. Unknown —_Vaiable— dormant or Highly Variable,
+incubationto communicable priortoovert presence of HBV persistent communicable vector-
+enlyclincal Increased during symptoms and (HBsAgrequid for duringyear dependent
+phase third timesteror throughout chronic repication) aiter primary
+‘Acutehepatitis early post-partum illness. infection but
+inmost never zero
+aduts, 10% of
+ctilden
+Chronicty Hone, Stoadits, 90% 70-80% 5% None Common;latent —Common;latent Infection
+‘although can infants confers lifelong
+relapse immunity
+Serology Anti HAV (igh) See able 19,633 HCV.RNA HB Anti-HEV gG! —Aai-CMV (gW/ig6) Monospat; —AntiYF (ig
+‘Anti-HCV (IgGVlgM) Anti-HDV (IgGIgM) IgM) antiBV IgM’ Ig6)
+16, £BV-ONA
+quantitation
+Vaccine Havrix®, 2 Recombivax® No No No No No YEVAX®,1
+doses mo, HBTM, ages 15,2 dosebooster
+‘combinedwith doses 6 mo quyr
+Twinrix® at0,
+Tand2id
+Management General Prevention: HBV Prevention:no Prevention: HBV. Prevention: —_Inhigh-risk transplant Supportive Prevention:
+tygiene ‘vaccine andlor vaccine vaccine general patients: CMVIg and treatment post- vaccine
+Treatclose hepatitis Blg (HBlg) Rx: interferon + hygiene, no antivirals (ganciclovir, infection Supportive
+contacts (anti- forneedlestick, ribavirin protease vaccine ‘valgancclovin) treatment post
+HAVIg) ‘sexualcontact, inhibitor; although infection
+Prophylaxis infants of infected all oralantiviral
+for high-risk mothers (unless _(IFN-free) therapies
+‘groups ‘already immune) now available are
+(HAV vaccine + Rx: oral antivirals highly efficacious
+HAVg) unless vs. interferonit
+immune indications met
+‘Acute Mortality — 0.1-0.3% 052% % 2.20% coinfection ‘1-2%overall, —Rarein Rare 20-60% in
+‘with HBV, 30% 10-20% in immunocompetent developing
+‘superinfection pregnancy adults ‘countries
+Predisposes HBV
+carters to more
+‘severe hepatitis and
+faster progression to
+‘drtbosis
+Oncogenicity No Yes Yes Yes No No Yes No
+Complications Cancause -HCCsecondaryto HCCin25%of ——_Leukocytoclastic Mild,exceptin S%ofnewbomswith Associated Can cause
+AlFand Grrhosis, serum cirrhosis peryr, vasculitis, membranous thirdtrimester multiple handicaps arecurrent
+subsequent sickness-ike ‘ayoglobulinemia, glomerulonephropathy (10-20%ALF) Immunacompromised lymphomaand toxic phase
+death (<1-5%) syndrome, B-cell non-Hodgkin patientsatrisk nasopharyngeal with iver
+‘glomerulonephritis. lymphoma ofCMV-induced carcinoma (rare damage, G1
+‘ayoglobulinemia, hepatits,retinitis, inWestem bleeding, and
+polyarteritis colts, esophagitis, world) highmortalty
+‘nodosa, porphyria pneumonitis rates
+
+cutanea tarda
+

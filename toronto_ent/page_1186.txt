@@ -1,0 +1,84 @@
+oT42 Otolaryngology
+
+Adenoid Hypertrophy
+
+Definition
+
++ obstructive condition due to enlarged adenoids
+
++ increase in size with repeated URTI and allergies
+
++ onset occurs around ages 2-4, peaks around age 5-7, and resolves by age 12
+
++ graded as 0 (absent), 1+ (<25% obstruction), 2+ (25-50%), 3+ (50-75%), 4+ (>75%)
+
+Clinical Features
++ nasal obstruction
+= adenoid facies: open-mouthed appearance associated with high arched palate, dental crowding,
+hypoplastic maxilla, pinched nostrils, short upper lip, and elongated face
+= history of hypernasal voice and snoring
+= chronic mouth breathing
++ choanal obstruction
+«= chronic rhinosinusitis/rhinitis
+«= OSA
++ chronic inflammation
+= nasal discharge, post-nasal drip, and cough
+= cervical lymphadenopathy
++ Eustachian tube obstruction
+= acute otitis media, chronic serous otitis media
+= mufiled hearing
+= otalgia
+
+Diagnosis
++ enlarged adenoids on nasopharyngeal exam (usually with flexible nasopharyngoscope)
++ enlarged adenoid shadow on lateral soft tissue x-ray (palate elevation can make adenoid look larger)
+
+Treatment
++ self-resolving due to age-related adenoid atrophy (adenoids present at birth, enlarge in childhood, usually
+regress during puberty)
++ antibiotics, ifinfectious
+= uncomplicated: amoxicillin, clindamycin or azithromycin (penicillin allergies)
+= chronic or recurrent: amoxicillin-clavulanate
++ adenoidectomy if recurrent/persistent obstructive or infectious symptoms
+
+Complications
+
++ Eustachian tube obstruction leading to serous otitis media
+interference with nasal breathing, necessitating mouth breathing
+malocclusion
+
+sleep apnea/respiratory disturbance
+
+orofacial developmental abnormalities
+
+Sleep-Disordered Breathing in Children
+
+Definition
++ spectrum of sleep-related breathing abnormalities ranging from snoring to OSA
+
+Epidemiology
++ peak incidence between 2-8 yr when tonsils and adenoids are the largest relative to the pharyngeal airway
+
+Etiology
++ due toa combination of anatomic and neuromuscular factors
+= adenotonsillar hypertrophy
+= craniofacial abnormalities
+= neuromuscular hypotonia (e.g, cerebral palsy, Down syndrome)
+= obesity
+
+Clinical Features
+
++ nighttime symptoms: heavy snoring, pauses or apnea, sleeping with neck hyperextended, enuresis
+
++ daytime symptoms: mouth breathing, excessive daytime sleepiness, behavioural/learning problems,
+symptoms of ADHD (e.g. inattention, hyperactivity), morning headache, failure to thrive
+
+Investigations
+«+ flexible nasopharyngoscopy for assessment of nasopharynx and adenoids
++ polysomnography (apnea-hypopnea index >I/h considered abnormal)
+
+«= children: mild OSA 2-4/h; moderate OSA 6-10/h; severe OSA >10/h
+
+«= adults: mild OSA 5.1-15/h; moderate OSA 15.1-30/h; severe OSA >30.1/h
+
+Toronto Notes 2025

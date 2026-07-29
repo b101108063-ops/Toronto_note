@@ -1,0 +1,129 @@
+NSI4 ‘Neurosurgery
+
+Familial Syndromes Associated with CNS Tumours
++ ataxia telangiectasia
+
++ Cowden syndrome
+
++ familial adenomatous polyposis
+
++ hereditary non-polyposis-related colorectal cancer
++ Li-Fraumeni syndrome
+
++ Gorlin syndrome
+
++ neurofibromatosis types 1 & 2
+
++ multiple endocrine neoplasia type 1
+
++ tuberous sclerosis complex
+
++ von Hippel-Lindau disease
+
++ Turcot syndrome
+
++ Lynch syndrome
+
+Investigations
+
++ CT, MRI with contrast, stereotactic biopsy (tissue diagnosis and molecular markers for prognosis), tumour
+resection (often performed as initial step rather than biopsy), metastatic workup, tumour markers (i.e.
+germ cell tumours)
+
+Treatment
+
++ conservative: serial history, physical, imaging for slow growing/benign lesions
+
++ medical: corticosteroids to reduce ICP, cytotoxic cerebral edema; pharmacologic (i.e. pituitary adenoma)
+
++ surgical: total or partial excision (decompressive, palliative)
+
++ radiotherapy: conventional fractionated XRT, hypofractionated XRT, SRS (e.g. Gamma Knife)
+
++ chemotherapy: e.g. alkylating agents (i.e. temozolomide, vincristine, cyclophosphamide, etc.)
+
++ targeted therapy: e.g. trastuzumab for HER2-positive breast cancer and brain metastases, osimertinib for
+EGFR-mutant lung cancer and brain metastases
+
+Table 10. Tumour Location: Etiology and Clinical Features
+
+Supratentorial Infratentorial (Posterior Fossa)
+
+Epidemiology
+
+Age 5 yr
+Incidence: 2-5 in 100000 per yr
+
+‘Glioma (ll grades) (50%)
+CCraniopharyngioma (2-5%)
+
+Cerebellar astrocytoma (15%)
+
+60%binfratentorial Others: pineal region tumours, choroid Ependymoma(9%)
+plexus tumours, ganglioglioma,dysembryoplastic ——_—Brainstemastrocytoma
+neuroepithelal tumours (NET)
+
+Age>t5yr High-grade glioma (1215%, eg. Glioblastoma Metastasis
+
+80° supratentorial Multiforme- GBM) Acousticneuroma schwannoma) 510%)
+Metastasis (15-30%, indudesinfrotentoia) Hemangioblstoma 2%)
+Meningioma (15-20%) Meningioma
+Low-grade astrocytoma (8%)
+Pituitar noma (5-8%)
+
+Oligodendrogtioma (5%)
+Other: colloid cyst, CNS lymphoma, dermoid/epidermoid
+
+cysts
+Clinical Features
+‘Shared Features from elevated ICP) H/A: usually worse in AM and made worse with straining, coughing
+NW
+Papilledema
+Diplopia- CNVI palsy
+
+Distinguishing Features Seizure: commonly the ist symptom
+
+Progressiveneurological deficits (10%)
+
+Brainstem involvement: N deficits and long tact signs
+WV: compression on vagal nucleusarea postrema
+
+Frontal lobe: hemiparesis, dysphasia, personality
+changes, cognitive changes
+
+Temporal lobe: auditoryolfacory hallucinations,
+memory deficits, contralateral superior quadrantanopia
+Mental status change: depression, apathy, confusion,
+lethargy
+
+“Tumour TIA” (transient ischemic attack) stroke ike
+symptoms caused by
+
+‘a)occlsion of vessel by tumour cels
+
+b) hemorrhage
+
+« 2°to"steal phenomenon” - blood is shunted from
+ischemictegions to non-ischemic regions
+
+Endocrine disturbance: pituitary tumours (see
+Endocrinology, £23)
+
+Diplopia: drectcompression CNVI
+
+Vertigo
+
+Nystagmus
+
+Truncalatana+ttubation: cerebellar vermis lesions
+Limb ataxia, dysmetia, intention tremor: cerebellar
+hemisphere lesions
+
+Obstructive hydrocephalus more common than
+supratetarial lesions
+
+Toronto Notes 2025
+
+‘New onset communicating hydrocephalus
+ina patient with cancer should raise the
+suspicion of leptomeningeal carcinomatosis

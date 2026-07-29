@@ -1,0 +1,92 @@
+PS56 Psychiatry Toronto Notes 2025
+
+Mood Stabilizers
+
+General Prescribing Information
+
++ examples: lithium, divalproex, lamotrigine, carbamazepine
+
++ used mainly for long-term stabilization of bipolar disorder, also used as first-line monotherapy or in
+conjunction with atypical antipsychotics for acute episodes of bipolar disorder (i.e. depression and mania)
+
++ vary in their ability to “treat” (i.e. reduce symptoms acutely) or “stabilize” (i.e. prevent relapse and
+recurrence) manic and depressive symptoms; multi-agent therapy can be avoided in many patients but it is
+common
+
++ before initiating, get baseline: CBC with differential and platelets, ECG (if patient >45 y/o or cardiovascular
+risk), BUN, creatinine, extended electrolytes, TSH, LFTs for divalproex and carbamazepine
+
++ screening for: pregnancy, thyroid, neurological, renal, liver, cardiovascular diseases
+
++ full effects may take 2-4 wk, thus may need acute coverage with benzodiazepines or antipsychotics
+
+Specific Prescribing Information
+
++ detailed pharmacological guidelines available online from the Canadian Network for Mood and Anxiety
+‘Treatments (CANMAT) and International Society for Bipolar Disorders (ISBD)
+
++ for clinical information for treating bipolar disorder (see Mood Disorders, PS10)
+
++ be mindful that divalproex and carbamazepine are teratogenic thus if prescribed for women at reproductive
+age, a reliable contraceptive strategy is required
+
+Table 20. Commonly Used Mood Stabilizers
+
+Lithium Lamotrigine (amictal®) Divalproee (Epival®) Carbamazepine (Tegretol)
+Indications Astline ‘stline ‘stline 2ndline
+Acute mania (monotherapy or with Bipolar depression ‘Acute mana (monotherapy or Acute mania (monotherapy)
+adjunct 6A) (monotherapy) with adjunct S64) Bipolar disorder maintenance
+Bipolar depression monotherapy orin Bipolar disorder maintenance Bipolar depression (monotherapy orin combination
+‘combination with divalproex, SSRI, or (imitedeficacyinpreventing _(combinationwith lithium with iti)
+bupropion) mania, mre effective when or SSRI)
+Bipolar disorder maintenance ‘combined with thm) Bipolar disorder maintenance Other uses
+(monotherapy or with adjunct SGA) (monotherapy orwith adjunct Rapidcycling bipolar disorder
+Other uses 6A)
+Otheruses Bipolar depression
+Bipolar il depression Otheruses
+‘Augmentationof antidepressants in MDD Wot recommended for acute mania Bipolar II depression
+and CD Rapid cyding bipolar disorder
+Schizoatfective disorder Mised phase dysphoric mania
+Chronic aggression, antisocial behaviour
+Recurrent depression
+Modeot Action Unknown May inhib 5-H13 receptors Depresses synaptic transmission Depresses synaptic transmission
+Therapeutic response within 72144 May potentiate DAactivity Raises seizure threshold Raises seizure threshold
+Dosage Adult: 600-1500 mgid Note:very slow titration required 750-2500 mgid 400-1600 mgid
+Geriatric: 150-600 mgid ‘ue toriskofStevens-Johnson Usually dally dosing with ER ——_UsuallyBIDor TID dosing
+Usually daily dosing Syndrome Dose adusted preparation
+Blood eves monitored and dose adjusted inpatients taking other
+accordingly anticonvulsants suchas divalproex
+Daily dose: 100-200 mg/d
+Therapeutic Adult:0.8-L0mmol(L0-1.25mmol Therapeuticplasmalevelnot 17-50 mmal/L 350-700 pmol.
+Level {or acute mania) ‘stablshed Same therapestclevels as used Same therapeutic levelsas used
+Geriatric: 0.6-0.8 mmol/L Dosing based ontherapeutic for seizreprophylaxis for seizure prophylaxis
+response (00 data specific for mood (1 data specific fr mood
+stabilizing effect) stabiliing effect)
+Monitoring Monitorserumlevelsevery5-7d until Monitor for skin rash and Monitor serum levels every 5-74 Monitor serum levelsevery 5-7 4
+therapeutic (always 12h after dose) suicidality when intiating unt therapeutic until therapeutic
+Then monitor monthly, then q23mo treatment LFTs weekly mo, then Weebiy blood counts fo st mo,
+Nonitor thyroid function, creatinine monthly then q23mo due to _dueto risk ofagranulocytoss
+6mo riskof live dysfunction Watch for signs ofblood
+Watch fo signs oliver dyscrasias: fever, rash, sore
+throat, easy bruising
+Check plateletsand monitor
+levels toadjust dosage and
+confirmadherence
+Side Effects Gl: W/V, dirthea,stomachpain ‘Skin:rash consider discontinuing GI: liver dysfunction, WY, GIN, darthea, hepatic toxicty
+GU: polyuria, polydipsia, nephrogenic due toriskofSteven-Johnson diarrhea CHS: ataxia, dizziness, surred
+4iabetic insipidus, glomerulonephitis, syndrome whichis anemergency), CHS: ataxia, drowsiness, tremor, speech, drowsiness, confusion,
+renal failure, decreased glomerular slowdose titration toreducerisk sedation, cognitive blurring nystagmus, plopia
+filtrationrate Otherwise usuallywel tolerated —Other:hairloss, weight gain, Hematologic: transient leukopenia
+‘CNS: fine tremor, headache fatigue, : WY, darthea ‘thrombocytopenia, neuraltube (10%), rare agranulocytosis,
+lethargy ‘IS: ataxia dizziness diplopia, defectswhen used inpregnancy, _aplsticanemia
+Hematologic:revesible benign headache, somnolence polycystic ovariansyndrome Skin: rash (5% risk; consider
+leukocytosis Other: anxiety) discontinuing drughecause of risk
+Other: teratogenic Ebsten’sanomaly, of Stevens Johnson syndrome)
+hypothyroidism, weight gain, edema, Other: neural tube defects when
+worsening of psoriasis, bradycardia, used in pregnancy
+EC6 changes
+Interactions NSAIDs, thazides, ACEI, and ocr oce
+
+metronidazole decrease clearance, risk
+{or lithium toxicity
+

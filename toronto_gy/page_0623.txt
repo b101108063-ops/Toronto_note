@@ -1,0 +1,157 @@
+Gy29 Gynecology
+
+Complications
++ PID: low-grade salpingitis and adhesions resulting in tubal obstruction
+
+infertility
+
+ectopic pregnancy
+
+chronic pelvic pain
+
+Fitz-Hugh-Curtis syndrome (liver capsule inflammation)
+
+reactive arthritis (male predominance, HLA-B27 associated), conjunctivitis, urethritis
+perinatal infection: conjunctivitis, pneumonia
+
+GONORRHEA
+
+Etiology
++ Neisseria gonorrhoeae
++ symptoms and risk factors same as chlamydia
+
+Investigations
++ Gram stain shows Gram-negative intracellular diplococci
++ cervical, rectal, and throat culture (if clinically indicated)
+
+Treatment
++ single dose of ceftriaxone 250 mg IM plus azithromycin 1 g PO
+= if pregnant: above regimen or spectinomycin 2 g IM plus azithromycin 1 g PO (avoid quinolones)
+= also treat chlamydia, due to high rate of co-infection
++ treat partners
+= reportable disease
+= screening as with chlamydia
+
+HUMAN PAPILLOMAVIRUS
+
+Etiology
+* most common viral STI in Canada
+>200 subtypes, of which >30 are genital subtypes
+HPV types 6 and 11 are classically associated with anogenital warts/condylomata acuminata
+HPV types 16 and 18 are the most oncogenic (classically associated with cervical HSIL)
+types 16, 18, 31, 33, 35, 36, 45 (and others) associated with increased incidence of cervical and vulvar
+intraepithelial hyperplasia and carcinoma
+= HPV is readily transmissible between opposite and same-sex partners through receptive and
+penetrative vaginal, anal and oral sex, and non-penetrative sex (digital-vaginal sex and skin-to-skin
+contact)
+= infection with one HPV type does not appear to provide protection against infection with related HPV types
+
+Clinical Features
++ latent infection
+«= no visible lesions, asymptomatic
+= only detected by DNA hybridization tests
++ subclinical infection
+« visible lesion found during colposcopy or on Pap test
++ dinical infection
+= visible wart-like lesion without magnification (check pharynx too)
+= hyperkeratotic, verrucous or flat, macular lesions
+= vulvar edema
+
+Investigations
++ cervical cytology by Pap test
+= koilocytosis: nuclear enlargement and atypia with perinuclear halo
+«+ biopsy of lesions at colposcopy
++ detection of HPV DNA subtype using nucleic acid probes (not routinely done but can be done in presence of
+abnormal Pap test to guide treatment)
+
+Treatment
++ anogenital warts
+= patient administered
++ podofilox 0.5% solution or gel BID x 3 d in arrow (4d off) then repeat x 4wk
+ imiquimod (Aldara’) 5% cream 3x/wk nightly x 16 wk
++ sinecatechins 10% ointment 0.5 cm strand TID x up to 16 wk, daily dose < 250 mg (need not be
+washed off)
+= provider administered
++ cryotherapy with liquid nitrogen: repeat ql-2 wk
++ podophyllin resin in tincture of benzoin: weekly
+* trichloroacetic acid (TCA) (80-90%) or bichloroacetic acid weekly x 4-6 wk; safe in pregnancy
+* surgical removal/laser
++ intraepithelial lesions and cancers (See Gynecological Oncology, GY42)
+
+Toronto Notes 2025
+
+Genital Warts During Pregnancy
+Condyloma tend to get larger in pregnancy
+and should be treated early (consider
+excision)
+
+Remove only if obstructing birth canal or
+tisk of extensive bleeding
+
+Do not use imiquimod, podophyllin, or
+podofilox in pregnancy
+
+Baby at risk for juvenile respiratory
+papillomatosis, but condyloma dissection
+does not significantly reduce the risk
+
+Ce)
+
+‘Human Rights in Health Equity: Cervical Cancer and
+HPV Vaccines
+
+AJL Med 2009;35:365-387
+
+‘While cervical cancer rates have drastically fallen in
+developed counties duetoetective prevention and
+treatment, social disadvantaged women within these
+counties emain disproportionate more itl to
+develop and dieof cervical cancer
+
+Jnmast developing counties cervical cancerateshave
+‘sen orremaned unchanged.
+
+must recognized that cervical cance disparities
+between ace gious, urban and ral residence and
+high and low socineconomicstatsare attributed to
+disparate screnin and voccnation coverage.
+Programs areinplemented without sufcint attention
+toconditon that ender sreninglesseffective or
+inacessble to disadvantaged socal groups inching:
+Jac ofinfomation, un devaluing of preventive cae,
+opportunistic delivery in mtd heathare settings,
+sexual heath tigma, and related privacy concerns.
+
+ASWValent HPV Vaccine Against Infection and
+Intraepithelal Ne oplasiain Women
+
+Ne 2015 372711723
+
+Purpose: To determine the efcacyand immunogenicity
+lth GHP (types 6,116, 1). vHPY ve
+addtional types 31,3, 45, 52,58) vaccines.
+
+Method: International randomize, double-blinded
+phase 28-3 study of HPV vaccine in 4215 women
+between ages 626. Partipantswererandomized
+tothe SPV vaccine grupo the gHPY vaccine group
+and eachreceved a series of three IM injection (4
+412m, and 6 mo), Swabs of labia, ular, perineal,
+perianal endocervical, and ectocervic
+‘tained and sed for HPVONAtestngPap sme
+Results Rate of high-grade cervical, ua
+disease was 14.0 pe 1000 person yin both vacine
+ups. The rate of high grade ceria, vulvar, or
+‘vagina disease related to HPV, 33, 45,52, and 8
+was 0.1 per 1000 person yn the HP group and 1.6
+‘per 1000 person-yrin the qHPV group (95% C1=80.9-
+$8.8) Antivody responses to HPI-6, 1,16, and 18 were
+nosgntcant diferent between the vo vaccine
+groups although adverse events elated tonjection
+sites were more common nthe 9vHPY group.
+Conclusions: The PY vaccine was no-nerior
+togHPV vccine in preventing infection and disease
+related to HPI-6, 1,16, nd 1Band also covered
+addtional oncogenic types HPV.3, 33,45, 52, and 8
+ina susceptible population
+

@@ -1,0 +1,103 @@
+ORI8 Orthopedic Surgery
+
+Classification
+
++ Neer classification is based on 4 fracture locations or ‘parts’
+
+displaced: displacement >1 cm and/or angulation >45°
+
+the Neer system regards the number of displaced fractures, not the fracture line, in determining
+classification
+
++ dislocated/subluxed humeral head from glenoid
+
+Treatment
++ assess for and treat osteoporosis if needed
++ non-operative
+= nondisplaced and minimally displaced (85% of patients): broad arm sling immobilization, begin ROM
+within 14 d to prevent stiffness
+= most displaced fractures in low-demand elderly patients
++ operative
+= ORIF (anatomic neck fractures, displaced, associated irreducible glenohumeral joint dislocation) or IM
+nail (surgical neck)
+hemiarthroplasty or reverse TSA may be necessary, especially in elderly
+minimally invasive percutaneous pinning and intramedullary nail fixation are indicated in rare
+instances
+
+Specific Complications (see General Fracture Complications, OR7)
++ AVN, nerve palsy (45%; typically axillary nerve), malunion, post-traumatic arthritis, persistent pain and
+weakness, frozen shoulder
+
+Humeral Shaft Fracture
+
+Mechanism
++ young: high energy trauma (direct blows/MVC)
++ elderly: FOOSH, twisting injuries, metastases
+
++ pain, swelling, weakness + shortening, motion/crepitus at fracture site
++ must test radial nerve function before and after treatment: look for drop wrist, sensory impairment in
+dorsum of hand
+
+Investigations
++ xray: AP and lateral views of the humerus, including the shoulder and elbow joints
+
+Treatment
++ in general, humeral shaft fractures are treated non-operatively
++ non-operative
+= + reduction; can accept deformity due to compensatory ROM of shoulder
+«= hanging cast (weight of arm in cast provides traction across fracture site) with collar and cuffsling
+immobilization until swelling subsides, then Sarmiento functional brace, followed by ROM
+* operative
+indications: see NO CAST sidebar, OR6, pathological fracture, “floating elbow” (simultaneous unstable
+humeral and forearm fractures)
+= ORIF: plating (most common), IM rod insertion, external fixation (rare)
+
+Specific Complications (see General Fracture Complications, OR7)
++ failure of functional bracing (seen in up to 30% of patients)
+
++ radial nerve palsy (commonly associated with Holstein-Lewis distal 1/3 humerus #): expect spontaneous
+recovery in 3-4 mo, otherwise send for EMG
+
+non-union: most frequently seen in middle 1/3
+
+decreased ROM
+
++ compartment syndrome
+
+Distal Humeral Fracture
+
+Mechanism
++ young: high energy trauma (MVC)
++ elderly: lower energy falls in patients with osteoporotic bone
+
+Clinical Features
++ elbow pain and swelling
++ assess brachial artery (ecchymosis over anteromedial forearm is suggestive of brachial artery injury)
+
+Toronto Notes 2025
+
+Greater tuberosity
+
+Figure 15. Fractures of the proximal
+humerus
+
+Acceptable Humeral Shaft Deformities for
+Non Operative Treatment
+
+<20° anterior angulation
+
+30° varus angulation
+
+<3.cmof shortening
+
+Risk of radial nerve and brachial artery
+injury
+
+The anterior humeral ine refers to an
+imaginary ine drawn along the anterior
+surface of the humeral cortex that passes
+through the middle third of the capitellum
+when extended inferiorly. n subtle
+supracondylar fractures, the anterior
+humeral line is distupted, typically passing
+through the anterior third of the capitellum.

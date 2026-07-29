@@ -1,0 +1,100 @@
+A26 Anesthesia
+
+Table 15. Commonly Used Analgesics
+
+‘Acetaminophen NSAIDs Opioids
+Side Effects! Considered relatively safe Gastric uceration/bleeding Respiratory depression
+Toxicity Liver toxicity in elevated doses Decreased renal perfusion Constipation and abdominal pain
+Photosensitivty Urinary retention
+Premature closureof the ductus Sedation
+arteriosus in pregnancy Ww
+Pruitus
+Confusion (particularly inthe elderly)
+Dependence
+Table 16. Opioids
+Agent RelativeDose Moderate Dose Onset Duration Special Considerations
+toMorphine 10
+mglV
+Codeine 100mglV %5-30mgPO Late Moderate Primarily postoperative use, notfor Vuse
+200mg PO (30-60 min) (i) Not ideal, as analgesic eect dependson highly
+vatiableCYP206 metabotsm
+Meperidine Demerol”) TmgWv 23 mg/kg Moderate Moderate _Articholinergic, hallucinations lesspupilary
+(10 min) a4 Censtitionthan morphine, metabolite buildup may
+cause seimres
+Decreased usefor pain management dueto potential
+toxicity comparedto other opioids. Typically
+reserved to treat postoperative shivering, Absolute
+contraindication in patients taking MAO inhibitors
+Morphine Wg 02-0.3mg/kgNV Moderate Moderate _Histaminerelease leading to decrease in BP
+30mgP0 04-0.6mg/kg PO (5-10min) 5H
+Morphine Extended Release 20™mgP0 520mg PO late Long Do notsplit, crs, or chew tablet
+(e.gM-Eslon®, MS Contin®)
+Oxycodone Controlled Release 20mgP0 10-20mgP0 ——_Late(30-45 min) Long(@-12h) _Domotspit, crush, or chew tablet (but can be dificult
+(Oxyneo") (oo!) to swallow)
+Oxycodone Regular Tablet 20mgPO(nolV) 5-15 mg PO Moderate Moderate Percocet® = oxycodone S mg + acetaminophen 325 mg
+(OxyiR®) (5min) 6-64)
+Hydromorphone Dilaudid”) 1.5-2.0mgNV —40-60yg/hg IV Moderate Moderate Less pruritus, NN, andsedation compared tomorphine
+6-81gPO 24 mgP0 (min) 54)
+Hydromorphone Extended 40-6,0mgP0 312mg PO Late (30-45 min) Long Do notsplit, crush or chew tablet
+Release
+(e.g. Hydromorph Contin)
+Fentanyl 00yg 23ygikgV Rapid Short Transient muscle rigidity invery highdoses
+(<Smin) (05-1h)
+Remifentanil 00yg 05-45 ygikglV — Rapid(1-3min) —_Uttrashort Only use during inductionand maintenance of
+(0 min) anesthesia
+Methadone (opioid agonist) Morphineto -—15-40mgidin——Rapid( min) ——15-90h@4h Can onlybeprescrbed by federliprovincally,
+methadone divided doses average) licensed physicians and nurse practitioners
+conversions ‘cts throughboth NMDAandy-opioid receptors
+vatiablebased Challenging dueto variable equianalgesc dose and
+‘onpatient’s halflife
+morphine dose. ‘ter tivation, accumulates in tissue or onceitwice
+Rangesfrom 1/4 daly dosing
+0120 Metabotized by CYP3A4
+Caution with high doses, may cause OT prolongation,
+baseline ECG required
+Buprenorphine (opioid agonist Varies depending Film: 2mgupto Moderateo-6-8h For moderateto severe chronic pain and opioid
+antagonist) onroute of maxof24mg severe (30 min) addi
+‘administration Ceiling effectfor respiratory depression butnot
+(lfm, analg
+transdermal) High afinity to y-opoidrecepors, very resistant to
+
+reversalwith opioid antagonists
+
+In general, parenteral routes 23x morepotent than oral
+
+ient Controlled Analgesia
+
++ use of computerized pumps to deliver a constant infusion and bolus breakthrough doses of parenterally-
+
+administered opioid analgesics
+«+ limited by lockout intervals
+
++ most commonly used agents: morphine and hydromorphone
++ see Table 17, A27 for suggested infusion rate, PCA dose, and lockout intervals
+
+‘Toronto Notes 2025
+Opioid Conversion
+
+Parenteral Equivalent
+
+(M) Oral Dose
+
+Morphine 10mg 30mg
+Hydromorphone —_2mg 4g
+Codeine 120mg 200mg
+Oxycodone NA 20mg
+Fentanyl 100 1g NA
+PCAParameters
+Loading dose
+Bolus dose
+Lockout interval
+Continuous infusion (optional)
+‘Maximum 4h dose (limit)
+Advantages of PCA
+Improved patient satisfaction
+Fewer side effects
+
+Accommodates patient variability
+
+Accommodates changes in opioid
+requirements

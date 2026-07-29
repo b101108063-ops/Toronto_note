@@ -1,0 +1,102 @@
+vsi2 ‘Vascular Surgery Toronto Notes 2025
+
+= inside the lymphatic vessel lumen:
+¢ infection (filariasis- roundworm parasitic infection; leading cause worldwide), cellulitis,
+lymphadenitis, tuberculosis)
+
+inical Features
++ classically non-pitting edema and hyperkeratotic cutaneous/subcutaneous changes with progressive disease
++ impaired limb mobility, discomfort/pain, psychological distress
+* positive Stemmer sign (sensitive): examiner unable to lift skin of thickened skin fold at the base of second
+toe or finger
++ lipodermatosclerosis
++ ulcerations
+
+Investigations
++ lymphoscintigraphy: most definitive test
++ secondary causes of lymphedema must be evaluated and treated appropriately if found
+
+Treatment
+
+* conservative measures: avoid limb injury, treat skin infections early, skin hygiene, limb elevation, avoid
+prolonged sitting/standing/crossing legs
+
++ external support: intensive (compression bandages) vs. maintenance (compression garments)
+
++ exercise: gentle daily exercise of affected limb, gradually increasing range of motion (must wear
+compression garment while exercising)
+
+* massage: manual lymph drainage therapy
+
++ surgical: physiological (early disease: increase lymphatic drainage) lymphovenous bypass vs. reductive
+(advanced disease: remove fibroadipose deposits)
+
+rk Vascular Surgery Trials
+
+TialName Reference Clinical Trial Detaits
+
+ARTERIAL DISEASE
+
+BASIL WascSurg 2010545 Tile Bypassvs. Angioplasty inSevere Ischemia ofthe Leg BASIL Trial: An Intention to-Treat Analysis of Amputation-Free andOverall Survival
+Supl:55-175, inPatients Randomized toa Bypass Surgery (BSX)Firstor a Balloon Angioplasty (BAP}-First Revascuarization Strategy
+
+Purpose: Determine the optima frst line revascularization surgery between bypass surgery and balloon angioplasty in severe leg ischemia,
+
+Methods: 452 enrolled patents in 27 United Kingdom hospitals, half wererandomised to BSX rst and half to BAP-irst. Al patients were monitored for 3yr andmorethan half
+were monitored for>5 yr.
+
+Results: AFS (Amputation Free Survival) and (Overall Survival) didnot differ between treatments duringfolow-up. BSK-rst patients who survived 2 yr post randomization had
+‘reduced hazard ratio for subsequent AFS of 0.85% (0.5 01.07; P=0.108) and for subsequent OS of 0.67% (95%CI, 0.50 t00.75;P=0.009) in an adjusted time-dependent Cox
+proportional hazards model.
+
+Conclusions: No significant difference in amputation-free survival and overall survival between severe limb ischemia patients treated with bypass surgery andthose treated with
+
+balloon angioplasty.
+BASIL-2 The Lancet2023;401:1798- Title: Avein bypass fist versus best endovascular treatment istrevascularsation strategy for patients with chronic lin threatening ischaemia who required an infra-poplitea,
+1809 with or without an additional more proximal infra-inguinal revascularisation procedure to restore limb perfusion (BASIL-2): an open-label, randomised, multicentre, phase 3 trial
+
+Purpose: To compare the effectiveness ofa vein bypass fist witha best endovascular treatment firstrevascularization strategy in terms of preventing major amputation anddeath
+in patients with chronic limb threatening schemia who required an infre-popitesl, with or without an additional more proximal infra-inguinal revascularzation procedureto
+restore limb perfusion.
+
+Methods: Between July 22,2014, and Nov 30, 2020, 345 participants with chronic limb-threaenit
+vein bypass group and173 50%) tothe best endovascular treatment group.
+
+Results: Maor amputation or death occured in 108 (63%) of 172 patients in the vein bypass group and 92 (53%) of 173 patients inthe best endovascular treatment group
+
+(adjusted hazardratio[HR] 135 95% CI1-02-1-80];p0-037). In both groupsthe most common causes of morbidity and death including that occuring within 30 days of their fist
+revascularization, were cardiovascular (61 deaths inthe vein bypass group and 49 in the best endovascular treatment group) and respiratory events (25 deaths inthe vein bypass
+‘group and 23 in the best endovascular treatment group; number of cardiovascular and respiratory deaths were not mutually exdusive).
+
+Conclusions: Abest endovascular treatment fst revasculaization strategy was associated with a better amputation fre survival, which was largely driven by fewer deaths inthe
+best endovascular treatment group.
+
+VOYAGER NEJM 2020;382:1994-2004 Title: Rivaroxaban in Peripheral Artery Disease after Revascul
+Purpose: To investigate the eficacy and safety of rivaroxaban for patients with PAD who have undergone lower extremity revasculaization.
+Methods: Patients with PAD who had undergone evascularization were randomized to receive rvaroxaban plus Aspirin® or placebo plus Asprin®, The primary efficacy outcome
+‘was acombination of acute limb ischemia, major amputation, myocardial infarction, ischemic stroke, or death The primary safety outcome was major bleeding
+Results: The 3-yr incidence ofthe primary efficacy outcome was 17.3% and19.9% (hazard ratio, 0.85, 95% Cl, 0.76 to 0.96; P=0.009) intherivaraxaban and the placebo group,
+respectively. The primary safety outcome occured in 2.65% and 1.87% (hazard ratio, 1.43; 95% Cl 0.97o2.10;P-0.07) ofthe rvaroxaban andthe placebo group, respectively.
+‘Conclusions: In patients with PAD there was significantly lower mortality and morbidity inpatients treated with ASA and rivaroxaban than those treated with ASA alone
+
+fe: Surgical or Endovascular Therapy for Chronic Limb-Threatening Ischemia
+
+Purpose: To investigate outcomes forsurgical vascularization versus endovascular therapy as inital therapy for CLT
+
+Methods: Patients with infrainguinal PAD and CLTI were categorized aswith (cohort 1) or without (cohort 2) presence ofa saphenous vein suitable as a bypass conduit and
+randomized to surgical revascularization or endovascular therapy withineach cohort. The primary outcome was allcause mortality ora composite of major adverse limb events
+{above-ankle amputation and major limbreinterventions)
+
+Results: For cohort1, the primary outcome occurred for 42.6% and 57 4%sin surgical revascuarization and endovascular therapy groups, respectively (hazard rato, 0.68; 95% Cl,
+10.59-0.79; P<0,0001) For cohort 2, the primary outcome occured for 42 8% and47, Tin sugicalrevascularizationand endovascular therapy groups, respectively (hazard ratio,
+(0.79; 95%6CI,0.58-.06;P=0.2).
+
+‘Conclusions: In CII patients with high-quality aphenousvein sutableas a bypass conduit, the incidence of mortality and limb-related morbidity was lower fr surgical
+revascularization compared with endovascular therapy In CLT patients without a high-quality saphenous vein, outcomes were similar.
+
+“For updated guidelines se the Society for Vascular Sugery’s Clinical Practice Guitetines
+
+ischemia were enrlled inthe trial and randomly assigned: 172 (50') to the
+
+BEST-CLI NEJM 2022;387:2305-2316
+

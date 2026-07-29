@@ -1,0 +1,152 @@
+GMI Geriatric Medicine
+
+Toronto Notes 2025
+
+mark Geriatric Medicine Trials
+
+Trial Mame Reference
+
+(Clinical Trial Details
+
+FRAILTY
+
+GaitSpeed and Survival inOlder Aduts, JAMA 2011;305:50-58
+‘Studensk et al. 2011
+
+Fraityin OMer Adults: Evidence fora
+Phenotype, Fried et al. 2001
+
+Gerontol A Biol Sci Med Sci
+2001;56(3}: 6-56
+
+REHABAF NEJM 2021;385:203-216
+
+Title: Git Speed andSurvval in Oder Adults
+Purpose: Evaluatethe relationship between gait speed and survival.
+
+Methods: Pooled analysis of 9 cohortstudies of adults >65 yr with baseline gait speed data followed for 6-21yr. The main outcomes were
+survival and life expectancy.
+
+Results: The overall 5-yrsurvivalwas 84.8% and 10-1 survival was59.7%. Gait speed was associated with survival in all studies (pooled hazard
+ratio per 0.1m/s, 0,88; 95% Cl0.87 00.90; 0,001). Survival increased across the range of ait speeds with signfcantincrements at 0 ms.
+Conclusions: Gait speed was associatedwith 10r survival in al studies, with considerable variability in predicted 10-yr survival across the
+range ot gait speeds, at 75 yr
+
+Title: Fraltyin Older Adu: Evidencetora Phenotype
+
+Purpose: Develop phenotype of frailty as clinical syndrome.
+
+Methods: Baseline and annual folow-up for outcomes of indent disease, hospitalization, falls, disability, and mortality nan original cohort
+‘0f 4735 partcipantsand laterrecruted cohort of582 African American participants Al participant data from the prospective observational
+Cardiovascular Heath Study.
+
+Results: Failty may be defined asthe presenceof three or more of: unintentional weight loss (101bs inpastyr),self-teported exhaustion,
+‘weakness (grip strength), slow walking speed, low physical activity Fraltis associated with inreasedriskot comorbidity and disability.
+Conclusions: Fraity in community-dweling older adults may be defined as above. While comorbidity is a risk factor fr frailty and dsabilty is an
+‘outcome of fray rity itself does not equal comorbid or disability. Assessment for frailty is vital in dentiying patientsat increased isk for
+‘comorbidity and dsabilty
+
+Title: Physical Rehabilitation for Older Patients Hospitalized for HeartFllure
+Purpose: Investigate interventions to addres physical alt inolderpatientshospitalized for acute decompensated heart faire
+Methods: Muticenter, randomized, controlled trial to evaluate transitional, tallored, progressive rehabiltation intervention, including four
+physical function domains inated during or soon ater heart failure hospitalization and continued post-discharge for 36 sessions. Primary
+‘utcomewas Short Physical Performance Battery score, and secondary outcome was 6 mo rehospitazation rate
+
+Results: At 3 mo, the Short Physical Performance Battery score was higher inthe intervention group. At 6 mo, rehospitlization rates were
+modesty lower inthe intervention group. There were 2 deathsintheinteventiongroupand16in the contral group.
+
+Conclusions: Older adits hospitalized for acute decompensated hear failure produce improved dnical outcomeswhen treated
+
+with this rehabilitation intervention program.
+
+DELIRIUM
+
+Delirium isa Strong isk Factor for Brain 2012135(9):2809-16
+Dementia in the Oldest-Old:A Population-
+
+Based Cohort Study, Davis et al. 2012
+
+AMuticomponent intervention o Prevent NEJM 1999;340:669.676
+Delirium in Hospitalized Ober Patients,
+Inowye etal. 1999
+
+Title: Detriumis Strong Rsk Factor for Dementiain the Oldest Old: A Population-Based Cohort Study
+Purpose: Use a true population sample to determinef delirium isan incident risk actor for incident dementioandcognitive deine.
+Methods:553 individualsaged>85 yr were used toassess associations betweendeliium and incident demeatia, aswell asdectne inMMSE
+scores. The relationship between dementia and commen neuopathologial makers was modelled and stated
+
+Results: Delirium increased te rskofincident dementia (ORT; 95% 01 21t035), worsened dementia severity (OR 3.195% C115 to 6.3) and
+‘eteriorationi global function score (OR 28; 95%C14to 5.5). Delirium was associated witha lossof 1.0 more MMSE points per yr (95%C1 0.11
+10189) than those wih no history of delirium.
+
+Conclusions: Detriumis a strong sk factor for incident dementia and cognitive decline in elderly patients
+
+Title: AMulticomponent Interventionto Prevent Delirium inHosptalized Older Patients
+Purpose: Evaluate the effectiveness of a multicomponent strategy for delirium prevention among older inpatients.
+
+Methods:A totalof 852inpatients 270 yr were induded inthe study. In lief randomization, prospective individual matching was used to
+‘compare patients admitted toan intervention unit vs. one of two usual careunits. Inthe intervention unit, the multicomponent approach sought to
+address cognitive impairment, sleep deprivation, immobility, visual impairment, hearing impairment, and dehydration.
+
+Results: Delirium developed in 9.9% of patient inthe intervention un, vs. 15% the usual care unit95% C10.39 to 0.92) Total number of days
+with delrium 105 dvs. 161, P-0.02) and total numberof delirium episodes (62 vs. 90,P=0.03) wer both lower in the intervention nit
+Conclusions: A multicomponent intervention model aimed at addressing risk factors for delirium in hospitalized older adultsis effectiveat
+reducing delirium incidence and delirium dur
+
+FALLS
+
+PROFET Lancet 1999;353:93-97
+
+Title: Prevention of Fall inthe Elderly Trial Profe) ARandomisedContrlled Trial
+
+Purpose: Assess the benefit of a structuredinter disciplinary assessment of people who have fallen
+
+Methods: Patients>65 yr presenting to ED with a fall were randomized tothe intervention group (detailed medical andOT-therapy assessment
+with referralif indicated) orto acontrol group (usual cae ony)
+
+Results: The risk of falling was significantly lower inthe intervention group compared tothe control group (OR 0.39; 95% C1 0.23 00.66) as was
+‘the risk of fall ecurrence (OR 0.33;95% C10.16 to 0.68)
+
+Conclusions: Demonstrates thataninterdisciplinary approach to elderly adults wih aprevioushistor of fallscan significantly decreasethe risk
+of further falls and imi functional impairment.
+
+NEUROCOGNITIVE DISORDERS
+
+Donepezil and Memantine for NEJM 2012;366:893-903
+Moderate-to-
+Severe Alzheimer's Disease, Howard
+
+etal. 2012
+
+SMARRT JAMA Intern Med. 2024;184(1):54-62.
+
+Title: Doneperil and Memantine for Moderate-to-Severe Alzheimer’s Disease
+
+Purpose: Assess the benefits of cholinesterase inhibitors fo the long-term treatment of moderate-severe Alzheimer’s disease.
+
+Methods: 295 community-dwelling patents with moderate-severe Alzheimer's disease treatedwith donepezil were randomized to either
+‘continue donepezil discontinue donepezil andstart memantine, or continue donepezil and start memantine. The primary outcomes were SMMSE
+ies of Daily Living (BADLS) scores.
+
+Results: Patients assignedto continue donepezil, compared to those who discontinued, hada 1.9 higher average Standardized Mini Mental State
+Examination SMMSE) score (25% CI1.3to 25). Te score onthe BADLS was lower (ess impairment) by 3.0 points (95% Cl 1.8 to 4.3)(P-0.001
+{for both comparisons). Patients who receivedmemantine, comparedwith placebo, had a1.2 higher average SMMSE score (95% CI0.6to 1.8, P
+0,001) andBADLS score that was 1.5 points lower (95% C10.3to 2.8; P-0.02)
+
+Conclusions: Continued treatment with donepezi was associated with cognitive benefits over the course of 12 mo in patients with moderate or
+severe Alzheimer’s disease.
+
+Title: Effect of Personalized Risk Reduction Strategies on Cognitionand Dementia Risk Profle Among Older Adults: The SMARRT Randomized
+Cinical Trial.
+
+Purpose: Toassess whether a personalized, multidomain isk reduction intervention improves the cognition and dementia risk profile among
+‘older adults.
+
+Methods: Randomized control trial witha 2-year personalized, risk-eduction intervention. 172 aduts at elevated risk for dementia (age 70-89
+years) were randomized tothe intervention group or ahealth education control
+
+Results: Randomization tothe personatzed, multidomain intervention group was associated with modest mprovementsin cognitive scores,
+‘dementia riskfactors, and quality oflife.
+
+Conclusions: Modifiable isk reduction strategies shouldbe targeted for adults atriskof dementia,
+

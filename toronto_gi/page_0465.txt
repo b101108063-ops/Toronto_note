@@ -1,0 +1,66 @@
+G31 Gastroenterology
+
++ initial examination of choice is colonoscopy to determine source of the bleeding
+
+«+ if bleeding is severe or ongoing, consider radionuclide imaging or angiography (see Medical Imaging, MI16)
+
++ treat underlying cause
+= majority of cases will stop bleeding spontaneously
+
+1. Assess hemodynamic stability
+2. Resuscitate (IV fuids + blood transfusion)
+3. Assess coagulation status (CBC, INR/PTT)
+
+4. Determine site of bleeding
+1
+Figure 11. Approach to hematochezia
+
+Diverticular Bleeding
+
+Etiology
+
++ herniation of diverticula exposes vasa recta, increasing susceptibility to disruption
+
++ bleeding most common from the right colon (thinner walled), although diverticula often develop
+throughout colon
+
+Clinical Features
+
++ painless hematochezia, acute onset
+
++ stool can range from bright red to dark maroon; gelatinous clots often mixed in
++ 80% of diverticular bleeding resolves spontaneously without intervention
+
+Management
++ if colonoscopy identifies source (rare), hemostatic therapy can be applied
++ if ongoing, can consider embolization or surgery
+
+Infectious Col
+
+Etiology
++ variety of pathogens; often due to Campylobacter, Entamoeba histolytica, Salmonella, E. coli, Shigella
+
++ consider travel history, food exposures
+
+Clinical Features
++ bloody diarrhea, fever, abdominal pain
+
+Management
++ stool cultures to determine pathogen and guide management
+* see Acute Diarrhea, G15
+
+Colorectal Carcinoma
+
+«see General Surgery and Thoracic Surgery, GS43
+Colorectal Polyps
+
++ see General Surgery and Thoracic Surgery, GS41
+Familial Colon Cancer Syndromes
+
+«see General Surgery and Thoracic Surgery, GS42
+
+Toronto Notes 2025
+
+Always exclude upper Gl lesion before
+localizing the site of the bleeding to the
+lower Gl tract

@@ -1,0 +1,77 @@
+Toronto Notes 2025
+
+Asymptomatic Hypertension
+
++ elevated BP (sBP >180, dPB >120), but no evidence of end organ injury
+
++ search carefully for end organ injury; measure BP properly (measure in a quiet room and bilaterally)
++ Encourage follow up with primary care team
+
++ no proven benefit from rapid reduction of blood pressure (rapid reduction can lead to MI, AKI, and/or CVA)
+
+Table 21. Commonly Used Agents for the Treatment of Hypertensive Crisis
+
+Drug Dosage Onsetof of Adverse Effects” Special indications
+Action Action
+‘VASODILATORS:
+Sodium 0.25-10 pg/kg/min Immediate = 3-5 min NIV, muscle twitching, sweating, Use in combination with §-blockers (e.9.
+Nitroprusside ‘cyanide intoxication, coronary steal esmolol) in aortic dissection
+{vascular smooth syndrome Caution with high ICP and azotemia
+‘muscle dilator)
+Nicardipine Smghh IW, then — 15-30min 40min Tachycardia, headache, flushing, local Most hypertensive emergencies (note: IV form
+{calcium channel increase by2.5 phlebitis (e.g. encephalopathy, renal not available in Canada; oral formdoes nothave
+blocker) mg/h q5-10 min failure, edampsia, sympathetic crisis) _areliable response for acute settings)
+{max 15 mg/h) Caution withacute CHF
+Nitroglycerin. 5-20 pgimin W ‘min 35 min Hypotension, bradycardia, headache, MI, pulmonary edema
+lightheadedness, dizziness
+Hydralazine 5-10mgIWIMq20  5-20min 26h Dizziness, drowsiness, headache, Eclampsia
+min (max 20mg)
+ADRENERGIC INHIBITORS
+Labetalol 20mg bolus 5-10 min 36h Vomiting, scalptingling, burning in Usually first choice
+10 min or 0.5-2 ‘throat, dizziness, nausea, heart block, Most hypertensive emergencies (especially
+mgimin orthostatic hypotension eclampsia)
+‘Avoid in acute CHF, heart block>Ist degree
+Esmolol 250-500 jig/kg! ‘Wmin 10-20 min Hypotension, nausea, bronchospasm Aortic dissection, acute MI supraventricular
+‘mint min, then50 tachycardia (SVT) dysthythmias, perioperative
+igikg/min for 4 HIN
+‘min; repeat ‘Avoid in acute CHF, heart block>tst degree
+Phentolamine 5.15 mg q5-15 min 12min 340min Tachycardia, headache, flushing Catecholamine excess (e.g.
+pheochromocytoma, unopposed a- e.g.
+cocaine)
+“Hypotension may occur when using any of these agents
+Acute Coronary Syndrome
+
+see Cardiology and Cardiac Surgery, C36
+definition: new onset of chest pain, or acute worsening of previous chest pain, or chest pain at rest with:
+= negative cardiac biomarkers and no ECG changes = unstable angina (UA)
+= positive cardiac biomarkers (elevated troponin), NSTEMI on ECG, + other changes (NSTEMI)
+= positive cardiac biomarkers (elevated troponin) and STEMI on ECG
+occlusion myocardial infarction: new paradigm, supports ECG findings suggesting acute coronary artery
+occlusion without a ST elevation on ECG; examples include Wellens Syndrome, De Winter T waves and
+hyperacute T waves
+investigations
+= ECG STAT (as soon as history suggests possible ACS), serial troponins (2-6 h after symptom onset),
+CXR (to rule out other causes of the patient’s presentation)
+= serial ECGs improve sensitivity; consider in patients who have pain highlight suggestive of ACS
+management
+= stabilize: ABCs, oxygen, IV access, cardiac monitors, oximetry
+= ASA 162-325 mg chewed and swallowed
+= consider nitroglycerin 0.3 mg SL q5 min x 3; IV only if persistent pain, CHE, or hypertensive
+contraindications: hypotension, phosphodiesterase inhibitor use (e.g. sildenafil), right ventricular
+infarctions (1/3 of all inferior Mls, as these MIs are preload-dependent)
++ symptom relief only, no mortality benefit
+= anticoagulation: choice of anticoagulation (unfractionated heparin, LMWH, or fondaparinux) and
+additional antiplatelet therapy (clopidogrel, ticagrelor, or prasugrel) depends on STEMI vs. NSTEMI
+and reperfusion strategy
+= early cardiology consult for reperfusion therapy
+UA/NSTEMI: early coronary angiography recommended if high thrombolysis in MI (TIMI) risk score
+STEMI: primary percutaneous coronary intervention (PCI) (within 90 min) preferred; thrombolytics if PCI
+unavailable within 120 min of medical contact, symptoms <12 h and no contraindications
+
+Emergency Medicine ER37
+
+With CNS manifestations of severe HTN,
+itis often diffcultto differentiate causal
+relationships (ie. HTN could be secondary
+to acerebral event with an associated
+Cushing reflex)

@@ -1,0 +1,141 @@
+NSI5 ‘Neurosurgery
+
+Metastatic Tumours
+
+Brain Metastasis
+
++ most common intracranial tumour in adults (~50% of all brain tumours)
+
++ afflict ~25% of patients with any cancer
+
++ hematogenous spread most common
+
++ 80% are hemispheric, often at grey-white matter junction or temporal-parietal-occipital lobe junction
+= likely emboli spreading to terminal middle cerebral artery (MCA) branches
+
+Investigations
++ identify primary tumour
+«= full metastatic workup (CXR, CT chest/abdomen, abdominal U/S, nuclear medicine scan/PET,
+mammogram)
++ CT with contrast > round, well-circumscribed, often ring enhancing, ++ edema, often multiple
++ contrast-enhanced MRI more sensitive, especially for posterior fossa
++ consider biopsy/resection in unusual cases or if no primary tumour identified
+
+Treatment
++ medical
+phenytoin (or levetiracetam) for seizure prophylaxis if patient presents with seizure
+dexamethasone to reduce edema given with H2 blocker
+role of chemotherapy limited because of poor penetration across BBB
+targeted therapies are currently being investigated (e.g. EGFR (epidermal growth factor receptor)
+inhibitors in patients with EGFR-mutant lung cancer and brain metastases)
+= immunotherapy (currently under investigation)
++ radiation
+= SRS (highly focused fraction of radiation targeted to tumour): for discrete, deep-seated/inoperable
+tumours
+= multiple lesions: use WBRT (>10 lesions); consider SRS (<10 lesions)
+= postoperative adjuvant radiotherapy consideration: SRS to surgical cavity following resection
+emerging evidence supports avoidance of WBRT and use of focal radiation to spare cognitive functions
+(refer to Brown et al., 2016)
++ surgical
+= single/solitary lesions or dominant lesion with significant mass effect or symptoms: surgical resection
+and radiation in carefully selected patients
+= emerging: SRS prior to surgical resection (neoadjuvant XRT - through to reduce risk of local
+leptomeningeal dissemination during surgical resection)
+
+Prognosis
+
++ median survival without treatment once symptomatic is ~1 mo, with optimal treatment 6-9 mo; may be
+prolonged survival in some patient subgroups (e.g. HER2/neu breast cancer, EGFR-mutant lung cancer)
+the disease-specific Graded Prognostic Assessment (DS-GPA) is a useful prognostic index
+
+depending on primary tumour type, prognosis may depend on a combination of patient age, Karnofsky
+score, extent of extracranial metastatic disease, number of intracranial lesions, and molecular disease
+subtype
+
+Adult Diffuse Gliomas
+
++ most common primary intra-axial brain tumour, common in 4th-6th decades
+Table 11. WHO 2021 Diffuse Gliomas Classification
+
+Type WHO Grade” Typical CTMRI Findings ‘AteredMolecularProfiles Prognosis
+Oligodendroglioma 2,3 Low grade: areas ofcalafication Defining: DH-mutant Low grade:~10yr
+onCT, «enhancement
+Other: TERT promoter CIC, High grade:5 yr
+High grade:enhancement FUBP1, NOTCH
+Astrocytoma 2,34 Lowgrade:masseffect,no Defining: IH mutant and 1p/19q Low grade: 3 yr
+enhancement codeleted
+High grade:1.5-2yr
+High grade: complex Other: ATRX,TP53, COKN2AB
+enhancement
+Glioblastoma 4 Necrosis (ring enhancement) Defining: OH-widtype 15m
+
+Other: TERT promoter,
+chromosomes 710, EGFR
+
+“grade based on natural history
+
+Toronto Notes 2025
+
+Figure 11. Multiple brain metastases
+(see arrows)
+
+‘Most Common Cancers that Metastasize
+tothe CNS
+
+‘ite of Primary Frequency of CHS
+metastasis
+
+lung ws
+
+Breast 0%
+
+ney Rec) h%
+
+a %
+
+Nelanome %
+
+“*RCC-renlcellcarcinoma
+
+1. Heterogenous contrast enhancement
+2.lldefined borders (nfitrative)
+
+3. Peritumoural edema
+
+4. Central necrosis
+
+5. Compression of ventricles, midiine shift
+
+Figure 12. High-grade glioma on CT
+
+a
+
+SurgiclResectionys, Watchful Witingin Low.
+
+Grade Giomas
+
+Aan Oncol201;78:1942-1948
+
+Purpose: This study examined the effect of upfront
+
+iting for treatment of low. grade
+7
+
+Methods: The study was designed as a populaton-
+based parallel cohort study that compared outcomes
+froma hospital favouring watcha wating (66
+
+patients) and one favouring eal resection
+patients). Follow-up was between 7and 18 yt post-
+agnosis. The two groups were equivalent in terns of
+baseline parameters
+
+with ary surgical resection Patient from the centre
+favouring watchful waiting hada median survival of 5.8
+yr(95%C145-7.2) whereas patients fromthe centre
+favouring eary resection hada median survival of 144
+yr(95%C1 104185), The enhanced survival benefit
+remained after adjusting for molecular marker.
+Condusions: Early surgical resection oflow- grade
+jiomas i associated wit sigcant improved
+‘overall survival compared to watchful waiting

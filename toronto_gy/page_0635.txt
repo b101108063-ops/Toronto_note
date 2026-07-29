@@ -1,0 +1,60 @@
+GY41 Gynecology Toronto Notes 2025
+
++ studies
+= U/A: hematuria, pyuria, glucosuria, proteinuria
++ hematuria/irritative voiding symptoms: cytology
+* pyuria/bacteria: urine culture
+= post-void residual
+¢ normal: <1/3 total volume
+¢ abnormal: >1/3 total volume (poor bladder contractility or bladder outlet obstruction)
+= urodynamic testing
+
+Treatment
++ for conservative management, see Pelvic Organ Prolapse, GY39
++ procedures: vaginal laser, urethral bulking
++ surgical
+= midurethral sling (IVT, TOT)
+* urethropexy (Burch procedure)
+= pubovaginal sling
+* urethral bulking
+
+OVERACTIVE BLADDER
+
+Definition
++ symptom syndrome defined as “urgency, with or without urge urinary incontinence (UUI), usually with
+frequency and nocturia”
+«affects up to 22% of all patients
++ UUL: involuntary leakage with or immediately preceded by a strong desire to void
+= involuntary bladder contraction that overcomes the urethral sphincter mechanism OR
+* poor bladder compliance
+
+Etiology
+
+idiopathic: congenital and aging
+
+medical: CHF, DM, and diuretics
+
+neurogenic: multiple sclerosis, Parkinson’s, CVD, dementia, and spinal cord injury
+bladder outlet obstruction: previous bladder neck surgery and pelvic organ prolapse
+gynecologic: UTI, pregnancy, pelvic mass, and urethral diverticulum
+psychosomatic: habits, anxiety, and high fluid consumption
+
+Diagnosis
+* see Stress Incontinence, GY40 for diagnosis
+
+Treatment
++ behaviour modification (reduce bladder irritants (e.g. caffeine, smoking, alcohol, acidic, spicy); adequate
+water intake; regular voiding schedule)
+bladder training with pelvic physiotherapist
+medications
+= anticholinergics
+oxybutynin (oral: Ditropan’; patch: Oxytrol’; transdermal gel: Gelnique*)
+tolterodine (Detrol")
+fesoterodine (Toviaz’)
+solifenacin (Vesicare")
+trospium (Trosec*)
+darifenacin (Enablex")
+= -adrenergic agonist: mirabegron (Myrbetriq’)
+procedures: sacral neuromodulation, detrusor botox injection
+
+wee eee

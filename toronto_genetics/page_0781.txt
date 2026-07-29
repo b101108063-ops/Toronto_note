@@ -1,0 +1,125 @@
+MG3 Medical Genetics Toronto Notes 2025
+
+Triplet Repeat Expansions
++ disorders where the number of trinucleotide repeats in certain genes exceeds the normal number and
+results in altered gene expression or production of an abnormal protein
+«= these disorders can demonstrate genetic anticipation, where signs and symptoms are more severe and
+appear at an earlier age from one generation to the next due to expansion of the triplet repeat number
+« length of expansion segment is often proportional to severity of clinical phenotype
++ eg. Fragile X syndrome, Huntington disease
+
+Imprinting Disorders
+
++ imprinted genes are expressed entirely from either the maternal or paternal allele, depending on the gene
+
+(parent-of- origin gene expression)
+
+imprinting is determined by allele-specific epigenetic mechanisms (i.e. modifications to DNA other thana
+
+change in the underlying sequence, such as DNA methylation and/or histone modifications)
+
++ disorders occur when a pathogenic variant disrupts the normally expressed allele of an imprinted gene or
+through uniparental disomy of the normally silenced allele
+
++ eg, Prader-Willi syndrome, Angelman syndrome, Beckwith-Wiedemann syndrome
+
+Mitochondrial Disorders
+
+«+ disorders caused by pathogenic variants in mitochondrial DNA or in nuclear genes whose protein products
+are important for mitochondrial function
+
++ high phenotypic heterogeneity
+
+mitochondrial disorders caused by pathogenic variants in nuclear genes demonstrate Mendelian
+
+inheritance (e.g. Alpers syndrome caused by autosomal recessive pathogenic variants in POLG)
+
+disorders caused by pathogenic variants in mitochondrial DNA are maternally inherited by all offspring, as
+
+all mitochondria and associated mitochondrial DNA in the embryo come from the maternal ovum, vith no
+
+paternal contribution of mitochondria
+
++ eg. mitochondrial encephalomyopathy and lactic acidosis with stroke-like episodes (MELAS) syndrome
+
+Common Indications for Genetic Referrals
+
+preconception and prenatal: abnormal prenatal screening test, fetal anomaly, recurrent pregnancy loss,
+personal or family history of a genetic condition, positive carrier screening test, consanguinity
+
+pediatric: major and/or multiple minor congenital anomalies, developmental delay, intellectual disability,
+abnormal newborn screen, unusual growth pattern, abnormal pubertal development, connective tissue
+disorders, congenital hypo- or hypertonia
+
+adult: family history ofadult-onset genetic condition (e.g. Huntington disease), personal or family history
+of cancer concerning for genetic cause, bleeding or clotting disorder, early-onset vision or hearing loss,
+intellectual disability, leukodystrophies, muscular dystrophies, movement disorders (e.g. ataxia, dystonia,
+chorea), and metabolic diseases
+
+Pedigrees
+
+diagrams of a family tree that show the pattern/distribution of phenotypes for a genetic disorder within
+that family, often across multiple generations
+
+pedigrees generally indicate sex assigned at birth (ie., phenotypic sex), with or without genetic confirmation
+of sex chromosomes; when counseling gender- diverse patients (including transgender and non-binary
+patients), physicians should affirm the patient’s gender identity, while clarifying the role of sex assigned at
+birth or chromosomal sex in determining genetic features for the pedigree
+
+Male, unatffected LO MariedPartners | ZS Spontaneous abortion Meta-analysis ofthe Diagnostic and Clinical Utiityof
+; Genome andExone Sequencing and Chromosomal
+; “ae Termination of pregnancy Microarray in Chidren
+Female, unaffected KC) Divorced/Separated . Genomic Med 20183:15
+“a Ectopic pregnancy Parpese: To compore the diogestic and dinicalutdty
+a Ect of (W)6Sand (W)ESto tha of chromosomal microarray.
+ete KO) Consanguinity Methods: systematic review and meta-analysis of
+[ (e} Adopted sibling theliterature
+Results: 37 studies were included (20068 children).
+
+Infertility Diagnostic tity of N)6S (041, 95% C1 0.34-0.48)
+Siblings (listed from an WES (036, 955 1033-040 were greater than
+leftto right, oldest to dromesomalnicroaray (0.10, 95% €1008-012)
+younges) The cial tity of (65 (0.27, 85% Cl 0.17-0.40)
+and WES (0.17, $551 0.12.0.24 were higherthan
+
+Deceased
+
+IH
+
+Affected individual
+
+M@NCO
+
+SOGeR
+
+No offspring
+by choice
+
+: - ; bromosoma miroaray (0.06, 85% C10.05-007)
+Affected individual Dizygous twins ‘and this difference was significant for (6S vs.
+>2 conditions P e) Pregnancy (fraternal) tromosomal micoaray 0.000
+
+SB o O
+
+Condusion: The diagnostic and cinicalutityof ()
+(Sand W)ESisgreaterthan that of cromosomal
+Monozygous twins microarray.
+
+(identical)
+
+Cartier not likely to
+manifest disease
+
+Stillbirth (write SB
+and gestational age
+it known)
+
+Carrier unaffected at
+this time but could
+manifest disease later
+
+Proband
+
+Male Female
+
+Figure 1. Common pedigree symbols

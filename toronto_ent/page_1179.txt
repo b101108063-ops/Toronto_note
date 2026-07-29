@@ -1,0 +1,143 @@
+0735 Otolaryngology
+
+Lymphatic, Venous, or Mixed Venolymphatic Malformations
+
+Definition
++ lymphatic malformation arising from vestigial lymph channels of neck
+
+al Features
+
+commonly identified in many fetuses, but regress before birth and never cause a clinical problem
+usually present by age 2
+
+macrocystic: soft, painless compressible mass (lymphatic dilation) with skin discolouration
+microcystic: soft, noncompressible masses with mucosal or skin vesicles
+
+may have dysphagia, dyspnea, possible pain with acute infection
+
+infection or trauma causes a sudden increase in size
+
+Treatment
+
+* can regress spontaneously after bacterial infection, therefore do not plan surgical intervention until several
+mo after infection
+
+macrocystic lesions can be treated by surgical excision or sclerotherapy (doxycycline)
+
+microcystic lesions are difficult to treat, but can be debulked if it will not cause loss of function of normal
+structures, or injected with sclerotherapy (bleomycin) in surrounding tissues
+
+Neoplasms of the Head and Neck
+
+Pre-Malignant Disease
++ lichen planus
+= lacy white lines of oral mucosa + erythema
+= exact cause unknown, thought to be immune-mediated
+= treatment: topical corticosteroids (first-line), topical calcineurin inhibitors (second-line)
+= risk of malignant transformation 5-10%, follow-up every 6-12 mo
++ leukoplakia
+= white keratotic plaque/patch of oral mucosa that cannot be rubbed off
+= treatment: surgery, cryosurgery, laser ablation, retinoids
+= risk of malignant transformation 5-20%, follow-up every 3-12 mo
++ erythroplakia
+= red mucosal plaque adjacent to normal mucosa
+= commonly associated with epithelial dysplasia
+= associated with carcinoma in situ or invasive tumour in 40% of cases
+= treatment: similar to leukoplakia
++ dysplasia (a feature of pre-malignant lesions)
+= histopathologic presence of mitoses and prominent nucleoli
+= involvement of entire mucosal thickness = carcinoma in situ
+= associated progression to invasive cancer 15-30%
+
+Investigations
+
++ initial metastatic screen includes chest x-ray
+
+scans of liver, brain, and bone only if clinically indicated
+
+CT scan superior to MRI for the detection of pathologic nodal disease and bone cortex invasion
+MRI superior for discriminating tumour from mucus and detecting bone marrow invasion
+
++ PET scans
+
+endoscopy with biopsy
+
+Treatment
++ treatment depends on:
+
+= histologic grade and stage of tumour
+
+= physical and psychological health of patient
+
+= facilities available, expertise and experience of the medical and surgical oncology team
++ in general:
+
+= 1° surgery for malignant oral cavity tumours with radiotherapy reserved for salvage or poor prognostic
+indicators
+1° radiotherapy for nasopharynx, oropharynx, hypopharynx, and larynx malignancies with surgery
+reserved for salvage, although laser endoscopic surgery for early stage larynx cancer is an option and 1°
+surgery for advanced (T4) pharyngeal and laryngeal cancer is the standard of care
+there is a growing interesting in studying 1° surgery (transoral surgery) for OPC
+palliative chemotherapy for metastatic or incurable disease
+concomitant chemotherapy increases survival in advanced disease
+chemotherapy has a role as induction therapy prior to surgery and radiation
+panendoscopy (bronchoscopy, esophagoscopy, laryngoscopy, and pharyngoscopy) to detect 1° disease
+when lymph node metastasis is identified
+anti-epidermal growth factor receptor treatment (cetuximab, panitumumab) has a role as concurrent
+therapy with radiation for SCC of the H&N (for advanced local and regional disease)
+
+Toronto Notes 2025
+
+Al patients presenting with a H&N mass
+should be asked if they iendi
+the following obstructive,
+local symptoms
+Oropharyngeal: Odynophagia, dysphagia,
+non-healing oral ulcers
+
+Otologic: Otalgia, HL
+
+Laryngeal: Dyspnea or stridor (positional
+vs, non-positional), hoarseness, dysphonia,
+positional vs. non positional
+Nasopharyngeal: Recurrent epistaxis,
+unilateral nasal obstruction, persistent
+thinorthea or sinusitis
+
+Hemoptysis, hematemesis
+
+Detection of cervical lymph nodes on
+physical exam
+
+False negative rate: 15-30%
+
+False positive rate: 30-40%
+
+Pathological lymphadenopathy defined
+radiographically as
+
+Ajugulodigastric node 1.5 cm in diameter,
+or aretropharyngeal node>t cmin
+diameter
+
+‘Anode of any size which contains central
+necrosis
+
+Common sites of distant metastases for
+HEN neoplasms (most common to least
+‘common) lungs> liver > bones
+
+Risk Factors for H&N Cancer
+‘Smoking
+
+E1OH (synergistic with smoking)
+Radiation
+
+Occupational/environmental exposures
+
+ral HPV infection (independent of smoking
+and EtOH exposure)
+
+Family history of cancer
+Previous cancer
+

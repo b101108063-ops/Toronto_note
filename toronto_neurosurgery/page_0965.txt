@@ -1,0 +1,95 @@
+NS33 ‘Neurosurgery Toronto Notes 2025
+
+Neurogenic Claudication
+
+Etiology
++ ischemia of lumbosacral nerve roots secondary to vascular compromise and increased demand from
+exertion, often associated with lumbar stenosis
+
+Clinical Features ©
+
++ dermatomal pain/parest hesia/weakness of buttock, hip, thigh, or leg initiated by standing or walking Ooo
+
++ slow relief with postural changes (sitting >30 min) and NOT simply by exertion cessation Claudication
++ induced by variable degrees of exercise or standing
++ may be elicited by lumbar extension, but may not have any other neurological findings or signs of vascular ‘Neurogenic Claudication: dermatomal
+compromise (e.g. ulcers, poor capillary refill) distribution wth positional elie occuring
+over minutes
+Investigations Vascular Claudication: sclerotomal
+
++ bicycle test may help distinguish NC from vascular claudication (the waist-flexed individuals on the bicycle —_ distribution with relief occurring with rest
+‘over seconds
+
+with NC can last longer)
+
+Treatment
++ same as for lumbar spinal stenosis
+
+Intradural Intramedullary Lesions
+
+Syringomyelia (Syrinx)
+
+Definition
+
++ cystic cavitation of the spinal cord
+
++ presentation is highly variable, usually progresses over mo to yr
+
++ initially pain, weakness; later atrophy and loss of pain and temperature sensation
+
+Etiology
+
+syringomyelia can be classified as communicating or non-communicating based on the presence or absence
+of communication with the 4th ventricle
+
+most cases of communicating syringomyelia are due to Chiari malformations
+non-communicating syringomyelia arises due to localized pathology in the spinal cord that causes
+disruption of CSF flow dynamics (e.g. SCI, arachnoiditis)
+
+70% are associated with Chiari I malformation, 10% with basilar invagination
+
+post-traumatic
+
+post-infectious
+
+post-inflammatory
+
+tumour
+
+tethered cord
+
+Clinical Features
+Fi 27. T1 weighted MRI of
+«+ nonspecific features for any intramedullary spinal cord pathology: Svingamyella °
+
+«= initially pain, weakness, atrophy, then loss of pain and temperature (spinothalamic tract) in upper
+extremities (central syrinx) with progressive myelopathy over years
+
+sensory loss with preserved touch and proprioception (dorsal column-medial lemniscus pathway) ina
+band-like distribution at the level of cervical syrinx
+
+dysesthetic pain often occurs in the distribution of the sensory loss
+
+LMN arm/hand weakness or wasting
+
+painless neuropathic arthropathies (Charcot’s joints), especially in the shoulder and neck due to loss of
+pain and temperature sensation
+
+Investigations
+
++ MRTisbest method, myelogram with delayed CT is an older option that can be considered when a MRI is
+not an option (e.g. pacemaker; stainless steel spine instrumentation). Gadolinium contrast recommended
+for identification of associated tumour/pathology
+
+Treatment
+
++ treat underlying cause (e.g. posterior fossa decompression for Chiari I, surgical removal of tumour if
+causing a syrinx)
+
++ shunting is rarely required in the setting of communicating syringomyelia associated with a Chiari I
+malformation; only needed when progressive and size allows for insertion of tube; shunting of a syrinx is
+more commonly indicated in non-communicating forms of syringomyelia (e.g. due to SCI, arachnoiditis)
+
+= syringosubarachnoid and syringopleural shunting are two options; if the syrinx is due to focal cord
+tethering (e.g. due to arachnoid webs), a detethering procedure with/without duroplasty may be
+indicated

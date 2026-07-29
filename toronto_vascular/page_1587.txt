@@ -1,0 +1,124 @@
+vs7 ‘Vascular Surgery
+Epidemiology
++ M:F=3:1
+
++ small increased incidence in A frican-Canadians (related to higher incidence of HTN); lowest incidence in
+‘Asians
++ peak incidence: ages 50-65; ages 20-40 with connective tissue diseases
+
+Clinical Features
++ sudden onset tearing chest or back pain that radiates distally or between the scapulae with:
+
+« HTN
+
+«= ischemic syndromes due to occlusion of aortic branches: coronary (MI), carotids (ischemic stroke,
+partial Horner's syndrome), splanchnic (mesenteric ischemia), renal (AKI), peripheral (ischemic leg),
+intercostal vessels (spinal cord ischemia)
+“unseating” of aortic valve cusps (new diastolic murmur in 20-30%) in Type A dissection can lead to
+severe aortic insufficiency
+rupture into pleura (dyspnea, hemoptysis), retroperitoneum (hypotension, shock), or pericardium
+(cardiac tamponade in Type A dissection)
+= syncope
+
+Investigations
+
++ CTA: mainstay for diagnosis and determining type and extent of dissection; MRA may be used if CTA is
+contraindicated
+
+ECG: rule out cardiac causes (e.g. LV hypertrophy + ischemic changes, pericarditis, heart block, MI)
+CXR: widened mediastinum, hemothorax if ruptured, apical pleural cap
+
+‘TEE: rule out intra-cardiac thrombus
+
+consider: lactate (elevated in ischemic gut, shock), amylase (rule out pancreatitis), troponin (rule out MI),
+CBC, electrolytes, creatinine (renal failure), LFTs (shock, liver)
+
+Treatment
+. Type A dissection needs referral to cardiac surgeon for urgent repair
+resection of segment with intimal tear; reconstitution of flow through true lumen; replacement of the
+affected aorta with prosthetic graft
+postoperative complications: renal failure, intestinal ischemia, stroke, paraplegia, persistent leg
+ischemia, death
+
+. * Perioperative mortality amongst surgically treated patients is estimated as 17-22%
+
+initial mortality rate without surgery is 1% per h for first 24 h, 30% 1 wk, 80% 2 wk
+. Type B dissection is usually managed medically in the absence of spinal/mesenteric/limb malperfusion
+syndrome
+
+= <10-20% require urgent operation for complications
+acute therapy is typically with intravenous antihypertensives titrated to sBP of 120 mmHg measured by
+arterial line and HR of <70 bpm in critical care setting
+may transition to oral meds after initial control
+Alpha and B-blocker to lower BP and decrease cardiac contractility (e.g. labetalol); nondihydropyridine
+CCB (e.g. diltiazem) if clear contraindications to B-blockers, and as second-line therapy; IV
+nitroglycerin also used as second-line agent
+ACEI and/or other vasodilators if insufficient BP or HR control
+selective intervention (endovascular or surgical) for complications or refractory symptoms/progression
+despite medical therapy
+may bea subset of patients who could be well treated with early aortic stent-grafting after initial
+medical stabilization
+
+= with treatment, 60% 5 yr survival, 40% 10 yr survival
+
+= long term complications include aneurysmal degeneration of the aorta
++ Type B dissection with spinal/mesenteric/renal/limb malperfusion and/or aortic rupture may be treated
+
+with TEVAR or open surgical repair
+
+Aortic Aneurysm
+
+Definition
+
+localized dilatation of a blood vessel >1.5x normal diameter (3 cm and larger for abdominal aorta)
+
+true aneurysm: involves all vessel wall layers (intima, media, adventitia)
+
+false aneurysm (pseudoaneurysm): does not involve all layers; breach in intima/media that allows blood to
+collect between media and adventitia
+
++ aneurysms can rupture, thrombose, embolize, erode, and fistulize
+
+Classification
++ shape
+«= fusiform: concentric; involves full circumference of vessel wall
+= saccular: eccentric; involves only a portion of vessel wall (theoretical higher risk of rupture due to
+unequal distribution of pressure)
++ location
+= TAA: ascending, transverse arch, descending
+= thoracoabdominal
+
+Toronto Notes 2025
+
+—_—
+True Aneurysm
+
+Saccular )
+
+Fusiform
+
+—"_ w—
+~~ ~_a—
+
+Pseudo-Aneurysm
+
+0
+
+Figure 6. Classification of aneurysms
+
+Ruptured AAA
+
+Classic Tiad
+Hypotensionicolapse
+
+Backlabdominal pain
+
+Palpable, pulsatile abdominal mass (caution
+in patients with raised BMI)
+
+Initial Management
+Intravenous access with two peripheral
+large bore IVs
+
+Permissive hypotension (sBP enough to
+‘maintain mental status)

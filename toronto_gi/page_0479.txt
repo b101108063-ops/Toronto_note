@@ -1,0 +1,79 @@
+GAs Gastroenterology Toronto Notes 2025
+
++ diagnosis
+«= absolute neutrophil count in peritoneal fluid >0.25x10° cells/L (250 cells/mm3)
+«= Gram stain positive in only 10-50% of patients
+= culture positive in <80% of patients (not needed for diagnosis)
++ prophylaxis: indicated in patients with:
+= variceal bleeding: ceftriaxone IV daily or norfloxacin BID x7 d
+= previous episode of SBP: long-term prophylaxis with daily norfloxacin or TMP-SMX
++ treatment
+= IV ABx (cefotaxime 2g IV q8h or ceftriaxone 2 g IV daily is the treatment of choice for 5 d; modify if
+response inadequate or culture shows resistant organisms)
+= IValbumin (1.5 g/kg at time of diagnosis and 1 g/kg on day 3) decreases mortality by lowering risk of
+acute renal failure
+
+Biliary Tract
+
+Jaundice
++ see Table 2, G6 and Figures 15 and 16
+
+Definition
++ yellowing of the skin, sclera, and/or mucous membranes due to abnormal deposition of pigmented bilirubin
+
+Signs and Symptoms
+
++ dark urine, pale stools: suggests that there is conjugated/direct hyperbilirubinemia
+
++ pruritus: suggests chronic disease or cholestasis
+
+. abdominal pain: suggests biliary tract obstruction from stone or pancreatic/ biliary tumour (obstructive
+jaundice)
+
+. painless jaundice in the elderly: think of pancreatic cancer
+
++ kernicterus: rarely seen in adults due to maturation of blood brain barrier
+
+Investigations
+
++ blood work: CBC, bilirubin (direct and total), liver enzymes (AST, ALT, ALP, GGT), liver function tests
+(INR/PT, PTT, albumin), + amylase/lipase
+
++ U/SorCT for evidence of bile duct obstruction (e.g. bile duct dilation)
+
+more detailed evaluation of bile duct + surrounding structures like pancreas:
+
+= MRCP: non-invasive RBC destruction
+« EUS: sensitive for stones and pancreatic tumours VS ERECT ES
+= ERCP: invasive, allows for therapeutic intervention
+= PTC: if ERCP fails (endoscopic access not possible) Hb —> Globin
+Heme
+Jaundice (? serum bilirubin)
+Conversion
+0 5 v
+Fractionate bilirubin
+Primarily unconjugated n Primarily conjugated Bilirubin (unconjugated)
+¥ ay \¢— Alb
+v
+Hemolysis Hepatobiliary disease Bilirubin — Alb
+Gilbert's syndrome ‘Abdominal ultrasound
+L LER
+Bile duct normal J 1 Bile duct dilated aetest aerated
+. . conjugates bilirubin
+Hepatocellular disease Bile duct obstruction 15.20%
+Drugs vy reabsorbed
+Alcohol Biliary excretion via
+Virus Visualize bile duct into duodenum, emer
+oe hepatic
+mms Intestinal flora | circulation
+Hemochromatosis a
+Wilson’s disease, etc. Endoscopic bile duct Endoscopic bile duct Urobilinogen
+decompression not likely decompression likely
+tobe necessary tobe necessary 70-85%
+v
+t + Stercobilinogen 10% excreted
+Magnetic resonance Endoscopic retrograde. via urine
+cholangiopancreatography (MRCP) cholangiopancreatography (ERCP) eral
+Figure 15. Approach to jaundice Figure 16. Production and excretion
+
+of bilirubin

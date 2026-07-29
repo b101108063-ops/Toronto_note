@@ -1,0 +1,96 @@
+ID4 Infectious Diseases Toronto Notes 2025
+
+Virology
+
+iral Basics
++ viruses are infectious particles consisting of RNA or DNA covered by a protein coat
+« infect cells and use host’s metabolic machinery to replicate
+= nucleic acid can be double stranded (ds) or single stranded (ss)
+= nucleic acid can be positive sense (+) or negative sense (-)
+= canbe enveloped or naked -
++ virions: mature virus particles that can be released into the extracellular environment Helical
++ host susceptibility is governed by the host cell, virus surface proteins (viral tropism), and cellular immunity
+
+Viral Disease Patterns
+1, acute infections (e.g. adenovirus)
+= host cells are lysed in the process of virion release
+= some produce acute infections with late sequelae (e.g. measles virus-induced subacute sclerosing
+panencephalitis (SSPE, also known as Dawson's Disease))
+2. chronic infections (>6 mo) (e.g. HBV, HIV)
+= host cell machinery is used to produce and chronically release virions
+3. latent infections
+« viral genome remains latent in host cell nucleus
+= can reactivate (e.g. HSV, VZV)
+
+Icosahedral
+
+Table 3. Common Viruses
+
+Nucleic Acid Enveloped Virus Family MajorViruses Medical Importance
+dsDNA No ‘Adenoviridae ‘Adenovirus RTI
+Conjunctivitis
+Gastroenteritis
+No Papillomaviridae —HPV',4 Plantar warts
+HV6.t1 Genital warts
+HPV16,18, et Cervical/anal dysplasia and cancer
+Yes Herpesviridae HAVES Oral, ocular, and genital herpes; encephalitis
+
+Genital, oral, andoculr herpes; encephaiis
+Chicken po, shingles
+
+Mononucleosis, viral bepatit
+
+Retinitis, pneumonitis, hep
+Rosedla
+
+Kaposfs sarcoma, multicenricCastleman's disease, body cavity lymphoma
+
+=
+5
+a
+=
+é
+
+its, encephalitis
+
+Figure 3. Virus morphology
+
+No Palyomaviridae Progressivemuifocaleukoencephalpathy
+Yes Hepadnaviidee Hepattis
+Yes Porvidae Monkeypox
+Smallpox @®
+ssDNA No Parvovridae Erythemainfectisum Fit disease)
+(o)ssRA No Caliciviridae Gastroenteritis a
+Acie hepatits a
+No Pcoravridae Poliomyents Hepadnaviridae
+URTI, val meningitis Herpesviridae
+uamis Adenoviridae
+Coxsackieviws ——_Hand-footand-mouth, viral meningitis, myocardtis Papillomaviridae
+Hepatitis A Acute hepatits Parvoviridae
+Yes Coronaviridae ——Seasonalhuman——_URTIs, SARS, MERS,COMID19. eer
+coronavirses “Ja
+SARS-CoV4
+MERC
+SARS-CoV2
+Yes Flaviviridae Yellow ever Yellow ever
+Dengue Denguefever
+Hepat € Hepattis
+West ile Encephalitis, flaccid paralysis
+Tika Tika vius disease
+Yes Togaviridae Rubella Rubela (German measks)
+Gilungunya Chikungunya
+()ssRNART Yes Retrovidae AW alos
+TU Tellleukemia and lymphoma
+()ssRNA Yes Arenaviidae Lassa Lassa ever
+Yes Filoviridae fda Hemorttagicfeer
+Marburg
+Yes Orthomyroviridae Influenza A,8,¢ Influenza)
+Yes Paramyxoviridae Measles Measles
+Mumps Mumps
+Parainuenca URTls, coup, broncos
+av Bronchiolits, pneumonia
+Yes Rhabdovridae Rabies Rabies
+dsRNA No Reoviridee Rotavius Gastroenterits
+
+Note: _virdae=family, virus =genus, #=species (e.g Retroviridae HIV-2)
+*Roseolovius, Herpeslymphotropic vis

@@ -1,0 +1,234 @@
+Anesthesia
+
+Toronto Notes 2025
+
+Regional Anesthe: ©
+
++ local anesthetic applied around a peripheral nerve at any point along the length of the nerve (from spinal
+cord up to, but not including, the nerve endings) to reduce or prevent impulse transmission
+
++ no CNS depression (unless overdose of LA); patient remains conscious
+
++ regional anesthetic techniques categorized as follows:
+
+» epidura
+= peripher
+
+| and spinal anesthesia (neuraxial anesthesia)
+ral nerve blocks
+
+= 1V regional anesthesia (e.g. Bier block)
+
+Patient Preparation
+
++ sedation an
++ monitoring
+
+d/or anxiolysis may be indicated before block
+should be as extensive as for GA
+
+Epidural and Spinal Anesthesia
+
+* most common for surgeries performed below the level of umbilicus but can be extended to any level (useful
+
+in thoracic,
+
+abdominal, and lower extremity surgeries)
+
+«typically placed in thoracic or lumbar spine
+
+Anatomy of
+
+nerve roots
+
+= skin
+
+subcutai
+supraspi
+interspi
+
+Spinal/Epidural Area
+
+spinal cord extends to L1; dural sac to S2 in adults
+
+(cauda equina) from L2 to S2
+
+neous fat
+inous ligament
+inous ligament
+
+ligamentum flavum (last layer before epidural space)
+dura + arachnoid for spinal anesthesia
+
+Table 13. Epidural vs. Spinal Anesthesia
+
+needle inserted below L2 should not encounter cord, thus L3-L4, L4-L5 interspace commonly used
+structures penetrated (superficial to deep)
+
+Epidural
+
+Spinal
+
+DepositionSite
+
+Onset
+
+EHfectiveness
+Difficulty
+
+Patient Positioning
+Post-injection
+
+Specitic Gravity!
+Spread
+
+Dosage
+Continuous infusion
+Complications
+
+Combined Spinal-
+Epidural
+
+injected in epidural space space between igamentum flavum and
+ua)
+
+Initial blockade is tte spina roots fllowedby some degree of spinal
+sthesiaas LA dfuses into the subarachnoid space through
+
+Signticant blockade requires 10-15 min
+Slower onset ofsideefects
+
+Effectiveness of blockade can be variable
+Technically more dificult; greater failure rate
+Position of patientnotas important; speci gravity notan issue
+
+Epidural injections spread throughout the potential space; specific
+‘gravity of solution doesnot affect spread
+
+Larger volumetlose of LA (usually > toxic IV dose)
+Use of catheter allows for continuous infusion or repeat injections
+
+Failure of technique
+Hypotension
+
+Bradycardiaif cardiac sympatheticsblocked onlyif-T4block}, e.g.
+“high block”
+
+Epidural orsubarachnoid hematoma
+
+Accidental subarachnoid injectioncan produce spinal anesthesia (and
+any of the above complications)
+
+Systemictoxiity ofLA (accidental intravenous)
+
+Catheter complications (shearing, kinking, vascular, or subarachnoid
+placement)
+
+Infection
+
+Post-dural puncture
+
+injected into subarachnid space inthe dural sac surrounding the
+spina cord and nrveroots
+
+Rapid blockade (onset in2-5 min)
+
+Very effective blockade
+Easier toperform due to visual confirmation of CSFflow
+Hyperbaric LASolution— position of patient important
+
+Usolation may be made hyperbaric (of greater specific gravty than the
+CSF by mixingwith dextrose 10%, thus increasingspread of LAto the
+dependent low) areas the subarachnoid space)
+
+Smaller dase of LA required (usualy < toxic W dose)
+None
+
+Failure of technique
+Hypotension
+
+Bradycardiai cardiac sympathetics blocked (only it T4 loch, e.9
+“high spinal”
+
+Epidural or subarachnoid hematoma
+
+Post spinal headache (CSF leak)
+
+Transient paresthesias
+
+Spinal cordtrauma
+
+Infection
+
+‘Combines the benefits of rapid, reliable, intense blockade of spinal anesthesia together with the flexibility ofan epidural catheter
+
+Benefits of Regional Anesthesia
+Reduced perioperative pulmonary
+complications
+
+Reduced perioperative analgesia
+requirements
+
+Decreased PONV
+
+Ability to monitor CNS status during
+procedure
+
+Improved perfusion
+Lower incidence of VIE
+
+Shorter recovery and improved
+rehabilitation
+
+Pain blockade with preserved motor
+function
+
+Landmarking Epidural/Spinal Anesthesia
+Spinous processes should be maximally
+flexed
+
+L4spinous processes found between iliac
+crests
+
+T7 landmark atthe tip ofthe scapula
+
+Classic Presentation of Post Dural
+Puncture Headache (PDPH)
+
+Onset 6 h-3d after dural puncture
+Postural component (worse when sitting)
+Occipital or frontal localization
+
++ tinnitus, diplopia
+
+a)
+
+Etec of Anesthesia Type on Postoperative Mortality
+and orbidities: AMatchedAnalysisofthe NSQIP
+Database
+
+Br JAnaesth 2017 118:105-411
+
+Purpose: Determine the effects of RAs. 6hon
+postoperative survival and morbidities
+
+Methods: Matched surgical procedures and typeof
+anesthesia using the US Nationa Surgical Quality
+Improvement database, Primary outcome was 30
+postoperative mortal and secondary outcomes were
+hospital engh of stay and postoperative organ system
+dysfunction.
+
+Results: There wasno diferencein 30d mortality. RA
+was significantly associated with increased lelnood
+carly discharge (HR1.09;PcO.00), There were
+lower odds of intraoperative complication (475),
+respiratory complications (24%), DVT (16%), and
+anyone postoperative complication (15%)(0R 0.85;
+P< 0.001),
+
+Conclusion: Bawa associated with significantly
+lower odds of several postoperative complications,
+decreased hospital length of stay, butnotmrtaty
+when compared with GA,
+

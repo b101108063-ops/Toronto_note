@@ -1,0 +1,99 @@
+G46 Gastroenterology Toronto Notes 2025
+
+Gilbert’s Syndrome
+
+Definition ©
+
++ hereditary predominantly unconjugated hyperbilirubinemia due to a deficiency of glucuronyl transferase,
+characterized by mild, asymptomatic elevation of bilirubin on blood work, less commonly repeat episodes _ Gilbert's Syndrome vs. Criglr-Najar
+of mild asymptomatic jaundice ‘Syndrome
+
+Gilbert's Syndrome: mild decrease in
+. . . glucuronyitransferase activity
+Etiology/Epidemiology Crigler-Najar Syndrome: complete
++ some patients have decreased hepatobiliary uptake deficiency of glucuronyitransferase
++ affects 7% of population, especially males
++ autosomal dominant, 70% due to a mutation in the UGT gene
+
+Clinical Features
+
+* presents in teens-20s, often an incidental finding as most are asymptomatic
+
++ only manifestation is intermittent jaundice with increased serum unconjugated bilirubin developing most
+characteristically while fasting, or at times of acute illness; no other clinical implications
+
+Treatment
+* reassurance (entirely benign)
+
+Primary Sclerosing Cholangitis
+
+Definition
++ inflammation, fibrosis, and stricturing of biliary tree (intra- and/or extrahepatic bile ducts) from scarring
+
+Etiology
++ primary/idiopathic (most common)
+= associated with IBD, more commonly UC, in up to 70-80% of patients (usually male) with PSC
++ secondary sclerosin; cholangitis (less common)
+long-term choledocholithiasis
+surgical/traumatic injury (iatrogenic)
+contiguous inflammatory process
+post-ERCP
+associated with HIV/AIDS (“HIV cholangiopathy”) - now rarely seen with effective HIV therapies
+IgG4-related disease
+critical illness
+drug toxicity (ketamine)
+
+Signs and Symptoms
+
++ often insidious, may present with fatigue and pruritus
+
+* may present with signs of episodic bacterial cholangitis secondary to biliary obstruction
+
+* may present with jaundice, hepatomegaly, splenomegaly, excoriations secondary to pruritus
+
+Investigations
+
++ increased ALP (hallmark), less often increased bilirubin
+
+. panes (30-80%), elevated IgM (40-50%)
+
++ MRCP shows narrowing and dilatations of bile ducts that may result in “beading,” both intrahepatic and
+extrahepatic bile ducts
+
++ ERCP should be reserved for intervention, not for diagnosis (due to risks like cholangitis)
+
++ consider liver biopsy if suspecting small duct variant (accounts for approximately 10% of cases of PSC)
+
+Complications
+
++ repeated bouts of cholangitis may lead to complete biliary obstruction with resultant secondary biliary
+cirrhosis and hepatic failure
+
++ increased incidence of cholangiocarcinoma (10-15%): difficult to diagnose and treat
+
++ increased incidence of colon cancer (5-fold risk versus ulcerative colitis alone) in those with concurrent IBD
+
+Treatment
+
+image bile duct (MRCP) at least annually for early detection of cholangiocarcinoma (controversial)
+6 monthly imaging for HCC surveillance in those with cirrhosis
+
+annual colonoscopy for colon cancer surveillance in those with IBD
+
+endoscopic sphincterotomy, biliary stent in selected cases of dominant common bile duct stricture
+ABx for cholangitis
+
+suppurative cholangitis requires emergency drainage of pus in common bile duct
+
+liver transplantation appears to be the best treatment for advanced sclerosing cholangitis (>90% 1 yr
+survival, mean follow-up time from diagnosis to need for transplant is 10 yr)
+
+ursodiol was previously routinely recommended, but no proven effect on natural history of PSC and studies
+suggest that it may increase mortality if taken in high doses
+
+Prognosis
++ runs ahighly variable course, some individuals have indolent disease
+
++ mean time to transplant (in those with more severe disease) can range from 10-20 yr
++ mean time to transplant (in those with more severe disease) can range from 10-20 yr
++ much worse prognosis if complications (e.g. cholangiocarcinoma)

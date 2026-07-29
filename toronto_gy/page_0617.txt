@@ -1,0 +1,141 @@
+GY23 Gynecology
++ medical = methotrexate
+
+= folic acid reductase inhibitor affecting rapidly dividing cells
+
+= use 50 mg/m* body surface area; given as a one time IM dose
+
+« this is 1/5 to 1/6 chemotherapy dose, therefore minimal side effects (reversible hepatic dysfunction,
+diarrhea, gastritis, dermatitis)
+follow B-hCG levels on days 4 and 7 after injection, and then weekly until B-hCG is non-detectable
+plateaued or rising levels suggest persistent trophoblastic tissue requiring further treatment
+82-95% success rate, but up to 25% will require a second dose
+administer a second dose if B-hCG does not decrease by at least 15%
+tubal patency following methotrexate treatment approaches 80%
+«= stop prenatal vitamins as folic acid will decrease efficacy of methotrexate
+
+* expectant management is an option for patients who are clinically stable, reliable for follow-up, understand
+
+the risk of tubal rupture, and have B-hCG levels that are low and declining
+
+Prognosis
++ 9% of maternal deaths during pregnancy attributed to ectopic pregnancy
++ 40-60% of patients will become pregnant again after surgery
+
++ 10-20% will have subsequent ectopic pregnancy
+
+Definition
++ inability to conceive or carry to term a pregnancy after | yr of regular, unprotected intercourse
+
+Epidemiology
++ 10-15% of couples, must investigate both members of the couple
+
+Female Factors
+
+Etiology
+Table 14. Etiology of Female Infertility
+
+Category Examples of Etiology
+
+Ovarian Diminished ovarianreserve
+
+Age-related oocyte loss
+Chemotherapyiradiation
+Genetic (Fragile Xsyndrome)
+
+Ovulatory dysfunction
+Hy pogonadotropic hypogonadal anovlation (hypo-hypo; ow gonadotropins, low gonadal hormones) 510%): excessive exercise, low body
+‘weight, stress, congenital (Kallman’s syndrome}, pituitary (hyperprolactinemia, hypopituitarism), thyroid disease
+Normogonadotropc nomoestrogenc anovlation (70-85%): PCOS, obesity
+Hy pergonadotropichypoestrogenic anovulation (10-30%): primary ovarianinsufciency, gonadal dysgeness(Turner's syndrome, FragleX
+syndrome)
+
+Luteal phase defect
+
+Tubal Pelvic inflammatory disease (10)
+Peitubal adhesions (previous surgery, peitonits, endometriosis)
+Ligatiowocdusion (previous ectopicpregnancy)
+Hydrosalpinx
+
+Uterine ‘Submucosa ibroids/polyps
+Congenital anomalies (bicornuate uterus, septate uterus, dielphys uterus, congenital absence of uterus[MRKH])
+Intrauterine adhesions (Asherman’ssyndrome)
+Prenatal DES exposure
+Infection (endometritis, pelvic tuberculosis)
+Cervix factors
+Hostile or acidic cervical mucus, anti-sperm antibodies
+Structural defects (cone biopsies, laser or cryotherapy)
+Adenomyosis
+
+Other Lifestyle factors
+Endometriosis
+Medications
+Systemicdisease (renalhepaticfalure, Cushing's syndrome, diabetes)
+Multiple factors
+Unknown etiology
+
+Investigations
+* ovarian factors
+«= day 3: FSH, LH, estradiol, TSH, prolactin, free and total testosterone, androstenedione, DHEAS, free
+testosterone
+= day 21-23: high serum progesterone levels confirm ovulation
+= general health: CBC, Fe, HbAlc
+= any day of cycle: anti-mullerian hormone (AMH) - atest of ovarian reserve, the higher the number the
+better
+
+Toronto Notes 2025
+
+Presentation of Ectopic Pregnancy
+Ruptures
+
+Acute abdomen with increasing pain
+Abdominal distention
+
+Shock
+
+Primary infertility: infertility in the context
+‘of no prior pregnancies
+
+Secondary infertility: infertility in the
+context of a prior conception
+
+Generally, 75% of couples achieve
+pregnancy within 6 mo, 85% within 1yr,
+90% within 2 yr
+
+When Should investigations Begin?
+-<35 yr after tr of regular unprotected
+intercourse
+
+35.40 yr: after>6 mo of regular
+unprotected intercourse
+
+>40 yr: immediately
+
+Earlier it:
+
+History of PID
+
+History of infertility in previous relationship
+Prior pelvic surgery
+Chemotherapy/radiation in either partner
+Recurrent pregnancy loss
+
+Moderate severe endometriosis
+
+Ethical Considerations in Infertility
+Treatment
+
+Infertility demands nonjudgmental
+discussion
+
+Ethical issues surrounding surrogacy, donor
+gametes, and other advanced reproductive
+technologies are still evolving and remain
+controversial
+
+Ifthe physician finds that certain
+
+treatment options lie outside of their moral
+boundaries, the infertile couple should be
+referred to another physician

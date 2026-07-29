@@ -1,0 +1,86 @@
+1D23 Infectious Diseases
+
+Risk Factors
+
++ staphylococcal: tampon use, nasal packing, wound infections (e.g. postpartum vaginal or cesarean or
+surgical infections)
+
++ streptococcal: minor trauma, surgical procedures, preceding viral illness (e.g. chickenpox), use of NSAIDs
+
+Clinical Features and Investigations
++ acute onset
++ staphylococcal TSS
+= T>38.9°C
+= sBP <90mmHg
+= diffuse erythroderma with subsequent desquamation, especially on palms and soles
+= involvement of 3 or more organ systems: GI (vomiting, diarrhea), muscular (myalgia, increased
+CK), mucous membranes (hyperemia), renal, hepatic, hematologic (thrombocytopenia), CNS
+(disorientation)
+= isolation of S. aureus is not required for diagnosis (S. aureus is rarely recovered from blood in TSS)
+« streptococcal TSS
+= sBP <90mmHg
+= isolation of GAS from a normally sterile site (e.g. blood, pleural, tissue biopsy, or surgical wound)
+= 22 of coagulopathy, liver involvement, ARDS, soft tissue necrosis (necrotizing fasciitis, myositis,
+gangrene), renal impairment, erythematous macular rash that may desquamate
+
+Treatment
+
++ supportive care, fluid resuscitation, surgical debridement of infected tissue
+
+streptococcal: IV penicillin and clindamycin + IVIG
+
+staphylococcal: for methicillin-susceptible S. aureus: clindamycin + cloxacillin (IV); for MRSA:
+clindamycin + vancomycin x 10-14 d
+
+Cat Scratch Disease
+
+Etiology
++ Bartonella henselae: intracellular GN bacteria
++ cat-to-human transmission via cat scratch/bite
+
+Clinical Features
+
++ skin lesion appears within 3-10 days
+
+fever, malaise, tender regional lymphadenopathy develop 14-21 days after
+
+usually self-limited
+
+in some patients, organism may disseminate causing FUO, hepatosplenomegaly, retinitis, encephalopathy,
+
+infective endocarditis, uveitis
+
++ in patients with advanced HIV, can present with violacious nodular skin lesions + underlying bone
+involvement, known as “bacillary angiomatosis”
+
+Investigations
++ serology, PCR, lymph node biopsy
+
+Treatment
+
++ most cases of lymphadenitis are self-limited, mild to moderate cases can be treated with azithromycin
+
++ needle aspiration of painful suppurative lymph nodes may hasten the relief of symptoms
+
++ combination therapy consisting of doxycycline or azithromycin plus rifampin often used for disseminated
+disease (endocarditis, neuroretinitis, hepatosplenic involvement)
+
+Rocky Mountain Spotted Fever
+
+Etiology
++ Rickettsia rickettsii: obligate intracellular GN bacteria
+reservoir hosts: rodents, dogs
+vectors: Dermacentor ticks in North America; Rhipicephalus ticks in Mexico and Central America
+organisms cause inflammation of endothelial lining of small blood vessels, leading to small hemorrhages
+and thrombi
+* can cause widespread vasculitis leading to headache and CNS changes; can progress to death if treatment is
+delayed
+
+Clinical Features
++ usually occurs in summer following tick bite
++ influenza-like prodrome: acute onset fever, headache, myalgia, nausea/vomiting, anorexia
++ macular rash appearing on d 2-4 of fever
+«= begins on wrists and ankles, then spreads centrally to arms/legs/trunk/palms/soles
+= occasionally “spotless” (10% of patients)
+
+Toronto Notes 2025

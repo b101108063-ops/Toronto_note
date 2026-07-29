@@ -1,0 +1,300 @@
+G16 Gastroenterology Toronto Notes 2025
+
+Treatment
++ fluid and electrolyte replacement orally in most cases, intravenously if severe symptoms (e.g. hypotension.
+fluid dehydration, extremes of age/coma)
+
++ antidiarrheals @
+* antimotility agents: diphenoxylate, loperamide (Imodium’) should be used with caution;
+contraindicated in patients with mucosal inflammation, bloody diarrhea (Causes of Acute Bloody Diarrhea
++ side effects: abdominal cramps, toxic megacolon CHESS
+= modifiers of fluid transport: bismuth subsalicylate (Pepto-Bismol*) may be helpful (but should not be Campylobacter
+used in the presence of bloody diarrhea or fever) Hemorthagic E. coli (e.g. 0157:H7)
++ ABx: rarely indicated Entamoeba histolytica
+S, ‘Salmonella
+= risks Shigella
+
++ prolonged excretion of enteric pathogen (especially Salmonella)
++ drug side effects (also C. difficile infection)
++ development of resistant strains
+¢ renal failure/hemolysis (enterohemorrhagic E. coli 0157:H7)
+= indications for antimicrobial agents in acute diarrhea
+septicemia
+prolonged fever with fecal blood (bloody diarrhea) or WBCs seen on O&P
+clearly indicated: Shigella, V. cholerae, C. difficile, traveller's diarrhea (E. coli (ETEC)), Giardia,
+Entamoeba histolytica, Cyclospora
+situational: Salmonella, Campylobacter, Yersinia, non-enterotoxigenic E. coli
+Salmonella: always treat Salmonella typhi (typhoid or enteric fever); treat other Salmonella only if
+there is underlying immunodeficiency, hemolytic anemia, extremes of age, aneurysms, prosthetic
+valve grafts/joints, sickle cell disease
++ report diarrheal illness to public health if appropriate
+
+eee
+
+oe
+
+Figure 7. Approach to acute diarrhea
+‘Note: S. typhi has arose spot rash (transient maculopapular rash on anterior thorax, upper abdomen), anda prodrome of high fever, bradycardia, headache, and abdominal pain. Diamheais
+‘notte initial presentation
+-e 
+
+## Page 451
+
+GI7 Gastroenterology Toronto Notes 2025
+
+Table 9. Bacteria in Infectious Diarrhea
+
+Pathogen Source orMode Incubation Clinical Features Duration Antimicrobial Therapy Notes
+of Transmission
+
+Fever Bloody Abdo Nausea!
+Stool Pain Vomiting
+
+Bcereus-TypeA —Ricedishes 16h - - - + <2h None Preformed exotoxin
+(emetic)
+B.cereus—TypeB Meats, 86h - - - - 24h None Secondary endotoxin
+(diarthealy vegetables,
+dried beans,
+cereals
+Campylobacter Uncooked meat, 210d + : + + <lwk — Mactalide or Mast common
+jejuni especially fluoroquinolone bacterial cause of
+pouitry itdiarthea>twk, diarrhea inCanada
+
+bloody diarrhea, or Associated with
+immurocompromised Guillain-Barré
+
+syndrome
+
+Clostridium dificle Canbenormally Undear = + * - Variable —Stopculpit antibiotic Usually follows
+presentin colon therapy if possible antibiotic treatment
+insmallnumbers Supportive therapy (NV (especially
+(primary risk fluids clindamycin,
+factorfor Empirictreatment with fluoroquinolones,
+diseaseis ethervancomycinor —_pencilns,
+exposureto fidaxomicn cephalosporins),
+antimicrobials) Waccesstoempiric recent hospitalization
+
+treatment is limited, (within 6 weeks),
+‘then metronidazole may underlying IBD
+bewed Can develop
+ForfulminantC.dificle pseudomembranous
+infection previously colitis
+
+called severe, oral
+
+vancomycinisused.W
+
+metronidazole added to
+
+regimeniffeuspresent
+
+Clostridium Contaminated — 8-128 ‘ - . - <2th None Clostridiumspores are
+
+perfringens ood, especially heat resistant
+meat and poultry Secondary enterotoxin
+
+Enteroinvasive
+
+E-coli(EIEC) Contaminated — 1-3 . ‘ . - 10d None Relatively uncommon
+food/water Entertoxigenic
+
+E-coli(ETEC) Contaminated — 1-3 - - . - 34 Fluoroquinolone Most common cause of
+food/water orazithromycinfor —_—_traveler'sdiarthea
+
+moderate to severe ‘Heat able andheat-
+symptoms stable toxins
+
+Enterohemorthagic Contaminationot 3-84 - . . ‘ 540d None:ABxincreaserisk Shiga toxin production
+
+E coli EHECISTEC) hamburger, raw offUS Monitor renal
+
+ie. O187:47 milk, drinking, function: 10% develop
+nd recreational Hus
+water Antiiartheals
+
+increaserisk of HUS
+
+Salmonella Typhi Fecal-oral wud + ‘ . $14 Emprictreatment Salmonella yp:
+
+S.Paratyphi(i. Contaminated withcetriaxone, *Rosespot”rash(on
+
+Enteric Fever, {oodiwater ciprofloxacin, or anterior thorax, upper
+
+Typhoid) Travel to ait abdomen), fever,
+endemic area and abdominal pa
+
+precedesdiarth
+
+Non-typhoidal Contaminated = 1272h_— + : . . 374 Ciprofoxacn oniyin
+
+Salmonellosis animal food severeillnes, extremes
+
+Syphimaom, —protcts, of ag, joint prostheses,
+
+S.Enteritdis especially eggs, valvular heart dsease,
+poultry, meat, severeatherascleress,
+milk cancer uremia
+
+Shigella Feca-oral 144 + + + <1wk Fluoroquinolone Very smallinocuium
+
+dysenteriae Contaminated
+foodiwater
+
+toricmegacolon,HUS
+
+Antiiantheals may
+reaserisk of toric
+
+megacolon
+
+Staphylococcus Umretigerated—2-4h - - . + 124 None Heat stablepreformed
+
+‘oureus meat and exotoxin
+dairy products
+(custard,
+pudding, potato
+salad, mayo)
+
+Vibrio cholerae Contaminated 1-34 - - - + 314 Tetracylineor Massive watery
+foodiwater, ‘uoroquinolones diartea (13. Ua)
+especially (Cprotoxaci) Mortality <twith
+shellfish treatment
+
+Yersinia Contaminated 5d + : + : Upto3 Fluoroquinolone ony for Majority of cases in
+food wk severeilness children +4 yr
+Unpastewrized Mesenteric adenits
+mk and terminalilitis
+
+appendictis
+Canalo mimic O of
+terminalileun
+
+-e 
+
+## Page 452
+
+Gis Gastroenterology Toronto Notes 2025
+
+Table 10. Parasites in Infectious Diarrhea
+
+Pathogen Source orMode Incubation Clinical Features Duration Antimicrobial Therapy Notes
+of Transmission
+
+Fever Bloody Abdo Nausea/
+Stool Pain Vomiting
+
+Cryptosporidium —Fecaloral 14 fe - + 120d Paromomycins Immune reconstitution it
+nitazoxanide immunosuppressed
+Entamoeba Worldwide 24k foo - + Variable Metronidazole untreated, potential for liver
+histolytica endemic areas + indoquinol or abscess
+Fecal-oral paromomycinit Sigmoidoscopy may show lat
+symptomatic infection ulcers withyellow exudates,
+Only iodoquino or
+paromomycin for
+asymptomatic cyst
+passage
+GiardialambliaFecaloral 14k - = + 6 Variable Metronidazole or Higher risk: daycare
+Contaminated nitazoxanide children, intake of untreated
+foodiwater Treatment of water ("beaver fever"), MSM,
+
+asymptomatic carriers immunodeficiency (decreased
+NoTrecommended ol)
+May need duodenal biopsy
+
+Table 11. Viruses in Infectious Diarrhea
+
+Pathogen Source orMode Incubation —_Clinical Features Duration Antimicrobial Therapy Notes
+of Transmission
+Fever Bloody Abdo Nausea/
+Stool Vomiting
+Norovirus: Fecatoral mh - - * + mh None Noroviruses indude Norwalk
+vis
+Rotavirus Fecatoral 24d t - - t 38d None Can cause severe dehydration
+Virtually al children are
+infected by 3 yr
+Oral vaccine given at 2and4 mo
+Traveller’s Diarrhea Po]
+Epidemiology
+
++ most common illness to affect travellers
+* up to 50% of travellers to developing countries affected in first 2 wks and 10-20% after returning home
+
+Etiology
+
+bacterial (80-90%): E. coli most common (ETEC), Campylobacter, Shigella, Salmonella, Vibrio (non-
+cholera); wide regional variation (e.g. Campylobacter more common in Southeast Asia)
+
+viral: norovirus, rotavirus, and astrovirus account for 5-8%
+
+protozoal (rarely): Giardia, Entamoeba histolytica, Cryptosporidium, and Cyclospora for ~10% in long-term
+travellers
+
++ pathogen-negative traveller’s diarrhea common despite exhaustive microbiological workup
+
+Treatment
++ rehydration is the mainstay of therapy
+= rehydrate with sealed beverages
+= in severe fluid loss, use oral rehydration solutions (1 package in 1 L boiled or treated water)
++ treat symptoms: antidiartheal agents (e.g. rifamycin ABx, bismuth subsalicylate, loperamide)
++ empiric ABx in moderate or severe illness: ciprofloxacin, azithromycin, or rifaximin
++ note: there is increasing fluoroquinolone resistance in causative agents, especially in South and Southeast
+Asia
+
+Prevention
++ proper hygiene practices
+= avoid consumption of: foods or beverages from establishments with unhygienic conditions (e.g. street
+vendors), raw fruits or vegetables without a peel, raw or undercooked meat and seafood
+= avoid untreated water, beer on tap
++ bismuth subsalicylate (Pepto-Bismol'): 60% effective (2 tablets QUID)
++ antibiotic prophylaxis not recommended
+= increased risk of infection with resistant organisms
+= high-risk groups (e.g. immunocompromised individuals) likely to be infected with pathogen not
+covered by standard antimicrobial agents
+-e 
+
+## Page 453
+
+G19 Gastroenterology Toronto Notes 2025
+
++ Dukoral’; oral vaccine offers protection against V. cholerae (efficacy ~80%) and ETEC (efficacy ~50-67%)
+= 2 doses should be taken 2 wks prior to traveling and the effect may last up to 3 mo
+= Public Health Agency of Canada recommends that it may be considered for the following situations (not
+recommended for routine use in travellers):
+increased risk of acquiring traveller's diarrhea (gastric hypochlorhydria or young children >2 yr)
+short-term travellers who are high-risk (e.g. chronic illness) and have an increased risk of serious
+consequences of traveller's diarrhea (e.g. chronic renal failure, CHF, TIDM, IBD)
+* immunosuppression
+history of recurrent traveller's diarrhea
+travellers to cholera endemic countries at increased risk of exposure
++ two vaccines against Salmonella typhi are available and their effectiveness is estimated to be 50-70%
+
+Chronic Diarrhea Pe]
+
+Definition
++ passage of frequent unformed stool for >4 wk (compared to persistent diarrhea lasting 14-30 d)
+
+oe
+
+.
+
+Etiology/Classification
++ majority of cases are non-infectious
++ see Differential Diagnosis of Common Complaints, G4
+
+Investigations
++ guided by history
+stool analysis for: C. difficile toxin, C&S, O&P + fecal fat, WBC, fecal calprotectin
+blood for: CBC, electrolytes, C-reactive protein (CRP) , TSH, celiac serology (IgA anti-tTG; ask for serum
+protein electrophoresis or immunoglobulin quantitation to rule out IgA deficiency, which has an increased
+frequency in individuals with celiac disease)
+colonoscopy and ileoscopy with biopsy
+upper GI endoscopy with duodenal biopsy
+wireless small bowel endoscopy capsule (low yield) - not routinely used in clinical practice
+trial of lactose free diet
+= caveat: may delay diagnosis of IBD and celiac disease
+
+Treatment
++ approach is similar to that of acute diarrhea
++ dependent on underlying etiology
+
+Maldigestion and Malabsorption

@@ -1,0 +1,134 @@
+ER6 Emergency Medicine
+
+PHYSICAL EXAM (see Traumatology, ER7)
+
+Head and Neck
+
++ inspect for periorbital bruising, mastoid bruising, ocular injuries
++ palpate facial bones, scalp
+
++ bite occlusion test with tongue depressor (if patient awake)
+
+Chest
+
++ inspect for equal chest rise, and work of breathing
+
++ auscultate lung fields
+
++ palpate for subcutaneous emphysema, step off and deformities
+
+Abdomen
++ assess for peritonitis, abdominal distention, focal areas of tenderness
++ DRE for select cases: suspected GI bleed, and in trauma (if pelvic fracture or frank hematuria)
+
+Musculoskeletal
+
++ examine all extremities for swelling, deformity, contusions, tenderness, ROM
+
++ check for pulses (using Doppler probe if not palpable)
+
++ log roll and palpate thoracic and lumbar spines
+
+«+ palpate iliac crests and pubic symphysis and assess pelvic stability (lateral, AP, vertical)
+
+Neurological
+
++ GCS
+
++ cranial nerve exam
+
++ assess limb strength and sensation with coarse and fine touch in the cooperative patient
+
++ unconscious patient: assess GCS, breathing pattern, pupils and reaction to light/RAPD, limb tone, reflexes
+(including corneal and gag), posturing
+
+INITIAL IMAGING
+
+non-contrast CT head/face/C-spine (rule out fractures and bleeds)
+
+CXR
+
+FAST (see Figure 2, ER5) or CT abdomen/pelvis (if stable)
+
+pelvis x-ray
+
+note that imaging should be guided by history and exam findings in the setting of trauma
+
+Ethical Considerations
+
+Consent to Treatment: Adults
+
+see Ethical, Legal, and Organizational Medicine, ELOM12
+
+Emergency Rule: consent is not needed when a patient is at imminent risk from a serious injury AND
+
+obtaining consent is either: a) not possible, OR b) would increase risk to the patient
+= assumes that most people would want to be saved in an emergency
+
+any capable and informed patient can refuse treatment or part of treatment, even if it is life-saving
+
+be aware of who the legal substitute decision maker (SDM) is and contact them early
+
+exceptions to the Emergency Rule - treatment cannot be initiated if:
+= acompetent patient has previously refused the same or similar treatment and there is no evidence to
+
+suggest the patient's wishes have changed (e.g. after an SDM has been contacted to clarify patient's wishes)
+
+= an advanced directive is available (e.g. do not resuscitate order), though this is still controversial
+« NOTE: refusal of help ina suicide situation is NOT an exception; care must be given
+
+if in doubt, initiate treatment
+
+care can be withdrawn if necessary at a later time or if wishes are clarified by family
+
+Consent to Treatment: Children
+
++ treat immediately if patient is at imminent risk
+
++ parents/guardians have the right to make treatment decisions, unless the child is an emancipated or mature
+minor (age cut-off varies by province)
+
+if parents refuse treatment thatis considered life-saving or will potentially alter the child’s quality of life,
+
+act in the best interest of the child, while involving local child protection services and continuing to engage
+
+with parents/guardians
+
+Duty to Report
+
++ law may vary depending on province and/or state
+
++ eg. gunshot wounds, suspected child abuse, various communicable diseases, medical unsuitability to drive,
+risk of substantial harm to others
+
+Jehovah's Witnesses
+
+capable adults have the right to refuse medical treatment
+
+some patients may decline whole blood, pRBCs, platelets, and plasma, even if considered life-saving
+clarify the use of albumin, immunoglobulins, hemophilic preparations, or other derived products
+parents can refuse care for their child if it is against their belief; evaluate risk of treatment refusal and.
+ensure parents are making an informed decision. If life-saving treatment is refused, can act in the child’s
+interest but will need to involve CAS immediately
+
+document discussion about treatments, alternatives offered, and potential risks (and their likelihood)
+
+Toronto Notes 2025
+
+‘Non-contrast head CT is the best imaging
+‘modality for intracranial injury
+
+Consider use of POCUS to guide
+resuscitation
+
+{f hypotensive: consider using RUSH or
+SHOC protocol
+
+Iftrauma: use eFAST
+
+In resuscitated patients who meet the
+neurological criteria for death, organ
+donation should be considered before
+life-sustaining therapies are withdrawn.
+Consult local legal and regulatory
+requirements for further guidance

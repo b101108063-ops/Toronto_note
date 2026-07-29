@@ -1,0 +1,87 @@
+NS38 ‘Neurosurgery Toronto Notes 2025
+
+Intracranial Conditions
++ raised ICP due to traumatic cerebral edema OR traumatic intracranial hemorrhage
+
+Brain Injury Outcomes
+
++ mildly traumatic (GCS 13-15): post-concussive symptoms: H/A, fatigue, dizziness, nausea, blurred vision,
+diplopia, memory impairment, tinnitus, irritability, low concentration; 50% at 6 wk, 14% at 1 yr
+moderately traumatic (GCS 9-12): outcome proportional to age (>40) and CT findings; 60% good recovery,
+26% moderately disabled, 7% severely disabled, 7% vegetative/dead
+
+severe (GCS <8): difficult to predict, correlates with post-resuscitation GCS (especially motor) and age
+
+Late Complications of Head/Brain Injury
+seizures: 5% of head injury patients develop seizures
+
+«= incidence related to severity and location of injury (increased with local brain damage or intracranial
+
+hemorrhage)
+
+= post-traumatic seizure may be immediate, early, or late
+
+= presence of early (within the first week) post-traumatic seizure raises the incidence of late seizures
+meningitis: associated with CSF leak from nose or ear
+hydrocephalus: acute hydrocephalus or delayed NPH
+Post-Concussion Syndrome: H/A, dizziness, cognitive changes, psychological symptoms, and behavioural
+symptoms
+
+Spinal Cord Injury
+« see Orthopedic Surgery, OR25 and Emergency Medicine, ER9
+Neurogenic and Spinal Shock ABCDS
++ neurogenic shock: hypotension that follows spinal cord injury (SCI) (sBP usually <80 mmHg) caused by: Alignment
+= interruption of sympathetics (unopposed parasympathetics) below the level of injury, usually with columns
+injuries above the T6 level poster vertebral ine 2)
+= loss of muscle tone due to skeletal muscle paralysis below the level of injury > venous pooling (relative spinolaminar line (3)
+hypovolemia) posterior spinous line (4)
+. neurogenic shock is to be distinguished from hemodynamic shock due to blood loss from associated
+wounds (true hypovolemia) bone bral bod
+* neurogenic shock > hypotension, bradycardia, warm and well-perfused extremities tet es
+. hemodynamic shock > suspect in multisystem trauma and if there is peripheral vascular shut- spinous processes
+lown
++ spinal shock: transient loss of all neurologic function below the level of the SCI, associated with loss of Cartilage
+bulbocavernosus reflex, flaccid paralysis and areflexia for variable periods vise
+di
+Whiplash-Associated Disorders interspinous space
++ definition: traumatic injury to the soft tissue structures in the region of the cervical spine due to
+hyperflexion, hyperextension, or rotational injury to the neck Soft tissues
+
+Initial Management of Spinal Cord Injury
++ major causes of death in SCI are aspiration and shock
++ the following patients should be treated as having a SCI until proven otherwise:
+= all victims of significant trauma
+= minor trauma patients with decreased LOC or complaints of neck or back pain, weakness, abdominal
+breathing, numbness/tingling, or priapism
+
+© YuXiangRen2021
+
+Pre-vertebral soft tissues (A)
+
+Stabilization and Initial Evaluation in the Hospital
+. ABCs, immobilization (backboard/head strap), oxygenation, Foley catheter to urometer, temperature
+regulation
+. hypotension: maintain sBP >90 mmHg with pressors (e.g. dopamine), hydration, and atropine
++ deep vein thrombosis (DVT) prophylaxis
+monitor CBC/electrolytes
+perform a mental status and CN function assessment as many patients with SCI have co-occurring
+traumatic brain injury
+. focused history and exam as the patient is being immobilized (see Trauma Assessment, NS35)
+. spine palpation: point tenderness or deformity
+7. motor level assessment (including rectal exam for voluntary anal sphincter contraction)
+. sensory level assessment: pinprick, light touch, and proprioception
+9. evaluation of reflexes
+10.signs of autonomic dysfunction: altered level of perspiration, bowel or bladder incontinence, priapism
+1Lradiographic evaluation
+¢ 3 views C-spine x-rays (AP, lateral, and odontoid) to adequately visualize C1 to C7-T1 junction (note _ Figure 32. Assessment of spine
+plain films have been largely supplanted by CT) CT/X-Ray (parasagittal view)
+« flexion-extension views to disclose occult instability Images seit prison on Dr. Ftc Berger and
+* CT scan (bony injuries); typically most trauma centres use CT as the modality of choice forlooking  "“**°¥*"*
+at fractures; very sensitive with the high-resolution scanners
++ MRI mandatory if neurological deficits (soft tissue injuries); MRI can also be helpful to assess for
+ligamentous injury and disc herniation
+
+BY
+
+eu Aw
+

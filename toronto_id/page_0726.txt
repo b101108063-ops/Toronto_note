@@ -1,0 +1,197 @@
+1D8 Infectious Diseases
+
+Table 10. Pneumonia Severity Index — Clinical Prediction Rule for Prognosis
+
+Risk Factor Points Total Score Risk lass Mortality Recommendation
+Demographics SI 1 ons Consider outpatient
+Men ‘Age (yr)
+
+Women Age (yr) 10
+
+Nursing homeresident 0
+
+Coexisting ness 5470 0 06% Consider outpatient
+Neoplastic disease +30
+
+Liver disease +20
+
+Congestive heartfilure 10
+
+Cerebrovascular disease 10
+
+Renal disease +10
+
+Physical Exam 790 09.28% Consider outpatient
+‘Altered metal status 20
+
+Respiratory rate230 breaths/min 20
+
+sBP<80mmig 20
+
+T<35°C or 240°C 5
+
+HR2125 bpm 10
+
+Investigations 91-80 v 82.93% Hospitalize
+
+Arterial pH 7.35 +30
+
+BUN 230 maid 20
+
+Sodium <130 mmol/L 20 ~130 v 210292% ——Hosptalze
+‘Glucose 2250 mg/dl 10
+
+Hematocrit<30% 10
+
+Partial pressureot arterial 0: <60mmig +10
+
+Pleural effusion 10
+
+‘Adapted with permission from Diagnosis and Treatment of Community Acquire Pheumonia, February, 2006, Vol73, No 3, American Family Physician Copyright © 2006 American
+‘Academy of Family Physicians. Al RightsReserved
+
+Table 11. IDSA/ATS Community-Acquired Pneumonia Treatment Guidelines 2019
+
+Setting Circumstances Treatment
+‘Outpatient Ho comorbidities or isk factors for MRSA or. aeruginosa! ‘Amoxicilin OR Doxycycline OR Macrolide (cal pneumococcal resistance <25%)?
+
+Comorbiites? Amoxicilinidavulanateorcephalsporin' AND Macrolide? or doxycycline
+
+OR Respiratory fuacoquinolone®
+
+Inpatient Nonsevereinpatient peumonia! and norsk factorsforMRSAor. lactam’ «macrolide? OR respirator luoroqunolone*
+
+‘aeruginosa
+
+‘Severe inpatient pneumonia‘ and noriskfactors for MRSA or . Hactan + macrolide? OR actan’ «fluoroquinolone
+
+‘aeruginosa’
+
+‘Given diferent regional resistance patterns, therapy shouldbe based on local epidemiology and ste-specific recommendations
+Reersto empiric treatment tobe started. Appropriate antibiotic therapy should be talore if pathogen i ientified
+
+1 Previous respiratoryisoation of MRSA oP aeruginosa or recent hospitalization AND parenteral antibiotic use in ast 3 mo: loca validated risk actors
+
+2. Macroide: use azithromycin or claithromycin
+
+3. Comorbiits: chronic heart, lung, ver or ena disease, DM, alcohol use disorder, malignancy, aspenia
+
+4. Cephalosporin:cefpodoxime or cefuroxime
+
+5. Respirator uoroquinolone: moxifloxacin eofloxacin
+
+6. Severe=1 major citerion or 23 minor itera, Minor ceria: respiratory ate 230 breaths/min, PasFiOz ratio «250, mutlobarinftrtes, contusion Msorentation, BUN 220 mg/dL, WBC
+-<4000/pL due to infection, Pit <100000)L, T<36°C, hypotension with aggressive laid esusciation. Majo criteria: septic shock with vasopressrs, respiratory failure with mechanical
+entiation
+
+7. lactam: ampiciin ulbactan, cefotaxime ceftriaxone, cettarline”
+
+UDSA: Infectious Diseases Society ot America
+
+ATS: American Thoracic Society
+
+“vallable in Canada through the Special Access Program
+
+Table 12. IDSA/ATS Hospital-Acquired (HAP) and Ventilator-Associated (VAP) Pneumonia Clinical
+Practice Guidelines 2016
+Setting Treatment
+Clinically suspectedHAP(non-VAP) One of:
+with noincreaseinlikeltood piperacilin-tazobactam
+‘ofMRSAand no athigh-rsk of OR cefepime
+mortality ORlevottoxacin
+‘ORimipenem
+‘OR meropenem
+Clinically suspectedHAP(non-VAP) One of: PLUS one of: vancomycin or linezolid for MRSA coverage
+
+with increasing ikelihood of MRSA
+‘and not at high-risk of mortality
+
+piperaclin-tazobactam
+OR cefepime or ceftazidime
+‘ORlevofloxacin or cprofioacin
+ORimipenemor meropenem
+ORaztreonam*
+
+Clinically suspected HAP (non-VAP) — Twooof the following (avoid 2p actams}:
+
+with high-risk of mortality or piperaciln-tazobactam
+
+recipientoflVantbiotcsinlast —ORcefepime or ceftazidime
+
+90d ‘OR levofloxacin or cprofioacin
+ORimipenemor meropenem
+ORaztreonam*
+
+‘ORamikacinor gentamicinor tobramycin
+One of:
+
+PLUS either MRSA0or MSSA coverage:
+
+MRSA: vancomycin or linezokd
+
+ORMSSA: piperacilintazobactam, cefepime, levofloxacin,
+nem, meropenem
+
+Clinically suspected VAPimn units PLUS one of:
+
+‘whereempiric MRSA coverage
+‘and double antipseudomonal/GN
+«overage are appropriate
+
+f-lactam/B-lactamase inhibitor (piperacilin/tazobactam)
+‘OR antipseudomonal cephalosporin (cefepime or ceftazidime)
+‘OR antipseudomonal carbapenem (imipenem or meropenem)
+
+‘antipseudomonal fluoroquinolone (<profloxacin or levofloxacin)
+ORaminoghcoside (amikacin, gentamicin, or tobramycin)
+ORpolymyxins coitin or polymyxin B)
+
+‘ORmonobactam (aztreonam) PLUS one of: vancomycin o linezolid for MRSA coverage
+
+Refersto enprictreatment tobe started. Appropriate antibiotic therapy shouldbe tare pathogen is ented
+“avaiable in Canada trough the Special Access Program
+
+Risk factors formortality include need for ventilatory support due to pneumonia and septic sock
+
+Risk factors for MOR VAP: prior I antibiotic use within 90d, septic shock atime of VAP, ARDS preceing VAP, 5+ dot hospitalization prior to VAP onset, acute renal replacement therapy prior
+tovAPonset
+
+Risk actors for MOR HAP, MRSAVAPIHAP, or MDR Pseudomonas VAPIHAP: Prior antibioticuse within 806
+
+Note: Indications for MRSA coverage incldesIV antibiotic treatment during the prior 90d and treatment ina unit where prevalence of MASAO .auresisoatesis not known or's>20%
+Note: These guidetines maybe lesSappicablein Canada given lower rates of antibiotic resistance among common nosocomial pathogens
+
+Toronto Notes 2025
+
+Interstitial Pneumonia
+‘oStuat Jantzen 2012
+
+Figure 6. Lobar, broncho-, and
+interstitial pneumonia
+
+Diagnosis and Treatment of Adult with Community.
+Acquired Pneumonia: An Oficial Clinical Practice
+Guideline ofthe American Thoracic Society and
+Infectious Diseases Society of America
+
+Am Respir rit CareMed2019;200:e45-267
+
+The Pneumonia Severty Index preferred over the
+CURB-65 tool for determining inpatients. outpatient
+treatment,
+
+Testor inflenca with rapid influenza molecular assay
+when ts circulatingin the community.
+
+Obtaining Blood C8S or sputum Gram stain 8S
+toatinelyin adults with CAP managed inthe outpatient
+settings not recommended.
+
+Obtaining pretreatment blood CAS and sputum Gram
+stainCASisrecommen edn adults with CAP managed
+inthe hospital setting who (1 are clssfied as severe
+AP or (2) are being empirically treated for MRSA or
+aeruginosa ot 3) were previous infected with MRSA
+0 P.aeruginsa orf) were hospitalized andreceived
+parenteralantiiticsin the last 904
+

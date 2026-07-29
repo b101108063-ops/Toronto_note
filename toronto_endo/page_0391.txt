@@ -1,0 +1,186 @@
+FMI5 Family Medicine
+
+Table 7. Pharmacologic Treatments for Smoking Cessation
+
+Drug Mechanism Dosage Prescribing” Contraindications
+
+Seizure disorder
+Eating disorder
+MAOluseinthepast 14d
+Simultaneous use of bupropion
+(Welibutrin®) for depression
+
+Bupropion Inhibits reuptakeof dopamine 1.150. mg qgAMx3d
+andor NE 2.Then 150 mgBIDx
+Sideettets:insomnia, dry mouth 7-12 wk
+
+3.For maintenance
+‘consider 50 mg BID for
+wpto6mo
+
+1.05 mg gill x34
+2.Then 0.5 mg BID x4 4
+3. Continue 1 mg BID x12
+wks additional wkas
+maintenance
+
+1.Decide ona quit date
+2. Continue to smoke for first 2 wk
+of treatment and then completely stop
+(therapeutic levels reached int wk)
+
+Vareniciine Partial nicotinic receptor
+‘agonist, and partial competitive
+antagonist of nicotinic receptor
+
+Sideetects: nausea, vomiting,
+
+‘constipation, headache, dream
+
+‘disorder, insomnia, increased risk
+‘of psychosis, depression, suicidal
+ideation
+
+‘Decide ona quit date (e.gday 8)
+2. Startvarenicline then quit on day 8
+
+Caution with pre-existing psychiatric
+condition
+
+‘Alternatively, a gradual quit dateis acceptable
+(estat varenicine and reduce smoking 50%
+by wk 4, reducean additionalS0% by wk 8,
+‘and continue reducing with a goal of complete
+abstinence by wk 12)
+
+“Bupropion and varenicline maybe wsed in combination with RT
+
+. Pregnant patients: counselling is recommended as first line treatment
++ NRT should be made available to pregnant women who are unable to quit using non-pharmacologic
+methods
+«= intermittent NRT use (lozenges, gum) is preferred over continuous dosing of the patch
+= no strong evidence that either major positive or negative outcomes were associated with gestational use of
+bupropion or varenicline; consider using only if benefits outweigh risks
++ unwilling to quit
+= motivational intervention (5 Rs)
+1, Relevance to patient
+— relevance to patient's disease status or risk, family or social situation (e.g. having children in
+the home), health concerns, age, gender
+2. Risks of smoking
+— short-term: SOB, asthma exacerbation, impotence, infertility, pregnancy complications,
+heartburn, URTI
+— long-term: MI, stroke, COPD, lung cancer, other cancers
+— environmental: higher risk in spouse/children for lung cancer, SIDS, asthma, respiratory
+infections
+3. Rewards: (benefits)
+— improved health, save money, food tastes better, good example for children
+4. Roadblocks: (obstacles)
+— fear of withdrawal, weight gain, failure, lack of support
+5. Repetition
+— reassure unsuccessful patients that most people try many times before successfully quitting
+(average number of attempts before success is 7)
+* recent quitter
+« highest relapse rate within 3 mo of quitting
++” minimal practice: congratulate success, encoura; ongoing abstinence, review benefits and risks
+prescriptive interventions: address problem(s) of weight gain, negative mood, withdrawal, lack of
+support
+
+Alcohol Use
+
++ see Psychiatry, PS28
+
+Definition
++ alcohol use disorder diagnostic categories occur along a continuum
+
+Epidemiology
+
++ 10-15% of patients in family practice misuse alcohol
+
++ 20-50% “of hospital admissions, 10% of premature deaths, 30% of suicides, and 50% of fatal traffic accidents
+in Canada are alcohol-related
+
++ more likely to miss diagnosis in women, elderly, and patients with high socioeconomic status
+
+Assessment
++ screen for alcohol dependence with CAGE questionnaire
+= if CAGE is positive, further explore for the possibility of alcohol misuse or dependence
++ assess drinking profile
+= setting, time, place, occasion, with whom
+= impact on family, work, social life
+= quantity-frequency history
+ howmany drinks per day?
++ how many days per week?
+* maximum number of drinks on any one day in the past month?
++ the Alcohol Use Disorders Identification Test (AUDIT) is another useful tool to assess alcohol use, drinking
+behaviours, and alcohol-related problems
++ if identified positive for alcohol use disorder:
+screen for other drug use
+identify am medical psychiatric complications (e.g. delirium tremens or withdrawal seizures)
+ask about drinking and driving
+ask about past recovery attempts and assess current readiness to change
+
+Toronto Notes 2025
+
+a
+
+Physician Advice for Smoking Cessation
+Cochrane DB Syst Rev 2013 5:€D000165
+
+Purpose: Toassesstheefetvenes of physician
+adviein promoting smoking cessation, compare
+minimal physician interventions with more intensive
+interventions, assess the effectiveness of various aids
+insmoking cessation, and determine the effect of ant-
+samoking advice on mortality,
+
+Methods: Systematic review of CTs of smoking
+cessation advice oma medical practitioner
+Abstinence was assessed 26 mn after advice was fist
+provided.
+
+Results: Trials with ove 31000 smokers were
+identified, Most common setting for advice delivery
+was primary care. A signfcant increase in quitting
+rates was noted with advice vs no advice (R 1.65,
+95% C1 142-19), which wasfurtherinceased where
+the intervention was considered more intensive QR
+1.84, 95% C11.60-213; ns). Intensive advice showed
+small, non-significant advantage vs. minimal advice
+when direct compared (@R 1.37, 95% C11.204.56). A
+smallbeneft wit folow-up visits was also noted. No
+statistical significant ference in mortatyat20yr
+follow up was found,
+
+Condusion: Simple advice canincreasesmoking
+cessation rates by 3% on op of the unassisted quit
+rate, Mote intensive advice and providing followup
+support may further increase quitrates,
+
+Standard Drink Equivalents
+
+One standard drink = 13.64 g of pure
+alcohol
+
+Beer Cider/Cooler (5% alcohol) = 12 oz
+Malt liquor (7% alcohol) = 8-9 oz
+
+Wine (12-17% alcohol) = 5 oz
+
+Fortified wine = 3 oz
+
+Hard liquor (40%) =1.5 02
+
+CAGE Questionnaire
+Have you ever felt you needed to Cut down
+‘on your drinking?
+
+Have people Annoyed you by criticizing
+your drinking?
+
+Have you ever felt Guilty about drinking?
+
+Have you ever felt you needed a drink first
+thing in the morning (Eye-opener) to steady
+your nerves or to get rid of a hangover?
+
+Two “yes” responses is considered positive

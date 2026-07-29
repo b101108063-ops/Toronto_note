@@ -1,0 +1,109 @@
+ER46 Emergency Medicine
+
+«= avoids “afterdrop” seen with active external re-warming alone
+= re-warm core by usin;
+warmed humidified oxygen, IV fluids
+* peritoneal dialysis with warm fluids
+* gastric/colonic/pleural/bladder irrigation with warm fluids
+« external circulation (ECMO) is most effective and fastest
+= transfer to ECMO capable centre as soon as possible
+
+Approach to Cardiac Arrest in the Hypothermic Patient
+
+treatment focus: active core re-warming (preferably with extracorporeal membrane oxygenation, ECMO,
+over cardiopulmonary bypass)
+
+intubate if required, ventilate with warmed, humidified O2
+
+do all procedures gently or may precipitate VFib
+
+check pulse and rhythm for at least 1 min; may have profound bradycardia
+
+if any pulse at all (even very slow) do NOT do CPR
+
+if in VFib try to defibrillate up to maximum 3 shocks if core temperature <30°C
+
+intubate if required, ventilate with warmed, humidified O2
+
+medications (vasopressors, antidysrhythmics) may not be effective at low temperatures (controversial); may
+try one dose
+
+. fovus of treatment is re-warming
+
+FROSTBITE
+
+Classification
+ice crystals form between cells
+
++ classified according to extent of initial lesion at day 0 after rapid rewarming
++ Grade depth for frostbite injuries of the extremities:
++ Grade 1
+= absence of initial lesion
++ Grade 2
+= initial lesion on distal phalanx
++ Grade 3
+= initial lesion on intermediary and proximal phalanx
++ Grade 4
+= initial lesion on carpal/tarsal
+Management
++ treat for hypothermia: 02, IV fluids, maintenance of body warmth
+* remove wet and constrictive clothin;
++ immerse in 37-39 °C agitated water for 10-30 min (very painful; administer adequate analgesia)
++ clean injured area and leave it open to air
++ consider aspiration/debridement of blisters (controversial)
++ debride skin
++ tetanus prophylaxis
++ consider antibiotics as frostbite injury has high-risk of infection
++ surgical intervention may be required to release restrictive eschars (compartment syndrome)
++ never allow a thawed area to re-chill/freeze
++ consider using tPA and/or iloprost for severe burns, in conjunction with specialist advice
+
+Burns
+«see Plastic Surgery, PLI8
+
+Clinical Features/Physical Exam Findings
++ burn size
+
+= rule of nines; does not include Ist degree (superficial) burns
++ burn depth
+
+superficial (Ist degree): epidermis only (e.g. sunburn), painful and tender to palpation
+
+superficial partial thickness (2nd degree): extends to epidermis and superficial dermis, blister
+formation occurs, very painful
+deep partial thickness (2nd degree): involves hair follicles, sebaceous glands; skin is blistered, exposed
+dermis is white to yellow, absent sensation
+full thickness (3rd degree): epidermis and all dermal layers; skin is pale, insensate, and charred or
+leathe:
+deep ith degree): involvement of fat, muscle, even bone
+
+Management
++ remove noxious agent/stop burning process and consider appropriate PPE usage
+establish airway if needed (indicated with burns >40% BSA or smoke inhalation injury or signs of
+significant upper airway burns)
+resuscitation for 2nd and 3rd degree burns (after initiation of 2 large bore IVs)
+fluid boluses if unstable
+once stable, use Parkland or other formula to guide replacement of insensate losses
+= Parkland Formula: Ringer’s lactate 4 cc/kg/% BSA burned; give half in first 8 h, half in next 16 h;
+maintenance fluids are also required if patient cannot tolerate PO hydration
+= urine output is best measure of resuscitation, should be 40-50 cc/h or 0.5 cc/kg/h; avoid diuretics
++ pain relief: continuous opioid (e.g. hydromorphone, fentanyl, morphine) infusion for pain with breakthrough
+loses PRN
+
+‘Toronto Notes 2025
+Anterior
+a 4”
+% %
+Posterior
+4 4
+% %
+2
+Rg
+z
+g
+
+Figure 12. Rule of 9s for total BSA
+
+BSA percentages differ in pediatric patients
+(eg. infants have proportionately larger
+heads).

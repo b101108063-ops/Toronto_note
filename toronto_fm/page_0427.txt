@@ -1,0 +1,82 @@
+FM51 Family Medicine Toronto Notes 2025
+
+— appearance of small vesicles that rupture and ulcerate on soft palate, tonsils, pharynx
+— ulcers are pale grey, several mm in diameter, have surrounding erythema, and may appear
+on hands and feet
++ herpes simplex virus
+— like coxsackie virus, but ulcers are fewer and larger
+— pharyngitis, tonsillar exudate, fever, lymphadenopathy, fatigue, rash
++ bacterial
+= symptoms: pharyngitis, fever, malaise, headache, abdominal pain, absence of cough
+« signs: fever, tonsillar or pharyngeal erythema/exudate, swollen/tender anterior cervical nodes, halitosis
+= complications
+* suppurative: abscess, sinusitis, otitis media, cervical adenitis, pneumonia
+* nonsuppurative: acute rheumatic fever, acute glomerulonephritis
+
+Table 24. Modified Centor Score: Approach to Diagnosis and Management of GABHS
+
+Criteria Points
+Cough absent? 1
+
+History of fever =38°C? 1
+
+Tonstlar exudate? 1
+
+‘Swollen, tender anterior nodes? 1
+
+Ages514 1
+
+Ages 15-44 o
+
+Ages >45 A
+
+In communities with moderate levels of strepinfection (10-20% of ore throats):
+
+Score 02 Sormore
+
+Riskof GABHS 14% 28-53%
+
+Suggested action Nofurthertesting or antibiotics _—~Perform rapid antigen detection test(RADT) and treat with ABxif postive. For negative
+
+RADI and patient <20 yr, perform throat culture and treat with ABx f cultureis positive.
+Formegative RADT and patients 220 yr, noABx should be given
+
+Note: Patients who score 2 points should undergo RADT if they are under 18, immunocompromised, fail, or otherwise clinically unwell
+Limitations:
+
+“This score is not applicable to patients <5 yr
+
+“if an outbreak or epidemic of ines caused by GABHS is occurring in any community, the score is invalid and should not be used
+‘Adapted trom: Centor RM, et al. Med Decis Making 1981;1:239-46; Sykes EA, et al. Can Fam Physician. 2020 Apr, 66(4): 251-257,
+
+Investigations
++ suspected GABHS
+= see Table 24 for approach to diagnosis and management of GABHS
+gold standard for diagnosis is throat culture
+rapid antigen detection testing: high specificity (95-99%), but moderate sensitivity (85%)
+nucleic acid detection: high sensitivity (92%)
+poputations at increased risk of GABHS complications, such as Indigenous peoples in Canada, are more
+ikely to benefit from testing
++ suspected EBV (infectious mononucleosis)
+= peripheral blood smear, heterophile antibody test (i.e. the latex agglutination assay or “monospot”)
+
+Management
++ viral pharyngitis
+«= antibiotics not indicated
+= symptomatic therapy: acetaminophen/NSAIDs for fever and muscle aches, decongestants
++ GABHS
+antibiotic treatment decreases severity and duration of symptoms, risk of transmission (after 24 h of
+treatment), and risk of rheumatic fever and suppurative complications
+10d of treatment required
+incidence of glomerulonephritis is not decreased with antibiotic treatment
+no increased incidence of rheumatic fever with 48 h delay in antibiotic treatment; if possible, delay
+antibiotic treatment until culture confirms diagnosis
+routine F/U and/or post-treatment throat cultures are not required for most patients
+F/U throat culture only recommended for: patients with history of rheumatic fever, patients of family
+member(s) with history of acute rheumatic fever, and patients who are suspected streptococcal carriers
++ infectious mononucleosis (EBV)
+self-limiting course; antibiotics are not indicated
+symptomatic treatment: acetaminophen/NSAIDs for fever, pharyngitis, malaise
+avoid heavy physical activity and contact sports for at least 1 mo or until splenomegaly resolves due to
+risk of splenic rupture
+if acute airway obstruction, give corticosteroids and consult ENT

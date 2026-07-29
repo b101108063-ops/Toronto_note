@@ -1,0 +1,172 @@
+GY47 Gynecology
++ trytorule out other primary source (if suspected), based on:
+= occult blood per rectum: endoscopy + barium enema
+= gastric symptoms: gastroscopy + upper Gl series
+= abnormal vaginal bleeding: endometrial biopsy to rule out concurrent endometrial cancer; abnormal
+cervix: need to biopsy cervix (not Pap smear); breast lesion identified or risk factors present:
+
+mammogram
+
+Table 27. FIGO Staging for Primary Carcinoma of the Ovary (Surgical Staging) (2014)
+
+Stage Description
+
+1 Growth limited tothe ovaries
+
+W ‘ovary no ascites, notumour on external surface, capsule intact, negative washings
+
+B ovaries, no ascites, no tumour on external surface, capsule intact
+
+c ‘Lor 2ovaries with any ofthe following: surgical pil C1), capsule ruptured (C2), tumour on ovariansurface(IC2), or malignant cellsin ascites (1C3)
+0 Growth involving one or both ovaries wth pelvic extension or primary peritoneal cancer
+
+my Extension implants to uteru/tubes
+
+18 Extension o other pelvic structures
+
+mW Tumour involving one or both ovaries with peritoneal implants outside the pelvis andlor positive retroperitoneal nodes
+
+uA Postve retroperitoneal LNs andlor microscopic metastasis beyond pelvis
+
+wat Postve retroperitoneal LNs
+
+waa Microscopic, extrapelvc peroneal involvements positive retroperitoneal Ws
+
+NB Macroscopic peritoneal metastasis beyondpelvis =2cm, «positive retroperitoneal LN. Includes extensionto capsule of liverspleen
+
+ine Same as above but peritoneal metastasis >2 cm
+
+v Distant metastasis beyond peritoneal cavity
+
+WA Pleural effusion with positive cytology
+
+NB Hepatic andlor splenic parenchymal metastasis or metastasis to extr- abdominal organs inguinal LNsand LNs outside of abdominal cavity included)
+
+F1GO = International Federation of Gynecology and Obstetrics
+Cervix
+
+MALIGNANT CERVICAL LESIONS
+
+Epidemiology
+
+* majority are SCC (90%); adenocarcinomas increasing (10%); rare subtypes include small cell,
+adenosquamous
+
++ 405 deaths annually in Canada
+
+average age at presentation: 50 yr; bimodal distribution (increased frequency in 40s and 60s)
+
+Etiology
+
++ atbirth, the vagina is lined with squamous epithelium; columnar epithelium lines only the endocervix and
+the central area of the ectocervix (original squamocolumnar junction)
+
++ during puberty, estrogen stimulates eversion of a single columnar layer (ectopy), thus exposing it to the
+acidic pH of the vagina, leading to metaplasia (change of exposed epithelium from columnar to squamous)
+
+= anew squamocolumnar junction forms asa result
+
++ the TZ is the area located between the original and the current squamocolumnar junction
+
++ the majority of dysplasias and cancers arise in the TZ of the cervix
+
++ must have active metaplasia in presence of inducing agent (e.g. HPV) to get dysplasia
+
++ dysplasia progresses to carcinoma in situ, which further progresses to invasion of cervical tissues
+
++ slow process (~10 yr on average)
+
++ growth is by local extension
+
++ metastasis occurs late
+
+Risk Factors
++ HPVinfection
+= see Sexually Transmitted Infections, GY28
+= high-risk of neoplasia associated with types 16, 18, 31, 33, 35, 39, 45, 51, 52, 56, 58, 59, 68, 73, and 82
+= low-risk of neoplasia associated with types 6, 11
+= >99% of cervical cancers contain one of the high-risk HPV types
++ high-risk behaviours (risk factors for HPV infection)
+= multiple partners
+= other STIs (HSV, trichomonas)
+= early age at first intercourse
+= high-risk male partner
+
+Toronto Notes 2025
+
+ARiskof Malignancy Incorporating CAA25,
+Utrasound, and Menopausal Status forthe Accurate
+Preoperative Diagnosisof Ovarian Cancer
+8106 1990;97972-929
+RMI=UxMxCh25
+Utrasound Findings (1ptforeach)
+Maitloclar cyst
+idence of solid areas
+idence of metastases
+Presence of aces
+Bilateral sions
+U=1(for US scoresof 0 or)
+U=4(for US scoresof2-5)
+MenopausalStatus
+Postmenopausal M=4
+Premenapausal: M=1
+Absolute Value of CA-125 Serum Level
+For RMD-200: gynecologic oncology referralis
+recommended
+
+)
+
+Optima Primary Surgical Treatment for Advanced
+FpithefalOvarianCancer
+
+Cochrane Database Syst Rev 2011 8):CD007565
+Sammary During primary surgery or stage I or
+epithelial ovarian cance a attempts shouldbe made
+toachieve complete cytoreduction, When this isnot
+achievable optimal (cn) esd ual disease should
+bethe goal
+
+Methods: dented 1 retrospective studies consisting
+04735 women sing comprehensive seach strategy.
+Rests:
+
+‘When uboptimal margins» cx was compared with
+tina <1 on) ytoreduction, the survival estimates
+were reduced but remained statistical in favour ofthe
+lower volume disease group
+Nosigitca dteenc in overall survival between
+suboptimal and optimal oreduction
+
+Border dterence in progtession-ee survival
+when residual disease>2cm and <2 were compared
+(90.05),
+
+Original squamous epithelium
+Squamous metaplasia
+= Columnar
+epithelium
+
+_- Gland
+~~ opening
+
+Externalos
+
+New squamo-
+‘columnarjunction
+
+Original squamocolumnar
+
+©dyalah Hutchins
+
+junction
+
+Figure 22. The cervix
+
+Cervical cancer is most prevalent in
+developing countries and is therefore
+
+the only gynecologic cancer that uses
+clinical staging; this facilitates consistent
+intemational staging with countries that do
+not have technologies such as CT and MRI
+

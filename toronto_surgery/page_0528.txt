@@ -1,0 +1,121 @@
+G36 General and Thoracic Surgery
+Investigations
++ laborato:
+
+. mild leukocytosis with left shift (may have normal WBC counts)
+«= higher leukocyte count with perforation
+. BCG to rule out ectopic pregnancy
+= urinalysis
++ imaging
+= US: may visualize appendix, but also helps rule out gynecological causes - overall accuracy 90-94%,
+can rule in but CANNOT rule out appendicitis (if >6 mm, sensitivity, specificity, positive predictive
+value, negative predictive value 98%). Less reliable in patients with igh BMI and retrocecal appendix
+position, and may not reliably identify the presence of a phlegmon
+= CT scan: thick wall, enlarged (>6 mm), wall enhancement, appendicolith, and inflammatory changes -
+overall accuracy 94-100%, optimal investigation
+= MRI may be useful to diagnose appendicitis in pregnancy if ultrasound is non-diagnostic
+
+Treatment
++ hydrate, correct electrolyte abnormalities
++ for non-perforated:
+= appendectomy is the gold standard, laparoscopic is standard
+= complications: intra-abdominal abscess, appendiceal stump leak
+= perioperative antibiotics: cefazolin + metronidazole; if uncomplicated, perioperative dose is adequate
+= randomized data supports that antibiotics alone is also a safe and effective way to treat non-perforated
+appendicitis if there is no appendicolith (success rate 80% to >90%). If successfully managed, the risk
+of recurrent appendicitis within 1 year is ~15%. Success rates are worse with an appendicolith and non-
+operative management is not recommended
+= no specific indication for colonoscopy in this setting, other than general colon cancer screening
++ for perforated (usually associated with longer 4-5 d history):
+# “ifabscess, consider radiologic drainage and antibiotics for 14 d with possible interval appendectomy
+once inflammation has resolved
+« if phlegmon but no abscess, antibiotics only (since there is nothing to drain)
+* occasionally, can consider upfront surgery but usually surgery is reserved for failure of nonoperative
+management. Consider treatment with postoperative antibiotics
+= colonoscopy can be considered especially if >50 yr to rule out concurrent etiology (neoplasm)
+
+Prognosis
+* mortality rate: 0.09-0.24%
+
+Inflammatory Bowel Disease
+
+* see Gastroenterology, G22
+
+Principles of Surgical Management
++ lifestyle and medical management remain first line. Surgery can alleviate symptoms, address complications,
+and improve quality of life when symptoms are too severe or failed to respond to initial treatment
++ perioperative management
+= optimize medical status: may require TPN (especially if >7 d NPO) and bowel rest
+= perioperative stress dose of steroids may be required depending on dose and duration of steroid use
+. slucocorticoids are aknown risk factor for 30 d postoperative infections and should be weaned to a
+aily dose < 20mg if possible. Conversely, immunomodulators can typically be safely continued in the
+perioperative period
+» VTE prophylaxis: LMWH or heparin (IBD patients at increased risk of thromboembolic events)
+
+Crohn’s Disease
+
+« see Gastroenterology, G23
+
+Treatment
++ surgery is for symptom management; it is NOT curative, but over lifetime ~70% of Crohn’s patients will
+have surgery
++ indications for surgical management
+« failure of medical management
+= SBO (due to stricture/inflammation): indication in 50% of surgical cases
+= abscess, fistula (enterocolic, vesicular, vaginal, cutaneous abscess), quality of life, perforation,
+hemorrhage, chronic disability, failure to thrive (children), and perianal disease
++ surgical procedures
+= resection and anastomosis/stoma if active or subacute inflammation, perforation, or fistula
+«= endoscopic dilation and stricturoplasty for small bowel and colorectal strictures
+= stricturoplasty — widens lumen in chronically scarred bowel: relieves obstruction without resecting
+bowel (contraindicated in acute inflammation)
+= surgery should be attempted in the elective setting ideally off steroids
++ resection margin only has to be free of gross disease (microscopic disease irrelevant to prognosis)
+
+Complications of Treatment
++ anastomotic leak
++ dehydration
+
+Toronto Notes 2025
+
+@
+
+Antibiotics versus Appendectomy for Acute
+Appendicitis-Longer Term Outcomes
+
+Engl Med 2021;385(25):2395 Epub 2021 Oct 25.
+Purpose: Compare the efcacy of antibiotics. an
+appendectomy for acute appendicitis with respectto
+Jong -ermouteomes.
+
+Method: Randomized tral comparing antibiotic
+treatment with appendectomy in patients with
+appendicitis.
+
+Results: The30¢ general health status of patients
+treated with antibiotics was comparable tothe
+appendectomy group. However, 29 percent of
+meically rated patients required appendectomy by
+904. Longer erm data romthistianow confirm high
+rats of subsequent appendectomy ate intial medical
+therapy 40 percent atone year, 46 percent at two
+years, and 49 percent at thre and four years
+Conclusions: Surgery should continue tobe
+recommended fr uncomplicated appendicitis and
+antibiotic therapy shouldbe reserved for those who are
+‘medically unfitfor ode dine surgery.
+
+Crohn's 3 Major Patterns
+Neocecal 40% (RLO pain, fever, weight loss)
+‘Small intestine 30% (especially terminal
+jew
+
+Colon 25% (diarthea)
+
+Findings in Crohn's,
+“Cobblestoning” on mucosal surface due
+to edema and linear ulcerations
+
+“Skip lesions”: normal mucosa in between
+“Creeping fat”: mesentery infiltrated by fat
+Granulomas: 25.30%

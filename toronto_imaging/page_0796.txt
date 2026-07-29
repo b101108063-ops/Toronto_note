@@ -1,0 +1,76 @@
+MI6 ‘Medical Imaging
+
+we RUL
+PML
+r,t Wwe
+RML uw g
+RL R
+aL g
+Front AP Right-Lateral Back AP Left-Lateral 2
+
+RUL: Right Upper Lobe; RML: Right Middle Lobe; RLL: Right Lower Lobe; LUL: Left Upper Lobe; LLL: Left Lower Lobe
+Figure 3. Location of lobes of the lung
+
+Localizing Lesions for Parenchymal Lung Disease
++ silhouette sign: when two objects of the same radiodensity abut, they appear indistinguishable on imaging
+(i.e. the silhouette expected at an anatomical border due to difference in density disappears)
+«= can be used to identify lung pathology (consolidation, atelectasis, mass) and localize disease to specific
+lung segments
++ spine sign: on lateral films, vertebral bodies should appear progressively radiolucent (dark) as one moves
+
+down the thoracic vertebral column; if they appear more radiopaque, it is an indication of pathology (e.
+consolidation in overlying lower lobe)
+
++ air bronchogram: branching pattern of air-filled bronchi made visible on a background of opacification (i.e.
+
+solid or fluid-filled alveoli)
+
+Table 3. Localization Using the Silhouette Sign
+
+Interface Lost Location of Lung Pathology
+VCiight superior mediastinum UL
+
+Right heart border aML
+
+Right hemidiaphragm AL
+
+Aortic noite superior mediastinum we
+
+Left heart border Lingula
+
+Left hemidiaphragm Ww
+
+Chest Computed Tomography
+
+Approach to CT Chest
++ soft tissue window
+«= thyroid, chest wall, pleura
+« heart: chambers, coronary artery calcifications, pericardium
+= vessels: aorta, pulmonary artery, smaller vasculature
+«= lymph nodes: mediastinal, axillary, hilar
++ bone window
+= vertebrae, sternum, ribs: fractures, lytic lesions, sclerosis
++ lung window
+trachea: patency, secretions
+bronchi: anatomic variants, mucus plugs, airway collapse
+lung parenchyma: nodules, fibrosis, interstitial changes, consolidation, atelectasis
+pleural space: effusions, thickening
+
+Table 4. Types of CT Chest
+
+Advantage Disadvantage Contrast Indication
+Standard Scans flung very quickly (<1 min) Radiation + GR abnormality
++ high resolution reconstructions Pleural andmedastinal abnormatty
+Lung cancer staging
+Cancer follow-up
+Empyemaivs. abscess
+LowDose 1/5ththe radiation Decreased detail No Lung cancer screening
+Follow-up infections, lungtransplant, metastases
+mA lodinatedcontrasthighlightsvasculature (scan Contrastcan causesevere allergic Yes PE
+timed for maximum opacification of vessel _reactionand can causeacute Jorticaneurysms
+being studied) kidney injury Jotticdissection
+
+Toronto Notes 2025
+
+Figure 4. CT chest windows in axial
+view

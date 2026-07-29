@@ -1,0 +1,88 @@
+MI26 ‘Medical Imaging Toronto Notes 2025
+
+Respiratory
+
+V/Q Scan
++ evaluate areas of lung in which there is a ventilation/perfusion mismatch
++ ventilation scan — assess air flow within lungs
+= patient breathes radioactive gas (nebulized **mTc-DTPA, 133Xe, or most commonly Technegas™)
+through a closed system, filling alveoli proportionally to ventilation
+= ventilation scan defects indicate: airway obstruction (i.e. air trapping), chronic lung disease,
+bronchospasm, tumour mass obstruction
+perfusion scan ~ assess blood circulation within lungs
+= radiotracer injected IV ¢°mTc-MAA) > trapped in pulmonary capillaries (0.1% of arterioles occluded)
+according to blood flow
+« relatively contraindicated in severe pulmonary HTN, right-to-left shunt, previous history of
+pneumonectomy, and small children
+indicated to rule out PE
+= areas of lung that are well-ventilated but not perfused (unmatched defect) are suspicious for acute
+infarction
+= defects are wedge-shaped, extend to periphery, usually bilateral and multiple
+= useful in finding clinically important emboli
+modified V/Q scan (perfusion only, lower dose contrast) may be used for pregnant patients if CXR is normal
+or if there are ventilatory problems
+
+Cardiac
+
+Myocardial Perfusion Scan/Nuclear Stress Test
+
++ indications: diagnose and assess treatment of coronary artery disease (CAD), preoperative risk
+
+stratification, viability testing before percutaneous intervention or bypass surgery
+
+»°mTc-sestamibi or *mTe-tetrofosmin is injected: at peak exercise (85% max predicted heart rate by the
+
+Bruce protocol, chest pain, ECG changes), after persantine challenge (vasodilator), or after dobutamine
+
+infusion (chronotropic, again to 85% predicted heart rate)
+
++ persistent defect (present at rest and stress) suggests infarction or myocardial scar
+
++ reversible defect (only present during stress) suggests ischemia
+
+used to discriminate between reversible (ischemia) vs. irreversible (infarction) changes when other
+
+investigations are equivocal
+
++ COURAGE trial indicates that patients with >10% ischemic myocardium benefit most from
+revascularization
+
+« see Cardiology and Cardiac Surgery, C16
+
+Radionuclide Ventriculography
+
++ °milc-tagged to red blood cells
+
++ non-invasive method of assessing ventricular function and intracardiac hemodynamics (i.e. ejection
+fraction, presence of shunts, ventricular volume, and regional wall motion)
+
++ cardiac MUGA scan sums multiple cardiac cycles, usually at least 200 beats
+
+indications: most commonly to monitor potential cardiac toxicity with chemotherapy or herceptin, as a
+
+gold standard of ejection fraction in defibrillator workup
+
+Abdomen and Genitourinary System
+
+HIDA Scan (Cholescintigraphy)
++ [Vinjection of “miTc-disofenin (DISIDA) or *mTe-mebrofenin which is bound to protein, taken up by
+hepatocytes, and excreted into the biliary system
++ indicated for patients who are suspected of having an obstruction in the biliary tract, to assess for bile leaks
+postoperatively, and for biliary dyskinesia
++ indicated in workup of cholecystitis when abdominal U/S result is equivocal:
+= acute cholecystitis: no visualization of gallbladder at 4 h or 1h after administration of morphine
+= chronic cholecystitis: no visualization of gallbladder at 1 h but seen at 4h or after morphine
+administration
++ DDx of obstructed cystic duct: acute/chronic cholecystitis, decreased hepatobiliary function (commonly
+due to alcoholism), bile duct obstruction, parenteral nutrition, fasting <4_h or >24h
+
+RBC Scan
++ IVinjection of radiotracer with sequential images of the abdomen (’*mTc RBCs)
++ Gl bleed evaluation
+= ifbleeding acutely at <0.5 mL/min, the focus of activity in the images generally indicates the site of the
+acute bleed
+= if bleeding acutely at >0.5 mL/min, use angiography (more specific, better for localizing, both
+diagnostic and therapeutic)
++ liver lesion evaluation
+= hemangioma has characteristic appearance: cold early (limited blood flow to lesion), fills in later
+(accumulation of tagged cells greater than surrounding liver parenchyma)

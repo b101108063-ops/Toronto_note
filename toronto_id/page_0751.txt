@@ -1,0 +1,110 @@
+1D33 Infectious Diseases
+
+Toronto Notes 2025
+
+ndemic Mycoses
+
++ fungal infection that occurs through the inhalation of spores (from soil, bird droppings, vegetation) or
+
+inoculation injury
+
++ thermally dimorphic organisms: mould in cold temperature (e.g. soil), and yeast at higher temperature (e.g.
+
+tissue)
+
+toplasmosis is commonly associated
+with exposure to chicken coops, bird
+roosts, and bat caves
+
++ inNorth America, the three major endemic mycoses are: histoplasmosis, blastomycosis, and
+
+coccidioidomycosis
+
++ NB. Previously defined regions of endemicity are expanding and can no longer be used to definitively rule
+out infections with specific organisms
+
+Clinical Features
++ may be asymptomatic
+
++ all can cause pneumonia and may disseminate hematogenously
+* may reactivate or disseminate during immunocompromised states
+
+Table 26. Endemic Mycoses
+
+Disease Endemic Region Clinical Features Investigations
+Histoplasma capsulatum — Ohioand Mississippi Asymptomatic (in mast people) Fungal alture, fungal stain
+River valleys in central Primary pulmonary ‘atigen detection (wine and serum)
+USA, Ontario, Quebec; Fever, cough, chest pain, headache, myalgia, anorexia Serology
+widespread CAR acute): pulmonary infiltrates» hilar lymphadenopathy
+CAR (chronic): pulmonary infiltrates, cavitary disease
+Disseminated (rare)
+Occurs primarilyin immunocompromised patients
+Spread to bone marrow (pancytopenia), Gl tract (ulcers), lymph
+nodes (ymphadenits, skin liver, adrenals, CNS
+Blastomyces dermatitidis States east of Mississippi May be asymptomatic Sputum smear and cuture
+River, Northem Ontario, Primary: acute or chronic pneumonia Direct examination of clinical specimens
+and along the Great Lakes Fever, cough, chest pain, chills, night sweats, weigh loss for characteristic boad based budding
+CAR acute):lobar or segmental pneumonia yeast (sputum, tissve, purlent material)
+CXR (chronic) lobar infiltrates, ibronoduar interstitial disease
+Disseminated
+Spread to skin(verucous lesions that mimic skin cancer, ukers,
+subcutaneous nodules), bones (osteomyelitis, estedlytc lesions,
+{genitourinary tract (prosatts, epididymitis
+Coccidioides immitis Deserts insouthwestUSA, “Valley fever" subacute fever chils, cough, chestpain, sore Sputumculture
+northwest Mexico throat, fatigue that lasts for who mo Direct examination of clinical specimens
+Candevelop hypersensitivity with arthralgias, erythemanodosum for characteristic yeast
+
+Disseminated
+
+Rare spread to skin ulcers), joints (synovitis, bones (tic
+lesions), meninges (meningitis)
+
+Common opportunistic infectionin patients with HN
+
+(sputum, tissue, purulent material)
+
+Opportunistic Fung
+
+Pneumocystis jirovecii (formerly P. carinii) Pneumonia: PJP or PCP
+
+Etiology
+
+respiratory exposure to unicellular fungus (previously classified as a protozoan)
+
++ canbe transmitted from person to person
++ without prophylaxis, HIV-positive patients with a CD4 count <200 cells/mm? have an 80% lifetime risk of
+
+PyP
+
++ most cases of PJP occur in patients who are unaware of their HIV infection, do not seek medical care for
+
+HIV, or who do not use prophylaxis
+
++ in HIV-negative patients, PJP occurs almost exclusively in immunocompromised patients (e.g. organ
+transplant patients, inflammatory conditions, hematological malignancies)
+
+ical Features
+
++ symptoms of pneumonia: fever, non-productive cough, progressive dyspnea (and hypoxia)
+
++ classic CXR findings of interstitial pneumonia
+
++ most clinical disease is due to reactivation of latent infection or reinfection by a different genotype in
+
+immunocompromised patients (steroid use, HIV)
+
+Investigations
+
++ serum LDH: elevated (>220 IU/L)
+
+ilateral symmetrical interstitial infiltrates
+educed pO: and elevated alveolar-arterial (A-a) gradient
+
++ induced sputum or lower airway sampling: positive for Pneumocystis
+
+Bilateral, dfuse opacities
+‘CXR may be normal (20-30% cases)
+
+CT shows cysts (hence the name
+Pneumocystis) but almost never pleural
+effusions

@@ -1,0 +1,89 @@
+OR37 Orthopedic Surgery Toronto Notes 2025
+
+Treatment
++ asymptomatic cysts do not require treatment
++ non-operative
+« indication: initial treatment for symptomatic secondary popliteal cysts
+identify and treat underlying cause
+rest, NSAIDs, cold packs for symptomatic treatment
+image guided aspiration and intra-articular steroid injection may offer temporary relief
+
+Quadriceps/Patellar Tendon Rupture
+
+Mechanism
++ patellar tendon
+
+= jumping event with sudden forceful contraction of quadriceps (ex: missing step, jumping sport)
++ quadriceps tendon
+
+= more common
+
+= eccentric loading of knee extensor mechanism, usually with foot planted and knee slightly bent
+
+al Features
+
++ inability to extend knee or weight-bear
+
+«+ tenderness and/or palpable gap at rupture site
++ possible audible “pop’
+
+patella in lower or higher position with palpable gap above or below patella, respectively
+may have an effusion
+
+Investigations
+
++ ask patient to perform straight leg raise (unable to with complete rupture, although may be inhibited by
+ain, if unclear, can reassess in 10 d)
+
++ knee x-ray to rule out patellar fracture, MRI to distinguish between complete and partial tears
+
++ lateral view: patella alta with patellar tendon rupture, patella baja with quadriceps tendon rupture
+
+Treatment
++ non-operative
+= indication: incomplete tears with preserved extension of knee
+= immobilization in brace, followed by progressive physiotherapy
++ operative
+= indication: complete ruptures with loss of extensor mechanism function
++ early surgical repair: better outcomes compared with delayed repair (>6 wk post-injury)
+«+ delayed repair complicated by quadriceps contracture, patella migration, and adhesions
+
+Dislocated Knee
+
+Mechanism
++ high energy trauma more common (i.e. MVC), low energy (sport-related), or ultra-low velocity (obesity)
++ by definition, caused by tears of multiple ligaments re)
+
+Clinical Features
++ knee instability a Caassification
+
++ effusion Singe cruciate (ACL or PCL) and single
++ pain callateral (MCL or PLC)
+
++ ischemic limb, neurological deficit, or compartment syndrome Type 2
+Injury to ACL and PCL
+Classification Type 3M ck and
++ Kennedy classification (based on direction of tibial displacement) classified by relation of tibia with respect ea wet
+to femur . ; Injury to ACL, PCL, and PLC
+= anterior, posterior, lateral, medial, rotary Type 4
++ Schenck classification (based on pattern of ligamentous injury) Injury to ACL, PCL, MCL, LCL
+Type 5
+Investigations Multiligamentous injury associated with
+
++ xray: AP and lateral fracture/dislocation of knee
+
+= associated radiographic findings may include extensor mechanism injury, tibial plateau fracture
+dislocations, proximal fibular Bactures, and/or avulsion of fibular head
++ assessment of NVS:
+= ABI (abnormal if <0.9)
+= arteriogram or CT angiogram ifabnormal vascular exam (such as abnormal pedal pulses or abnormal ABI)
+= detailed neurologic assessment, paying close attention to the peroneal nerve (foot drop is common)
+
+Treatment
++ urgent closed reduction and immobilization
+= can be complicated by interposed soft tissue (posterolateral variant)
+assessment and management of neurovascular injuries and compartment syndrome
+emergent operative repair if vascular injury, open injury, irreducible or grossly unstable dislocation, or
+compartment syndrome
+ligament reconstruction to restore knee stability is typically performed in a delayed fashion
+early, comprehensive physiotherapy

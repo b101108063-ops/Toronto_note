@@ -1,0 +1,115 @@
+E63 Endocrinology
+
+Trial Name Reference linicat Trial Details
+Diabetes Treatment
+AT Tia NEJM 2009;361:1736-T87 Title: Tiree Year Efficacy of Complex Insulin Regimens in T2DM: 4T Trial Study: Randomized
+
+TheACCORD Trial~ Blood Pressure NEJM 2010;362:1575-1585
+Control
+
+TheACCORD Til Combination NEJM 2010;362:1563-154
+Lipid Therapy
+
+pect NEJM 1993;329:977-986
+
+ol NEJM 2005;353:2644-53
+
+Unblinded Trial with 3 yr of Follow-up
+Population: 708 patients with T20M, not on insulin or thiazolidieione therapy onmaximal
+metformin and sulfonylurea therapy
+
+Intervention: Thrice-daily prandal insulin aspart, vs. twice-daily biphasic insulinaspart, vs.
+‘once-daily basal insulin detemir.Sufonylurea therapy was replaced witha secondary insulin
+regimespecifictoeacharmif therewas persistent hyperglycemia.
+
+Primary Outeome: Three yr HAT
+
+Results: Significant ditferencein rates of patient withdrawal from the study: 5.Tbiphasic,
+‘117% prandial, 85% basal regimens (P=0.04). There were no signcantdifferences inmedan
+HbAc levels between al three arms from yr 13. A smaller proportionof patients reached
+
+HA <6.5% or <7. 0%in the biphasic arm. Thebasal armhad the least weight gain andthe
+least weight ircumferenceincrease, but the highestrate of secondary insulin requirement.
+Thebasal armhad fewest severe hypoglycemic eventsper patient yea, whilethe biphasic had
+the most serious adverse effects.
+
+Conclusion: Basal insulin regimen provides the best glycemic control over a 3yr study, with
+better Hb control, ewer hypoglycemic events, and ess weight gain.
+
+Title: Effects of Intensive Blood Pressure Control in T2DM: The ACCORD Trial
+
+‘Study: RCT, unblinded with 4.7 yr of meanfollow-up.
+
+Population: 4733 patients withT2DM, risk factors for cardiovascular CV) disease, systolic
+blood pressure (sBP) between 20-180 mig
+
+Intervention: BP control <120 mig (ntensive)or 40 mmig (standard)
+
+Primary Outcomes: Major CV event (composite nonfatal Ml nonfatlstroke, or C¥-related
+eat
+
+Results: Mean numberof medcatonsat tyr fr ntensve therapy was3.4 (95% C13 4.3.5)
+¥s.2:195%(12.42.2)forstandardtherapy. There was significant increase inl serious
+adverse events inthe intensive treatmentarm (3.3% vs. 1.27%, Ps0.001); especialy
+bradycania or arrhythmia (0.5%. 0.13%, P=0,02) and iyperkalemia 0.4% vs.0.04%,
+0.01). Therewas nosigiicant difference inprimary outcomes inthe two study ams, oF
+al-cause mortality. There was asignficantreductionin any stroke (0 32%/yrvs. 0.53%
+¥f,P-0.01) and nonfatal stoke incidences (030°uyrvs. 047%i/yr, P=0.03)in the intensive
+therapy arm.
+
+Conclusion: Intensive BPloweringto<120 mmiig vs. 40 mmig in patients with T2DM and CV
+risk factors does notreduce major CV event risk except for stokeevents.
+
+Title: Effects f Combination Lipid Therapy in T2DM: The ACCORD Trial
+
+‘Study: RCT, double-blinded trial with 47 yr of mean follow-up.
+
+Population: 518 patients with 120M.
+
+Intervention: Statinwith or without fibrate therapy.
+
+Primary Outcome: Major CVevent (composite nonfatal MI, nonfatal stroke, or Crelated
+death).
+
+Results: No significant differences in primary outcome between the two arms. No difference in
+<allMl,all stroke, or all-cause mortalty between study arms.
+‘Conclusions: The addition of fibrate therapy to statintherapy in patientswith T2DM does not
+reduce major CV event risk.
+
+Title: The Eftectof Intensive Treatment of Diabetes on the Development and Progression of
+Long-term Complicationsin Inslin-dependent Diabetes Mellitus
+Purpose: To investigate whether intensive treatment to
+reduces the frequency and severity of microvascular comp!
+Methods: 441patientswith T1DM received intensive therapy (23,
+‘or insulin pump, B6 monitoring OID with strict targets) or conventional therapy (1-2 insulin
+injections daily, B6 monitoring daily).
+
+Results: Intensive treatment of TIDM significantly reduced the riskfor the development and
+progression of retinopathy in primary- and secondary- intervention cohorts, respectively
+Intensive therapy alsoreduced the occurrence of mroabbuminura, albuminuria, and dinical
+neuropathy. Intensive therapy was associated withan increase inthe occurrence of severe
+hypoglycemia.
+
+Conclusion: Intensive treatment signficantly reduces the development and progressionof
+microvascular complications in T1DM.
+
+Title: Intensive Diabetes Treatment and Cardiovascular Diseasein Patents with Type 1
+Diabetes
+
+Purpose: To investigate whether intensive vs. conventional therapy during the DCCT tial
+influenced the long-termincidence of CVD.
+
+Methods: The DCCT trial randomly assigned 1441 patients with TIDM to intensive or
+‘conventional therapy fora mean of 65 yearsfrom1983-1993.93% were followed until 2005
+(€D10 for cardiovascular events.
+
+Results: During the mean 17-year follow-up, intensive treatment reduced the riskof any
+‘cardiovascular event by 42% (95% confidence interval (Cl), 9-63%; P=0.02) andof nonfatal M,
+stroke, or death rom VD by57% (CI, 12-79%; P=0.02).
+
+Conclusion: Long-term risk of CVD in patients with TIDM is reduced by intensivetherapy.
+
+normal blood glucose
+in T1OM.
+
+Toronto Notes 2025

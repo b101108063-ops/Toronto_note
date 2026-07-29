@@ -1,0 +1,110 @@
+OP32 Ophthalmology
+
+hydroxyamphetamine 1% (stimulates norepinephrine release) will dilate pupil if central or preganglionic
+lesion, not postganglionic lesion
+
+cocaine and hydroxyamphetamine are rarely used in practice due to issues with availability (cocaine used.
+mainly for children and hydroxyamphetamine is not available in Canada or USA)
+
+causes: mostly idiopathic but other causes include brainstem infarct (lateral medullary syndrome),
+Pancoast tumour, neck surgery, and carotid artery dissection
+
++ must rule out carotid artery dissection in acute Horner's syndrome (<14 d old)
+
+Iritis
+
++ miotic pupil initially
+
++ can become irregularly shaped pupil due to posterior synechiae
++ later stages non-reactive to light
+
+Argyll-Robertson Pupil
+
+both pupils irregular and <3 mm in diameter, + ptosis
+
+does not respond to light stimulation
+
+responds to accommodation (light-near dissociation)
+
+suggestive of neurosyphilis or other conditions (DM, encephalitis, MS, chronic alcoholism, CNS
+degenerative diseases)
+
+Relative Afferent Pupillary Defect
+
+Normal Pupillary Response 1. Swinging Light Test
+
+Direct response Consensual response Normal eye Pathological eye
+a
+Constriction of Constriction of Constriction of both pupils to normal
+
+stimulated eye '
+%,
+\ |
+
+2. Swinging Light Test
+
+unstimulated eye
+
+Pretectal nucieus Nommaleye Pathological eye
+
+Edinger-Westphal A 7~
+
+nucleus (I) => SS
+Constriction of both pupils to normal
+
+Y
+
+Oculomotor nerves (I!)
+
+OF
+Pticchiasm 3. Swinging Light Test
+
+Normal eye Pathological eye
+
+ODS
+
+Pupils appear to dilate = positive RAPD
+
++
+
+Rapidly swing light to pathological eye
+
+Optic nerve (I)
+
+Ciliary
+ganglion
+
+Constrictor muscles
+of pupil
+
+© Sam Holmes 2016 after Merry Shiyu Wang 2012
+
+Figure 23. Relative afferent pupillary defect
+
+also known as Marcus Gunn pupil
+impairment of direct pupillary response to light caused by a lesion in visual afferent (sensory) pathway,
+anterior to optic chiasm
+differential diagnosis: any unilateral or asymmetric optic neuropathy (e.g. optic neuritis, ischemic optic
+neuropathy, compressive optic neuropathy) or severe retinopathy (e.g. CRAO, large RD, CRVO)
+does not occur with media opacity (e.g. corneal edema, cataracts) or if optic neuropathy is symmetric (since
+it is relative)
+pupil reacts poorly to light and better to accommodation
+test: swinging flashlight
+
+« if light is shone in the affected eye, direct and consensual response to light is decreased
+
+« if light is shone in the unaffected eye, direct and consensual response to light is normal
+
+if the light is moved quickly from the unaffected eye to the affected eye, “paradoxical” dilation of both
+
+pupils occurs
+observe red reflex, especially in patients with dark irides
+
+Toronto Notes 2025
+
+Cataracts never produce a RAPD
+
+Differentiate RAPD from physiologic
+pupillary athetosis ("hippus”), which is
+rapid, rhythmic fluctuations of the pupil,
+with equal amplitude in both eyes

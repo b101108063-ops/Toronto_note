@@ -1,0 +1,122 @@
+NP31 ‘Nephrology
+
+Vascular Diseases of the Kidney
+LARGE VESSEL DISEASE
+
+Table 13. Summary of Vascular Diseases
+
+Large Vessel Disease Medium Vessel Disease ‘Small Vessel Disease
+
+Acute renal artery ocdusion (infarct) Kawasaki disease Hypertensive nephrosclerosis
+
+Renal artery stenosis (ischemia) Polyareritis nodosa ‘Atheroembolic renal dsease
+
+Renal vein thrombosis ANCA-associated vasculitis Thrombotic microangiopathy
+Scleroderma
+
+Calcinewrin inhibitor nephropathy
+Hus
+
+ANCA associated vasculitis
+
+4. RENAL INFARCTION (ACUTE RENAL ARTERY OCCLUSION)
++ important, potentially reversible cause of renal failure
+
+Etiology
+
++ abdominal trauma, surgery, embolism, vasculitis, extrarenal compression, hypercoagulable state, aortic
+dissection
+
++ kidney transplant recipients more vulnerable
+
+Signs and Symptoms (depend on presence of collateral circulation)
+
++ fever, N/V, flank pain
+
++ leukocytosis, elevated AST, ALP
+
++ marked elevated LDH (LDH >4x upper limit of normal with minimal elevations in AST/ALT strongly
+suggestive)
+
+aeulte onset HTN (activation of RAAS) or sudden worsening of long-standing HTN
+
+renal dysfunction, e.g, elevated Cr (if bilateral, or solitary functioning kidney)
+
+Investigations
++ renal arteriography (more reliable but risk of atheroembolic renal disease)
++ contrast-enhanced CT or MR angiography, duplex Doppler studies (operator dependent)
+
+Treatment
+
++ prompt localization of occlusion and restoration of blood flow
+
++ anticoagulation, thrombolysis, percutaneous angioplasty or clot extraction, surgical thrombectomy
++ medical therapy in the long-term to reduce risk (e.g. antihypertensives)
+
+2. ISCHEMIC RENAL DISEASE (RENAL ARTERY STENOSIS)
++ chronic renal impairment secondary to hemodynamically significant renal artery stenosis or microvascular
+disease
+significant cause of ESRD: 15% in patients >50 yr (higher prevalence if significant vascular disease)
+usually associated with large vessel disease elsewhere
+causes of renal artery stenosis
+= atherosclerotic plaques (90%): proximal 1/3 renal artery, usually males >55 yr, smokers
+= fibromuscular dysplasia (10%): distal 2/3 renal artery or segmental branches, usually young females
+(typical onset <30 yr)
+when there is decreased RBF, GFR is dependent on angiotensin II-induced efferent arteriolar constriction
+which raises the FF (GFR/RBF)
+most common cause of secondary HTN (“renovascular HTN”), 1-2% of all hypertensive patients
+= etiolo;
+«decreased renal perfusion of one or both kidneys leads to increased renin release and subsequent
+angiotensin production
++ increased angiotensin raises blood pressure in two ways
+1. causes generalized arteriolar constriction
+2. release of aldosterone increases Na* and water retention
++ elevated blood pressure can in turn lead to further damage of kidneys and worsening HTN
+
+Risk Factors
+
++ age >50yr
+
++ smoking
+
++ other atherosclerotic disease (dyslipidemia, DM, diffuse atherosclerosis)
+
+Signs and Symptoms
+
+severe/refractory HTN and/or hypertensive crises, with negative family history of HTN
+asymmetric renal size
+
+epigastric or flank bruits
+
+spontaneous hypokalemia (renin activation in under-perfused kidney)
+
+increasing Cr with ACEI/ARB
+
+flash pulmonary edema with normal LV function
+
+Toronto Notes 2025
+
+Treatmentof Hypertensionin Association with
+
+Renovascular Disease
+
+(Can JCardiol 201733 ():55756
+
+Guidelines:
+
+‘Recommend medical managements renal
+angioplasty and stenting offers no benefit over
+‘optimal medica therapy alone in atherscleratic
+renal artery stenosis
+
+2. Inpatients with uncontoled HIN resistant
+tomaximaly tolerated phamacatherapy,
+progressive renal function loss and acute
+pulmonary edema, renalarteryangioplsty and
+stenting for atherosclerotic hemodynamically
+signficant stenosis could be considered
+
+3._ Patients wit confirmed renal fromuscuar
+Aysplasia shouldbe refered to HIN specitstand
+considered for revasulrzation
+

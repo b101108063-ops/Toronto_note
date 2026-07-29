@@ -1,0 +1,102 @@
+G49 Gastroenterology Toronto Notes 2025
+
+Pathophysiology
+
++ activation of proteolytic enzymes within pancreatic cells, starting with trypsin, leading to local and
+systemic inflammatory response
+
++ in gallstone pancreatitis, this is due to mechanical obstruction of the pancreatic duct by stones
+
++ inethanol-related pancreatitis, pathogenesis is unknown
+
++ inrare genetic diseases, mutations prevent the physiological breakdown of trypsin required normally
+to stop proteolysis (e.g. mutant trypsin in hereditary pancreatitis or mutation in SPINK1 gene, which
+normally inhibits activated trypsin); may be model for ethanol-related pancreatitis
+
+Pathology
++ mild (interstitial)
+= peri-pancreatic fat necrosis ©
+= interstitial edema
+
++ severe (necrotic)
+= extensive peri-pancreatic and intra-pancreatic fat necrosis
+
+Cullen's Sign
+Sensitive, not specificfor acute pancreatitis
+
+= parenchymal necrosis and hemorrhage > infection in 60% Grey Turner's Sign
+« release of toxic factors into systemic circulation and peritoneal space (causes multi-organ failure) Flank ecchymosis
+« severity of clinical features may not always correlate with pathology
++ 3phases
+= local inflammation + necrosis > hypovolemia
+= systemic inflammation in multiple organs, especially in lungs, usually after IV fluids given > ©
+
+pulmonary edema
+= local complications >2 wk after presentation > fluid collection (pseudocyst) or tissue collection
+(necrosis), sterile or infected
+
+Increased Amylase
+Sensitive, not specific for acute pancreatitis
+
+Signs and Symptoms Seared specticy
+Pain:epigstri,nonclcky, constant Jaundice: compression or obstruction ofbile duct Stays elevated longer
+Canradiateto back Collen’/6rey Tune’ signs
+
+May inprove when leaning forward (ingltingers sign Tetany: transient hypocalcemia
+
+Tender rgidabdomen; quarding Hypovolemic shock: can ead to renal faire
+
+Ww Acute respiratory distress syndrome
+
+Abdominal dstention fom paralytic feus Coma
+
+Fever: chemical, notdue to infection
+
+Investigations
+
+increased serum pancreatic enzymes: amylase, lipase (more specific)
+ALT >150 specific for biliary cause
+
+increased WBC, glucose, low calcium
+
+imaging: CT most useful for diagnosis and prognosis
+
+= x-ray: “sentinel loop” (dilated proximal jejunum), calcification, and “colon cut-off sign” (colonic spasm)
+
+= U/S: useful for evaluating biliary tree (67% sensitivity, 100% specificity)
+
+» CT scan with IV contrast: most useful when done >I d after presentation, helpful for diagnosis and
+prognosis because contrast seen only in viable pancreatic tissue, non-viable areas (as necrotic areas
+cannot take up contrast dye) can be biopsied percutaneously to differentiate sterile from infected
+necrosis ... numerous scales to describe severity: probably most useful is proportion of pancreas not
+taking up contrast on CT done 48 h after presentation
+
++ ERCP or MRCP if cause uncertain, assess for duct stone, pancreatic or ampullary tumour, pancreas
+divisum
+
++ ofnote, MRCP is usually conducted to determine the etiology while ERCP is reserved for those patients who
+require biliary intervention to treat (i.e. stone, cancer)
+
+Classification
++ interstitial edematous vs. necrotizing
++ mild, moderate, severe
+
+Prognosis
++ usually a benign, self-limiting course, single or recurrent
++ occasionally severe leading to:
+= shock
+pulmonary edema
+multi-organ dysfunction syndrome
+Gl ulceration due to stress
+death
+* numerous scales to describe severity: probably most useful is proportion of pancreas not taking up
+contrast on CT done 48 h after presentation (necrotic pancreas does not take up the contrast dye)
+* presence of organ failure (especially for >48 h), is associated with worse outcomes
+
+Table 25. Collections in Pancreatitis (Revised 2012 Atlanta Classification)
+
+Liquid Solid
+eute ‘ate peripancreatic ud collection (APFC) ‘Acute necrotic collection ANC)
+Chronic Pancreatic pseudocyst Walled-offnecrosis (WON)
+
+‘lof these collections are assed as infected or not infected

@@ -1,0 +1,76 @@
+OR21 Orthopedic Surgery Toronto Notes 2025
+
+Investigations
++ xray: AP and lateral views of the elbow
++ assess NVS: brachial artery, median, and ulnar nerves,
+
+Treatment
++ non-operative
+« closed reduction under conscious sedation (post-reduction x-rays required)
+= Parvin’s method: patient lies prone with arm hanging down; apply gentle traction downwards on wrist;
+as olecranon slips distally, gently lift up the arm at elbow to reduce joint
+«= long-arm splint with forearm in neutral rotation and elbow in 90° flexion
+= early ROM (<2 wk)
++ operative
+« indications: complex fracture dislocation or persistent instability after closed reduction
+= ORIF
+
+Specific Complications (see General Fracture Complications, OR7)
+
++ stiffness (loss of extension), intra-articular loose body, neurovascular injury (ulnar nerve, median nerve,
+brachial artery), radial head fracture
+
++ recurrent instability uncommon
+
+Elbow Dislocation
+
++ the radio-capitellar line refers to an imaginary line along the longitudinal axis of the radial neck that passes
+through the centre of the capitellum, regardless of the degree of elbow flexion. If the radio-capitellar line
+does not pass through the centre of the capitellum a dislocation should be suspected
+
+Epicondy!
+
+lateral epicondylitis = “tennis elbow,” inflammation of the common extensor tendon as it inserts into the
+lateral epicondyle
+
++ medial epicondylitis = “golfer’s elbow,” inflammation of the common flexor tendon as it inserts into the Tennis Elbow = laTeral epicondylitis; pain
+medial epicondyle associated with exTension of wrist
+Mechanism
+
+* repeated or sustained contraction of the forearm muscles/chronic overuse
+
+Clinical Features
+
+* point tenderness over humeral epicondyle and/or distal to it over forearm musculature
+
+* pain upon resisted wrist and long finger extension (lateral epicondylitis) or wrist flexion (medial epicondylitis)
++ generally a self-limited condition, but may take 6-18 mo to resolve
+
+Treatment
+. non-operative (very good outcomes)
+= rest, ice, NSAIDs
+= use brace/strap
+= physiotherapy, stretching, and strengthening
+= activity modification/ergonomics
+= corticosteroid injection
++ operative
+«= indication: failed 6-12 mo conservative therapy
+= arthroscopic, percutaneous or open release of common tendon from epicondyle
+
+Elbow Joint Injection
+
++ Inject at the centre of the triangle formed by the lateral epicondyle, radial head, and olecranon
+
+Radius and UIna Shaft Fractures
+
+Mechanism
++ high-energy direct or indirect (MVA, fall from height, sports) trauma
++ fractures usually accompanied by displacement due to high energy mechanism
+
+Clinical Features
++ deformity, pain, swelling
++ loss of function in hand and forearm
+
+Investigations
++ xray: AP and lateral of forearm + oblique of elbow and wrist
++ CT if fracture is close to joint

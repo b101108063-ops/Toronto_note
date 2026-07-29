@@ -1,0 +1,110 @@
+G44 Gastroenterology
+
+Ascites
+
+Definition
++ accumulation of excess fluid in the peritoneal cavity
+
+Etiology
+Table 23. Serum-Ascites Albumin Gradient in the Evaluation of Ascites
+
+‘Serum {Alb]- Ascitic [Alb] >11 g/L (1.4g/dl) Serum [Alb] Ascitic[Alb]<11 g/L (1.4 g/al)
+Portal Hypertension Related Non-Portal Hypertension Related
+
+Cirthosisisevere hepatitis Peritoneal carcinomatosis
+
+Chronic hepatic congestion (right heart failure, Budd-Chiri) Peritoneal TB
+Massiveliver metastases, Pancreaticdisease
+Portal vein thrombosis Serostis
+
+Idiopathic portal fibrosis Nephroticsyndrome*
+
+"Innephrotic syndrome: decreased serum [Ato begin with, therefore gracient not helpful
+
+Pathophysiology
++ key factor in pathogenesis is increased sodium (and water) retention by the kidney for reasons not fully
+understood. Theories include:
+* underfill hypothesis
+= overfill hypothesis
+* per eral arterial vasodilation theory (most popular: as portal hypertension develpsin cirrhosis,
+roduction of local mediators such as nitric oxide leads to splanchnic arterial vasodilation, ultimately
+pulling blood away from the systemic circulation and resulting in reduced effective arterial volume,
+which causes compensatory sodium and fluid retention by the kidneys (i. circulatory volume
+is increased, as per the overfill hypothesis, but effective volume is decreased as per the underfill
+hypothesis)
+
+Diagnosis
++ abdominal U/S
++ physical exam (clinically detectable when >500 mL)
+= bulging flanks, flank dullness, shifting dullness, fluid-wave test positive
+
+Investigations
+
+. diagnostic paracentesis
+
+= Ist aliquot: cell count and differential
+
+2nd aliquot: chemistry (es Specially albumin, but also total protein; amylase if pancreatitis; TG and
+chylomicrons if turbid and suspect chylous ascites)
+
+3rd aliquot: C&S, Gram stain
+
+4th aliquot: cytology (usually positive in peritoneal carcinomatosis)
+
+Treatment
++ diuretic-sensitive ascites
+Na’ restriction (daily sodium intake <2 g)
+no need for fluid restriction unless significant hyponatremia (e.g. Na* <120-125 mmol/L)
+diuretics: spironolactone, furosemide
+aim for weight loss 0.5-1 kg/d, more if concomitant peripheral edema (which is mobilized quicker than
+ascitic fluid); overly rapid weight loss increases risk of renal failure
+if target weight loss is not achieved and there are no complications, increase dose to achieve target while
+monitoring for complications
++ refractory ascites (diuretics are inadequate or not tolerated)
+= therapeutic paracentesis with IV albumin
+= TIPS in an appropriate patient (no contraindications) with potential transplant-free survival advantage
+= liver transplantation should be considered in every case, since development of ascites in patients with
+cirrhosis is associated with a high 2 yr mortality
+
+Complication: Primary/Spontaneous Bacterial Peritonitis
+
+* prima ry/SBP
+
+= complicates ascites, but does not cause it (occurs in 10% of cirrhotic ascites); higher risk in patients with
+GI bleed
+
+1/3 of patients are asymptomatic, thus do not hesitate to do a diagnostic paracentesis in ascites even if
+no clinical indication of infection
+
+fever, chills, abdominal pain, ileus, hypotension, worsening encephalopathy, acute kidney injury
+Gram-negatives compose 70% of pathogens: E. coli (most common), Klebsiella
+
+Toronto Notes 2025
+
+Underfill Hypothesis
+First step in ascites formation is increased
+portal pressure and low oncotic pressure
+{e.g. low serum albumin) driving water out
+ofthe splanchnic portal circulation into
+abdominal cavity; the resulting decreased
+circulating volume causes secondary
+sodium retention by the kidney
+
+Overfil Hypothesis
+Cirrhosis directly causes increased sodium
+
+retention by the kidney in the absence of
+hypovolemia and ascites arises secondarily
+
+Serum Ascites Albumin Gradient (SAAG) =
+serum albumin - ascites albumin
+
+>Afg/L portal HTN
+
+Ascitc fuid total protein >25 g/L, suggests
+cardiac portal hypertension
+
+Ascitic fluid total protein <25 g/L, suggests,
+cirrhosis portal hypertension
+
+-<Iig/L unrelated to portal HTN

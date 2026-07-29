@@ -1,0 +1,77 @@
+6838 General and Thoracic Surgery Toronto Notes 2025
+
+Treatment
++ supportive management: IV fluids, gastrointestinal decompression
++ surgical intervention (75% of cases)
+= volvulus: initial decompression with flexible/rigid sigmoidoscopy, operative reduction or sigmoid
+resection dependent on severity
+= malignancy and diverticular disease: ostomy alone (fecal diversion), colectomy with primary
+anastomosis, or Hartmann procedure
+* may pursue stenting as a bridge to surgery on patients with malignant causes of obstruction
+
+Prognosis
++ overall mortality: 10%
++ cecal perforation + feculent peritonitis: 20% mortality
+
+Table 19. Bowel Obstruction vs. Paralytic Ileus
+
+BO U0 Paralyticleus
+nw Early, maybe bilious Late, may befeculent Present
+‘Nbdominal Pain Colicky Colicky Minimal or absent
+Abdominal Distention + (prox BO), ++ (distal S80) ” +
+Constipation + + ’
+Bowel Sounds Normal, increased Nommal, increased (borborygmi) Decreased, absent
+‘Absent if secondaryileus (delayed — Absentif secondary ileus (delayed presentation)
+presentation)
+AXR Findings Aliflid levels Aicfluidlevels Air throughout small bowel and colon
+“Ladder” patter (plice “Picture frame” appearance
+circulates) Proximal distention + distal decompression
+Proximal distention (3 cm) No small bowel ai ifcompetentileacecal valve
++ nocolonic gas Coffee bean sign (sigmoid volvulus)
+
+Functional Large Bowel Obstruction: Colonic Pseudo-Obstruction
+(Ogilvie’s Syndrome)
+
+Definition
+
+* acute pseudo-obstruction
+
++ distention of colon without mechanical obstruction in distal colon
++ exact mechanism unknown, likely autonomic motor dysregulation
+
+Associations
+
++ most common: trauma, infection, and cardiac (MI, CHF)
+
++ disability (long-term debilitation, chronic disease, bed-bound nursing home patients, and paraplegia),
+drugs (narcotic use, laxative abuse, and polypharmacy), and other (recent orthopedic or neurosurgery,
+post-partum, electrolyte abnormalities including hypokalemia, retroperitoneal hematoma, and diffuse
+carcinomatosis)
+
+Clinical Features
+
++ classically presents with abdominal distention (acute over 24-48 hr or gradual over 3-7 d)
+
++ abdominal pain, N/V, constipation or diarrhea
+
++ watch out for fever, leukocytosis, and presence of peritoneal signs (suggestive of colonic ischemia or
+perforation)
+
+Investigations
++ contrast abdominal CT : cecal dilatation (if diameter >12 cm, increased risk of perforation)
+
+Treatment
+
++ cecal diameter < 12cm, mild to moderate abdominal pain: treat underlying cause, NPO, decompression
+with NG tube, or colonoscopic decompression. Supportive care can be continued for 72h
+
+cecal diameter > 12cm and severe abdominal pain: colonoscopic decompression, neostigmine (cholinergic
+
+drug)
+
+surgery (extremely rare): stoma creation + resection if perforation, ischemia, or failure of conservative
+
+management
+
+Prognosis
++ most resolve with conservative management

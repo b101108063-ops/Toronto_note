@@ -1,0 +1,206 @@
+G24
+
+Investigations
+
+Gastroenterology
+
++ colonoscopy with biopsy to visualize (less often gastroscopy)
+
++ CT/MRenterography
++ CRP elevated in most
+
+to visualize small bowel
+new cases, useful to monitor treatment response (especially acutely in UC)
+
++ bacterial cultures, O&P, C. difficile toxin to exclude other causes of inflammatory diarrhea
+
+Management (see Figure 8)
+Table 15. Management of Crohn’s Disease
+
+Management
+
+Notes
+
+Litestyle/Diet
+
+Antidiartheal Agents?
+
+S-ASAY
+
+Antibiotics
+
+Corticosteroids
+
+Immunosuppressives
+
+Biologics
+
+Immunotherapy (Small
+molecules)
+
+Surgical Experimental
+
+‘Smoking cessation
+Fluids only during acute exacerbation
+
+Enteral diets may aid inemission onl for Crohn's ili, notcotis
+
+There has beena lack of randomized controled trials testing for any non-enteral det changing the natura history of CD, but dietary
+intervention may affect symptoms. There is emerging datacon the benefits ofthe Mediterranean dit, recent RCT.
+
+Thosewith extensive small bowel involvement or extensive resection require electrolyte, mineral, and vitamin supplements (vitamin
+D,Ca®, Mg, Zn, Fe, Bx)
+
+LoperamideImodium®)> diphenoxylate Lomoti®) > codeine (cheap but addictive)
+‘Nl workby decreasing small bowel motility, used onl for symptom relief
+‘CAUTION: if colitis is severe (i. riskof predpitatingtoxi megacolon), avoidthese agents during flare-ups
+
+Sulfasalazine (Salazopyrin®): 5-ASA bound to sulfapyridine
+Hydrolysis by intestinal bactriareleases5-ASA active component)
+
+Dose-dependent eficacy
+
+Mesalamine (Pentasa®, Salofak®, Mezavant®, Olsalazine® ):usedfor the treatment of mildileitis (0) and mild UC
+
+Eg. metronidazole 20 mg/kg/d, bid or td dosing) or ciprofloxacin
+Best described for perianal CD, although charactristicallyrelapsewhen discontinued
+
+Prednisone: starting dose 40 mg ance daily for acute exacerbations of Crohn’scltis, and severe moderate to severilets;
+Budesonide: first pass metabolism corticosteroid) 91mg once daly for acute mild to moderate exacerbations of terminal ileum sight
+colonC0;W methylpredrisolone ifsevere
+
+Mo proven rte for steroid in maintaining remission; may mask intra-abdominal sepsis
+
+6-mercaptopurine (6-MP), azathioprine (muran®); MTX used less often)
+More often usedto maintain emissionthantotreat active inflammation
+
+Mostcommoniy used as strod- sparing agents. to lower rskof relapse as corticosteroids are withdrawn
+
+Usually requires >3 moto have beneficial effec; usually continued for several years
+
+May hep to heal fistulae, reduced disease activity
+
+Increases eticacy of biologics, plus lowers chances oflossof biologi dosing efficacy (olerance}- may be used incombination (dual
+therapy) with biologics,
+
+Side effects: vomiting, pancreatitis, bone marrow suppression, increased isk of malignancy (e. lymphoma)
+
+Infximab IV (Remicade®) or adalimumab SC(Humira®) both = antibody to TNF-a
+Provenetfectve fr treatment of fistulae and medically refractory CD
+
+First-line: ant-THF therapy withimmunosuppressive therapy infliximab + azathioprine (dual therapy) moreeffecivethan using ether
+‘lone (monotherapy)
+
+Ustekinumab, monoclonal antibody against P40 subunit interleukin 12 and23
+
+Risankizumab, monoclonal antibody against P18 subunit of interleukin 23 (more gut selective versus Ustekinumab)
+‘Vedolizumab, monoclonal antibody directed against integrin a47, thereby reducing lymphocyte traffic to gut - now indicatedfor UC
+and CD
+
+AK Janus Kinase) inhibitors 9. otc). Eficacy demonstratedin UC
+
+Surgical treatment (see General and Thoracic Surgery, 6536)
+Surgery generally reserved for complications suchas fistulae, obstruction, abscess, perforation, bleeding, and for medically refractory
+disease
+
+I¥<50% or <200 cmof functional small intestine, rik ofshortbowel syndrome
+
+‘Atleast 50% clinical recurrence within S yr; 85% within 15 yr; endoscopic recurrencerate even higher
+
+40° ikeliood of second bowel resection, 30% likelihood of third bowel resection
+
+Complications of ileal resection
+
+100 cm resected watery darthea or cholothea (impaired bile sak absorption)
+
+Treatment: cholestyramine or antidiarrheals, e.g. loperamide
+
+100 cmresected + steatorthea (reduced mucosal surface area, bile salt deficiency)
+
+Treatment of steatorthea: fat restriction, medium chain triglycerides
+
+*Choestyramine: able saltbinding resin; forwatery diarrhea with 100m of terminalieum diseased reseed; however, non-speciicantiiaeal are more convenient andoften
+
+more potent
+
+*°5.nSMLuse in CDi controversial; however, initial tial for mild itis only is warranted (induction and maintenance if clinical response)
+
+Prognosis
+
+complications includ
+
+highly variable course
+10% disabled by the disease eventually, spontaneous remission also described
+increased mortality, especially with more proximal disease, greatest in the first 4-5 yr
+
+le
+
+« intestinal obstruction/perforation
+
+= fistula formation
+= malignancy (low
+
+et risk compared to UC)
+
+surveillance colonoscopy same as UC (see Ulcerative Colitis, G25) if more than 1/3 of colon involved
+
+Toronto Notes 2025
+
+Consider:
+“Top-down management strategy”:
+early use ofimmunosuppressants and
+immunobiologic agents is now widely
+accepted as best practice. 5-ASA agents
+are occasionally used for midlets.
+
+Nutrition
+
+‘symptomatic therapy
+(e.g. loperamide, acetaminophen)
+
++
+
+5-ASA (mesalamine)
+Antbiatics lagy!, Cipro”)
+
++
+
+Corticosteroids
+(e.g. budesonide, prednisone)
+
++
+
+Immunosuppression
+(e.g. azathioprine, 6-MP, methotrexate)
+
++
+
+Immunomodulators
+(e.g. TNF-antagonists: infliximab,
+adalimumab)
+
++
+
+Experimental therapy or surgery
+
+Figure 8. Traditional graded
+approach to induction therapy in
+Crohn's disease
+
+Not: immunosuppressants and immunomodulators
+
+ae increasingly usedintaly (top-down management
+strategy), 5-ASA rugs havelinitedrolein Crohn's sease
+
+Traditional Medical Management of
+Crohn's Disease
+
+Inductionot Maintenance
+
+Antibiotics +
+Biologics + +
+
+*5-aminosaiyic acd (-ASA) use in CD
+controversial. However, inital lor mit ets
+niyiswarranted induction and maintenance t
+inicalresponse)

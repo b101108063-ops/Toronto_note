@@ -1,0 +1,101 @@
+IDS Infectious Diseases
+
+Mycology
+
+Fungal Basics
++ fungi are eukaryotic organisms with the following morphologies:
+1. yeast (unicellular)
+2. moulds, i.e. filamentous fungi (multicellular with hyphae)
+3. dimorphic fungi (found as mould at room temperature but grow as yeast-like forms at body
+temperature)
+
+Table 4. Membrane and Cell Wall Compositions
+
+Membrane Sterol Cell Wall
+Bacteria - Peptidoglycan
+
+Human Cell Cholesterol -
+
+Fungi Ergosterol Chitin (complex glycopoly saccharide)
+
+Mechanisms of Fungal Disease
++ primary fungal infection by:
+= overgrowth of normal flora (e.g. Candida spp.)
+= inhalation of fungal spores
+= traumatic inoculation into skin
++ toxins produced by fungi (e.g. ingestion of aflatoxins)
++ allergic reactions to fungi (e.g. bronchopulmonary aspergillosis)
+
+Parasitology
+
+Parasite Basics
++ parasite: an organism that lives in or on another organism (host) and damages the host in the process
++ parasites with complex life cycles require more than one host to reproduce
+= reservoir host: maintains a parasite and may be the source for human infection
+= intermediate host: maintains the asexual stage of a parasite or allows development of the parasite to
+proceed through the larval stages
+= definitive host: allows the parasite to develop to the adult stage where reproduction occurs
++ 3 major groups of parasites: protozoa, helminths, and ectoparasites; some arthropods are also parasitic
++ see Table 26, ID33 and Table 27, 1D39 for examples of clinically important parasites
+
+Table 5. Differences Between Protozoa and Helminths
+
+Protozoa Helminths
+
+Unicelluar Maiticellular
+
+Motil trophozote inactive cyst Adu egg larva
+Multiplication No multiplication in human host
+
+Eosinophilie unusual Exsinophilia (proportonalto extent of tissue invasion)”
+Indefinite lifespan Definite lifespan
+
+“Adult Ascaris (roundworm) doesnot cause eosinophilia; migratory larval phases ofAscars, however, cause high-grade eosi
+
+Mechanisms of Parasitic Disease
+1. mechanical obstruction (e.g. ascariasis, clonorchiasis)
+2. competition with host for resources (e.g. anemia in hookworm disease, vitamin B12 deficiency in
+diphyllobothriasis)
+. cytotoxicity leading to abscesses and ulcers (e.g. amoebiasis, leishmaniasis)
+. inflammatory response
+= acute hypersensitivity (e.g. pneumonitis in Loeffler’s syndrome)
+= delayed hypersensitivity (e.g. egg granulomas in schistosomiasis)
+= cytokine-mediated (e.g, systemic illness of malaria, disseminated strongyloidiasis)
+5. immune-mediated injury
+= autoimmune (e.g. myocarditis of Chagas disease, tissue destruction of mucocutaneous leishmaniasis)
+= immune complex (e.g. nephritis of malaria, schistosomiasis)
+
+ra
+
+Toronto Notes 2025
+
+h
+
+non-septate hyphae
+
+© Man-San Ma 2014 after Janice Wong, 2012)
+
+Figure 4. Common fungus
+morphology
+
+Apicomplex Sporozoite
+{no obvious means of locomotion)
+
+‘Amoeba
+
+Ciliate
+(cilia)
+
+ce ©)
+Flagellate
+(flagella/whip-like)
+
+© Janice Wong
+
+Figure 5. Classification of protozoa
+based on movement
+
+Diagnostic testing that relies on direct
+detection for parasites (e.g. microscopy)
+‘may need to be repeated on several
+‘occasions before infection can be ruled out

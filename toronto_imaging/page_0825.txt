@@ -1,0 +1,99 @@
+NPS ‘Nephrology
+
+Renal Hemodynamics
+
++ GFR
+GER is the rate of fluid transfer between glomerular capillaries and Bowman's space, expressed as the
+sum of the filtration across all nephrons
+average GFR of 180 L/d or 125 mL/min/1.73 m*, of which 99% of the filtrate is reabsorbed
+normal urine output is 0.5-1.5 mL/kg/h in adults (1-2 L/day in average-sized adult)
+«= GER is highest in early adulthood, and decreases thereafter starting around age 40
+renal autoregulation maintains constant GFR over mean arterial pressures of 70-180 mmHg
+3 mechanisms of autoregulation to maintain GFR homeostasis:
+= myogenic mechanism: low BP in afferent arteriole directly leads to dilatation of afferent arteriole
+smooth muscle cells (and high BP causes their constriction), which tends to preserve renal blood flow
+= release of vasoactive factors in response to changes in perfusion pressure (e.g. low GFR > decreased
+perfusion pressure ~ release of prostaglandin > afferent arteriolar dilation > increased GFR)
+= tubuloglomerular feedback: a reduction in NaCl delivery to macula densa leads toa reduction in
+afferent arteriolar tone, and vice versa (e.g. high GFR > increased NaC! delivery > afferent constriction
+> decreased GFR)
+filtration fraction
+= percentage of RPF filtered across the glomeruli
+= expressed as a ratio: FF = GFR/RPF; normal = 0.2 or 20%
+= angiotensin II constricts renal efferent arterioles which increases FF, thereby maintaining GFR
+renin is released from juxtaglomerular apparatus in response to: (i) low afferent arteriolar blood pressure;
+(ii) sympathetic nervous system activation; (iii) CI delivery to the macula densa, which is an indicator of
+decreased RPF
+= renin is an enzyme that regulates the RAAS pathway, and leads to the conversion of angiotensinogen to
+
+angiotensin I
+Liver
+,
+‘Stimulifor Renin Release | “Angiotensin Effects:
+tena ory hypotension: nica tangs Maney 1. Vasoconstriction
+Lin stretch of afferent ger 2.1 vascular smooth
+arteriole muscle growth
+2. Sympathetic activation 3. 1 Na’ reabsorption
+(via juxtaglomerular cell j=—=> Renin 4.1 aldosterone
+Bradrenergic receptors) 5. t bicarbonate products
+3.1 Na’ delivery to macula ACE
+densa in DCT Angiotensin | Angiotensin I
+Adrenal cortex
+Stimulation of Nav
+retention in the <= Aklosterone, <—=
+CCincically relevant outcomes: kidney
+1. Net t total body water,
+sodium
+AEE Vasoconstriction oe
+Via angiotensin Il receptors
+| @-oe
+‘systemic blood volume TFliidintake q— Thitst| <-——Hypothalamus
+and pressure
+ADH release <4———=—= Posterior pituitary
+© Alexandra Ho 2022 after Frances Yeung 2005, Nicole Cough 2014
+
+Figure 4. Renin-angiotensin-aldosterone system
+
+Assessment of Renal Functio
+
+Measurement of Renal Function
+
+most renal functions decline in parallel with a decrease in GFR
+inulin clearance and iothalamate radiotracer are the gold standard for measuring GFR, but very rarely used
+clinicalh
+clinically GER is most often estimated using serum creatinine concentration, [Cr], with various
+calculations leading to an estimated GFR (eGFR)
+
+= Cr filtered ~ Cr excreted (at steady state)
+
+= Crlevels permit a reasonable estimate of GFR as Cr is freely filtered at the glomerulus with little tubular
+
+reabsorption
+
+Toronto Notes 2025
+
+Glomerular Filtration Rate
+
+aR KT (AP—An)
+
+ra itafltrationcoetident
+
+wr hydrostaticpressure diference
+between glomerular capillaries and
+Bowman'sspace
+
+an ‘osmoticpressue diference between
+glomerular capitis and Bowman's
+space
+
+AP-a _netoutward pressure
+
+Considerable variation in GFR is observed
+based on age, biological sex, ethnicity,
+and BMI
+
+Cees = Ctemres
+[Creme x GFR = [Crane xurine flow
+rate (mL/min)
+GFR = [Crh x urine flow rate
+[Crem

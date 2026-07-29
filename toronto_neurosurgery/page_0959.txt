@@ -1,0 +1,227 @@
+S27
+
+Prognosis
+
+‘Neurosurgery
+
++ 30d mortality rate 44%, mostly due to cerebral herniation
++ rebleed rate 2-6%, higher if HTN poorly controlled
+
+Vascular Malformations
+
+Types
++” AVMs
+
++ cavernous malformations (cavernomas, cavernous hemangiomas/angiomas)
++ Venous angioma
+
++ capillary telangiectasias
++ AVF (carotid-cavernous fistula, dural AVF, vein of Galen aneurysm)
++ “angiographically occult vascular malformations” (any type, 10% of malformations)
+
+Arteriovenous Malformations, Cavernous Malformations, and
+Dural Arteriovenous Fistulas
+
+Table 17. Comparison of Pathoetiology, Clinical Features, and Treatment of Arteriovenous
+Malformations, Cavernous Malformations, and Dural Fistulas
+
+‘Arteriovenous Malformations
+
+Cavernous Malformations
+
+Dural Fistulas
+
+Definition
+
+Epidemiology
+
+Clinical Features
+
+Investigations
+
+Treatment
+
+Prognosis
+
+Tangle of abnormal vesselsirteriovenous
+shunts, with no intervening capillary beds or
+brainparenchyma; usually congenital
+
+Prevalence 0.4%, MLF=2:1, average ageat
+iagnosis=33 yr
+
+15-20% of patients withhereditary
+hemorrhagic telangiectasia (Osler-Weber-
+Reendu syndrome) will have cerebral AVMs
+
+Hemorrhage 40-60%): small AVMs are more
+likely tobleed dueto direct high pressure AV
+comections
+
+Seizures (60%): more common with larger
+AVMs
+
+Mass effect
+
+Focal neurological signs secondary to
+ischemia (high flow » “steal phenomena”)
+Localized Hi, increased ICP
+
+Bruit (specially with dural AVMs)
+
+May be asymptomatic (‘silent”)
+
+MRI {flow void), MRA
+Angiography (7% will alsohave one or more
+associated aneurysms)
+
+Decreases rsk of future hemorrhage and
+seizure
+
+Surgical excsionis treatmentof choice even
+in Spetaer-Martin grades I~ IIwith general
+{good health
+
+‘Sis preferred for small (<3 cm) or very
+deep lesions
+
+Endovascular embolization glue, balloon)
+«can be curative (5%) or used as adjuvant to
+surgery or SRSin larger lesions
+Conservative (e.g. palliative embolization,
+seizure control necessary)
+
+12-66% mortality, 23-40% morbidity serious
+neurological deficit) per bleed
+
+Risk of major bleedin untreated AVMs:
+24
+
+‘Outcomes depend on Spetzer-Martin grade
+
+Benign vascular hamartoma consisting
+ofiregular sinusoidal vascularchannels
+located within the brain without
+intervening neural tssue or associated
+large arteresiveins
+
+Several genesnow described: CCM,
+cme, coM3
+
+Prevalence of 0.1-0.2%, both sporadic
+and hereditary forms described
+
+Seizures (60%), progressive neurologkcal
+deficit (50%), hemorrhage (20%), HIA
+Often anincidental finding
+
+Hemorrhage risk less than AVM, usually
+minor bleeds
+
+T2-weighted image MRI (non-enhancing)
+Gradientecho sequencing best for
+diagnosis)
+
+Surgical excision:
+Only appropriate for symptomatic
+lesions that are suigicaly accessible
+(supratentorial lesions are less likely to
+bleed than infratentorial lesions)
+
+‘Annual bleedingrates:0.25-11% for
+supratentoral,-3% for brainstem
+Symptomatic lesions have ahigher
+hemorrhage riskthan asymptomatic
+
+Fistulas connecting dural arteriesto dural veins orthe
+dural sinus
+
+Frequently occu atthe transverse and cavernous
+sinuses, but canbe found at every cranial dural sinus
+Hypothesized tobe related to venoussinus thrombosis
+formation, and subsequent microvascular shunt
+formationwithinthe dura between arteries and veins
+
+Unknown true incidence
+
+Constitute 10-1
+abnormalities
+
+Asymptomatic, pulsatile tinnitusifivolving sigmoid or
+transverse sinuses, bruits, H/A
+
+Carotid cavernous involvement classically produces
+proptosis,chemoss, and brits
+
+Symptoms of SAH, SDH, or ICH
+
+‘Angiography remains the gold standard
+Non-enhanced CT to rue out hemorrhage
+
+MRI; however, this does not demonstratethe arterial
+supply tothe fistula
+
+‘Approachis dependent on size location and symptoms,
+and includes:
+
+Conservative treatment
+
+Neutoradiological endovascular interventions
+Radiation therapy
+
+Surgery
+
+Combinationof the above
+
+0.7% annua riskothemorrhage
+6.9% annual risk for non-hemorthagic neurological
+deficit
+
+10.4% mortaltyrate
+
+Outcomes influenced by dural fistula type (presence of
+cortical venous drainage ~ poorer outcomes)
+
+Toronto Notes 2025
+
+Figure 23. MRI of cavernous
+malformation
+
+A. T2.weighted imaging MRI
+
+B. Gradient echo sequencing MRI
+
+@
+
+inical Course of Untreated Cerebral Cavernous
+Malformations (CM)
+
+Lancet Neurol 20% pS 4144422(5)00303.8
+Purpose: To obtain precise estimates and predictors
+cof the iskof intracranial hemerthage (CH) in patents
+with untreated cerebral cavernous malformations
+(cos.
+
+Methods: Collected individual patent data from
+investigators of pushed studies on MEDLINE and
+Ease since inception nt Apr 2015 (7 cohorts
+from6 studies, n-1620)on clinica course fom CCM
+iagosis unt fst COM treatment orlast available
+followap.
+
+Results: 204 ofthe 1620 patients experienced ICH
+daring 5187 person-yfolow-up Kaplan-Meier
+estimated 5 yrsk 5.8%, 95% (113.747. 9) CH within
+Syrof CCM diagnosis was associated wth clinical
+resentation with ICH or focal neurological deficit
+without brain ima ging evidence ofrecenthemorrhage
+(vs.other presentations ARS 6, $5% C13.2917} and
+with brainstem COM location(s, other locations;
+44,95% (123-86),
+
+Condusions: (1) Made of cinica presentation and
+(2) CCMIocation are independently associated with
+1H within yr of CCM diagnosis The risk a recurrent
+hemorthageftom a CCM s greater than the risk ofthe
+firstevent and decines over5 yt
+

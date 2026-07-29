@@ -1,0 +1,170 @@
+Toronto Notes 2025
+
++ ureter
+= ureteroureterostomy
++ bladder
+= extraperitoneal
+* minor rupture: Foley drainage x 10-14 d
+* major rupture: surgical repair
+«= intraperitoneal: surgical repair
++ urethra
+«= anterior: conservative, if cannot void, Foley or suprapubic cystostomy and antibiotics
+«= posterior: suprapubic cystostomy (avoid catheterization) + surgical repair
+
+Orthopedic Injuries
+«+ see Orthopedic Surgery (see Shoulder OR12, Knee OR34, Wrist OR23, Pelvis OR29, Ankle OR41)
+
+Goals of ED Treatment
+
+«+ diagnose potentially life/limb-threatening injuries
+
++ reduce and immobilize fractures (cast/splint) as appropriate
++ provide adequate pain relief
+
++ arrange proper follow-up if necessary
+
+History
++ use SAMPLE, mechanism of injury may be very important
+
+Physical Exam
+
++ look (inspection): “SEADS” = swelling, erythema, atrophy, deformity, and skin changes (e.g. bruises)
+
++ feel (palpation): all joints/bones for local tenderness, swelling, warmth, crepitus, joint effusions, and subtle
+deformity
+
++ move: joints affected plus those above and below injury - active ROM preferred to passive
+
++ neurovascular status: distal to injury (before and after reduction)
+
+LIFE- AND LIMB-THREATENING INJURIES
+Table 9. Life- and Limb-Threatening Orthopedic Injuries
+
+LifeThreatening Injuries (usually blood loss) Limb Threatening Injuries (usually interruption of blood supply
+
+Major pelvic actures Fractureldstocatin of anke(alar AVN)
+
+Traumatic amputations Crush injuries
+
+Massive long bone injuries and associated fat emboli syndrome Compartment syndrome
+
+Vascular inary proximal to knee/elbow Open fractures
+Dislocations ofknee/hip
+Fracturesabove knee
+
+Open Fractures
+
+* communication between fracture site and external surface of skin - increased risk of osteomyelitis
+
+. remove gross debris, irrigate, cover with sterile dressing - formal irrigation and debridement often done in
+the OR
+
++ control bleeding with pressure (no clamping)
+
++ splint
+
++ antibiotics (Ist generation cephalosporin and aminoglycoside) and tetanus prophylaxis
+
++ standard of care is to secure definitive surgical management within 6 h, time to surgery may vary from
+case-to-case
+
+Vascular Injuries
+
++ realign limb/apply longitudinal traction and reassess pulses (e.g. Doppler probe)
++ surgical consult
+
++ direct pressure if external bleeding
+
+Compartment Syndrome
++ when the intracompartmental pressure within an anatomical area (e.g. forearm or lower leg) exceeds the
+capillary perfusion pressure, eventually leading to muscle/nerve necrosis
++ clinical diagnosis: maintain a high index of suspicion
+= pain out of proportion to the injury
+= pain worse with passive stretch
+= tense compartment
+= look for “The 6 Ps” (note: radial pulse pressure is 120/80 mmHg while capillary perfusion pressure is
+30 mmHg, seeing any of the 6 Ps indicates advanced compartment syndrome, therefore do not wait for
+these signs to diagnose and treat)
+= in the unconscious patient, a Stryker compartment pressure monitor can be used
++ requires prompt decompression: remove constrictive casts, dressings; emergent fasciotomy may be needed
+
+Emergency Medicine ERIS
+
+Description of Fractures
+
+‘SOLARTAT
+
+Site
+
+Openvs. closed
+
+Length
+
+Articular
+
+Rotation
+
+Translation
+Alignment/Angulation
+Typee.g. Salter-Harris, etc
+
+Etectota Single Dose of Oral Opioid and Nonopioid
+Analgesics on Acute Extremity Paininthe ED
+
+JAMA 2017;318:1661167
+
+Purpose: To compare theeficacy of 4 analgesics on
+acute etremty pai
+
+Methods: RCTincuding 416 patients with moderate
+tosevereacte extremity pai, Participants eceived
+ibuprofen 400 mg and acetaminophen 1000 mg;
+conycodone Sig and acetaminophen 325mg;
+hydrocodone S mg and acetaminophen 300g; or
+Codeine 30mgand acetaminophen 300mg. The
+primary outcome wasthe ference inden in pain2
+haftringestion, Pain was assessed using an -point
+numerical rating scale (NS)
+
+Results: At 2h, the mean NR pain scare decreased by
+4.3in the buprfen and acetaminophen grup; by 4.4in
+the oxycodone and acetaminophen group; by 35 inthe
+hydrocodone and acetaminophen group and by 3.9 in
+the codeine and acetaminophen group (P=0. 053).
+Conclusions For patents presenting tothe E wth
+acute entremty pai, there were no statistically
+significant or incall important dferencesin pan
+reduction at2h among single-dose treatment with
+ibuprofen and acetaminophen or with 3 diferent opioid
+and acetaminophen combination analgesics.
+
+When Dealing with an Open Fracture,
+Remember “STAND”
+
+Splint
+
+Tetanus prophylaxis
+
+Antibiotics
+
+Neurovascular status (before and after)
+Dressings (to cover wound)
+
+Vascular injury/compartment syndrome
+is suggested by “The 6 Ps” Injury
+‘Compartment Syndrome -
+
+6Ps
+Pulse discrepancies
+
+Pallor
+
+Paresthesia/hypoesthesia
+
+Paralysis
+
+Pain especially when refractory to usual
+analgesics)
+
+Polar (cold)
+

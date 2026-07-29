@@ -1,0 +1,97 @@
+OTs Otolaryngology
+
+Acoustic Neuroma (Vestibular Schwannoma)
+
+Definition
++ schwannoma of the vestibular portion of CN VIII
+
+Pathogenesis
+
++ tumour starts in the internal auditory canal and expands into CPA, compressing cerebellum and brainstem
+
++ when associated with type 2 neurofibromatosis: bilateral acoustic neuromas, juvenile cataracts,
+meningiomas, and ependymomas
+
+ical Features
+
++ usually presents with unilateral SNHL (chronic) or tinnitus
+
++ dizziness and unsteadiness may be present, but true vertigo is rare as tumour growth occurs slowly,
+allowing for compensation to occur
+
+facial nerve palsy and trigeminal (V1) sensory deficit (corneal reflex) are late complications
+
+risk factors: exposure to loud noise, childhood exposure to low-dose radiation, history of parathyroid
+adenoma
+
+Diagnosis
+MRI of internal auditory canal with gadolinium contrast (gold standard)
+audiogram (to assess SNHL)
+
+poor speech discrimination relative to the HL
+
+stapedial reflex absent or significant reflex decay
+
+ABR: increase in latency of the Sth wave
+
+vestibular tests: normal or asymmetric caloric weakness (an early sign)
+
+Treatment
+
++ expectant management if tumour is very small or in elderly
++ definitive management is surgical excision
+
++ other options: gamma knife, radiation
+
+Definition
++ an auditory perception in the absence of an acoustic stimuli, likely related to loss of input into neurons in
+central auditory pathways, that results in abnormal firing
+
+History
+
++ subjective vs. objective (see Figure 14, O17)
+
++ pulsatile vs. nonpulsatile
+
++ unilateral vs. bilateral
+
++ associated symptoms: HL, vertigo, aural fullness, otalgia, otorrhea
+
+Investigations
++ physical examination: cranial nerve examination, otoscopy, auscultate for bruits over the neck, mastoid,
+and preauricular areas for pulsatile tinnitus
+audiology
+if pulsatile
+
+= CT or magnetic resonance angiogram and venogram of the H&N to rule out vascular abnormalities
+if nonpulsatile and unilateral
+
+= non-contrast MRI
+
+Treatment
++ ifa cause is found, treat the cause (e.g. drainage of middle ear effusion, embolization, or excision of
+arteriovenous malformation)
+with no treatable cause: 15% will resolve, 20% will improve, 15% will worsen, and 50% will remain the same
+primary and secondary prevention for SNHL (e.g. avoid high-volume music through headphones, ototoxic
+meds, smoking, high glycemic load, and hypercholesterolemia)
+conservative management (e.g. check zinc levels, improve sleep, reduce stress, reduce caffeine and alcohol
+consumption)
+if cause is deemed benign, recognize distress that patient may be experiencing and provide reassurance
+sound amplification (e.g. hearing aids, white noise, tinnitus instrument)
+pharmacotherapy (e.g. melatonin)
+
+= consider tricyclic antidepressants and selective serotonin reuptake inhibitors (SSRIs) if comorbidities
+
+include anxiety and depression
+
+tinnitus retraining therapy
+surgical management (rare)
+
+Toronto Notes 2025
+
+Acoustic neuroma is the most common
+intracranial tumour causing SNHL and the
+‘most common CPA tumour
+
+In the elderly, unilateral tinnitus or SNHL is
+acousticneuroma until proven otherwise

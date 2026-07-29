@@ -1,0 +1,115 @@
+OT46 Otolaryngology
+
+Acute Laryngotracheobronchitis (Croup)
+
+Definition
+
++ inflammation of tissues in subglottic space + tracheobronchial tree
+
++ swelling of mucosal lining associated with thick, viscous, mucopurulent exudate which compromises upper
+airway (subglottic space is narrowest portion of upper airway)
+
+normal function of ciliated mucous membrane impaired
+
+Etiology
++ viral: parainfluenzae I (most common), II, III, influenza A and B, RSV
+
+age: 6 mo-5 yr, common in fall and winter
+preceded by URTI symptoms
+
+generally occurs or is worse at night
+
+inspiratory or biphasic stridor and croupy cough (loud, sea-lion bark)
+sternal/intercostal indrawing
+
+appear less toxic than epiglottitis
+
+supraglottic area normal
+
++ rule out foreign body and subglottic stenosis
+
++ “steeple-sign” (narrow subglottis) on AP x-ray of neck
+
++ if recurrent croup, think subglottic stenosis
+
+Treatment
+
++ nebulized epinephrine via metered-dose inhaler q1-2 h PRN (if severe croup, >2 Westley Croup Score)
+systemic corticosteroids (e.g. dexamethasone 0.5 mg/kg, prednisone)
+
+adequate hydration, humidified oxygen
+
+close observation for 3-4h
+
+positive pressure ventilation, nasal trumpet, laryngeal mask airway, intubation if severe (use smaller
+endotracheal tube than expected for age)
+
+hospitalize if poor response to steroids after 4h and persistent stridor at rest
+
+consider alternate diagnosis if poor response to therapy (e.g. bacterial tracheitis)
+
+if recurrent episodes of croup-like symptoms, consider bronchoscopy for definitive diagnosis
+
+Acute Epiglottitis
+
+Definition
++ acute inflammation causing swelling of supraglottic structures of the larynx without involvement of vocal
+cords
+
+Etiology
++ H. influenzae type B, now relatively uncommon due to H. influenzae type B vaccine
++ common causes now include S. pneumoniae, S. pyogenes, and S. aureus
+
+Clinical Features
+
++ any age, most commonly 1-4 yr
+
++ rapid onset
+
+toxic-looking, fever, anorexia, restlessness
+
+cyanotic/pale, inspiratory stridor, slow breathing, lungs clear with decreased air entry
+
+prefers sitting up (“tripod” posture), open mouth, drooling, tongue protruding, sore throat, dysphagia
+
+Investigations and Management
+
+examining the throat may lead to potential laryngospasm and airway compromise; ensure an
+anesthesiologist/otolaryngologist is present and make preparations for intubation or tracheotomy prior to
+any manipulation
+
+WBC (elevated); blood and pharyngeal cultures after intubation
+
+lateral neck radiograph (only done if patient stable) shows “thumb sign” (swollen epiglottis)
+
+Treatment
++ secure airway
+TV access with hydration
+antibiotics: IV cefuroxime, cefotaxime, or ceftriaxone (10-14 d course should be completed)
+moist air
+extubate when epiglottic edema decreases (air leak around tube) and afebrile
+watch for meningitis/sepsis
+
+Toronto Notes 2025
+
+Croup is the most common infectious cause
+of stridor in children
+
+Signs of Croup
+
+The 3Ss
+Stridor
+
+Subglottic swelling
+Seal bark cough
+
+Acute epiglottitis is a medical emergency
+
+When managing epiglottits, itis important
+‘not to agitate the child, as this may
+precipitate complete obstruction
+
+Thumb sign: cherry-shaped epiglottic
+swelling with loss of the normal ait space
+of the vallecula seen on lateral neck
+radiograph

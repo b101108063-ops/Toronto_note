@@ -1,0 +1,179 @@
+ELOMI1 _ Ethical, Legal, and Organizational Medicine
+Duty to Protect/Warn
++ the physician has a duty to protect the public from a known dangerous patient; this may involve taking
+appropriate clinical action (e.g. involuntary detainment of patients for clinical assessment), informing the
+police, and/or warning the potential victim(s) if a patient expresses an intent to harm
+Canadian courts have not expressly imposed a mandatory duty to report, however, the CMA Code of
+Ethics and some provincial/territorial regulatory authorities may oblige physicians to report (mandatory
+reporting rather than permissive)
+concerns of breaching confidentiality should not prevent the physician from exercising the duty to protect;
+however, the disclosed information should not exceed that required to protect others
+applies in a situation where:
+
+1, there is an imminent risk
+
+2. toan identifiable person or group
+
+3. of serious bodily harm or death
+
+Disclosure for Legal Proceedings
++ disclosure of health records can be compelled by a court order, warrant, or subpoena
+
+Privacy of Medical Records
+
++ privacy of health information is protected by professional codes of ethics, provincial and federal legislation,
+
+the Canadian Charter of Rights and Freedoms, and the physician’s fiduciary duty
+
+the federal government created the PIPEDA in 2000 which established principles for the collection, use,
+
+and disclosure of information that is part of commercial activity (e.g. physician practices, pharmacies, and
+
+private labs)
+
++ PIPEDA has been superseded by provincial legislation in many provinces, such as the Ontario Personal
+Health Information Protection Act, which applies more specifically to health information
+
+Duties of Physicians with Regard to the Privacy of Health Information
++ inform patients of information-handling practices through various means (e.g. posting notices, brochures
+and pamphlets, and/or through discussions with patients)
+
++ obtain the patient's expressed consent to disclose information to third parties
+= under Ontario privacy legislation, the patient's expressed consent need not be obtained to share
+
+information between healthcare team members involved in the “circle of care.” However, the patient
+
+may withdraw consent for this sharing of information and may put parts of the chart in a “lock box”
+
+physicians have a professional obligation to facilitate timely transmission of the patient's medical
+
+record to third parties (with the patient’s consent), such as for insurance claims. Failure to do so has
+
+resulted in sanctions by regulatory bodies
+
+«= while patients have a right of access to their medical records, physicians can charge a “reasonable fee”
+
+commensurate with the time and material used in providing copies/access
+
+provide the patient with access to their entire medical record; exceptions include instances where there is
+
+potential for serious harm to the patient or a third party
+
++ provide secure storage of information and implement measures to limit access to patient records
+
+* ensure proper destruction of information that is no longer necessary
+
+regarding taking pictures or videos of patients, findings, or procedures, in addition to patient consent and
+
+privacy laws, trespassing laws apply in some provinces
+
+in addition to Ontario legislation and case law, the CPSO policy sets out professional expectations of
+
+physicians regarding the handling of personal health information. This includes regulations regarding
+
+express or implied consent, incapacity, lock boxes, disclosure under exceptional circumstances, mandatory
+
+reporting, ministry audits, subpoenas, court orders, and police, as well as electronic records and voice
+
+messaging communication: https://www.cpso.on.ca/Physicians/Policies-Guidance/Policies/Protecting-
+
+Personal-Health-Information
+
+it is the physician's responsibility to ensure appropriate security provisions with respect to electronic
+
+records and communications
+
+= with the advent of digital records, there have been increasing issues with healthcare providers that are
+
+not part of a patient’s circle of care accessing medical records inappropriately (e.g. out of curiosity or
+for profit). All staffand learners should be aware that most EMRs log which healthcare providers view
+records and automatically flag files for further review in certain cases (e.g. same surname, VIP patients,
+or audit of access to records). Regular audits are completed specifically to look for unauthorised access
+to records. This includes accessing personal health information of friends and family
+
+Consequences of a Breach of Privacy
+
++ PHIPA outlines which privacy breaches must be reported to the Information and Privacy Commissioner of
+Ontario
+
++ to underscore the importance of maintaining confidentiality and privacy the fines for breaches was
+increased in 2020
+
++ an individual who commits a breach may be fined up to $200000 or a year in prison or both. An institution
+can be fined up to $1000000
+
++ beyond financial implications, breaches in confidentiality and privacy erode the trust of the patient
+involved and greater society's trust of the profession
+
+Toronto Notes 2025
+
+Ontario's Medical Expert Panel on Duty
+to Wan
+
+(CMAJ 1998;158(10 1473-1479
+
+There should be a duty to inform when
+
+a patient reveals that they intend to do
+serious harm to another person(s) andit is
+‘more likely than not thatthe threat will be
+carried out
+
+Where a threat is directed ata person or
+group and there is a specific plan that is
+concrete and capable of commission and
+the method for carrying it out is available
+to the threatener, the physician should
+immediately notify the police and, in
+appropriate circumstances, the potential
+victim. The report should include the threat,
+the situation, the physician's opinion, and
+the information upon which itis based
+
+‘While Canadian courts have not
+‘expressly imposed a mandatory “duty to
+warn” on physicians to alert third parties
+‘ofa danger posed by a patient, Canadian
+supreme court decisions have held that a
+physician is permitted to warn (permissive
+vs, mandatory)
+
+‘CMA Code of Ethics and Professionalism
+Protect the health information of your
+patients
+
+Provide information reasonable in the
+circumstances to patients about the
+reasons for the collection, use, and
+disclosure of their health information
+
+Be aware of your patients’ rights with
+respec to the collection, use, disclosure,
+‘and access to their heath information;
+censure that such information is recorded
+accurately
+
+Lock Boxes
+
+The term “lock boxes” applies to situations
+where the patient has expressly restricted
+their physician from disclosing specific
+aspects of their health information to
+‘others, even those involved in the patient's
+circle of care. Note thatthe Personal
+Health Information Protection Act (PHIPA)
+provisions denote that patients may not
+prevent physicians from disclosing personal
+health information permitted/required by
+the law
+
+Reasons to Breach Confidentiality
+Child abuse
+
+Fitness to drive
+
+‘Communicable disease
+
+Coroner report
+
+Duty to informiwarn

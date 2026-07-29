@@ -1,0 +1,167 @@
+FM36 Family Medicine
+
+Headache
+
+Definitions
++ primary headaches
+«+ see Neurology, N46
+« primary headaches are the most common headaches seen in family medicine including tension
+headaches, migraines, and cluster headaches
++ secondary causes should be ruled out prior to diagnosing a patient with a primary headache
++ secondary headaches
+= caused by underlying organic disease
+= account for <10% of all headaches, may be life-threatening
+
+Etiology of Secondary Headaches
+
++ drug: drug withdrawal, medication overuse, drug side effect, and carbon monoxide
++ infectious: meningitis, encephalitis, abscess
+
++ vascular: aneurysm, stroke, SAH, HTN, and temporal arteritis
+
++ endocrine: thyroid disease, pheochromocytoma
+
++ neoplastic: tumour
+
++ trauma: TMJ injury, c-spine injury, head injury, subdural hematoma, and SAH
+
++ other: serious ophthalmological and otolaryngological causes
+
+Investigations
+
++ indicated only when red flags are present and may include:
+
+CBC for suspected systemic or intracranial infection
+
+ESR or CRP for suspected temporal arteritis,
+
+neuroimaging (CT or MRI) to rule out intracranial pathology
+CSF analysis for suspected intracranial hemorrhage, infection
+
+Management
++ based on underlying disorder
++ analgesics may provide symptomatic relief
+
+= see Neurology, N47
+Hearing Impairment
++ see Otolaryngology, OT9
+
+Definition
+
++ hearing impairment: a raised hearing threshold measured as decibels of hearing loss relative to the normal
+population at specific frequencies
+
++ hearing disability: hearing impairment that interferes with performing daily tasks
+
+Classification
+
++ conductive (external sound does not reach the inner ear)
+
++ sensorineural (involving the inner ear, cochlea, or auditory nerve)
++ mixed
+
+Epidemiology
+
++ prevalence increases with age (6% of 35-44 yr, 43% of 65-84 yr)
+
++ 90% of age-related hearing loss (presbycusis) is sensorineural
+
++ hearing loss detectable by audiology is present in greater than 1/3 of people >65 yr
+
+Assessment
++ infants: universal newborn hearing screening program
++ elderly
+= screening tests
++ whispered-voice test (examiner stands 0.6 metres (arm’s length) behind the patient, whispers a
+combination of 6 letters/numbers, and asks the patient to repeat the sequence. Test 1 ear ata time
+while masking the non-test ear simultaneously)
+Rinne and Weber tuning fork tests (to distinguish conductive from sensorineural hearing loss)
+= diagnostic tests (formal audiologic assessment)
+* pure tone, air, and bone conduction testing
++ speech audiometry
++ impedance audiometry
+
+Toronto Notes 2025
+
+@
+
+Acupuncture for Migraine Pophyjaxis
+CochraneDB Syst Rey 206:6:€D001218
+
+Purpose: To investigate whether acupuncture is
+
+‘mor effective than routine care (no prophylaxis),
+sham acupuncture or prophylactic pharmacological
+treatment at reducing episodic migraine frequency
+inaduts.
+
+Methods: Meta-analysis of 2 RCTs n=4985) witha
+rinimam of an8 wi duration, comparing acupuncture
+intervention wih a non-acupunctre contol (no
+ropyans, routine cae, sham, or pharmacological
+prophyais.
+
+Results: Acupuncturemoderately reduced headache
+frequency compared ono acupuncture (standardized
+mean dference[SMO]-0.56,; 95% (I, -0.65 0-048),
+Acapuncture showed asmal bt statistically significant
+‘eduction ver sham posttreatment (SMD 0.18; 95%
+-0.28to-0.08) and post follow-up (SMD-0.19,
+
+95% Cl-030t0-0.09) Compared to pharmacological
+prophylaxis significant reduction in migraine
+frequency was noted with acupuncture treatment SMD
+0.25, 95% (1-039 10-010 but significance was not
+‘maintained at follow-up,
+
+Conclusion: Adding acupuncture to symptomatic
+treatment of attack reduces frequency of headaches,
+Acupuncture ismoreefective than sham, ands
+sinilrtyeffective to pharmacological interventions for
+rigraine pophyan
+
+Mig
+
+POUND
+
+Pulsatile quality
+
+Over 472h
+
+Unilateral
+
+Nausea and vomiting
+
+Disabling intensity
+
+124 present then a diagnosisis tkely
+{Positive likelihood ratio = 24)
+
+he Red Flags
+
+Screen
+
+SNOOP
+Systemic symptoms of illness
+Fever
+Anticoagulation
+Pregnancy
+Cancer
+Neurologic signs/symptoms
+Impaired mental status
+Neck stiffness
+Seizures
+Focal neurological deficits
+Onset
+Sudden and severe
+New headache after age 50
+Other associated conditions
+Following head trauma
+‘Awakens patient from sleep
+Jaw claudication
+Scalp tenderness
+Worse with exercise, sexual activity, or
+Valsalva
+Prior headache history
+Different pattern
+Rapidly progressing in severityifrequency

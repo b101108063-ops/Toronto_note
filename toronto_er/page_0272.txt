@@ -1,0 +1,112 @@
+ER26 Emergency Medicine
+
+Table 16. Concurrent Investigation and Management of Status Epilepticus
+
+Timing Steps
+
+Refractory If status persistsafter maximum doses above, consut ICUand start one or more of:
+Phenobarbital 20 mg/kgIV at 50 mg/min
+
+Midazolam 0.2 mg/kg loading dose and 01-04 majkgyh
+
+Propofol 2 mg/kg I at2-5 mg/kg/hthen loading dose then 2-1 markg/h
+
+Requites definitive airway management incuding rapid sequence intubation and assisted ventilation. Electroencephalography (EEG) for continuous monitoring
+PostSeizure Investigate underlying cause: consider CT, LP, MR, ICP monitoring
+
+Note: llnterventions shouldbe done as soon as possible. Adapted trom Brophy etal. Guidelines forthe evaluation and management of status eieptcus. Neurocit Care 201211:323
+
+Disposition
++ decision to admit or discharge should be based on the underlying disease process identified
+= ifa patient had a brief generalized seizure and has returned to baseline function and is neurologically
+intact, then generally discharge with outpatient follow-up
++ first-time seizure patients being discharged should be referred to a neurologist for follow-up
++ admitted patients should generally have a neurology consult
++ patient should not drive until medically cleared (local regulations vary)
+= complete notification form to appropriate authority regarding ability to drive
++ warn regarding other safety concerns (e.g. no swimming, bathing children alone, etc.)
+
+Shortness of Breath
++ see Respirology, R3 and Cardiology and Cardiac Surgery, C6
+Definition
+
++ dyspnea is the subjective sensation of SOB or difficulty breathing
+Table 17. Differential Diagnosis for Dyspnea
+
+High Mortality Morbidity Usually Less Emergent
+Respiratory Airway obstruction foreign body, epiglottti, abscess, anaphylaxis) Chronic obstructive, interstialor restrictive lung disease
+Pneuma/hemothorax Pleural fusion (dependent onseverity)
+as exchange (pulmonary edema, PE, preumonia, acute exacerbations of
+asthma, or COPD)
+Pleural effusion (dependent on severity)
+Cardiac CCHF Mi, valvular disease, tamponade, arrhythmia
+Metabolic Metabolic acidsis NYD, toxin ingestion ‘Anemia, hemogobinopathy
+Neuromuscular Myastheniagravis, diaphragmatic paralysis CNS tesion, primary muscle weakness
+Other Deconditioning, respiratory splinting due tounrelated pain Anxiety
+
+History and Physical Exam
+
++ acute SOB is often due to a relatively limited number of conditions; associated symptoms and signs are key
+
+to the appropriate diagnosis
+substernal chest pain with cardiac ischaemia
+fever, cough, and sputum with respiratory infections
+urticaria with anaphylaxis
+wheezing with acute bronchospasm
+environmental or occupational exposures
++ dyspnea may be the sole complaint and the physical exam may reveal few abnormalities (e.g. PE,
+pneumothorax)
++ Vitals including pulse oximetry
+= wheeze and stridor (ventilatory) vs. crackles (parenchymal), JVP, and murmurs
+
+Investigations
++ blood work
+= CBC and differential (hematocrit to exclude anemia), electrolytes, consider ABG/V BG.
+= serial cardiac enzymes and ECG if considering cardiac source
+= PERC or Wells scores to consider appropriateness of D-dimer
++ imaging
+= CXR (hyperinflation and bullous disease suggestive of obstructive lung disease, or changes in
+interstitial markings consistent with inflammation, infection, or interstitial fluid)
+= CT chest may be indicated in acute dyspnea, specifically when suspicion for thromboembolic disease
+(ie. PE)
+
+Disposition
+
++ historyand physical exam lead to accurate diagnoses in patients with dyspnea in approximately two-thirds
+
+of cases; the decision to admit or discharge should be based on the underlying disease process identified
+and its severity
+= severe COPD/CHF: non-invasive positive pressure ventilation (NIPPV) may reduce the need for
+intubation; cosider intubation if NIPPV will not be tolerated (e.g. decreased LOC, vomiting)
++ if discharging, organize follow-up and educate regarding signs to return to hospital
+
+Toronto Notes 2025
+
+@
+
+Intramuscilarvs Intravenous Therapy for
+Prehospital Status pilepticus
+NEIM2012;366:581-600
+
+Purpose: To investigate the efficacy of intramuscular
+(0M) midazolam with that of lorazepamfor children
+and adutsin status epileptic treated by paramedics.
+Methods: Duble-bindandomized, non-nferoity
+trial. Subjects whose convusions had persisted more
+than 5 min and were stl convulsing after paramedics
+arrived were given the study medication by ether IM or
+‘Wintuion Primary outcome: absence of seizures atthe
+time of arvalinthe emergency department without
+the ned forrescuetherapy.
+
+Results: Seizures were absent without rescue therapy
+inT3%ofthe IM-midazlam group and in 634% ofthe
+Morzepam group (P<,001for noninferiority and
+superiority), The median tiesto active treatment were
+4L2minin the IM midazolam group and48 min in the
+‘Morazepam group, with corresponding median times
+fromactive treatment to cessation of convulsions of3.3
+nin and'6 min, Adverse-evet rates were similar.
+Conclusions: For subjectsn status epilepticus,
+‘Mmidazolam is atleast assafe and efectve as NV
+lorazepamfor prehospital seizure cessation,

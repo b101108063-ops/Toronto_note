@@ -1,0 +1,141 @@
+Ops Ophthalmology
+
++ thelens prescription may be written in either the plus or minus cylinder format. To change from one format
+to the other, add the cylinder to the sphere, then change the sign of the cylinder and rotate its axis by 90
+degrees. For the above prescription, it yields: -0.50 -1.00 x 30°, add +2.00. Historically, ophthalmologists
+write prescriptions in plus cylinders, and optometrists use minus cylinders. Corneal refractive lasers create
+myopic astigmatic ablations in minus cylinders, as that results in less tissue ablation for the same net
+refractive change
+
+LASER REFRACTIVE EYE SURGERY
+
+* permanently alters corneal refractive properties by ablating tissue to change curvature of the cornea
+
++ used for correction of myopia, hyperopia, and astigmatism
+
++ common types include PRK, LASIK, and SMILE
+
++ potential risks/side effects: infection, under/overcorrection, increased glare/halo perception at night,
+corneal haze (surface haze of PRK prevented by mitomycin application at surgery; interface haze is rarer
+but may occur after other procedures), dry eyes (more common in LASIK than PRK), regression, and
+corneal ectasia
+
++ LASIK-specific: flap complications such as flap striae, free cap (by destruction of hinge area), loss of flap,
+traumatic flap dislocations, buttonhole flap, and epithelial ingrowth)
+
+Table 5. Optics
+Pathophysiology Clinical Features Treatment Complications
+Emmetropia Images of infinitely distant objects No refractiveerror
+{focus directly on theretina
+Myopia Globe too long relative torefractive “Nearsightedness” Correctwith negative dopter Retinal teardetachment,
+mechanisms, or refractive Usually presents intst or 2nd decade, /concave/"minus” lensesto _chorioretinal atrophy, myopic
+mechanisms too trong stabilizes in2nd and 3rd decade; rarely diverge light rays maculoschsis, maclar hole,
+begins ater age 25exceptin patients Refractiveeye surgery open-angle glaucoma
+with OM hyperglycemia and erly
+nudear sclerotic cataracts
+Blurring of distance vision; near vision
+usualy unaffected
+Prevalence: 30-40% in. population;
+higher amongAsians
+Hyperopia Globe too short relative to Farsightedness” ‘When symptomatic, correct with —Angle-clasure glaucoma,
+refractive mechanisms, or Youth: usualy do ot requireglasses positive diopter/comvex/"pls” particularly aterinKfeas lens
+refractive mechanisms too weak (stil have suffidentaccommodative lenses toconvergelightrays enlarges
+(e. aphakia) abiitytofocusimage on retina), but Refractveeye surgery
+may develop accommodative esotropia
+andamblyopiaif not corrected (see
+Strabismus, P37)
+30s-40s:bluting ofnearvsiondueto
+‘decreased accommodation, may need
+reading gasses
+>50:bluring of distancevision
+‘dueto progressively decreased
+‘accommodation
+Astigmatism —_Lightrays not refracted fects “30% of population, with Correctwith cylindrical lens
+uniformly inal meridians dueto prevalence increasingwith age (ifreguar)
+non-sphericalsurfaceofcornea Mild astigmatism unnoticeable Consider contact ens i
+‘ornon-spherical lens (e.g. football- Higher amounts of astigmatism irregular)
+shaped) may cause blurry vision, squinting, _—_—Refractiveeye surgery
+Twotypes asthenopia, or headaches (which are
+Regular curvature uniformly secondary to squinting)
+diferent in meridians at right
+angles to each other
+Irregular — distorted cornea coused
+by injury, keratoconus (cone-
+shaped cornea), corneal scar, or
+severe dry ee
+Presbyopia Normal aging process -40yr) ‘intial emmetropc, person beginstoCorrectwith positive diopter!
+Hardeningteduced deformability _holdreading material farther away, but conver!"plus” lenses for
+of lens resus in decreased distance vision remains unaffected reading
+accommodativeabilty Hinitialy myopic, person removes
+Accommodativepower's14Dat distance glasses to read
+age, diminishes to3.5D by intial byperopic,symptomsof
+age40 preshyopia ocaur earlier
+Near images cannot be focused
+‘onto the retina (locusis behind the
+retina as in hyperopia)
+Anisometropia _Dierencein refractive erors Second most common cause
+
+between eyes, of amblyopia in children. In
+hyperopic children, itis the
+more hyperopic, or more
+astigmatic eye that may develop
+amblyopia. i.e. amblyopia
+
+generaly developsintheeye
+thats not as “focusable” by
+thebaby.
+
+Toronto Notes 2025
+
+Central Corneal Thickness (CCT)
+Average CCT= 545 yum
+
+By GAT, |OP is over-estimated with thick
+comeas and under-estimated with thin
+comeas
+
+The general equation is: 1OPcort = ]OP —(
+[pach — 545)20 ), so for a post refractive
+surgery patient with central pachymetry
+‘of 445 um, with IOP of 15 with GAT,
+1OPcorr = 15 — (4100/20) = 20. This is
+
+not precise, so not everyone uses it, but
+it gives a reasonable idea of potential
+errors measuring IOP after LASIK, PRK or
+‘SMILE, and in the assessment of possible
+glaucoma in a patient with a thin cornea.
+
+Structures Responsible for Refractive
+Power
+
+Cornea (2/3)- average ~43D
+
+Lens (13) - average 19D
+
+=e)
+
+Emmetropia
+
+Myopia
+
+Hyperopia
+F = focal point
+
+Figure 10. Emmetropia and
+refractive errors
+
+= ‘
+Myopia corrected with
+negative diverging lens
+
+ES
+
+Hyperopia corrected with
+positive converging lens
+
+F =focal point
+
+Figure 11. Correction of refractive
+errors
+

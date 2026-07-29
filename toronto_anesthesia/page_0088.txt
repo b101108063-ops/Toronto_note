@@ -1,0 +1,123 @@
+AB4 Anesthesia
+
+andmark Anesthesiology Trials
+
+Toronto Notes 2025
+
+Trial Name Reference (Clinical Trial Details
+
+INTRAOPERATIVE MANAGEMENT
+
+MYRIAD NEJM 2019;380:1214-1225 Title Volatile Anesthetic vs. Total Intravenous Anesthesia (TIVA) for Cardiac Surgery
+Purpose: Volatile agents have cardioprotective effects which could improve clinical outcomes in cardiac surgery patients
+Methods: Multicenter, single-bind, controled trial. Patients scheduled toundergo elective CABG were randomly assigned to an intraoperative anesthetic regimen
+that included a volatile anesthetic (desflurane, isoflurane, or sevoflurane) orto TIVA. The primary outcome was all-cause mortality at 1
+Results: Atotal of $400 patients were randomized. No significant difference betweenthe groups withrespect to all-cause mortality was seen at1 yr (2.8%in the
+‘volatile anesthetics goup and 3.0%in the TWAgroup; RR, 0.94; 95% CI, 0.69 01.29;P=0.71), orat 30d (1.4% and 1.3%, respectively; RR, 1.11,95% C070 to 1.76),
+There were no significant differences between the groups inany of the secondary outcomes or intheincidence of prespecified adverse events, including MI
+‘Conclusion: Among patients undergoing elective CABG, anesthesia witha volatile agent didnot resuin significantly fewer deaths at 1 yr thanTIVA
+
+BAG-RECALL NEJM 2017;365:581-600 Title: Prevention of Intraoperative Awareness in High-Risk Surgical Population
+
+‘Study of Wound Infection
+and Temperature
+
+NEJM 1996; 334:1209-1216
+
+Purpose: To determine i ES derived bispectral index (BIS) is superior toa protocol incorporating standard monitoringof end tidal anesthetic agent concentration
+(ETA forthe prevention of unintended introperativeawareness.
+
+Methods: Patients (n-6041) at high risk for awareness (e.g. aortic stenosis, daily alcohol consumption, chronic anticonvulsant use, et.) were randomly assigned to
+BS-quided anesthesia o ETAC-guided anesthesia.
+
+Results: 0.24% of patients inthe BIS group vs. 0.07% of patients inthe ETAC group had definite intraoperative awareness (95% CI-0.3 to 0.38, P=0.98). There was no
+difference between the groups with respectto the amount of anesthesia administered or rate of major postoperative adverse outcomes.
+
+‘Conclusions: The superiority ofthe BIS protocol over the ETAC protocol wasnt established. Fewer patients inthe ETAC group than the BIS group experienced
+awareness.
+
+Title: PerioperativeNormothermia to Reduce the Incidence of Surgical-Wound Infection and Shorten Hospitalization
+
+Purpose: To determine ifaintainingnormothermia during surgery reduces surgical-wound infectionsand shortens hospitalization,
+
+Methods: Randomized 200 patients undergoing colorectal sugery to hypothermia o normothermia groups, evaluating wound infections anddurationof
+hospitalization
+
+Results: Infections occured in 19% ofthe hypothermia group vs. 6% of the normathermia group (P-0.009). Hospitalization wes 2.6 days longer inthe hypothermia
+group (P=0.09).
+
+Conclusions: Maintaining normothermia reduces wound infections and duration of hosptalizationin patients undergoing colorectal surgery.
+
+POSTOPERATIVE MANAGEMENT
+
+IMPACT
+
+NEJM 2004; 350:2441-2451,
+
+Title: A Factorial Trial of Sic nter ventions forthe Prevention of Postoperative Nausea and Vomiting
+
+Purpose: To compare the efficacy of sx well-established antiemetic strategiesandto determine the extentto which efcacycouldbe improved by combining twoor
+‘three interventions,
+
+Methods: Patients (519) were randomly assigned to receive prophylactic antiemetics independent, in combination or placebo. Primary outcome was nauseaand
+vomiting witin24h after surgery.
+
+Results: Ondansetron, dexamethasone, and droperidol ench reduced risk of postoperative nausea andvomiting by 26%. Propofol reduced risk by 19%, and nitrogen
+by 12%, Relative risks associated with combined interventions coud be estimated by multiplying the relative risks associated with each intervention. Absolute risk
+reduction was actitcal function of patients’ baseline risk.
+
+Conclusion: Alinterventions were sinilrl effective and acted independently. The safest or least expensive should beused first, Moderate-risk patients may benefit
+from a single interventionandbigh-sk patients rom muipleintervetion.
+
+DREAMS Title: Dexamethasone vs. Standard Treatment for Postoperative Nausea and Vomitingin Gastrointestinal Surgery: Randomised Controlled Trial (OREAMS Til)
+Purpose: Whether preoperative dexamethasone reduces postoperative nausea and vomiting (PON) inpatients undergoing elective bowel surgery and whether itis
+associated with other measurable benefits during recovery from surgery.
+
+Method: Pragmatic two-arm parallel-group randomized trial with blinded postoperative care and outcome assessment.
+
+Results: Administration of dexamethasone 8 mg IV atinduction was associated with lower rates of vomiting within 24h of surgery (NNT13) and reduced need for
+antiemetics up to 72h (NNT=8)vs.standardof care.
+
+Conclusions: Asingle dose of dexamethasone at induction of anesthesia significantly reduces incience of PONV and need for rescue antiemetics postoperatively with
+no increase in adverse events.
+
+ENGAGES JAMA2019;321:473-483 Tile: Effectof EE6-Guided Anesthetic Administration on Postoperative Delirium Among Oller Adults Undergoing Major Surgery: The ENGAGES RCT
+Purpose: To assess whether EEG guided anesthetic administration decreases the incidence of postoperative delirium,
+
+Methods: RCT of1232 adults »60 yr old undergoing major surgery andreceiving guided anesthetic. Patients randomized 1: to receive EEG-guided anesthetic
+‘administration or usual care. Primary outcome was incident delirium during postoperative days 15
+
+Results: Delirium during postoperative days +5 occurred in 26.0% of the guided group and in 23.0% ofthe usual care group (P= 22). Medianend/-tial volatile
+‘anesthetic concentration was significantly lower inthe guided group than the usual care group, and median cumulative time with EEG suppression was significantly
+less (7s. 13 min; difference -6.0 95% Cl, 9.9to-21).
+
+Conclusion: Thereis no differencein postoperative delirium between EEG-guided anesthetic or usual careof oder adults,
+
+COMPLICATIONS
+
+POISES NEJM 2022;386(21):1986 Title: TanexamicAcidin Patients Undergoing Noncardiac Surgery
+Purpose: To assessthe efficacy of tranexamic acid in reducing bleeding in non-cardiac surgery.
+Methods: 9535 patients were randomized to receive tranexamic aid ora placebo during surgery Lif-threatening bleeding, major bleedin
+citcal organwere assessed.
+Results: Ableeding event occurred in 433 of 4757 patients inthe treatment group as opposed to561 bleeding eventsin the placebo group.
+‘Conclusion: The use oftranexamic acid was shown to significantly reduce the numberof bleeding events in non-cardiac surgery.
+
+POISE ‘Ann Intern Med 2023;Epub ahead Title: Hypotension-Avoidance Versus Hypertension Avoidance Strategies in Noncardiac Surgery: An International Randomized Trial
+
+of print Purpose: To compare the effectsofahypotension-avoidance and a hypertension-avoidance strategy on major vascular complications after noncardiac surgery.
+
+Methods: Patients (n-7480) having noncardiac surgery were randomly assigned tothe hypotension avoidance group (intraoperative MAP >B0 mmHg, withholding of
+long-term antitypertensives before and after surgery or the hypertension-avoidance group intraoperative MAP >60 ml).
+Results: Within 30 days of surgery, 13.9% ofthe hypotension-avoidance group vs. 14.0% of the hypertension avoidance group experienced major vascular
+‘complications (composite of vascular deathand nonfatal myocardial injury, stroke, cardiac arrest) (HR 0.99, 95% Cl 0.88 to 1.12, P-0.92)
+‘Conclusion: In patients having noncardiac surgery, thee ae similar incidences of major vascular complications using hypotension-avoidance and hypertension-
+avoidance strategies.
+
+POISED NEJM 2014;3701504-1513 Title: Clonidine in Patients Undergoing Noncardiac Surgery
+
+Purpose: To evaluatelow-dose clonidine vs. placeboin patents having noncardiac surgery.
+Methods: Patients (n-10,010) wit or ariskfor atherosclerotic isease were randomly assigned to receive clonidine or placebo just before surgery.
+Results: Clonidine did notreduce the rte of death or nonfatal M30 days post surgery. Clonidine increased clinicalyimportanthypotension (47.6% vs. 37.1%, HR
+1.32, 95% 1.24101.40,P-0,001) and nonfatal cardiac arrest (0.3%vs.0.1%, HR 3.20, 95% C1117 to 873, pP-0.02)
+Conclusion: Chnidine does nt reduce therate of death and non-fatal Ml, ut doesincrease the isk of hypotension andnonfatal
+

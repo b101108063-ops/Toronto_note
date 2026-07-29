@@ -1,0 +1,129 @@
+Gs27 General and Thoracic Surgery
+
+Table 13. NM Classification System for Staging of Gastric Carcinoma (AJCC/IUCC 2017, 8th edition)
+
+Primary Tumour (T) Regional Lymph Nodes (N) Distant Metastasis (M)
+
+1% Primary tumour cannot be assessed NX Cannot be assessed Mo No distantmetastasis
+0 No evidence of primary tumour No No regional node metastasis Mi Distant metastasis.
+Tis Catcinomain situ Mm Metastasis in +2 regional nodes
+
+Ta Invasion nto lamina propria or muscularismucosae N2 Metastasis in 36 regional nodes
+
+Mb Invasion into submucosa N3a_—_ Metastasis in 7-15 regional nodes
+
+n Invasion into muscularis propria N3b Metastasis i216 regional odes
+
+B Penetrationof subserosal comectve tissue without
+
+tissue invasion of visceral peritoneum or adjacent
+structures
+
+Ta Invasion nto serosa
+T4b Invasion into adjacent structures
+Treatment
+
++ adenocarcinoma
+= proximal lesions
+total gastrectomy and Roux-en-Y esophagojejunostomy
+« distal lesions
+subtotal gastrectomy: wide margins, en bloc removal of omentum and lymph nodes (D2
+lymphadenectomy) with Roux-en-Y or Billroth II reconstruction
+= adjuvant therapies
+* perioperative chemotherapy or postoperative chemoradiotherapy in addition to surgery is standard
+of care in a curative intent strategy
+= palliation
++ limited gastric resection or endoscopic stenting to decrease bleeding and relieve obstruction,
+enables patient to eat
++ radiation therapy
+studies are showing larger role for palliative chemotherapy
++ lymphoma
+= H. pylori eradication, chemotherapy + radiation, and surgery in limited cases (perforation, bleeding,
+and obstruction)
+
+Gastrointestinal Stromal Tumour
+
+Epidemiology
+
+* most common mesenchymal neoplasm of GI tract
+
++ derived from interstitial cells of Cajal (cells associated with Auerbach’s plexus that have autonomous
+pacemaker function which coordinate peristalsis throughout the GI tract)
+
++ 75-80% associated with tyrosine kinase (c-KIT) mutations
+
++ most common in stomach (50%) and proximal small intestine (25%), but can occur anywhere along GI tract
+
+* often discovered incidentally on CT, laparotomy, laparoscopy, or endoscopy
+
+Risk Factors
+
++ Carney triad: gastric GISTs, extra-adrenal paraganglioma, and pulmonary chondroma
++ type I neurofibromatosis
+
++ Carney-Stratakis syndrome
+
+al Features
+most commonly in stomach (40-60%) and jejunum (25-30%)
+
+typically present with vague abdominal mass, feeling of abdominal fullness, or with secondary symptoms
+of bleeding and anemia
+
+sometimes asymptomatic (13-18%)
+
+nonspecific symptoms (8-17%): bloating, early satiety, abdominal pain/discomfort
+
++ overt or occult GI bleeding (50% of gastric GISTs)
+
+Investigations
+
++ contrast-enhanced CT is preferred imaging for screening and staging; MRI if IV contrast not feasible
+
++ preoperative biopsy (EUS): useful for indeterminate lesions (not recommended if high index of suspicion
+for GIST)
+
++ given that lesions are submucosal, mucosal biopsies are sometimes non-diagnostic
+
+Toronto Notes 2025
+
+Staging and 5 Yr Survival Rates for Gastric
+Cancer
+
+stage val
+ry TINowo Th
+B renowo 1%
+Tmo
+ma TaNoMo 45%
+renimo
+mao
+1B MaNoMo 33%
+raNIMo
+remo
+Tm3Mo
+cry Nano 20%
+BreMo
+Ten3Mo
+me TaowoMo 14%
+rom
+Taanamo
+TaN3Mo
+me vabi2Ma—O%
+abi3Mo
+aan3Mo
+w ttt 4%
+
+Neoadjuvant Chemotherapy (HACT in Advanced
+Gasticand Esophago-GastricCancer (EGC) Meta-
+Analysis of Randomized Trials
+
+Int) Surg 2018 51-20-27
+
+Study: Meta-analysis evaluating theetfets of
+neoadjuvant chemotherapy on advanced gastric cance
+Result\Conchisions: Neoadjuvant chemotherapy
+and resection reduces overall motalityat3andS rin
+advanced gasticcancer(QR-074;O82respectvly
+Msbiity and perioperative mortality ate ae ot
+infvencedby MT. Recurrence rates reduced byNACT
++ surgery OC (R=.
+

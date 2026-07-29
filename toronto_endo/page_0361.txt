@@ -1,0 +1,91 @@
+E53 Endocrinology Toronto Notes 2025
+
+Treatment
++ goal: testosterone replacement (improve libido, muscle mass, strength, body hair growth, bone mass)
+
+= IM/SC injection, transdermal testosterone or gel
+« side effects: acne, fluid retention, weight gain, erythrocytosis, sleep apnea, benign prostatic
+hypertrophy, uncertain effects on cardiac events/mortality in older men, infertility
+contraindicated in men with prostate or breast cancer, a palpable prostate nodule, prostate-specific
+antigen (PSA) >4 ng/mL, elevated hematocrit, untreated severe obstructive sleep apnea (OSA), severe
+lower urinary tract symptoms (LUTS), uncontrolled CHF, MI, or stroke in last 6 mo, or thrombophilia
+not suggested in men >65 yr, in men with T2DM with low testosterone concentrations, or in men
+planning fertility in the near term
+testosterone therapy only to treat symptoms of hypogonadism, often results in decreased
+spermatogenesis (and reduced sperm counts) by further suppression of hypothalamic-pituitary-
+gonadal axis and suppression of endogenous testosterone production
+goal: fertility
+
+«= treat underlying cause
+
+= GnRH agonist if hypothalamic dysfunction with intact pituitary, administered SC in pulsatile fashion
+
+using an external pump
+
+= hCG + recombinant follicle stimulating hormone (rFSH) in cases of either hypothalamic or pituitary
+lesions
+dopamine agonist (e.g. bromocriptine, cabergoline) if prolactinoma
+testicular sperm extraction (TESE) or microscopic sperm extraction (MICROTESE) - only if testicular
+tissues are not functioning
+
+Other Causes of Male Infertility
+
+hereditary disorders: Kartagener syndrome (primary ciliary dyskinesia), cystic fibrosis (absence of the vas
+deferens)
+
+anatomy: hypospadias, retrograde ejaculation
+
+obstruction: vasal occlusion, vasal aplasia, vasectomy, seminal vesicle disease
+
+sexual dysfunction: erectile dysfunction, premature ejaculation, infrequent coitus
+
+surgery: transurethral resection of the prostate (TURP), radical prostatectomy, orchiectomy
+
+DEFECTS IN ANDROGEN ACTION
+
+Etiology
+
+complete androgen insensitivity (CAIS)
+partial androgen insensitivity (PAIS)
+5-a-reductase deficiency
+
+mixed gonadal dysgenesis
+
+defects in testosterone synthesis
+infertile male syndrome
+undervirilized fertile male syndrome
+
+Clinical Features
+
+depends on age of onset
+
+Table 39. Effects of Testosterone Deficiency
+
+First Trimester in utero Incomplete viilization of external gentalis (ambiguous genitalia)
+
+Incomplete development of Wolfian ducts toform male internal genitalia (male pseudohermaphroditism)
+
+Third Timester in utero Micropenis
+
+Cryptorchidism (filure of normal testicular descent)
+
+Prepuberty Incomplete pubertal maturation (high pitch voice, sparse pubic + axillary hat, absence of facialhait)
+
+Eunuchoidal body habitus (greater growth of extremity long bones relative to axial bones)
+Poor muscle development
+Reduced peak bone mass
+
+Postpuberty Decrease in energy, mood, and libido
+
+Fine wrinkles in corners of mouth and eyes
+Decrease in pubicaxillay hair, hematocrit, muscle mass, strength, and BMD
+
+‘Adapted fom: UpToDate, 2010; Cecil's Essential of Medicine
+
+Treatment
+
++ hormone replacement or supplementation
+
++ psychological support
+
++ gonadectomy for cryptorchidism and streak gonads (due to increased risk for testicular cancer)

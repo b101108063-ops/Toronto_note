@@ -1,0 +1,125 @@
+G33 Gastroenterology
+
+Treatment
++ supportive (hydration, diet)
+
+«+ usually resolves spontaneously, but if severe HBV infection, treatment with antiviral agent such as tenofovir
+or entecavir can be considered; in acute hepatitis C, antiviral treatment can be considered (see Hepatitis C
+
+Virus, G34)
++ indications for hospitalization: encephalopathy, coagulopathy, severe vomiting, hypoglycemia
+
+Prognosis
+
++ poor prognostic indicators: comorbidities, persistently high bilirubin (>340 mmol; 20 mg/dL), increased
+
+INR, decreased albumin, hypoglycemia
+
+Complications
+
++ cholestasis (most commonly associated with HAV infection)
+
++ hepatocellular necrosis: AST, ALT >10-20x normal, ALP and bilirubin minimally increased, increased
+cholestasis
+
+Hepatitis A Virus
+
++ RNAvirus
+
++ fecal-oral transmission; incubation period 4-6 wk
+
++ diagnosed by elevated transaminases, positive anti-HAV IgM
+
++ inchildren: characteristically asymptomatic
+
++ inadults: fatigue, nausea, arthralgia, fever, jaundice, hepatomegaly
+
++ can cause ALF and subsequent death (<1-5%)
+
++ can relapse (rarely), but never becomes chronic
+
++ treatment is supportive (no specific treatments available, disease is often self-limiting)
++ preventable by vaccination
+
++ post-exposure prophylaxis is available for exposed contacts
+
+Hepatitis B Virus
+
+Table 19. Hepatitis B Serology
+
+WBshg ———Ant-HBs HBeAg ———Ant-HBe liver Enzymes
+
+Acute HBV + - + -
+
+Chronic HBe-Agpositive) HBV + - . - 196 ‘A, AST may or may nt be elevated
+(generally high HBV. DNA)
+Chronic HBe-Agnegative) HBV. + - - . 196 [AT AST may or may nt be elevated
+(generally low HBV- DNA)
+Resolved Infection - : - : 196
+Immunization - + - - -
+
+Symptoms
+
+-
+7 AT
+
+Anti-HBs
+
+Anti-HBc IgG
+
+Anti-HBc IgM
+
+Months after inoculation
+
+Figure 12. Time course of acute hepatitis B infection
+
+Toronto Notes 2025
+
+Alcoholic Hepatitis: history of chronic
+EtOH use (possibly with recent increased
+consumption, although often patient may
+have stopped drinking in the days-weeks
+prior to presentation due to symptoms),
+RUG abdominal pain, AST/ALT>2, AST
+usually <300, low grade fever, mildly
+elevated WBC
+
+Major Sources of ALP
+Hepatobiliary tree
+Bone
+
+Placenta
+
+Intestine
+
+Dx for Hepatitis
+Viral infection
+Aicohol
+
+Drugs
+immune-mediated
+Toxins
+
+Without treatment, 8-20% of those with
+‘ongoing immunoactve chronic hepatitis
+ccan develop cirthosis within 5 yr. In
+contrast, those in the immune tolerant
+phase (with extremely high HBV-DNA
+Jevels) are at minimal isk for liver fibrosis
+as they do not have immune-mediated
+liver injury
+
+Risk of HCC in HBV increases with
+increasing age, which is likely a surrogate
+for increasing ler fibrosis/drrhosis, and
+serum HBV-DNA
+
+HCV (and HBV) treatment lowers the risk
+of HCC
+
+Risk Factors for Progression
+EOH
+
+HIV coinfection
+
+Old age at diagnosis

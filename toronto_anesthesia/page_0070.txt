@@ -1,0 +1,153 @@
+Al6
+
+Routine Induction vs. Rapid Sequence Induction
+
+Anesthesia
+
++ routine induction is the standard in general anesthesia; however, an RSI is indicated in patients at risk of
+regurgitation/aspiration (see Aspiration, A6)
++ RSTuses
+1, pre-determined doses of induction drugs given in rapid succession to minimize the time patient is
+at risk for aspiration (e.g. from the time when they are unconscious without an ETT until the time
+when the ETT is inserted and the cuffinflated)
+2. no bag mask ventilation
+3. cricoid pressure may be applied (although there are some exceptions, e.g. trauma to upper airway)
+4, use of rapid onset muscle relaxant (i.e. SCh)
+
+Table 7. Comparison of Routine Induction vs. RSI
+
+Steps Routine Induction RSI
+
+EquipmentPreparation ‘heckequipment, drugs, suction, and monitors; prepare an alternative laryngoscope blade and asecond ETT one size smaller, suction on
+
+Pre-Oxygenation/ 100% 02 for 3 minor 4-8 vital capacity breaths; reduce isk of hypoxemia during apneic period following induction
+
+Denitrogenation
+
+Pre-Treatment Agents Use agent of choice to blunt physiologic responses to Use agent of choice to blunt physiologic responses to airway manipulation;
+‘airway manipulation 3 min prior to laryngoscopy ifpossble,give3 minprior to laryngoscopy, but can skip this step in an
+
+emergent situation
+
+Induction Agents Use Vor inhalation induction agent of choice Use pre-determined dase of fat acting induction agentof choice
+
+MuscleRelaxants Muscle relaxant of choice given afterthe onset ofthe Pre-determined dose of fast acting muscle relaxant (SCh or high ose
+induction agent rocurenium) given INMEDIATELY ater induction agent
+
+Ventilation Bag-maskventilation DO NOT bag ventilate -can increase isk of aspiration
+
+Additional Helpful Maneuvers External Laryngeal Manipulation using Backwards,
+
+Upwards, RghtwardPressure (BURP)
+
+Cticoid pressure Selick Maneuver to prevent regurgitation
+
+Intubation Intubate, inflate cuff, confirm ETT position Intubate once paralyzed (»45 s after SCh given), inflate cuff, confirmETT
+position; cricoid pressure maintained until ETT cuff inflatedand placement
+confirmed
+
+Secure ‘Secure ETT, and begin manual/machine ventilation
+
+Induction Agents
+
++ induction of general anesthesia may be achieved with intravenous agents and/or volatile inhalational agents
+
+Intravenous Agents
++ IVinduction agents are non-opioid drugs used to provide hypnosis, amnesia, and blunt reflexes to
+laryngoscopy
++ these are initially used to establish the plane of anesthesia rapidly and smoothly
+= most commonly used is propofol or ketamine
+= acontinuous propofol infusion may be used as an alternative to inhalational volatile agents during the
+maintenance phase of general anesthesia. An indication would be malignant hyperthermia
+
+Table 8. Intravenous Induction Agents
+
+Propofol Diprivan®) Thiopental (sodium thiopental, Ketamine (Ketalar®, Etomidate
+‘sodium thiopentone)” Ketaject®)
+Class, ‘Aikylphenol hypnotic Short acting thiobariturate ~ Phencycidie (PCP) Imidazolederivative- Ultrashort acting
+hypnotic derivative dissociative bypnotic barbiturate
+Action Inhibitory at GABA synapse Inhibitory at GABAsynapse May act on HMDA Decreases concentrationof Bindsto the
+Decreased cerebral Decreased cerebral metabolic (entagonistcaly), opiate,  GABArequiredtoactvate chloride ionophore
+metabolcrate and blood —_rateandbloodflow, decreased and other receptors receptor site of GABA-A
+flow, decreased ICP, CPP, decreased C0, decreased Increased HR, inceased BP, CNS depression receptor
+decreased SVR, decreased BP, decreasedreflextachycardia, increased SV Minimal cardiac or
+BP, and decreased SV decreased respiration coronary low, increased respiratory depression
+mnyocardial0: uptake
+Sand respiratory
+depression, bronchial
+smoath muscle relaxation
+Indications Induction Induction Induction whensympathetic Induction Procedural
+Maintenance Control ofconmulsivestates, stimulation required(e.g. Poorcardiacfunction, induction
+Total intravenous anesthesia obstetric patients major trauma, hypovolemia), severe valvelesions, Electrocomulsive
+(rvay IMinductionin children’ uncontralled hypertension therapy ECT)
+
+uncooperativeaduls (ie.
+when thereis lack of V
+access), severe asthma
+because sympathomimetic
+
+“Asof 2011, Thiopentalhas been discontinued fom production for North America
+
+Toronto Notes 2025
+
+a
+
+Rocuronium s.SuccinycholineforRapid Sequence
+Induction Intubation
+
+Cochrane DBSyt Rev 2015:C0002788
+
+Purpose: Whether rocuonum createsinubating
+Conditions comparable to those of sucinylcholine
+during RStntbations.
+
+Methods: Systematicrview of RCTs or CCTs witha dose
+‘of atleast 0.6 mg/g forrocronium and mg/g for
+saccinylcholne.
+
+Results: 50 tials, 451 participants, Succnyhoi
+was superior to rocuronium fo achieving exellent
+intubating condtons (0.86, 95% C10.81-092) and
+nical aceptabeintubation conditions (RRO.87,
+95% C10.95-0.99)
+
+Conclusion: Sucinylcholinecreated superior
+intubation condtons to rocuronim in achieving
+cacellent and dnially acceptable intubating
+conditions
+
+Most Halothane
+Soluble
+Isoflurane
+Sevoflurane
+Desfurane
+Least
+Soluble Nitrous Oxide
+
+Figure 11. Solubility of volatile
+anesthetics in blood
+
+@
+
+EtectsofCicoid Pressure Compared with aSham
+Procedure inthe Rapid Sequence Induction ot
+Anesthesia: The ris Randomized Clinical Tal
+MA Surg 2019,154()9-17
+
+Purpose To determine if cco pressure impacts
+pulmonary aspctionin people undergoing apd
+Sequence induction (of anesthesia
+
+Methods: Randomized and double-bind rial to assess
+“HT2patients undergoing rapid sequence induction of
+anesthesia a 1 academic centers.
+
+Results: Rests demonstrated that patients
+undergoing anesthesia sing RS experience increased
+prevention of pulmonary aspiration using ico
+pressure when compared tothe sam condition,
+Conclusion: Ths study provides evdenceto show
+the benefit of rc pressure in SI and found that
+itssupeto tothe shamprocedure in preventing
+aspiration
+

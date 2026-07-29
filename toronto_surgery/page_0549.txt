@@ -1,0 +1,136 @@
+Gs57 General and Thoracic Surgery
+
+* percutaneous cholecystostomy tube: critically ill or if general anesthetic contraindicated
+
+* some centres can perform percutaneous stone extraction to avoid cholecystectomy or create fistulas from
+stomach to gallbladder to decompress and create an internal cholecystostomy tube without the morbidity of
+percutaneous tube
+
+Acalculous Cholecystitis
+
+Definition
++ acute or chronic cholecystitis in the absence of stones
+
+Pathogenesis
++ typically due to gallbladder ischemia and stasis,
+
+Risk Factors
++ ICU admission (most common), DM, immunosuppression, trauma patient, TPN, and sepsis
+
+Clinical Features
+* see Acute Cholecystitis, GS56
+* occurs in 10% of cases of acute cholecystitis
+
+Investigations
+
++ bloodwork: CBC, electrolytes, Cr, LFTs, liver enzymes, bilirubin, and lipase
+
++ U/S: shows sludge in gallbladder, other U/S features of cholecystitis (see Acute Cholecystitis, GS56)
++ CT or HIDA scan (most useful in confirming a non-filling gallbladder)
+
+Treatment
+
++ NPO, IV fluids, and pain management
+
++ IV broad-spectrum antibiotics, cholecystectomy
+
++ ifpatient unstable > percutaneous cholecystostomy
+
+Choledocholithiasis
+
+Definition
++ stones inCBD
+
+Clinical Features
++ often have history of biliary colic
++ tenderness in RUQ or epigastrium
++ acholic stool, dark urine, and fluctuating jaundice
++ primary vs. secondary stones
+= primary: formed in bile duct, indicates bile duct pathology (e.g. benign biliary stricture, sclerosing
+cholangitis, choledochal cyst, and CF)
+= secondary: formed in gallbladder (85% of cases in the U.S.)
+
+Investigations
+CBC: usually normal; leukocytosis suggests cholangitis
+LFTs: increased AST, ALT early in disease, increased bilirubin (more sensitive), ALP, GGT later
+lipase: to rule out gallstone pancreatitis
+U/S: intra-/extra-hepatic duct dilatation; differential diagnosis is choledochal cyst
+MRCP (90% sensitive)
+= visualization of ampullary region, biliary, and pancreatic anatomy
+= non-invasive diagnostic test of choice
++ ERCP
+= CBD stones in periampullary region
+= diagnostic and therapeutic; removal of stones and sphincterotomy possible
+= complications: retained stones, ERCP pancreatitis (1-2%), pancreatic or biliary sepsis
+Percutaneous Transhepatic Cholangiography (PTC)
+= percutaneous approach to the proximal biliary tree (i.e. intrahepatic biliary system) via the hepatic
+parenchyma
+= useful for proximal bile duct obstruction or when ERCP fails or not available
+= contraindications: ascites, peri/intrahepatic sepsis, and disease of right lower lung or pleura
+= complications: bile peritonitis, chylothorax, pneumothorax, biliary sepsis, and hemobilia
+Intraoperative Cholangiography (IOC)
+«= intraoperative injection of radiographic contrast into the cystic duct to evaluate CBD during
+laparoscopic cholecystectomy
+= useful for identifying CBD stones, clarifying biliary anatomy, and preventing CBD injury during
+cholecystectomy
+
+Complications
++ cholangitis, pancreatitis, biliary stricture, and biliary cirrhosis
+
+Toronto Notes 2025
+
+CS)
+
+Early vs. Delayed Laparoscopic Cholecystectomy for
+Acute Cholecystitis: A Meta-Analysis of Randomized
+inca Trials
+
+Am Surg 2008,196(1:40-47
+
+Purpose: Evaluate effects eary versus late
+laparoscopic coleqstectomyin treatment of acute
+cholecstts.
+
+Methods: Systematic review and meta-analysis of
+randomized studiesin Medine, Enbase, Cochrane, and
+GoogleScholar between 1987-2006 Endpointsincuded
+ratesofcomersionto open suger, postoperative
+Complication, length of stay, and duration of surgery.
+Results 4RCTsinclided with total of 375 patients
+
+No ditferences were fund between early and late
+groups in rates of conversion to open surgery (0.718)
+x postoperative complications P=0.819) Length of
+stay was shorter forthe eal group (P= 0.0008) wile
+duration of surgery was shorter fr the te group
+(P1002.
+
+Condusions: Early laparoscopic cholecystectomy for
+cite cholecystitis reduceslength of hospital stay
+
+with comparable ates of conversion o open surgery
+and postoperative complications compared with ate
+suger.
+
+American Society of Gastrointestinal
+Endoscopy 2019 Guideline on
+
+Role of Endoscopy in Evaluating
+Choledocolithiasis
+
+Proceed directly toERCP
+CBD stone on U/S
+
+Cinical ascending cholangitis
+
+Bilirubin>4 mg/dL 347 umolMy & dilated
+CBD on UIS
+
+Perform U/S, MRCP, Laparoscopic IOC or
+Intraoperative US
+
+Abnormal liver tests
+
+Age>55 yr
+
+Dilated CBD on U/S

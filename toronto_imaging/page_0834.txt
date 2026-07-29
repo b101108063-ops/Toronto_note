@@ -1,0 +1,57 @@
+NPI4 Nephrology
+
+Figure 8. Approach to hypokalemia
+
+Treatment
++ treat underlying cause
++ iftrue K* deficit, potassium repletion
+= oral sources: food, tablets ( KCI with either 8 mmol/tablet (600 mg) or 20 mmol/tablet (1500 mg)), KCI
+liquid solutions (preferable route if the patient tolerates PO medications)
+. a usually KCl in saline solutions, avoid dextrose solutions (may exacerbate hypokalemia via insulin
+release)
+max 40 mmol/L via peripheral vein, 60 mmol/L via central vein, max infusion 20 mmol/h
+K*-sparing diuretics (triamterene, amiloride, spironolactone) can prevent renal K* loss
+restore Mg” before correcting K*
+if urine output and renal function are impaired, correct with caution
+risk of hyperkalemia with potassium replacement, especially in patients who are elderly, have DM, or
+decreased renal function
++ use ACE inhibitor or ARB for CHF (reduces angiotensin II action and therefore reduces aldosterone
+roduction)
+beware of excessive potassium repletion, especially if hypokalemia secondary to transcellular shift
+
+Hyperkalemia
+
+Definition
++ serum [K*] >5.0 mEq/L
+
+Signs and Symptoms
+
++ usually asymptomatic but may develop nausea, palpitations, muscle weakness, muscle stiffness,
+paresthesias, areflexia, ascending paralysis, and hypoventilation
+
+impaired renal ammoniagenesis, impaired urinary NH«* excretion, and metabolic acidosis
+ECG changes and cardiotoxicity (do not correlate well with serum [K*])
+
+peaked and narrow T waves
+
+decreased amplitude and eventual loss of P waves
+
+prolonged PR interval
+
+widening of QRS and eventual merging with T wave (sine-wave pattern)
+
+AV block
+
+ventricular fibrillation, asystole
+
+5
+
+1 2 3 4
+Normal Peaking Peaked
+Twave Twave
+
+© Andrea Cormier
+
+Figure 9. ECG changes in hyperkalemia
+
+Toronto Notes 2025

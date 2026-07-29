@@ -1,0 +1,114 @@
+1D35 Infectious Diseases
+
+* opportunistic infections in HIV, other systemic infections: fluconazole or echinocandin
+
++ chronic mucocutaneous: oral fluconazole or other azole if resistant + treatment of underlying endocrine or
+immunological abnormality
+
++ when possible, avoid prolonged use of systemic glucocorticoids or prolonged courses of antibiotics.
+
+Aspergillus spp.
+
+Etiology
+
+infection with Aspergillus fungi (A. fumigatus, A. flavus) which is found ubiquitously in the air and the
+environment
+
+Aspergillus produces a toxin called aflatoxin that contaminates nuts, grains, and rice
+
+risk factors for infection includes personal history of atopy, immunocompromised status (e.g. severe
+neutropenia, transplant-related immunosuppression)
+
+Clinical Features
++ allergic bronchopulmonary aspergillosis (ABPA)
+«= IgE-mediated asthma-type reaction with dyspnea, high fever, and transient pulmonary infiltrates
+= occurs more frequently in patients with asthma and allergies
++ aspergilloma (fungus ball)
+= ball of hyphae ina pre-existing lung cavity
+= symptoms range from asymptomatic to massive hemoptysis
+= CXR: round opacity surrounded by a thin lucent rim of air, often in upper lobes (“air crescent” sign)
++ invasive aspergillosis
+associated with prolonged and persistent neutropenia or transplantation
+pneumonia - most common
+may disseminate to other organs: brain, skin
+severe symptoms with fever, cough, dyspnea, cavitation; fatal if not treated early and aggressively
+CXR: local or diffuse infiltrates + pulmonary infarction, pulmonary nodules with surrounding ground
+glass (“halo” sign)
++ mycotoxicosis
+= occurs due to hepatic effects of aflatoxin produced by A. flavus (nuts, grains, rice)
+= results in liver hemorrhage, necrosis, and hepatocellular carcinoma formation
+
+Treatment Options
+
++ ABPA: corticosteroids + itraconazole
+
++ aspergilloma: surgical resection + bronchial artery embolization for severe hemoptysis
+
++ invasive aspergillosis: voriconazole or amphotericin B
+
++ mycotoxicosis: removal and replacement of contaminated food source, symptomatic management, and
+surveillance for signs of acute liver failure
+
+PARASITIC INFECTIONS
+
+Protozoa — Intestinal/Genitourinary Infections
+
+Entamoeba histolytica (Amoebiasis)
+
+Etiology
+
++ infection with E. histolytica occurs when the cysts are transmitted via the fecal-oral route in areas of poor
+sanitation that have been contaminated by other infected humans, or via sexual activity
+
++ seen in migrants, travellers, institutionalized individuals, Indigenous peoples, MSM
+
+Clinical Features
++ asymptomatic carriers
++ amoebic dysentery
+= abdominal pain, cramping, colitis, dysentery, low grade fever with bloody diarrhea secondary to local
+tissue destruction, and ulceration of large intestine
++ amoebic abscesses (liver abscesses, see General and Thoracic Surgery, GS52)
+= most common in liver (hematologic spread); presents with right upper quadrant pain, weight loss, fever,
+hepatomegaly
+= can also occur in lungs and brain
+
+Investigations
+
++ serology, fecal/serum antigen testing, stool microscopic exam (for cysts and trophozoites), colon biopsy,
+single stool for multiplex enteric parasite PCR
+
++E. histolytica indistinguishable microscopically from the non-pathogenic E. dispar (distinguish by specific
+stool antigen detection or multiplex stool PCR assay, or serology in those who are symptomatic)
+
+Toronto Notes 2025
+
+a
+
+See LandmackIfctous Disease Trias table for moe
+information on the voriconaole s, amphotericin Bor
+imasiveasperilsistria. compared voriconaole
+with amphoterin Bfor primary therapy of invasive
+aspergils
+
+a Brain abscess
+by
+
+a
+
+Ingestion of
+
+aes
+
+9
+(infective)
+
+=atrophozoite
+
+(es
+
+‘Andrea Berenbaum
+
+(notintective)
+
+Figure 11. Entamoeba life cycle
+

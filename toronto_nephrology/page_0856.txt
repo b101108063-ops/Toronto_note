@@ -1,0 +1,131 @@
+NP36 Nephrology
+
+Scleroderma
+
+see Rheumatology, RH14
+50% of patients with scleroderma have renal involvement (mild proteinuria, high Cr, HTN)
+
+renal involvement usually occurs early in the course of illness
+histology: media thickened, “onion skin” hypertrophy of small renal arteries, fibrinoid necrosis of afferent
+arterioles and glomeruli, TMA
+
+10-15% of scleroderma patients have a “scleroderma renal crisis” (occurs in first few years of disease,
+associated with prednisone dose >15 mg/d and cyclosporine use): malignant HTN, ARF, microangiopathy,
+volume overload, visual changes, HTN encephalopathy
+
+treatment: BP control with ACEI slows progression of renal disease; mainstay of therapy in crises, even if AKI
+
+Multiple Myeloma
+
+see Hematology, H51
+malignant proliferation of plasma cells in the bone marrow with the production of monoclonal immunoglobulins
+patients may present with severe bone disease and renal failure
+
+ight chains are filtered at the glomerulus and appear as Bence-Jones proteins in the urine (monoclonal light
+chains)
+kidney damage can occur by several mechanisms
+. hypercalcemia
+
+light chain cast nephropathy or “myeloma kidney”
+
+hyperuricemia
+infection
+primary (AL) amyloidosis and secondary (AA) amyloidosis: predominantly manifesting as proteinuria
+with or without nephrotic syndrome
+
+= monoclonal Ig deposition disease
+
+= diffuse tubular obstruction
+light chain cast nephropathy
+
+= large tubular casts in urine sediment (light chains + Tamm-Horsfall protein)
+
+= proteinuria and renal insufficiency can progress rapidly to kidney failure
+monoclonal immunoglobulin deposition disease
+
+= deposits of monoclonal Ig in kidney, liver, heart, and other organs
+
+= mostly light chains (85-90%)
+
+= causes nodular glomerulosclerosis (similar to diabetic nephropathy) or MPGN
+fibrillary/immunotactoid Glomerulonephritis
+cryoglobulinemia (Type I) (see Hepatitis C, NP27)
+lab features: increased BUN, increased Cr, urine protein immunoelectrophoresis positive for Bence-Jones
+protein (not detected on urine dipstick)
+poor candidates for kidney transplantation
+
+Malignancy
+
+cancer can have many different renal manifestations
+
+kidney transplantation cannot be performed if there is a malignancy. Nephrology considerations for
+malignant presentations include:
+
+solid tumours: mild proteinuria or membranous GN
+
+lymphoma: minimal change GN (Hodgkin's) or membranous GN (non-Hodgkin’s)
+
+renal cell carcinoma
+
+tumour lysis syndrome: hyperuricemia, diffuse tubular obstruction, hyperkalemia, hyperphosphatemia,
+hypocalcemia, hyperuricemia, elevated LDH, and lactic acidosis
+
+chemotherapy (especially cisplatin): ATN or chronic TIN
+
+pelvic tumours/metastases: postrenal failure secondary to obstruction
+
+primary (AL) amyloidosis and secondary (AA) amyloidosis: predominantly manifesting as proteinuria
+with or without nephrotic syndrome
+
+radiotherapy (radiation nephritis)
+
+Chronic Ki
+
+Definition
++ abnormalities of kidney structure or function, present fora minimum of 3 months, with implications for health
+
+Clinical Features
+
++ many patients are asymptomatic until later stages of disease
+
++ cardiovascular: HTN, CHF (volume overload, HTN, and anemia), pericarditis (uremia)
+
++ GI:N/V, anorexia, dysgeusia (GI symptoms typically only manifest in CKD G5)
+
++ neurologic: lethargy, confusion, neuropathy, seizures, asterixis, hyperreflexia, restless leg syndrome,
+encephalopathy (uremia)
+
+hematologic: normocytic normochromic anemia (reduced EPO), bleeding due to platelet dysfunction (uremia)
+endocrine/metabolic: Ca, PO. disturbances, hyperphosphatemia, hypocalcaemia, secondary
+hyperparathyroidism, reduced renal production of 1,25-dihydroxy vitamin D, osteopenia/osteoporosis
+sexual/reproductive: hypothalamic pituitary disturbances, infertility
+
+pruritus: multifactorial etiology
+
+Toronto Notes 2025
+
+Hypercalcemia complicates many cancers
+and can cause multiple kinds of renal
+disorders (renal vasoconstriction with
+reduced GFR, salt-wasting with volume
+depletion, risk of calcium kidney stones)
+
+inesfor the Management of
+forthe Prevention of CVD nthe Adult ~
+Chronic Kidney Disease
+
+Can JCardiology20165;32:1263-82
+
+Recommendations:
+
+Aduts250y with CKD GFR <60 mLinin73 7 should
+receiv treatment with statin a statnezetimibe
+combination
+
+Initiation of powering therapy not recommended
+for adults with dialysis dependent CKD however, if
+already recevingitat the tie of dalsisintation, it
+shoud be continued
+
+Statin therapy shouldbe used in adults with kidney
+transplantation

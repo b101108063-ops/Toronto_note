@@ -1,0 +1,128 @@
+ELOM23 Ethical, Legal, and Organizational Medicine
+
+Physician-Industry Relations
+
++ healthcare delivery in Canada involves collaboration between physicians and the pharmaceutical and
+healthcare supply industries in the areas of research, education, and clinical evaluation packages (e.g.
+product samples)
+
++ however, unlike physicians, pharmaceutical and healthcare supply industries do not have a fiduciary duty
+to patients and are profit-driven. There exists a motive for pharmaceutical companies, which extends
+beyond your responsibility as a physician
+
+« literature is clear that our decision-making is influenced by items such as gifts provided by the
+pharmaceutical and healthcare supply industries (e.g. pens with brand names inscribed, free lunch and
+learn sessions)
+
+= accepting such offers (e.g. saying “yes” to a lunch and learn session being offered by a pharmaceutical
+company, personal injury law firm, etc.) can directly influence physician practices and beliefs in favour
+of such promoted products. This influence can result in, for instance, the prescription of medications
+for reasons other than their efficacy and safety profile, recommending particular law firms to patients
+(which is outside of one’s scope)
+
+«= ultimately, there isa reason as to why the pharmaceutical and healthcare supply industries spend
+money to build relationships (namely, to influence decision-making in favour of the company)
+
+«= the dissemination of free product samples by pharmaceutical companies is associated with increased
+patient preference for new drugs that are often more expensive, thus incurring a greater long-term cost
+for patients and the healthcare system
+
+= new pharmaceutical products are not always more effective than previous standard of care and may
+have less robust safety evidence by virtue of being new
+
++ physicians must ensure that their participation in any collaborative efforts with pharmaceutical and
+healthcare supply industries is in keeping with their duties to their patients and society; however,
+physicians often struggle to propery identify situations in which a conflict of interest is present. It is
+recommended that clinicians who want support in identifying and navigating potential conflicts of interest
+gain bioethics support
+
+«+ gifts or free products from the pharmaceutical industry are usually inappropriate:
+
+‘= sponsorship for travel and fees for conference attendance may be accepted only where the physician is a
+conference presenter and not just in attendance
+
+= physicians receiving such sponsorship must disclose this at presentations and/or in written articles; it
+is important to note, however, that the disclosure of conflicts does not eliminate the potential influence
+that the conflict may have on physician behaviours
+
+Resource Allocation
+
++ definition: the distribution of any resource to programs and people (e.g. goods and services)
+
++ ifhealthcare resources are clinically indicated, physicians must make such resources available to patients in
+amanner that takes into consideration equity, potential biases, and possible discriminatory motivation of
+offering/not offering such resources
+
+= a person’s and/or society’s need for and benefit of certain resources are morally relevant criteria for
+determining allocation, particularly if resources are scarce
+
+= gender identity, sex, sexual orientation, religion, level of education, socioeconomic status, or age alone
+are morally irrelevant criteria in and of themselves (i.e. one must not prevent a patient from accessing a
+scarce resource exclusively on the basis of age)
+
+= factors determining whether and/or how resources ought to be allocated must be balanced against each
+other and weighed on a case-by-case, situation-by-situation basis. For instance, there may be some
+cases where one’s age is relevant to determining how much a patient is expected to/not to benefit from a
+particular resource, but in other cases, age may be entirely irrelevant
+
++ ethical dilemmas that may arise when deciding how best to allocate scarce resources:
+
+= favouring best outcome vs. giving all patients fair access to limited resources (e.g. transplant list
+prioritization)
+
+= aggregation problem: providing modest benefits to many individuals vs. significant benefits to few
+individuals
+
+«= decision-making framework considerations: when to rely on a fair democratic process to arrive ata
+decision, what does a ‘fair’ process look like?
+
+Guidelines for Appropriately Allocating Resources
+
++ protect and promote the welfare and best interests of patients
+
++ enable informed, autonomous, and voluntary decision-making
+
++ choose interventions known to be beneficial based on evidence of efficacy
+
++ seek the test(s) or treatment(s) that will be most likely to accomplish the diagnostic or therapeutic goal with
+minimal expected harms
+
++ advocate for one’s patients, but do not manipulate the system to gain unfair advantage
+
++ resolve conflicting claims for scarce resources justly and equitably, on the basis of morally relevant criteria
+such as need and benefit, using fair and publicly defensible procedures. Consult with external resources
+(e.g. bioethics team) to help reduce potential biases in decision-making processes
+
++ ifappropriate, sensitively inform patients of the impact of cost constraints on care/the healthcare system
+
++ seek resolution of unacceptable shortages at the level of hospital management or government
+
+Toronto Notes 2025
+
+CMA and CPSO Guidelines for Ethically
+Appropriate Physician-Industry Relations
+The primary goal should be the
+advancement of the health of Canadians
+Relationships should be guided by the CMA
+Code of Ethics
+
+The physician's primary obligation is to
+
+the patient
+
+Physicians should avoid any self-interest in
+their prescribing and referral practices
+
+Physicians should always maintain
+professional autonomy, independence, and
+‘commitment to the scientific method
+
+Choosing Wisely Canada is the national
+voice for reducing unnecessary tests
+
+and treatments in healthcare. Refer
+
+to https://choosingwiselycanada.org/
+recommendations! for a comprehensive lst
+‘of recommendations to assist in decision
+making as healthcare stewards

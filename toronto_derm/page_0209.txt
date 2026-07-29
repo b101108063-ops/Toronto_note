@@ -1,0 +1,112 @@
+D21 Dermatology
+
+Epidemiology
+
++ 15-2%, M=F
+
++ all ages: peaks of onset: 20-39 yr and 50-60 yr
+
++ polygenic inheritance: 8% with one affected parent, 41% with both parents affected
+
++ risk factors: smoking, obesity, alcohol, drugs, infections, physical trauma (Koebner phenomenon)
+
+Differential Diagnosis
++ mycosis fungoides (cutaneous T-cell lymphoma), seborrheic dermatitis, tinea corporis, nummular
+dermatitis, contact dermatitis, lichen planus, secondary syphilis, DLE
+
+Investigations
++ none required; biopsy if atypical presentation
+
+PLAQUE PSORIASIS
+
+al Features
+
++ chronicand recurrent disease characterized by well-circumscribed erythematous papules/plaques with
+silvery-white scales
+
+often worse in winter (lack of sun)
+
+Auspitz sign: pinpoint bleeding observed when scale is removed
+
+common sites: scalp, extensor surfaces of elbows and knees, trunk (especially buttocks), nails, pressure
+
+areas
+
+Management
++ depends on severity of disease, as defined by BSA affected or PASI
++ mild (BSA <3%, PASI <3)
+first line treatment includes TCS + topical vitamin D analogue combination
+topical retinoid + TCS combination tends to be less tolerated than first line therapies
+emollients
+roflumilast cream
+anthralin and tar are rarely used
+phototherapy or systemic treatment may be necessary if the lesions are scattered or in difficult-to-treat
+areas (e.g. palms, soles, scalp, and genitals)
++ moderate (BSA 3-10%, PASI 3-10) to severe (BSA >10%, PASI >10)
+«= phototherapy if accessible
+= systemic or biological therapy based on patient's treatment history and comorbidities
+«= TCS + topical vitamin D3 analogue as adjunct therapy
+
+Table 14. Topical Treatment of Psoriasis
+
+Treatment Mechanism Comments
+
+Emolients Reduce issureformation
+Salicylic acid 142%
+
+Tar (LCD: liquor carbons detergens)
+Topical corticosteroids
+
+Removescales
+Inhibit DNAsynthess, increase cll tumover
+Reducescaling, redness and thickness
+
+Messy, poor long-term compliance
+Use appropriate potency steroid indifferentareas for
+degree of psoriasis
+
+Vitamin Danalogues: calipotriene/calcipotriol
+(Dovonex®, Sitkis®)
+
+Reduce keratinocyte hyperproifeation
+
+Betamethasone* calcipotriene ovobet®) Combined TCSandvitamin Danalogue. Seeabove Not to beusedon faceorflds
+mechanisms
+
+Retinoids Tazarotene (Tazorac®) (gellcream) Vitamin A derivative, reduce scaling Initating
+
+Halobetasol propionate + tazarotene Combined TCS andvitaminA derivative, reducescaling —_Iritating
+
+(DuobrittM) (lotion)
+POE-4inhibitor: Roflumilast (Zoryve”) (cream)
+
+‘and inflammation
+
+Reduce inflammation Steroidsparing, can be used on face or folds
+
+Toronto Notes 2025
+
+Table 15. Systemic Treatment of Psoriasis
+
+Treatment Considerations Adverse Effects
+eitretin More effectivewhen used in combination with phototherapy ‘Alopecia, cheltis, teratogenicity, hepatotoxic, photosensitivity,
+epistaxis, xrosis, hypertrigycei
+Cyclosporine Used for intermittent control rather than continuously Renal toxicity, hypertension, hypertriglyceridemia, immunosuppression,
+‘Avidusing for>1yr lymphoma, non-melanoma skin cancer
+Methotrexate Hasbeenused for over SO yr Bone marrow toxicity hepatic cimhosés, teratogenicity
+‘Apremilast (Otezla®) Extremely safe Glupset, headache, loose stool, weightloss
+Deucravacitinib More effectivethan apremilast ‘Ace, increased rskof infection
+(SotyktuTM) Welltolerated
+PUVA Highly effective in achievingremission Burning, skin cancer
+‘Avoid>200 sessions in ifetime asit increases the risk of melanoma
+‘and non melanoma kin cancer
+Broadband UVBand —_UVBismuchless carcinogenic than PUVA.NB-UVBhasnotbeen —_—Rareburning
+
+NB-UVB (311 nm) shown to increase the risk of skin cancer
+
+© Sonia Seto 2016
+
+Figure 10, Psoriasis distribution
+
+‘Mechanism of Biologics
+

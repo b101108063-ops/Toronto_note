@@ -1,0 +1,161 @@
+IDI7 Infectious Diseases
+
+ dental/respiratory procedures: amoxicillin single dose 30-60 min prior; azithromycin or
+clarithromycin if truly penicillin-allergic
+« infected skin/soft tissue procedures: cephalexin single dose 30-60 min prior (modify based on
+etiology of skin/soft tissue infection)
++ surgical
+= most common indication is refractory CHF
+«= other indications include: valve ring abscess, valve perforation, unstable prosthesis, large vegetation
+>1 cm, recurrent emboli despite adequate antimicrobial treatment, antimicrobial failure (persistently
+positive blood cultures), fungal etiology, S. aureus on a prosthetic valve
+
+Prognosis
++ adverse prognostic factors: CHF, prosthetic valve infection, valvular/myocardial abscess, embolization,
+persistent bacteremia, altered mental status
+
++ mortality: prosthetic valve IE (25-50%), non-IVDU S. aureus IE (30-45%), IVDU S. aureus or streptococcal
+TE (10-15%)
+
+CNS Infections
+
+Meningitis
++ see Pediatrics, P65
+
+Definition
++ inflammation of the meninges
+
+Etiology
+
+Table 19. Common Organisms in Meningitis
+
+Bacterial Viral Fungal Other
+‘ge 0-4wk Aget3mo ‘Age>3mo
+as cas 5. pneumoniae Hsv4,2 Cryptococaus lyme disease
+Eaoll Ecol W.meningtids ww Cocddioides Neurosyphilis
+L monocytogenes 5. pneumoniae L monocytogenes Enterovinses 8
+Kebsiola N. meningitidis (likely # age >500r Parechovinses
+
+A. influenzae comorbidities) West Nile
+
+Risk Factors
+
++ lack of immunization against H. influenzae type B, S. pneumoniae, and N. meningitidis in children
+
++ most cases of bacterial meningitis are due to hematogenous spread from a mucosal surface (nasopharynx)
+
++ direct extension from a parameningeal focus (otitis media, sinusitis) less common
+
++ penetrating head trauma or iatrogenic
+
++ anatomical meningeal defects - CSF leaks
+
++ immunodeficiency (e.g. corticosteroids, HIV, asplenia, hypogammaglobulinemia, complement deficiency,
+etc.)
+
++ contact with colonized or infected persons
+
+Clinical Features
+
++ neonates and children: fever, lethargy, irritability, vomiting, poor feeding
+
++ older children and adults: fever, headache, neck stiffness, confusion, lethargy, altered LOC, seizures, focal
+neurological signs, nausea/vomiting, photophobia, papilledema
+
++ petechial rash in meningococcal meningitis (purpura fulminans), seen more frequently on trunk or lower
+extremities
+
+Investigations
+
++ blood work: CBC and differential, electrolytes (for SIADH), blood C&S
+
++ CSF: opening pressure, cell count + differential, glucose, protein, Gram stain, bacterial C&S
+
++ AEB, fungal C&S, cryptococcal antigen in immunocompromised patients, subacute illness, suggestive
+travel history or TB exposure
+
++ PCR for HSV, VZY, enteroviruses; in infants <6 mo, parechoviruses
+
++ West Nile virus serology in blood and CSF during summer and early fall if viral cause suspected
+
++ imaging/neurologic studies: CT, MRI, EEG if focal neurological signs present
+
+Table 20. Typical CSF Profiles for Met
+
+(SFAnalysis Bacterial Viral
+‘Glucose (mmoliL) Decreased Normal
+Protein (g/l) Markedly increased Increased
+wee 500-10000/uL 10-5000
+Predominant WBC Neutrophils Lymphocytes
+
+Toronto Notes 2025
+
+LP)
+
+See Landmark Infectious Diseases Tra for more
+information onthe POE ial, which investigated the
+efficacy and safety of siting rom to oral antibiotics
+inpatients with
+
+)
+
+ESCMID guideline: diagnosisand treatment of acute
+bacterial men
+Cinial microbiology and infection, 2016 May
+1253182.
+
+Purpose: To provide evidence-based guidance in daily
+practice forthe diagnosis and treatment of community-
+acquired bacterial meningitisin hospitals
+
+Methods: The guideline committe performed a
+systematicliterature review based on questions that
+dress the fullspctrum of crrentcnical dilemmas in
+the diagnosis and treatment of community acquired
+bacterial meningitis
+Results Conclusions: The current guidelineprovides
+recommen dations based on 10 questions and several
+subquestons elated to the epidemiology, diagnosis,
+treatment, and follow-up of community acquired
+bacterial meningitis
+
+Brudzinski’s Sign
+Passive neck flexion causes involuntary
+flexion of hips and knees,
+
+Kemig’s Sign
+Resistance to knee extension when hip is
+flexed to 90°
+
+Jolt Accentuation of Headache
+Headache worsens when head tuned
+horizontally 23 times per second; more
+sensitive than Brudzinski's and Kernig’s
+
+CSF Gram Stain Findings
+pneumoniae - GP dplococci
+'N. meningitidis - GN diplococci
+H. influenzae ~ Pleomorphic GN
+coccobacil
+
+L. monocytogenes ~ GP rods
+
+)
+
+‘Does this Adult Patient have cute Meningtis?
+
+JAMA 999;281115181
+
+Study: ystematireview of teratureanalyzing the
+accuracy and precision ofthe clinical examination inthe
+diagnos of adult meningitis
+
+the diagnosis of meningitis in adults, The sensitivity
+forheadachesis50% andthe senstty for nausea!
+‘vomiting is 30% On physical examination, absence
+
+Condusions:The cnical
+a diagnosis of meningitis
+linia presentation. In high-risk patients, ini
+need to proceed directo lumbar puncture given the
+seriou implications ofthe infection.

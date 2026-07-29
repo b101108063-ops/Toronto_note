@@ -1,0 +1,99 @@
+GS31 General and Thoracic Surgery Toronto Notes 2025
+
+Paralytic Ileus
+
+Pathogenesis
+«+ temporary, reversible impairment of intestinal motility; most frequently caused by:
+
+= abdominal operations, infections and inflammation, medications (opiates, anesthetics, psychotropics),
+and electrolyte abnormalities
+often seen for patients in the postoperative setting from intra-abdominal sepsis (perforated
+appendicitis, diverticulitis, etc.)
+pathophysiology related to inhibitory splanchnic reflexes, inhibitory sympathetic activity,
+inflammatory stress response, peptides (VIP, substance P, Calcitonin gene-related peptide (CGRP)
++ NOT the sameas intestinal pseudo-obstruction
+
+«= chronic pseudo-obstruction refers to specific disorders that affect the smooth muscle and myenteric
+
+plexus, leading to irreversible intestinal dysmotility
+
+al Features
+
++ symptoms and signs of intestinal obstruction without mechanical obstruction
+= bowel sounds are diminished or absent (in contrast to initial hyperactive bowel sounds in SBO)
+« pain is often diffuse and less frequently has the colicky pattern present in mechanical obstruction
+= passing gas is the most useful indicator
+
+* postoperative: gastric and small bowel motility returns by 24-48 h, colonic motility by 3-5 d
+
+Investigations
+
++ routine postoperative ileus: expected, no investigation needed
+
++ ifileus persists or occurs without abdominal surgery
+
+review patient medications (especially opiates)
+
+= measure serum electrolyte to monitor for electrolyte abnormalities (including extended electrolytes
+like Mg”, Ca**, POs)
+
+creatinine and BUN
+
+« LFTs
+
+= CT scan to rule out abscess or peritoneal sepsis, or to exclude mechanical obstruction
+
+Treatment
+
++ address underlying cause
+
+* most important initial treatment: NPO + fluid resuscitation
+
++ for prolonged ileus: NG tube decompression, TPN, and pain management
+
+Intestinal Ischemia
+
+Etiology
+eto tC)
+= arterial occlusive mesenteric ischemia (AOMI) Pain “outof keeping with physica fndings”
++ thrombotic, embolic, and extrinsic compression (e.g. strangulating hernia) isthe hallmark of early inestnal ischemia
+= non-occlusive mesenteric ischemia (NOMI)
+¢ mesenteric vasoconstriction secondary to systemic hypoperfusion (preserves supply to vital organs)
+= mesenteric venous thrombosis (MVT)
++ consider hypercoagulable state (ie. rule out malignancy) and DVT (prevents venous outflow)
++ chronic: usually due to atherosclerotic disease - look for cardiovascular risk factors
++ canlead to occlusion in vessels that supplies the small intestine and the large intestine
+
+al Features
+
++ acute: severe abdominal pain out of proportion to physical findings, vomiting, bloody diarrhea, bloating,
+minimal peritoneal signs early in course, hypotension, shock, and sepsis
+
+chronic: postprandial pain (from mesenteric angina), fear of eating, and weight loss
+
++ common sites: SMA supplied territory, “Watershed” areas of colon - splenic flexure, left colon, and sigmoid colon
+
+Investigations
+«+ laboratory: leukocytosis (non-specific) and lactic acidosis (late finding) ©
+
+« lactate used to observe progress
+
++ hypercoagulability workup if suspect venous thrombosis An acute abdomen + metabo acidosis
++ AXR: portal venous gas, intestinal pneumatosis, and free air if perforation SA ER ENE ISN
+
++ contrast CT: thickened bowel wall, luminal dilatation, SMA or SMV thrombus, mesenteric/portal venous
+gas, and pneumatosis
++ CT angiography is the gold standard for acute arterial ischemia
+
+Treatment
+
++ fluid resuscitation, correct metabolic acidosis, NPO, NG tube decompression of stomach, and prophylactic
+
+broad-spectrum antibiotics; avoid vasoconstrictors and digitalis
+
+exploratory laparotomy/ laparoscopy to assess extent of viability + segmental resection of necrotic intestine
+« ifextent of bowel viability is uncertain, a second-look laparotomy 12-24h later is mandatory
+
+angiogram, embolectomy/thrombectomy, bypass/graft, mesenteric endarterectomy, anticoagulation
+
+therapy, and percutaneous transluminal angioplasty + stent

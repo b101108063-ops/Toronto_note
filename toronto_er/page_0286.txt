@@ -1,0 +1,129 @@
+ER4O Emergency Medicine
+
+Epistaxis
+
+« see Otolaryngology, OT27
+* 90% of nosebleeds stem from the anterior nasal septum (Kiesselbach’s plexus located in Little’s area)
++ can be life-threatening
+
+Etiology
+
++ most cases of epistaxis are caused by trauma (e.g. digital, blunt, foreign bodies)
+
++ other causes: barometric changes, nasal dryness, chemicals (e.g. cocaine, Otrivin’), or systemic disease (e.g.
+coagulopathies, HTN)
+
+Investigations
++ blood work: CBC, PT/PTT/INR (if suspicious of bleeding disorder) as needed
++ imaging: x-ray, CT as needed (e.g, trauma)
+
+Treatment
+. goals of treatment: localize bleeding and achieve haemostasis
++ first-aid: ABCs, clear clots by blowing nose or suctioning, lean forward, pinch cartilaginous portion of nose
+for 20 min twice (note: best to use a compression device and not the patient’s fingers)
+assess blood loss: vitals; if severe bleeding or unstable patient IV NS, cross match 2 units pRBC
+if first aid measures fail twice, proceed to packing or cautery
+apply an anterior pack
+= clear nose of any clots
+apply topical anesthesia/vasoconstrictors (lidocaine with epinephrine, cocaine, or soaked pledgets)
+insert either a traditional Vaseline® gauze pack or a commercial nasal tampon or balloon
+N.B. if the site of bleeding is identified, cautery with silver nitrate can be performed as an alternative
+to packing (nly cauterize one side of the septum because if both are cauterized this can lead to septal
+erforation
+[bleeding stops arrange follow-up in 48-72 h for reassessment and pack removal
+if packing both nares, prophylactic anti-staphylococcal antibiotics to prevent sinusitis or TSS (e.g.
+)
+
+amoxicillin-clavulinic acic
+if suspect posterior bleed or anterior packing does not provide haemostasis, consult ENT for posterior
+packing and further evaluation
+. though posterior packing may be placed by an ED physician, it requires monitoring; can cause
+significant vagal response and posterior bleeding source can lead to significant blood loss, therefore
+usually requires admission
+
+Disposition
+
++ discharge: discharged upon stabilization and appropriate follow-up; educate patients about prevention (e.g.
+topical vaseline, humidifiers, saline spray, avoiding irritants, managing HTN
+
++ admission: severe cases of refractory bleeding, and most cases of posterior packing
+
+Gynecologic/Urologic Emergencies
+
+Vaginal Bleeding
+* see Gynecology, GY20 and Obstetrics, OB14
+
+Etiology
++ pregnant patient (note: unless proven otherwise, all female patients of possible childbearing age should be
+assumed to be pregnant and to have an ectopic pregnancy)
+=  Ist/2nd trimester: ectopic pregnancy, abortion (threatened, incomplete, complete, missed, inevitable,
+septic), molar pregnancy, implantation bleeding, friable cervix (most common cause), subchorionic
+hemorrhage
+= 2nd/3rd trimester: placenta previa, placental abruption, premature rupture of membranes, preterm
+labour
+= other: trauma, bleeding cervical polyp, passing of mucus plug, incompetent cervix, cervicitis,
+endometritis
++ postpartum
+= causes of postpartum hemorrhage (Four T’s): tone (uterine atony), tissue (retained placenta), trauma
+(laceration, uterine inversion), and thrombin (coagulopathy)
++ non-pregnant patients
+= structural (PALM- polyps, adenomyosis, leiomyoma, malignancies/hyperplasia)
+= non-structural (COEIN - coagulopathy, ovulatory, endometrial, iatrogenic, not yet diagnosed)
+
+Histo:
+
++ characterize bleeding (frequency, duration, number of pads/tampons, types of pads used, cyclicity)
+
++ pain, if present (OPQRSTUV)
+
++ menstrual history, sexual history, STI history, syncope/presyncope, malignancy history, family history,
+hematological history, cardiac history, abdominal history, history of previous ectopic pregnancy, smoking
+history, IUD or OCP use
+
+details of pregnancy, including gush of fluid and fetal movement (>20 wk)
+
+Toronto Notes 2025
+
+Thrombocytopenic patients — use
+resorbable packs to avoid risk of
+rebleeding caused by pulling outthe
+removable pack
+
+Complications of Nasal Packing
+Hypoxemia
+TSS
+
+Aspiration
+Pharyngealfibrosis/stenosis
+Alar/septal necrosis
+
+@
+
+Tranexamic Acid For Patents with Nasal
+Haemorthage (Epistais),
+
+Cochrane DB Syst Rev 20180004328
+
+Purpose Determine the effects oftranexanicacd
+Compared to placebo no addtionalintervention or any
+ces haemostaticagentin the management of patents
+with eps
+
+Methods Sytematicreview of RCs comparing
+traneramic ac nation to standard cre, compared
+tousual care pis placebo in adults an chien.
+Results: 6 RCs, 692 participants, Oral (RRO73, 95%,
+1055-0.96 and topical (0.66, 95% C10.41-1.05)
+reduced skate bleeding compared to placebo There
+was no dtferencein tim a stop initial bleeding, The
+‘proportion of patents whosebleeding stoped within
+‘Ominwashigher with topical tanexamic ai than
+ther haemostaticagets(@R2.35, 95% C11.902.92.
+Conclusions: Moderate qualty evidence hat risk
+lre-beedng with orl or topical ranvamic acid,
+inadditon to usual cre, slower in aut patents
+with epstans, compared to placebo with sal car.
+Further, topical taneramic acids probably better
+than other topicalagntsin stopping bleedin gin the
+fist 10min
+

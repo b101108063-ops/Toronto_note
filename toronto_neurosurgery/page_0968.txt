@@ -1,0 +1,170 @@
+NS36 ‘Neurosurgery
+
+Investigations
++ spinal injury precautions (cervical collar) are continued until C-spine is deared
++ C,T, L-spine and head CT scan
+AP, lateral, odontoid views for C-spine (swimmer's view if necessary)
+= CI-T1 should be well-visualized as ~50% of injuries happen at the junction of the cervical and thoracic
+spines
+look for fractures, loss of mastoid or sinus air spaces, blood in cisterns, pneumocephalus
+rarely done: oblique views looking for pars interarticularis fracture (“Scottie dog” sign)
+if CT is unavailable, can do C-spine x-ray with T1 well visualized, but not recommended since injuries
+at Cand T spine junction are seldom adequately visible with x-ray
++ cross and type, arterial blood gas (ABG), CBC, drug screen (especially EtOH)
++ chest and pelvic x-ray as indicated
+
+TREATMENT
+
+Treatment for Minor Head Injury (GCS 13-15)
+
++ observation over 24-48 h
+
++ wake every hour
+
++ judicious use of sedatives or pain killers during monitoring period
+
+* outpatient: advise patients to undergo stepwise approach to return to play and return to school (for latest
+recommendations, refer to 2019 Parachute Canada Concussion Guidelines)
+
+Treatment for Moderate (GCS 9-12) and Severe Head Injury (GCS <8)
++ clear airway and ensure breathing; intubate if necessary
+secure C-spine
+maintain adequate BP
+monitor for clinical deterioration
+monitor and manage increased ICP if present (see Herniation Syndromes, NS7)
+
+Admission Required if:
+
++ skull fracture (indirect signs of basal skull fracture, see Head Injury)
++ confusion, impaired consciousness, concussion with >5 min amnesia
+focal neurological signs, extreme H/A, vomiting, seizures
+
+unstable spine
+
+use of EtOH
+
+poor social support
+
+Head Injury
+
+Epidemiology
++ M:F=2-3:1
+
+Pathogenesis
++ acceleration/deceleration: contusions, SDH, axon and vessel shearing/mesencephalic hematoma
++ impact: skull fracture, concussion, epidural hematoma
++ penetrating: worse with high velocity and/or high missile mass
+= low velocity: highest damage to structures on entry/exit path
+= high velocity: highest damage away from missile tract
+
+Scalp Injury
++ rich blood supply
++ considerable blood loss (vessels contract poorly when ruptured)
++ minimal risk of infection due to rich vascularity
+Skull Fractures
++ depressed fractures: double density on skull x-ray (outer table of depressed segment below inner table of
+skull), CT with bone window is gold standard
++ simple fractures (closed injury): no need for ABX, no surgery
++ compound fractures (open injury): increased risk of infection, surgical debridement within 24 h is
+necessary
+= internal fractures into sinus may lead to meningitis or pneumocephalus
+= risk of operative bleed may limit treatment to antibiotics
+basal skull fractures: not readily seen on x-ray, rely on clinical signs
+= retroauricular ecchymosis (Battle’s sign)
+= periorbital ecchymosis (“raccoon eyes”)
+= hemotympanum
+
+CSF rhinorrhea, otorrhea (suspect CSF if halo or target sign present); suspect with Lefort I/II midface
+
+fracture
+
+Toronto Notes 2025
+
+Never do LP in head injury unless increased
+ICP has been ruled out
+
+Al patients with head injury have C-spine
+injury until proven otherwise
+
+Suspect hematoma in EtOH-related injuries
+Low BP after head injury means injury
+elsewhere
+
+‘Must dear spine both radiologically AND
+clinically
+
+Comparative Etectiveness of Using Computed
+Tomography Alone to Exclude Cervical Spine juries
+JnObtundedorntubated Patients: Meta-Analysis of
+14321 Patients with Bunt Trauma
+Neurosurg 201; 115541549
+
+Purpose: To determin the effectiveness of helical
+(Talone (is. CTand adjuvantimaging such as MR)
+todiagnoseacate unstable C-pne injury folowing
+unt trauma
+
+Methods: Meta-analysis comparing modem CT with
+jie ia ging moda.
+
+Results: 17 stdis wit 4327 patents otal, Senstty
+and speciticty for modern CT were both 9.9% 35%
+10.994.00{0rboth. The negative predictive valie
+anormal CT scan was 100% (95% 1096-100 and
+accuracy wasnotatfectd byte glbalseverity of
+injury, Csi thickness or ty quality.
+
+Condusions: Talon is sufientt detect unstable
+spine injries in trauma patients nd adjvant
+imaging sunnecssary with negative CT scanresut
+Consequently, CT can's negative for acuteinjury,
+the cervical collar may be removed fromobtunded or
+intubated trauma patents,
+
+The Canadian C Head Rule for Patients with Minor
+Head injury
+
+Lancet 2001,357:1391-396
+CTHeadisonly required for patients with minor head
+injures with anyone of thefotowing:
+
+High-Risk (for neurological intervention:
+
+GCS score <15at2hatter inary
+
+Suspected open or depressed sl fracture
+
+Any sign of basa shal fracture (hemotympanum,
+*racoon” es, cerebrospinal fd otorthea!
+thinarea, Batte'sign
+
+Vomiting 2 episodes
+
+Age265yt
+
+Medium Risk forbraninjuryonC):
+
+Ami 30min
+
+Dangerous mechanism pedestrian struck by motor
+vehicle, occupant ejected frommotor vehicle ffm
+height >3 feet orfve sti)
+MinorHead injury s defined as witnessed ass
+consciousness, dente amnesia, or witnessed
+isoienttion ina patient wth GCS score of 138.
+
+Periorbital
+‘ecchymosis
+
+Retroauricular
+ecchymosis
+(attle’s sign)
+
+g
+g
+2
+a
+3
+
+Figure 30. Signs of basal skull
+fractures

@@ -1,0 +1,172 @@
+FM26 Family Medicine
+
+= predicts microvascular complications
+
+«= better predictor of CVD than FBG or two hour plasma glucose in a 75g OGTT
+
+«= slow day-to-day variability
+
+« reflects long-term glucose concentration
+
++ disadvantages:
+
+= cost
+
+= misleading in various medical conditions (e.g. hemoglobinopathies, iron deficiency, hemolytic anemia,
+severe hepatic, or renal disease)
+
+« altered by ethnicity and aging
+
+= standardized, validated assay required
+
+«= not for diagnostic use in children and adolescents (as the sole diagnostic test), pregnant women as part
+of routine screening for gestational diabetes, those with CF, or those with suspected TIDM
+
+Goals of Therapy
++ see Endocrinology, E9 and Clinical Pearl (SMART Goals)
+
+Assessment and Monitoring
+Table 12. Assessment and Monitoring
+
+Initial Assessment smo ‘Annually
+History ‘Symptoms of hyperglycemia, DM-directed history DM-directed history
+ketoacidosis, hypoglycemia, Screen for awareness andtrequency Screenfor awarenessand
+Pastmedical history of hypoglycemia and DKA frequency of hypoglycemia and DKA
+Functional inquiry Glucose monitoring Glucose monitoring
+Family history Use of insulin and oral agents Use ofinsiln and oralagents
+Risk actors Smoking cessation Serwal function
+Medications Ufestyle counseling
+Sexual function Sareentor depression
+Liestyle
+Physical cam General: height, weight, BMI, BP, WC ‘Wt, BP, BMI, WC Foot eramfor sensation using a 109
+Head and neck:fundoscopy, thyroid exam monofilament), ersor infection
+Cardiovascular exam: signs of PVD, pulses, bruits Remainder of exam as per PHE
+
+Abdominal exam (e.g. for organomegaly)
+Hndifoolskinexam
+
+Neurologicalexam
+Investigations FBG, Hb, fasting iid, C, urine ACR HAC g3 mo Fasting lipid profile
+Baseline ECG; repeat testing q2yrforthoseathigh-isk _—FBGasneeded ‘Annual random urine ACR and Cr
+Management Nutritional and physical education Assess progress towardslong-term Calibrate home glucose monitor
+Consider referral to DM educationprogiamifavalable complications ‘Arrange annua retinopathy screening
+
+Monitoring blood ucose:explain methods and equency Aust reatment planifnecessary Influenza vaccination annually
+Medication counseling orl hypoglycemic agentsandlor
+
+insulin, method of administration, dosage adjustments.
+
+Pneumococcal vaccination
+
+Opthalmology consult (MOM within yr
+
+T2DMat diagnosis)
+
+Non-Pharmacologic Management
++ diet
+
+can reduce HbAIC by 1-2%
+
+moderate weight loss (5%) improves glycemic control and CVD risk factors
+
+all diabetics should see a registered dietician for nutrition counselling
+
+decrease combined saturated fats and trans fatty acids to <10% of calories
+
+avoid simple sugars, choose low glycemic index foods, ensure regularity in timing and spacing of meals
++ physical activity and exercise
+
+at least 150 min of aerobic exercise plus 2 sessions of resistance training per wk is recommended
+encourage 30-45 min of moderate exercise 4-7 d/wk
+
+promote cardiovascular fitness: increases insulin sensitivity, lowers BP, and improves lipid profile
+
+if using insulin, may require alterations of diet, insulin regimen, injection sites, and self-monitoring
+
+Self-Monitoring of Blood Glucose
+
++ TIDM:3 or more self-tests/d is associated with a 1% reduction in HbAIC
+
++ T2DM: recommendations vary based on treatment regimen (e.g. insulin dependent requires more frequent
+monitoring - refer to 2020 Diabetes Canada Clinical Practice Guidelines)
+
++ if FBG >14 mmol/L, perform ketone testing to rule out DKA
+
++ if bedtime level is <7 mmol/L, have bedtime snack to reduce risk of nocturnal hypoglycemia
+
+Remission of T2DM
++ defined as achieving prediabetes or normal HbAIC levels without any antihyperglycemic medications for a
+minimum of 3 mo
++ may be considered for individuals with:
+= early T2DM who are overweight or obese
+= motivation and ability to pursue weight loss to de-escalate and/or eliminate use of antihyperglycemic
+agents
+. no significant eating or mental health disorders, atherosclerotic CVD, CHF and/or CKD
++ sustained weight loss of 215 kg of initial body weight is associated with the greatest probability of TDM
+remission
+
+Toronto Notes 2025
+
+Diabetes Quick Reference Guide
+
+AIC: Optimal Glycemic Control usually
+<T%)
+
+BP: Optimal Blood Pressure Control
+(<130/80)
+
+Cholesterol: LDL-C<2 mmol/L if treating
+Drugs: Consider ACEVARB, Statin, and
+ASA
+
+Exercise/Eating
+
+‘Smoking Cessation
+
+Calculate Total Insulin Required
+TIDM: 0.5-0.7 unitskg/d
+
+T2DM: 0:3 units/kg/d
+
+More information on insulin prescription,
+available at:
+
+https /iguidetines.dabetes.ca/CDACPG)
+‘medialdocuments/hcp-resources/insulin.
+Prescription Fillable_EN_02_21.pdf
+https://guidelines.diabetes.ca/docs!
+resources/in-hospital-management clinical
+order-setfillable.paf
+
+Aosgitarone Revisited: AnUpdatedVertiMeta-
+Aaalyss of iskfor Myocardial Infarction and
+Cardiovasclar Mortality
+
+Ach Intern Med 2010170:19201
+
+Purpose: To evaluate the efectvenessofrasiltazone
+‘on Mls and mortality.
+
+Methods 5ystematicreview of RCIsoosigitazone,
+lating at east 24 win duration, and reporting CV
+adverse events. Main outcomes were Ms, CVelated
+‘mortality and all-cause mortality.
+
+Fests: osigitazone significant increased Misk
+(0R'.28, 6% C11,02-163, P-0.04 but not CV moray
+(0R 03, 078136, P-0386,
+
+Conclusion: Rosightazone continues to demonstrate
+increased risk of Mls, though itis not associated with
+increased risk of CV or all-cause mortality.
+
+Differential Diagnosis of Vertigo
+‘PPV Labyrintiis Meniére’s Acoustic
+Neuroma
+Onset — Sudden Sudden Gradual Insidious
+Duration Seconds Days Mint Chronic
+Heaing — + + 4
+loss
+Timms — + + 4
+euro +
+ee

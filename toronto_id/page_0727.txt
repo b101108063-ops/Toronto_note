@@ -1,0 +1,176 @@
+ID9 Infectious Diseases
+
+Prevention
++ Public Health Agency of Canada recommends the following:
+
+= vaccine for influenza A and B annually for all ages >6 mo
+
+= mRNA COVID-19 vaccine (Moderna (Spikevax’) or Pfizer-BioN Tech (Comirnaty*)) for all ages >5 yr
+
+who do not have contraindications, with boosters as per public health guidance; and for all those 26 mo
+
+to5 yr at high risk of severe illness due to COVID-19
+pneumococcal conjugate vaccine Pneu-C-15 (VAXNEUVANCE’) or Pneu-C-20 (PREVNAR 20 *) as part
+of routine vaccines in children 2 moto 18 yr
+pneumococcal conjugate vaccine Pneu-C-20 (PREVNAR 20 *) for those >2 mo at increased risk of
+invasive pneumococcal disease (e.g. congenital or acquired immunodeficiency, functional or anatomic
+asplenia) and for all adults >65 yr
+new recommended guidelines by the National Advisory Committee on Immunization (NACI) as of
+May 2024. However, Pneu-C-20 (PREVNAR 20 ™) and Pneu-C-15 (VAXNEUVANCE’) are not currently
+covered by provincial or territorial programs. Thus, patients may opt for PNEUMOVAX"23 and
+PREVNAR-13°
+
+Influenza
+
+Definitions and Etiology
++ influenza viruses A and B
++ influenza A further divided into subtypes based on envelope glycoproteins
+= hemagglutinin (H) and neuraminidase (N)
++ seasonal (epidemic) influenza
+= main circulating influenza viruses: influenza A (H1N1), influenza A (H3N2), and influenza B
+= associated with antigenic drift (gradual, minor changes due to random point mutations)
+= may create a new viral subtype resulting in a seasonal epidemic (disease prevalence is greater than
+expected)
+. outbreaks occur mainly during winter months (late December to early March)
++ pandemic influenza
+= associated with antigenic shift: abrupt, major changes due to mixing of two different viral strains from
+different hosts
+= may create a new viral strain resulting in a pandemic outbreak (worldwide)
+= antigenic shift occurs only intypeA
++ transmission: droplet, possibly airborne
+
+Table 13. Difference Between Influenza Strains
+
+Influenza A Influenza B
+Hosts) Humans, birds, mammals Humans only
+Antigenic rit Yes, new strains Yes, newstrains
+Antigenic Shit Yes, new subtypes No
+Epidemics Yes Yes
+
+Pandemics Yes No
+
+ical Features
+
++ incubation period 1-4 d and symptoms ‘ypicaly resolve in 7-10d
+
+* acute onset of systemic (fever, chills, myalgias, arthralgias, headache, and fatigue) and respiratory
+symptoms (cough, dyspnea, and pharyngitis)
+
++ complications: respiratory (viral pneumonia, secondary bacterial pneumonia, otitis media, and sinusitis),
+muscular (rhabdomyolysis, myositis), neurologic (encephalitis, meningitis, transverse myelitis, and
+Guillain-Barré syndrome)
+
++ severe disease more likely in the elderly, children, pregnant women, immunocompromised patients,
+asthma, COPD, cardiovascular disease (CVD), DM, and obesity
+
+Investigations
+
++ diagnosis is primarily clinical based on symptoms during the influenza season
+
++ nasopharyngeal swabs for RT-PCR (gold standard), or rapid antigen detection (DFA, direct Nuorescent
+antibody) which has lower sensitivity
+
++ lower respiratory specimens for RT-PCR
+serology: rarely used for clinical management
+
+Treatment and Prevention
++ primarily supportive unless severe infection or high-risk for complications
++ neuraminidase inhibitors: oseltamivir (Tamiflu’) or zanamivir (Relenza’) for treatment and prophylaxis
+against types A and B or peramivir (Rapivab™) for the treatment against types A and B
+= decreases duration (by ~1 d) and severity of symptoms if given within 48 h of onset
+= treatment beyond 48 h time window may be warranted in immunosuppressed and critically ill patients
++ vaccine for influenza A and B viruses is recommended annually for all ages >6 mo
++ vaccine is reformulated each year to reflect circulating influenza A and B strains
+
+High-Risk for Complications
++ anyone who is hospitalized, patients with severe illness/chronic medical conditions, immunocompromised
+patients, children <2 yr, elders >65 yr, pregnant women or women <2 wk postpartum
+
+Toronto Notes 2025
+
+Does tis Patient have Community Acquired
+Pneumonia?
+Diagnosing Pneumoniay HistoryandPhyscal
+Examination
+SAMA19S7. 218-140-445
+Sudy:Systematireview of articles asesing the
+senstty and specify of cnical exam manewersfor
+the dagnasis of adult community acquited pneumonia
+Results: Thepresenc offeveorimmunasuppesion
+hada postive Htlhod rat (LR of 2, wil ahistry
+of dementia hada LR of3;howevey these tats arenot
+confirmatory. The presenceo an abnormal inany vital
+sig, nding tachycardia, acypnea or feverhada oR
+ranging fom 24, which was ot sgnficanty afcted by
+ferent cut points. The absence ofa sin abnormalty
+had a-1Rranging from 05-08 The combination of
+ate breathsnin heat rate <100bpm,
+-<318°Chada -LRof 018. Findings on
+the Heliod of diagnosis but were
+uncommonly seenin studies (eg. presenceof asymmetic
+respirations esentaly confirmed the diagnosis but was
+only presentind of patient) Inpatients with aclnicl
+anos but normal radiograph onl 0% wildevelp
+radiographic findingsin 72h
+Conclusions: rience suggests nosing item on
+loca istory or physical exams suficenttoulin
+‘out pneumonia without CH, Vital sgn abnormalities
+were correlated with diagnosis of paeumoni ining
+mchest exam sifcant asd the helood of
+‘pneumonia but were uncommonly sen insti,
+
+Beware! Do Not Confuse H. influenzae
+with Influenza Virus
+
+H. influenzae: a bacterium (Types A,B,C,
+, E, and Frefer to capsule)
+
+Influenza: a virus (Types A and B refer to
+strain)
+
+Vaccines or Preventing Influenza in Healthy Adults
+Cochrane DBSyt Rev 2018;CD01269
+
+Study: 52 RTS and quasi RCTs evaluating influenza
+vaccines compared to placebo orno intervention in
+health individuals 1665 yt Observational comparative
+studies were not inclded
+
+Results: Inactivated ifencavacines reduce
+influena in healthy adults from 2.3% t 0.9% and
+reduce inflenca eines (Ll) fom 21.5% to 18.1,
+The preventative efecto vaccination small, with
+‘Tihealty adits needing to bevaccinated to prevent
+‘one fromexperiencing influenza, and 29 needing
+tobe vaccinated to prevent one from experiencing
+
+|W. Vaccination leads toa smal reduction inthe risk
+ct hosptalzation rom 14.7% to 4.1%, anda small
+reduction in days off work fectivenes ofthe
+influena vaccine isles in mothers and newboms
+compared tothe general population.
+
+Acute Myocardial Infarction after Laboratory-
+Confimed influenza Infection
+
+NEM 2018;378:345.353,
+
+Purpose: To imestigat the association between
+laboratory confirmed inftuenza infection andacite Ml
+Methods: Settcontolledcase-sries isk interval
+defined asfrst7¢ after respiratory specimen colection
+and controlintervalastyrbefore and tyraterthe
+riskinteral
+
+Results: Increased incidence ratio ofan admission or
+act Ml daring risk intervals. contointrval 6.05,
+95%C13.869.50) Noincreased incidence aftr 74
+Increased incidence ratios for acute MI within 7 after
+detection ofinfuenzaB (101, 95% C14.37-23.38),
+influenza (5.17, 95% C13.02-8.84),andrespiratory
+syncytia viru (2.51, 95% C11.1-1.12
+
+Condusions: Significant association between
+respiratory infection, especillyinfenza, and
+aaiteM.
+

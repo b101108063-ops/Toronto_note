@@ -1,0 +1,125 @@
+MG7 Medical Genetics
+
+Table 5. Examples of Familial Cancer Syndromes
+
+Toronto Notes 2025
+
+Syndrome Gene ‘Associated Cancers Screening and Monitoring
+Li-Fraumeni Syndrome 1P53 Breast, osteosarcoma, leukemia, soft tissue sarcoma, _Chikren:
+brain, adrenocortical carcinoma, and numerous _Frombirth: abdominaliplvc U/S every 3-4mo; annual brainMRlandwhole-body MRI (WBMRI, if with
+other cancers high-k TP53 variant
+Adiits:
+‘Women age 20-75: annua breast MRI
+‘Age 18: annual dermatologicexamination, abdominalpevic WS, brain MRI, and WBMRI
+‘Age25: colonoscopy and upper endoscopy every 2-5yt
+(Woderate recommendation
+Lynch Syndrome (HNPCC) MSH2, MLHT, Colorectal, endometrial, ovarian, renal,pancreatc, Age 20-25 (or 2-5 yr younger than earliestage of colorectal cancer diagnosis in family: colonoscopy every
+MSHS, PMS2, _lverfbiliary duc, stomach, brain, brea ty
+PCAN ‘Age 30 yr(MSH6) and 35 (PMS2): colonoscopy every 1-2yr
+(Strong recommendation)
+Familial Adenomatous Polyposis FAP) APC Colorectal, smallintestine/stomach tumours ‘Age 0: sigmoidoscopy o colonoscopy every -2yr, colonoscopy once polyps develop
+(Strong recommendation)
+Hereditary Breast and Ovarian Cancer BRCA1,BRCA2 __—Female:breast, ovarian, pancreatic ‘Age25-65: annual breast MRI
+Syndrome Male:prostate, breast, pancreatic ‘Age30: annua breast MR and mammograms
+(Strong recommendation)
+Von Hippel-Lindau Syndrome Vi Hemangioblastomas ofthe rain, spinalcord,and Age: annual physical amination, annua ophthalmologic examination, consider annual catecholamine
+retina; renal el carcinoma; pheochromocyto assessment
+kidney cysts; pancreaticneuroendocrine tumour; Consider baseline audiometry at age of school entry
+‘endolymphatic sac tumour ‘Ages 12, 5, and 18: MR of brain stem, spine, and abdomen, withabdominal U/Sin alternating yeas
+‘Age 20: MRi every 2yr
+(Expertopinion)
+Cowden Syndrome PTEN Breast, thyroid, endometrial Women:
+‘Age 30 (or 510 yr before earliest breast cancer inthe family): annual mammography
+‘Age 30: consider random annual endometrial biopsy and/or WS
+id Women:
+‘Atdiagnosis: annual thyroid WS
+Children: evaluationfor neuodevelopmental dsorders
+‘Age 18: annual comprehensive physical exam
+ae30-3:cobnexopy ever Sy
+(Woderate recommendation
+Neurofibromatosis (NF)
+Typet Net Astrocytoma, optic glioma, neurofibroma, leukemia Children: evaluationfor eurodevelopmental disorders
+‘Annual physical exam induding evaluation of growth, blood pressure, skin examination, bone examination,
+neurological examination, and vision screening
+(Expertopinion)
+Typed 7 Vestibular schwannoma, meningioma, ependymoma, Annual physical exam induding audology assessment
+astrocytoma Age: nna rain ML spa MB eery23
+(Expertopinion)
+Table 6. Examples of Heritable Connective Tissue Disorders
+Loeys-Dietz Syndrome {Classical Elers-Dantos Syndrome ‘Vascular Ehlers-Danlos Syndrome Marfan Syndrome
+Inheritance ‘Autosomal dominant ‘Autosomal dominant ‘hutosomal dominant Autosomal dominant
+Pathophllogy Pathogenic arantsia FRY, TFB, Pathogenic variants inCOLSAT or COLSAZ genes Pathogenic variants in COL3A1 gene thatatfect Type Pathogenic variantsin FBN1 gene
+‘SMADS, TGFB2 genesaffectingthe TGF-B affecting Type Vcllagen IM cofagen, whichis mostabundant typeof collagen
+pathway inaortc extracellular matix
+Incidence Unknown ‘%in20000-40000 ‘in 100000-250000 ‘in 3000-5000
+Clinical Features Vascular findings (aortic aneurysmsand Clinical features vary: generaized joint ‘terial fragilty and/or rupture, artic dfatation, _Talland slender build, disproportionately
+
+dissections, generalized arterial tortusity,
+‘craniofacial features (let palate,
+hypertelorism), skeletal features, easy
+bruising, allergicinflammatory disease
+
+hypermobility skin yperestensibilty and
+atrophic scaring fragileskin, easy bruising,
+
+and shins
+
+subcutaneous spheroids ft cysts) on forearms,
+
+intestinal rupture, terine rupture in pregnancy,
+charactersticfades (translucent skin, thinlip,
+pinched nose, prominent ears)
+
+Jong limbs and digits, aortic dilatation, lens
+detachment, preumothoraces,
+
+Table 7. Examples of Intracellular/Extracellular Transport Receptor Disorders
+
+oF
+
+Hereditary Hemochromatosis Wilson Disease
+Inheritance ‘Autosomal recessive ‘Autosomal recessive
+Pathophysiology __Pathogenicvariants in HFE gene (rarely HV, HAMP, TFR2, and
+
+‘SLC4OA1 genes), disrupting regulation of iron of cellar copper transport
+Incidence 1in300 ‘lin 30000
+Clinical Features Iron overload elevated transferrin saturation and ferritin), liver,
+
+bronzeskin, arthralgia, hormone disturbance (diabetes mellitus,
+
+hypogonadism), cirhosis, cardiomyopathy
+Management Phlebotomy forelevatedserum feritin and transferrin saturation Chelating agents (e.9,penic
+
+Pathogenic vaiantsin ATP7B gene, leading tothe impairment
+
+(ecute and/or chronic), movement disorders,
+psychiatric disturbance, Kayser-Feischer rings
+
+Autosomal recessive
+
+Pathogenic variants in CFTR gene, which predominantly affects the
+lungs, but also theGl tract
+
+in 3200-15000
+
+failure to thrive, pancreatic insufficiency
+Bronchiectasis, male infertility
+‘More information foundin other chapters
+
+mine, trientine) More information foundin other chapters
+
+“See Respirology, R1Zand Pediatrics, P92
+
+Other Single Gene Disorders
+
+SICKLE CELL DISEASE
+
++ autosomal recessive disease caused by pathogenic variants in the HBB gene, resulting in the production of
+an abnormal version of B-globin and subsequently distorted red blood cells
+
+«+ see Hematology, H21
+
+DUCHENNE MUSCULAR DYSTROPHY (DMD)
+
+Incidence
++ 1in 4000 males

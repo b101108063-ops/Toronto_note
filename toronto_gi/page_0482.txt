@@ -1,0 +1,87 @@
+G48 Gastroenterology Toronto Notes 2025
+
+Signs and Symptoms
+
++ Charcot's triad: fever, RUQ pain, jaundice (50-70%)
+
++ Reynolds’ pentad in patients with suppurative cholangitis: fever, RUQ pain, jaundice, hypotension, altered
+mental status
+
+Investigations
+
++ evidence of systemic inflammation (increased WBC, increased CRP)
+
++ usually increased ALP and bilirubin, ALT variably elevated (can be markedly increased if acute obstruction
+from common bile duct (CBD) stone)
+
++ blood culture
+
++ abdominal U/S: CBD dilation, stricture, stones
+
+Treatment
+* most important is drainage, ideally via ERCP; perform by percutaneous biliary or by surgical routes (least
+often) if ERCP not possible
++ antibiotic therapy: broad spectrum to cover Gram-negatives, Enterococcus, and anaerobes (especially if
+CBD manipulation); no clear consensus on antibiotic choice but consider:
+. ampicillin + sulbactam or piperacillin/tazobactam
+= metronidazole + 3rd generation cephalosporin (e.g. ceftriaxone) or fluoroquinolone (e.g. ciprofloxacin
+or levofloxacin)
+= carbapenem monotherapy (e.g. imipenem or meropenem)
+
+Prognosis
+
+. food with effective drainage and ABx in mild to moderate cases
++ high mortality (~50%) in patients with Reynolds’ pentad
+
+Pancreas
+
+Pancreatic Enzyme Abnormalities
+
+Causes of Increased Serum Amylase
+
+* pancreatic disease Pancreatic Enzymes
+= pancreatitis, pancreatic duct obstruction (e.g. ampullary cancer), pseudocyst, abscess, ascites, trauma,
+cancer Tac
+* non-pancreatic abdominal disease yen
+« biliary tract disease, bowel obstruction/ischemia, perforated or penetrating ulcer, ruptured ectopic fe
+pregnancy aneurysm, chronic liver disease, peritonitis Chymotrypsin
++ non-abdominal disease
+= cancer (lung, ovary, esophagus, etc.), salivary gland lesions, bulimia, renal transplant/insufficiency,
+burns, ketoacidosis
+= macroamylasemia
+Causes of Increased Serum Lipase ©
++ pancreatic disease: same as above
++ non-pancreatic abdominal disease (mild elevations only): same as above When serum amylase >5x normal, the
++ non-abdominal disease cause is almost always pancreatitis or renal
+disease
+
+= macrolipasemia
+= renal failure
+
+Acute Pancrea Po]
+
+Etiology (most common are alcohol and gallstones)
++ Idiopathic: thought to be hypertensive sphincter or microlithiasis
++ Gallstones (45%) ‘See Landmark Gastroenterology Trials table for more
++ Ethanol (35%) ‘information on the WATERFALL trial, which evaluates the
++ Tumours: pancreas, ampulla, choledochocele eee
++ Scorpion stings
++ Microbiological
+
+= bacterial: Mycoplasma, Campylobacter, TB, M. avium intracellulare, Legionella, Leptospira
+
+= viral: mumps, rubella, varicella, viral hepatitis, CMV, EBV, HIV, Coxsackie virus, echovirus,
+
+adenovirus 0 ok, sect, . ., ‘When thinking about the causes of acute
+
+= parasites: ascariasis, clonorchiasis, echinococcosis pancreas remember, |GET SMASHED,
++ Autoimmune: IgG4-related disease, SLE, polyarteritis nodosa (PAN), CD but vast majority due to gallstones or
++ Surgery/trauma Sel
+
+= manipulation of sphincter of Oddi (e.g. ERCP), post-cardiac surgery, blunt trauma to abdomen,
+penetrating peptic ulcer
+Hyperlipidemia (TG >11.3 mmol/L; >1000 mg/dL), hypercalcemia, hypothermia
+Emboli or ischemia
+Drugs/toxins
+= azathioprine, mercaptopurine, furosemide, estrogens, methyldopa, H2-blockers, valproic acid, ABX,
+acetaminophen, salicylates, methanol, organophosphates, steroids (controversial)

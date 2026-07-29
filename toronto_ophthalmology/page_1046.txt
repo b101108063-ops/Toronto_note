@@ -1,0 +1,129 @@
+OP6 Ophthalmology
+
+Visual Acuity — Near
+
++ use pocket vision chart (Rosenbaum Pocket Vision Screener)
+
+«+ record Jaeger (J) or Point Number and testing distance (usually 30 cm) e.g. J2 @ 30cm
++ conversion to distance VA possible (e.g. immobile patient, no distance chart available)
+
+Visual Acuity for Infants, Children, Non-English Speakers, and Dysphasics
++ newborns
+= VA cannot be tested conventionally
++ 3 mo-3 yr: can usually only assess visual function, not acuity
+« test each eye for fixation symmetry using an interesting object
+= normal function noted as “CSM” = central, steady, and maintained
++ 3yruntil alphabet known
+«= pictures or letter cards/charts such as HOTV or Sheridan-Gardiner test (children point to optotypes on
+a matching card)
+= tumbling “E” chart
+
+COLOUR VISION
+
+test with Ishihara pseudoisochromatic plates
+
+record number of correctly identified plates presented to each eye (usually 14 plates)
+
+important for testing optic nerve function and identifying an optic neuropathy (e.g. optic neuritis)
+note: red-green colour blindness is sex-linked and occurs in 7-10% of males
+
+VISUAL FIELDS
+
+estimation of visual field loss: test by confrontation (4 quadrants each eye tested separately)
+
++ accurate, quantifiable assessment: automated visual field testing (Humphrey or Goldmann) or Tangent
+Screen
+
+AMD monitoring: Amsler grid (each eye tested separately) to check for central or paracentral scotomas
+(blind spots) and distortion
+
++ see Neurology, N15 for visual field defects
+
+PUPILS
+
+use reduced room illumination with patient focusing on distant, fixed object to prevent near reflex
+examine pupils for shape, size, symmetry, and reactivity to light (both direct and consensual response)
+test for RAPD with swinging flashlight test, check by reverse RAPD test if one pupil is non-reactive
+
+test pupillary constriction portion of near reflex by bringing object close to patient's nose
+
+“normal” pupil testing often noted as PERRLA (pupils equal, round, reactive to light and accommodation)
+
+ANTERIOR CHAMBER DEPTH
+
++ shine light tangentially from temporal side
+
++ if >2/3 of nasal side of iris in shadow > shallow anterior chamber
+
+* gonioscopy is the gold-standard for assessing anterior chamber depth
+
+The Van Herick Method (Slit-Lamp Technique)
+
++ shine thin-angled slit beam onto the peripheral cornea of each eye, view at a 60° angle from the beam
+
++ estimate anterior chamber depth using the ratio of corneal slit beam thickness to the space between the
+posterior cornea and the iris
+
+EXTRAOCULAR MUSCLES
+
++ Alignment
+
++ Hirschberg corneal reflex test
+= examine in primary position of gaze (i.e. straight ahead) with patient focusing on distant object
+= shine light into patient's eyes from ~30 cm away
+= corneal light reflex should be at the same position on each cornea
+
++ strabismus testing as indicated (cover test, cover-uncover test, prism testing) (see Strabismus, OP37)
+
+Movement
+
++ examine movement of eyeball through nine cardinal positions of gaze
+
++ identify if there is limitation of eye movement in each position of gaze
+
++ observe for horizontal, vertical, or rotatory nystagmus (rhythmic, oscillating movements of the eye)
++ resolving horizontal nystagmus at end-gaze is usually normal
+
+Diplopia
+«+ see Neurology, N16
+
+Toronto Notes 2025
+
+Test pupils using an ophthalmoscope
+focused on the red reflex; this will provide a
+better view than using a penlight
+
+4Ps of Inspection
+Pupil: shape, size, symmetry
+
+Position: esotropia, exotropia, central
+Prosis
+
+Primary nystagmus
+
+CF|CF CF
+CF|CF CF
+
+RIGHT EYE fields drawn on right side;
+LEFT EYE fields drawn on left side
+
+{as if seen through patient's eyes)
+
+CF Able to count fingers in
+specified quadrant with
+peripheral vision
+
+Y, Gtoss visual field deficit in
+specified quadrant using
+peripheral vision
+
+Figure 5. Ophthalmology
+nomenclature for visual fields by
+confrontation
+
+Light
+source 9
+>
+
+Figure 6. Estimation of anterior
+chamber depth

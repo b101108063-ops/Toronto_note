@@ -1,0 +1,139 @@
+OP18 Ophthalmology
+Corneal Abrasion
+Definition
+
++ epithelial defect usually due to trauma (e.g. fingernails, paper, twigs), contact lens (Figure 13)
+
+Clinical Features (Table 8, OP9)
+
++ pain, redness, tearing, photophobia, foreign body sensation
+
++ de-epithelialized area stains with fluorescein dye
+
++ pain relieved with topical anesthetic (DO NOT use for treatment — risk of corneal melt or infection)
+
+Complications
++ infection, ulceration, recurrent erosion, secondary iritis
+
+Treatment
+
++ topical antibiotics (drops or ointment, e.g. fluoroquinolone), abrasion in contact-lens wearing patients
+
+or from organic material should be covered against Pseudomonas (4th generation fluoroquinolones, e.g.
+moxifloxacin)
+
+consider topical NSAIDs (caution due to risk of corneal melt with prolonged use), cycloplegic (relieves
+
+pain and photophobia by paralyzing ciliary muscle), patch (do not patch contact lens wearer or abrasions
+secondary to organic materials as it can precipitate infection), bandage contact lens (with proper antibiotic
+coverage)
+
++ most abrasions clear spontaneously within 24-48 h
+
+Recurrent Erosions
+
+Definition
+
++ recurrent episodes of pain, photophobia, foreign body sensation with a spontaneous corneal epithelial
+defect
+
++ usually occurs upon awakening
+
++ associated with improper adherence of epithelial cells to the underlying basement membrane
+
+Etiology
+
++ previous traumatic corneal abrasion
++ corneal dystrophy
+
++ idiopathic
+
+Treatment
+
+* same as corneal abrasion until re-epithelialization occurs
+
++ topical hypertonic saline ointment at bedtime for 6-12 mo, topical lubrication
+
++ bandage contact lens, anterior stromal puncture, superficial keratectomy with diamond burr polishing, or
+phototherapeutic keratectomy for chronic recurrences
+
+Corneal Ulcer
+
+Etiology
++ local defect of corneal tissue, due to infection or autoimmune disease
+= infection is more commonly bacterial; rarely viral, fungal, or protozoan (Acanthamoeba)
++ secondary to corneal exposure, abrasion, foreign body, or contact lens use (50% of ulcers)
++ also associated with conjunctivitis, blepharitis, keratitis, vitamin A deficiency
+
+ical Features
+
++ pain, photophobia, tearing, foreign body sensation, decreased VA (if central ulcer)
+
++ corneal opacity that necroses and forms an excavated ulcer with an infiltrative base
+
++ overlying corneal epithelial defect that stains with fluorescein
+
++ conjunctival injections common; may develop corneal edema, anterior chamber cells/flare, hypopyon,
+corneal hypoesthesia (in viral keratitis)
+
+bacterial ulcers may have purulent discharge, viral ulcers may have watery discharge
+
+Complications
++ decreased vision, corneal perforation, iritis, endophthalmitis
+
+Investigations
++ Seidel’s test: fluorescein drop on the cornea under cobalt blue filter is used to detect aqueous leaking from
+focal perforation; any aqueous leakage will dilute the green stain at site of wound
+
+Treatment
+
++ urgent referral to ophthalmology
+
++ culture prior to treatment
+
++ intense fortified topical antibiotics (typically vancomycin and then tobramycin) ql h
++ must treat vigorously to avoid complications
+
+Toronto Notes 2025
+
+Comeal abrasions from organic matter
+(e.g. twig, fingernail, etc) have higher
+recurrence, even years later
+
+@
+
+Patching for Comeal Abrasion
+Cochrane DB ys Rev 2016;7.CD0047E4
+
+Purpose: To assesstheefectsof patching forcomeal
+abrasion on healing and pain eel
+
+Methods: Systematic review and meta-analysis of
+RCTs!Quasi RTS that compared patching the eye wth
+‘no patching to treat simple comeal abrasions.
+Results: 12 RCTs/Ouas-RTs dented,
+peopl receiving patch wereles ikl tohavea healed
+abrasion (RRO.89, 95% 1079-100. At 48h similar
+effect for both groups (RRO.S7, 95% C1 0.91.0), At
+T2h:sinilar effect forboth groups (RR 1.01, 95% C1
+0974.05).
+
+Condusions Certainty evidences moderate alow,
+more esearch sneeded with better qual il to
+examine effectiveness of patching forlarge abrasions,
+Participants with patch were more ikelytoreceive
+addtional ajuvant treatment and tok sight longer
+toh, but he ditferencewassmalland possibly
+inka insignificant
+
+Normal Comea
+
+Abrasion
+Crater detect g
+with 5
+lymphocytic Fd
+infitration ry
+s
+Ulcer ©
+
+Figure 13. Corneal abrasion vs. ulcer

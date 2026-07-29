@@ -1,0 +1,148 @@
+Gs46
+
+General and Thoracic Surgery
+
+Treatment
+
+NPO, NG tube, stop constipating agents, correct fluid and electrolyte abnormalities, and transfusion
+serial AXRs
+broad-spectrum antibiotics (reduce sepsis and anticipate perforation)
+aggressive treatment of underlying disease (e.g. steroids in IBD and metronidazole for C. difficile)
+indications for surgery (50% improve on medical management)
+
+= worsening or persisting toxicity or dilation after 48-72 h
+
+= severe hemorrhage, perforation
+
+= high lactate and WBC, especially for C. difficile
+procedure: subtotal colectomy + end ileostomy (possible re-anastomosis later)
+
+Prognosis
+
+Defi
+
+25-30% mortality
+
+Fistula
+
+ition
+abnormal communication between two epithelialized surfaces (e.g. enterocutaneous, colovesical,
+aortoenteric, and entero-enteric)
+
+Etiology
+
++ foreign object erosion (e.g. drainage tube, gallstone, graft)
+
++ inflammatory states (e.g. infection, IBD (Crohn’s > UC), and diverticular disease)
+
++ iatrogenic/surgery (e.g. postoperative anastomotic leak and radiation)
+
++ congenital
+
++ trauma
+
++ neoplastic
+
+Investigations
+
++ U/S,CT scan, fistulogram
+
++ measure amount of drainage from fistula
+
+Treatment
+
++ decrease secretion: octreotide/somatostatin/omeprazole
+
++ surgical intervention: dependent upon etiology (for non closing fistulas)
+
++ for high-output fistulas, may require the patient to be NPO with long-term total parenteral nutrition
+Stomas
+
+Definition
+
+* an opening of the GI tract onto the surface of the abdomen wall
+
+= end stomas: the proximal end of the GI tract forms the stoma and the distal end of the GI tract is not
+art of the stoma
+= loop stomas: a loop of the GI tract is brought up to the skin and the antimesenteric surface of the bowel
+is matured as astoma
+
+lleostomy
+
++ usually positioned in RLQ; ileum is brought through rectus abdominis muscles
+
++ indications: inability to reconnect small bowel to colon (i.e. proctocolectomy, emergency subtotal
+colectomy), diversion to protect a distal anastomosis (loop ileostomy)
+
++ conventional ileostomy: discharges small quantities of liquid material continuously, appliance (plastic bag
+attached to a sheet of protective material) required at all times
+
++ continent ileostomy: reservoir is constructed from distal ileum (Koch pouch)
+
+Colostomy
+
++ indications: to decompress an obstructed colon or to evacuate stool after distal colon or rectum is removed
+
++ colostomies can be done by making an opening in a loop of colon (loop colostomy) or by dividing the colon
+and bringing out one end (end colostomy)
+
++ most common permanent colostomy is a sigmoid colostomy (expels stool/digital removal of feces)
+
++ chronic parastomal hernia is acommon complication
+
+Complications (10%)
+
++ obstruction: herniation, stenosis (skin and abdominal wall), adhesive bands, volvulus
+
++ peri-ileostomy abscess and fistula
+
++ skinirritation
+
++ prolapse or retraction
+
+diarrhea (excessive output), which may lead to fluid, electrolyte, and nutritional imbalances
+
+Toronto Notes 2025
+
+Use caution when giving antidiartheal
+agents, especially with bloody diarrhea
+
+Why Fistulae Stay Open
+
+FRIENDO
+Foreign body
+
+Radiation
+
+Infection/Inflammation
+Epithelialization
+
+Neoplasm
+
+Distal obstruction (most common)
+Others: increased flow; steroids (may
+inhibit closure, usually will not maintain
+fistula)
+
+Colostomy/lieostomy
+Connection of proximal limb of colon or
+ileum to abdominal wall skin
+
+Mucous fistula
+Connection of distal imb of resection
+‘margin to abdominal wall skin
+
+Heal Conduit
+
+Connection of bowel to ureter proximally
+and abdominal wall distally to drain urine
+
+Loop Colostomy
+
+(Proximal) (Distal)
+End Colostomy Mucous Fistula
+
+© Jean ¥+-Chun Lin 2014
+
+Figure 18. End vs. loop colostomy
+

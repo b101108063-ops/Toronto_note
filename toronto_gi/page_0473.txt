@@ -1,0 +1,117 @@
+G39 Gastroenterology
+
+Clinical Features
++ >2-3 standard drinks/d in females and >3-6 standard drinks/d in men for >10 yr may lead to cirrhosis,
+but only in about 10-20% of those who consume this amount daily on a continuous basis; cirrhosis risk
+increases with amount of EtOH consumed above threshold
++ clinical findings do not accurately predict type of liver involvement
+steatotic liver disease
+= mildly tender hepatomegaly; jaundice rare
+= mildly increased transaminases <5x normal
+alcoholic hepatitis
+«= variable severity: mild to fatal liver failure
+= mild: stops drinking because feels unwell, resumes when feeling better (if assessed, findings of
+hepatitis, potentially mild jaundice, and mildly elevated INR)
+severe: stops drinking because feels unwell, low grade fever, RUQ discomfort, increased WBC count -
+can mimic right lower lobe pneumonia and cholecystitis
+
+Investigations
++ blood tests are non-specific, but in general
+= AST:ALT >2:1 (both usually <300)
+= CBC: increased mean corpuscular volume (MCV), increased WBC (neutrophils) often seen with acute
+alcoholic hepatitis but not in other alcohol-related liver injury
+= increased GGT
+
+Treatment
++ alcohol cessation (see Psychiatry, PS28)
+= Alcoholics Anonymous (or similar programs), naltrexone, acamprosate
++ multivitamin supplements (especially thiamine)
++ caution with drugs metabolized by the liver
++ prednisone if severe alcoholic hepatitis based on Maddrey’s discriminant function or Model for End-Stage
+Liver Disease (MELD) score as described in Prognosis
+= pentoxifylline less used since most definitive trial did not demonstrate efficacy
+
+Prognosis
++ Maddrey’s discriminant function (based on PT and bilirubin) and MELD predict mortality and guide
+treatment (consideration of corticosteroids for severe disease based on Maddrey =32 or MELD 221)
+bilirubin response at day 7 of corticosteroids (Lille model) also factors into prognosis and decision on
+whether to continue full course of corticosteroids if started
++ hepatic steatosis: complete resolution with cessation of EtOH intake
+acute alcoholic hepatitis mortalit
+
+= immediate: 30%-60% in the first 6 mo if severe
+
+= with continued EtOH: 70% in 5 yr
+
+= with cessation: 30% in 5 yr
+
+Metabolic Dysfunction-Associated Steatotic Liver Disease
+
+Definition
++ Steatotic liver disease (SLD) is a spectrum of disorders characterized by macrovesicular hepatic steatosis,
+sometimes with inflammation and/or fibrosis
+
+hepatic steatosis in people with one or more cardiometabolic risk factor, and no other cause for SLD
+
++ MetALD is defined as hepatic steatosis in people with one or more cardiometabolic risk factors, who also
+drink alcohol above minimum threshold (7 drinks/wk for women; 10 drinks/wk for men)
+
+* most common cause of liver disease in North America
+
+Etiology
+
++ pathogenesis not wel elucidates insulin resistance implicated as key mechanism leadingto hepatic steatosis
+
+istological changes indistinguishable from those of alcoholic hepatitis despite negligible history of EtOH
+consumption
+
+Risk Factors
+
++ component of the metabolic syndrome along with obesity, T2DM, HTN, hypertriglyceridemia
+
++ other less common causes of steatotic liver disease include medications (e.g. tamoxifen, corticosteroids,
+MTX), Wilson’s, TPN, rapid weight loss, and others
+
+Clinical Features
++ often asymptomatic
++ may present with fatigue, malaise, and vague RUQ discomfort
+
+Investigations
++ elevated serum AST, ALT + ALP; AST/ALT <1
+
+presents as echogenic liver texture on U/S
+
+non-invasive testing of fibrosis: FIB4, NAFLD fibrosis score, FibroTest™, FibroScan*
+
+liver biopsy cannot distinguish SLD from alcohol-related vs. MASLD, but considered when investigating
+alternative etiologies or assessing for level of fibrosis
+
+metabolic dysfunction-associated steatotic liver disease (MASLD, formerly known as NAFLD) is defined as
+
+Toronto Notes 2025
+
+GI Complications of Alcohol Use
+
+Esophagus
+Mallory-Weiss tear
+
+Esophageal varices (secondary to portal
+hypertension)
+
+Stomach
+Alcoholic gastritis
+
+Pancreas
+Acute pancreatitis
+Chronic pancreatitis
+
+liver
+Alcoholic hepatitis
+Steatotic liver disease
+Cirrhosis
+
+Hepatic encephalopathy
+Portal hypertension
+Ascites
+
+HCC

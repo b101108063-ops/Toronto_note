@@ -1,0 +1,72 @@
+ID1O Infectious Diseases Toronto Notes 2025
+
+COVID-19
+
+Definitions and Etiology
++ anacute infectious respiratory disease caused by the SARS-CoV-2 virus
++ SARS-CoV-2 isan cnval ed, positive-sense, ssRNA virus
+
++ transmission: droplet and airborne transmission
+
++ incubation period 2-14 d, usually ~5 d
+
+Pathophysiology
+
++ invasion of host cells via the viral spike protein which binds to angiotensin-converting enzyme 2 (ACE2)
+expressed on the surface epithelium of the lungs
+
++ virus induced cytotoxic damage particularly to the alveolar epithelium
+
++ dysregulated immune response can lead to a cytokine storm causing organ failure or death
+
+Clinical Features
++ can be asymptomatic (estimated to be 1 in 3 of those infected)
+= children are more likely to be asymptomatic or to have mild disease
+
+* most common: fever, fatigue, and dry cough
+
+common: dyspnea, loss of smell and/or taste (may vary depending on the variant circulating), loss of
+appetite, and myalgia
+less common: nausea, vomiting, abdominal pain, sore throat, headache, and thromboembolic events
+course: can range from mild disease (lasts 1-2 wk) to severe or critical disease (lasts 3+ wk); may be
+complicated by post-COVID condition which is associated with a wide range of diverse symptoms
+across multiple organ systems that may fluctuate in intensity, often exacerbated by mental and physical
+overexertion
+
+Diagnosis
+
++ nasopharyngeal swabs for RT-PCR (gold standard) or nasal/oral-nasal swabs for rapid antigen detection
+oint of care tests which have lower sensitivity
+
++ lower respiratory specimens for RT-PCR
+
+Treatment
++ for critically ill hospitalized adults >18 yr requiring ventilatory and/or circulatory support:
+= dexamethasone PO or IV for 10 d (or until discharge)
+tocilizumab if within 14 d of new COVID-19 diagnosis
+= prophylactic low molecular-weight or unfractionated heparin
++ for hospitalized adults pier requiring low-flow supplemental 02:
+= dexamethasone PO or IV for 10 d (or until discharge)
+= remdesivir IV for 5d
+= tocilizumab if serum CRP 275 mg/L + disease progression despite 24-48 h of recommended steroid
+dose + within 14 d of new COVID-19 diagnosis
+= prophylactic low molecular-weight or unfractionated heparin
++ for mild-moderate COVID-19 in adults >18 yr who do not require supplemental 0: in any setting:
+= stratify by risk of hospitalization
+= for patients with low risk of hospitalization:
+* supportive care
+= for patients with high risk of hospitalization:
+¢ nirmatrelvir/ritonavir (Paxlovid) if presenting within 5 d of symptom onset
+ remdesivir if presenting within 7 d of symptom onset
+
+*See Ontario Heath's description of mild and moderate COVID-19 illness
++See Ontario Heath’s description for identitying high-sisk patients
+
+Consult the manufacturer's product monograph for more information
+
+For guidance on renal dose adjutments, refer to Ontario Health's uidance on the use of nrmatrelvrritonavir in patients with advanced chroic
+kidney disease and dialysis and the most recent manufacturer product monographs
+
+Figure 7. Treatment algorithm for mild to moderate COVID-19
+Recommendations for Antiviral Therapy fr Adults with Mito Moderate COVID-19nteret] Ontario Health; 2024 Apr 2 [cite 2024 Aug 1}. Available rom: https: www ontariohealth.ca/
+sitesontarohealtnilesRecommendations-or-AntvralTherapy-for-Adults-with-MiC-to-Moderate-COVID-19.paf

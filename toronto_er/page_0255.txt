@@ -1,0 +1,150 @@
+Toronto Notes 2025
+
+Mild Traumatic Brain Injury
+
+Epidemiology
+
++ TBIresults in 1.7 million deaths, hospitalizations, and ED visits each year (US)
+
++ 75% are estimated to be mild TBI; remainder are moderate or severe (see Neurosurgery, NS35)
++ highest rates in children 0-4 yr, adolescents 15-19 yr, and elderly >65 yr
+
+Clinical Features
+
++ somatic: headache, sleep disturbance, N/V, blurred vision
+
+* cognitive dysfunction: attentional impairment, reduced processing speed, drowsiness, amnesia
++ emotion and behaviour: impulsivity, irritability, depression
+
++ severe symptoms not improving can be a sign of diffuse axonal injury
+
+Etiology
++ falls, MVC, struck by an object, assault, sports
+
+Investigations
++ neurological exam
+
+* concussion recognition tool (see parachute.ca)
+
++ imaging - CT as per Canadian CT Head Rules, or MRI if worsening symptoms despite normal CT
+
+Treatment
+
++ close observation and follow-up; for patients at risk of intracranial complications, give appropriate
+discharge instructions to patient and family; watch for changes to clinical features of more severe TBI (see
+above), and if change, return to ED
+
++ arrange immediate CT and neurosurgical consultation if seizures, bradycardia, hypotension, sluggish
+pupils and/or focal deficits
+
+ospitalization with normal CT (GCS <15, seizures, bleeding diathesis), or with abnormal CT
+pharmacological management of pain, depression, headache
+jollow Return to Play/Return to Learn guidelines
+
+Prognosis
++ most recover with minimal treatment
+
+= athletes with previous concussion are at increased risk of cumulative brain injury
+repeat TBI can lead to life-threatening cerebral edema or permanent impairment
+
+Spine and Spinal Cord Trauma
+
++ assume cord injury with significant falls (>3 ft), deceleration injuries, blunt trauma to head, neck, or back
+
++ spinal immobilization (cervical collar, spine board during patient transport only) must be maintained until
+spinal injury has been ruled out
+
++ vertebral injuries may be present without spinal cord injury; normal neurologic exam does not exclude
+spinal injury
+
++ cord may be injured despite normal C-spine x-ray (spinal cord injury without radiologic abnormality)
+
++ injuries can include: complete/incomplete transection, cord edema, spinal shock
+
+History
++ mechanism of injury, previous deficits, SAMPLE
++ neck pain, paralysis/weakness, paresthesia
+
+Physical Exam
+
++ ABCs
+
++ abdominal: ecchymosis, tenderness
+
++ neurological: complete exam, including mental status
+
++ spine: maintain neutral position, palpate C-spine; log roll, then palpate T-spine and L-spine, assess rectal
+tone
+= when palpating, assess for tenderness, muscle spasm, bony deformities, step-off, and spinous process
+
+malalignment
++ extremities: check capillary refill, suspect thoracolumbar injury with calcaneal fractures
+
+Investigations
++ bloodwork: CBC, electrolytes, Cr, glucose, coagulation profile, group and screen, toxicology screen
++ imagin
+. Croft the spine; if not available, protect spine and transfer for definitive imaging
+= indications
+* unconscious patients (with appropriate mechanism of injury)
+* neurological symptoms or findings
++ deformities that are palpable when patient is log rolled
+* back pain
+
+Emergency Medicine ERO
+
+Entent of retrograde amnesia correlates
+with severity of injury
+
+For minor pediatric HI (up to 16 y/o with
+GCS 213 and injury within the last 24h),
+use Canadian Assessment of Tomography
+for Childhood Head Injury (CATCH) rue to
+determine need for CT. CT head required if
+any of the following findings are exhibited
+GCS 15 at two hours after injury
+Suspected open or depressed skull fracture
+History of worsening headache
+
+Irritability on examination
+
+Signs of basal skull fracture
+
+Hematoma on scalp
+
+Dangerous mechanism of injury (MVC, fall
+from 23 ft or 5 stairs fall rom bicycle with
+no helmet)
+
+Every Patient with One or More of the
+Following Signs or Symptoms should be
+Placed in a C-Spine Collar
+
+Midiine tenderness
+
+Neurological symptoms or signs
+Significant distracting injuries
+
+HI
+
+Intoxication
+
+Dangerous mechanism
+
+History of altered LOC
+
+Of the investigations, CTis the best
+‘modality to assess C-Spine injuries. If
+‘unavailable and significant trauma is
+suspected, protect C-Spine and transfer
+for definitive imaging. If minor trauma of
+C-Spine, may consider x-ray imaging
+
+Cauda Equina Syndrome can occur with
+any spinal cord injury below T10 vertebrae.
+Look for incontinence, anterior thigh pain,
+quadriceps weakness, abnormal sacral
+sensation, decreased rectal tone, and
+variable reflexes
+
+Prevertebral softtissue swelling is only
+49% sensitive for injury

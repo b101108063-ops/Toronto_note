@@ -1,0 +1,145 @@
+FM24 Family Medicine
+
+Depression
+
+« see Psychiatry, PS12
+
+Etiology
+
++ often presents as non-specific complaints (e.g. sleep disturbance, chronic fatigue, pain); can be associated
+with triggers (e.g. major life events)
+
+«+ depression isa clinical diagnosis and tests are done in order to rule out other causes of symptoms
+
+2/3 of patients may not receive appropriate treatment for their depression
+
+early diagnosis and treatment improve outcomes
+
+Screening Questions
++ Canadian Task Force on Preventive Health Care (2013) recommends not routinely screening for depression
++ if screening indicated, use the PHQ-2
+= “Over the past 2 wk, how often have you been bothered by any of the following problems”:
++ little interest or pleasure in doing things?
+* feeling down, depressed, or hopeless?
++ PHQ-2is scored out of 6, with a score of 3 or more considered positive
+«= those who screen positive should be evaluated with the PHQ-9 to determine whether they meet criteria
+for depression
++ PHQ-9 tool is useful to diagnose and monitor depression; use GDS for the geriatric population
++ screen all patients presenting with depression for suicidal ideation and behaviour, a positive screen should
+prompt additional questioning
+
+Assessment
++ personal or family history of depression
++ medications and potential substance misuse concerns
++ high-risk for suicide/homicide
+= fill out Form 1 (in Ontario): application by physician to hospitalize a patient against their will for
+psychiatric assessment (up to 72 h)
+functional impairment (e.g. work, relationships)
+at least 5 out of 9 criteria including at least one of anhedonia or depressed mood 22 wk for actual diagnosis
+to be met (see Memory Aid)
+validated depression rating scales: Beck’s Depression Inventory, Zung’s Self-Rating Depression Scale,
+Children’s Depression Inventory, GDS, PHQ-9
+routine medical workup (physical exam, CBC, TSH, ferritin, folate, B12, electrolytes, urinalysis, glucose,
+etc.)
+
+Management
+* goal: remission of symptoms and return to baseline psychosocial function
++ phases of treatment
+= acute phase (8-12 wk): relieve symptoms and improve quality of life, counsel patients on risks (e.g.
+sexual side effects, discontinuation syndrome)
+= maintenance phase (6-12 mo after symptom resolution): prevent relapse/recurrence, must stress
+importance of continuing medication treatment for full duration to patients
++ treatment options are pharmacotherapy, psychotherapy, or a combination of both
+= combination therapy is synergistic and most effective (see EBM in sidebar)
++ treatment of youth (ages 10-21)
+= for mild depression, a period of active support and monitoring before initiating treatment is
+recommended
+= fluoxetine is first line among SSRIs (most evidence)
+* monitor closely for adverse effects such as suicidal ideation and behaviour
+= psychotherapy
++ CBT or IPT alone can be used for mild depression
++ psychotherapy plus medication is recommended for moderate to severe depression
+«= treatment should continue for at least 6 mo
++ ongoing management should include assessment in key domains (school, home, social setting)
+* reassessment and referral are recommended if there is no improvement after 6-8 wk of treatment
++ consider referral for adolescents with moderate/severe depression and coexisting psychosis and/or
+substance misuse
+
+Toronto Notes 2025
+
+‘Must Ask About/Rule Out
+‘Suicidal/homicidal ideation
+Psychosis
+
+‘Substance use/misuse/withdrawal
+Amwiety
+
+Bipolarimanicthypomanic episodes
+Bereavement
+
+Intimate partner violence
+Postpartum depression
+
+Organic cause
+
+Differential Diagnosis
+Other psychiatric disorders (e.g. anxiety,
+personality, bipolar, adjustment disorder,
+schizoaffective, seasonal affective disorder,
+substance misuse/withdrawal)
+
+Cancer (50% of patients with tumours,
+especialy of brain, lung, and pancreas,
+develop symptoms of depression before
+the diagnosis of cancer is made)
+
+Chronic fatigue syndrome
+Early dementia
+
+Endocrine (e.g. typer/hypothyroidism, DM,
+adrenal disorders)
+
+Infections (mononucleosis)
+Liver failure, renal failure
+
+Medication side effects (B-blockers,
+benzodiazepines, glucocorticoids,
+interferon)
+
+Menopause
+Neurological Parkinson's disease, MS)
+
+Vitamin deficiency (pernicious anemia,
+pellagra)
+
+Combined Pharmacotherapy and Psychological
+Treatment for Depression: ASystematic Review
+Arch Gen Psychiatry 2004 61714-719
+
+Purpose: To examinethe relationship between
+adherence and efficacy of antidepressant medications
+‘pus psychologicl treatment vs. medications alone in
+the management of depressive disorders
+
+Methods: ystematicreview of RCTs comparing
+antidepressant medications alone vs. combination
+
+apy with psychological intervention inuded.
+Eficacy and adherence o therapy were the main
+cutomes,
+
+Results: Siteen tls with 1842 patients were
+included. Patients ceiving combination therapy
+showed significant geaterimprovement than those
+receiving medications alone 081.86, 95% C11.38-
+252} dropout and nonrespon der proportions di not
+ditferin dstrbution between the to groups (ORO. 86,
+(0.60124). Asignicant advantage with combination
+therapy was noted in studies with follow-up ongerthan
+‘Tek (0R2.21,1.22-4.03,acompanied by significant
+reduction dropout and nortesponder proportion.
+Combination therapy with psychological
+treatment and medication ted with greater
+improvementrates than medication alone, and may
+decrease dropout ates with longer therapies,
+

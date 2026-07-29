@@ -1,0 +1,98 @@
+MI28 ‘Medical Imaging Toronto Notes 2025
+
+Central Venous Access
+
+variety of devices available (PICC, external tunneled catheter (Hickman or dialysis catheters),
+subcutaneous port (Portacath’))
+
+indications: chemotherapy, TPN, long-term antibiotics, administration of fluids and blood products, blood
+sampling
+
+complications: venous thrombosis, central venous stenosis, infection including sepsis, and pneumothorax
+
+Breast Imaging
+
+Modalities
+
+Mammography
+
+Description
+
++ x-ray imaging of the breasts for screening in asymptomatic patients, or diagnosis of clinically-detected or
+screening-detected abnormalities (see General and Thoracic Surgery, GS67)
+
++ routine evaluation involves two standard views: cranio-caudal and medial-lateral-oblique
+
+Indications
++ screening (for guidelines, see Family Medicine, FM4)
+= guidelines may vary by region
++ surveillance
+= follow-up of women with previous breast cancer
++ diagnostic: includes mammography with special views and/or U/S
+= workup of an abnormality that may be suggestive of breast cancer including a lump or thickening,
+localized nodularity, dimpling or contour deformity, a persistent focal area of pain, overlying skin
+changes, and spontaneous serous or sanguinous nipple discharge from a single duct
+women with abnormal screening mammograms
+suspected complications of breast implants
+
+Table 19. Breast Imaging Reporting and Data System (BI-RADS®) Mammography Categories
+
+“Assessment Categories Imaging Findings Likelihood of Malignancy (3) Follow-Up Recommendations
+BI-RADS O Incomplete WA ‘ditional maging
+Comparison to prior films
+
+BL-RADS1 Negative “0 Routine screening
+
+BI-RADS 2 Benign “0 Routine screening
+
+BLRADS 3 Probobly benign 02 Unilatera mammogram at6 mo
+
+Likelihood of malignancy is <2%
+
+BLRADS 4 Suspicious normality 304 Biopsy
+
+BI-RADS 4A Low suspicionfor malignancy 30 Biopsy
+
+BI-RADS 48 Moderate suspicion formaligrancy 1-50 Biopsy
+
+BI-RADS 4¢ Highsuspicionfor malignancy 194 Biopsy
+
+BLRADS Hight suspicious of maignancy 295 Biopsy
+
+BI-RADS 6 Malignancy confirmedby biopsy 100 Definitive therapy
+
+Breast Ultrasound
+
+Indications
+
++ characterization of palpable abnormalities
+= U/Sis Ist line in <30 yr - denser breast tissue makes mammograms less sensitive in young females
+= first line in lactating and pregnant women
+= >30yrneed mammogram first
+
++ further characterization of mammographic findings
+
++ guidance for interventional procedures
+
+Breast MRI
+
+Description
+
++ contrast-enhanced MRI of the breasts
+
++ sensitive for detecting invasive breast cancer (95-100%) but specificity variable (37-97%)
+
++ for diagnosis, used only after mammography and U/S investigation
+
+* use as a screening modality is limited to high-risk patients, in conjunction with mammography
+
+Indications
+
++ “problem-solving” of indeterminate findings following complete mammographic and U/S workup
+
++ evaluation of occult primary in patients presenting with axillary metastases
+
++ evaluation of patients with suspected silicone implant rupture and problems associated with breast
+implants
+
+evaluation of previously diagnosed breast cancer: positive margins, recurrence, response to chemotherapy

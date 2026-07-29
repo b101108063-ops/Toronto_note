@@ -1,0 +1,101 @@
+NP47 ‘Nephrology ‘Toronto Notes 2025
+
+Tal Name Reference (Clinical Trial Details
+
+SHARP Lancet 2011;377:2181-92 Title: The Effects of Lowering LDL Cholesterol wih Simvastatin pls Ezetimie in Patients with Chronic Kidney Disease
+Purpose: Assesssafety and eficacy of low-density lipoprotein LDL} -lowering with simvastatin plus ezetimibein patients with CKD.
+Methods: 9270 patients withmoderate-severe CKD with no history of Ml or coronary revascularization were randomized to simvastatin 20 mgplusezetimibe 10 mg
+daly, orto matching placebo. The primary outcome was thefirst major atherosclerotic event.
+Results: Combination therapy resulted in a 1% reduction in istmajor atherosclerotic events (11.3%6vs. 13.4%; RR 0.83; 95% C10.74 to 0.94;P=0.0029, There were
+significant reductions innon-hemorrhagic strokes (2.8% vs. 3.8%; RR 0.75; 95%C 0.60 to 0.94; P=0.01) and arterial revasculrization (6.1% vs. 16%; RR 0.79;95% Cl
+0.68 00.93; P-0.0036)
+Conclusions: In patients with KD andno history ofl orcoronaryrevascuarzation, 20 mg simvastatin plus 10 mg ezetimibe daily, compared tomachig placebo,
+reduced theincidence of major atherosclerotic events.
+
+SPRINT NEJM 2015; 373:2103-16 Title: A Randomized Til of Intensive versus Standard Blood- Pressure Contrl
+Purpose: To compare the effectiveness of treating systolic blood pressureto atarget below 120 mmlg versus treating itto target below 40 mmig
+Methods: randomized tial including 9361 individuals with levated cardiovascular sk without diabetes were assigned tocitheranintensive (target <120 mmHg) or
+standard (target <140 mmig) systolic blood pressure treatment. The primary outcome included various cardiovascular events
+Results: ter year, the intensive-treatment goupachieved alower mean systolic blood pressure of12.4mnig compared to 136.2 mmHg in the standard-treatment
+‘group. The tial wasstopped early due to significantly lowerrates ofthe primary composte outcome andal-cause mortality intheintensive-treatment group. However,
+the intensive-treatment group expetienced higher rates of certain serious adverse events.
+Conclusions: Targeting asysto¥c blood pressurebelow 120 mmliginhigh-isk, non-diabetic patients reduced cardiovascular events but increased some adverse
+events
+
+TeMPO3:4 NEJM 2012;367:2407-18 Tile: Tolvaptan inPatientswith Autosomal Dominant PolycysticKidney Disease
+Purpose: To determine the anualrate of change inthe total kidney volume.
+Methods: 1445 Autosomal Dominant Polycystic Kidney Disease (ADPKD) patients aged 18-50 randomly assigned2:1to receive tlvaptan or placebo inPhase 3 double-
+blind, multicenter, and placebo-controlled trial lasting 3 yeas. The primary endpoint wasannual rate of chang in total kidney volume, Secondary endpoints included a
+‘composite of dinical progression and rate of kidney function decline.
+Results: Over a 3year period, tlvaptan resutedin a slower increase intotal kidney volume (2.8% per year) compared to placebo (5.5% per year), Tolvaptan showed
+better outcomes inthe composite endpoint, with wer rates of worsening kidney function kidney pain, and slower declinein kidney function, Tolvaptan had fewer
+‘ADPKD- elated adverse events but more dscontinuaions due to aquaress and hepatcissues.
+‘Conclusions: Tolvaptan slowed kidney volume increase and function decline buthad higher discontinuationrates due to adverse events in ADPKD.
+
+TREAT NEJM 2009;364:2019.32 Title: A Trial of Darbepoetn Ata in Type 2 Diabetes and Chronic Kidney Disease
+Purpose: Assess clinical outcomes with darbepoetin alfa among patients with T2DM and CKD.
+Methods: 4038 patients with diabetes, CKD and anemia were randomized to darbepoetinalfa at 13 g/d or toplacebo. Theprimary endpoints werethe composite
+‘utcomesof death, CVevent, death, or ESRD,
+Results: Death or CV events occurred in 632 patients treated with darbepoetn aa and 602 placebo-matched patients (hazard ratio 1.05; 95% C10.94 017; P=0.4)
+Death or ESRD occurred in 652 patients treated with darbepoetnalfa and68 placebo-matchedpatients (hazard ratio 1.06; 95% C1 0.95 11.19; P-0.29).
+‘Conclusions: Darbepoetin alfa did notreduce the risk of death, a CVevent,orarenal event, and was associated withan increased risk of stoke,
+
+EvOWWE NEJM 2012; 367:2482-94 Title: Eectof Gnacalcet on Cardiovascular Disease in Patients Undergoing Dialysis
+Purpose: Assessthe effects ofcalcimimetic agent cnacalcet in reducing mortaly riskand nonfatal CV eventsin patients with CK.
+Methods: 3383 patients with moderate-severe hyperparathyoidism undergoing hemodialysis were randomized to cnacalcet or placebo. The primary composite
+‘endpoint was time until death, M,hosptalizationfor unstable angina (UA) HF, oa peripheral vascular event.
+Results: The primary endpoint was reached in 48.3% of cinacalet-treated patients and 49.2% of placebo-matched patients (hazard ratio 0.93; 95% C10.85 to 1.02;
+P=0.1).
+‘Conclusions: Cinacaket did nt significantly reducethe risk death or major CV events inpatients wth moderate-to-severe secondary hyperparathyroidism who were
+undergoing dialysis.
+
+‘CYSTIC DISEASES OFTHE KIDNEY
+
+REPRISE NEJM 2017;377:1930-42 Title: TolvaptaninLater-Stage Autosomal Dominant Polycystic Kidney Disease
+Purpose: Assessthe efficacy and saetyoftolvaptan inpatients with late-stage autosomal dominant polycystic kidney dsease (ADPCKD),
+Methods: 1370 patients with ADPCKD with eGFR 25 to 44 mL/min/.73 m2 were randomized (1:1 rato) totlvaptan or placebo for 12 mo. The primary endpoint was a
+‘change n eGFR from baseline tofolow-up.
+Results: The changefrom baseline GFR was-2.4mLImin/.73 m2 inthe tlvaptan group (95% CI-2.81o 1.87) comparedwith 3.61 mL/min/1.73 m2 inthe placebo
+‘group (95% Cl 4.08 o-3.1);(ifference’.27; 95% C10.86 to 1.86; P0,001).
+Conclusions: Tolvaptan treatment in patients with late-stage ADPKD resalted in aslowerdecineineGFR over a yr period, compared tothe placebo group.
+
+RENAL REPLACEMENT THERAPY
+
+ALERT Lancet 2003;361:2024-31 Title: Eectof Fluvastatin on Cardiac Outcomes in Renal Transplant Rec
+Purpose: Evaluate the safety and efficacy of flastatin on cardiac and rena endpoints inrenal transplant recipients
+Methods: 2102,enaltransplant patients were randomized toflvastatin or placebo. The primary endpoint was the occurrence ofa major CV event, including cardiac
+‘death, nonfatal Ml of coronary intervention.
+Results: Rsk eduction in primary eventswas nt significant withfluvastatin risk rato 0.83; 95% C 0.64 to 1.06;P=0139) There were fewer cardiac deaths and
+nonfatal Min the fluvastatin group than inthe placebo group (risk ratio 0.60; 95% Cl 0.48 to 0.88; P=0.005).
+‘Conclusions: The use of fuvastatin in renal transplant recipients did no significantly decrease the riskof occurrence ofa majo adverse cardiac event, however, there
+was asignificantreducionin cardiac deaths or nonfatal M.
+
+AURORA NEJM 2009;360:1395-407 Title: Rosuvastatinand Cardiovascular Events in Patients Undergoing Hemodialysis
+Purpose: Assessthe benefit of statin therapy in patients undergoing hemodialysis for reduction of CV risk
+Methods: 2716 patents undergcing maintenance hemodialysis were randomized to rosuvastatin 10 mg daily r placebo. The primary endpoint was death fromCV
+«causes, nonfatal Ml, or stroke.
+Results: 9.2% ands. 5% of patients reached the primary endpoint, inthe rosuvastatin and placebo groups respectively (hazard ratio 0.96; 95% C10.84to1.1;P=0.59)
+Roswastatin had noeffect on individual components ofthe primary endpoint.
+‘Conclusions: In patients receiving maintenance hemodialysis, roswvastatin had nosignifcanteffectonCV risk
+
+LITE-SYMPHONY — NEJM 2007,357:2562.75 Title Reduced Exposureto Calcineurin nhibtorsin Renal Transplantation
+Purpose: Evaluate the efficacy and relative toric effects of four immunosuppressive agents in renal transplant recipients.
+Methods: 1645 renal-transplant recipients were randomized to receive standard-dose cyclosporine pls mycophenolate mofetil pls corticosteroid, or dacizumab
+induction plus mycophenolate mofeti plus corticosteroids, both groups in combination with either low-dose cyclosporine, low-dose tacrolimus, or low-dose solimus.
+The primary endpointwas eGFR 12 mo ater transplantation.
+Results: The mean eG FR was higher in patients receiving low-dose tacrolimus (65.4 mL.min/1.73 m2) than nthe 3 other groups (ranging from 56.7 mLimin/.73 m2to
+59.5 mLUminL73 m2). Serious adverse events were more common inlow dose sirolimus than the other groups (53.2% vs. arange of 43.4%to44.38).
+‘Conclusions: Daclizumab induction, mycophenolate mofetil, corticosteroid, and low-dose tacrolimus effectively maintain stablerenal function fllowing renal
+‘transplantation, without the negative effects onrenal function commonly reported forstandard calcineurin inhibitor (CN) regimens.
+
+FAN NEJM 2010;363:2287-300 Title: Hemodialysis Si Times per Week versus Thre Times per Week
+
+Purpose: Determine whether increasing the frequency ofin-centr hemodialysis would be beneficial
+
+Methods: Patients were randomized to undergo hemodialysis 6x/wk or 3x/wk. The primary composite outcomes were death or change in leftventricular (LV) mass, and
+death or change inphysical health scores.
+
+Results: Frequent hemodialysis was associated with significant benefits with respect toboth primary outcomes (hazardratiofor LV mass 0.6; 95% Cl 0.46 00.83;
+hazardratiofor physical health0,70;95% C1 0.53 to 0.92). Frequent hemodalysiswas abo associated with improved HTN andhyperphosphatemia conta
+Conclusions: Frequent hemodialysis, versus conventional hemodialysis, isassociated with favourable patient outcomes.
+

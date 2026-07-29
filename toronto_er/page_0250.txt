@@ -1,0 +1,168 @@
+ER4 Emergency Medicine
+
+Table 2. Estimation of Degree of Hemorrhagic Shock
+
+Class, i 0 0 W
+Blood Loss “<F50¢c 750-1500¢c 1500-2000 ce 20006
+
+“of Blood Volume 15% 530% 30-40% 40%
+
+Pulse 00 >100 >120 ~140
+
+Blood Pressure Normal Normal Decreased Decreased
+Respiratory Rate » 30 5 5
+
+Capillary Refill Normal Decreased Decreased Decreased
+Urinary Output 30h 20cch 10cch None
+
+Fluid Replacement Grystalloid Crystalloid Crystaloid + blood Crystalloid + thood
+
+Note that physiological responses to blood loss are variable pening patent factors e.g. age, comorbidities, medications)
+
+Management of Hemorrhagic Shock
+
+« clear airway and assess breathing either first or simultaneously
+
++ apply direct pressure on external wounds while elevating extremities. Do not remove impaled objects in the
+emergency room setting as they may tamponade bleeds
+
+«start two large bore (14-16 G) IVs in the brachial/cephalic vein of each arm or, if unavailable, obtain central
+or IO access
+
++ permissive hypotension with pRBC transfusion, ideally crossmatched. If crossmatched blood is unavailable
+in a timely manner, consider O- for women of childbearing age and 0+ for men.
+
++ ifavailable, activate ‘massive transfusion protocol,’ including tranexamic acid, FFP, patient temperature
+control, and anticoagulation reversal if appropriate
+
++ consider common sites of internal bleeding (abdomen, chest, pelvis, long bones, GI tract) where surgical
+intervention may be necessary
+
+DISABILITY
++ assess LOC using GCS
++ pupils
+= assess equality, size, symmetry, reactivity to light
++ lateralizing motor deficits
+
+Glasgow Coma Scale
+
++ GCS is for use in trauma patients with decreased LOC; good indicator of severity of injury and
+neurosurgical prognosis
+
++ most useful if repeated; change in GCS with time is more relevant than the absolute number
+
++ less meaningful for metabolic coma
+
+* patient with deteriorating GCS needs immediate attention
+
++ prognosis based on best post-resuscitation GCS
+
++ reported as a 3-part score: Eyes + Verbal + Motor = Total
+
++ if patient intubated, GCS score reported out of 10 + T (T = tubed, i.e. no verbal component)
+
+Table 3. Glasgow Coma Scale
+
+Eyes Open Best Verbal Response BestMotor Response
+Spontaneously 4 “Answers questions appropriately 5 Obeys commands 6
+Tovoice 3 Confused, disoriented 4 Localizes to pain 5
+Topain 2 Inappropriate words 3 ‘Withdraws from pain 4
+No response 1 Incomprehensible sounds 2 Decorticae (flexion) 3
+No verbal response 1 Decerebrate (extension) 2
+Noresponse 1
+
+“1H15= mil jury, 9-12= moderate jury, B= severe jury See Tl 5, 57 for MoGiea GStorinfonts and chigren
+
+E, EXPOSURE/ENVIRONMENT
+
++ expose patient completely and assess entire body for injury; log roll to examine back
+
++ DRE for trauma patients at discretion of physician (e.g. pelvic fracture, abnormal neurological findings,
+penetrating abdominal trauma)
+
++ keep patient warm (36°C) with a blanket + radiant heaters; avoid hypothermia
+
++ warm IV fluids/blood
+
++ keep providers safe (contamination, combative patient, environmental hazards)
+
+2. Resuscitation
+
++ done concurrently with primary survey
+
++ attend to ABCs
+
++ manage life-threatening problems as they are identified
+
++ vital signs q5-15 min
+
++ ECG, BP, and O2 monitors
+
++ Foley catheter and NG tube if indicated
+
++ tests and investigations: CBC, electrolytes, BUN, Cr, glucose, amylase, INR/PTT, B-hCG, liver panel, VBG,
+lactate, troponin, toxicology screen, group and screen
+
+Toronto Notes 2025
+
+Causes of Shock
+
+SHOCKED
+Septic, neurogenic
+
+Hemorthagic
+
+Obstructive (e.g. tension pneumothorax,
+cardiac tamponade, PE)
+
+Cardiogenic (e.g. blunt myocardial injury,
+dysrhythmia, Ml)
+
+anaphylactik
+
+Endocrine (e.g. Addison's, myxedema,
+coma)
+
+Drugs
+
+‘Common Sites of Bleeding
+External (e.g. scalp)
+
+Chest
+
+‘Abdomen (peritoneum, retroperitoneum)
+Pelvis
+
+Long bones
+
+a
+
+Fluid Resuscitation
+Give initial fluid bolus, watch for
+improvement in HR, BP, and urine output,
+consider early blood products
+
+Maintenance: 4:2: rule
+
+0-40 kg: 4cclkg/h
+
+10-20 kg: 2 cc/kglh
+
+Remaining weight: 1 co/kgih
+
+Replace ongoing losses and deficits
+
+{assume 10% of body weight)
+Shortcut for calculating maintenance fluids
+for any patient 220 kg; Fluid rate (in cc/hr) =
+40 + patient's weight in kg
+
+Unilateral, Dilated, Non-Reactive Pupil
+Focal mass lesion
+
+Epidural hematoma
+
+Subdural hematoma
+
+Ocular (e.g. traumatic mydriasis following
+iris sphincter muscular damage)

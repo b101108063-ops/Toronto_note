@@ -1,0 +1,74 @@
+FM42 Family Medicine Toronto Notes 2025
+
+Etiology
++ source of pain can be local, radicular, referred, or related to a psychiatric illness
++ 98% are mechanical causes (worse with movement, better with rest)
+« soft tissue: sprain (ligament), strain (muscle)
+= spine: facet joint/disc degeneration, disc herniation, spinal stenosis (e.g. spondylosis), spondylolisthesis,
+compression fracture
+= other: pregnancy
++ 2% are non-mechanical causes
+= surgical emergencies
++ cauda equina syndrome (areflexia, lower extremity weakness, saddle anesthesia, fecal incontinence,
+urinary retention)
++ medical conditions
+* neoplastic: primary, metastatic, multiple myeloma
+infectious: osteomyelitis, TB
+metabolic: osteoporosis, osteomalacia, Paget's disease
+rheumatologic: ankylosing spondylitis, polymyalgia rheumatica
+referred pain: perforated ulcer, pancreatitis, pyelonephritis, ectopic pregnancy, herpes zoster
+abdominal aortic aneurysm (pulsatile abdominal mass)
+
+eeeee
+
+Physical Exam
++ inspection: curvature, posture, gait
++ palpation: bony deformities/tenderness, paraspinal muscle bulk/tenderness, trigger points
+= percussion of spine to elicit pain due to fracture or infection
++ range of motion and peripheral pulses
+. neurologic exam for L4/L5/S1 helps determine level of spinal involvement (power, reflexes, sensation)
++ special tests
+tra ight leg raise (positive if pain at <70° and aggravated by ankle dorsiflexion), positive test is
+indicative of sciatica/lumbosacral nerve root irritation
+= crossed straight leg raise (raising of uninvolved leg elicits pain in leg with sciatica), more specific than
+straight leg raise
+= femoral stretch test (patient prone, knee flexed, examiner extends hip) to diagnose L4 radiculopathy
+
+Investigations
+
++ plain films not recommended in initial evaluation
+
++ if infection/cancer suspected: CBC, ESR
+
++ if neurologic deficits worsening or infection/cancer suspected: consider CT or MRI
+
+Table 22. Approach to Non-Traumatic Low Back Pain
+
+Back Dominant (Pain greatest above gluteal fold) Leg Dominant Pain greatest below gluteal fold)
+History Pattern Pattern 2 Pattern3 Pattern 4
+Worse wit exion Worse with extension Pain changes withbackmovement/ Worse with activity
+Constantiintermittent Neverworse with flexion position Improves withrestand posture
+‘Atways intermittent Currentlyipreviously constant change
+Intermittent/short duration
+Physical Exam Normal neurological exam Normal neurologicalexam Leg pain can improve but not
+Fast responder ‘improves with flexion disappear conduction loss
+Improves withextension Worse with extension Positive straight leg raise
+Sow responder conduction loss
+No change or worsens with Fast responder
+extension Improves with specific back
+position
+Slow responder
+Not better with position changes
+LikelyPathology Disc pain Facet joint pain Compressed nerve pain: sciatica Symptomaticspinal stenosis:
+neurogenic claudication
+Initial Management Scheduled extension Scheduled flexion Prone extension Abdominal exercises
+Lumbar roll Limited extension Supine "2" lie Night lumbar rll
+Night lumbar roll Night lumbar roll Lumbar roll Sustained flexion
+Medication asrequired: Medication as required: Night lumbarroll Pelvic tilt
+acetaminophen + NSAIDS acetaminophen NSAIDs Medication asrequired: Medication as required:
+acetaminophen +NSAIDs, may acetaminophen NSAIDs
+consider opioid therapies if tst
+line not sufficient
+
+‘Adapted from: American Acadeny of Orthopaedic Surgeons. Acute care:nontraumatic low back pain. Orthopaedic Knowledge Update: Spine 22001:153-166
+‘Adapted from: Cente for recive Practice. Clinically Organized Relevant Exam CORE) Back Too. 2016

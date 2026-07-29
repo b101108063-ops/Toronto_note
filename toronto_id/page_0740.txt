@@ -1,0 +1,110 @@
+1D22 Infectious Diseases
+
+treatment of leprosy (along with other precipitants of immune responsiveness such as viral illness,
+immunization, hormonal fluctuations of pregnancy, and parturition) can cause an immune reaction to
+killed or dying bacteria (e.g. erythema nodosum leprosum (a type of antigen-antibody complex deposition
+panniculitis) and reversal reaction (upgrading cell-mediated immune responsé)):
+
+= symptomatic management with NSAIDs if mild
+
+= prednisone with 12-24 wk taper if severe
+
+= thalidomide for erythema nodosum leprosum
+
+Prognosis
+
++ curable with WHO approved treatment regimens
+
++ complications: muscle atrophy, contractures, blindness, trauma/superinfection of lesions, crippling/
+loss of digits and limbs, erythema nodosum leprosum, social stigmatization due to clofazimine
+hyperpigmentation
+
++ long post-treatment follow-up warranted to monitor for relapse and immune
+
+Lyme Disease
+
+Etiology/Epidemiology
+
++ spirochete bacteria: Borrelia burgdorferi (North America), B. garinii, B. afzelii (Europe and Asia)
+
++ transmitted by Ixodes tick
+
+. reported in 49 of the 50 U.S. states, but most cases occur in the Northeast, the Midwest, and Northern
+California
+
++ asa result of climate change, Lyme disease has spread into higher latitudes. In Canada, reported in
+southern and southeastern Quebec, southern and eastern Ontario, southeastern Manitoba, New Brunswick,
+and Nova Scotia, as well as southern British Columbia
+
+. small rodents (mice) serve as primary reservoir, while larger animals (white-tailed deer) serve as hosts for
+ticks
+
++ human contact usuall May August in fields with low bushes near wooded areas, but may start earlier in
+the spring or later in the fall as a result of warmer winters due to climate change
+
++ infection usually requires >36 h tick attachment
+
++ asa result of climate change, other tick-borne diseases are expected to increase in prevalence:
+Anaplasmosis, Babesiosis, Powassan virus, and B. miyamotoi disease
+
+Clinical Features
++ stage 1 (early localized stage: 7-14 d post-bite)
+= malaise, fatigue, headache, myalgias
+. erythema migrans: expanding, non-pruritic bulls-eye (target) lesions (red with clear centre) at site of
+tick bite
++ stage 2 (early disseminated stage: weeks post-infection)
+= CNS: aseptic meningitis, CN palsies (CN VII palsy), peripheral neuritis
+= cardiac: heart block or myocarditis
+«stage 3 (late persistent stage: months to years post-infection)
+= may not have preceding history of early-stage infection
+= MSK: chronic monoarticular or oligoarticular arthritis
+= acrodermatitis chronicum atrophicans (due to B. afelii)
+= neurologic: encephalopathy, meningitis, neuropathy
+
+Investigations
+
++ order Public-Health-Lab-approved Lyme disease serology and interpret results on basis of symptoms
+
++ serology may be negative in Stage 1 and is primarily a clinical diagnosis
+
++ anegative test for Lyme disease does not preclude other tick-borne disease; further testing may be indicated
+if symptoms are present
+
+Prevention
+
+early identification, investigation of symptoms, and reporting of tick-borne illnesses
+
++ use of protective clothing (tuck pants into socks), insect repellent, inspection for ticks, and prompt removal
+of tick
+
+single dose doxycycline prophylaxis within 72 h of removal of an engorged Ixodes scapularis tick in
+hyperendemic area (local rate of infection of ticks >20%) for patients >8 yr who are not pregnant or
+lactating
+
+Treatment
++ stage 1: doxycycline/amoxicillin/cefuroxime
++ stage 2-3: ceftriaxone or doxycycline
+
+Toxic Shock Syndrome
+
+Etiology
+
++ superantigens produced by some strains of S. aureus or GAS cause widespread T-cell activation and pro-
+inflammatory cytokine release (IL-1, IL-6, TNF)
+
+course of disease is precipitous and leads to acute fever, shock, multiorgan failure
+
+staphylococcal Toxic Shock Syndrome (TSS) involves the production of superantigen toxic shock syndrome
+toxin 1 (TSST-1)
+
+streptococcal TSS involves the production of superantigens SPEA, SPEB, SPE
+
+Toronto Notes 2025
+B y Lyme Pie
+Bell's palsy
+Arthritis
+Kardiac block
+4
+
+yme
+Erythema chronicummigrans

@@ -1,0 +1,120 @@
+oT 13 Otolaryngology
+
+Table 6. HINTS (Head Impulse-Nystagmus-Test of Skew) Exam
+
+Test Central (Infarct Peripheral (Vestibular Neuritis)
+Head Impulse No saccades Saccade present
+Nystagmus Nystagmusdominantly vertical, torsionaor Unidirectional, horizontal nystagmus
+
+gaze-evoked directional
+
+Testof Skew Abnormal Normal
+
+Table 7. Differential Diagnosis of Vertigo Based on History
+
+Condition Time Course Hearing Loss Tinnitus ‘Aural Fullness Other Features
+Benign Paroxysmal Positional Seconds, recurrent - - - Onset with change in
+Vertigo (BPPV) position
+Méniére’s Disease min toh, episodic Uni/bilateral, + Pressure/warmth
+fluctuating
+Labyrinthitis Vestibular htod Unilateral +£Whistling - May have recent AOM
+Neuronitis
+Acoustic Neuroma Chronic Progressive + - he
+CNVII palsy
+Brainstem/Cerebellar Infarct Prolonged - - - ‘Suspect if vascular risk
+factors
+Benign Paroxysmal Positional Vertigo
+
+Definition
+
++ acute attacks of transient rotatory vertigo lasting less than 1 min, initiated by certain head positions,
+accompanied by torsional (i.e. rotatory) nystagmus (geotropic = fast phase towards the floor)
+
++ most common form of positional vertigo (50% of patients with peripheral vestibular dysfunction have
+BPPV)
+
+Etiology
++ due to canalithiasis (migration of free floating otoliths within the endolymph of the semicircular canal) or
+cupulolithiasis (otolith attached to the cupula of the semicircular canal)
+= can affect each of the 3 semicircular canals, although the posterior canal is affected in >90% of cases
+= caused by: head injury, viral infection (URTI), degenerative disease, idiopathic
+= results in slightly different signals being received by the brain from the two balance organs, resulting in
+sensation of movement
+
+Diagnosis
++ history (time course, provoking factors, associative symptoms)
++ positive Dix-Hallpike maneuver (sensitivity 82%, specificity 71%)
+
+Dix-Hallpike Positional Testing (see website for video and illustrations)
+
++ the patient is rapidly moved from a sitting position to a supine position with the head hanging over the end
+of the table, turned to one side at 45°, and neck extended 20°; hold the position for 20 s
+
+onset of vertigo and rotatory nystagmus indicate a positive test for the dependent side
+
+other diagnostic testing is not indicated in posterior canal BPPV
+
+Treatment
+
++ reassure patient that process resolves spontaneously
+
++ particle repositioning maneuvers
+= Epley maneuver (performed by physician or by patient with the help of devices such as the DizzyFIX™)
+= Brandt-Daroff exercises (performed by patient)
+
++ antiemetics for N/V
+
++ posterior semicircular canal occlusion or singular neurectomy for refractory cases
+
++ drugs to suppress the vestibular system delay eventual recovery and are therefore not used
+
+Ménieére’s Disease (Endolymphatic Hydrops)
+
+Definition
++ episodic attacks of tinnitus, HL, aural fullness, and vertigo lasting min to h
+
+Proposed Etiology
++ inadequate absorption of endolymph leads to endolymphatic hydrops (over accumulation) that distorts the
+membranous labyrinth
+
+Toronto Notes 2025
+
+BPPV is the most common cause of
+episodic vertigo; patients are often
+symptomatic when rolling over in bed or
+‘moving their head to a position of extreme
+posterior extension (such as looking up at a
+tall building or getting their hair washed at
+the hairdresser)
+
+Signs of BPPV Seen with Dix-Hallpike
+Manewer
+
+Latency of -20s
+
+Crescendo/decrescendo vertigo lasting
+20s
+
+Geotropic rotatory nystagmus (nystagmus
+MUST be present for a positive test)
+
+Reversal of nystagmus upon sitting up
+Fatigabilty with repeated stimulation
+
+Diagnostic Criteria for Méniére’s Disease
+Definite Méniére’s Disease
+
+Two or more spontaneous episodes of
+vertigo lasting from 20 minto 12h
+
+Audiometric confirmation of SNHL (low to
+‘mid frequency)
+Fluctuating tinnitus and/or aural fullness
+
+Probable Méniére’s Disease
+Two or more spontaneous episodes of
+
+vertigo or dizziness lasting from 20 min
+to2h
+
+Fluctuating tinnitus and/or aural fullness

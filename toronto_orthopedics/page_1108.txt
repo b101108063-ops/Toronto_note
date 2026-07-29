@@ -1,0 +1,99 @@
+OR20 Orthopedic Surgery
+
+Radial Head Fracture
+
++ acommon fracture of the upper limb in young adults (85% occur between 30-60 yr)
+
+Mechanism
++ FOOSH with elbow extended and forearm pronated
+
+Clinical Features
+
++ marked local tenderness on palpation over radial head (lateral elbow)
+
++ decreased ROM at elbow, + mechanical block to forearm pronation and supination
++ pain on pronation/supination
+
+Investigations
++ x-ray: AP and lateral views of the elbow
+« enlarged anterior fat pad (“sail sign”) or the presence of a posterior fat pad on lateral view indicates
+effusion, which could occur with occult radial head fractures
+
+Table 12. Classification and Treatment of Radial Head Fractures
+
+Mason Class Radiographic Description Treatment
+1 Nondlsplaced fracture (<2mm) bow slab or sing x35 dwith early ROM
+2 Displaced fracture (-2 mm) ORIFif: angulation >30°, involves V3 ofthe radial head, orif23 mmof
+joint incongruity exists, blockto forearmrotation
+3 Comminuted fracture Radial head excision «prosthesis (i ORIF not feasible)
+4 Comminuted fracture with posterior elbow dislocation Radial head ORIF or radial head excision with prosthesis
+Treatment
+
++ based on Mason Class, see Table 12
+
++ ORIF remains the gold standard in management for Mason class 2. and above
+
+. arthroscopic repair can be considered: offers improved visualization and enhances soft tissue preservation
+of the joint
+
+Specific Complications (see General Fracture Complications, OR7)
++ myositis ossificans - calcification of muscle
++ recurrent instability (if MCL injured and radial head excised)
+
+Olecranon Fracture
+
+Mechanism
++ direct blow: fall nto point of elbow (posterior aspect)
++ indirect blow: FOOSH (typically transverse/oblique fracture)
+
+Clinical Features
++ localized pain, palpable defect
++ + loss of active extension due to avulsion of triceps tendon
+
+Investigations
++ x-ray: AP and lateral (require true lateral to determine fracture pattern)
+
+Treatment
++ non-operative
+= non-displaced (<2 mm, stable): cast x 2-3 wk (elbow in 90° flexion, often in full elbow extension), then
+gentle ROM
+operative
+= displaced + non-intact extensor mechanism
+
+Elbow Dislocation
+
+third most common joint dislocation after shoulder and patella
+
+simple: dislocation with no associated features
+
+complex: dislocation with associate features (fracture along with anterior capsule and/or collateral
+ligaments disrupted)
+
+Mechanism
+
++ elbow hyperextension via FOOSH or valgus/supination stress during elbow flexion
+
++ usually the radius and ulna are dislocated together, alternatively the radial head dislocates in isolation and
+the ulnais fractured (see Monteggia Fracture, OR22)
+
++ 80% are posterior/posterolateral- anterior are rare and usually devastating
+
+ical Features
+
+elbow pain, swelling, deformity
+flexion contracture
+
++ absent radial or ulnar pulses
+
+Toronto Notes 2025
+
+Terrible Triad
+Radial head fracture
+Coronoid fracture
+Elbow dislocation
+
+Figure 18. Lateral x-ray of elbow with
+effusion (“sail sign”)
+
+Toavoid stiffness, do not immobilize elbow
+jpint>23 wk

@@ -1,0 +1,126 @@
+MIl4 Medical Imaging
+Contrast Studies
+Table 10. Types of Contrast Studies
+‘Study Organ Procedure Description Assessment Findings
+Cine Esophagogram Cervical esophagus Contrast agent swallowed Dysphagia, swallowing ‘Aspiration, webs (partial
+Recorded for later playback and incoordination, recurrent ‘ocdusion), Zenker’s diverticulum,
+analysis aspiration, postoperativecleft _cricopharyngeal bar, laryngeal
+
+palaterepair
+
+Barium Swallow Thoracic esophagus Contrast agentswallowed Dysphagia, rue out GERD, post- Achalasia, hiatushernia,
+underfluoroscopy, selective esophageal surgery
+images captured
+Upper Gl Series Thoracic esophagus, Double contrast study: Dyspepsia, investigate possible Ulcers, neoplasms, filing defects
+stomach, and duodenum 1. Barium to coat mucosa upper Gl bleed, weight loss!
+2.6as pills fo distention anemia, post gastic surgery
+Patient NPO after midnight
+Enterography and Entire small bowel Enterography: patient drinks +2 IBD, malabsorption, weight loss! Neoplasms, IBD, malabsorption,
+
+Enterociysis (MRI or CT) Lofsorbitol, psylium, or barium anemia, Mecke’s diverticulum
+solution to distend small bowel
+
+Enteroclysis: MJ tube used to
+
+pump barium, psylium, or
+
+Sorbitol contrast media directly
+
+into small bowel
+
+infection
+
+Specific Visceral Organ Imaging
++ for the management of urgent and emergent peritoneal masses
+
+Liver
+
++ U/S: assessment of cysts, abscesses, tumours, biliary tree
+
++ CT +IV: most popular procedure for imaging the liver parenchyma (primary liver tumours, metastases,
+cysts, abscesses, trauma, cirrhosis)
+
++ MRI: excellent in evaluation of primary liver tumours, liver metastases, other parenchymal conditions;
+particularly helpful in differentiating common benign hepatic hemangiomas from primary liver tumours
+and metastases
+
++ elastography: measures shear wave velocity by U/S (FibroScan) or MRI (MR elastography) to non-invasively
+
+juantify liver fibrosis
+
++ findings:
+
+. advanced cirrhosis: liver small and irregular (fibrous scarring, segmental atrophy, regenerating
+nodules)
+
+= porto-systemic shunts: caput medusae, esophageal varices, spontaneous spleno-renal shunt
+
++ U/S: cirrhosis appears nodular and hyperechoic with irregular areas of atrophy of the right lobe and
+hypertrophy of the caudate or left lobes
+
+«= CT: fatty infiltration appears hypodense
+
+* some masses require contrast to be visualized
+
++ upon identifying a liver lesion on imaging (e.g. U/S), the follow-up imaging modality should be CT or MRI.
+CT would be four-phase non-contrast, arterial, venous, and delayed to distinguish the common benign liver
+lesion hemangioma from other tumours
+
+Spleen
+
++ U/S,CT, nuclear medicine scan (nuclear medicine only to distinguish ectopic splenic tissue from enhancing
+tumours)
+
++ CT for splenic trauma (hemorrhage)
+
+Toronto Notes 2025
+
+Colorectal Cancer:CT Colonography and
+Colonoscopy for Detection Systematic Review and
+Meta-Analysis
+
+aiology 2011258 393405
+
+Purpose: Toassessthesenstivt of computed
+tomography colonography (CTC) and optical
+colonoscopy (00) for colorectal cance (CR) detection.
+Methods: Systematicreview and meta-analysis of
+agnostic studies evaluating CTC detection of CRC
+based ona prio eligibility ceria, in particular
+requiring both OC and histological confimation of
+disease. Stuties that abo assessed true-posiive
+
+and false-negative diagnoses with OC were used to
+calclate 0C sensitivity Sensitty of CT colonography
+and 0Cfor CRC was he main outome.
+
+Results: 49 studies on 1,151 patients undergoing
+agnostic study for detection of CRC were induded.
+(IChasa sensitivity of 96.1% (95% 93.8% 97.78)
+and OChasa senstvty of 4.7% (95%.C190.4%-
+51.2}forthe detection of CR,
+
+Conclusion: CTCis highly senstve forthe detection
+of Cand maybe a better modality fo tential
+investigation of suspected CR, assuming reasonable
+specifiy,
+
+‘See Landmark Medical Imaging Trials table
+for more information on the AMACING trial
+
+comparing hydration to no hydration in the
+incidence of contrast-induced nephropathy.
+
+Normal iver appears more dense than
+spleen on CT. Ifless dense, suspect fatty
+infiltration
+
+5Hs
+Hoc
+
+Hydatid cyst
+
+Hemangioma
+
+Hepatic adenoma
+Hyperplasia focal nodular)

@@ -1,0 +1,99 @@
+General and Thoracic Surgery
+
+ical Features
+
++ symptoms due to bowel obstruction (see Large Bowel Obstruction, GS37) or intestinal ischemia (see
+Intestinal Ischemia, GS32)
+
++ colicky abdominal pain, persistence of pain between spasms, abdominal distention, and vomiting
+
++ antecedent symptoms suggestive of previous episodes of intermittent volvulus
+
+Investigations
+
++ AXR (classic findings): “omega,” “bent inner-tube,” “coffee-bean” signs, multiple air-fluid levels
+
++ barium/Gastrografin® enema: “ace of spades” (or “bird’s beak”) appearance due to funnel-like luminal
+tapering of lower segment towards volvulus
+
++ CT: “whirl pattern” of mesenteric vessels twisting about the volvulus axis
+
+Treatment
++ initial supportive management same as initial management for bowel obstruction (see Large Bowel
+Obstruction, GS37)
+* cecum
+«= surgical: right colectomy + ileotransverse colonic anastomosis
+= nonoperative decompression (by colonoscopy or barium enema) is rarely successful and should not be
+attempted due toa high risk of perforation
++ sigmoid
+= decompression by rigid/flexible sigmoidoscopy and insertion of rectal tube past obstruction
+= subsequent elective surgery recommended in medically fit patients (50-70% recurrence)
+= surgical
+surgical resection with or without primary anastomosis
+¢ indications for urgent surgical management: strangulation, perforation, or unsuccessful endoscopic
+decompression
+
+Toxic Megacolon
+
+Pathogenesis
+
++ extension of inflammation into smooth muscle layer causing paralysis and leading to nonobstructive
+colonic dilatation
+
++ damage to myenteric plexus and electrolyte abnormalities are not consistently found
+
+Etiology
+
++ IBD (UC > Crohn’s disease)
+
++ infectious colitis: bacterial (C. difficile, Salmonella, Shigella, and Campylobacter), viral (cytomegalovirus),
+and parasitic (E. histolytica)
+
+ical Features
+
++ infectious colitis usually presents for >1 wk before colonic dilatation
+
++ diarrhea + blood (sudden improvement of diarrhea may signify onset of megacolon)
+
++ abdominal distention, tenderness, + local/general peritoneal signs (suggests perforation)
+
++ triggers: hypokalemia, constipating agents (opioids, antidepressants, loperamide, and anticholinergics),
+barium enema, and colonoscopy
+
+Diagnostic Criteria
++ must have both colitis and systemic manifestations for diagnosis
+
++ radiologic evidence of dilated colon >6 cm, and
+
+« three of: fever, HR >120, WBC >10.5, anemia and
+
++ one of: dehydration, electrolyte disturbances, hypotension, or altered LOC
+
+Investigations
++ CBC (leukocytosis with left shift and anemia from bloody diarrhea), electrolytes, elevated c-reactive
+protein, and ESR
+
+* metabolic alkalosis (volume contraction and hypokalemia) and hypoalbuminemia are late findings
+AXR: dilated colon >6 cm (right > transverse > left), loss of haustra
+CT; useful to assess underlying disease severity and possible complications (i.e. abscess, perforation,
+ascending pylephlebitis)
+
+Toronto Notes 2025
+
+Coffee bean sign
+
+Figure 17. Radiographs of sigmoid
+volvulus
+
+Based on and with pein trom
+
+tgs: fradapaeda rgasesignoi-ohuls i
+beaksign
+
+Case coutsy of i Ab Aad iz tsi Ra iopaea
+arg: 84999
+
+https: fradiopaedia.orgicases sigmoid-volvulus
+
+Case courtesy of Wae!Nemattalla, Radiopaetia.org, 11D:
+10633

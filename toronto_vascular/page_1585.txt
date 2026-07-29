@@ -1,0 +1,147 @@
+vss ‘Vascular Surgery
+
+3. ankle pressure 50 mmHg, toe pressure <30 mmHg, and/or ABI <0.40
+— distal pulses are absent
+— signs of poor perfusion: hair loss, hypertrophic nails, shiny skin, atrophic muscle,
+ulcerations and infections, slow capillary refill, prolonged pallor with elevation and
+rubor on dependency, and venous troughing (Buerger’s sign/Buerger’s angle) (collapse of
+superficial veins of foot)
+4. high-risk of 1 yr limb amputation (25%) and mortality (25%)
+5. usually the result of multilevel occlusive arterial disease in the lower extremity
+
+Investigations
++ routine blood work, fasting metabolic profile
++ ABl and/or a TBI study are recommended to confirm diagnosis of PAD
++ ankle pressure and ABI: The highest systolic foot pulse (dorsalis pedis or posterior tibialis) is divided by the
+systolic brachial pressure. Arterial occlusive disease more commonly affects the lower extremities so ankle
+pressure is the numerator, while arm pressure serves as the standard (denominator). Lower ratios indicate
+more severe arterial disease, while values above 1.3 suggest noncompressible heavily calcified arteries,
+common in diabetes. (see Table 2 for Cut-Offs)
++ toe pressure and TBI: highest pressure in the great toe for each side divided by highest brachial pressure;
+useful in patients with non-compressible vessels
++ arterial DUS: combines b-mode and Doppler U/S to visualize blood vessels and characterize flow and
+laques
+. hom invasive CTA and MRA excellent for large arteries (aorta, iliac, femoral, popliteal) but may have
+difficulty with tibial arteries (especially in the presence of significant wall calcification)
+= requires IV injection of iodinated contrast for CTA (contrast-induced nephropathy risk), gadolinium
+for MRA (avoid in patients with severe renal failure)
+= used primarily for planning interventions
++ invasive: arteriography
+* superior resolution to CTA/MRA, better for tibial arteries, can be done intraoperatively as part of
+intervention
+= can be diagnostic and/or therapeutic
+
+Table 2. Ankle-Brachial Index Cut-Offs
+
+‘ABIRecording Degree of PAD
+71.30 Non-compressile vessel (e. wall calcification, common in DM)
+0914.30 Normal
+07-080 itd
+050-0.70 Moderate
+<05 Severe
+Treatment
++ goals
+
+= preserve life (avoid complicated procedures in sick patients)
+= preserve viability (save the leg)
+= improve function and alleviate symptoms
+= prevent deterioration and recurrence
++ conservative
+= risk factor modification (smoking cessation, glucose control, treatment of HTN and hyperlipidemia)
+= structured exercise program (30-45 min 3x/wk): improves collateral circulation and muscle
+oxygenation
+= foot care (especially in DM): trim toenails, check between toes for skin breaks, wear socks and shoes,
+clear shoes of any debris, keep wounds clean/dry, avoid trauma and pressure on wounds
++ pharmacotherapy
+= for global cardiovascular protection since patients with PAD are at increased risk for CAD and CVD
+antiplatelet agents (e.g. ASA, clopidogrel)
+anticoagulants (e.g. low-dose rivaroxaban)
+statin + icosapent ethyl
+ACEV/ARB
+= SGLT-2 inhibitor if HbAlc >7%
++ surgical
+= indications: severe lifestyle impairment, vocational impairment, CLTI
+= revascularization
++ endovascular (angioplasty + stenting, may also include atherectomy in select cases)
+endarterectomy: removal of plaque and repair with patch (usually distal aorta or common/deep
+femoral)
++ bypass graft sites:
+— anatomic: aortofemoral, femoropopliteal, femorotibial bypass, popliteal-tibial bypass
+— extra-anatomic: axillofemoral, femorofemoral
+graft choices: saphenous vein graft (reversed or in situ), synthetic (polytetrafluoroethylene graft,
+e.g. Gore-Tex" or Dacron’), cryo-preserved homograft
++ not offered to asymptomatic patients
+
+Toronto Notes 2025
+
+Letiche Syndrome
+Chronic aortoiliac occlusive disease
+presenting with a triad of
+
+1. Claudication (of buttocks and thighs)
+2. Decreased/absent femoral pulses
+
+3. Erectile dysfunction/impotence
+
+‘Subclavian Steal Syndrome
+A chronic arterial disease of the upper limb
+where stenosis or occlusion of the proximal
+subclavian artery results in retrograde flow
+from the vertebral artery, compromising
+vertebrobasilar circulation. Patients can
+present with pre/syncope and neurological
+deficits especially upon exertion of the
+limb (rare)
+
+Differential Diagnosis of Lower Extremity
+Pain
+
+Vascular
+
+Atherosclerotic disease
+Fibromuscular dysplasia
+
+Popliteal entrapment syndrome
+Venous daudication/typertension
+{extremely rare)
+
+Neurogenic
+‘Neurospinal disease (e.g. spinal stenosis)
+‘Complex regional pain syndrome
+Radiculopathies
+
+Diabetic neuropathy
+
+Msk
+Osteoarthritis
+
+Rheumatoid arthritis/connective tissue
+disease
+
+Remote trauma
+
+Medial tibial stress syndrome
+Sprain/strain
+
+Treating PAD
+Note that symptoms do not necessarily
+correlate with ABI measurement, eg,
+patient with ABI of 0.45 may be
+asymptomatic. Intervention is guided by the
+patient's clinical presentation
+
+The ABCDEs of PAD Treatment
+ANTIPLATELET (ASA, clopidogrel), anti-
+coagulant (low dose rivaroxabar), ACEV
+ARB
+
+BP control; target sBP <140 mmHg,
+B-blocker (if indicated)
+
+Cholesterol management (statin); target
+LDL-C <2 mmol/L, smoking cessation
+betic control; target HbATC <7%, diet!
+weight management
+
+Exercise (3x/wk, 30-45 min per session)
+

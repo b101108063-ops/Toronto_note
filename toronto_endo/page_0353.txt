@@ -1,0 +1,120 @@
+E45 Endocrinology
+
+Table 30. Clinical Features of Hypocalcemia
+
+‘cute Hypocalcemia {Chronic Hypocalcemia
+Paresthesia CHS: lethargy, seizures, psychosis, basal ganglia calcification, Parkinson's, dystonia,
+Latyngospasm (with stridor) hemibalismus, papiledema, pseudotumourcerebri
+
+Hyperreflexia. CVS: prolonged OT interval = Torsadesde pointes (ventricular tachycardia)
+
+Tetany GL: steatorthea
+
+Clvostek’ssign tap CN Vl)
+Trousseau’s sign (carpal spasm)
+
+ENDO: impairedinsuin release
+SKIN: dry, scaling, alopecia, brttleand transversely fissurednails, candidiasis,
+
+ECG changes abnormal dentition
+Delirium OCULAR: cataracts
+
+Psychiatric Sx: emotional instability anxiety, and depression MSK: generalized muscle weakness and wasting
+Seinute
+
+Note: tetanyis ahallmark of hypocalcemia canbe mild or severe
+
+Mild: perioral numbness, paresthesia of hands and feet, muscle spasm
+‘Severe: carpopedal spasm, laryngospasm,focallgeneralized seizures
+
+Approach to Hypocalcemia
+
+1, isthe patient hypocalcemic?
+
+2. isthe PTH high or low?
+
+3. if PTH is high, is phosphate low or normal?
+4, isthe Mg* level low?
+
+Approach to Treatment
+1. rapidity of treatment depends on severity of symptoms and serum calcium level
+a) mild, asymptomatic
+— calcium supplementation (i.e. elemental calcium 1 g then 500 mg PO TID)
+b) severe and/or symptomatic
+— severe hypocalcemia is a medical emergency
+—TV calcium gluconate 1-2 g over 10-20 min followed by slow infusion
+— if positive Chvostek’s and Trousseau or seizures, first give IV calcium bolus, ie. 1 amp IV
+push, then run Ca** IV drip at 1-2 mg/kg/h
+2. vitamin D replacement
+«= needed for GI absorption of calcium; must use 1,25 vitamin D if PTH level low (hypoparathyroidism)
+3. must treat concurrent hypomagnesemia or calcium will not normalize
+4, if underlying cause is hypoparathyroidism, the goal is to raise Ca** to low normal range (2.0-2.1 mmol/L) to
+prevent symptoms but allow maximum stimulation of PTH secretion
+
+Low Ca®
+,
+
+Initial investigations: PTH (PO.?, Cr, Mg?)
+1
+
+t +
+
+Toronto Notes 2025
+
+‘Signs and Symptoms of Acute
+Hypocalcemia
+
+Paresthesias: perioral, hands, and feet
+Chvostek’s sign: percussion ofthe facial
+nerve just anterior to the external auditory
+‘meatus elicits ipsilateral spasm of the
+orbicularis oculi or orbicularis ois muscles
+Trousseau’s sign: inflation of a blood
+pressure cuff above systolic pressure for 3
+‘min elicits carpal spasm and paresthesia
+
+Hypomagnesemia can impair PTH secretion
+and action
+
+Watch Out for:
+Volume depletion via diuresis,
+Arrhythmias
+
+Differential Diagnosis of Tetany
+Hypocalcemia
+
+‘Metabolic alkalosis (with hyperventilation)
+Hypokalemia
+
+Hypomagnesemia
+
+Transient hypoparathyroidism (resulting
+in hypocalcemia) is common after total
+thyroidectomy (permanent in <3% of
+surgeries)
+
++ PTH Normal or + PTH
+ar ‘ z :
+Normal PO.> +POe Low Mg Liver Parathyroid Gland
+4 i Dysfunction Destruction
+Pseuclohypoparathyroidism: Vitamin D related J >,
+SP Drugs: Alcoholism — Hemochromatosis _—_—tatrogenic primary
+pee eae) ‘Antineoplastic Hypoparathyroidism: — Hypoparathyroidism:
+‘Acute Pancreatitis: Release of agents Post-thyroidectomy Idiopathic/autoimmune
+pancreatic caldecrin decreases 1 ablation hrypoperathyroidism
+bone resorption Post-surgical Infitrative disease of
+Drugs: Calcitonin, loop diuretics correction of primary _parathyroid gland
+hyperparathyroidism HIV
+4 Calcidiol + Caleitriot 1+ Calcitriol
+(25-OH vitamin D) (1,25-(OH} vitamin 0) ——_(1,25-(OH): vitamin D)
+4 Intake and/or Malabsorption: Chronic Renal Failure Hereditary Vitamin D
+eg.celiac disease, IBD, YitaminD Dependent Resistant Rickets Type I
+gastric bypass, CF Rickets Type I Receptor defect
+Nephrotic Syndrome: Renal 1-a-hydroxylase Secondary
+Lose vitamin D binding protein deficiency Hyperparathyroidism:
+. ‘Appropriate PT gland response
+Drugs: Phenobarbital, phenytoin, Bees
+
+carbamazepine, rifampin, isoniazid
+
+Figure 21. Etiology and clinical approach to hypocalcemia

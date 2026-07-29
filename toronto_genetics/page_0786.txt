@@ -1,0 +1,185 @@
+MG8 Medical Genetics
+
+Etiology
+
++ one type of muscular dystrophy characterized by progressive skeletal and cardiac muscle degeneration
+
++ X-linked inheritance: 1/3 de novo pathogenic variants, 2/3 inherited pathogenic variants
+
++ missing structural protein (dystrophin) > muscle fibre fragility > fibre breakdown > necrosis and
+degeneration
+
+Clinical Features
+
+proximal muscle weakness by age 3, positive Gowers’ sign, waddling gait, toe walking
+pseudohypertrophy of calf muscles (muscle replaced by fat) and wasting of thigh muscles
+decreased reflexes
+
++ non-progressive delayed motor and cognitive development (dysfunctional dystrophin in brain)
+cardiomyopathy
+
+Diagnosis
+
++ molecular genetic studies of dystrophin gene (DMD) (first line)
+
+* genotype-phenotype correlations: different variants in the gene will cause some dystrophin production and
+a milder muscular dystrophy, Becker muscular dystrophy
+
+family history (pedigree analysis demonstrating X-linked inheritance)
+
+increased creatine kinase (50-100x normal) and lactate dehydrogenase
+
+muscle biopsy, EMG
+
+Management
+supportive (e.g. physiotherapy, wheelchairs, braces); prevent obesity
+
+cardiac health monitoring and early intervention (annually if male, every 3-5 years if female)
+bone health monitoring and intervention (vitamin D, bisphosphonates) at baseline and annually
+steroids (e.g. prednisone or deflazacort)
+
+surgical (for scoliosis)
+
+gene therapy trials underway
+
+Complications
+
++ patient usually wheelchair-bound by age 12
+
++ early flexion contractures, scoliosis, osteopenia of immobility, increased risk of fracture
++ death due to pneumonia/respiratory failure or CHF in second-third decade
+
+HUNTINGTON’S DISEASE (HD)
+
+Incidence
++ varies across world regions. More common in individuals of European ancestry
+
+Etiology
++ CAG repeat expansions in the HTT gene. Inherited in an autosomal dominant manner
++ CAG repeat lengths of < 26 are not associated with disease, while repeats of > 36 are pathogenic
+
+Clinical Features
+
+triad of progressive neuropsychiatric symptoms, movement disorder, and cognitive disorder
+
+typical age of onset is between 30-50 yrs of age, with a mean age of 45 yr
+
+the median survival time after onset of motor symptoms is 18 yr
+
+motor symptoms and signs are the defining symptoms at time of diagnosis, and mainly characterized by
+chorea involving the face, trunk, and limbs. Gradually, chorea becomes more widespread, and in later
+stages affects the diaphragm, pharynx, and larynx
+
+psychiatric symptoms include irritability, depression, and/or disrupted social relationships. Paranoia,
+delusions, and hallucinations can also develop
+
+the dominant cognitive feature of HD is executive dysfunction
+
+early stage clinical signs include subtle changes in eye movements, coordination, minor involuntary
+movements, difficulty in mental planning, and often a depressed or irritable mood
+
+clinical signs progress in the middle stages of this condition, to include dystonia, chorea, difficulties with
+balance and walking, slow voluntary movements, difficulty initiating movements, slow reaction time,
+general weakness, weight loss, and speech difficulties
+
+in the later stages, clinical signs include rigidity, bradykinesia, severe chorea, inability to speak, dysphagia,
+significant weight loss, and increased dependence in activities of daily living
+
+Diagnosis
+
++ targeted mutation analysis of CAG trinucleotide repeats in the HTT gene
+
++ genetic confirmation of HD has significant consequences for at-risk family members, therefore genetic
+counselling is essential before predictive testing
+
+Management
+supportive (e.g, physiotherapy, wheelchairs, braces)
+
+symptom management: chorea (VMAT2 inhibitors, tetrabenazine, deutetrabenazine, etc.), psychiatric
+symptoms (appropriate medication depending on psychiatric disorder experienced, e.g. SSRI for
+depression)
+
+pain management
+
+Toronto Notes 2025
+
+‘See Landmark Medical Genetics Trials
+table for more information on the C-type
+natriuretic peptide analogue therapy
+{vosoritide) RCT, which assesses the safety
+and efficacy of vosoritide inthe treatment
+‘of achondroplasia in children
+
+@
+
+Gene Therapy for Spinal Muscular Atrophy (SMA):
+‘Review of Curent Challenges and Safety
+Considerations for Onasemnogene Abeparvovec
+
+@olgensma)
+
+Creus 20235) 236197
+
+Parpose: To eview the safety, efcac,and caren
+chalengeslthe gene therapy onasenmagene
+sbeparvovec (gens intheteatmet ofthe
+autesomalrecessive disorder SMA
+Methods:Naratvelieratue review of Puble,
+DUNE, and Ovid databases orate that provided
+pertinent infomationaboutZolgensma as agene
+therapy for SMA
+
+Results 10artcles me the incson ceri There
+isevdencethatZoigensma san eficaous therapy
+‘oMtype hemos severe fom the dso,
+especall when administered to patients under 3 months
+age. Hepattoricty sa major concen, but canbe
+managed troughcose monitoring llnerenryme
+levels and pophfactcmedicatins,Zlgesna sore
+costefective than comparable therapies.
+
+Condusion: Duets efectvenes, safety prof,
+andost,Lolgensma sa good treatment option or SHA
+type. More datsneeded to valuatelong terms
+andbenfits
+
+‘See Landmark Medical Genetics Trials table
+for more information on the FLAURA trial,
+wihich compares Osimertinib against other
+epidermal growth factor receptor (EGFR)
+inhibitors in patients with EGFR positive
+NscLe
+
+Corticosteroids forthe Treatment of Duchenne
+Muscular Dystrophy (OMD)
+Cochrane DB Sys ev 20165:C0003725,
+
+Purpose: Toassesstheetfecsafcoticosterids on
+prolongation of walking abit, musce strength,
+
+quay off in DMD and adress
+ined over ong term, assess
+adveseevents andconpareetficacy of diferent
+regimens
+
+Methods: Sjstematicreview including RCTS oquas- RCTs
+corticosteroid givento patients with definitive DMD
+diagnosis forateast3ma
+
+Results 12 stuieswith 667 partpantincuded.
+eta-aalyses showed that corticosteroid simproved
+muscle stengthand functions, placebo over 6m.
+Evidence trom single tials showed 0.75 malig superior
+to0.3mglkldon most strength and function measures,
+wiht evidence of further beneft at 15 mk
+Improvements wereseenintme taken ors trom the
+
+indicates that cotcostrid therapy in DMD improves
+‘msl stengthand function inthe short term (120),
+andstrengt upto 2yt.)Dose of 75 mg/g should
+beenough Adverse eects were common but not
+nial severe.
+
+Gowers’ Sign
+
+the pelvic and proximal lower limb muscles,

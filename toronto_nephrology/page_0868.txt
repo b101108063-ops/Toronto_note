@@ -1,0 +1,44 @@
+NP48 Nephrology Toronto Notes 2025
+Trial Name Reference (Clinical Trial Details
+HEMO NEJM 2002;347:2010-19 Title: Effect of DialysisDose and Membrane Fucin Maintenance Hemodialysis
+Purpose: Assess the effects on morbidity and morta of dialysis dose andlevel of flu, in patients undergoing maintenance hemodialysis
+Methods: 1846 patients undergoing thrice-weeky dialysis were randomized to high-dose dialysis and toa low- or high-flx dalyzer. The primary outcome was all-cause
+mortality.
+Results: The primary outcome was not influenced by the dase or fl assignment; (RR 0.96; 95% Cl 0.84 to 1.10; P-0.53) fora comparison of the high-dose group with
+standard-dose, and (RR 0.96; 95% C1 0.81 to 1.05;P=0.23 fora comparison of high-and low-flux dialyzer assignments.
+Conclusions: Use of high dase dialysis o high lx membranes vs. standard dose or low flux in 3x/wk dialysis doesnotimprove survival or outcomes
+NEAL NEJM 2010;363:609-19 Title: Randomized, Controlled Trial of Early versus Late Initiation of Dialysis
+Purpose: Examine effects of timing dialysis initiation on survival in patients with CKD.
+Methods:Patientswith CKD and eGFR 10 to 15 ml /min/1.73m2 were randomized to earl initiation (eGFR 1.0 to 14.0 mL/min/.73 m2) or late initiation (eGFR 5.010 7.0
+mmL/min‘1.73 m2). The primary outcomewas all-cause mortality
+Results: A total of 326% of patients inthe early initiation group and 36.6% of patents in the lat initiation group died within 3.59 yr (hazard ratio 104; 95% 10.83 to
+1.30;P=0.75). There were nosignfcant differences inthe frequency of adverse events.
+‘Conclusions: In ptientswith progressive CKD, earl initiation of dialysis was not associated with animprovementin survival or clinical outcomes,
+‘CONVERT Transplantation 2009;87:233-42 Title: Conversion from Calcinewrin Inhibitors to Sirolimus Maintenance Therapy in Rena AllograftRecipients
+Purpose: Evaluate the efficacy and safety of converting maintenance renal transplant patients from CNIsto sirolimus
+Methods: 830 renal allograftrecpients wererandomizedto continue CMI or convert from CN! o sirolimus. Primary endpoints were GFR and the rates of biopsy-
+‘confirmed acute rejection (BCAR), graft ass, or death at 12 mo
+Results: Intention-to-tret analysis showed no significant difference in GFR, while on therapy analysis showed higher GFRat 12 and 24 mo ater sirolimus conversion,
+Rates of other primary endpoints wer similar between groups. Malignancy rates were significantly lower at 12 and 24 mo in patients who underwent sirolimus
+conversion.
+Conclusions: At 2 years, conversion of maintenance therapy in renal transplant patients from CNls tosirokimuswas associated with excellent patient andgraft survival
+STARRT-AKI NEJM 2020;383:240-51 Title: Timing of Initiation of Renal Replacement Therapy in Acute Kidney Injury
+Purpose: Toevaluate and compare the impact of two strategies (accelerated ination versusstandard initiation) on critically il patients with AKI
+Methods:A multinational val randomized citicalyil patients with severe AKI to receive either accelerated o standard initiation of renal-replacement therapy, with
+‘the primary outcomes 90-day all-cause mortality
+Results: 013019 patients, 97% were included inthe analysis. The acelerated-strategy group had higher ratesof renal replacement therapy andadverse events,
+However, there was no significant ditference in 90-day morality between the aceleated and standard strategy groups. Survivors in the accelerated strategy group had
+‘ahigher dependence on renal-replacement therapy.
+‘Conclusions: The use ofan accelerated enal-eplacement strategy didnot result ina lower 90-day mortality risk n critically l patients with AKI.
+CONVINCE NEJM Title: Effect of Hemodafitration or Hemodialysis onMortalityinKidney Failure
+2023;389:700-109 Purpose: Tocompare he effects of high-dose hemodiafitration versus standard hemodialysis on patients with kidney failure.
+
+Methods: 1360 patients with kidney fellurewho had been receiving high-luxhemodalysis frat least months. Patients receivedeithe high-dose hemodiafitration
+‘or continued conventional high-fuc hemodialysis. The primary outcome was deathfromany cause, wih key secondary outcomes including cause specific death,
+cardiovascular events, kidney transplantation, ad hospitalizations.
+
+Results: Over a medianfolow-upof 30 months, 17350 patientsin the hemodiaitrtiongroupand 21.9%in the hemodialysis group died from any cause. The mean
+‘onvectionvolume inthe hemodifitration group was 25 3iters per session.
+
+Conclusions: high-dose hemodiaitrtionowered the rskaf death rom any cause comparedto conventional high-fat hemodialysis inpatients with kidney fare
+

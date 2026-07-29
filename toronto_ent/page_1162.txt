@@ -1,0 +1,108 @@
+OTI8 Otolaryngology
+
+Acquired (more common)
++ primary cholesteatoma
+«= frequently associated with retraction pockets in the pars flaccida, pars tensa, or both
+= asequela of the dysfunction of the regulation of middle ear pressure
+= often has crusting or desquamated debris on lateral surface
++ secondary cholesteatoma
+«= presents as “pearly mass” evident behind TM, frequently associated with marginal perforation
+= may appear as skin that has replaced the mucosa of the middle ear
++ the associated chronic inflammatory process causes progressive destruction of surrounding bony
+structures
+
+Clinical Features
+
++ history of otitis media (especially if unilateral), ventilation tubes, ear surgery
+
++ symptoms
+= progressive HL (predominantly conductive, although may get SNHL in late stage)
+= otalgia, aural fullness, fever
+
++ signs
+
+retraction pocket in TM, may contain keratinous debris
+
+‘TM perforation
+
+granulation tissue, polyp visible on otoscopy
+
+malodourous, unilateral otorrhea
+
+Complications
+
+Table 8. Complications of Cholesteatoma
+
+Local Intracranial
+Ossicular erosion: CHL Meningitis
+
+Inner ear erosion: SAL, diziness, andor labyrinths
+Temporal bone infection: mestoidits,petrosts
+Fai lysis
+
+Sigmoid sinus thrombosis
+Intracranial abscess (subdural, epidural, cerebellar)
+
+Investigations
++ audiogram and non-contrast CT of temporal bones
+
+Treatment
++ surgical: mastoidectomy + tympanoplasty + ossicular reconstruction
+
+Mastoiditis
+
+Definition
+
++ infection (usually subperiosteal) of mastoid air cells, most commonly seen approximately two wk after
+onset of untreated or inadequately treated AOM (suppurative)
+
++ more common in children than adults
+
+Etiology
+
+* acute mastoiditis is caused by the same organisms as AOM: S. pneumoniae, H. influenzae, M. catarrhalis, S.
+
+pyogenes, S. aureus, P. aeruginosa, etc.
+
+Clinical Features
+
++ otorrhea
+
++ tenderness to pressure over the mastoid
+
++ retroauricular swelling with protruding ear
++ fever, HL, + TM perforation (late)
+
++ CT radiologic findings: opacification of mastoid air cells by fluid and interruption of normal trabeculations
+
+of cells (coalescence)
+
+Treatment
++ IV antibiotics with myringotomy and ventilation tubes - usually all that is required in acute cases
++ may require additional incision and drainage of postauricular abscess
++ cortical mastoidectomy
+= debridement of infected tissue allowing aeration and drainage
++ indications for surgery
+= failure of medical treatment after 48 h
+= symptoms of intracranial complications
+= aural discharge persisting for 4 wk and resistant to antibiotics
+
+Toronto Notes 2025
+
+Mechanisms of Cholesteatoma Formation
+‘Metaplasia of middle ear epithelium or
+basal cell hyperplasia (congenital)
+Invagination of TM (1° acquisition)
+
+Epithelial migration through TM perforation
+2 acquisition)
+
+Glassic Triad
+Otorrhea
+
+Tenderness to pressure over the mastoid
+Retroauricular sweling with protruding ear
+
+‘Complications of AOM are rare due to
+rapid and effective treatment of AOM with
+antibiotics

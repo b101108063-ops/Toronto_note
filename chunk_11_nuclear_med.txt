@@ -1,0 +1,206 @@
+
+
+Adrenal Mass
+
++ imaging modality: most often identified on CT scan as ‘incidentaloma,’ can also use CT/MRI to distinguish
+benign from malignant masses
+
+indings on CT and MRI
+Factors ‘Adrenocortical Adenoma __AdrenocorticalCarcinoma __Pheochromocytoma Metastasis
+Diameter (CT) Usually <3 cm Usually 24.cm Usually >3.cm Variable aound<3.cm
+Shape (CT) Smooth marginsand round/oval Irregularwith unclear margins Round/ovalwithclear margins Ovaimeguar withunclear
+margins
+Texture (CT) Homogeneous Heterogeneous with mixed Heterogeneouswith cystic ‘Heterogeneous withmixed
+densities areas densities
+Vascularty (CT) Nothighly vascular Usually vascular Usually vascular
+Washout of Contrast Medium — >50'% at 10min <50%at10 min <50% at 10 min <S0% at 10min
+onc
+Growth Stableorveryslow (<Acmiyr) Usually rapid(>2cmlys Slow (0.51 cm/y) Variable
+Other Findings Usually ow density dueto Necrosis, cafications,and Hemorrhage Occasionally hemorrhage
+
+intracellular fat hemorrhage
+
+MRIonT2 Weighted Imaging Isointense in relation oliver Hyperintenseinrelation oliver Markedly hyperintense in
+
+relation to liver
+
+Hyperintense in elation to liver
+
+Skull Films
+
++ rarely performed, generally not indicated for non-penetrating head trauma
+
++ indications: screening for destructive bony lesions (e.g. metastases), metabolic disease, skull anomalies,
+postoperative changes and confirmation of hardware placement, skeletal surveys, multiple myeloma
+
+cT
+
++ CTis often the first line modality for most neuropathology, even in situations where MRI would lead to
+better characterization
+
+frequently the initial study performed because of its speed, availability, and lower cost
+
+= acute craniofacial trauma: CT is best for visualizing “bone and blood;” use MRI when CT fails to detect
+
+an abnormality despite strong clinical suspicion
+
+acute stroke: MRI ideal, CT most frequently used
+
+acute headache with focal neurologic signs, papilledema, or known cancer
+
+suspected hemorrhage (epidural, subdural, subarachnoid, intraparenchymal)
+
+suspected hydrocephalus
+
+= altered mental status with suspected CNS infection or intracranial mass
+
++ vascular structures and areas of blood-brain barrier impairment are bright (e.g. hyperdense or enhancing)
+with contrast injection
+
++ danger signs on head CT: space-occupying process, hemorrhage, edema, mass effect, midline shift, uncal
+and tonsillar herniation, loss of grey-white matter differentiation, hydrocephalus
+
+Myelography
+
++ introduction of water-soluble, low-osmotic contrast media into subarachnoid space via lumbar puncture
+followed by x-ray
+
++ largely replaced by MRI or CT myelogram
+
++ indications: excellent study for disc herniation, traumatic nerve root avulsion, patients with
+contraindication to MRI, extensive hardware from spinal surgery that may create MRI artifacts
+
+MRI
+
++ indications: finer neuroanatomic definition, better grey-white matter differentiation (especially T1-
+weighted series), better evaluation of edema extent (better tumour detection), allows evaluation of
+structures obscured by bony artifacts on CT (posterior fossa structures), multiplanar imaging helpful in
+preoperative assessment
+
+Cerebral Angiography/CT Angiography/MR Angiography
+
++ indications: evaluation of vascular lesions such as atherosclerotic disease, aneurysms, vascular
+malformations, arterial dissections
+
++ conventional DSA remains the gold standard for the assessment of neck and intracranial vessels; however,
+it is an invasive procedure requiring arterial (typically femoral) access and catheter manipulation, which
+confers risk of vessel injury (e.g. dissection, occlusion, vasospasm, emboli)
+
++ MRA methods (phase contrast, time of flight, gadolinium-enhanced) and CTA are much less invasive
+without risk to intracranial or neck vessels
+
++ MRA and CTA are often used first for the assessment of suspected TIA, subarachnoid hemorrhage,
+vasospasm, or aneurysms
+
+
+Modality Based on Neuropathology
+Presentation
+
+Cognitive dedine= CT
+Cord compression = MRI
+Decreased level of consciousness = CT
+
+Fish bone/other swallowed foreign body
+=r
+
+Low back pain, radiculopathy = MRI
+Multiple sclerosis = MRI
+
+Neck infection = CT
+
+Orbital infection = CT
+
+Rule out bleed = CT
+
+Rule out aneurysm = CTA, MRA
+Seizure = CT
+
+Sinusitis= CT
+
+Stroke = CT, MRI
+
+Trauma = CT
+
+Weakness, systemically unwell = CT
+
+Figure 28. Epidural hematoma
+
+Figure 29. Subdural hematoma
+
+Figure 30. Subarachnoid
+hemorthage
+
+Figure 31. Intraparenchymal
+hemorthage
+
+
+
+Figure 32. Hydrocephalus: ventricular dilatation (may see periventricular low attenuation due to transependymal CSF
+flow)
+
+Table 16. Two Types of Hydrocephalus
+
+Type Cause
+‘Communicating/Extraventricular Impaired CSF reabsorption with unobstructed flow inventricular system, imaging showsall ventrides diated
+Non-Communicating Obstruction within the ventricular system (¢.g.mass obstructing the aqueduct or foramen of Monro}; imaging shows
+
+dilatation of ventricles proximal tothe obstruction
+
+Nuclear Medicine
++ SPECT imaging using “mTe-exametazime (HMPAO) and "mTc-bicisate (ECD) assesses cerebral blood flow,
+
+as radionuclides diffuse rapidly across the blood-brain barrier and become trapped within neurons a
+
+magnitude proportional to cerebral blood flow
+
+“FG PET imaging assesses cerebral metabolic activity
+
+indications: differentiation of residual tumour vs. radiation necrosis; localization of epileptic seizure foci,
+
+and evaluation of atypical dementia
+
+Approach to Head Computed Tomography Figure 33, Sapttal (A) and coronal
+
+irculati te the incidental
+think anatomically, work from superficial to deep basiartpreurys
+
+scan: confirm the time and imaging of the correct patient, whether contrast was used, patient alignment,
+
+and presence of artifact
+
+skin/soft tissue: examine the soft tissue superficial to the skull for thickening suggestive of hematoma or
+
+edema; also evaluate the ear, orbital contents (globe, fat, muscles), parotid glands, muscles of mastication
+
+(masseter, temporalis, pterygoids), visualize pharynx
+
+bone and airspace (use the bone window): check calvarium, visualize mandible, visualize C-spine (usually pe? tothe CT Head
+
+C1 and maybe part of C2) for fractures, absent bone, lytic/sclerotic lesions; inspect sinuses and mastoid a Setar
+
+air cells for fractures or opacity that may suggest fluid, pus, blood, or tumour; status of the orbital floor in Brains = Bone/Airspace
+
+cases of facial trauma (coronal series best) Demonstrate = Dura/Subdural space
+dura and subdural space: crescent-shaped hyperdensity in the subdural space suggests subdural hematoma; _ Pushed = Parenchyma
+
+lentiform hyperdensity in the epidural space suggests epidural hematoma; check symmetry of dural Ventricles = Venricles/Sulc/Cisterns
+thickness, where increased thickness may suggest the presence of blood
+
+parenchyma: asymmetry of the parenchyma suggests midline shift; poor contrast between grey and
+
+white matter suggests possible infarction, tumour, edema, infection, or contusion; a hyperdensity in the
+
+parenchyma suggests an enhancing lesions, intracerebral hemorthage, or calcification; if central grey
+
+matter nuclei (e.g. globus pallidus, putamen, internal capsule) are not visible, suspect infarct, tumour, or TIAs are not associated with radiological
+infection findings
+
+ventricles/sulci/cisterns: examine position of ventricles for evidence of midline compression/shift;
+hyperdensities in the ventricles suggest ventricular/subdural hemorrhage; enlarged ventricles suggest
+hydrocephalus; obliteration of sulci may suggest presence of edema causing effacement, possible blood
+filling in the sulci, or tumour; cistern hyperdensities may suggest blood, pus, or tumour
+
+Figure 34. Insular ribbon sign
+(arrow): hypodensity of insular
+cortex representing early sign of
+infarction

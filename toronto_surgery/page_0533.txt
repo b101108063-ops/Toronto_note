@@ -1,0 +1,69 @@
+GS41 General and Thoracic Surgery Toronto Notes 2025
+
+Colorectal Neoplas
+
+Colorectal Polyps
+
+Det ion
++ polyp: protuberance into the lumen of normally flat colonic mucosa
+= sessile (flat) or pedunculated (on a stalk)
+
+Epidemiology
++ 30% of the population have polyps by age 50, 40% by age 60, 50% by age 70; M>F
+
+Clinical Features
+
++ 50% in the rectosigmoid region, 50% are multiple
+
++ usually asymptomatic and detected during routine endoscopy or familial/high-risk screening
+
++ may present with bleeding, mucus, tenesmus if in the rectum, and intestinal obstruction if very large
+
+Pathology
++ non-neoplastic/non-adenomatous
+= hyperplastic: most common non-neoplastic polyp
+= mucosal polyps: small <5 mm, no clinical significance
++ hamartomas: juvenile polyps (large bowel), Peutz-Jegher syndrome (small bowel)
++ malignant risk due to associated adenomas (large bowel)
++ low malignant potential > most spontaneously regress or autoamputate
+= inflammatory pseudopolyps: associated with IBD, no malignant potential
+= submucosal polyps: lymphoid aggregates, lipomas, leiomyomas, and carcinoids
++ neoplastic/adenomatous
+= adenomas: premalignant, considered carcinoma in situ if high-grade dysplasia
+¢ may contain invasive carcinoma (“malignant polyp” - 3-9%): invasion into submucosa
++ malignant potential related to histological type: villous > tubulovillous > tubular
+
+Figure 15. Sessile and pedunculated
+polyps
+
+Table 21. Characteristics of Tubular vs. Villous Polyps
+
+Tubular Villous
+Incidence ‘Common (60-80%) Lesscommon(10%)
+Size Small (2m) Large (usually>2 cm)
+‘tachment Pedunculated Sessile
+Malignant Potential Lower Higher
+Distribution fven Let sided predominance
+
+Investigations
+
++ colonoscopy with biopsy/resection (gold standard)
+
++ CT colonography: increasing in availability; patients still require bowel prep and will require colonoscopy if
+polyps are identified
+
++ flexible sigmoidoscopy: if polyps are detected, proceed to colonoscopy for examination of entire bowel and
+biopsy
+
+Treatment
++ indications: symptoms, malignancy, or risk of malignancy (i.e. adenomatous polyps)
++ endoscopic removal of entire growth
++ indications for segmental resection for malignant polyps: 1) lymphovascular invasion; 2) tumour budding;
+3) positive resection margin; 4) poorly differentiated cells; 5) evidence of regional or distant metastases on
+stagins
+w most of these cases are usually discussed at multidisciplinary tumour boards
+follow-up endoscopy:
+= every 5 yr: iflow-risk adenoma (<10 mm sessile serrated without dysplasia)
+= every 3yr: ifhigh-risk adenoma (3-10 tubular adenomas, >10 mm tubular or serrated polyp, adenoma
+with villous features or high grade dysplasia, or sessile serrated with dysplasia)
+other low-risk adenomas and non-adenomatous polyps may be followed up with FIT every 5-10 yr

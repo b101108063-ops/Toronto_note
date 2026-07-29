@@ -1,0 +1,72 @@
+ELOM25 Ethical, Legal, and Organizational Medicine
+
+Clinical Informatics and Eth
+
+Key Terms
+
+Health Informatics
++ isthe study of information design and use in healthcare
+
+Clinical Informatics
+
+is the application of health informatics knowledge in the clinical setting to promote quality care. It has
+three domains: collection of longitudinal personal health information for direct patient care, exchange
+of health information between services and locations, and aggregation of health data for analysis using
+analytics, artificial intelligence, and machine learning
+
+Digital Health
++ isthe use of information technology and electronic communication tools, services, and processes to deliver
+healthcare services
+
+Overview of Digital Health Technologies
+
+Table 6. Overview of Digital Health Technologies and Relevant Ethical Considerations
+
+Digital Health Technologies Definitions Ethical Considerations
+EMR (Electronic Medical Record) System of electronically sored patent health Impact of threats to healthcare information
+information na digital format Privacy ad confidently
+Secu beaches
+EHR (Electronic Health Record) Digital colection ofmedcalinfermation (9. patent's
+healthhistory, allergies, immunizations, reatment __$¥Stemimplementation
+plans, Data entry inaccuracies
+US {Laboratory Information System) Computer software that processes, stores, and
+manages data fromall stagesof medal processes
+andtests
+
+PACS (Picture Archiving and Communication System) Computer software providing storage and acessto
+images trom multiple modalities
+
+Indige Heal
+
+Overview of the History and Impact of Colonialism
+
+the Indigenous health crisis that exists today is a result of many factors, including the impact of colonial
+laws, oppression, and genocide
+
+Indigenous health is deeply connected to the land and freedom that have been systematically stolen from its
+people
+
+physicians can consider how oppressive legislation plays a role in precluding many Indigenous patients
+from experiencing health
+
+you might find this timeline outlining “Key Moments in Indigenous History” helpful: http://education.
+historicacanada.ca/files/426/Key_Moments_in_Indigenous_History_Timeline.pdf
+
+long before the arrival of European newcomers, Indigenous peoples lived on and cared for Turtle Island
+(now known as North America). This history is richly steeped in culture, relationships, and a holistic
+worldview. The Indigenous peoples had a flourishing trade, complex social and legal systems, and scientific
+knowledge about astronomy, ecology, agriculture, and medicine. Despite hundreds of years of adversity,
+Indigenous peoples and their rich cultures persist and thrive today - an indication of the resilience and
+tenacity of Indigenous peoples and communities
+
+upon European arrival, Indigenous and non-Indigenous people formed friendships based on mutual
+respect. These relationships were formalized through treaties. Treaties provided a framework for
+relationships and the sharing of Indigenous lands in a peaceful and respectful way
+
+one example of how treaties were documented and enacted was through wampum belts. Wampum belts are
+intricate visual displays made from clam shells. These belts serve as a living record of agreements. The two-
+
+row wampum belt is particularly important for understanding the relationship between Indigenous peoples
+and Europeans
+
+Toronto Notes 2025

@@ -1,0 +1,291 @@
+===== SECTION: 806 =====
+## Page 806
+
+MII6 ‘Medical Imaging
++ findings:
+«= cardinal signs: thickened wall, mesenteric infiltration, gas-filled diverticula, abscess
+CT can be used for percutaneous abscess drainage before or in lieu of surgical intervention
+sometimes difficult to distinguish from perforated cancer (send abscess fluid for cytology and follow up
+with colonoscopy)
+«= ifchronic, may see fistula (most common to bladder) or sinus tract (linear or branching structures)
++ management: ranges from antibiotic treatment to surgical intervention; can use imaging to follow
+progression
+
+Acute Pancreatitis
+«+ pathogenesis: activation of proteolytic enzymes within pancreatic cells leading to local and systemic
+inflammatory response (see Gastroenterology, G48); a clinical/biochemical diagnosis
+best imaging modality: imaging used to support diagnosis and evaluate for complications (diagnosis
+cannot be excluded by imaging alone)
+= U/S good for screening and follow-up
+= CTis useful in advanced stages and in assessing for complications (Ist line imaging test)
+findings:
+US hypoechoic enlarged pancreas (if ileus present, gas obscures pancreas)
+= CT: enlarged pancreas, edema, fat stranding with indistinct fat planes, mesenteric and Gerota’s fascia
+(renal fascia) thickening, pseudocyst in lesser sac, abscess (gas or thick-walled fluid collection),
+pancreatic necrosis (low attenuation gas-containing non-enhancing pancreatic tissue), hemorrhage
+management: supportive therapy
+= CT-guided needle aspiration and/or drainage of abscess when clinically indicated
+= pseudocyst may be followed by CT and drained if symptomatic
+
+Chronic Pancreatitis
+. pathogenesis: (see Gastroenterology, G50)
+est imaging modality: MRCP (can show calcification and duct obstruction)
++ findings: U/S, CT scan, and MRI may show calcifications, ductal dilatation, enlargement of the pancreas,
+and fluid collections (e.g. pseudocysts) adjacent to the gland
+
+Angiography of Gastrointestinal Tract
+
++ anatomy of the arterial branches of the GI tract
+= celiac artery: hepatic, splenic, gastroduodenal, left/right gastric
+. superior mesenteric artery: guna, ileal, ileo-colic, right colic, middle colic
+« inferior mesenteric artery: left colic, superior rectal
++ imaging modalities
+= conventional angiogram: invasive (usual approach via femoral puncture), catheter used
++ flush aortography: catheter injection into abdominal aorta, followed by selective arteriography of
+individual vessels
+= CT angiogram: modality of choice, non-invasive using IV contrast (no catheterization required)
+
+Urological Imaging
+
+Kidney, Ureter, and Bladder (KUB) X-Ray
+
++ a frontal supine radiograph of the abdomen
+
++ indication: useful in evaluation of radiopaque renal stones (exceptions: uric acid and indinavir stones),
+indwelling ureteric stents/catheters, and foreign bodies in abdomen
+
++ findings: addition of IV contrast excreted by the kidney (intravenous urogram) allows better visualization
+of the urinary tract but has been largely replaced by CT urography
+
+Abdominal CT
+Renal Masses
+
++ Bosniak classification for cystic renal masses
++ class -Il-benign and can be disregarded
+
+class ITLLV: suspicious for malignancy, requiring additional workup
+
+Toronto Notes 2025
+
+i)
+
+Computed Tomography and Ultrasonography to
+Detect Acute Appencictisin Adult and Adolescents
+Aan intern Med 2004141537545
+
+Purpose: Torevew the dagnstic accuracy of CT and
+sin the diagnosis of acite appendicitis
+
+Methods: Meta-analysis of prospective tues
+craluatng the use of Cor US, followed by surgical
+
+or cinical follow-up in patients wth suspected
+appendicitis Patents2 14 yr witha cnical suspicion of
+appendicitis were eligible Sensitivity and specifiy
+sng surgery or nicl follow pas the old standard
+werethe main outcomes studied
+
+Results: Twentytwo studies were induded. CT (12
+studies) had an overall sensitivity of 0.94 95%C1
+(09-0.95) anda specificity of 0.95(0.93-096). USE
+studies) had an overall sensitivity of 0.86 (0.83-0.8)
+anda specfiity of 0.81(0.78-0.84,
+
+Conclusion:
+appended adden oh
+verfcaton bis and inappropriate blinding of ference
+standards were noted inthe ined studies
+
+@
+
+Ulrasound, Computed Tomography o Magnetic
+ResonancelmagingforAcate Appendicitis
+Gilden
+
+Pediat Radiol 207,47: 186196
+
+Purpose: Comparetheacuacesof US, CT, and MRI
+forcinicalysuspeded act appnditisin chien
+Methods: Search and meta-analysis. The sens,
+spectcty andthe area under the curve of summary
+receiver operating characteristics were calcuated
+
+and compared
+
+Rests 19 stuiesof US, tudes of CT and studies
+cf WAI, The analysis showed that the area unde the
+receiver operator characteristics curve of Ml (0995)
+wasalitle higher than that ofS (0.987) andCT
+(0982; P05),
+
+Conclusion: WS, CT, and MRI have high diagnostic
+acuraesof incl suspected acute appenicisn
+children over wth no significant terence
+
+Angiography requires active blood loss
+‘41.5 mLmin under optimal conditions for
+a bleeding site to be visualized in cases of
+ower Gi bleeding
+
+Imaging Modality Based on Presentation
+Acute testicular pain = Doppler, U/S
+Amenorthea = U/S, MRI (brain)
+Bloating = Plain film/CT (if abnormal)
+Flank pain = UIS, CT
+
+Hematuria = U/S, Cystoscopy, CT
+Infertility = HSG, MRI
+
+Lower abdominal mass =U/S, CT
+Lower abdominal pain = UIS, CT
+Renal colic = U/S, KUB, CT
+
+Testicular mass = U/S
+
+Urethral stricture = Urethrogram
+
+-e 
+
+===== SECTION: 807 =====
+## Page 807
+
+MII7 ‘Medical Imaging
+
+Table 12. Bosniak Classification for Cystic Renal Masses
+
+Classes Definition
+‘Simple Renal Cysts
+Class Fuid attenuating wel-defined lesion, no septation, no cakification, no solid
+components haiti thin wall
+Class Same as class + fine calcification or moderately thickened calcification in septae or
+
+alls abo indudes hyperdense cysts (<3 cm) that do not enhance with contrast
+
+“Clas IF: multiple haitine-thin septa with minimal tickeni
+tissue components, completely intrarenal non-enhancing hi
+lesions >3.am
+
+no enhancing soft
+attenuating renal
+
+‘Complex Renal Cysts
+Clas Thick irregular walls scaltications »septated, enhancing walls, or septa with
+contrast
+
+Renal Cell Carcinoma
+
+Class IV Same as clas + soft tissue enhancement with ontrast defined as >10 Hounsfeld
+unit increase, characterizing vascularity) with de-enhancementinvenous phase +
+
+areas of necrosis
+
+plain CT KUB indications: general imaging of renal anatomy, renal colic symptoms, assessment of renal
+calculi (size and location) and potential sequelae (infection and obstruction), and hydronephrosis prior to
+urological treatment
+CT urography indications: investigation of cause of hematuria, detailed assessment of urinary tracts
+(excretory phase), high sensitivity (95%) for uroepithelial malignancies of the upper urinary tracts,
+assessment of renal calculi
+
+= phases: unenhanced, excretory
+renal triphasic CT indications: standard imaging for renal masses, allows accurate assessment of renal
+arteries and veins, better characterization of suspicious renal masses - especially in differentiating renal
+cell carcinoma from more benign masses, and preoperative staging
+
+= phases: unenhanced, arterial and venous (nephrographic), excretory
+
+Ultrasound
+
++ indications: initial study for evaluation of kidney size and nature of renal masses (solid vs. cystic masses,
+simple vs. complicated cysts); modality of choice for screening patients with suspected hydronephrosis (no
+IV contrast injection, no radiation exposure, and can be used in patients with renal failure); TRUS useful to
+evaluate prostate gland and guide biopsies; Doppler U/S to assess renal vasculature
+
+findings: solid renal masses are echogenic (bright on U/S), cystic renal masses have smooth well-defined
+walls with anechoic interior (dark on U/S), and complicated cysts have internal echoes within a thickened,
+irregular wall
+
+Retrograde Pyelography
+
+indications: visualize the urinary collecting system via a cystoscope, ureteral catheterization, and
+retrograde injection of contrast medium, visualized by radiography or fluoroscopy; ordered when the
+intrarenal collecting system and ureters cannot be opacified using intravenous techniques (patient with
+impaired renal function, high grade obstruction, or allergy to IV contrast)
+
+findings: only yields information about the collecting systems (renal pelvis and associated structures), no
+information regarding the parenchyma of the kidney
+
+Voiding Cystourethrogram
+
++ bladder filled with contrast to the point where voiding is triggered
+
++ fluoroscopy (continuous, real-time x-ray) to visualize bladder during voiding
+
++ indications: males or young females with recurrent UTIs, hydronephrosis, hydroureter, suspected lower
+urinary tract obstruction, suspected bladder trauma, or Vesicoureteral reflux
+
++ findings: evaluation of bladder contractility and evidence of vesicoureteral reflux
+
+Retrograde Urethrogram
+
++ asmall Foley catheter placed into penile urethral opening, followed by instillation of contrast and
+radiographic imaging
+
+indications: used mainly to study strictures or trauma to the male urethra; first-line study if signs of
+
+urethral injury are present (i.e. trauma with blood at the urethral meatus, scrotal hematoma, or high-riding
+
+prostate)
+
+MRI
+
++ advantages: better contrast resolution and tissue discrimination, lack of exposure to ionizing radiation,
+safer contrast, ability to obtain imaging directly from multiple planes (coronal, sagittal, oblique)
+
++ indications: indicated over CT for depiction of renal masses in patients with previous nephron-sparing
+surgery, patients requiring serial follow-up (less radiation dosage), patients with reduced renal function,
+patients with solitary kidneys, clinical staging of prostate cancer (endorectal coil MRI)
+
+Toronto Notes 2025
+
+Figure 23. Triphasic CT of an
+angiomyolipoma: showing fat
+density with non-contrast scan,
+mildly enhancing with contrast
+
+Utrasonography vs. Computed Tomography for
+Suspected Nephroithiais
+
+NeIM2014371: 1100-10
+
+Purpose: Investigate whether the inital imaging
+method or patient wth suspected nephrolthiasis
+shouldbe Cor US.
+
+Methods: Multicenter, pragmatic, comparative
+effectienes trial randomly assigned patients in
+the ED wth suspected nephrolitiai to undergo
+initial diagnostic utrasonography performed by an
+emergency physician POCUS), IS performed by
+aratilogs, or abdominal CT. Comparisons: 304
+incidence of highsisk diagnoses wth complications
+that could berelated to missed or delayed diagnos
+andthe 6 mo cumulative radiation exposure.
+
+Results: total of 2759 patients underwent
+randomization. Te incidence ofhigh-isk diagnoses
+with complicationsin the fist 30d didnot vary
+according to imaging method. The mean 6 mo
+cumulative radiation exposure was significantly
+lower inthe WS groups. averse events were similar
+across groups. Return ED vit, hasptalzatons, and
+agnostic accuracy i not fer significantly among
+the groups.
+
+Conclasions: nit ultrasonography was associated
+ower cumulative radiation exposure than
+
+initial CT, without signfcantdferencesin highisk
+diagnoses with complications erousadveseevents,
+pain scores return ED visits, ot hospitalizations.
+
+-e 

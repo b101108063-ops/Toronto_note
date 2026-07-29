@@ -1,0 +1,74 @@
+1D46 Infectious Diseases Toronto Notes 2025
+
+* can occur in response to multiple infections, including:
+= Mycobacteria (tuberculosis, avium complex)
+= Cryptococcus
+Pneumocystis
+Toxoplasma
+HBV and HCV
+herpes viruses (VZV reactivation, HSV, CMV)
+JC virus (progressive multifocal leukoencephalopathy)
+Molluscum contagiosum
+= COVID-19
+clinical features are dependent on the type and location of the pre-existing infection
+thought to be worse with quick increase in CD4 count and with lower pre-treatment CD4 count
+non-HIV conditions with documented immune reconstitution inflammatory syndrome (IRIS): solid organ
+transplant recipients, post-partum women, neutropenic patients, anti-TNF therapy
+
+Epidemiology
++ in HIV-positive patients starting ART, IRIS reported to affect ~10%
+
+Investigations
++ IRISis a diagnosis of exclusion
++ rule out drug reaction, medication non-adherence, drug resistance
+
+Treatment
+
+continue ARV therapy in HIV-positive patients with mild-moderate symptoms, but consider
+discontinuation if symptoms are life-threatening or potentially irreversible
+
+treat underlying infection; initiate treatment for some infections prior to ARV initiation
+consider starting corticosteroids/NSAIDs to decrease inflammatory response
+
+A Simplified Look at Antibiotics
+
+general overview, see Table 34, 1D49 for more details
+
+Table 33. Antibiotics Overview
+
+Class and Drags e ‘Anacrobes a Atypicals Other
+Streptococcus Staphyococus spp. Enterococcus C.dlficile 4. ‘Weisseriaspp. Bacili(e.g. Pseudomonas Legionella, Rickettsia Chlamydia Syphilis
+fe ae in fuensoe Chlamyéi trachomatis
+SMS MRSA OE  Klebsito pneumoniae,
+soprophyticus foecalis faecium ‘meningitidis gonorrhoeae °PP-) Mycoplasma
+PENICILUNS
+Periciling (vy) v y
+Periilinv (PO) Oral
+anaerobes
+exeyt
+Gram()
+eg.8
+‘tragils
+Ampicilin (WV) v v v
+‘Amoxicilin (PO) Oral
+anaerobes
+except
+Gram(-)
+eg.8.
+fragiis
+Cloxacillin v v
+“+f-LACTAM COMBINATION AGENTS
+Amoxicillin- v v v v v v v
+clavulanate:
+Piperacillin’ v v v v v v v v v
+tazobactam
+ceftolozane- v v v
+‘tazobactam
+Ceftrazidime- v v v
+avibactam*
+Meropenem- v v v
+vaborbactam”
+Imipenem- v v v
+telebactam*
+
+“Available in Canada trough the Specal Access Program

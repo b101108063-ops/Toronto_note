@@ -1,0 +1,112 @@
+AlO Anesthesia
+
+accidental extubation
+
+insufficient cuff inflation or cuff laceration: results in leaking and aspiration
+laryngospasm (see Extubation, A20, for definition)
+
+bronchospasm
+
+Difficult Airway
+
+difficulties with bag-mask ventilation, supraglottic airway, laryngoscopy, passage of ETT through the cords,
+infraglottic airway, or surgical airway
+algorithms exist for difficult airways (Can J Anesth 2013;60:1119-1138), see Appendices, A30
+preoperative assessment (history of previous difficult airway, airway examination) and pre-oxygenation are
+important preventative measures
+if difficult airway expected, consider:
+= awake intubation
+«= intubating with bronchoscope, fiberoptic laryngoscope, video laryngoscope, etc.
+if intubation unsuccessful after induction:
+1. CALL FORHELP
+2. ventilate with 100% O: via bag and mask
+3. consider returning to spontaneous ventilation and/or waking patient
+if bag and mask ventilation inadequate:
+. CALL FOR HELP
+2. attempt ventilation with oral airway
+3. consider/attempt LMA
+4, emergency invasive airway access (e.g. surgical or percutaneous airway, jet ventilation, and
+retrograde intubation)
+
+Oxygen Therapy
+
+in general, the goal of O: therapy is to maintain arterial O: saturation (SaO2) >90%
+
+small decrease in saturation below SaO: of 90% corresponds to a large drop in PaO2
+
+in intubated patients, O2 is delivered via the ETT
+
+in patients not intubated, there are many 0: delivery systems available; the choice depends on O2
+requirements (FiO:) and the degree to which precise control of delivery is needed
+
+Low Flow Systems
+provides O: at flows between 0-10 L/min
+acceptable if tidal volume 300-700 mL, respiratory rate (RR) <25 breaths/min, consistent ventilation
+attern
+dilution of O2 with room air results in a decrease in FiO2; thus, an increase in minute ventilation (tidal
+volume x RR) results in a decrease in FiO2
++ eg. nasal cannula (prongs)
+«= well tolerated if flow rates <5-6 L/min; drying of nasal mucosa at higher flows
+= nasopharynx acts as an anatomic reservoir that collects O2
+= delivered 02 concentration (FiO2) can be estimated by adding 4% for every additional litre of O2
+delivered
+= provides FiO: of 24-44% at O2 flow rates of 1-6 L/min
+
+Reservoir Systems
++ use a volume reservoir to accumulate O: during exhalation, thus increasing the amount of 0: available for
+the next breath
++ simple face mask
+= covers patient’s nose and mouth and provides an additional reservoir beyond nasopharynx
+= fed by small bore 02 tubing at a rate of at least 6 L/min to ensure that exhaled CO: is flushed through the
+exhalation ports and not rebreathed
+«= provides FiO: of 55% at O2 flow rates of 10 L/min
++ non-rebreather mask
+= areservoir bag and a series of one-way valves prevent expired gases from re-entering the bag
+= during the exhalation phase, the bag accumulates with O>
+= provides FiO: of 80% at O> flow rates of 10-15 L/min
+
+High Flow Systems
+generate flows of up to 50-60 L/min
+meet/exceed patient's inspiratory flow requirement
+deliver consistent and predictable concentration of O2
+Venturi mask
+«= delivers specific FiOz by varying the size of air entrapment
+= 02 concentration determined by mask’s port and NOT the wall flow rate
+= enables control of gas humidity
+= FiQ> ranges from 24-50%
+
+Toronto Notes 2025
+
+Ifyou encounter difficulty with tracheal
+intubation, oxygenation and ventilation
+takes priority over intubation
+
+3
+
+%
+
+90
+80
+n
+60
+50
+40
+30
+2
+0
+
+0
+
+© Joshua Lai 2014
+
+0 10 20 30 40 50.60 7080 90 100
+Pa
+
+Figure 8. HbO2 saturation curve
+
+Composition of Air
+781% nitrogen
+209% oxygen
+0.9% argon
+
+0.04% carbon dioxide

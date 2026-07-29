@@ -1,0 +1,181 @@
+1D30 Infectious Diseases
+
+Table 24. Anti-Retroviral Drugs
+
+Class. Drugs Mechanism ‘averse Effects
+Nucleoside reverse ‘abacavir (ABC) Incorporated into the rowing viral DNA Lactic addosis(otten secondary to mitochondrial
+transcriptase inhibitors emtvicitabine (FTC) chain, thereby competitively inhibiting toxicity)
+(NRTIS) lamivudine (3TC) reverse transciptase and terminating viral Lipodystrophy
+
+tenofovir disoproxil fumarate (TDF) DNA growth Rash
+
+tenofovir alatenamide (TAF) Nausealvoniting(iarthea
+
+‘idovudine (AZT) Bone marrow suppression (AZT)
+
+‘didanosine (dl)
+
+stavudine (447)
+
+Combination Tablets:
+ATISTC (Combivir®)
+AATISTCIABC (Iriivr®)
+AABCISTC (Kivexa®)
+TDFFIC (Truvada®)
+TAFIFTC (Descovy®)
+
+Non-nucleosidereverse delavidine DLV)
+transcriptase inhibitors doravirine (DOR)
+(NNRTIS) cfaviene(EFZ)
+etravrine (ER)
+nevirapine (NVP)
+ripivirne (RPV)
+Protease inhibitors Pls)" atazanavir (ATV)
+amprenavir (APY)
+darunavir ORV)
+
+darunavirlcobicistat(DRVIC)
+
+lopinavirritonav(LPWi)
+nelfinavr (NEV)
+ronavir TV)
+tipranavir (TPH)
+indinavir
+Integrase strand transfer bictegravir
+inhibitors (INSTI) ‘abotegravir
+dolutegravie (016)
+elvitegravir(EV6)
+rategravir RAL)
+Fusion inhibitor enfwrtide (1-20)
+(only usedif resistance)
+
+CCRS antagonist mmaraviroc (VC)
+
+Non-compettvely inhibit function of reverse
+‘transcriptase, thereby preventing viral RNA
+replication
+
+Prevent maturation of infectious virions by
+inhibiting the cleavageof polyprotein
+
+Inhibit integration of HIV DNA int the
+human genome thu preventing HIV
+replication
+
+Inhibit viral fusion with Fels by nhibting
+‘gp41, preventing cell infection
+
+Inhibit viral entry by blocking host CCRS
+co-teceptor
+
+Peripheral neuropathy dl, 4)
+Drug induced typersenstvty (ABC)
+Pancreatts(dlidaT)
+
+Myopathy (AZT)
+
+Rash, Stevens-Johnsonsyndrome
+HS: dizziness, insomnia, somnolence, abnormal
+reams (EF2)
+
+Hepatotoxiity (MVP avoid infemales withCD4
+>B50, men withD4 400)
+
+CYP3AA interactions
+
+Lipodystrophy, metabolic syndrome
+Nausea/vomiting(iarrhea
+
+(indinavir)
+
+Hyperbiirubinemia (AT, indinavir)
+CYPBAA interactions
+Hyperlipidemia
+
+Injection ite reactions, rash, infection, darthea,
+nausea, fatigue
+Fever, cough, diziness
+
+“Standard of careistopharmacologicaly boost most ls with rRonav to increase concentrations
+
+Single Tablet ART Regimens
+
++ reduces pill burden and increases adherence
+
++ generally better tolerated
+
+Table 25. Single Tablet ART Regimens
+
+Name Contents ‘Common Side Effects
+
+Biktarvy® bictegravirlemticitabinetenotoviralafenamide ‘good side efect profile
+
+Genvoya® tenofovidemtrickabine/elvitegravirkobkcstat ‘good side efect profile
+
+Complera® tilpvirinefemticitabine!tenofovir ‘good side efect profile
+
+Odetsey® tilpvirinefemiticitabine!tenofovi alafenamide (good side effect profile
+
+Stibild® ehvitegravrlcobicstatlemtrcitabine/tenofovir (good side effect profile
+
+Triumeg® dolutegravifabacavir/lamivudine ‘Good side effect profile; use only in HLAB'S70 negative patients
+Atripla® efavirenztenofovilemtrictabine psychiatric events, vivid dreams
+
+Recommended ARV Regimens for Treatment-Naive HIV-infected Adults
++ initial regimens for treatment (most include an integrase inhibitor and a pair of NRTIs):
+
+1. bictegravir/TAF/ETC
+
+2. DTG/ABC/3TC (in patients confirmed to be HLB*5701 negative)
+
+3, DTG + (TAF or TDF)/(FTC or 3TC)
+4, raltegravir + TAF (or TDE)/FTC
+
+5. DTG/3TC
+
++ note: not all regimens are available in all regions
+
+Recommended ARV Regimens for Individuals of Childbearing Potential
++ before beginning an INSTI-containing treatment regimen in individuals of childbearing potential, the
+
+following should be considered:
+= completing a pregnancy test
+
+= adiscussion on risks and benefits of dolutegravir, and lack of information on other INSTIs
+
+= for individuals attempting to conceive: RAL + TDF/FTC, TDE/3TC, or ABC/3TC are preferred regimens;
+
+DTG regimens to be used as an alternative only
+
+= for individuals not attempting to conceive but are sexually active and not using contraception, consider
+
+effectiveness/tolerability, patient preferences in decision
+
+= for individuals using effective contraception, treatment approach is similar to that of individuals in the
+
+general population with HIV
+
+Toronto Notes 2025
+
+Lactic Acidosis.
+‘Occurs secondary to mitochondrial toxicity
+‘Symptoms include abdominal pain, fatigue,
+nauseaivomiting, muscle weakness
+
+Lipodystrophy
+Body fat redistribution (mainly with old
+ARVS)
+
+Upohypertrophy (e.g. dorsal fat pad, breast
+enlargement, increased abdominal girth)
+thought o be caused primarily by protease
+inhibitors
+
+Upoatrophy (e.g facial thinning, decreased
+adipose tissue in the extremities) is thought
+to be caused by thymidine analogue NRTIs.
+such as d4T and AZT
+
+Metabolic abnormalities: lipids (increased
+DL, increased T6s), glucose (insulin
+resistance, T2DM), increased risk of CVD.

@@ -1,0 +1,122 @@
+O26 Otolaryngology
+
+Diagnosis
+clinical diagnosis requires >2 major symptoms, and at least one of the symptoms is either nasal obstruction
+or purulent/discoloured nasal discharge
+
+can confirm diagnosis with CT of paranasal sinuses and/or endoscopically
+
+CT indicated only if complications are suspected
+
+Diagnostic Criteria for Acute Bacterial Rhinosinusitis
+
+Major Symptoms fat least2 of PODS, 1 must be 0 orD) Minor Symptoms
+
+P Facal Pain/Pressure/fuliness Headache
+
+0 Nasal Obstruction Halitosis
+
+D Purulent/discoloured nasal Discharge Fatigue
+
+s Hyposmia/anosmia (Smell) Dental pain
+Cough
+Earpainfulness
+
+Management
+
++ depends on symptom severity (i.e. intensity/duration of symptoms, impact on quality of life)
++ mild-moderate: INCS
+= ifno response within 72h, add antibiotics
+severe: INCS + antibiotics
++ antibiotics
+= Ist line: amoxicillin x 10 d (TMP-SMX or macrolide if penicillin allergy)
+if no response to Ist line antibiotics within 72 h, switch to 2nd line
+= 2nd line: fluoroquinolones or amoxicillin-clavulanic acid
+adjuvant therapy (saline or hypochlorous acid (pediatric sinusitis) irrigation, analgesics, oral/topical
+decongestant) may provide symptomatic relief
+
+Chronic Rhinosinusitis
+
+Definition
++ inflammation of the mucosa of paranasal sinuses and nasal passages >12 wk
+
+Etiology
++ unclear etiology but the following may contribute or predispose
+= inadequate treatment of acute rhinosinusitis
+= untreated dental disease
+= anatomic factors (lost ostium patency, deviated septum)
+= local physiologic factors
++ ciliary disorder (e.g. cystic fibrosis, Kartagener syndrome, primary ciliary dyskinesia)
++ bacterial colonization/biofilms (S. aureus, Enterobacteriaceae spp., Pseudomonas spp., S.
+pneumoniae, group A Streptococcus)
++ fungal infection (e.g. Aspergillus, Zygomycetes, Candida)
+= systemic physiologic factors
++ allergy/allergic rhinitis
+¢ chronic inflammatory disorder (e.g. GPA)
+
+Diagnosis
++ diagnosis requires >2 major symptoms for >12 wk and >1 objective finding of inflammation of the
+paranasal sinuses (CT/endoscopy)
+
+Diagnostic Criteria for Chronic Rhinosinusitis
+
+Major Symptoms (similar to acute, bt less severe) Minor Symptoms
+G Facal Congestioniullness Halts
+P Facial Pain/Pressure/fuliness Chronic cough
+0 (Chronicnasal Obstruction Maxilary dentalpain
+D Purulentanterior/posterior nasal Discharge
+s Hyposmia/anosmia (Smell)
+Management
+
++ identify and address contributing or predisposing factors
+
+obtain CT or perform endoscopy
+
+surgeon
+
+antibiotics for 3-6 wk
+
+if polyps present: INCS, oral steroids + antibiotics (if signs of infection), refer to otolaryngologist/H&N
+
+if polyps absent: INCS, antibiotics, saline irrigation, oral steroids (severe cases)
+
+* amoxicillin-clavulanic acid, fluoroquinolone (moxifloxacin), macrolide (clarithromycin), clindamycin,
+
+metronidazole
+
++ surgery if medical therapy fails or fungal sinusitis: ESS, balloon sinuplasty
+
+Complications
++ same as acute sinusitis, mucocoele
+
+Toronto Notes 2025
+
+2)
+
+SystemicCorticosteroid Therapy or Acute Sinusitis
+SAMA2ON5 Ma;313 (12): 1258-1259
+
+Ginical Question: re oalor parenteral cartcosteroids
+associated with improved cinical outcomesin patents
+with acate sinusitis compared to placebo or NSAIDS?
+Concision: Oral cortasteros combined wth
+anibiticsmay be associated with modest benefit for
+short terme of symptomsin adults wth severe
+symptoms of acate sinusitis compared with antibiotics
+alone. Oral corticosteroids as monotherapy ae not
+associated with improved nical outcomesin adults
+with dnically diagnosed acute sinusitis.
+
+Allergic Fungal Rhinosinusitis
+
+A chronic sinusitis affecting mostly young,
+immunocompetent, atopic individuals
+Treatment options include functional
+SS + intranasal topical steroids and
+‘immunotherapy
+
+ESS = Endoscopic Sinus Surgery
+Opening of the paranasal sinuses in order
+to facilitate drainage while sparing the
+sinus mucosa
+

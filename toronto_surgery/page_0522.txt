@@ -1,0 +1,128 @@
+6830 General and Thoracic Surgery
+
++ IBD
++ history of foreign body ingestion
+
+Clinical Features
++ symptoms: colicky periumbilical abdominal pain, N/V, obstipation, delayed passage/inability to pass flatus,
+inability to tolerate an oral diet
+= more feculent vomitus suggests more established obstruction because of bacterial overgrowth
+= passage of gas and/or stool that continues 6-12 h after onset of symptoms suggests partial rather than
+complete obstruction
+« inability to pass flatus is the most useful indicator
++ signs: abdominal distention (most prominent if obstruction at distal ileum), hyperactive proceeding to
+minimal bowel sounds, bloating, hypovolemia, hyperresonance with percussion
+strangulated obstruction: abdominal pain disproportionate to physical exam findings suggest intestinal
+ischemia
+= may have tachycardia, localized abdominal tenderness, fever, marked leukocytosis, and lactic acidosis
+
+Investigations
++ approach
+1, distinguish mechanical obstruction from ileus
+2. determine likely and easily reversible etiology of obstruction
+3. differentiate complicated (e.g. strangulated) obstruction
++ imaging
+= usually if you suspect a bowel obstruction, a CT scan is the first line. Further, once CT scan confirms
+a bowel obstruction, we perform 6 and 12 hour x-rays after giving water soluble contrast which is
+diagnostic for obstruction and often therapeutic
+= CT with IV contrast: discrete transition zone/point with proximal bowel dilation, distal bowel
+decompression, and intraluminal contrast does not pass the transition zone
+‘* most importantly to rule out ischemic bowel/strangulation: pneumatosis intestinalis (free air in
+bowel wall) and thickened bowel wall, air in portal vein, free intraperitoneal fluid, and differential
+wall enhancements (poor uptake of IV contrast into the wall of the affected bowel)
+= other (less common)
+¢ upper GI series/smal] bowel series (if no cause apparent, i.e. no hernias, and no previous surgeries)
+serial CTs with oral contrast
+¢ may consider U/S or MRI in pregnant patients
++ laboratory
+may be normal early in disease course
+CBC, electrolytes, BUN, creatinine, lactate
+creatinine and hematocrit to assess degree of dehydration
+may have fluid and electrolyte abnormalities with metabolic alkalosis due to frequent emesis
+if strangulation: leukocytosis with left shift, elevated lactate (late signs)
+
+Treatment
++ [Visotonic fluid resuscitation and urine output monitoring with catheter
+= SBO related vomiting and decreased PO intake leads to volume depletion
+NG tube in the stomach for gastric decompression; decrease nausea, distention, and risk of aspiration from
+vomiting
+NPO
+if partial SBO/Crohn’s/carcinomatosis: conservative management with fluid resuscitation and NG tube
+decompression
+= 48h of watchful waiting; if no improvement or develops complications, surgery
+= for Crohn’s patients, consider GI consult for steroid management
+if no clinical features of ischemia: short course of conservative management with fluid resuscitation and NG
+tube decompression with frequent re-examination by surgical team
+«= duration of observation varies from hours to a few days
+= if SBO fails to resolve, or if symptoms of ischemia develop, then surgery
+if high-risk for ischemia based on clinical symptoms: urgent surgery to prevent irreversible ischemia
+= early postoperative SBO: if bowel function does not return within 3-5 d after surgery; usually partial,
+extended conservative therapy (2-3 wk) with bowel rest, fluids, and TPN (total parenteral nutrition) is
+appropriate
+immediate surgery if ischemia, necrosis, and perforation
+= clinical signs: fever, leukocytosis, tachycardia, worsening pain, metabolic and lactic acidosis, and
+tachypnea
+= radiologic signs: free air on radiographs or CT, closed-loop obstruction, abnormal course of a
+mesenteric vessel, and high-density free fluid
+
+Prognosis
+
++ related to etiology; mortality: non-strangulating <1%, strangulating 8% (25% if >36 h), ischemic = up to
+50%
+
++ surgical intervention associated with a lower risk of recurrence
+
+Prevention
++ open surgery has four-fold increase in risk of SBO in 5 yr compared to laparoscopic surgery
+
+Toronto Notes 2025
+
+Increased Risk of Perforation with
+Distention as seen on Abdomen Imaging
+‘Small bowel >3 cm
+
+Distal colon 26 cm
+
+Proximal colon 29 cm
+
+Cecum>12cm
+
+Important to know ifchronic vs. acute.
+Chronic distention is more likely to be
+tolerated without perforation
+
+Patients with NO Abdominal Surgery
+History (“Virgin Abdomen’)
+
+Presenting witha SBO should have surgery
+ASAP (EXCEPTION: malignant obstruction
+from history and imaging)
+
+Patients with Abdominal Surgery History
+(*Non-virgin Abdomen”)
+
+Adhesional SBOs resolve spontaneously
+with NG tube decompression 70% of time
+
+Top 3 Causes of SBO (in order)
+
+ABC
+
+Adhesions
+
+Bulge (hernias)
+Cancer (neoplasms)
+
+Causes of SBO
+
+SHAVING
+Stricture
+
+Hernia
+
+Adhesions
+
+Volvulus
+Intussusception/IBD
+‘Neoplasm
+Gallstones

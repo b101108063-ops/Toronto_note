@@ -1,0 +1,106 @@
+Toronto Notes 2025
+
+Syncope
+
+Definition
++ sudden, transient loss of consciousness and postural tone with spontaneous recovery
++ usually caused by generalized cerebral or reticular activating system (brainstem) hypoperfusion
+
+Etiology
+
++ cardiogenic: dysrhythmia, outflow obstruction (e.g. PE, pulmonary HTN), MI, valvular disease
+
++ non-cardiogenic: peripheral vascular (hypovolemia), vasovagal, orthostatic, CNS, metabolic disturbances
+(e.g. hypoglycemia), drug-induced (e.g. EtOH, anti-hypertensive medication)
+
+History
++ Determine ifit is true syncope
+«= gather details from witnesses, and clarify patient’s experience (e.g. dizziness, ataxia, or true syncope)
+¢ two key historical features: prodrome and situation (setting, patient posture)
+« distinguish between syncope and seizure (see Neurology, N18)
+signs and symptoms during presyncope, syncope, and post-syncope
++ seizure has postictal period afterwards, syncope does not
++ myoclonic jerks is a sign of syncope, not seizure
+* past medical history, drugs
++ think anatomically in differential: pump (heart), blood, vessels, brain
+= signs of cardiogenic syncope
++ sudden loss of consciousness with no warning or prodrome
+
+Physical Exam
+
++ postural BP and HR
+
++ cardiac, respiratory, and neurological exams
+
++ examine for signs of secondary injury caused by syncopal episode (e.g. head injury)
+
+Investigations
+
++ ECG (tachycardia, bradycardia, blocks, Wolff-Parkinson White, long QT interval, Brugada Syndrome, right
+ventricular strain, ARVD, hypertrophic cardiomyopathy)
+
++ POCT capillary blood glucose
+
++ Blood work: CBC, electrolytes, BUN/Cr, VBG, troponin, Ca°*, Mg’, B-hCG, D-dimer
+
++ consider toxicology screen
+
+Management
+
++ ABCs, IV, O2 (If hypoxic), monitor
+
++ cardiogenic syncope: admit to medicine/cardiology
+
++ low-risk syncope: discharge with follow-up as indicated by cause (non-cardiogenic syncope may still be
+admitted)
+
+Disposition
++ decision to admit is based on etiology
++ most patients will be discharged
++ on discharge, instruct patient to follow up with family physician
+= educate about avoiding orthostatic or situational syncope
+= evaluate the patient for fitness to drive or work
+= patients with recurrent syncope should avoid high-risk activities (e.g. driving)
+
+Sexual Assault
+
+Epidemiology
++ Lin 5 women and 1 in 50 men will be sexually assaulted in their lifetime; only 7% are reported
+
+General Approach
+
++ ABCs, treat acute, serious injuries; physician priority is to treat medical issues and provide clearance
+
++ ensure patient is not left alone and provide ongoing emotional support
+
++ obtain consent for medical exam and treatment, collection of evidence, disclosure to police (notify police as
+soon as consent obtained); ideally by an experienced provider (generally a sexual assault nurse examiner)
+
+based on local guidelines/practices, may administer Sexual Assault Kit (document injuries, collect
+
+evidence) if <72 h since assault; ideally by an experienced provider
+
+label samples immediately and pass directly to police
+
++ offer community crisis resources (e.g. shelter, hotline)
+
+do not report unless victim requests or if <16 y/o (i.e. legally required)
+
+History
+
++ ensure privacy for the patient - others should be asked to leave
+
+* questions to ask: who, when, where did penetration occur, what happened, any weapons, or physical
+assault?
+
+* post-assault activities (urination, defecation, change of clothes, shower, douche, etc.)
+
+Emergency Medicine ER27
+
+Interprofessional teams are key; mary
+centres or regions have sexual assault
+teams who specialize in the assessment
+and treatment of sexual assault victims,
+leaving emergency physicians responsible
+only for significant injuries and medical
+clearance

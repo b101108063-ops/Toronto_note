@@ -1,0 +1,86 @@
+PS53 Psychiatry Toronto Notes 2025
+
+Antidepressants
+
++ onset of effect
+« relief of neuro-vegetative/physical symptoms: 1-3 wk
+« relief of emotional/cognitive symptoms: 2-6 wk
+
++ tapering of most antidepressants is usually required to avoid withdrawal reactions; speed of taper is based
+on the medication’s half-life and the patient’s individual sensitivity (i.e. fluoxetine does not require a taper
+due to its long half-life; paroxetine and venlafaxine require a slower taper than sertraline or citalopram)
+
++ must be vigilant over the first 2 wk of therapy; neuro-vegetative symptoms may start to resolve while
+emotional and cognitive symptoms may not (patients may be at risk for suicidal behaviour during this time,
+particularly in children/adolescents)
+
++ treatment of bipolar depression
+
++ patients with bipolar disorder (bipolar depression) should not be treated with an antidepressant as the first-
+line theraj
+
+. patients with bipolar disorder should only be treated with an antidepressant if combined with a mood
+stabilizer or antipsychotic; monotherapy with antidepressants is not advisable as it may provoke the
+emergence of mania
+
+= maintenance of patients with bipolar disorder with antidepressants is not advisable except in specific
+cases
+
+Table 18. Common Antidepressants
+
+Class Drug Daily Starting Dose img)’ Therapeutic Dose (mg) Comments
+
+SSR fluoxetine (Prozac®) 20 2080 ‘Useful for typical and atypical depression, seasonal depression, anxiety disorders, OCD, eating
+fluvoxamine Lavox®) 50-100 150-300 sorders
+paroxetine axi®) 10 2060 ‘NISSRIs have similar effectiveness but consider side effect profiles and half-lives
+sertraline Zoot) 50 50.200 CGtalopramand escitalopram have the fewest drg interactions andare sleep-wake neutral
+<italopram (Celexa) 2» 20-40 Sertalinets the safes SRIin pregnancy andbreastfeeding
+escitalopram (Cipraex®) 10 10-0 Fluoxetineis the mast activating SSR (recommend taking in the At)
+
+Fluoxetine doesnot requir a taper due to lng hal fe andi the most used in children and
+adolescents asithas most evidence inthat age group
+Fiuvoxamineis sedating (shouldbe taken in PM) and canbe involved in many drug-drug interactions
+For OCD, aim for maximum doses, sometimeshigher
+
+MRI venlafaxine (étfexor®) 515 15.205 Useful for depression, amcety disorders, neuropathic pain
+desvenlafaxine ristiq®) 50 50.100
+duloxetine (Cymbalta®) 30 30-60
+NOR! bupropion Wetbutin®) 100 300-450 Useful for depression, seasonal depression; not recommended for anxiety disorders treatment
+because of stimulating effects
+
+Causes esssenual dystunction (may reverse this elects of SSRISSNRs), weight gain, and sedation
+Increased risk of seizures at higher doses
+
+Contraindicated withhistory of seizure, stroke, brain tumour, brain injury closed head injury
+Important to specify formulation, as available inIR, SR, XL (longest)
+
+TCA(3® Amines) amitriptyline avi") 25-50 150-300 {Useful for 0C0 (clomipramine is gold standard), melancholic depression, canalsobe used in other
+imipramine (Tofranil®) 25-50 150-300 types of depression and anxiety disorders
+clomipramine (Anatanit®) 35-50 100-250 Requires E66 monitoring
+
+Gheckblood levels ifusing higher dosage
+HighY lethal in overdose
+TCA(2® Amines) nortriptyline (Aventy®) 25-50 75-160 Prefered to tertiary amines because of lower propensity for anticholinergic adverse effects
+desipramine (Norpramin®) 25-50 150-300 Requires ECG monitoring
+Checkblood levels ifusinghigher dosage
+Highl lethal in overdose
+MAOL phenelzine (Nardi®) 6 60-90 Useful for moderatelsevere depression that does notrespond to other antidepressants; atypical
+‘ranyleypromine Parnate®) 20 10-60 epression; aniety disorders
+Requies strict adberenceto MAO! diet, ow ty
+
+ne)
+
+RIMA modobemide (Manerix®) 300 300-600 ety disorders (e.g. socal phobia) and depression
+
+NaSSA mirtazapine (Remeron®) 6 15-45 Useful in depression with prominent features of insomnia, agitation, or cachexia Sedative is useful
+‘when insomnia is anissue
+
+SPARI vilazodone (Vibryd®) 0 1040 Useful inthose withcor 2s dirthea isa commonside effect
+
+SerotoninReceptor _vortoxetine (Trntelix®) 5 520 May improve cognitive function
+
+Modulator
+
+“For depression (start with this dose for treatment of anvety disorders)
+'NAOI= monoamine oxidase inhibitors; NaSSA~noraGrenergic and specific serotonergic agent; NOR! ~ norepinephrine and dopamine euptae inhibitors; RIMA-reversbe inhibition of MAO-A;SNRI serotonin and norepinephrine reuptake inhibitors;
+‘SR = selective serotonin reuptake inhibitors; TCA tricyclic antidepressants; SPARI= Serotonin partial agonist and reuptake inhibitor

@@ -1,0 +1,139 @@
+NSO ‘Neurosurgery
+
+Clinical Features
+
++ symptoms: H/A in >90%, nausea, transient visual obscurations, pulsatile tinnitus, diplopia can occur with
+CN VI palsy, neck/back pain
+
++ signs: CN VI palsy can occur (otherwise no neurologic deficits), visual acuity and field deficits, papilledema,
+optic atrophy
+
++ morbidity: risk of blindness and severe visual impairment (6-24% risk) are the major morbidity of
+idiopathic intracranial hypertension (IIH), but are not reliably correlated to duration, symptoms, or clinical
+course
+
++ clinical course: usually self-limited, recurrence in 10%, chronic in some
+
+Investigations
++ MRI brain (with and without contrast): slit-like ventricles and distended perioptic subarachnoid space, but
+otherwise normal
+= rule out: venous sinus thrombosis, mass, infection, hydrocephalus
++ LP findings
+= opening pressure >25 cmH20
+= normal CSF analysis
++ ophthalmologic: fields, acuity, papilledema
+
+Treatment
+
++ lifestyle change: encourage weight loss, fluid/salt restriction
+
++ pharmacotherapy: acetazolamide (decreases CSF production), thiazide diuretic, or furosemide; discontinue
+any medications contributing to the condition
+
++ surgery: if above fail, serial LPs (temporizing), optic nerve sheath fenestration (if progressive impairment of
+visual acuity), shunt placement (VP, lumboperitoneal)
+
++ long term: 2 yr follow-up, repeat imaging to rule out occult tumour, ophthalmology follow-up
+
+lydrocephalus
+
++ for hydrocephalus in children, see Pediatric Neurosurgery, NS41
+
+Definition
++ accumulation of excess CSF in the brain; functionally divided into obstructive and communicating
+= flow of CSF: produced by choroid plexus, lateral ventricles > interventricular foramen of Monro >
+3rd ventricle > cerebral aqueduct of Sylvius > 4th ventricle > foramina of Luschka (lateral aperture)
+and Magendie (median aperture) > subarachnoid space where CSF is reabsorbed by arachnoid villi/
+granulations into dural venous sinuses
+
+Classification
+Table 7. Classification of Hydrocephalus
+Disorder Definition Etiology Findings on CTI
+‘Obstructive (Non- (SF circulation Blocked within Acquired Ventricular enlargement proximal to block
+Communicating) ventricular system proximal to Aqueductal stenosis: adhesions after infection, (etlarged temporal horns, ballooning
+Hydrocephalus the arachnoid granulations hemorrhage; gsi, tumour (.g. pontine glioma)
+Intraventricular lesions: tumours, (e.g. 3d ventriclecoloid
+‘st, hematoma), mass causing tentorial herniation causing hydrocephalus)
+‘aqueduct/sthventrcle compression Perventricuarhypodensityucency
+Posterior fossa lesions: tumours, e.g. brain metastasis, _(transependymal migration of CSFforced
+medulloblastoma, ependymoma compromising 4th into extraceluar space)
+ventricle) Sulcal effacement, reduced visibility of
+Others: neurosarcoidosis, abscessigranuiomas, arachnoid Sylvianand interhemispherc fissures
+sts
+Congenitat Primary aqueductal stenosis, Dandy.
+Walker malformation, Arnold-Chiar malformation,
+myelomeningocele, encephalocele (see Pediatric
+Nearosurgery, WS41)
+Non-Obstructive Most commonly CSF absorption Post-infectious (#1 cause) -+ meningitis, abscess, ‘Alventrices dilated
+(Communicating) Blocked at extraventricuarsite cysticercasis
+Hydrocephalus arachnoid granulations, rarely Post-hemorrhagic (#2.cause)- SAH, IVH, traumatic
+SF absorptions overwhelmed Leptomeningeal carcinomatosis metastatic meningitis
+by increased production Choroid plexus papifoma
+Idiopathic » NPH
+NH Persistent ventricuardiation Idiopathic (50%) Enlarged ventricles without increased
+inthecontextof normal CSF Others: SAH, meningitis, trauma, radiation induced prominence of cerebral suld
+pressure
+Hydrocephalus ExVacuo Ventricular enlargement resulting Normal aging Enlarged ventricles and sulci
+
+fromatrophy of surrounding
+brain tissue
+
+Degenerative dementias: Aluheimer’s,frontotemporal,
+Creutzfeldt-Jakob disease (see Neurology, N27)
+
+Cerebral atrophy
+
+Toronto Notes 2025
+
+@
+
+Effect of Acetazlamide on Visual Functor
+Patients with Idiopathic Intracranial Hypertension
+and Mild Visual Loss (HTT)
+
+JAMA 201431116): 1681-1651
+
+Purpose: To determine whether acetazolamide and
+low-sodium weight reduction itis benefical in
+{improving vision compared to det aloe in patents
+with IH and mid visual oss.
+
+Methods: 165 patients wererandonized to either a
+‘ow sodium weight reduction diet plus the maximally
+tolerated dosage of acetazolamide o placebo for6 mo.
+Results: Acetazlamide was superioo placebo with
+regardsto perimeric mean deviation improvement
+(P=.05), papiedema gradeimprovement P<0.01),
+vison-telated quay of fe (0,003) and weight
+reduction (P<,00",
+
+Condusion:Acetazolamie wth low-sodium weight
+reduction diet rested in improvementin visual field
+functonin patients with Hand mild visual ss.
+
+CSF production = CSF reabsorption =
++500 mUd in normal adults
+
+Normal CSF volume ~150 mL (50% spinal,
+'50% intracranial » 25 mL intraventricular,
+50 mL subarachnoid)
+
+1. Lateral ventricles
+2. Choroid plexus
+
+3.Thirdventride
+
+4. Cerebral aqueduct (of Syvius)
+
+5. Fourth ventride
+
+6. Foramina of Luschka and Magendie
+7. Arachnoid granulations
+
+8. Subarachnoid space
+
+9. Confluence of sinuses (trcula)
+
+© Kari Francis 2004
+
+Figure 8. The flow of CSF

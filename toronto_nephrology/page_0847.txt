@@ -1,0 +1,96 @@
+NP27 ‘Nephrology
+
+IgA Vasculitis (Henoch-Schénlein Purpura)
+
++ systemic IgA vasculitis, tissue deposition of IgA 1-dominant immune complexes affecting mostly small
+vessels
+
++ seen more commonly in children
+
++ purpura on buttocks and legs, abdominal pain, arthralgia, and fever
+
++ IgA and C3 staining of mesangium
+
++ usually benign, self-limiting course, 10% progress to CKD
+
+ANCA-Associated Vasculitis
+
++ multi system or renal limited disease
+
++ c-ANCA (anti-Proteinase 3 (PR3)) most commonly associated with the clinical picture of granulomatosis
+
+with polyangiitis
+
+p-ANCA (anti-Myeloperoxidase (MPO)) most commonly associated with the clinical picture of microscopic
+
+polyangiitis
+
+focal segmental necrotizing RPGN (crescents) with no immune staining
+
+may be indolent or fulminant in progression
+
+vasculitis and granulomas rarely seen on renal biopsy
+
+treatment typically involves Steroids and cyclophosphamide/Rituximab
+
+plasmapheresis is indicated in severe renal disease and/or pulmonary hemorrhage
+
+Cryoglobulinemic Vasculitis
+
++ cryoglobulins: monoclonal IgM (Type 1) and polyclonal IgG (Type II and Type II) which precipitate at
+reduced temperatures, deposit in walls of small vessels
+
+presents as purpura, fever, Raynaud’s phenomenon, and arthralgias, AKI
+
+at least 50% of patients have HCV.
+
+renal disease seen in 40% of patients (isolated proteinuria/hematuria progressing to nephritic syndrome)
+most patients have decreased serum complement (C4 initially)
+
+treatment: address underlying cause (antiviral therapy for HCV, plasmapheresis, steroids,
+cyclophosphamide, myeloma therapy)
+
+overall prognosis: 75% renal recovery
+
+Shunt Nephritis
+
++ immune-complex mediated nephritis associated with chronically infected ventriculo-atrial shunts inserted
+for treatment of hydrocephalus
+
+commonly caused by S. epidermidis
+
+presents as acute nephritic syndrome with decreased serum complement
+
+nephrotic range proteinuria in 25% of patients
+
+treat by removing shunt and administering appropriate antibiotics; can consider a ventriculoperitoneal
+shunt (lowest risk for shunt nephritis)
+
+HIV-Associated Renal Disease
+1. direct nephrotoxic effect of HIV infection, anti-retroviral drugs (e.g. tenofovir, indinavir), and other drugs
+used to treat HIV-associated infections
+2. HIV-associated nephropathy
++ histology: focal and segmental glomerular collapse with mesangial sclerosis; “collapsing FSGS”
+= tubular cystic dilation and tubulo-reticular inclusions
+= clinical features: predominant in African American men, heavy proteinuria, progressive renal
+insufficiency (Apo-L-1 risk genotypes)
+= prognosis: kidney failure within 1 yr without treatment
+= therapy: short-term, high dose steroids, ACEI, HAART
+
+Infective Endocarditis
+
++ manifests as mild form of acute nephritic syndrome with decreased serum complement
++S. aureus is most common infecting agent
+
++ treatment with appropriate antibiotics usually resolves GN
+
+Hepatitis B
++ can result in membranous nephropathy, membranoproliferative GN, and polyarteritis nodosa
+
+Hepatitis C
++ can result in membranous nephropathy, membranoproliferative GN, and cryoglobulinemia
+
+Syphilis
++ can result in membranous GN
+
+Toronto Notes 2025

@@ -1,0 +1,128 @@
+Gs13 General and Thoracic Surgery
+
+Risk Factors
+
+preoperative HTN, CHF
+
+previous MI (highest risk <6 mo, but risk never returns to baseline)
+increased age
+
+intraoperative hypotension
+
+operations >3h
+
+angina
+
+Clinical Features
+
+* majority of cases on day of operation or POD #3-4 (shifting of third space fluid back into intravascular
+compartment)
+
+often silent without chest pain, may only present with new-onset CHF (dyspnea), arrhythmias, and
+hypotension
+
+Intra-Abdominal Abscess
+
+Definition
++ collection of pus walled-off from rest of peritoneal cavity by inflammatory adhesions and viscera
+
+Etiology
++ usually polymicrobial: Gram-negative bacteria, and anaerobes
+= consider Gram-positives if coexisting cellulitis
+
+Risk Factors
+
++ emergency surgery and contaminated OR
+
++ Gl surgery with anastomotic leak
+
++ poor healing risk factors (DM, poor nutrition, etc.)
+
++ may occur POD #3 after laparotomy when third space fluid redistribution occurs
+
+Clinical Features
+
+manifests at least 5-7 d after surgery. Cannot manifest earlier as it takes time to form collection
+persistent spiking fever, dull pain, and weight loss
+
+peritoneal signs if abscess perforation and secondary peritonitis
+
+leukocytosis or leukopenia (immunocompromised and elderly)
+
+coexisting effusion (pleural effusion with subphrenic abscess)
+
+mass is often difficult to palpate
+
+common sites if disseminated peritonitis: pelvis, Morrison’s pouch (space between kidney and liver),
+subphrenic, paracolic gutters, lesser sac or local peritonitis: peri-appendiceal, post-surgical anastomosis,
+diverticular, and psoas
+
+Investigations
+
++ CBC, blood cultures x2
+
++ CT + IV and water-soluble contrast
+
++ C&S from drain
+
+Treatment
+
++ drain placement by interventional radiology (preferred), laparoscopy, and open drainage
+
++ subsequent antibiotic coverage; ceftriaxone + metronidazole or piperacillin-tazobactam (Pip-Tazo)
+
+Paralytic Ileus
+
++ see Paralytic Ileus, GS31
+Delirium
+
+«see Psychiatry, PS23 and Neurology, N21
+
+Thoracic and Fo
+
+Approach to the Solitary Pulmonary Nodule
+
++ see Medical Imaging, MI8
+
+Definition
++ lesion up to 3 cm, which may or may not be calcified and is surrounded by normal lung
++ canbe benign or malignant
+
+Toronto Notes 2025
+
+Differential Diagnosis of Upper GI
+symptoms
+
+GlCcauses Won-GlCauses
+Chotelitiasis ml
+Divers Angina
+Pepticulcer Pericarditis
+Achaia
+Pancreatitis
+a0
+Gastritis
+Hiatus hernia
+
+Horner has a MAP of the Coast
+
+‘APancoast tumour compresses the cervical
+sympathetic plexus causing Horner's
+syndrome:
+
+Miosis
+
+Anhydrosis
+
+Prosis
+
+Differential of an Anterior Compartment
+Mass
+
+4s
+Thymoma
+
+Thyroid enlargement (goitre)
+Teratoma
+
+Tumours (lymphoma, parathyroid,
+angiomatous)

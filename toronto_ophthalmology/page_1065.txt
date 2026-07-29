@@ -1,0 +1,136 @@
+P25 Ophthalmology
+
+Treatment
++ prophylactic: symptomatic tear (flashes or floaters) can be sealed off with laser/cryotherapy
++ therapeutic:
+= rhegmatogenous
+« scleral buckle procedure
+* pneumatic retinopexy
+* pars plana vitrectomy plus injection of gas (injection of silicone oil in cases of recurrent
+detachment, air travel, or inability to posture postoperative)
+= tractional
+vitrectomy + membrane removal/scleral buckling/injection of intraocular gas or silicone oil as
+necessary
+= exudative
+* management is nonsurgical; any underlying disease should be treated if possible
+
+Complications
+
++ loss of vision, vitreous hemorrhage, recurrent RD
+
+«+ RDis an emergency, especially if the macula is still attached (“macula on”)
+
++ prognosis for visual recovery varies inversely with the amount of time the retina is detached and whether
+the macula is attached or not
+
+Retinitis Pigmentosa
+
+Definition
+
++ hereditary degenerative disease of the retina manifested by photoreceptor degeneration (rods affected toa
+greater extent than cones) and atrophy
+
++ many forms of inheritance, most commonly autosomal recessive (60%)
+
+Clinical Features
++ night blindness, decreased peripheral vision (“tunnel vision”), decreased central vision (macular changes),
+glare (from posterior subcapsular cataracts, common)
+
+Investigations
+
++ fundoscopy: areas of “bone-spicule” pigment clumping in mid-periphery of retina, narrowed retinal
+arterioles, pale optic disc
+
++ electrophysiological tests: electroretinography (ERG) and electrooculography (EOG)
+
+Treatment
+
++ gene treatments have the potential to reverse the condition; cataract extraction improves visual function
+vitamin A supplementation can reduce progression of disease in some patients; avoid vitamin E
+supplementation
+
+Voretigene neparvovec-rzyl (Luxturna’) is an FDA-approved novel gene therapy for pediatric and adult
+patients with biallelic RPE65 mutation-associated retinal dystrophy
+
+Age-Related Macular Degeneration
+
+Definition
++ leading cause of irreversible blindness in industrialized countries, associated with increasing age, usually
+bilateral but asymmetric
+
+Classification
++ Non-Exudative/“Dry” (Non-Neovascular) AMD
+= most common type of AMD (90% of cases)
+slowly progressive loss of visual function
+drusen: yellow deposits between the RPE and Bruch’s membrane
+geographic atrophy: coalescence of RPE atrophy, clumps of focal hyperpigmentation or
+hypopigmentation
+= may progress to neovascular AMD
++ Exudative/“Wet” (Neovascular) AMD
+= 10% of AMD cases; however, responsible for 80% of AMD-related vision loss
+= choroidal neovascularization: drusen predisposes to breaks in Bruch’s membrane causing subsequent
+growth and proliferation of new, fine choroidal vessels
+
+the subretinal space
+can also lead to an elevated subretinal mass due to fibrous metaplasia of subretinal fibrovascular
+proliferation that progresses to disciform scarring and severe central vision loss
+
+may lead to exudative detachment of overlying RPE and retina, hemorrhage, and lipid precipitates into
+
+Toronto Notes 2025
+
+@
+
+Eficacy and Safety of Widely Used Treatments for
+Macular Edema Secondary to Retinal Vein Occlusion:
+ASystematicReview
+
+BMC Ophthalmol 201414:77
+
+Purpose: To assesstheefcacy of widely used
+treatments for macular edema (ME) secondary to retinal
+vei occision V0). ME secondary to RVO can cause
+vision oss due to CRVO ora BRVO
+
+Outcomes: Mean change in BCVA rom baseline and?
+oc numb of patients gaining atleast 1 eter from
+baseline to 6 mo or equivalent time point
+
+Results: 14 unique RCTs identified, Ranbizumab
+
+(05 mg produced greaterimprovementsin BVAat
+
+6 mo compared to shamin BRVO mean difference 1
+letters; 95% C1 783-141) and CRO (mean difference
+‘letters; 95% C1 10.51-1269).Improvementsin
+BCVAwere also observed with dexamethasone 0.7
+‘gintavitealimplant (V7) compared with sham
+inpatients with BRVO or CRVO (mean diference 5
+deters; 95% C1 0.74.3}. Thedlerence was significant
+with BRVO alone, but not CRVO alone, At 36 mo na
+large prospective RCT, a rater roprton of patents
+with BRO gained 5 letrs wth aser therapy
+notreatment (OR 316, 95% 1.25.0), whereas
+ro diference was observed ina 9mo endpoint ina
+smaller stud, Thee studies showed no benefit fo ser
+therapy in CVO.
+
+Condusion: Both IV ranibizumab and deramethasone
+show sigicant improvements over previous}
+axcepted standard of care (ser therapy forthe
+treatment of BRVO and CRVD.
+
+‘Superotemporal retina is the most common
+site for horseshoe tears
+
+Retinitis Pigmentosa Inherited Forms
+‘Autosomal recessive: most common
+Autosomal dominant: best prognosis
+Xdinked: worst prognosis
+
+Triad of Retinitis Pigmentosa
+APO
+
+Arteriolar narrowing
+Perivascular bone spicule pigmentation
+Optic disc pallor

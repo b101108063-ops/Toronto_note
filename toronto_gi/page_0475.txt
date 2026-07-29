@@ -1,0 +1,121 @@
+Gal Gastroenterology
+
+Investigations
++ definitive diagnosis is histologic (liver biopsy)
++ other tests may be suggestive
++ blood work
+« fall in platelet count <150 is the earliest finding
+« in later stages of cirrhosis, rise in INR, followed by fall in albumin and finally rise in bilirubin in severe
+disease
+« elevated bilirubin is usually seen in more advanced disease or in the setting of a concurrent insult
+«= in very advanced cirrhosis (pre-terminal event), may also see hypoglycemia but this is more often a
+feature seen in severe ALF
+* non-invasive fibrosis assessments, such as FibroTest™: combination of various clinical and biochemical
+markers that can predict degree of fibrosis; and transient elastography (FibroScan*): non-invasive tool using
+elastography for measuring liver compliance (variable availability)
+= rapidly replacing liver biopsy to determine extent of liver fibrosis and make the diagnosis of cirrhosis
++ imagin;
+» Uisisthe primary imaging modality but only finds advanced cirrhosis
+= CT to look for varices, nodular liver texture, splenomegaly, ascites
+gastroscopy: varices or portal hypertensive gastropathy
+
+Treatment
+
++ treat underlying disorder
+
+decrease insults (e.g, EtOH cessation, hepatotoxic drugs, immunize for hepatitis A and B if non-immune)
+follow patient for complications (esophageal varices, ascites, HCC)
+
+prognosis: Child-Pugh Score and MELD score
+
+iver transplantation for end-stage disease; use MELD score (e.g. MELD >15)
+
+Table 22. Child-Pugh Score and Interpretation
+
+Classification 1 2 3
+
+‘Serum bilirubin (umol/) a“ HSI “st
+Serum albumin gt) 35 2835 2
+
+INR a 1723 3
+Presence of ascites Absent Controllable Refractory
+Encephalopathy Absent Minimal Severe
+Interpretation
+
+Points Chass Lie Expectancy Perioperative Mortality
+56 A .50yr 0%
+
+19 a Candidate for transplant ws
+10-45 c +30 ca
+
+‘Score: 5-6 (Chi), 7-9 (Chile's, 10-15 (Cit
+"ote: Child's classification rarely use or shunting (TIPSor other urgkcal shunts), Dut ssi useful to quantate the severity of ciihosis
+
+Complications
++ hematologic changes in cirrhosis
+= pancytopenia from hypersplenism: platelets first, then WBC, then hemoglobin
+= decreased clotting factors resulting in elevated INR
+= relationship of INR to bleeding tendency is controversial; some patients may be hypocoagulable, others
+may be hypercoagulable
++ variceal bleeds
+= overall mortality of >30% after variceal haemorrhage
+= increased risk of varices with worsening portal hypertension; HV PG >10 mmHg is the strongest
+predictor of variceal development
+= treatment: resuscitation, antibiotic prophylaxis, vasoactive drugs (e.g. octreotide IV) combined with
+endoscopic band ligation or sclerotherapy, TIPS
++ renal failure in cirrhosis
+= classifications
++ pre-renal (usually due to overdiuresis)
++ acute tubular necrosis
+« HRS
+— HRS-AKI: sudden and acute renal failure (rapid doubling of creatinine over 2 wk)
+— HRS-CKD: gradual increase in creatinine with worsening liver function (creatinine
+doubling over years)
++ HRS can occur at any time in severe liver disease, especially after:
+— overdiuresis or dehydration, such as diarrhea, vomiting, etc.
+— Glbleed
+— sepsis
+
+Toronto Notes 2025
+
+Cirrhosis Complications
+
+VARICES
+Varices
+Ascites/Anemia
+Renal failure (HRS)
+Infection
+Coagulopathy
+Encephalopathy
+Sepsis
+
+Usual causes of death n cirrhosis: renal
+failure (hepatorenal syndrome), sepsis, Gl
+bleed, or HCC
+
+Hepatorenal Syndrome vs. Pre-Renal
+Failure - Difficult to Differentiate
+
+Similar blood and urine findings
+
+Urine sodium: very low in hepatorenal; low
+in pre-renal
+
+IW uid challenge: giving volume expanders
+improves pre-renal failure, but not HRS
+
+Hepatopulmonary Syndrome
+
+Clinical Triad
+
+Liver disease
+
+Increased alveolar-arterial gradient while
+breathing room air
+
+Evidence for intrapulmonary vascular
+abnormalities
+
+Fibrosis may regress and disappear if cause
+of liver injury is treated or resolves
+

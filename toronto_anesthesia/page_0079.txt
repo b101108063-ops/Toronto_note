@@ -1,0 +1,162 @@
+A25
+
+Pain Management
+Definitions
+
++ pain: an unpleasant sensory and emotional experience associated with, or resembling that associated
+with, actual or potential tissue damage (International Association for the Study of Pain (IASP); definition
+updated in 2020)
+
++ nociception: detection, transduction, and transmission of noxious stimuli
+
+Anesthesia
+
+Pain Classifications
++ temporal: acute vs. chronic
++ mechanism: nociceptive vs. neuropathic
+
+Acute Pain
+
++ pain of short duration (<6 wk) usually associated with surgery, trauma, or acute illness; often associated
+with inflammation
++ usually limited to the area of damage/trauma and resolves with healing
+
+Ventral posterior Sensory cortex
+
+lateral nucleus of
+
+thalamus
+Tissue ; ry 31d order
+damage by: L ye )__ aferentneuron
++ thermal VAs +
++ chemical 6 } ~
+
++ mechanical forces
+
+Modulatory
+neurons release:
++ endorphins
+
++ enkephalins
+
+Y — snorepinephrine
++ serotonin
+
++ GABA
+
+Nociceptors
+detect pain
+stimulus.
+
+v
+
+Inhibitrelease of
+substance Por make
+post-synaptic
+membrane more
+difficult to polarize
+
+afferentneuron
+
+© Paul Kelly 2011
+
+of spinal cord
+
+2ndorder
+afferent neuron
+
+STE spinothalamic tract
+
+Figure 16. Acute pain mechanism
+Pharmacological Management of Acute Pain
+
++ ask the patient to rate the pain out of 10 or use visual analog scale to determine severity
++ pharmacological treatment guided by WHO analgesia ladder (Figure 17)
+
+Table 15. Commonly Used Analgesics
+
+‘Acetaminophen NSAIDs Opioids
+Examples, Tylenol® Asprin® ibuprofen, naproxen, Oral: codeine, orycodone, morphine, hydromorphone
+ketorolac (1) Parenterat morphine, hydromorphone, fentanyl
+Indications —_FirstJnefor mild acute pain Mild-moderatepain Oral: moderate act p
+Parenterat moderate severe acute pain
+Mechanism of Unclear hypothesized Non-selective COX and Dampens nociceptive transmission between It and 2nd order neurons
+Action cyclooxygenase-2(COX2) inhibition inhibition reducing im the dorsal horn
+Unclear, hypothesized modulationof proinflammatory prostaglandin Activates ascending modulatory pathways resulting in release of,
+‘endogenous cannabinoid system synthesis inhibitory neurotransmitters
+Inhibits peripheral inflammatory response and hyperalgesia.
+‘fects mood and anxiety - alleviates the affective component of
+perceived pain
+Dosing! Limitedby analgesic ceiling beyond Limited by analgesicceiling No analgesic ceiing (except fr codeine)
+‘Administration whichthere iso additional analgesia beyond which there isno Can be administered intrathecally e.g. spinal block) or by continuous
+Opioid-sparing addtional analgesia infusion
+Max dose of4 g24h Opivid-sparing Consider breakthrough dose andlor co-administraton with anti-
+
+Significant inte-indvidual
+variationin efficacy
+
+emetics, laxatives
+
+Toronto Notes 2025
+
+a
+
+Comparison of intraoperative Sedation with
+Dexmedetomiines. Propofol on cute
+Postoperative Pain in Total Knee Arthroplasty under
+Spinal Anesthesia: ARandomized Trial
+
+Anesth Analg 2019, 129-512-1518
+
+Purpose: Compare the postoperative analgsicefect
+intraoperative sedation wth dexmedetomidine (DEX)
+1. propofol
+
+Methods: Patents (48 ere randomly assigned to
+DEX or propofol. ter the intial pre-determined loading
+ose, dug infusion rate was determined according to
+sedation level. Cumulative amounts of PCA fentanyl
+were recorded at24-48h postoperatively (primary
+‘utcome). The postoperativenumerical rating scale for
+pain wasassessed at 612,24, and 48h (secondary
+cutcome}
+
+Results: DEXsignfcanty reduced postoperative
+fentanylconsumption at allt the studies time points
+The numerical rating scale for pain wassignifcanty
+lower atall timepoints
+
+Condusion: ItraperativeDEX sedation was
+associated witha smal but cnc aly important
+reduction n postoperative opioid seater total nee
+anthroplasty
+
+‘Opioid for moderate to severe pain
+(e.g. morphine)
++ Non-opioid, + Adjuvant
+
+“Andrew Q. Tran 2014
+
+‘Opioid for mild to moderate pain
+
+(e.g. codeine)
++ Non-opioid, + Adjuvant
+
+Non-opioid
+(e.g. NSAID)
++ Non-opioid, + Adjuvant
+
+Figure 17. WHO analgesia ladder
+
+Cautionary Use of NSAIDs in Patients
+with:
+
+Asthma
+
+Coagulopathy
+
+Glulcers
+
+Renal insufficiency
+
+Pregnancy, 3rd trimester

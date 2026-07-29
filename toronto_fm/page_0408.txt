@@ -1,0 +1,95 @@
+FM32 Family Medicine
+
+urine C&S.
+
+if suspecting pyelonephritis, order CBC and differential
+
+if vaginal/urethral discharge present, order wet mount, Gram stain, KOH test, vaginal pH, culture for yeast
+and trichomonas, endocervical/urethral swab or urine PCR for N. gonorrhoeae and C. trachomatis
+
+if atypical presentation, order radiologic studies and other diagnostic tests
+
+see Pediatrics, P69 for UTI
+
+Management
+hospitalize if septic or critically ill, and consider hospitalization if persistently high fever, persistent pain,
+severe weakness, or inability to maintain hydration or tolerate oral feeds
+first-line treatment of uncomplicated UTI is TMP/SMX (cotrimoxazole) 160/800 mg BID x 3 d or
+nitrofurantoin 100 mg BID x5 d
+UTI/cystitis
+
+= pregnant women with bacteriuria (2-7%) must be treated (first line: amoxicillin, nitrofurantoin (avoid
+in third trimester), cephalexin) even if asymptomatic due to increased risk of pyelonephritis, preterm
+labour, low birth weight, and perinatal mortality. Need to follow with monthly urine cultures and
+repeat if still infected
+patients with recurrent UTIs (>3/yr) should be considered for prophylactic antibiotics
+if complicated UTI (e.g., male, urosepsis, inmunocompromised, indwelling catheter, or recent
+instrumentation), patients require longer courses of broader spectrum antibiotics, such as TMP/SMX
+(cotrimoxazole) 160/800 mg BID x 7-14 d or ciprofloxacin 500 mg BID x7 d
+urethritis
+
+= positive swab or PCR for chlamydia or gonorrhea must be reported to Public Health (see FM47 for
+
+management of STIs)
+«= all patients should return 4-7 d after completion of therapy for clinical evaluation
+
+Epistaxis
+
+see Otolaryngology, OT27
+Erectile Dysfunction
++ see Urology, U33
+
+Definition
++ >3 mo of consistent or recurrent inability to attain and/or maintain sufficient penile erection for sexual
+performance
+
+Epidemiology
++ ~20% of men age 40; ~50% of men age 70
+
+Etiology
+
+* organic: vascular (90%) (arterial insufficiency, atherosclerosis), endocrine (low testosterone, DM), anatomic
+(structural abnormality, e.g. Peyronie's), neurogenic (postoperative, DM), medications (clonidine,
+antihypertensives, SSRIs, tricyclic antidepressants, cimetidine, 5-a-reductase inhibitors)
+
++ psychogenic (10-20%) (depression, anxiety, stress)
+
+Table 14. Differentiation Between Organic and Psychogenic ED
+
+Characteristic Organic Psychogenic
+Onset Gradual eute
+Circumstances Global Situational
+Course Constant Varying
+Non-Coital Erection Poor Rigid
+Morning Erection Absent Present
+Psychosexual Problem Secondary Long history
+Partner Problem Secondary onset
+Aniety and Fear Secondary Primary
+
+Walsh PC, Campbell MF, Retik AB. Campbell's Urology th ed. W.B. Saunders, 2002. Table 46-4
+
+History
++ comprehensive sexual, medical, and psychosocial history
+= review medication and substance use
++ time course
+« last satisfactory erection
+= gradual or sudden onset
+= attempts at sexual activity
+* quantify
+= presence of morning or nighttime erections
+« stiffness (scale of 1-10)
+
+Toronto Notes 2025
+
+Prevention of UTIs
+Maintain good hydration
+
+Avoid feminine hygiene sprays and scented
+douches
+
+Empty bladder immediately before and
+after intercourse
+
+Vaginal estrogen therapy for peri-and
+postmenopausal women with recurrent
+UTis

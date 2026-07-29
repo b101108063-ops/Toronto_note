@@ -1,0 +1,94 @@
+ORI9 Orthopedic Surgery
+
+Investigations
+
++ xray: AP and lateral views of the humerus and elbow
+
++ CT scan: helpful when suspecting shear fracture of capitulum or trochlea, and for preoperative planning
++ assess NVS: radial, ulnar, and median nerve
+
+Classification
++ supracondylar, distal single column, distal bicolumnar, and coronal shear fractures
+
+Treatment
+* goal is to restore a functional ROM of at least 30-130° flexion (unsatisfactory outcomes in 25%)
++ non-operative (pediatric patients and elderly patients with medical comorbidities)
+
+= cast immobilization (in supination for lateral condyle fracture; pronation for medial condyle fractures):
+
+short immobilization and early range of motion
++ operative
+= indications: displaced, supracondylar, bicolumnar
+= closed reduction and percutaneous pinning (children); ORIF; total elbow arthroplasty (complex
+bicolumnar in elderly)
+adult fractures are almost always treated operatively due to risk of elbow stiffness with non-operative
+management
+
+Supracondylar Fracture
+
+subclass of distal humerus fracture: extra-articular, fracture proximal to capitulum and trochlea, usually
+transverse
+
+most common in pediatric population (peak age ~7 yr), rarely seen in adults
+
+median nerve injury commonly associated with extension type
+
+Mechanism
++ >96% are extension injuries via FOOSH (e.g. fall off monkey bars); <4% are flexion injuries
+
+Clinical Features
+. pains swelling, point tenderness
++ brachialis or “pucker” sign: ecchymosis and/or dimpling of skin in antecubital fossa
+* neurovascular injury: assess NVS of median and radial nerves, radial artery
+= assess median nerve (unable to perform “a-ok” sign, numbness in volar Ist 3 digits)
+
+Investigations
+
++ xray: AP and lateral views of the elbow
+« disruption of anterior humeral line suggests supracondylar fracture
+= fat pad sign: a sign of effusion and can be indicative of occult fracture
+
+Treatment
++ non-operative
+
+= nondisplaced (pediatric type I SCH #): closed reduction with long arm plaster slab in 90° flexion x 3 wk
+* operative
+
+Pe indications: see NO CAST sidebar, ORG; displaced >50%, vascular injury, open fracture
+
+= requires closed reduction plus percutaneous pinning followed by limb cast with elbow flexed <90°
+
+= in adults, ORIF is necessary
+
+Specific Complications (see General Fracture Complications, OR7)
+
++ stiffness is most common
+
++ brachial artery injury (kinking can occur if displaced fracture), median or ulnar nerve injury,
+compartment syndrome (leads to Volkmann’s ischemic contracture), malalignment cubitus varus (distal
+fragment tilted into varus)
+
+Toronto Notes 2025
+
+Three Joints at the Elbow
+Humeroradial joint
+Humeroulnar joint
+Radioulnar joint
+
+Figure 16. X-ray of transverse
+displaced supracondylar fracture of
+humerus with elbow dislocation
+
+Anterior Humeral Line
+Capitellum
+Radio-Capiteltar Line
+
+Radial Head
+© Desmond Ballance 2006
+
+Figure 17. Lateral view of elbow
+
+Capitellum moves posteriorly to the
+anterior humeral line in extension type
+fractures and anteriorly in flexion type
+fractures

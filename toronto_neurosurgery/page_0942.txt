@@ -1,0 +1,131 @@
+NS1O ‘Neurosurgery
+
+Etiology
++ impaired CSF dynamics
+
+= obstruction of CSF flow
+
+= decreased CSF absorption
+
+= increased CSF production (rarely in choroid plexus papilloma 0.4-1% of intracranial tumours)
++ congenital and acquired causes
+
+Epidemiology
++ estimated prevalence 1-1.5%; incidence of congenital hydrocephalus ~1-2 in 1000 live births
+
+Clinical Features
++ acute hydrocephalus: signs and symptoms of acutely elevated ICP (see Table 4, NS7)
++ chronic/gradual onset hydrocephalus (wk to mo; i.e. NPH): presents with a classic triad (Hakim’s triad)
+= ataxia (magnetic gait) + apraxia (pressure of ventricle on lower extremity motor fibres > gait
+disturbance)
+«= incontinence (pressure on cortical bowel/bladder centre)
+= dementia (subcortical)
+
+Investigations
++ imaging
+= CT/MRI findings (see Table 7, NS9)
+= ultrasound (through anterior fontanelle in infants): ventriculomegaly, size and location of lesions (e.g.
+IVH)
++ mantle radionuclide cisternography can test CSF flow and absorption rate (unreliable)
++ ICP monitoring (e.g. LP, EVD) may be used to investigate NPH and test response to shunting (lumbar tap
+test)
+
+Treatment
+EVD (acute hydrocephalus, intraventricular hemorrhage)
+intermittent LPs for transient communicating hydrocephalus (SAH, IVH in premature infants)
+eliminating obstruction (i.e. excision of mass, posterior fossa decompression for Chiari malformation)
+endoscopic
+= endoscopic third ventriculostomy (ETV) + choroid plexus cauterization (for obstructive hydrocephalus)
+= endoscopic placement of aqueductal stent
+shunt
+= VP: most common shunt
+«= ventriculopleural
+= ventriculoatrial (VA)
+= lumboperitoneal: for communicating hydrocephalus and pseudotumour cerebri
+
+Shunt Complications
+
+Table 8. Shunt Complications
+Complication Etiology Clinical Features Investigations
+Obstruction ‘Obstruction by choroid plexus ‘Acute hydrocephalus signs and symptoms of “Shunt series” (plain x-rays of
+{mostcommon) Buildup of proteinaceousaccretions, blood, increased ICP entice shuntthat only rule-out
+Proximal Catheter calls inflammatory or tumour) disconnection, break, tp.
+Valve Infection migration)
+Distal Catheter Discomection or damage a
+Radionuclide “shuntogram”
+
+Infection 5. epidermidis Fever, NV, anoreia, ritability cc
+(36%) aureus Meningtis Blood culture
+
+P.acnes Petitonits Tapshunt for C4S (LP usualy NOT
+
+Gram-negative baci Signs and symptoms ofshunt obstruction recommended)
+
+Shunt nephritis (VAshunt)
+
+Overshunting Slitventride syndrome, cllapse of Chronic orrecuring WiAoften relieved when lying CT/MRY
+(10°%over 6.5 yt) ventriclesleadingto occlusion of shunt down Sit-tke ventricles on imaging
+
+ports by ependymal lining
+
+SoH Asymptomatic a
+
+Collapsing brain tears bridgingveins
+(especially commonin NPH patients)
+
+HA, vomiting, somnolence
+
+Secondary craniosynostosis (children): Abnormal headshape Clinical
+apposition and overlapping ofthe a
+‘cranial sutures inan infant following
+decompression of hydrocephals
+
+Seizures Ventricular shunts only EEG
+
+(5.5%riskin ist yr, .tbafter
+
+3rdyt)
+
+Inguinal hernia Increased intraperitoneal ressure/fuid Inguinal sweling discomfort us
+
+(13-15% incidence when shunt
+insertedin childhood)
+
+resultsinhernia becoming apparent
+
+Toronto Notes 2025
+
+Classic (Hakim’s) Triad of NPH
+Progression
+
+“Wet, wacky, wobbly”: Incontinence,
+dementia, ataxia
+
+Important Features to Note on CT and
+MRI (+ contrast enhancement)
+Lesions (¢ edema, necrosis, hemorrhage)
+MLS and herniations
+
+Effacement of ventricles and suci often
+ipsilateral), basal cisterns
+
+Single or muitiple (multiple implies
+metastasis)
+
+Complications of Specific Hydrocephalus
+Treatments:
+
+VP Shunt: intra-abdominal ests,
+adhesions, ascites
+
+VAShunt: greater infection risk,
+septicemia, emboli
+
+Ventriculopleural Shunt: pleural effusion,
+hydrothorax, respiratory distress
+
+LP Shunt: radiculopathy, CSF leaks,
+adhesions, arachnoidtis,
+
+ETV: 56% success rate, hypothalamic injury,
+iatrogenic basilar aneurysm

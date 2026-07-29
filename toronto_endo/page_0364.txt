@@ -1,0 +1,85 @@
+E56
+
+Paraneoplastic Syndrome
+
+Endocrinology
+
++ clinical syndromes involving non-metastatic systemic effects that accompany malignant disease
+
+« triggered by antibodies against neoplasm cross-reacting with normal tissue or by production of a
+physiologically active substance by the neoplasm
+
++ commonly present with cancers of lung, breast, ovaries, or lymphatic system
+
+Table 40. Clinical Features
+
+Syndrome Class ‘Symptoms/Syndrome ‘Associated Malignancies Mechanism
+Endocrine Cushing's syndrome Smal cel lung cancer Ectopic ACTHand ACTH mimicking substance
+Weight gain in runkifacebetweenshoulders, Pancreatic carcinoma secretion
+stretch marks, easy bruising, slow wound euroendocrinetumours
+healing, acne, hirsutism, irregular menses, Thymoma
+decreasedlibido
+‘Syndromeotinappropriate ADH secretion Small cel lung cancer ‘Antidiretc hormone secretion
+(S1ADH) CHS malignancies
+Gliguia, hyponatremia, nauseaivomitng,
+headaches, confusion, fatigue, irtabity,
+muscle weakness/cramps, seizures
+Hypercalcemia Lung cancer PTH elated protein, transforming growth factor
+"Stones, bones, abdominal moans, psychic Breast carcinoma alpha (T6F-a), tumour necrosis factor (THF)
+overtones” Renal cell carcinoma seaetion
+Multiple myeloma
+Ovarian carcinoma
+Hypoglycemia Hepatocellular carcinoma Insulin or insulin-like substancesecretion
+Tactycardia, headache, tremor, diaphoresis, —Fibrosarcomainsilinoma (eg.16F2)
+fatigue, dizziness Gastrointestinal stromal tumor (GIST)
+Carcinoid Gastrointestinal neuroendocrine tumours Serotonin, bradykinin secretion
+Flushing, diarhea, shortnessof breath,
+tachycardia
+Neurologic Lambert-Eaton myasthenicsyndrome Smal cel lungcancer ‘Ab interferes with acetylcholine (ACh release
+(LEMS)
+Muscle weakness inlimbs
+Myasthenia gravis Thymoma ‘Ab interferes withACh elease
+Fluctuating muscle weakness and fatigability
+Paraneoplastic limbic encephalitis Small celllungcancer Unknown
+Depression, seizures, short-term memory
+loss
+Renal Hypokalemic nephropathy Smal celllungcancer Ectopic ACTHandACTH Ake substancesecretion
+Polyuria, polyipsia, anorexia
+vomiting
+Nephrotic syndrome Lymphoma Immunocomplex sedimentation in nephrons
+Edema, hypertension, hematuria, immune Melanomas
+impairment, hypercoagulability
+a Watery diarrhea wc Calcitonin, prostaglandin secretion
+WiPoma WIP secretion
+Hematologic Erythrocytosis Renal cell carcinoma Erythropoietin (EPO) production
+Hepatocelldar carcinoma
+Rheumatologic SLE Lymphomas ‘Anti-nclear Ab production
+SOAP BRAIN MD": serosts (pleut, Lung cancer
+pericarditis), ora ulcers, arthritis, Breast carcinoma
+photosensitivity blood ow counts), renal Gonadal carcinoma
+(protein), ANA, immunologic(0S DNA, et),
+neurologic (psych, seizures), malar rash,
+discoid rash
+Scleroderma Breast carcinoma ‘Anti-nclear Ab production
+Diffuse thickening ofthe skin, REST Lung cancer
+syndrome (calcinosis, Raynaud phenomenon, Uterine cancer
+‘esophageal dysmatity, sclerodactyly, and
+telangiectasia)
+Investigations
+
++ CBC, electrolytes, creatinine, LFTs, ALP, erythrocyte sedimentation rate (ESR), CRP, serum/urine
+electrophoresis
+
++ serum autoantibodies, lumbar puncture
+
++ imaging: skeletal survey, CT, MRI, positron emission tomography (PET) scan
+
++ + endoscopy
+
+Treatment
+
++ treat underlying tumour: surgery, radiation, chemotherapy
++ treat immune-mediated disorder: intravenous immunoglobulin (IVIG), steroids, immunosuppressive
+drugs, plasmapheresis (reserved for patients with identifiable antibodies in serum)
+
+Toronto Notes 2025

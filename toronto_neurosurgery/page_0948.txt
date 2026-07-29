@@ -1,0 +1,176 @@
+‘Neurosurgery
+
+ical Features
+«+ sites: cerebral hemispheres >> cerebellum, brainstem, spinal cord
++ symptoms: recent onset of new/worsening H/A, N/V, seizure, + focal deficits or symptoms of increased ICP
+
+Investigations
++ CT/MRI with contrast: variable appearance depending on grade
+= hypodense on CT, hypointense on T1 MRI, hyperintense on T2 MRI
+«= low-grade: most do not enhance and have calcification on CT
+«= high-grade: most enhance with CT contrast dye/gadolinium, possibly with central necrosis (especially
+if IDH wildtype)
+= histology during surgical resection or biopsy
+
+Treatment
++ low-grade diffuse gliomas
+= close follow-up, radiation, chemotherapy, and surgery are all valid options
+= dedifferentiation to more malignant grade; typically occurs faster when diagnosed after age 45
+= surgery: maximal safe resection, not curative, trend towards better outcomes, provides tissue sample
+for histologic/molecular characterization
++ early surgery is recommended for oligodendroglioma, with treatment including XRT and PCV
+(chemotherapy regimen)
+early surgery is recommended for astrocytomas, with treatment including radiation therapy and
+TMZ
+
+= XRT alone or postoperative prolongs survival (retrospective evidence)
+= chemotherapy: initial therapy in all patients with high-risk low-grade glioma
++ high-grade diffuse gliomas
+= goal is to prolong “quality” survival
+= surgery
+* gross total resection: maximal safe resection + fractionated radiation with 2. cm margin +
+concomitant and adjuvant TMZ
+— except: nearing end-of-life; or extensive brainstem, bilateral, or dominant lobe GBM
+involvement
++ awake craniotomy for tumours in “eloquent” regions (e.g. speech and language regions or near
+motor strip)
++ stereotactic biopsy if resection not possible, followed by fractionated radiation with 2. cm margin
+— expectant: based on functional impairment Karnofsky score <70; patient’s/family’s wishes
+= chemotherapy: TMZ (agent of choice); better response to TMZ predicted by MGMT gene methylation
++ multicentric gliomas
+= WBRT + chemotherapy
+
+Primary Central Nervous System Lymphoma
+
++ highly aggressive, non-Hodgkin lymphoma confined to the CNS; ~95% are large B-lymphocyte
++ brain + spinal cord, leptomeningeal, CSF, and ocular manifestations possible
++ intracranial lesions predominantly supratentorial
+
+Clinical Features
+
+occurs in both immunocompetent and immunocompromised populations (multifocal lesions in 20-40% of.
+
+immunocompetent patients, and in 30-80% of immunocompromised patients)
+
+epidemiology: 0.47 in 100000 per yr; 1.35:1; age of onset 50-70 (30-40 in immunocompromised
+
+individuals)
+
+symptoms: focal neurological deficit, cognitive/behavioural symptoms + increased ICP or seizures or CN
+alsies
+
+n blurred vision + floaters if ocular involvement
+
++ high association with Epstein-Barr virus in patients with HIV
+
+Investigations
++ CT: hyper- or iso-attenuated lesions; significant enhancement with contrast
++ MRI with contrast (imaging of choice): intensely enhancing lesions, often localized to periventricular space
+= immunocompetent > homogenous enhancement + minimal edema
+= immunocompromised > heterogenous or ring enhancement, necrosis, edema + hemorrhage
+= restriction on diffusion imaging due to hypercellularity helpful to distinguish from other brain
+tumours
++ confirmation by stereotactic biopsy and histopathology
+= corticosteroids may prevent histopathological diagnosis > avoid until biopsy complete when clinically
+possible
+
+Treatment
+
++ chemotherapy: first-line treatment; induction therapy using MATRix regimen (high-dose methotrexate
+(HDMTX) + cytarabine + thiotepa + rituximab) preferred
+
+* surgery: generally reserved for stereotactic biopsy; resection discouraged
+
+Toronto Notes 2025
+
+CS)
+
+Comparison ofa Strategy Favouring Early Surgical
+Resection vs. Strategy Fawouring Watchful Waiting
+inLow-Srade Giomas
+
+AMA 2012;308(18) 1881-1888
+
+Purpose: To examine “watchful waiting". early
+surgical resection of low-grade gliomas.
+
+‘Study: A population-based parallel cohort study was
+undertaken between two hospitals that each favoured
+different management approaches forlow-grade
+jiomas (biopsy and watchful wating vs, erly surgical
+resection),
+
+Results: 66 patients wereincuded fromthe watchul
+waiting hospital and 7 patients from the earl
+resection centre, Median follow-up was7.Oand7.1y at
+cach centre. The two groups were equivalentin tems of
+baseline parameters. Overall, survivals signcantly
+beter with earl surgical esecton (watchful waiting:
+median survival of 59 95% CI, 4573s. early
+resection: median survival was not reached dv to
+prolonged length fie, 0.0,
+
+Conclusion: Early surgical resection oflow-grade-
+jiomasis associated with better overall survivals
+Compared to watchful waiting
+
+Bevacizumab lus Radiotherapy Temazolomde for
+Newly Diagnosed Glioblastoma
+
+NesM 204;370:70872
+
+Purpose: To evaluat the efectof combined
+bevacumab and XR temozolamie inthe teatmentof
+rent dign ose glblstoma
+
+Methods: Patents wth supratentoral GBM were
+
+3)
+{or 30wktotalin yds, folowed by bevacizumabor
+placebo monotherapy. Outcomes were progression-free
+survivalandoeral survival
+Results: The median pogresson-eesurvival
+was ongerin the bevacizumab group compared
+wih placebo (10.6movs,6.2mo, HRO64, 95% C1
+1055-0.) although overall survival did not fer
+significantly between groups (HR 0.88, 95% C1
+(076-102) Baseline health-elated quality o-ife
+and performance status were maintained longer in
+the bevacizumab group although therewas a higher
+frequency of adverse evens
+Conclusions: The addition of evaczumab to XRT.
+‘temozolomide improves progression-free survival but
+‘not overall suvivalin patients with glioblastoma,
+
+)
+
+Interim Results from the CATNON tral (EORTC study
+26053-22054) of Treatment with Concurent and
+Adjuvant tlmozolomide fr 1p/19qNon-co-deleted
+Anaplastic Glioma: aphase 3, randomised, open-
+label intergroup study
+
+Lancet 2017;380(10103):1645-53
+
+Purpose: Toassesstheuse of radiotherapy with
+concurrent and adjwant temozolomidenaduts wth
+on-c- deleted anaplastic gliomas.
+
+Methods: Patients with nem diagnosed non-<o-
+deleted anaplastic gloma wererandomizedtoreceive
+radiotherapy alone or wth adjuvant temozolmide; or
+toreceive XRT wth concurrent temozolomide 75 mg,
+with or witout adjuvant temnzohomide. The primary
+endpoint was overall survival
+
+Results: Overalsurvival at yearswas55:9% (95%
+(1412-638 with nd 44.7% (963-51.6 without
+adjuvant temozolomide, Grade3—4 adverse events
+wereseenin 812% of 549 patents assigned
+temozolomide, and were mainly haematologicaland
+revessble,
+
+Conclusions: Adjvanttemozolomie chemotherapy
+was associated with significant suvivalbenefit
+inpatients with newly diagnosed non-co-deleted
+anaplastic gloma,

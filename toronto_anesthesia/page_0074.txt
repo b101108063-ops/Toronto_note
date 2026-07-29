@@ -1,0 +1,76 @@
+A20 Anesthesia
+
+Table 12. Reversal Agents for Non-Depolarizing Relaxants
+
+Agent Pyridostigmine Neostigmine Edrophonium Sugammadex
+Onset ‘Slow Intermediate Intermediate Fast
+Mechanismof AChE inhibitor;inhibit enzymatic degradation of ACh increaseACh at nicotinic and muscarinic Encapsulates andinactvates rocuroniumand
+Action receptors, displace NDMRS vecuronium +
+Muscarinic effects of reversing agents indude unwantedbradycardia,salivation,andincreased + amount of agentavailableto bind toreceptors
+bowel peristalsis* inn)
+Dose (mg/kg) 0.1.0.4 0.04-008 054 246
+Recommended —Giycopyrolate Glycopyrrolate ‘opine Wik
+Anticholinergic
+Dose of 0.05 mg 02mg 0.014 mg Wik
+Anticholinergic
+(perma)
+
+“atropine and gycopyrolate are antichotnergicagents admins tered to minimize muscarniceffectsfreversalagents
+
+Analgesia
+
++ opioids are used during induction to provide analgesia, sedation, and blunt autonomic responses
+
++ their sedative properties supplement the IV induction agent and they blunt autonomic response during
+laryngoscopy and intubation
+
+Maintenance
+
++ general anesthesia is maintained using volatile inhalation agents and/or IV agents (i.e. propofol infusion)
++ analgesia (IV opioids, regional blocks, neuraxial blocks)
++ + muscle relaxants given as needed
+
++ criteria: patient must no longer have intubation requirements
+= patency: airway must be patent
+= protection: airway reflexes intact
+= patient must be oxygenating and ventilating spontaneously
++ general guidelines
+= ensure patient has normal neuromuscular function (peripheral nerve stimulator monitoring) and
+hemodynamic status
+ensure patient is breathing spontaneously with adequate rate and tidal volume
+allow ventilation (spontaneous or controlled) with 100% O> for 3-5 min
+suction secretions from pharynx, deflate cuff, remove ETT on inspiration (vocal cords abducted)
+ensure patient is breathing adequately after extubation
+ensure face mask for 02 delivery available
+proper positioning of patient during transfer to recovery room (supine, head elevated)
+
+Complications of Extubatio:
+
++ early extubation: aspiration, laryngospasm
++ late extubation: transient vocal cord incompetence, edema (glottic, subglottic), pharyngitis, tracheitis
+
+Laryngospasm
+
++ defined as forceful involuntary spasm of laryngeal muscles caused by stimulation of superior laryngeal
+nerve (by oropharyngeal secretions, blood, early extubation)
+
+causes partial or total airway obstruction
+
+more likely to occur in semi-conscious patients
+
+prevention: extubate while patient is still deeply under anesthesia or fully awake
+
+treatment: suction, remove oral airway/LMA, apply CPAP with anesthetic reservoir bag and partial
+
+closure of adjustable pressure-limiting (APL) valve, BMV with 100% 02, low-dose propofol (0.5-1.0 mg/kg)
+
+optional, low-dose SCh (approximately 0.25 mg/kg), and re-intubate if hypoxia develops
+
+a
+
+Toronto Notes 2025
+
+See Landa Anesthesiology as able ormore
+information on ests rom the ENGAGES tal, which
+deta the eccy of sing EEG guided anesthetic
+‘distin inpatients wth postoperative dlrum,

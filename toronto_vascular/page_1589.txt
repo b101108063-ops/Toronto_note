@@ -1,0 +1,135 @@
+vs9 ‘Vascular Surgery
+
+— disadvantages: endoleak rates as high as 20-50%, device failure increasing as longer
+follow-up periods are achieved, re-intervention rates 10-30%, cost-effectiveness is an issue,
+radiation exposure (especially in younger patients due to need for life-long follow-up)
+
+— complications
+
+— early: immediate conversion to open repair (<1%), groin hematoma, arterial
+thrombosis, iliac artery rupture and thromboemboli, renal failure, impotence,
+ischemia
+
+— late: endoleak, graft kinking, stent fracture, device component separation and
+migration, thrombosis, rupture of aneurysm, complications of radiation exposure,
+infection
+
+— death (1-2%, though may be up to 10% in elective advanced endovascular repair
+especially with proximal aortic and thoracoabdominal repairs)
+
++ narrowing of the internal carotid artery lumen due to atherosclerotic plaque formation, usually near
+common carotid bifurcation into internal and external carotids (carotid bulb)
+
+Risk Factors
++ HTN, smoking, DM, CVD or CAD, dyslipidemia, older age
+
+Clinical Features
++ may be asymptomatic
++ if symptomatic: TIA, ischemic stroke; may be hemispheric presentation (deficits contralateral to carotid
+lesion) or ocular presentation (deficits ipsilateral to carotid lesion - amaurosis fugax or retinal artery
+ischemia)
++ physical exam
+= fundoscopy: cholesterol emboli in retinal vessels (Hollenhorst plaques)
+
+Investigations
+
++ CBC, PT/INR, PTT (hypercoagulable states)
+
++ ECG, echo (rule out other causes of stroke)
+
++ carotid duplex U/S or DUS: determines severity of disease (mild/moderate/severe stenosis or occlusion)
++ angiography: CTA, MRA
+
+Treatment
+
+generally the decision to treat with BMT alone vs. BMT + surgical management depends on whether
+stenosis is asymptomatic or symptomatic (see Table 3, VS10); size of infarct, patient functional recovery, life
+expectancy, and comorbidities are important in decision-making
+
+symptomatic carotid stenosis is defined as focal neurologic deficits referable to carotid artery distribution
+occurring within the past 6 mo with >50% stenosis; ideally surgical treatment should be done within the
+first 48 h to 2 wk of symptom onset
+
+lifestyle modifications: smoking cessation, weight loss, dietary changes, exercise
+
+. medical management
+anti-hyperglycemics: if concomitant DM
+anti-hypertensives: target BP <140/90 or <125/85 if concomitant DM
+statins: aggressive management to achieve LDL-C reduction; plaque stabilization effect
+anti-platelet agents (ASA + clopidogrel): confer ~25% relative risk reduction
+smoking cessation
+
+surgical management
+CEA or CAS for symptomatic carotid stenosis
+CEA: generally mainstay of treatment
+CAS: indicated if poor surgical access, radiation-induced stenosis, or comorbidities that increase risk of
+surgery/anesthesia
+aggregate risk of death, stroke, or MI in periprocedural period is not significantly different between CEA or
+CAS
+
+= higher risk of periprocedural stroke in CAS
+
+= higher risk of MI and temporary cranial nerve palsy in CEA
+
+seen
+
+Toronto Notes 2025
+
+10Yr Stroke Prevention after SucesstulCarotid
+Endarterectomy for Asymptomatic Stenosis ACST:);
+/AMlicentre Randomised Trial
+
+Lancet 2010;376:1074-1084
+
+Purpose: Asses the ng trmetects of sucessful
+cea
+
+Methods: 3120asymplomatic patents wih sgnfcant
+cartidartery stenosis general 260% mere
+randomized to immediate CEA and indefinite deteral
+cf CE. mary outcomes were perioperative mortality
+and morbidity (death or stoke within 304) andnon-
+perioperative stroke,
+
+Rests: Perioperative riskof stoke or death within 30
+dayswas 3.0% (958,243.98) wth no dference
+between groups. Exuding perinperative events
+
+and nonstoke mortality, yr stroke riskswere
+
+10.8% fmmedite CEN versus 16.9% (deferred CEA)
+(P-0.0008)
+
+Conclusions: in asymptomatic patents underage 5
+vith signtcant carotid artery stenosis sucess EA
+redcesthe 1yr stole risk. Net benefit depends on
+"ks tom unoperated cart lesions, ft surgical
+1st, and wheter expectancy exceeds 1
+
+Second Asymptomatic Carotid Surgery Tal (ACST-2}:
+‘Randomized Comparison of Carotid Artery tenting
+Versus Carotid Endarterectomy
+
+Lancet 2071;398-10651073
+
+Purpose: Compare long ermoutcomesfor AS versus
+pen CEXin patients with significant asymptomatic
+carotid stenosis
+
+Methods: 3625 asymptomatic patient with carotid
+artery stenasis 260% were randomized oCASand
+CEAwith mean follow-up o 49 yt Primary outcomes
+were procedaralmrtalty and morbidity, and non-
+procedural stoke
+
+Results: 1%had disabling stroke or death proced rally
+(1Sallocted to CASand 1810 CEN) and 2% had non-
+isang procedural stoke(48 allocated to CAS and 29
+4oCEA)5 yr non-proceduralstoke rats were 25% in
+ach group fr fatal disabling stroke, and5.3% for
+(ASversus 4.5% wth CEA for any stroke (?-0.33)
+Condsions: Occurence of serious complications
+afterCASandCEkis similar and uncommon, and both
+procedures ave similar long-term eects on fataland
+isang stoke
+

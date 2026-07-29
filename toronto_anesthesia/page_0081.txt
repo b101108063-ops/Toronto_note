@@ -1,0 +1,173 @@
+AQ7 Anesthesia
+
+Table 17. Opioid PCA Doses
+
+Agent PCADose PCALockout interval PCASh Maximum
+Morphine 2g Sin 30mg
+Hydromorphone 0.204 Sin 10mg
+Fentanyl 25-509 Sin 400ug
+
+Opioid Antagonists (naloxone, naltrexone)
++ indication: opioid overdose (manifests primarily at CNS, e.g. decreased LOC, respiratory depression)
+mechanism of action: competitively inhibit opioid receptors, predominantly p-opioid receptors
+«= naloxone is short-acting (tu2 = 1 h); effects of narcotic may return when naloxone wears off; therefore,
+the patient must be observed closely following its administration
+= naltrexone is longer acting (tu2 = 10 h); less likely to see return of opioid effects
++ side effects: relative overdose of naloxone may cause nausea, agitation, sweating, tachycardia, HTN, re-
+emergence of pain, pulmonary edema, and seizures (essentially opioid withdrawal)
+
+Neuropathic Pain
++ see Neurology, N43
+Chronic Pain
+
++ chronic pain: pain that persists or recurs for longer than 3 mo
+
++ pain of duration or intensity that persists beyond normal tissue healing and adversely affects functioning
+
++ inthe Perioperative period, consider continuing regular long-acting analgesics and augmenting with
+regional techniques, adjuvants, additional opioid analgesia, and non-pharmacological techniques (e.g,
+mindfulness, physiotherapy, acupuncture)
+
+Central Sensitization
+
++ central sensitization: hyperalgesia (i.e. increased sensitivity to pain) as a result of CNS mechanisms
++ may have nociceptive and neuropathic components; dysregulation of analgesic pathways implicated
++ playsa role in fibromyalgia
+
+Chronic Post-Surgical Pain
+
++ pain that develops after surgery and persists for at least 2 mo
+
++ primary predictor is history of chronic pain; other risk factors include female gender, surgical procedure/
+approach, poor social supports, catastrophizing behaviour
+
+stetrical Anesthesia
+
+Anesthesia Considerations in Pregnancy
++ airway
+= possible difficult airway as tissues becomes edematous and friable, especially in labour
+
+= body habitus changes can make direct laryngoscopy difficult
+respiratory system
+
+= decreased FRC and increased 0: consumption cause more rapid desaturation during apnea
+cardiovascular system
+
+= increased blood volume > increased RBC mass results in mild anemia
+
+= decreased SVR proportionately greater than increased CO results in decreased BP
+
+= prone to decreased BP due to aortocaval compression (supine hypotensive syndrome) ~ a pregnant
+
+patient is positioned in left uterine displacement (approximately 15° - angle) using a wedge under right
+
+flank when supine
+central nervous system
+= decreased MAC due to hormonal effects
+= increased block height due to engorged epidural veins
+gastrointestinal system
+delayed gastric emptying
+increased volume and acidity of gastric fluid
+decreased LES tone
+increased abdominal pressure
+combined, these lead to an increased risk of aspiration; therefore, for surgery, a pregnant patient is
+given sodium citrate 30 cc PO immediately before surgery to neutralize gastric acidity
+
+Options for Analgesia during Labour
++ psychoprophylaxis - Lamaze method
+= patterns of breathing and focused attention on fixed object
+
+Toronto Notes 2025
+
+i)
+
+Patient Controlled Opioid Analgesia vs. Non Patient
+Controlled Opioid Analgesia for Postoperative Pain
+Cochrane DB ys Rev 2015:C0003348,
+
+Purpose: Toevabatethe efficacy of patient
+
+controlled analgesia (PCA). non-patentcontrlled
+opioid analgesia of as-needed opioid analgesia for
+postoperative pain rete,
+
+Methods: Meta-analyses of RCTs comparing PCAs.
+Conventional administration of opioid anaes,
+Assessment employed a visual analog scale VAS)
+
+for painintensy along with overall analgesic
+consumption, patent stistacton, length of stay, and
+adverse sie eftedts.
+
+Results: 49 studies with total of 125 patients
+receiving PCA and 1687 patients assigned toa conto
+group. PCAhada loner VAS pain intensity scores. non-
+patient controlled analgesia over most tne nteralsin
+the fist 48h, PCAwas associated wth higher patient
+satisfaction and consumed higher amounts af opioids
+than controls. PCA was also associated with higher
+incidence of prurtus but not other adverse events
+Condusions: Moderate to low quality evidence
+
+that PCAisan efficacious alternative tonon patent
+Controlled systemic analgesia forpostoperative pain
+conte
+
+Nociceptive Pathways in Labour and
+Delivery
+
+Labour
+
+Cervical dilation and effacement stimulates
+visceral nerve fibres entering the spinal
+cord at TH0-L1
+
+Delivery
+
+Distention of lower vagina and perineum
+‘causes somatic nociceptive impulses via
+the pudendal nerve entering the spinal
+cord at $2-S4
+
+@
+
+Epiduralvs,Non-Epidural or No Analgesiafor Pain
+Management in Labour
+
+Cochrane DB ys Rev2018:C0000331
+
+Purpose: Toassesseffectvenes and saftyof all
+types of epidural analgesia when compared with non-
+pidralor no pain elit during labour.
+
+Methods: Systematic review of RCTs comparing
+pidral with an form pain ei not involving
+regional blockade, orno pain rele in bout.
+
+Results: 52 studies invohing over T1000 women were
+indluded; 34 studies compared epiural analgesia wth
+opioids. Epidural analgesia was associated with lower
+ain intensity, higher satisfaction, and decreased
+‘eed for addtional pain lies. opioids. While it was
+also associated with increased isk of assisted vaginal
+birth (RR 1.44, 95% C11.29-.60, post-hoc analysis
+
+co studies conducted after 2005 eliminates this isk
+(RR1.19, 95% C10.57-146) Women with epidural
+analgesia experienced more hypotension, motor
+blockage, fever, and wiary retention with ess risk
+frespiratory depression and nausea vomiting. There
+was nodiference in neonataloutcomes, admission to
+NICU, caesarean section rates, or materallong:term,
+backache
+
+Condusions: Epidural analgesia maybe more effective
+inreducing pain dui increasing maternal
+satisfaction than non-pidural methods and, when
+Considering modern approaches, snot asociated with
+increased instrumentation fpiural analgesia hadno
+impacton the isk of caesarean section ot long-term,
+backache, and did not appear tohavean immediate
+effecton neonatal status as determined by Apgar scores
+in admissions to MCU.
+

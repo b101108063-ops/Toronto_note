@@ -1,0 +1,110 @@
+PS34 Psychiatry
+
+Somatic Symptom Disorder
+
+DSM-5 DIAGNOSTIC CRITERIA FOR SOMATIC SYMPTOM DISORDER
+Reprinted with permission from the Diagnostic and Statistical Manual of Mental Disorders, Sthed. 2013. American Psychiatric Assacaton
+
+A. one or more somatic symptoms that are distressing or result in significant disruption of daily life
+B. excessive thoughts, feelings, or behaviours related to the somatic symptoms or associated health concerns
+as manifested by at least one of the following:
+1. disproportionate and persistent thoughts about the seriousness of one’s symptoms
+2. persistently high level of anxiety about health or symptoms
+3. excessive time and energy devoted to these symptoms or health concerns
+. although any one somatic symptom may not be continuously present, the state of being symptomatic is
+persistent (typically >6 mo)
+
+fo
+
+somatic symptom disorder with predominant pain (previously pain disorder) for those whose somatic
+symptom is primarily pain
+
+prevalence: 5-7%; F > M although cultural factors might play a role
+
+other risk factors include: history of sexual abuse, lower education and socioeconomic status, and
+concurrent psychiatric/chronic physical illnesses
+
+complications: anxiety and depression commonly comorbid (up to 80%), unnecessary medications, or
+surger
+
+often 2 misdiagnosis for an insidious illness, so rule out all organic illnesses (e.g. multiple sclerosis)
+DDx: GAD, depressive disorder, delusional disorder, body dysmorphic disorder, obsessive compulsive
+disorder, other medical condition
+
+Illness Anxiety Disorder
+
+preoccupation with fear of having, or the idea that one has a serious disease to the point of causing
+significant impairment
+
+convictions persist despite negative investigations and medical reassurance; however, able to acknowledge
+the possibility that feared disease is not present, unlike a delusion, which is a fixed belief
+
+somatic symptoms are mild or not present (not acute)
+
+there is a high level of anxiety about health and the individual is easily alarmed about personal health
+status
+
+person engages in maladaptive behaviour such as excessive physical checking or total healthcare avoidance
+duration is 26 mo; onset in 3rd-4th decade of life
+
+epidemiology: 3-5% of patients seen by primary care physicians; increased risk of substance use problems
+possible role for SSRIs as treatment due to generally high level of anxiety
+
+specifiers: care-seeking type or care-avoidant type
+
+Conversion Disorder (Functional Neurological Symptom Disorder)
+
+one or more symptoms or deficits affecting voluntary motor or sensory function that mimic a neurological
+or GMC (e.g. impaired coordination, local paralysis, double vision, seizures, or convulsions)
+
+does not need to be preceded by a psychological event as per previous DSM criteria; however this is still
+worth exploring as many patients will present after such an event, or are related to a medical diagnosis in a
+first-degree relative
+
+incidence of 2-5 in 100000 in general population; up to 20-25% of neurology inpatients and 5% of psychiatry
+inpatients
+
++ more common in rural populations
+
+spontaneous remission in 95% of acute cases, 50% of chronic cases (>6 mo)
+
+incompatible findings detected from specific neurological testing can help differentiate between functional
+and neurological origin (e.g. Hoover's sign and dermatome testing)
+
++ for more details about Conversion Disorder, please consult the DSM-5
+
+Table 7. Differential of Somatic Symptom and Related Disorders
+
+‘Somatic Symptom ness Anxiety Disorder ConversionDisorder Factitious Disorder Malingering
+Disorder
+Somatic Symptoms Present Mildor absent Neurologic, vointary Psychological orphysial Psychologica or physical
+motor or sensory
+Symptoms Produced —_Unconsciously Unconsciously Unconsciously Consciously Consciously
+Physical Findings Absent Rosent Incompatible Possible, attemptsto Possible, attempts to
+falsity falsity
+
+Toronto Notes 2025
+
+Screening questions for somatic disorders
+1. When did the symptoms start?
+2. Have youbeen frustrated with getting
+no answers?
+
+What has been your experience with
+other physicians?
+
+4. Whatis your understanding of your
+symptoms?
+
+How have the symptoms affected your
+lite?
+
+Labelle indifference: an inappropriately
+cavalier patient attitude in the face of
+serious symptoms; classically associated
+with conversion disorder but is not
+diagnostic
+
+Hoover's sign: involuntary extension of
+the “normal” leg occurs when flexing the
+contralateral leg against resistance

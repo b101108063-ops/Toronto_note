@@ -1,0 +1,116 @@
+D28 Dermatology
+
+Neurofibromatosis (Type I; von Recklinghausen’s Disease)
+
+Clinical Features
++ diagnostic criteria includes 2 or more of the following, if parent not diagnosed with NF1:
+1. 6 or more café-au-lait patches >1.5 cm in an adult or 6 or more café-au-lait macules >0.5.cm in
+prepubertal individuals
+. axillary or inguinal freckling
+2 or more iris hamartomas (Lisch nodules)
+optic glioma
+2 or more neurofibromas of any type or one plexiform neurofibroma
+distinctive bony lesion (sphenoid wing dysplasia or thinning of long bone cortex)
+7. heterozygous pathogenic NF1 variant with a variant allele fraction of 50% in normal tissue
++ achild ofa parent who meets the diagnostic criteria above needs 1 or more to be diagnosed with NF1
+«+ associated with pheochromocytoma, astrocytoma, bilateral acoustic neuromas, bone cysts, scoliosis,
+precocious puberty, developmental delay, and renal artery stenosis
+« skin lesions less prominent in neurofibromatosis Type II (see Pediatrics, P89)
+
+aye we
+
+Pathophysiology
+
++ autosomal dominant disorder with excessive and abnormal proliferation of neural crest elements (Schwann
+cells, melanocytes), high incidence of spontaneous genetic variants
+
++ linked to pathogenic variants in the the neurofibromin gene NF1 resulting in loss of neurofibromin protein
+function
+
+Epidemiology
++ 1 in 3000 incidence
+
+Investigations
++ Wood's lamp to detect café-au-lait macules in patients with pale skin
+
+Management
+
++ refer to orthopedics, ophthalmology, plastics, and psychiatry
++ follow-up annually for brain tumours (e.g. astrocytoma)
+
+* excise suspicious or painful lesions
+
++ see Pediatrics, P89
+
+Oculocutaneous Albinism
+
+Clinical Features
+
++ hypopigmentation of skin and hair, including eyebrows and eyelashes, compared to family members and
+persons of same ethnicity
+
++ ocular involvement: decreased retinal pigmentation, impaired vision, photophobia, nystagmus, strabismus
+
+Pathophysiology
++ Caused by pathogenic variants in genes involved in melanin biosynthesis
+* autosomal recessive
+
+Epidemiology
++ 1in 20,000 incidence
++ varies across ethnic groups
+
+Investigations
+«+ often clinical diagnosis, may consider molecular testing
+
+Management
++ sun protection
++ close surveillance for skin cancers with whole body skin examinations
+
+ical Features
++ primary pigmentary disorder characterized by depigmentation
++ acquired destruction of melanocytes characterized by sharply demarcated white patches
++ associated with streaks of depigmented hair, chorioretinitis
++ sites: extensor surfaces and periorificial areas (mouth, eyes, anus, genitalia)
++ Koebner phenomenon, may be precipitated by trauma
+
+Pathophysiology
++ acquired autoimmune destruction of melanocytes
+
+Toronto Notes 2025
+
+e
+
+Interventions for Vititgo
+
+CochraneDB ys Rev 2015;2:€0003263
+
+Purpose: To assesstheetfects of existing interventions
+sed inthe management fvitligo
+
+Method: Systematic review of CTsassessng the
+effects of ito treatments (topcltreatments,
+light therapies, oral treatments, surgical methods)
+Primary outcomes were quay fife and>75%
+re-pigmentation.
+
+Results: Ninety-six RCTs with 4512 participants
+weredeemed eigil of which only 25 reported
+‘nthe primary outcomes and were finally inchded.
+Re pigmentation was better with combination
+therapy (acipotio pl PUVA, than PUVA alone;
+hydrocortisone-T-butyrate pls excimer laser
+1s.ecimerlaser alone; oral minipuse(OMP) of
+prednisolone plus narrowband UVB (48-UVB) ws
+‘OMPalone; azathioprine with PUVA PUVA alone;
+
+£ methorypsoralen(8-MOP phi sunlight,
+psoralen). Anon sigifiantincreas inthe proportion
+of participants with>75% re pigmentation was noted
+in favour of NB-UVB compared to PUMA. Compared to
+PUVA, the NV-UVB group reported lower incidences of
+nausea and erythema, but notching
+
+Conclusions: Some studies support existing therapies
+forvitiigo management, but follow-up isneeded to
+assessthe permanence of e-pigmentation and higher
+‘qualty RCTsneed tobe conducted.

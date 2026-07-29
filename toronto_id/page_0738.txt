@@ -1,0 +1,79 @@
+1D20 Infectious Diseases Toronto Notes 2025
+
++ virus travels via retrograde axonal transport from PNS to CNS
++ virus multiplies rapid yin brain, then spreads to other organs, including salivary glands
++ development of clinical signs occurs simultaneously with excretion of rabies virus in saliva
+
+= infected animal can transmit rabies virus as soon as it shows signs of disease
+
+Clinical Features
++ five stages of disease
+1. incubation period
+1-3 mo on average (can range from days to years, depending on distance from bite site to CNS)
+2. prodrome (<1 wk)
++ low-grade fever, malaise, anorexia, nausea/vomiting, headache, sore throat
+pain, pruritus, and paresthesia may occur at wound site
++ once prodromal symptoms develop, there is rapid, irreversible progression to death
+— progression from prodrome to coma and death may occur without an intervening acute
+neurologic syndrome
+3. acute neurologic syndrome: 2 types (<1 wk)
+a. encephalitic (most common): hyperactivity, fluctuating LOC, hydrophobia, aerophobia,
+hypersalivation, fever, seizures
+— painful phar eal spasms on encountering gust of air or swallowing water cause
+aerophobia an hydrophobia, respectively
+b. paralytic: quadriplegia, loss of anal sphincter tone, fever
+4.coma
++ complete flaccid paralysis, respiratory, and cardiovascular failure
+5. death (within days to weeks of initial symptoms)
+
+Investigations
+
++ purpose of diagnosis by investigations is to limit patient contact with others and to identify others exposed
+to the infectious source
+
+antemortem: direct immunofluorescence or PCR on multiple specimens: saliva, skin biopsy, serum, CSF
+post mortem: direct immunofluorescence in nerve tissue, presence of Negri bodies (inclusion bodies in
+neurons)
+
+Treatment
++ post-exposure prophylaxis depends on regional prevalence and circumstances surrounding injury
++ mandatory to report animal bite/contact that may result in rabies to Public Health Authority
++ if not previously immunized:
+wound care: clean wound promptly and thoroughly with soap and running water for 15 min
+passive immunization: rabies immunoglobulin (RIG) infiltrated into wound site, with any remaining
+volume administered IM in anatomical site distant from vaccine administration
+active immunization: inactivated human diploid cell rabies virus vaccine (HDCV) - series of 4 shots
+post-exposure on d 0, 3, 7, and 14
+* vaccine administered into deltoid
+¢ due to variable response rates, vaccine should not be administered into gluteal muscle
++ if previously immunized:
+= wound care: clean wound promptly and thoroughly with soap and running water for 15 min
+«= two doses of HDCV into deltoid on d 0 and 3
+= no RIG administered
++ treatment is supportive once patient manifests signs and symptoms of disease
+
+Prevention
++ pre-exposure vaccination
+= recommended for high-risk persons: laboratory staff working with rabies, veterinarians, animal and
+wildlife control workers, long-term travellers to endemic areas
+= Use standard precautions when interacting with patients
+
+Systemic Infectio
+
+Sepsis and Septic Shock @
+« see Respirology, R32 SOFA score >2 = 10% mortality risk in
+patient with suspected infection
+Definitions Hospital mortality with septic shock >40%
++ bacteremia: bacteria in blood from primary bloodstream infection or secondary to infection of another
+body system
++ sepsis: severe organ dysfunction resulting from dysregulated host response to infection
+= organ dysfunction identified via acute change in SOFA score >2 points
+= qSOFA score used initially to screen patients for suspected sepsis using three criteria: ie)
+
+L respiratory rate >22/min —s
+2. sBP <100 mmHg pecan ate 272hnin
+3. altered mentation (GCS <15) 2. sBP<100 mmHg
++ septic shock: subset of sepsis with circulatory and cellular/metabolic dysfunction; clinically defined in cases 3. tered mentation (6CS 15)
+where despite adequate volume resuscitation there is both
+1. persistent hypotension requiring vasopressors to maintain MAP >65 mmHg AND
+2. serum lactate >2 mmol/L

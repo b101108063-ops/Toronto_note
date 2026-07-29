@@ -1,0 +1,88 @@
+ERI4 Emergency Medicine Toronto Notes 2025
+
++ local wound exploration under direct vision may determine lack of peritoneal penetration (not reliable in
+inexperienced hands) with the following exceptions:
+«= thoracoabdominal region (may cause pneumothorax)
+«= back or flanks (muscles too thick)
+
+Management
+
+«+ general: ABCs, fluid resuscitation, and stabilization
+
++ All penetrating trauma may require laparotomy if signs of peritonitis, hemodynamic instability or
+hematemesis
+
+Genitourinary Tract Injuries
+
+«+ see Urology, U35
+
+Etiology
++ blunt trauma: often associated with pelvic fractures
+= upper tract
++ renal
+— contusions (minor injury - parenchymal ecchymoses with intact renal capsule)
+— parenchymal tears/laceration: non-communicating (hematoma) vs. communicating
+(urine extravasation, hematuria)
+* ureter: rare, at uretero-pelvic junction
+= lower tract
+¢ bladder
+— extraperitoneal rupture of bladder from pelvic fracture fragments
+— intraperitoneal rupture of bladder from trauma and full bladder
+¢ urethra
+— posterior urethral injuries: MVCs, falls, pelvic fractures
+— anterior urethral injuries: blunt trauma to perineum, straddle injuries/direct strikes
+= external genitalia
++ penetrating trauma
+= damage to: kidney, bladder, ureter (rare), external genitalia
++ acceleration/deceleration injury
+= renal pedicle injury: high mortality rate (laceration and thrombosis of renal artery, renal vein, and their
+branches)
++ iatrogenic
+= ureter and urethra (from instrumentation)
+
+History
+
++ mechanism of injury
+
++ hematuria (microscopic or gross), blood on underwear
++ dysuria, urinary retention
+
++ history of hypotension
+
+Physical Exam
+
+abdominal pain, flank pain, CVA tenderness, upper quadrant mass, perineal lacerations
+
++ DRE: sphincter tone, position of prostate, presence of blood
+
++ scrotum: ecchymoses, lacerations, testicular disruption, hematomas
+
+bimanual exam, speculum exam
+
+extraperitoneal bladder rupture: pelvic instability, suprapubic tenderness from mass of urine or
+extravasated blood
+
+intraperitoneal bladder rupture: acute abdomen
+
+urethral injury: perineal ecchymosis, blood at penile/urethral meatus, high riding prostate, pelvic fractures
+
+Investigations
++ urethra: retrograde urethrography ©
+
++ bladder: U/A, CT scan, urethrogram + retrograde cystoscopy + cystogram (distended bladder + post-void)
+
++ ureter: retrograde urethrogram Gross hematuria suggests bladder injury
+
++ renal: CT scan (best, if hemodynamically stable), intravenous pyelogram
+
+Management
++ urology consult
++ renal
+= minor injuries: conservative management
++ bed rest, hydration, analgesia, antibiotics ©
+= major injuries: admit
+* conservative management with frequent reassessments, serial U/A + re-imaging Inthe case of gross hematuria, the
+surgical repair (exploration, nephrectomy): hemodynamically unstable or continuing to bleed >48 genitourinary systemis investigated
+h, major urine extravasation, renal pedicle injury, all penetrating wounds and major lacerations Ge ern
+» maj , renal p jury, all p ig i . cqystogram, etc)
+infections, renal artery thrombosis

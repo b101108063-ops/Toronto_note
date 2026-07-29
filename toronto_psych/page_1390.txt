@@ -1,0 +1,53 @@
+PS36 Psychiatry
+
+Sleep Disorders
+
++ for more information regarding normal sleep cycles and the illnesses described, see Neurology, Sleep
+Disorders, N48
+
+Overview
++ adequate sleep is essential to normal functioning; deprivation can lead to cognitive impairment and
+increased mortality
++ circadian rhythms help regulate mood and cognitive performance
+neurotransmitters commonly implicated in psychiatric illnesses also regulate sleep
+«= increased ACh activity and decreased activity of monoamine neurotransmitters are associated with
+greater REM sleep
+«= decreased adrenergic and cholinergic activity are associated with NREM sleep
+depression is associated with decreased A (deep, slow-wave) sleep, decreased REM latency, and increased
+REM density
+criteria for sleep disorders:
+= must cause significant distress or impairment in normal functioning
+= not due to a General Medical Condition (GMC) or medications/drugs (unless specified)
+
+Management
+« sleep hygiene isa simple, effective, but often underutilized method for addressing sleep disturbances;
+
+recommendations include:
+waking up and going to bed at same time every day, including on weekends
+avoiding long periods of wakefulness in bed
+not using bed for non-sleep activities (e.g. reading, TV, work)
+avoiding screens, especially smartphones and iPads in the hour before bed
+avoiding napping
+discontinuing or reducing consumption of alcohol, caffeine, drugs
+exercising at least 3-4x/wk (but not in the evening if this interferes with sleep)
++ cognitive behavioural therapy for insomnia (CBTi) is considered first-line treatment for chronic insomnia
++ pharmacological treatments are illness-specific
+
+= avoid benzodiazepines: increased risk of abuse/dependence, rebound anxiety/insomnia, cognitive
+
+impairment, daytime somnolence, and disturbed sleep architecture (i.e. suppresses deep and REM
+sleep)
+nn benodiaepines (e.g. zopiclone/eszopiclone/zolpidem, lemborexant, low dose doxepin) are
+preferred and effective for short-term treatment; they should be re-evaluated regularly as long-term use
+is associated with dependency
+“z-drugs”: common side-effect is bitter metallic taste, which is improved by something acidic such as
+orange juice; high doses increase risk of cognitive impairment and falls (particularly among the elderly)
+lemborexant (orexin receptor antagonist) reduces wake pressure/drive, as opposed to increasing sleep
+pressure/drive with other sedating agents; avoid use in patients with narcolepsy or cataplexy
+trazodone, mirtazapine, and quetiapine can be prescribed off-label if there are comorbid psychiatric
+symptoms
+lowlose amitriptyline can be prescribed for patients with comorbid pain
+screen for complex sleep behaviours before and after prescribing a medication for insomnia
+consider whether sleep issue is part of another psychiatric or medical illness and treat those conditions
+
+Toronto Notes 2025

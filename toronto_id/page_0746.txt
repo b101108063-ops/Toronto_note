@@ -1,0 +1,160 @@
+1D28 Infectious Diseases
+Natural History
+‘Asymptomatic ‘Symptomatic
+Stage Stage
+a
+5 er ee ee D4 cell count
+g Anti-HIV1 antibodies
+8 ———= Viralloads
+Z
+s
+&
+
+Figure 9. Relationships between CD4 T-cell count, viral load, and anti-HIV1 antibodies
+
+Acute (Infection) Retroviral Syndrome
+
++ 40-90% experience an acute non-specific illness (may include fever, pharyngitis, lymphadenopathy, rash,
+arthralgias, myalgias, headache, GI symptoms, oral ulcers, weight loss) 2-6 wk post-exposure lasting 10-15 d
+
++ hematologic disturbances (lymphopenia, thrombocytopenia)
+
++ 10-20% present with aseptic meningitis, CN palsies, or other neurological presentations; HIV RNA and/or
+p24 may be detected in CSF
+
++ associated with a high level of plasma viremia and therefore high-risk of transmission
+
+Asymptomatic (Latent) Stage
+
+during latent phase, HIV infects and replicates in CD4+ T lymphocytes (lymph nodes)
+
++ normal CD4 count in adults: 500-1100 cells/mm?
+
+CD4 count drops 60-100 cells/mm3 per yr but is variable
+
++ by 10yr post-infection, 50% have advanced HIV (i.e. AIDS), 30% demonstrate milder symptoms, and <20%
+are asymptomatic if untreated
+
+Definition of AIDS
+
++ HIV-positive AND one or more of the clinical illnesses that characterize AIDS, including: opportunistic
+infections (e.g. Pneumocystis jiroveci pneumonia (PJP, previously PCP), esophageal candidiasis, CMV,
+Mycobacterium avium complex (MAC), TB, toxoplasmosis), malignancy (Kaposi's sarcoma, invasive
+cervical cancer), wasting syndrome OR CD4 <200 (or <15%); this is largely historical because ART can
+reverse CD4 count decline
+
+Table 22. Symptomatic Stage (CD4 count thresholds for classic clinical manifestations)
+
+cD4Counts Possible Manifestations
+<500cellsimm? Often asymptomatic
+Constitutional symptoms: fever night sweats, fatigue, weightloss
+Mucocutaneouslesions: sebortheic dermatitis, HSV, VZV (shingles), ora hairy leukoplakia (EBV), candidiasis (oral, esophageal, vaginal), KS
+Recurrent bacterial infections, especialy pneumonia
+Pulmonary and extrapulmonary tuberculosis
+lymphoma
+HPV associated malignancies,
+«200 cellsimm? ——_-Preumocystsjrovec pneumonia (formerly PCP)
+ks
+Oral thrush
+Local and/or disseminated fungal infections: Cryptococcus neoformans, Coccdioides immits, Histoplasma capsulatum
+-<100 cellsimm? Progressive multifocal leukoencephalopathy (PML) - JC virus
+iS towplasmosis
+50 cellsimm? ‘HVintection:rtinits, colts, cholangiopathy, CHS disease
+ac
+Bacillary angiomatosis (disseminated Bartonella)
+Primary CNS lymphoma (PCKSL)
+Laboratory Diagnosis
+
++ anti-HIV antibodies detectable after a median of 3 wk, virtually all by 3 mo (therefore 3 mo window period)
+
++ initial screening test (3rd generation antibody test): ELISA detects serum antibody to HIV; sensitivity
+99.5%
+
++ increasingly, combination p24 antigen/HIV antibody tests (4th generation) used for screening; improved
+sensitivity in early or acute infection and sensitivity/specificity approach 100% for chronic infection
+
++ confirmatory test: if positive screen, Western blot confirmation by detection of antibodies to at least two
+different HIV protein bands (p24, gp41, gp120/160); specificity >99.99%
+
+Toronto Notes 2025
+
+issioninSerodfferent Couples when the HIV-
+Partnerisusing Suppressive Antiretroviral
+Therapy
+
+MA2016;316(2). 171181
+
+Purpose: To evaluate heat of within-coupe HIV
+transmission betrosenal and MSM) during periods
+fsexwithout condoms and when the HI partner had
+HV-1RNA<200 copiesin.
+
+Methods: Prospective, observational PARTNER study,
+carolled 166 HY serodferent couples (n which the
+is pariner was taking ART who reported having
+condomles se. Primary outcome wasrisk af within.
+Couple HNVtcansmisson to HN- pare.
+
+Results: Envolld couples provided 238 eit
+couple yeas of follow-up. Couples reported
+condomless sexforamedian of 2 yt and condomess sex
+with other partners was reported by 108 HIV-MSM and
+‘heteroseuals. While 11 HIV-partners became HN
+{VOMSH;Theteroserua), no phylogeneticaly inked
+transmissions ocared over eibecouple yeas of
+{olow-up(within-couple HIV transmission =O, 95% Cl
+30-0. per 100couple yeas
+
+Conclusions: Among seroiferentheterasexualand
+NSM couples in which HI partner was using ART and
+wh reported condomles se, during median 13 yi!
+couple follow-up, there were no documented cases of
+within <ouple transmission,
+
+Seroconversion: Development of
+detectable anti-HIV antibodies
+
+Window Period: Time between infection
+and development of anti-HIV antibodies;
+when serologic tests (ELISA, Western bio)
+are negative
+
+All infants born to HIV-infected
+mothers have positive enzyme linked
+‘immunosorbent assay (ELISA) tests because
+of circulating maternal anti-HIV antibodies,
+which disappear by 18 mo; early diagnosis
+ts made by detection of HIV RNA in plasma
+
+HLA.B'5701 Testing
+
+Abacavir hypersensitivity reactions usually
+‘only occur in individuals carrying this HLA
+allele (-5-7% of White individuals, lower
+prevalence in other ethnic groups)
+
+Routine screening for HLA-B*5701 at
+baseline and definitely prior to abacavir use
+
+HIV Status
+(CD4 count: progress and stage of disease
+Viral load: rate of progression
+
+HIV Non-Disclosure Laws in Ontario
+In 2017, Ontario changed HIV non-
+disclosure laws for people living with HIV,
+where non-disclosure of HIV status toa
+sexual partner is no longer considered a
+minal offense if one of the following
+teria is met:
+
+On antiretroviral therapy with a viral load
+
+<200 copiesiml for at least 6 mo
+
+Viral load between 200-1500 copies/mL
+
+and a condomis used properly and does
+
+not break
+

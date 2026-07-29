@@ -1,0 +1,125 @@
+IDi4 Infectious Diseases
+
+Risk Factors
++ gonococcal
+
+= age <40 yr, multiple partners, unprotected intercourse, MSM
++ non-gonococcal
+
+most affected children are previously healthy with no risk factors; occasionally preceding history of
+
+minor trauma
+bacteremia (extra-articular infection with hematogenous seeding, endocarditis)
+prosthetic joints/recent joint surgery
+underlying joint disease (e.g. rheumatoid arthritis, osteoarthritis)
+immunocompromised (e.g. DM, chronic kidney disease, alcohol use disorder, cirrhosis, HIV infection)
+loss of skin integrity (e.g. cutaneous ulcer, skin infection)
+age >80 yr
+
+Cl al Features of Gonococcal Arthi
++ two forms (although often overlap):
+
+= septic arthritis form: local symptoms in involved joint (swelling, warmth, pain, inability to weight bear,
+
+decreased range of motion)
+= bacteremic form: systemic symptoms of fever, malaise, chills
+
+Clinical Features of Non-Gonococcal Arthritis
+
+acute onset of pain, swelling, warmth, decreased range of motion + fever and chills; in children, refusal to
+weight bear
+
+most often in large weight-bearing joints (knee, hip, ankle) and wrists
+
+usually monoarticular (polyarticular risk factors: rheumatoid arthritis, endocarditis, GBS)
+
+Investigations
+consider rheumatologic causes for monoarthritis (see Rheumatology, Table 4, RH5)
+gonococcal: blood C&S, as well as endocervical, urethral, rectal, and oropharyngeal testing
+non-gonococcal: blood C&S
+arthrocentesis is mandatory; synovial fluid analysis should include CBC and differential, Gram stain, C&S,
+and assessment for crystals
+= infectious = opaque, increased WBCs (>15000/mm3: likelihood of infection increases with increasing
+WBCs), PMNs >90%, culture positive
+= growth of N. gonorrhoeae from synovial fluid is successful in <50% of cases
++ + plain x-ray: assess for osteomyelitis, provides baseline to monitor treatment
+
+Treatment
++ medical
+= empiric IV antibiotics: specific choice depends on clinical scenario and local guidelines; for most
+adults, cefazolin + vancomycin is reasonable; for fully vaccinated children, cefazolin or cloxacillin IV
+unless MRSA is a consideration - delay may result in joint destruction
+= Gram stain and cultures guide subsequent treatment
+= gonococcal: ceftriaxone (+ azithromycin for concurrent treatment of C. trachomatis), 7 d of therapy
+usually sufficient
+= non-gonococcal: antibiotics against Streptococcus spp. (2-3 wk IV followed by PO), S. aureus (4 wk IV
+minimum), or GNB (4 wk, newer evidence suggests early switch to PO is safe and effective)
++ indications for surgical intervention (see Orthopedic Surgery, ORI1)
+= would consider surgical intervention in all cases of septic arthritis if possible
+= persistent positive joint cultures on repeat arthrocentesis
+= hip joint involvement, especially in pediatric population
+= prosthetic joint
++ daily joint aspirations until culture sterile
++ physiotherapy
+
+Prognosis
+
++ gonococcal: responds well after 24-48 h of initiating antibiotics (usually complete recovery)
+
+* non-gonococcal: in children, generally good outcome if treated promptly; in adults, up to 50% morbidity
+(decreased joint function/mobility)
+
+Diabetic Foot Infections
+
+Etiology
+
+neuropathy, PVD, and hyperglycemia contribute to foot ulcers that heal poorly, and are predisposed to
+infection
+
++ organisms in mild infection: Streptococcus spp., S. aureus
+
++ organisms in moderate/severe infection: polymicrobial with aerobes (S. aureus, Streptococcus, Enterococcus,
+
+GNB) and anaerobes (Peptostreptococcus, Bacteroides, Clostridium)
+
+al Features
+
++ notallulcers are infected
+
++ consider infection if: probe to bone (see below), ulcer present >30 d, recurrent ulcers, trauma, PVD, prior
+amputation, loss of protective sensation, renal disease, or history of walking barefoot
+
+Toronto Notes 2025
+
+Intra-articular steroids are contraindicated
+nti septic arthritis has been excluded
+
+Guidetines onthe prevention of foot deersin
+persons with dabetes(INGDF 2023 update)
+
+Diabetesimetabolismresearch and reviews. 2024
+Mar 40(3)23651
+Recommended initia inestigation for suspected
+‘steomyeltisof the footina person with diabetes
+ince pobe-to-bone ts, plain say, and
+inflammatory biomarkers suchas CRP, ESR, and
+rocakitonin, MRI can be used when doubt about the
+diagnosis emai
+
+Bone samples, 1s opposed to soft tise samples,
+shouldbe called fr cute.
+Management includes upto 3wkot antici the
+ase of minor amputation wth postive bone margin
+cate, or wo antbitics inthe absence of bone
+resecton/amputation
+Fvaluateforremission of diabetes elated osteomyetis
+after a minimum of 6 mo ate ending antiatictherapy.
+
+te)
+
+ark nfectious Disease Til table for more
+jon onthe OVIVA trial Itdetais whether oral
+
+therapyisnninerortoV antibiotic therapy
+forthe management of comple orthopedic infections,
+

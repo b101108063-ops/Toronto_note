@@ -1,0 +1,116 @@
+FM30 Family Medicine
+
+= consider asking if patient feels safe at home or in their relationships; several screening tools (see
+sidebar) exist to identify victims of intimate partner violence
+= make sure to determine the victim’s level of immediate and long-term danger and ask if there are
+‘weapons in the house
+ensure patient safety
+«= victim most at risk for homicide when attempting to leave home or following separation
+« safety planning includes ensuring that there is access to an exit in the home, establishing a safe place
+
+to go, and having emergency items prepared should the patient need to leave quickly (including money,
+
+clothes, keys, medications, and important documents)
+
+provide community resources
+
+= shelter or helpline number with legal advocacy and counselling services
+
+«= involve social workers or domestic violence advocates with the patient’s consent
+appointment for follow-up
+reassure patient is not to blame and that the assault is a crime
+goal is to convey support
+
+= reporting suspected or known child abuse is mandatory
+
+= spousal abuse is a criminal act, but not reportable without the person’s permission
+
+quotations
+
+ELDER ABUSE
+«see Geriatric Medicine, GM7
+
+CHILD ABUSE
++ see Pediatrics, P18
+
+Dyspepsia
++ see Gastroenterology, G10
+
+Definition and Clinical Features
++ defined as epigastric pain or discomfort
++ can be associated with fullness, belching, bloating, heartburn, food intolerance, nausea and vomiting
+
+Epidemiology
++ annual incidence 1-2%, prevalence 20-40%
+
+Etiology
+
++ common: functional, PUD, GERD, gastritis
+
++ others: cholelithiasis, irritable bowel syndrome, esophageal or gastric cancer, pancreatitis, pancreatic
+cancer, Zollinger-Ellison syndrome, and abdominal angina
+
+History
+
++ symptoms may not be useful in finding cause
+
++ associated with eating, anorexia, nausea and vomiting, alcohol, NSAID use
++ red flags: vomiting, bleeding/anemia, abdominal mass, dysphagia (VBAD)
+
+Investigations
++ for new onset dyspepsia:
+= <60 yr without high-risk features, test for H. pylori using the urea breath test, stool antigen test, or
+serology
+= 260 yr should undergo upper endoscopy to rule out organic pathology
+
+Management
++ lifestyle modifications: decrease caffeine and alcohol intake, avoid citrus food, smaller and more frequent
+meals, avoid supine position right after meals, smoking cessation
++ pharmacologic treatment
+= gastric acid suppression: H2 blockers, PPIs; both are effective for PUD and GERD
+= TCAs or prokinetics: e.g. metoclopramide; effective for functional dyspepsia
++H. pylori eradication
+= do not keep patients on PPI without at least 1 trial off the medication per year
+« (https://choosingwiselycanada.org/perspective/ppi-toolkit/)
++ for those who do not respond to treatment, upper endoscopy should be considered.
+= if endoscopy is negative, defined as functional dyspepsia
+
+DOCUMENT all evidence of abuse-related visits for medico-legal purposes; when possible provide verbatim
+
+Toronto Notes 2025
+
+Red Flags
+
+Dyspepsia
+
+Weight loss
+Dysphagia
+
+Persistent vomiting
+
+Gi bleeding (hematemesis, hematochezia,
+rmelena)
+
+Onset age >50
+
+H. pylori Eradication
+Bismuth Quadruple Therapy (PBMT) or
+Concomitant Non-Bismuth Quadruple
+Therapy (PAMO for 4 days
+
+PBMT:
+1) PPI standard dose BID
+
+2) Bismuth subsalicylate 524 mg QI
+3) Metronidazole 500 mg QID
+
+4) Tetracycline 500 mg QID
+
+PAMC:
+
+1) PPI standard dose BID.
+
+2) Carithromycin 500 mg BID
+3) Amoxicilin 1000 mg BID
+
+4) Metronidazole 500 mg BID

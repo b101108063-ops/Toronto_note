@@ -1,0 +1,352 @@
+===== SECTION: 803 =====
+## Page 803
+
+MU3 Medical Imaging
+
+Approach to Abdominal Computed Tomography
+
++ look through all images in gestalt fashion to identify any obvious abnormalities
++ look at each organ or structure individually, from top to bottom, evaluating the size and shape of each area
+of increased or decreased density
+
++ evaluate the following:
+
+= soft tissue window
+
++ liver, gallbladder, spleen, and pancreas
+
+adrenals, kidneys, ureters, and bladder
+stomach, duodenum, small bowel mesentery, and colon/appendix
+retroperitoneum (aorta, vena cava, and mesenteric vessels; look for adenopathy in vicinity of
+vessels)
+
+* peritoneal cavity for fluid or masses
+
++ abdominal wall and adjacent soft tissue
+= lung window
+
++ visible lung (ba
+= bone window
+
+* vertebrae, spinal cord, and bony pelvis
+
+eee
+
+es)
+
+Gallbladder Small bowel
+Head of the pancreas ‘ Spleen
+Liver Bey S Leftkidney
+Right kidney
+Blood vessels
+a. Aorta
+
+Right crus of diaphragm 1 . b. Inferior vena cava
+
+Vertebra / . Superior mesenteric vein
+
+d. Superior me
+
+Erector spinae muscles ~ e. Leftrenal ar
+
+Figure 19. Axial abdominal computed tomography
+
+CT and Bowel Obstruction
+
++ cause of bowel obstruction is rarely found on plain films; CT is the best imaging modality
+
++ the “3,6,9” rule is a very useful guide for determining when the bowel is dilated; the maximum diameter for
+the small bowel is 3 cm, for large bowel is 6 cm, and for cecum is 9 cm; this can also be useful to distinguish
+small and large bowel, and to assess for ‘impending’ cecal perforation (e.g. post-untreated Ogilvie’s
+syndrome)
+
++ closed-loop obstruction: an obstruction in two locations (usually small bowel) creating a loop of bowel
+obstructed both proximally and distally; complications (e.g. ischemia, perforation, necrosis) may occur
+quickly
+
+CT Colonography (Virtual Colonoscopy)
+
++ emerging imaging technique for evaluation of intraluminal colonic masses (i.e. polyps, tumours)
+
++ two CT scans of the abdomen (prone and supine) after the instillation of carbon dioxide into a prepped
+colon
+
++ computer reconstruction of 2D CT images into a 3D intraluminal view of the colon
+
++ lesions seen on 3D images correlated with 2D axial images
+
++ indications: surveillance in low-risk patients, incomplete colonoscopy, or staging of obstructing colonic
+lesions
+
+Toronto Notes 2025
+-e 
+
+===== SECTION: 804 =====
+## Page 804
+
+MIl4 Medical Imaging
+Contrast Studies
+Table 10. Types of Contrast Studies
+‘Study Organ Procedure Description Assessment Findings
+Cine Esophagogram Cervical esophagus Contrast agent swallowed Dysphagia, swallowing ‘Aspiration, webs (partial
+Recorded for later playback and incoordination, recurrent ‘ocdusion), Zenker’s diverticulum,
+analysis aspiration, postoperativecleft _cricopharyngeal bar, laryngeal
+
+palaterepair
+
+Barium Swallow Thoracic esophagus Contrast agentswallowed Dysphagia, rue out GERD, post- Achalasia, hiatushernia,
+underfluoroscopy, selective esophageal surgery
+images captured
+Upper Gl Series Thoracic esophagus, Double contrast study: Dyspepsia, investigate possible Ulcers, neoplasms, filing defects
+stomach, and duodenum 1. Barium to coat mucosa upper Gl bleed, weight loss!
+2.6as pills fo distention anemia, post gastic surgery
+Patient NPO after midnight
+Enterography and Entire small bowel Enterography: patient drinks +2 IBD, malabsorption, weight loss! Neoplasms, IBD, malabsorption,
+
+Enterociysis (MRI or CT) Lofsorbitol, psylium, or barium anemia, Mecke’s diverticulum
+solution to distend small bowel
+
+Enteroclysis: MJ tube used to
+
+pump barium, psylium, or
+
+Sorbitol contrast media directly
+
+into small bowel
+
+infection
+
+Specific Visceral Organ Imaging
++ for the management of urgent and emergent peritoneal masses
+
+Liver
+
++ U/S: assessment of cysts, abscesses, tumours, biliary tree
+
++ CT +IV: most popular procedure for imaging the liver parenchyma (primary liver tumours, metastases,
+cysts, abscesses, trauma, cirrhosis)
+
++ MRI: excellent in evaluation of primary liver tumours, liver metastases, other parenchymal conditions;
+particularly helpful in differentiating common benign hepatic hemangiomas from primary liver tumours
+and metastases
+
++ elastography: measures shear wave velocity by U/S (FibroScan) or MRI (MR elastography) to non-invasively
+
+juantify liver fibrosis
+
++ findings:
+
+. advanced cirrhosis: liver small and irregular (fibrous scarring, segmental atrophy, regenerating
+nodules)
+
+= porto-systemic shunts: caput medusae, esophageal varices, spontaneous spleno-renal shunt
+
++ U/S: cirrhosis appears nodular and hyperechoic with irregular areas of atrophy of the right lobe and
+hypertrophy of the caudate or left lobes
+
+«= CT: fatty infiltration appears hypodense
+
+* some masses require contrast to be visualized
+
++ upon identifying a liver lesion on imaging (e.g. U/S), the follow-up imaging modality should be CT or MRI.
+CT would be four-phase non-contrast, arterial, venous, and delayed to distinguish the common benign liver
+lesion hemangioma from other tumours
+
+Spleen
+
++ U/S,CT, nuclear medicine scan (nuclear medicine only to distinguish ectopic splenic tissue from enhancing
+tumours)
+
++ CT for splenic trauma (hemorrhage)
+
+Toronto Notes 2025
+
+Colorectal Cancer:CT Colonography and
+Colonoscopy for Detection Systematic Review and
+Meta-Analysis
+
+aiology 2011258 393405
+
+Purpose: Toassessthesenstivt of computed
+tomography colonography (CTC) and optical
+colonoscopy (00) for colorectal cance (CR) detection.
+Methods: Systematicreview and meta-analysis of
+agnostic studies evaluating CTC detection of CRC
+based ona prio eligibility ceria, in particular
+requiring both OC and histological confimation of
+disease. Stuties that abo assessed true-posiive
+
+and false-negative diagnoses with OC were used to
+calclate 0C sensitivity Sensitty of CT colonography
+and 0Cfor CRC was he main outome.
+
+Results: 49 studies on 1,151 patients undergoing
+agnostic study for detection of CRC were induded.
+(IChasa sensitivity of 96.1% (95% 93.8% 97.78)
+and OChasa senstvty of 4.7% (95%.C190.4%-
+51.2}forthe detection of CR,
+
+Conclusion: CTCis highly senstve forthe detection
+of Cand maybe a better modality fo tential
+investigation of suspected CR, assuming reasonable
+specifiy,
+
+‘See Landmark Medical Imaging Trials table
+for more information on the AMACING trial
+
+comparing hydration to no hydration in the
+incidence of contrast-induced nephropathy.
+
+Normal iver appears more dense than
+spleen on CT. Ifless dense, suspect fatty
+infiltration
+
+5Hs
+Hoc
+
+Hydatid cyst
+
+Hemangioma
+
+Hepatic adenoma
+Hyperplasia focal nodular)
+-e 
+
+===== SECTION: 805 =====
+## Page 805
+
+MIS ‘Medical Imaging
+
+Table 11. Imaging of Liver Masses
+
+us ar
+Benign Mass.
+Hepatic Adenoma Well-defined mass with hyperechoic areasdue to Well-defined hypervascular lesion with enlarged central
+hemorrhage vessel becoming slightly soattenuating in venous phase
+Hemangioma Homogeneous hyperechoic mass Peripheral globular enhancement in arterial phase
+
+scans; central filling and persistent enhancement on
+delayed scans
+
+Focal Nodular Hyperplasia Well-defined mass, central scar seenin 50% of cases Hypervascular massin arterial phase and isoattenvation
+
+toliverin porta venous phase
+
+Abscess I-defined, iregular margin, hypoechoic contents _—_Lowattenuation lesion with an regular enhancing wall
+Hydatid cyst Simple/mutiloculated cyst Low attenuation simple or multilocuated cyst;
+calaifation
+Malignant Mass
+Hee Single/mutiple masses, or dfuse infiltration Hypervascular; enhancesin arterial and washes outin
+venous phase with portal enous tumour thrombus
+Metastases Multiple masses ofvariable echotexture Usually low attenuation on contrast-enhanced scan
+Pancreas
++ tumours
+
+= U/S: identification of echogenic mass; often first diagnostic imaging completed in the emergency setting
+= CT: preferred modality for diagnosis/staging
++ ductal dilation secondary to stone/tumour
+= MRCP: imaging of ductal system using MRI cholangiography; no therapeutic potential
+= ERCP: endoscopic injection of dye into the biliary tree and x-ray imaging to assess pancreatic and
+biliary ducts; therapeutic potential (stent placement, stone retrieval)
+* acute Pancreatitis is acomplication in 5% of diagnostic procedures and 10% of therapeutic
+procedures
+
+Biliary Tree
+
++ U/S: bile ducts usually visualized only if dilated, secondary to obstruction (e.g. choledocholithiasis, benign
+stricture, mass)
+
+CT: dilated intrahepatic ductules seen as branching, tubular structures following pathway of portal venous
+system
+
+MRCP, ERCP, PTC: further evaluation of obstruction and possible intervention
+
+as 99 Imagi 9
+
+Acute Cholecystitis
+
++ pathogenesis: inflammation of gallbladder resulting from sustained gallstone impaction in cystic duct, or
+in the case of acalculous cholecystitis, due to gallbladder ischemia or cholestasis (see General and Thoracic
+Surgery, GS56)
+
+best imaging modality: U/S (best sensitivity and specificity); nuclear medicine (HIDA scan) can help
+diagnose cases of acalculous or chronic cholecystitis
+
+findings: most sensitive findings are presence of gallstones and positive sonographic Murphy's sign
+(tenderness from pressure of U/S probe over visualized gallbladder). Secondary findings include thickened
+gallbladder wall (>3 mm), dilated gallbladder, and pericholecystic fluid
+
++ management: admit, NPO, IV fluids, analgesia, cefazolin, and early laparoscopic cholecystectomy
+
+Acute Appendicitis
++ pathogenesis; luminal obstruction > bacterial overgrowth > inflammation/swelling > increased pressure
+> localized ischemia > gangrene/perforation > localized abscess or peritonitis (see General and Thoracic
+Surgery, GS35)
++ best imaging modality: U/S or CT
++ findings:
+= U/S: thick-walled appendix, appendicolith, dilated fluid-filled appendix, non-compressible; may also
+demonstrate signs of other causes of RLQ pain (e.g. ovarian abscess, IBD, ectopic pregnancy)
+= CT: enlargement of appendix (>6 mm in outer diameter), enhancement of appendiceal wall, adjacent
+inflammatory stranding, appendicolith; also facilitates percutaneous abscess drainage
++ management: admit, NPO, IV fluids, analgesia, cefazolin + metronidazole, and appendectomy
+
+Acute Diverti
++ pathogenesis: erosion of the intestinal wall (most commonly rectosigmoid) by increased intraluminal
+pressure or inspissated food particles > inflammation and focal necrosis > micro- or macroscopic
+
+perforation (see General and Thoracic Surgery, GS39)
++ best imaging modality: CT, although U/S is sometimes used
+* contrast: oral and rectal contrast given before CT to opacify bowel
+
+Toronto Notes 2025
+
+@
+
+sed Estimates of Diagnostic Test Sensitivity and
+Specificity nSuspected Biliary Tract Disease
+Archlatrn Med 198:1542573-2581
+
+Purpose: To assessthe sensiity and specificity
+tests used to diagnose cholelithiasis and acute
+cholecystitis, induding US, oral choleystography,
+radionucleotde scanning with Technetum, MR, of CT
+Methods: Meta-analysis of studies evaluating the
+use of dferentima ging modaltiesin the diagnosis of
+biary tract disease. Man outcomes were sensitivity
+and speci ofthe dferentimaging modalities,
+sng the gold standard of surgery, autopsy, or 3
+
+‘mo nical follow-upfor cholelithiasis, Fr acute
+cholecystitis, pathologic ndings, confimation of
+analternat disease, or cinicl resolution during
+hospitalization fr cholecystitis were used asthe
+standard.
+
+Results: Thiny studies wereinchded. Fr evalating
+cholelithiasis, Shad the best unadjusted sensitivity
+(097,955 C10.95-0:99) and specificity (0.95, 95%
+(1088-100) andaqsted (or verification bias)
+sensi (0,8; 95% C1 0.76-0.92 and specicty
+(0:98;955€1097-1.00. For evaluating acute
+cholecystitis, raionuletie scanning has thebest
+senstivty (097; 95% C10.96- 0.88 and specificity
+(0.90,95%C10.86-0.95)
+
+Condusion: U/Sisthetestof choice for diagnosing
+cholelithiasis andradhonuceoide scanning isthe
+superior testfor diagnosing acute cholecystitis,
+
+Figure 20. ERCP: biliary tree (A)
+common bile duct (B) cystic duct
+(C) common hepatic duct (D) right
+hepatic duct (E) left hepatic duct
+
+Figure 21. Ultrasound: longitudinal
+view of an inflamed gallbladder
+
+Arrowheads show thickened walls
+and pericholecystic fluid
+
+Figure 22. Ultrasound: inflamed
+appendix
+-e 
