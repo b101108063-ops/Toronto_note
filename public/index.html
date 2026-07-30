@@ -9,6 +9,7 @@
     :root {
       --bg-primary: #ffffff;
       --bg-secondary: #f8fafc;
+      --bg-group: #f1f5f9;
       --bg-intro: #f0f9ff;
       --border-intro: #bae6fd;
       --text-primary: #1e293b;
@@ -20,6 +21,7 @@
     [data-theme="dark"] {
       --bg-primary: #1a1a2e;
       --bg-secondary: #16162a;
+      --bg-group: #1f1f3a;
       --bg-intro: #1e3a5f;
       --border-intro: #3b82f6;
       --text-primary: #e4e4e7;
@@ -36,14 +38,17 @@
     nav a:hover { text-decoration: underline; }
     h1, h2 { color: var(--text-primary); }
     h1 { font-size: 2em; text-align: center; margin-bottom: 10px; }
-    h2 { font-size: 1.3em; border-bottom: 1px solid var(--border); padding-bottom: 5px; }
+    h2 { font-size: 1.2em; border-bottom: 1px solid var(--border); padding-bottom: 5px; margin: 25px 0 15px 0; }
+    h2:first-of-type { margin-top: 0; }
     .subtitle { text-align: center; color: var(--text-secondary); font-size: 1.1em; margin-bottom: 30px; }
-    .card-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 15px; margin-top: 20px; }
-    .card { background: var(--bg-secondary); border: 1px solid var(--border); border-left: 4px solid var(--accent); padding: 15px; border-radius: 4px; }
+    .card-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 15px; }
+    .card { background: var(--bg-secondary); border: 1px solid var(--border); border-left: 4px solid var(--accent); padding: 12px 15px; border-radius: 4px; }
     .card a { color: var(--text-primary); text-decoration: none; font-weight: 600; font-size: 1.05em; display: block; }
     .card a:hover { color: var(--accent); text-decoration: underline; }
     .intro { background: var(--bg-intro); border: 1px solid var(--border-intro); padding: 20px; border-radius: 8px; margin-bottom: 30px; }
     .intro p { margin: 0; color: var(--text-intro); }
+    .group-header { background: var(--bg-group); padding: 10px 15px; margin: 25px 0 10px 0; border-radius: 6px; border-left: 4px solid var(--accent); font-weight: 700; font-size: 1.1em; color: var(--accent); }
+    .group-header:first-of-type { margin-top: 0; }
     footer { border-top: 1px solid var(--border); margin-top: 30px; padding-top: 15px; color: var(--text-secondary); font-size: 0.9em; text-align: center; }
     a { color: var(--accent); }
     a:hover { text-decoration: underline; }
@@ -55,7 +60,7 @@
   <header>
     <nav>
       <a href="https://b101108063-ops.github.io/Toronto_note/">首頁</a>
-      <a href="/Toronto_note/categories/">章節</a>
+      <a href="/Toronto_note/chapters/">章節</a>
     </nav>
     <button class="theme-toggle" onclick="toggleTheme()">🌙 暗色</button>
   </header>
@@ -65,152 +70,30 @@
     <p class="subtitle">繁體中文翻譯版</p>
 
     <div class="intro">
-      <p>📚 Toronto Notes 2025 繁體中文翻譯，共收錄 35 個章節。請由下方選擇欲閱讀的章節。</p>
+      <p>Toronto Notes 2025 繁體中文翻譯，共收錄 35 個章節。</p>
     </div>
 
-    <h2>📖 所有章節</h2>
-    <div class="card-grid">
+    
+    
+    
+    
+      
+      
+      
+        
+      
+      
+      
+        
+        <h2>其他專科</h2>
+        <div class="card-grid">
+        
+      
       
       <div class="card">
-        <a href="/Toronto_note/chapters/dermatology/">皮膚醫學（Dermatology）</a>
+        <a href="/Toronto_note/chapters/">Chapters</a>
       </div>
-      
-      <div class="card">
-        <a href="/Toronto_note/chapters/emergency_medicine/">急診醫學（Emergency Medicine）</a>
-      </div>
-      
-      <div class="card">
-        <a href="/Toronto_note/chapters/family_medicine/">家庭醫學（Family Medicine）</a>
-      </div>
-      
-      <div class="card">
-        <a href="/Toronto_note/chapters/geriatric_medicine/">老年醫學（Geriatric Medicine）</a>
-      </div>
-      
-      <div class="card">
-        <a href="/Toronto_note/chapters/medical_genetics/">醫學遺傳學（Medical Genetics）</a>
-      </div>
-      
-      <div class="card">
-        <a href="/Toronto_note/chapters/medical_imaging/">醫學影像學（Medical Imaging）</a>
-      </div>
-      
-      <div class="card">
-        <a href="/Toronto_note/chapters/palliative_medicine/">緩和醫療（Palliative Medicine）</a>
-      </div>
-      
-      <div class="card">
-        <a href="/Toronto_note/chapters/psychiatry/">精神醫學（Psychiatry）</a>
-      </div>
-      
-      <div class="card">
-        <a href="/Toronto_note/chapters/publichealth/">公共衛生學（Public Health）</a>
-      </div>
-      
-      <div class="card">
-        <a href="/Toronto_note/chapters/pediatrics/">小兒科（Pediatrics）</a>
-      </div>
-      
-      <div class="card">
-        <a href="/Toronto_note/chapters/gynecology/">婦科學（Gynecology）</a>
-      </div>
-      
-      <div class="card">
-        <a href="/Toronto_note/chapters/obstetrics/">產科學（Obstetrics）</a>
-      </div>
-      
-      <div class="card">
-        <a href="/Toronto_note/chapters/general_surgery/">普通外科與胸腔外科（General and Thoracic Surgery）</a>
-      </div>
-      
-      <div class="card">
-        <a href="/Toronto_note/chapters/neurosurgery/">神經外科（Neurosurgery）</a>
-      </div>
-      
-      <div class="card">
-        <a href="/Toronto_note/chapters/orthopedics/">骨科學（Orthopedics）</a>
-      </div>
-      
-      <div class="card">
-        <a href="/Toronto_note/chapters/plastic_surgery/">整形外科（Plastic Surgery）</a>
-      </div>
-      
-      <div class="card">
-        <a href="/Toronto_note/chapters/vascular_surgery/">血管外科（Vascular Surgery）</a>
-      </div>
-      
-      <div class="card">
-        <a href="/Toronto_note/chapters/urology/">泌尿科（Urology）</a>
-      </div>
-      
-      <div class="card">
-        <a href="/Toronto_note/chapters/ophthalmology/">眼科學（Ophthalmology）</a>
-      </div>
-      
-      <div class="card">
-        <a href="/Toronto_note/chapters/otolaryngology/">耳鼻喉科學（Otolaryngology）</a>
-      </div>
-      
-      <div class="card">
-        <a href="/Toronto_note/chapters/cardiology/">心臟科與心臟外科（Cardiology and Cardiac Surgery）</a>
-      </div>
-      
-      <div class="card">
-        <a href="/Toronto_note/chapters/gastroenterology/">胃腸學（Gastroenterology）</a>
-      </div>
-      
-      <div class="card">
-        <a href="/Toronto_note/chapters/nephrology/">腎臟學（Nephrology）</a>
-      </div>
-      
-      <div class="card">
-        <a href="/Toronto_note/chapters/hematology/">血液學（Hematology）</a>
-      </div>
-      
-      <div class="card">
-        <a href="/Toronto_note/chapters/infectious_diseases/">傳染病學（Infectious Diseases）</a>
-      </div>
-      
-      <div class="card">
-        <a href="/Toronto_note/chapters/endocrinology/">內分泌學（Endocrinology）</a>
-      </div>
-      
-      <div class="card">
-        <a href="/Toronto_note/chapters/respirology/">胸腔醫學（Respirology）</a>
-      </div>
-      
-      <div class="card">
-        <a href="/Toronto_note/chapters/rheumatology/">風濕病學（Rheumatology）</a>
-      </div>
-      
-      <div class="card">
-        <a href="/Toronto_note/chapters/clinical_pharmacology/">臨床藥理學（Clinical Pharmacology）</a>
-      </div>
-      
-      <div class="card">
-        <a href="/Toronto_note/chapters/elom/">倫理、法律與醫療組織（Ethical, Legal, and Organizational Medicine）</a>
-      </div>
-      
-      <div class="card">
-        <a href="/Toronto_note/chapters/anesthesia/">麻醉學（Anesthesia）</a>
-      </div>
-      
-      <div class="card">
-        <a href="/Toronto_note/chapters/common_acronyms/">醫學常用縮寫（Commonly Used Abbreviations）</a>
-      </div>
-      
-      <div class="card">
-        <a href="/Toronto_note/chapters/common_unit_conversions/">常用單位轉換（Common Unit Conversions）</a>
-      </div>
-      
-      <div class="card">
-        <a href="/Toronto_note/chapters/common_laboratory_values/">常用實驗室數值參考範圍（Common Laboratory Values）</a>
-      </div>
-      
-      <div class="card">
-        <a href="/Toronto_note/chapters/neurology/"></a>
-      </div>
-      
+    
     </div>
   </main>
 
