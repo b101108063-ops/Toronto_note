@@ -2,7 +2,7 @@
 title: "緩和醫療（Palliative Medicine）"
 description: "- **Palliative care 的核心目標**：提升病人與家屬面对 life-threatening illness 的生活品質，透過预防並緩解痛苦；適用於任何 time point，可與 life-prolonging 或 cur"
 slug: "Palliative_Medicine"
-weight: 5
+weight: 1070
 chapterCode: "PM"
 ---
 

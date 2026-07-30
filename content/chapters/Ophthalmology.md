@@ -2,7 +2,7 @@
 title: "眼科學（Ophthalmology）"
 description: "- **視力喪失**是眼科最重要的主訴，需區分短暫性（數秒至數小時）、急性（數分鐘至數小時）及慢性（數週至數月）表現，常見原因包括 cataract、glaucoma、retinal detachment、age-related macul"
 slug: "Ophthalmology"
-weight: 5
+weight: 4070
 chapterCode: "OP"
 ---
 

@@ -2,7 +2,7 @@
 title: "泌尿科（Urology）"
 description: "- 泌尿系統涵蓋腎臟、輸尿管、膀胱、尿道及男性攝護腺與生殖器官，常見問題包括感染、結石、腫瘤及功能性障礙"
 slug: "Urology"
-weight: 5
+weight: 4060
 chapterCode: "U"
 ---
 

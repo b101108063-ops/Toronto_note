@@ -2,7 +2,7 @@
 title: "醫學遺傳學（Medical Genetics）"
 description: "> Toronto Notes 2025"
 slug: "Medical_Genetics"
-weight: 5
+weight: 1050
 chapterCode: "MG"
 ---
 

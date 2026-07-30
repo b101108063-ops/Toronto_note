@@ -2,7 +2,7 @@
 title: "胸腔醫學（Respirology）"
 description: "- 本章涵蓋呼吸系統的核心主題，包括肺功能檢查、血氣分析、呼吸衰竭的診斷與處理"
 slug: "Respirology"
-weight: 5
+weight: 5080
 chapterCode: "R"
 ---
 

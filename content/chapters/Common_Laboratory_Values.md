@@ -2,7 +2,7 @@
 title: "常用實驗室數值參考範圍（Common Laboratory Values）"
 description: "| 檢驗項目 | 傳統單位 | SI 單位 |"
 slug: "Common_Laboratory_Values"
-weight: 3
+weight: 7030
 ---
 
 

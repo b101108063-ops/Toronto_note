@@ -2,7 +2,7 @@
 title: "臨床藥理學（Clinical Pharmacology）"
 description: "*Toronto Notes 2025 - Pages 176-250*"
 slug: "Clinical_Pharmacology"
-weight: 5
+weight: 5100
 chapterCode: "CP"
 ---
 

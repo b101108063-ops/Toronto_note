@@ -2,7 +2,7 @@
 title: "血管外科（Vascular Surgery）"
 description: "本章節涵蓋血管外科的核心內容，摘要如下："
 slug: "Vascular_Surgery"
-weight: 5
+weight: 4050
 chapterCode: "VS"
 ---
 

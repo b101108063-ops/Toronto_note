@@ -2,7 +2,7 @@
 title: "小兒科（Pediatrics）"
 description: "*Toronto Notes 2025*"
 slug: "Pediatrics"
-weight: 5
+weight: 2010
 chapterCode: "P"
 ---
 
