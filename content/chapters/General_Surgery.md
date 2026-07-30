@@ -6,8 +6,6 @@ weight: 5
 chapterCode: "GS"
 ---
 
-# 普通外科與胸腔外科 (General and Thoracic surgery)
-
 *Toronto Notes 2025*
 
 ---
