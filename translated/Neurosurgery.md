@@ -1,4 +1,11 @@
-# 神經外科 (Neurosurgery)
+---
+title: "神經外科 (Neurosurgery)"
+description: "*Toronto Notes 2025 - 頁碼 941-975*"
+slug: "Neurosurgery"
+weight: 5
+chapterCode: "NS"
+pageRange: "941-975"
+---
 
 *Toronto Notes 2025*
 
@@ -155,847 +162,458 @@
 
 ### 定義
 
-+ accumulation of excess CSF in the brain; functionally divided into obstructive and communicating
-= flow of CSF: produced by choroid plexus, lateral ventricles > interventricular foramen of Monro >
-3rd ventricle > cerebral aqueduct of Sylvius > 4th ventricle > foramina of Luschka (lateral aperture)
-and Magendie (median aperture) > subarachnoid space where CSF is reabsorbed by arachnoid villi/
-granulations into dural venous sinuses
++ 腦內過多 **腦脊髓液（CSF）** 堆積；功能上分為**阻塞性**與**交通性**水腦症
++ **CSF 循環路徑**：脈絡叢產生 → 側腦室 → Monro 氏孔 → 第三腦室 → 大腦導水管（Sylvius 氏導水管）→ 第四腦室 → Luschka 孔（外側孔）與 Magendie 孔（中線孔）→ 蜘蛛膜下腔 → 由蜘蛛膜絨毛/顆粒吸收至硬膜靜脈竇
 
-Classification
-Table 7. Classification of Hydrocephalus
-Disorder Definition Etiology Findings on CTI
-‘Obstructive (Non- (SF circulation Blocked within Acquired Ventricular enlargement proximal to block
-Communicating) ventricular system proximal to Aqueductal stenosis: adhesions after infection, (etlarged temporal horns, ballooning
-Hydrocephalus the arachnoid granulations hemorrhage; gsi, tumour (.g. pontine glioma)
-Intraventricular lesions: tumours, (e.g. 3d ventriclecoloid
-‘st, hematoma), mass causing tentorial herniation causing hydrocephalus)
-‘aqueduct/sthventrcle compression Perventricuarhypodensityucency
-Posterior fossa lesions: tumours, e.g. brain metastasis, _(transependymal migration of CSFforced
-medulloblastoma, ependymoma compromising 4th into extraceluar space)
-ventricle) Sulcal effacement, reduced visibility of
-Others: neurosarcoidosis, abscessigranuiomas, arachnoid Sylvianand interhemispherc fissures
-sts
-Congenitat Primary aqueductal stenosis, Dandy.
-Walker malformation, Arnold-Chiar malformation,
-myelomeningocele, encephalocele (see Pediatric
-Nearosurgery, WS41)
-Non-Obstructive Most commonly CSF absorption Post-infectious (#1 cause) -+ meningitis, abscess, ‘Alventrices dilated
-(Communicating) Blocked at extraventricuarsite cysticercasis
-Hydrocephalus arachnoid granulations, rarely Post-hemorrhagic (#2.cause)- SAH, IVH, traumatic
-SF absorptions overwhelmed Leptomeningeal carcinomatosis metastatic meningitis
-by increased production Choroid plexus papifoma
-Idiopathic » NPH
-NH Persistent ventricuardiation Idiopathic (50%) Enlarged ventricles without increased
-inthecontextof normal CSF Others: SAH, meningitis, trauma, radiation induced prominence of cerebral suld
-pressure
-Hydrocephalus ExVacuo Ventricular enlargement resulting Normal aging Enlarged ventricles and sulci
+### 分類
 
-fromatrophy of surrounding
-brain tissue
+**表 7. 水腦症之分類**
 
-Degenerative dementias: Aluheimer’s,frontotemporal,
-Creutzfeldt-Jakob disease (see Neurology, N27)
+| 類型 | 定義 | 病因 | CT 表現 |
+|------|------|------|---------|
+| **阻塞性（非交通性）水腦症** | CSF 流通受阻於腦室系統內，距蜘蛛膜顆粒近端 | | 阻塞處近端之腦室擴大 |
+| | | **後天型**：導水管狹窄（感染後粘連、出血；GSI；腫瘤，如橋腦膠質瘤） | 顳角擴大、ballooning |
+| | | **腦室內病灶**：腫瘤（如第三腦室類膠質囊腫、血腫）、導致小腦幕裂孔疝之腫塊 | 腦室周圍低密度（CSF 經室管膜移轉至細胞外空間） |
+| | | **後顱窩病灶**：腫瘤（如腦轉移、髓母細胞瘤、室管膜瘤）侵犯第四腦室 | 腦溝消失、Sylvian 裂與半球間裂可見度降低 |
+| | | **其他**：神經結節病、膿瘡/肉芽腫、蜘蛛膜囊腫 | |
+| | **先天性** | 原發性導水管狹窄、 Dandy-Walker 畸形、 Arnold-Chiari 畸形、脊髓膜膨出、腦膨出（見兒童神經外科 NS41） | |
+| **非阻塞性（交通性）水腦症** | CSF 吸收受阻於腦室外之蜘蛛膜顆粒 | | 腦室擴大 |
+| | | **感染後（第一位原因）**：腦膜炎、膿瘡、囊蟲病 | |
+| | | **出血後（第二位原因）**：SAH、IVH、創傷 | |
+| | | **蜘蛛膜顆粒被癌性腦膜轉移所阻** | |
+| | | **脈絡叢乳頭瘤**（CSF 分泌過多） | |
+| | **自發性** → NPH | | |
+| **正常顱內壓水腦症（NPH）** | 腦室持續擴大，但 CSF 壓力正常 | 自發性（50%） | 腦室擴大，無 CSF 壓力升高；大腦腦溝相對突出 |
+| | | **其他**：SAH、腦膜炎、創傷、放射治療後 | |
+| **代償性水腦症（Hydrocephalus Ex Vacuo）** | 腦室擴大為周圍腦組織萎縮之結果 | 正常老化 | 腦室與腦溝同步擴大 |
+| | | **退化性失智**：阿茲海默症、額顳葉失智、庫賈氏症（見神經內科 N27） | |
+| | | **腦實質萎縮** | |
 
-Cerebral atrophy
+> **CSF 迴路示意圖**
+> - CSF 生成 = CSF 吸收 = 正常人每日約 500 mL
+> - 正常 CSF 體積約 150 mL（50% 脊髓、50% 顱內 → 25 mL 腦室內、50 mL 蜘蛛膜下腔）
+>
+> 1. 側腦室  2. 脈絡叢  3. 第三腦室  4. 大腦導水管（Sylvius 氏）  5. 第四腦室  6. Luschka 孔與 Magendie 孔  7. 蜘蛛膜顆粒  8. 蜘蛛膜下腔  9. 靜脈竇匯合處（靜脈湖）
 
-Toronto Notes 2025
+**圖 8. CSF 循環示意圖**
 
-@
-
-Effect of Acetazlamide on Visual Functor
-Patients with Idiopathic Intracranial Hypertension
-and Mild Visual Loss (HTT)
-
-JAMA 201431116): 1681-1651
-
-Purpose: To determine whether acetazolamide and
-low-sodium weight reduction itis benefical in
-{improving vision compared to det aloe in patents
-with IH and mid visual oss.
-
-Methods: 165 patients wererandonized to either a
-‘ow sodium weight reduction diet plus the maximally
-tolerated dosage of acetazolamide o placebo for6 mo.
-Results: Acetazlamide was superioo placebo with
-regardsto perimeric mean deviation improvement
-(P=.05), papiedema gradeimprovement P<0.01),
-vison-telated quay of fe (0,003) and weight
-reduction (P<,00",
-
-Condusion:Acetazolamie wth low-sodium weight
-reduction diet rested in improvementin visual field
-functonin patients with Hand mild visual ss.
-
-CSF production = CSF reabsorption =
-+500 mUd in normal adults
-
-Normal CSF volume ~150 mL (50% spinal,
-'50% intracranial » 25 mL intraventricular,
-50 mL subarachnoid)
-
-1. Lateral ventricles
-2. Choroid plexus
-
-3.Thirdventride
-
-4. Cerebral aqueduct (of Syvius)
-
-5. Fourth ventride
-
-6. Foramina of Luschka and Magendie
-7. Arachnoid granulations
-
-8. Subarachnoid space
-
-9. Confluence of sinuses (trcula)
-
-© Kari Francis 2004
-
-Figure 8. The flow of CSF
--e 
+-e
 
 ## Page 942
 
-NS1O ‘Neurosurgery
+### 流行病學
 
-Etiology
-+ impaired CSF dynamics
++ 盛行率約 1-1.5%；先天性水腦症發生率每 1000 名活產嬰兒約 1-2 名
 
-= obstruction of CSF flow
+### 病因學
 
-= decreased CSF absorption
++ **CSF 動力學受損**：
+  - CSF 流通受阻
+  - CSF 吸收減少
+  - CSF 分泌增加（罕見，僅見於脈絡叢乳頭瘤——占顱內腫瘤 0.4-1%）
++ 先天性與後天性原因
 
-= increased CSF production (rarely in choroid plexus papilloma 0.4-1% of intracranial tumours)
-+ congenital and acquired causes
+### 臨床表現
 
-Epidemiology
-+ estimated prevalence 1-1.5%; incidence of congenital hydrocephalus ~1-2 in 1000 live births
++ **急性水腦症**：顱內壓升高之徵象與症狀（見表 4，NS7）
++ **慢性/漸進性水腦症**（數週至數月；即 NPH）：呈現經典三聯徵（**Hakim 氏三聯徵**）
+  - **步態失調**（磁力步態）+ **失用症**（腦室對下肢運動纖維之壓迫 → 步態障礙）
+  - **尿失禁**（皮質排便/膀胱中樞受壓）
+  - **癡呆**（皮質下）
 
-Clinical Features
-+ acute hydrocephalus: signs and symptoms of acutely elevated ICP (see Table 4, NS7)
-+ chronic/gradual onset hydrocephalus (wk to mo; i.e. NPH): presents with a classic triad (Hakim’s triad)
-= ataxia (magnetic gait) + apraxia (pressure of ventricle on lower extremity motor fibres > gait
-disturbance)
-«= incontinence (pressure on cortical bowel/bladder centre)
-= dementia (subcortical)
+### 診斷檢查
 
-Investigations
-+ imaging
-= CT/MRI findings (see Table 7, NS9)
-= ultrasound (through anterior fontanelle in infants): ventriculomegaly, size and location of lesions (e.g.
-IVH)
-+ mantle radionuclide cisternography can test CSF flow and absorption rate (unreliable)
-+ ICP monitoring (e.g. LP, EVD) may be used to investigate NPH and test response to shunting (lumbar tap
-test)
++ **影像學**：
+  - CT/MRI 發現（見表 7，NS9）
+  - 超音波（經前囟門於嬰兒）：腦室擴大、病灶大小與位置（如 IVH）
++ **核醫腦池顯影**：可測試 CSF 流動與吸收率（但不可靠）
++ **顱內壓監測**（如 LP、EVD）：可用於評估 NPH 及測試引流分流之反應（腰椎穿刺測試）
 
-Treatment
-EVD (acute hydrocephalus, intraventricular hemorrhage)
-intermittent LPs for transient communicating hydrocephalus (SAH, IVH in premature infants)
-eliminating obstruction (i.e. excision of mass, posterior fossa decompression for Chiari malformation)
-endoscopic
-= endoscopic third ventriculostomy (ETV) + choroid plexus cauterization (for obstructive hydrocephalus)
-= endoscopic placement of aqueductal stent
-shunt
-= VP: most common shunt
-«= ventriculopleural
-= ventriculoatrial (VA)
-= lumboperitoneal: for communicating hydrocephalus and pseudotumour cerebri
+### 治療
 
-Shunt Complications
++ **EVD**（急性水腦症、腦室內出血）
++ **間歇性腰椎穿刺**：用於短暫性交通性水腦症（SAH、早產兒 IVH）
++ **消除阻塞**：切除腫塊、後顱窩減壓術治療 Chiari 畸形
++ **內視鏡手術**：
+  - 內視鏡第三腦室造口術（**ETV**）+ 脈絡叢燒灼術（治療阻塞性水腦症）
+  - 內視鏡導水管支架置放
++ **分流術**：
+  - **VP 分流**：最常見之分流術
+  - 腦室-胸腔分流
+  - 腦室-心房分流（VA）
+  - 腰椎-腹腔分流：用於交通性水腦症與假性腦瘤
 
-Table 8. Shunt Complications
-Complication Etiology Clinical Features Investigations
-Obstruction ‘Obstruction by choroid plexus ‘Acute hydrocephalus signs and symptoms of “Shunt series” (plain x-rays of
-{mostcommon) Buildup of proteinaceousaccretions, blood, increased ICP entice shuntthat only rule-out
-Proximal Catheter calls inflammatory or tumour) disconnection, break, tp.
-Valve Infection migration)
-Distal Catheter Discomection or damage a
-Radionuclide “shuntogram”
+### 分流術併發症
 
-Infection 5. epidermidis Fever, NV, anoreia, ritability cc
-(36%) aureus Meningtis Blood culture
+**表 8. 分流術併發症**
 
-P.acnes Petitonits Tapshunt for C4S (LP usualy NOT
+| 併發症 | 病因 | 臨床表現 | 檢查 |
+|--------|------|----------|------|
+| **阻塞（最常見）** | 脈絡叢阻塞、蛋白質/血液/發炎細胞或腫瘤細胞積聚、近端/遠端導管、閥門 | 急性水腦症、顱內壓升高徵象 | **分流系列 X 光**（僅能排除脫離、斷裂、移位）；**放射性核種「分流圖（shuntogram）」** |
+| **感染（36%）** | S. epidermidis、*Staphylococcus aureus*、*P. acnes*、革蘭氏陰性菌 | 發燒、噁心/嘔吐、厭食、易怒、腦膜炎、膜膜炎 | 血液培養；腰穿取 CSF 培養 |
+| | | **VP 分流**：腹膜炎症狀 | |
+| | | **VA 分流**：分流腎炎 | |
+| **引流過度（6.5 年內 10%）** | 裂隙腦症後腦室塌陷導致導管被室管膜細胞阻塞 | 慢性或復發性姿勢性頭痛（躺下時緩解）；CT/MRI 顯示裂隙狀腦室 | CT/MRI |
+| **硬膜下血腫（SDH）** | 塌陷之腦組織扯裂橋靜脈（尤其常見於 NPH 患者） | 頭痛、嘔吐、嗜睡 | CT/MRI |
+| **續發性顱縫早閉（兒童）** | 水腦症減壓後顱縫重疊 | 頭部形狀異常 | 臨床診斷 |
+| **癲癇**：僅見於腦室分流（第一年 5.5% 風險，第三年後降低） | | EEG |
+| **腹股溝疝氣**（兒童置入分流後發生率 13-15%） | 腹內壓/液體增加 | 腹股溝腫脹、不適 | 臨床診斷 |
 
-Gram-negative baci Signs and symptoms ofshunt obstruction recommended)
+> **Hakim 氏三聯徵（NPH 進程）**：「濕（W濕、Wacky）、糊塗（Wobbly）」= 尿失禁、癡呆、步態失調
 
-Shunt nephritis (VAshunt)
+> **CT 與 MRI（含顯影）重要判讀重點**
+> - 病灶（水腫、壞死、出血）
+> - **中線位移（MLS）**與**腦疝**
+> - 腦室與腦溝消失（通常為同側）、基底池消失
+> - 單一或多發（多發暗示轉移）
 
-Overshunting Slitventride syndrome, cllapse of Chronic orrecuring WiAoften relieved when lying CT/MRY
-(10°%over 6.5 yt) ventriclesleadingto occlusion of shunt down Sit-tke ventricles on imaging
+> **特定水腦症治療之併發症**
+> - **VP 分流**：腹腔囊腫、粘連、腹水
+> - **VA 分流**：較高感染風險、敗血症、栓塞
+> - **腦室-胸腔分流**：胸腔積液、水胸、呼吸窘迫
+> - **LP 分流**：神經根病變、CSF 滲漏、粘連、蜘蛛膜炎
+> - **ETV**：成功率 56%、下視丘損傷、醫源性基底動靜脈瘤
 
-ports by ependymal lining
-
-SoH Asymptomatic a
-
-Collapsing brain tears bridgingveins
-(especially commonin NPH patients)
-
-HA, vomiting, somnolence
-
-Secondary craniosynostosis (children): Abnormal headshape Clinical
-apposition and overlapping ofthe a
-‘cranial sutures inan infant following
-decompression of hydrocephals
-
-Seizures Ventricular shunts only EEG
-
-(5.5%riskin ist yr, .tbafter
-
-3rdyt)
-
-Inguinal hernia Increased intraperitoneal ressure/fuid Inguinal sweling discomfort us
-
-(13-15% incidence when shunt
-insertedin childhood)
-
-resultsinhernia becoming apparent
-
-Toronto Notes 2025
-
-Classic (Hakim’s) Triad of NPH
-Progression
-
-“Wet, wacky, wobbly”: Incontinence,
-dementia, ataxia
-
-Important Features to Note on CT and
-MRI (+ contrast enhancement)
-Lesions (¢ edema, necrosis, hemorrhage)
-MLS and herniations
-
-Effacement of ventricles and suci often
-ipsilateral), basal cisterns
-
-Single or muitiple (multiple implies
-metastasis)
-
-Complications of Specific Hydrocephalus
-Treatments:
-
-VP Shunt: intra-abdominal ests,
-adhesions, ascites
-
-VAShunt: greater infection risk,
-septicemia, emboli
-
-Ventriculopleural Shunt: pleural effusion,
-hydrothorax, respiratory distress
-
-LP Shunt: radiculopathy, CSF leaks,
-adhesions, arachnoidtis,
-
-ETV: 56% success rate, hypothalamic injury,
-iatrogenic basilar aneurysm
--e 
+-e
 
 ## Page 943
 
-NSIL ‘Neurosurgery
+## 自發性顱內低壓（Spontaneous Intracranial Hypotension）
 
-ontaneous Intracranial Hypotens
++ **低 CSF 壓力**合併**姿勢性頭痛**（因 CSF 滲漏導致）
++ 症狀無法歸因於其他疾病，且近期無硬膜穿刺病史
 
-+ low CSF pressure + postural headache (secondary to CSF leak)
-+ symptoms not attributable to another disorder, no recent history of dural puncture
+### 病因學
 
-Etiology
-+ CSF leakage from the thecal sac within or along the spinal canal
++ CSF 從脊椎鞘膜內或沿脊椎神經根袖之滲漏
 
-Epidemiology
-+ incidence: ~2-5 in 100000 per yr, but likely underdiagnosed; M:
-= can occur at any age, but most frequently in 4th or 5th decade
+### 流行病學
 
-Clinical Features
++ 發生率：每年約每 10 萬人 2-5 人，但可能遭低估；男:女 ≈ 1:2
++ 可發生於任何年齡，但最常見於 40-50 歲
 
-+ symptoms: orthostatic H/A in 75-80%, tinnitus or auditory disturbance (“underwater feeling”) in 50%,
-dizziness in 50%, N/V, photophobia, meningismus
+### 臨床表現
 
-signs: CN III, CN IV, CN VI palsy in <10%
++ **症狀**：
+  - 姿勢性頭痛（75-80%）
+  - 耳鳴或聽覺障礙（「水下感覺」）（50%）
+  - 眩暈（50%）
+  - 噁心/嘔吐、畏光、頸部僵硬
++ **徵象**：第三、四、六對腦神經麻痺（<10%）
++ **致病率**：誤診與延誤治療常見，導致治療延誤或對顱內低壓類似疾病進行不當治療
++ **病程**：通常為自限性，10% 復發，部分為慢性
 
-morbidity: misdiagnosis and underdiagnosis are common, leading to delays in treatment and inappropriate
-treatment for mimickers of intracranial hypotension
+### 診斷檢查
 
-+ clinical course: usually self-limited, recurrence in 10%, chronic in some
++ **MRI 腦部（含顯影）**：腦部下垂（如小腦扁桃體位置偏低）、硬膜增強、硬膜下血腫或積液、腦下垂體充血
++ **MRI 脊椎（含顯影）**：硬膜外液體聚集/顯影劑外滲，以及/或腦膜憩室
++ **CT 脊髓造影（含顯影）**：診斷並定位 CSF 滲漏之首选方法
+  - **數位減影脊髓造影（DSM）**：結合螢光透視與影像減影技術，可顯示小 CSF 滲漏處之顯影劑外滲
++ **腰椎穿刺**：開放壓 <6 cmH₂O；黃變、蛋白質升高、淋巴球增多
 
-Investigations
-+ MRI brain with contrast: sagging of the brain (e.g. low cerebellar tonsils), pachymeningeal enhancement,
-subdural hematoma or hygroma, pituitary hyperemia
+### 治療
 
-. MRI spine with contrast: extrathecal fluid collections/extrathecal contrast accumulation and/or meningeal
-iverticula
++ **保守治療**：臥床休息、補液、咖啡因、 possibly theophylline
++ **硬膜外血液貼片（epidural blood patch）**：主要治療方法；自體血液（10-20 mL）注入硬膜外腔
++ **手術治療**：適用於硬膜外血液貼片無效且滲漏處已定位之患者
 
-+ CT niyelogram with contrast: preferred method to diagnose and localize CSF leak
-= digital subtraction myelogram (DSM): combines fluoroscopy and ability to subtract background images
+> **圖 9. 左圖**：數位減影脊髓造影顯示 CSF 滲漏處（紅色箭頭）；**右圖**：術中影像顯示直接修復硬膜
 
-to visualize small CSF leaks by contrast extravasation
-+ LP: opening pressure <6 cmH:0; xanthochromia, elevated protein, lymphocytic pleocytosis
-
-Treatment
-
-+ conservative management: bed rest, hydration, caffeine, possibly theophylline
-
-+ epidural blood patch: mainstay treatment; autologous blood (10-20 mL) injected into epidural space
-+ surgery: indicated if epidural blood patches are ineffective and site of leak has been localized
-
-Treatments:
-
-Digitally Subtracted Blood Patches (improvement for 2 yr)
-
-Figure 9. Left Pane: Digital subtraction myelography demonstrating site of CSF leak (red arrow); Right Pane:
-
-intraoperative imaging of direct repair of the dura
-Figue courtesy ofr. rc M Masscotte
-
-Toronto Notes 2025
--e 
+-e
 
 ## Page 944
 
-NS12 ‘Neurosurgery
+## 腦腫瘤（Brain Tumours）
 
-Ventricular: colloid cyst, choroid plexus
+### CNS 腫瘤位置圖
 
-papilloma, ependymoma,
-germinoma, teratoma,
-meningioma
+| 位置 | 腫瘤類型 |
+|------|---------|
+| **腦室內** | 類膠質囊腫、脈絡叢乳頭瘤、室管膜瘤、生殖細胞瘤、畸胎瘤、腦膜瘤 |
+| **幕上軸外** | 腦膜瘤、囊腫 |
+| **幕上軸內** | 星狀細胞瘤、膠質母細胞瘤、寡樹突膠質瘤、神經節瘤、淋巴瘤、轉移 |
+| **顱底** | 癌、脊索瘤、頸靜脈球瘤、骨瘤 |
+| **後顱窩軸內** | 許旺氏細胞瘤、腦膜瘤、囊腫、轉移、髓母細胞瘤 |
+| **後顱窩軸外** | 許旺氏細胞瘤、腦膜瘤、囊腫、轉移 |
+| **鞍部/鞍上** | 腦下垂體腺瘤、許旺氏細胞瘤、腦膜瘤、顱咽管瘤、囊腫、轉移、視神經膠質瘤 |
+| **鬆果體區** | 生殖細胞瘤、畸胎瘤 |
 
-Supratentorial extra-axial:
-meningioma, cysts
+**圖 10. CNS 腫瘤示意圖**
 
-Supratentorial
-intra-axial
-astrocytoma,
-glioblastoma,
-oligodendroglioma,
-ganglioma,
-lymphoma,
+### 分類
 
-metastases
-‘Skull base: carcinoma,
++ **良性 vs. 惡性**；**原發性 vs. 轉移性**（如原發於乳房、肺）；**軸內（實質性）vs. 軸外**；**幕上 vs. 幕下**；**成人 vs. 兒童**
++ **良性**：非侵犯性，但因顱骨固定容積造成佔位效應可能具破壞性（如大多數腦膜瘤）
++ **惡性**：代表快速生長、侵犯性，可能從原發 CNS 腫瘤轉移至脊髓（罕見）
 
-chordoma, glomus
+### WHO 2021 中樞神經系統腫瘤分類
 
-jugulare, osteoma Posterior fossa intra-axial:
+**表 9. WHO 2021 CNS 腫瘤分類**
 
-schwannoma,meningioma,
-cysts, metastases,
-medulloblastoma
+#### 神經膠質瘤、神經膠質神經元腫瘤、神經元腫瘤
 
-Sellar or suprasellar: Posterior fossa extra-axial:
-pituitary adenoma, schwannoma, meningioma,
-craniopharyngioma, cyst, metastases
-optic nerve glioma, cyst
+| 類別 | 腫瘤類型 |
+|------|---------|
+| **成人型瀰漫性神經膠質瘤** | 星狀細胞瘤（IDH 突變型）；寡樹突膠質瘤（IDH 突變型，1p/19q 共缺失型）；膠質母細胞瘤（IDH 野生型） |
+| **瀰漫性星狀細胞瘤** | MIB-1 或 MYBLT 改變型；血管中心性神經膠質瘤；青年人多形性低度神經上皮腫瘤；MAPK 路徑改變型瀰漫性低度神經膠質瘤；H3K27 改變型瀰漫性中線神經膠質瘤；H3G34 突變型瀰漫性半球神經膠質瘤；H3 野生型及 IDH 野生型兒童型高級別神經膠質瘤；嬰兒型半球神經膠質瘤 |
+| **局限性星狀細胞瘤** | 毛細胞型星狀細胞瘤；具毛樣特徵之高級別星狀細胞瘤；多形性黃色星狀細胞瘤；室管膜下巨大細胞星狀細胞瘤；脊索樣神經膠質瘤；MNT 改變型星狀細胞瘤 |
+| **神經膠質神經元及神經元腫瘤** | 神經節膠質瘤；嬰幼兒促纖維增生性神經節膠質瘤/嬰幼兒促纖維增生性星狀細胞瘤；胚胎發育不良性神經上皮腫瘤；具寡樹突膠質瘤樣特徵及核簇之瀰漫性神經膠質神經元腫瘤；乳頭狀神經膠質神經元腫瘤；玫瑰花結形成性神經膠質神經元腫瘤；黏液性神經膠質神經元腫瘤；瀰漫性軟腦膜神經膠質神經元腫瘤；神經節細胞瘤；多結節及空泡化神經元腫瘤；發育不良性小腦神經節細胞瘤（Lhermitte-Duclos 病）；中央神經細胞瘤；腦室外神經細胞瘤；小腦脂肪神經細胞瘤 |
+| **兒童型瀰漫性低级别神經膠質瘤** | |
+| **兒童型瀰漫性高級別神經膠質瘤** | |
+| **室管膜腫瘤** | 幕上室管膜瘤（含 ZFTA 融合陽性或 YAP1 融合陽性）；後顱窩室管膜瘤（PFA 組及 PFB 組）；脊髓室管膜瘤（含 MICH 擴增）；微乳頭狀室管膜瘤；室管膜下瘤 |
+| **兒童型瀰漫性低级别神經膠質瘤** | |
+| **兒童型瀰漫性高级别神經膠質瘤** | |
 
-Ryan Kissinger 2010
+#### 脈絡叢腫瘤
 
-Figure 10. Tumours of the CNS
+| 腫瘤類型 |
+|---------|
+| 脈絡叢乳頭瘤；非典型脈絡叢乳頭瘤；脈絡叢癌 |
 
-Classification
+#### 胚胎性腫瘤
 
-+ benign vs. malignant; primary vs. metastatic (e.g. primary in breast, lung); intra-axial (parenchymal) vs.
+| 腫瘤類型 |
+|---------|
+| 髓母細胞瘤（分子定義：WNT 活化型、SHH 活化並 TP53 野生型、SHH 活化並 TP53 突變型、非 WNT/非 SHH 型；組織學定義型） |
+| 其他 CNS 胚胎性腫瘤（非典型畸胎樣/橫紋肌樣腫瘤、篩狀神經上皮腫瘤、具多層玫瑰花結之胚胎性腫瘤、CNS 神經母細胞瘤、BCOR 內部串聯重複之 CNS 腫瘤） |
 
-extra-axial; supratentorial vs. infratentorial; adult vs. pediatric
+#### 松果體腫瘤
 
-+ benign: non-invasive, but can be devastating due to mass effect in fixed volume of skull (e.g. most
+| 腫瘤類型 |
+|---------|
+| 松果體細胞瘤；松果體實質瘤（中度分化型）；松果體母細胞瘤；松果體區乳頭狀瘤；松果體區去分化性黏液樣腫瘤 |
 
-meningiomas)
+#### 顱及椎旁神經腫瘤
 
-+ malignant: implies rapid growth, invasiveness, possibly drop-metastases to spinal cord froma primary
+| 腫瘤類型 |
+|---------|
+| 許旺氏細胞瘤；神經纖維瘤；神經束膜瘤；混合性神經鞘腫瘤；惡性黑色素性神經鞘瘤；惡性周邊神經鞘瘤；副神經節瘤 |
 
-CNS tumour (rare)
-Table 9. WHO 2021 Classification of Tumours of the CNS
+#### 黑色素細胞腫瘤
 
-Gliomas, Glioneuronal Tumours, Neuronal Tumours
+| 腫瘤類型 |
+|---------|
+| 瀰漫性腦膜黑色素細胞腫瘤；腦膜黑色素瘤病；局限性腦膜黑色素細胞瘤；腦膜黑色素瘤 |
 
-Adult-type diffuse gliomas Astrocytoma, IDH-mutant
-Oigodendrogioma, IDK-mutant, and 1p/19q-codeleted
+#### 造血淋巴腫瘤
 
-Glioblastoma, IDH-wildty pe
+| 腫瘤類型 |
+|---------|
+| 原發性 CNS 淋巴瘤（原發性瀰漫性大 B 細胞淋巴瘤、免疫缺陷相關 CNS 淋巴瘤、淋巴瘤樣肉芽腫病、血管內大 B 細胞淋巴瘤）；其他 CNS 低惡性度 B 細胞淋巴瘤；間變性大細胞淋巴瘤；T 細胞及 NK/T 細胞淋巴瘤 |
+| 組織球腫瘤（Erdheim-Chester 病、Rosai-Dorfman 病、青少年黃色肉芽腫、朗格漢斯細胞組織球增生症、組織球肉瘤） |
 
-Dittuse astrocytoma, MIB-or MYBLT- altered
+#### 生殖細胞腫瘤
 
-‘Angiocentrc glioma
+| 腫瘤類型 |
+|---------|
+| 畸胎瘤（成熟型、未成熟型、體細胞型惡性）；生殖細胞瘤；胚胎癌；卵黃囊瘤；絨毛膜癌；混合性生殖細胞腫瘤 |
 
-Polymorphous low-grade neuroepithelial tumour ofthe young
-Ditfuselow-grade gioma, MAPK pathway-altered
+#### 鞍部區域腫瘤
 
-Diffuse midline gloma, H3K27altered
+| 腫瘤類型 |
+|---------|
+| 齒狀型顱咽管瘤；乳頭型顱咽管瘤；垂體細胞瘤、鞍部顆粒細胞瘤及梭形細胞嗜酸瘤細胞瘤；腦下垂體腺瘤；垂體母細胞瘤 |
 
-Dittuse hemispheric glioma, H3634-mutant
+#### CNS 轉移
 
-Dittuse pediatrictype high-grade glioma, H3-wildtype and IDH-wildtype
-Infant-type hemispheric glioma
+| 腫瘤類型 |
+|---------|
+| 轉移至腦及脊髓實質；轉移至腦膜 |
 
-Circumscribed astrocytic lomas Pilocytc astrocytoma
-High-grade astrocytoma with piloid features
-Pleomorphicxanthoastrocytoma
-Subependymal giant cell astrocytoma
-Chordoid glioma
-Astroblastoma, MNT-altered
+### 環形強化病灶之鑑別診斷（MAGICAL DR）
 
-Glioneuronal and neuronal tumours Gangioglioma
-Desmoplastic infantile gangioglioma/desmoplastc infantil astrocytoma
-Dysembryoplastc neuroepthelial tumour
-Diffuse glioneuronal tumour witholigodencroglioma-tkefeaturesand nuclear clusters
-Papilay glionewronal tumour
-Rosette-forming glioneuronal tumour
-Myxoid glioneuronal tumour
-Diffuse leptomeningea glioneuronal tumour
-Ganglocytoma
-Multinodulr and vacuolating neuronal tumour
-Dysplastic cerebellar gangliocytoma (Lhermitte-Ducos disease)
-Central neurocytoma
-Extraventricular neurocytoma
-Cerebellar liponeurocytoma
++ **M**etastases（轉移）*
++ **A**bscess（膿瘡）*
++ **G**lioblastoma（膠質母細胞瘤）*
++ **I**nfarct（腦梗塞）
++ **C**ontusion（挫傷）
++ **A**IDS（弓漿蟲病）
++ **L**ymphoma（淋巴瘤）
++ **D**emyelination（脫髓鞘）
++ **R**adiation necrosis / Resolving hematoma（放射性壞死/消退中血腫）
 
-Pediatrictype diffuse low-grade gliomas
+> *最常見之三個診斷
 
-Pediatictypeditfuse high-grade gliomas
+### HIV 患者之環形強化病灶
 
-Ependymal tumours ‘Supratentoral ependymoma (including ZFTAfusion-positve or YAP fusion-positive)
-Posterior fossa ependymoma (including group PFAand PFB)
-Spinal ependymoma including MICH-amplified
-Mycopapilary ependymoma
-Subependymoma
++ **診斷**：弓漿蟲病或 CNS 淋巴瘤
++ **治療**：經驗性 pyrimethamine 及 sulfadiazine 治療；若抗菌治療後無改善，則進行腦切片
++ HIV 感染者中原發性 CNS 淋巴瘤發生率為 6-20%
 
-Toronto Notes 2025
+> **原發性腦腫瘤**
+> - 很少發生轉移
+> - 成人：多為幕上
+> - 兒童：多為幕下
 
-CNS Tumours Pe]
-
-Dx for Ring Enhancing Lesion on CT with
-Contrast
-
-MAGICAL DR
-
-Metastases*
-
-Abscess"
-
-Glioblastoma (high-grade gliomay*
-Infarct
-
-Contusion
-
-AIDS (toxoplasmosis)
-
-Lymphoma
-
-Demyelination
-
-Resolving hematoma, Radiation Necrosis
-(°3 most common diagnoses)
-
-Ring Enhancing Lesions in Patients with
-HV
-
-Dx: Toxoplasmosis or CNS lymphoma
-Treatment: Empiric treatment with
-pyrimethamine and sulfadiazine; brain
-biopsy fno resolution with antimicrobial
-therapy
-
-Primary CNS lymphoma reported in 6-20%
-of HIV infected patients
-
-Primary Brain Tumours
-Rarely undergo metastasis
-‘Adults = mostly supratentorial
-Children = mostly infratentorial
-
--e 
+-e
 
 ## Page 945
 
-NSI3 ‘Neurosurgery
+## 腦腫瘤（續）
 
-Table 9. WHO 2021 Classification of Tumours of the CNS
+### WHO 2021 CNS 腫瘤分類（續）
 
-Choroid Plexus Tumours
+> **表 9. WHO 2021 中樞神經系統腫瘤分類（完整列表見第 944 頁）**
 
-Choroidplexuspapiloma
-Atypicalchoroid plexus papilloma
-Choroidplexuscarcinoma
+| 腫瘤類別 | 腫瘤類型 |
+|---------|---------|
+| **脈絡叢腫瘤** | 脈絡叢乳頭瘤、非典型脈絡叢乳頭瘤、脈絡叢癌 |
+| **胚胎性腫瘤** | 髓母細胞瘤（WNT 活化型、SHH 活化並 TP53 野生型、SHH 活化並 TP53 突變型、非 WNT/非 SHH 型）；非典型畸胎樣/橫紋肌樣腫瘤、篩狀神經上皮腫瘤、具多層玫瑰花結之胚胎性腫瘤、CNS 神經母細胞瘤、BCOR 內部串聯重複之 CNS 腫瘤 |
+| **松果體腫瘤** | 松果體細胞瘤、松果體實質瘤（中度分化型）、松果體母細胞瘤、松果體區乳頭狀瘤、去分化性黏液樣腫瘤 |
+| **顱及椎旁神經腫瘤** | 許旺氏細胞瘤、神經纖維瘤、神經束膜瘤、混合性神經鞘腫瘤、惡性黑色素性神經鞘瘤、惡性周邊神經鞘瘤、副神經節瘤 |
+| **間質、非腦膜皮性腫瘤** | 軟組織腫瘤、軟骨 osseous 腫瘤、纖維母細胞/肌纖維母細胞腫瘤（孤立性纖維性腫瘤）、血管腫瘤（血管瘤與血管畸形、血管母細胞瘤）、骨骼肌腫瘤（橫紋肌肉瘤）、不确定分化腫瘤、軟骨源性腫瘤（間葉性軟骨肉瘤、軟骨肉瘤）、脊索源性腫瘤（脊索瘤） |
+| **黑色素細胞腫瘤** | 瀰漫性腦膜黑色素細胞腫瘤（腦膜黑色素細胞增多症、腦膜黑色素瘤病）、局限性腦膜黑色素細胞瘤（腦膜黑色素細胞瘤、腦膜黑色素瘤） |
+| **造血淋巴腫瘤** | 原發性 CNS 淋巴瘤、免疫缺陷相關 CNS 淋巴瘤、淋巴瘤樣肉芽腫病、血管內大 B 細胞淋巴瘤；其他 CNS 低惡性度 B 細胞淋巴瘤、間變性大細胞淋巴瘤；組織球腫瘤（Erdheim-Chester 病、Rosai-Dorfman 病、青少年黃色肉芽腫、朗格漢斯細胞組織球增生症） |
+| **生殖細胞腫瘤** | 畸胎瘤（成熟/未成熟/體細胞型惡性）、生殖細胞瘤、胚胎癌、卵黃囊瘤、絨毛膜癌、混合性生殖細胞瘤 |
+| **鞍部腫瘤** | 齒狀型顱咽管瘤、乳頭型顱咽管瘤、垂體細胞瘤/顆粒細胞瘤/梭形細胞嗜酸瘤細胞瘤、腦下垂體腺瘤、垂體母細胞瘤 |
+| **CNS 轉移** | 轉移至腦/脊髓實質、轉移至腦膜 |
 
-Embryonal Tumours
-
-Nedulloblastoma Meduloblastomas, molecularly defined: WNT- activated, SHH-activated and PS3-wildtype, SHH-activatedand
-1P53-mutant, on-WNT/non-SHH
-Meduloblastomas, histological defined
-
-‘Other CHS embryonal tumours ‘Mypical teratoidirhabdoid tumour
-Cribrtormneuroepithelial tumour
-Embryonal tumour with multilayered rosettes
-(CNS neuroblastoma, FOXRZ-actvated
-‘CNS tumour with BCOR internal tandem duplication,
-{CNSembryonal tumour
-
-Pineal Tumours
-
-Pineocytoma
-
-Pineal parenchymal tumour of intermediate
-differentiation
-
-Pineoblastoma
-
-Papillary tumour ofthe pineal region
-Desmoplastic mysoid tumour of thepineal region,
-F-mutant
-
-Cranial and Paraspinal Nerve Tumours
-
-Schwamoma
-Neurofibroma
-
-Perineurioma
-
-Hybrid nervesheathtumour
-
-Malignant melanotic nerve sheath tumour
-Malignant peripheral nerve sheath tumour
-Paraganglioma
-
-Meningiomas
-
-Mesenchymal, Non-Meningothelil Tumours
-
-Softtissue tumours
-
-Chondro-osseous tumours
-
-Fibroblasticand myofibroblastictumous: solitary fibrous tumour
-Vascular tumou's: hnemangiomas and vascular malformations, hemangioblastomas
-Skeletal muscle tumours: rhabdomyosarcoma
-
-Uncertain dferentiation:ntracrarial mesenchymal tumour, FE-CREB mutation posit
-primary intracranial sarcoma, DICER1-mutant, Ewing sarcoma
-
-CChondrogenictumours: mesenchymal chondresarcoma, chondrosarcoma
-Notochordal tumours: cordoma (incudingpoorl differentiated chardoma)
-
-, IC rearranged sarcoma,
-
-Melanocytic Tumours
-Diffuse meningeal melanocytic neoplasms Meningeal melanocytosis
-Meningeal melanomatoss
-Cicumscribed meningeal melanocytic neoplasms Meningeal melanocytoma
-Meningeal melanoma
-Hematolymphoid Tumours
-Lymphomas ‘CNS ymphomas: primary diffuse large B-cell ymphoma ofthe CNS, immunodeficiency-associatedCNS lymphoma,
-lymphomatoid granulomatosis, intravascular large B-cell ymphoma
-Niscellaneousrare ymphomasin the CHS: MALT lymphoma ofthe dua, other low-grade 8-el lymphomas ofthe
-‘CNS, anaplastic large cll ymphoma (AUK~/ALK-), T-cell and NK/T-cell Iymphomas,
-Histocytic tumours Erdheim-Chester disease
-Rosai-Dorfman disease
-Juvenile xanthogranuloma
-Langerhans cel histiocytosis
-Histioytic sarcoma
-‘Germ ell Tumours
-Teratoma: mature, immature, somatic type
-malignancy
-Germinoma
-
-Embryonal carcinoma
-Yolksac tumour
-CChoriocarcinoma
-Mixedgermcelltumour
-
-Tumours ofthe Sellar Region
-
-‘Adamantinomatous craniopharyngioma
-Papillary craniopharyngioma
-Pituicytoma, granular cel tumour of the sellar
-region, and spindle cell oncocytoma
-
-Pituitary adenoma/itNET
-
-Pituitary blastoma
-
-Metastases to theCNS
-
-Metastases tothe brain and spinal cord parenchyma
-Netastases tothe meninges
-
-Toronto Notes 2025
--e 
+-e
 
 ## Page 946
 
-NSI4 ‘Neurosurgery
+## 腦腫瘤（續）
 
-Familial Syndromes Associated with CNS Tumours
-+ ataxia telangiectasia
+### 與 CNS 腫瘤相關之家族性症候群
 
-+ Cowden syndrome
++ 毛細血管擴張性運動失調（Ataxia telangiectasia）
++ Cowden 症候群
++ 家族性腺瘤性息肉病（FAP）
++ 遺傳性非息肉性結直腸癌（HNPCC）
++ Li-Fraumeni 症候群
++ Gorlin 症候群（基底細胞痣症候群）
++  神經纖維瘤病第一型及第二型（NF1、NF2）
++ 多發性內分泌腫瘤第一型（MEN1）
++ 結節性硬化症（TSC）
++ 馮希佩爾-林道疾病（VHL）
++ Turcot 症候群
++ Lynch 症候群
 
-+ familial adenomatous polyposis
+### 診斷檢查
 
-+ hereditary non-polyposis-related colorectal cancer
-+ Li-Fraumeni syndrome
++ CT、MRI（含顯影）、立體定位切片（組織診斷及分子標記以評估預後）、腫瘤切除（通常作為初步步驟而非切片）、轉移評估、腫瘤標記（如生殖細胞腫瘤）
 
-+ Gorlin syndrome
+### 治療
 
-+ neurofibromatosis types 1 & 2
++ **保守治療**：對緩慢生長/良性病灶定期追蹤病史、理學檢查、影像學
++ **藥物治療**：皮質類固醇以降低顱內壓、細胞毒性腦水腫；藥物治療（如腦下垂體腺瘤）
++ **手術治療**：完全或部分切除（減壓性、姑息性）
++ **放射治療**：傳統分割 XRT、低分割 XRT、立體定位放射手術（SRS，如伽瑪刀）
++ **化學治療**：如烷化劑（temozolomide、vincristine、cyclophosphamide 等）
++ **標靶治療**：如 trastuzumab（用於 HER2 陽性乳癌腦轉移）、osimertinib（用於 EGFR 突變型肺癌腦轉移）
 
-+ multiple endocrine neoplasia type 1
+### 表 10. 腫瘤位置：病因學與臨床特徵
 
-+ tuberous sclerosis complex
+| 特徵 | 幕上（Supratentorial） | 幕下/後顱窩（Infratentorial） |
+|------|----------------------|------------------------------|
+| **流行病學** | | |
+| **<5 歲** | 發生率：每 10 萬人 2-5 名 | |
+| | 神經膠質瘤（各分級）（50%） | 小腦星狀細胞瘤（15%） |
+| | 顱咽管瘤（2-5%） | 室管膜瘤（9%） |
+| | 其他：松果體區腫瘤、脈絡叢腫瘤、神經節膠質瘤、胚胎發育不良性神經上皮腫瘤（NET） | 腦幹星狀細胞瘤 |
+| **>15 歲** | 高級別神經膠質瘤（12-15%，如膠質母細胞瘤 GBM） | 轉移（5-10%） |
+| | 80% 為幕上 | 聽神經瘤（許旺氏細胞瘤）（5-10%） |
+| | 轉移（15-30%，含幕下） | 血管母細胞瘤（2%） |
+| | 腦膜瘤（15-20%） | 腦膜瘤 |
+| | 低級別星狀細胞瘤（8%） | |
+| | 腦下垂體腺瘤（5-8%） | |
+| | 寡樹突膠質瘤（5%） | |
+| | 其他：類膠質囊腫、CNS 淋巴瘤、表皮/皮樣囊腫 | |
+| **臨床特徵** | | |
+| **共有特徵（顱內壓升高）** | 頭痛：通常早晨較嚴重，用力、咳嗽時加劇；噁心/嘔吐；視乳頭水腫；複視（第六對腦神經麻痺） | |
+| **鑑別特徵** | 癲癇：通常為首發症狀；進行性神經功能缺損（10%） | 眩暈；眼球震顫 |
+| | 腦幹侵犯：腦神經缺損與長束徵 | 軀幹運動失調+構音障礙：小腦蚓部病灶 |
+| | 嘔吐：迷走神經核/化學感受器觸發區受壓迫 | 肢體運動失調、辨距不良、意圖性顫抖：小腦半球病灶 |
+| | 額葉：偏癱、構音障礙、人格改變、認知障礙 | 阻塞性水腦症比幕上病灶更常見 |
+| | 顳葉：聽覺/嗅覺幻覺、記憶障礙、對側上象限盲 | |
+| | 精神狀態改變：憂鬱、冷漠、意識混亂、嗜睡 | |
+| | **「腫瘤性 TIA」**：類似中風之症狀，由以下引起：1) 腫瘤細胞阻塞血管；2) 出血；3)「盜血現象」——血液從缺血區域竊流至非缺血區域 | |
+| | 內分泌障礙：腦下垂體腫瘤（見內分泌學 E23） | |
 
-+ von Hippel-Lindau disease
+> **癌症患者新發溝通性水腦症**應提高對腦膜轉移性癌（leptomeningeal carcinomatosis）之警覺
 
-+ Turcot syndrome
-
-+ Lynch syndrome
-
-Investigations
-
-+ CT, MRI with contrast, stereotactic biopsy (tissue diagnosis and molecular markers for prognosis), tumour
-resection (often performed as initial step rather than biopsy), metastatic workup, tumour markers (i.e.
-germ cell tumours)
-
-Treatment
-
-+ conservative: serial history, physical, imaging for slow growing/benign lesions
-
-+ medical: corticosteroids to reduce ICP, cytotoxic cerebral edema; pharmacologic (i.e. pituitary adenoma)
-
-+ surgical: total or partial excision (decompressive, palliative)
-
-+ radiotherapy: conventional fractionated XRT, hypofractionated XRT, SRS (e.g. Gamma Knife)
-
-+ chemotherapy: e.g. alkylating agents (i.e. temozolomide, vincristine, cyclophosphamide, etc.)
-
-+ targeted therapy: e.g. trastuzumab for HER2-positive breast cancer and brain metastases, osimertinib for
-EGFR-mutant lung cancer and brain metastases
-
-Table 10. Tumour Location: Etiology and Clinical Features
-
-Supratentorial Infratentorial (Posterior Fossa)
-
-Epidemiology
-
-Age 5 yr
-Incidence: 2-5 in 100000 per yr
-
-‘Glioma (ll grades) (50%)
-CCraniopharyngioma (2-5%)
-
-Cerebellar astrocytoma (15%)
-
-60%binfratentorial Others: pineal region tumours, choroid Ependymoma(9%)
-plexus tumours, ganglioglioma,dysembryoplastic ——_—Brainstemastrocytoma
-neuroepithelal tumours (NET)
-
-Age>t5yr High-grade glioma (1215%, eg. Glioblastoma Metastasis
-
-80° supratentorial Multiforme- GBM) Acousticneuroma schwannoma) 510%)
-Metastasis (15-30%, indudesinfrotentoia) Hemangioblstoma 2%)
-Meningioma (15-20%) Meningioma
-Low-grade astrocytoma (8%)
-Pituitar noma (5-8%)
-
-Oligodendrogtioma (5%)
-Other: colloid cyst, CNS lymphoma, dermoid/epidermoid
-
-cysts
-Clinical Features
-‘Shared Features from elevated ICP) H/A: usually worse in AM and made worse with straining, coughing
-NW
-Papilledema
-Diplopia- CNVI palsy
-
-Distinguishing Features Seizure: commonly the ist symptom
-
-Progressiveneurological deficits (10%)
-
-Brainstem involvement: N deficits and long tact signs
-WV: compression on vagal nucleusarea postrema
-
-Frontal lobe: hemiparesis, dysphasia, personality
-changes, cognitive changes
-
-Temporal lobe: auditoryolfacory hallucinations,
-memory deficits, contralateral superior quadrantanopia
-Mental status change: depression, apathy, confusion,
-lethargy
-
-“Tumour TIA” (transient ischemic attack) stroke ike
-symptoms caused by
-
-‘a)occlsion of vessel by tumour cels
-
-b) hemorrhage
-
-« 2°to"steal phenomenon” - blood is shunted from
-ischemictegions to non-ischemic regions
-
-Endocrine disturbance: pituitary tumours (see
-Endocrinology, £23)
-
-Diplopia: drectcompression CNVI
-
-Vertigo
-
-Nystagmus
-
-Truncalatana+ttubation: cerebellar vermis lesions
-Limb ataxia, dysmetia, intention tremor: cerebellar
-hemisphere lesions
-
-Obstructive hydrocephalus more common than
-supratetarial lesions
-
-Toronto Notes 2025
-
-‘New onset communicating hydrocephalus
-ina patient with cancer should raise the
-suspicion of leptomeningeal carcinomatosis
--e 
+-e
 
 ## Page 947
 
-NSI5 ‘Neurosurgery
+## 腦腫瘤（續）
 
-Metastatic Tumours
+### 轉移性腫瘤
 
-Brain Metastasis
+#### 腦轉移
 
-+ most common intracranial tumour in adults (~50% of all brain tumours)
++ 成人最常見之顱內腫瘤（約占所有腦腫瘤 50%）
++ 約 25% 之癌症患者會發生腦轉移
++ 血行傳播最常見
++ 80% 位於大腦半球，常見於灰白質交界處或顳頂枕葉交界處
+  - 可能為栓子散布至大腦中動脈（MCA）末端分支所致
 
-+ afflict ~25% of patients with any cancer
+#### 診斷檢查
 
-+ hematogenous spread most common
++ 確認原發腫瘤：
+  - 完整轉移評估（CXR、胸部/腹部 CT、腹部超聲、核醫掃描/PET、乳房攝影）
++ CT（含顯影）：圓形、邊界清楚，常見環形強化、++水腫，常為多發
++ 顯影加強 MRI 更敏感，尤其對後顱窩
++ 若為不典型個案或找不到原發腫瘤，考慮切片/切除
 
-+ 80% are hemispheric, often at grey-white matter junction or temporal-parietal-occipital lobe junction
-= likely emboli spreading to terminal middle cerebral artery (MCA) branches
+#### 治療
 
-Investigations
-+ identify primary tumour
-«= full metastatic workup (CXR, CT chest/abdomen, abdominal U/S, nuclear medicine scan/PET,
-mammogram)
-+ CT with contrast > round, well-circumscribed, often ring enhancing, ++ edema, often multiple
-+ contrast-enhanced MRI more sensitive, especially for posterior fossa
-+ consider biopsy/resection in unusual cases or if no primary tumour identified
++ **藥物治療**：
+  - 若患者有癲癇發作，使用 phenytoin（或 levetiracetam）進行癲癇預防
+  - 使用 dexamethasone 減少水腫（配合 H2 阻斷劑）
+  - 化療因血腦屏障穿透性差而效果有限
+  - 標靶治療正在研究中（如 EGFR 抑制劑用於 EGFR 突變型肺癌腦轉移）
+  - 免疫治療（正在研究中）
++ **放射治療**：
+  - SRS（高度聚焦放射線，针对肿瘤）：用於離散性、深部或無法手術之腫瘤
+  - 多發病灶：使用全腦放射治療（WBRT）（>10 個病灶）；考慮 SRS（<10 個病灶）
+  - 術後輔助放射治療考量：切除後手術腔給予 SRS
+  - 新興證據支持避免 WBRT，使用局部放射以保留認知功能（參見 Brown et al., 2016）
++ **手術治療**：
+  - 單一/孤立病灶或有顯著佔位效應/症狀之主導病灶：仔細挑選患者進行手術切除加放射治療
+  - 新興：手術前 SRS（新輔助放射——減少手術切除時局部腦膜散播之風險）
 
-Treatment
-+ medical
-phenytoin (or levetiracetam) for seizure prophylaxis if patient presents with seizure
-dexamethasone to reduce edema given with H2 blocker
-role of chemotherapy limited because of poor penetration across BBB
-targeted therapies are currently being investigated (e.g. EGFR (epidermal growth factor receptor)
-inhibitors in patients with EGFR-mutant lung cancer and brain metastases)
-= immunotherapy (currently under investigation)
-+ radiation
-= SRS (highly focused fraction of radiation targeted to tumour): for discrete, deep-seated/inoperable
-tumours
-= multiple lesions: use WBRT (>10 lesions); consider SRS (<10 lesions)
-= postoperative adjuvant radiotherapy consideration: SRS to surgical cavity following resection
-emerging evidence supports avoidance of WBRT and use of focal radiation to spare cognitive functions
-(refer to Brown et al., 2016)
-+ surgical
-= single/solitary lesions or dominant lesion with significant mass effect or symptoms: surgical resection
-and radiation in carefully selected patients
-= emerging: SRS prior to surgical resection (neoadjuvant XRT - through to reduce risk of local
-leptomeningeal dissemination during surgical resection)
+#### 預後
 
-Prognosis
++ 出現症狀後若不治療：中位存活期約 1 個月；積極治療下 6-9 個月；部分亞組患者可能延長存活（如 HER2/neu 陽性乳癌、EGFR 突變型肺癌）
++ 疾病特異性分級預後評估（DS-GPA）是實用之預後指標
++ 預後取決於原發腫瘤類型、患者年齡、Karnofsky 評分、顱外轉移程度、顱內病灶數量及分子疾病亞型
 
-+ median survival without treatment once symptomatic is ~1 mo, with optimal treatment 6-9 mo; may be
-prolonged survival in some patient subgroups (e.g. HER2/neu breast cancer, EGFR-mutant lung cancer)
-the disease-specific Graded Prognostic Assessment (DS-GPA) is a useful prognostic index
+### 成人瀰漫性神經膠質瘤
 
-depending on primary tumour type, prognosis may depend on a combination of patient age, Karnofsky
-score, extent of extracranial metastatic disease, number of intracranial lesions, and molecular disease
-subtype
++ 最常見之原發軸內腦腫瘤，好發於 40-60 歲
 
-Adult Diffuse Gliomas
+**表 11. WHO 2021 瀰漫性神經膠質瘤分類**
 
-+ most common primary intra-axial brain tumour, common in 4th-6th decades
-Table 11. WHO 2021 Diffuse Gliomas Classification
+| 類型 | WHO 分級 | 典型 CT/MRI 表現 | 分子特徵 | 預後 |
+|------|---------|----------------|---------|------|
+| **寡樹突膠質瘤** | 2、3 | 低分級：CT 可見鈣化，無強化；高分級：強化 | 定義性：IDH 突變型；其他：TERT 啟動子、CIC、FUBP1、NOTCH1 | 低分級：約 10 年；高分級：5 年 |
+| **星狀細胞瘤** | 2、3、4 | 低分級：佔位效應，無強化；高分級：複雜強化 | 定義性：IDH 突變型且 1p/19q 非共缺失；其他：ATRX、TP53、CDKN2A/B | 低分級：3 年；高分級：1.5-2 年 |
+| **膠質母細胞瘤** | 4 | 壞死（環形強化） | 定義性：IDH 野生型；其他：TERT 啟動子、7 號染色體/+10、EGFR | 15 個月 |
 
-Type WHO Grade” Typical CTMRI Findings ‘AteredMolecularProfiles Prognosis
-Oligodendroglioma 2,3 Low grade: areas ofcalafication Defining: DH-mutant Low grade:~10yr
-onCT, «enhancement
-Other: TERT promoter CIC, High grade:5 yr
-High grade:enhancement FUBP1, NOTCH
-Astrocytoma 2,34 Lowgrade:masseffect,no Defining: IH mutant and 1p/19q Low grade: 3 yr
-enhancement codeleted
-High grade:1.5-2yr
-High grade: complex Other: ATRX,TP53, COKN2AB
-enhancement
-Glioblastoma 4 Necrosis (ring enhancement) Defining: OH-widtype 15m
+> *分級基於自然病程
 
-Other: TERT promoter,
-chromosomes 710, EGFR
+**圖 11. 多發性腦轉移（見箭頭）**
 
-“grade based on natural history
+> **最常見轉移至 CNS 之原發癌症**
 
-Toronto Notes 2025
+| 原發部位 | CNS 轉移頻率 |
+|---------|------------|
+| 肺癌 | 最高 |
+| 乳癌 | ~20% |
+| 腎細胞癌（RCC）| ~5% |
+| 黑色素瘤 | ~5% |
 
-Figure 11. Multiple brain metastases
-(see arrows)
+> **高級別神經膠質瘤之 CT 表現**
+> 1. 不均勻顯影強化
+> 2. 邊界不清（浸潤性）
+> 3. 腫瘤周圍水腫
+> 4. 中心壞死
+> 5. 腦室受壓、中線位移
 
-‘Most Common Cancers that Metastasize
-tothe CNS
+**圖 12. 高級別神經膠質瘤（CT）
 
-‘ite of Primary Frequency of CHS
-metastasis
-
-lung ws
-
-Breast 0%
-
-ney Rec) h%
-
-a %
-
-Nelanome %
-
-“*RCC-renlcellcarcinoma
-
-1. Heterogenous contrast enhancement
-2.lldefined borders (nfitrative)
-
-3. Peritumoural edema
-
-4. Central necrosis
-
-5. Compression of ventricles, midiine shift
-
-Figure 12. High-grade glioma on CT
-
-a
-
-SurgiclResectionys, Watchful Witingin Low.
-
-Grade Giomas
-
-Aan Oncol201;78:1942-1948
-
-Purpose: This study examined the effect of upfront
-
-iting for treatment of low. grade
-7
-
-Methods: The study was designed as a populaton-
-based parallel cohort study that compared outcomes
-froma hospital favouring watcha wating (66
-
-patients) and one favouring eal resection
-patients). Follow-up was between 7and 18 yt post-
-agnosis. The two groups were equivalent in terns of
-baseline parameters
-
-with ary surgical resection Patient from the centre
-favouring watchful waiting hada median survival of 5.8
-yr(95%C145-7.2) whereas patients fromthe centre
-favouring eary resection hada median survival of 144
-yr(95%C1 104185), The enhanced survival benefit
-remained after adjusting for molecular marker.
-Condusions: Early surgical resection oflow- grade
-jiomas i associated wit sigcant improved
-‘overall survival compared to watchful waiting
--e 
+-e
 
 ## Page 948
 
@@ -2653,234 +2271,35 @@ eep venous drainage = Grade
 
 ## Page 959
 
-S27
-
-Prognosis
-
-‘Neurosurgery
-
-+ 30d mortality rate 44%, mostly due to cerebral herniation
-+ rebleed rate 2-6%, higher if HTN poorly controlled
-
-Vascular Malformations
-
-Types
-+” AVMs
-
-+ cavernous malformations (cavernomas, cavernous hemangiomas/angiomas)
-+ Venous angioma
-
-+ capillary telangiectasias
-+ AVF (carotid-cavernous fistula, dural AVF, vein of Galen aneurysm)
-+ “angiographically occult vascular malformations” (any type, 10% of malformations)
-
-Arteriovenous Malformations, Cavernous Malformations, and
-Dural Arteriovenous Fistulas
-
-Table 17. Comparison of Pathoetiology, Clinical Features, and Treatment of Arteriovenous
-Malformations, Cavernous Malformations, and Dural Fistulas
-
-‘Arteriovenous Malformations
-
-Cavernous Malformations
-
-Dural Fistulas
-
-Definition
-
-Epidemiology
-
-Clinical Features
-
-Investigations
-
-Treatment
-
-Prognosis
-
-Tangle of abnormal vesselsirteriovenous
-shunts, with no intervening capillary beds or
-brainparenchyma; usually congenital
-
-Prevalence 0.4%, MLF=2:1, average ageat
-iagnosis=33 yr
-
-15-20% of patients withhereditary
-hemorrhagic telangiectasia (Osler-Weber-
-Reendu syndrome) will have cerebral AVMs
-
-Hemorrhage 40-60%): small AVMs are more
-likely tobleed dueto direct high pressure AV
-comections
-
-Seizures (60%): more common with larger
-AVMs
-
-Mass effect
-
-Focal neurological signs secondary to
-ischemia (high flow » “steal phenomena”)
-Localized Hi, increased ICP
-
-Bruit (specially with dural AVMs)
-
-May be asymptomatic (‘silent”)
-
-MRI {flow void), MRA
-Angiography (7% will alsohave one or more
-associated aneurysms)
-
-Decreases rsk of future hemorrhage and
-seizure
-
-Surgical excsionis treatmentof choice even
-in Spetaer-Martin grades I~ IIwith general
-{good health
-
-‘Sis preferred for small (<3 cm) or very
-deep lesions
-
-Endovascular embolization glue, balloon)
-«can be curative (5%) or used as adjuvant to
-surgery or SRSin larger lesions
-Conservative (e.g. palliative embolization,
-seizure control necessary)
-
-12-66% mortality, 23-40% morbidity serious
-neurological deficit) per bleed
-
-Risk of major bleedin untreated AVMs:
-24
-
-‘Outcomes depend on Spetzer-Martin grade
-
-Benign vascular hamartoma consisting
-ofiregular sinusoidal vascularchannels
-located within the brain without
-intervening neural tssue or associated
-large arteresiveins
-
-Several genesnow described: CCM,
-cme, coM3
-
-Prevalence of 0.1-0.2%, both sporadic
-and hereditary forms described
-
-Seizures (60%), progressive neurologkcal
-deficit (50%), hemorrhage (20%), HIA
-Often anincidental finding
-
-Hemorrhage risk less than AVM, usually
-minor bleeds
-
-T2-weighted image MRI (non-enhancing)
-Gradientecho sequencing best for
-diagnosis)
-
-Surgical excision:
-Only appropriate for symptomatic
-lesions that are suigicaly accessible
-(supratentorial lesions are less likely to
-bleed than infratentorial lesions)
-
-‘Annual bleedingrates:0.25-11% for
-supratentoral,-3% for brainstem
-Symptomatic lesions have ahigher
-hemorrhage riskthan asymptomatic
-
-Fistulas connecting dural arteriesto dural veins orthe
-dural sinus
-
-Frequently occu atthe transverse and cavernous
-sinuses, but canbe found at every cranial dural sinus
-Hypothesized tobe related to venoussinus thrombosis
-formation, and subsequent microvascular shunt
-formationwithinthe dura between arteries and veins
-
-Unknown true incidence
-
-Constitute 10-1
-abnormalities
-
-Asymptomatic, pulsatile tinnitusifivolving sigmoid or
-transverse sinuses, bruits, H/A
-
-Carotid cavernous involvement classically produces
-proptosis,chemoss, and brits
-
-Symptoms of SAH, SDH, or ICH
-
-‘Angiography remains the gold standard
-Non-enhanced CT to rue out hemorrhage
-
-MRI; however, this does not demonstratethe arterial
-supply tothe fistula
-
-‘Approachis dependent on size location and symptoms,
-and includes:
-
-Conservative treatment
-
-Neutoradiological endovascular interventions
-Radiation therapy
-
-Surgery
-
-Combinationof the above
-
-0.7% annua riskothemorrhage
-6.9% annual risk for non-hemorthagic neurological
-deficit
-
-10.4% mortaltyrate
-
-Outcomes influenced by dural fistula type (presence of
-cortical venous drainage ~ poorer outcomes)
-
-Toronto Notes 2025
-
-Figure 23. MRI of cavernous
-malformation
-
-A. T2.weighted imaging MRI
-
-B. Gradient echo sequencing MRI
-
-@
-
-inical Course of Untreated Cerebral Cavernous
-Malformations (CM)
-
-Lancet Neurol 20% pS 4144422(5)00303.8
-Purpose: To obtain precise estimates and predictors
-cof the iskof intracranial hemerthage (CH) in patents
-with untreated cerebral cavernous malformations
-(cos.
-
-Methods: Collected individual patent data from
-investigators of pushed studies on MEDLINE and
-Ease since inception nt Apr 2015 (7 cohorts
-from6 studies, n-1620)on clinica course fom CCM
-iagosis unt fst COM treatment orlast available
-followap.
-
-Results: 204 ofthe 1620 patients experienced ICH
-daring 5187 person-yfolow-up Kaplan-Meier
-estimated 5 yrsk 5.8%, 95% (113.747. 9) CH within
-Syrof CCM diagnosis was associated wth clinical
-resentation with ICH or focal neurological deficit
-without brain ima ging evidence ofrecenthemorrhage
-(vs.other presentations ARS 6, $5% C13.2917} and
-with brainstem COM location(s, other locations;
-44,95% (123-86),
-
-Condusions: (1) Made of cinica presentation and
-(2) CCMIocation are independently associated with
-1H within yr of CCM diagnosis The risk a recurrent
-hemorthageftom a CCM s greater than the risk ofthe
-firstevent and decines over5 yt
-
--e 
+## 血管畸形（Vascular Malformations）
+
+### 類型
+
++ 動靜脈畸形（AVM）
++ 海綿狀血管瘤（海綿狀血管畸形、海綿狀血管瘤）
++ 靜脈血管瘤（靜脈瘤）
++ 毛細血管擴張
++ 動靜脈瘻管（CCF、硬膜 AVF、Galen 靜脈瘤）
++ 「血管造影隱蔽性血管畸形」（任何類型，占畸形 10%）
+
+### 動靜脈畸形、海綿狀血管瘤與硬膜動靜脈瘻管
+
+**表 17. 動靜脈畸形、海綿狀血管瘤與硬膜瘻管之病理病因、臨床特徵與治療比較**
+
+| 特徵 | 動靜脈畸形（AVM） | 海綿狀血管瘤 | 硬膜瘻管 |
+|------|------------------|-------------|----------|
+| **定義** | 異常血管糾纏，動靜脈短路，無毛細血管床或腦實質介入；通常為先天性 | 良性血管錯構瘤，由不規則竇狀血管通道組成，位於腦內，無介入神經組織或大的動靜脈 | 連接硬膜动脉至硬膜靜脈或靜脈竇之瘻管 |
+| **流行病學** | 盛行率 0.4%，男女比 2:1，平均診斷年齡 33 歲；遺傳性出血性毛細血管擴張症（Osler-Weber-Rendu 症候群）患者中 15-20% 有腦部 AVM | 多個基因已被描述：CCM1、CCM2、CCM3；盛行率 0.1-0.2%，有偶發性與遺傳性形式 | 真實發生率不明；占血管畸形 10-15% |
+| **臨床特徵** | **出血**（40-60%）：小型 AVM 因直接高壓動靜脈連接更易出血；**癲癇**（60%）：大型 AVM 更常見；**佔位效應**；**局部缺血引起的局灶性神經徵**（高流量→「盜血現象」）；局部頭痛、顱內壓升高；**雜音**（尤其是硬膜 AVM）；可能無症狀（「沉默」） | **癲癇**（60%）、進行性神經功能缺損（50%）、**出血**（20%）、頭痛；常為偶然發現；出血風險低於 AVM，通常為輕微出血 | 無症狀；若涉及乙狀竇或橫竇則有搏動性耳鳴、雜音、頭痛；海綿竇侵犯典型表現：眼球突出、結膜水腫、雜音；SAH、SDH 或 ICH 之症狀 |
+| **診斷檢查** | MRI（流空訊號）、MRA；血管造影（7% 會有相關聯的动脉瘤） | T2 加權影像 MRI（非強化）；梯度回波序列對診斷最佳 | 血管造影仍是黃金標準；非增強 CT 排除出血；MRI（但不能顯示瘻管之动脉供應） |
+| **治療** | 降低未來出血與癲癇風險；**手術切除**是治療首選，即使是 Spetzler-Martin 分級 I-II 且一般健康狀況良好者；**SRS** 適合小病灶（<3 cm）或深部病灶；**血管內栓塞**（NBCA、彈簧圈）：可根治（5%）或作為大手術/SRS 之輔助；保守治療（姑息性栓塞、必要時癲癇控制） | **手術切除**：僅適用於有症狀且可手術到達之病灶（幕上病灶出血風險低於幕下）；年度出血率：幕上 0.25-1%，腦幹 3%；有症狀病灶出血風險高於無症狀病灶 | 治療方式取決於大小、位置與症狀，包括：保守治療、神經放射學血管內介入、放射治療、手術治療、上述方法之組合 |
+| **預後** | 每次出血死亡率 12-66%，嚴重神經功能缺損併發率 23-40%；未治療 AVM 主要出血風險：每年 2-4%；預後取決於 Spetzler-Martin 分級 | 幕上年度出血率 0.25-1%；腦幹 3%；有症狀病灶風險更高 | 年度出血風險 0.7%；非出血性神經功能缺損年度風險 6.9%；死亡率 10.4%；預後受硬膜瘻管類型影響（皮質靜脈引流→預後較差） |
+
+**圖 23. 海綿狀血管畸形之 MRI**
+- A. T2 加權影像 MRI
+- B. 梯度回波序列 MRI
+
+-e
 
 ## Page 960
 
@@ -3109,111 +2528,73 @@ Reflex Nochange Biceps, brachioradalis Triceps Finger jerk Hoffman's sign)
 
 ## Page 962
 
-NS30 Neurosurgery
-Degenerative Cervical Myelopath
+## 退化性頸椎脊髓病變（Degenerative Cervical Myelopathy, DCM）
 
-Defi n
+### 定義
 
-* progressive degenerative process of cervical spine leading to canal stenosis, congenital spinal stenosis,
-degeneration of intervertebral discs, hypertrophy of dura or ligaments, subluxation, altered mobility,
-telescoping of the spine due to loss of height of vertebral bodies, alteration of normal lordotic curvature
-resultant syndromes: mechanical neck pain, radiculopathy (root compression), myelopathy (spinal cord
-compression)
++ 頸椎進行性退化病變，導致：
+  - 椎管狹窄、先天性脊椎狹窄、椎間盤退化
+  - 硬膜或韌帶肥厚、半脫位
+  - 因椎體高度喪失導致脊椎 telescoping
+  - 正常前凸弧度改變
++ 結果導致：**機械性頸痛**、**神經根病變**（神經根壓迫）、**脊髓病變**（脊髓壓迫）
 
-Epidemiology
-+ typically begins at ages 40-50, M>F, most commonly at the C5-C6 > C6-C7 levels
+### 流行病學
 
-Pathogenesis
++ 通常發病於 40-50 歲；男>女；最常見於 C5-C6 > C6-C7 節段
 
-«+ any of: disc degeneration/herniation, osteophyte formation, ossification of the PLL, and/or hypertrophy of
-ligaments
+### 致病機轉
 
-+ pathophysiology includes static compression, dynamic compression, and vascular compromise
++ 任何以下因素：椎間盤退化/脫出、骨刺形成、後縱韌帶骨化（OPLL）、韌帶肥厚
++ 病理生理包括：**靜態壓迫**、**動態壓迫**、**血管損傷**
 
-Clinical Features
+### 臨床特徵
 
-+ insidious onset
++ 隱匿性發病
++ 頸痛放射至手臂，因頸椎過度活動加劇（如 Spurling 測試）；頸椎伸展時可能出現 Lhermitte 徵
++ 步態障礙
++ 感覺缺陷與靈巧度下降
++ 下肢無力
++ 上運動神經元徵候
++ 膀胱功能障礙
 
-neck pain radiating into arms, exacerbated by excess vertebral motion e.g. Spurling’s test. Potential
-Lhermitte’s sign with neck extension
+### 診斷檢查
 
-+ gait disturbance
++ 頸椎 X 光 + 前屈/後伸位（確認排列、骨折）
++ **MRI** 對確認神經組織壓迫最有幫助
++ **CT** 用於更精確評估骨質結構（如 OPLL）
++ EMG/神經傳導檢查僅用於周邊神經評估
 
-+ sensory defects and decreased dexterity
+**圖 25. CT（左）與 MRI（右）頸椎退化性病變表現**
 
-lower extremity weakness
+### 治療
 
-UMN signs
++ **非手術治療**：物理治療、抗發炎藥物
++ **手術治療**：
+  - 前側 approach（頸椎椎間盤切除或椎體切除）
+  - 後側 approach（減壓性頸椎椎板切除術）
+  - 多節段退化性頸椎脊髓病變：前側與後側 approach 均可接受，預後大致相當
+  - **前凸不足（kyphosis）> 通常首選前側 approach**
+  - **頸椎前凸保存 > 通常首選後側 approach**
 
-+ bladder dysfunction
+> **DCM 是脊髓損傷最常見之原因**
 
-Investigations
+### DCM 臨床分級評估
 
-+ x-ray of cervical spine + flexion/extension (alignment, fractures)
++ **修改版日本骨科學會評分（mJOA）**
++ **Nurick 分級**
++ **頸椎殘疾指數（Neck Disability Index）**
 
-+ MRI most useful for determination of compression of the neural element
-+ CT is used for better determination of bony anatomy (i.e. OPLL)
+### 治療建議
 
-+ EMG/nerve conduction studies reserved for peripheral nerve investigation
+| 病情嚴重程度 | 建議 |
+|------------|------|
+| **嚴重/中度 DCM** | 中等證據支持的手術干預建議 |
+| **輕度 DCM** | 非常低至低度證據支持提供手術干預或結構性復健；若選擇非手術治療，考慮功能惡化證據時進行手術 |
+| **無脊髓病變但有神經根病變之患者** | 有影像學頸椎脊髓壓迫證據者，發展為脊髓病變之風險較高，應提供手術或非手術治療建議並適當追蹤及結構性復健 |
+| **無脊髓病變且無神經根病變之患者** | 建議不提供預防性手術，教導並定期追蹤 |
 
-Figure 25. CT (left) and MRI (right) representations of cei
-Images cures oO. icmassicate
-
-I spondylo:
-
-Treatment
-nonsurgical: physiotherapy, anti-inflammatory medications
-surgical: anterior approach (anterior cervical discectomy or corpectomy), posterior approach
-(decompressive cervical laminectomy)
-in multilevel degenerative cervical myelopathy (DCM), both anterior and posterior options are acceptable
-approaches with generally comparable outcomes
-
-= with kyphosis > anterior approach generally preferred
-
-= with preserved cervical lordosis > posterior approach generally preferred
-
-Toronto Notes 2025
-
-DCM is the most common cause of spinal
-cord impairment.
-
-Giinical Grading Scores to Assess DCM
-Modified Japanese Orthopaedic
-Association (mJOA)
-
-Nurick Grade
-
-Neck Disability Index
-
-Recommendations fr Patients with Mid, Moderate,
-and Severe Disease and Nonnelopathic Patients
-wit vidence of Cord Compression
-
-ob Spine Journal 201,735) 75-835
-
-Severeand moderate DCM: Moderate evidence
-suggesting ston recommendation of sugkal
-intervention.
-
-id DOM: Verylowto om evidence suggesting offering
-surgcalinterventon ora structured rehabilitation
-
-andi non-operativemanagement intl pursued,
-consider operative intervention if evince of
-neurological deterioration,
-Non-myelopathic patients without radiculopathy:
-Insuch patients with imaging evdenceof cervical ord
-‘compression, suggestion of nat offering prophylactic
-surgery couse, educate and follow dial.
-Non-myelopathic patient with radiculopathy
-
-Sach patients with maging evidence of cervical
-
-Cord compression are at higher isk f developing
-myelopathy and should be counseled Ofer surgical or
-‘nonoperative treatment with appropriate follow-up and
-‘structured rehabiltation,
--e 
+-e
 
 ## Page 963
 
