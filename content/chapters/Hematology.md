@@ -1,5 +1,5 @@
 ---
-title: "血液學 (Hematology)"
+title: "血液學（Hematology）"
 description: "*Toronto Notes 2025*"
 slug: "Hematology"
 weight: 5

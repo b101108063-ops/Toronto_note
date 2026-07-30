@@ -1,5 +1,5 @@
 ---
-title: "醫學影像學"
+title: "醫學影像學（Medical Imaging）"
 description: "- **CXR 判讀 ABCDEF**：ID/film quality → Body position → Confirm name → Comparison → Bones → Cardiac/Costophrenic → Fields "
 slug: "Medical_Imaging"
 weight: 5

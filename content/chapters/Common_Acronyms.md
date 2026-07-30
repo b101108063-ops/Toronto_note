@@ -1,5 +1,5 @@
 ---
-title: "Commonly Used Abbreviations (醫學常用縮寫)"
+title: "醫學常用縮寫（Commonly Used Abbreviations）"
 description: "| 縮寫 | 全名 | 中文 |"
 slug: "Common_Acronyms"
 weight: 1

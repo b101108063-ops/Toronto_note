@@ -1,5 +1,5 @@
 ---
-title: "Infectious Diseases 傳染病學"
+title: "傳染病學（Infectious Diseases）"
 description: "本章節涵蓋傳染病學的核心內容，摘要如下："
 slug: "Infectious_Diseases"
 weight: 5

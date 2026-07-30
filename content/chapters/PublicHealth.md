@@ -1,5 +1,5 @@
 ---
-title: "Public Health 公共衛生學"
+title: "公共衛生學（Public Health）"
 description: "- **公共衛生涵蓋範圍**：人口健康促進、疾病預防、健康保護，整合生物、社會、環境及行為因素"
 slug: "PublicHealth"
 weight: 5

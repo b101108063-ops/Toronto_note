@@ -1,5 +1,5 @@
 ---
-title: "腎臟學 (Nephrology)"
+title: "腎臟學（Nephrology）"
 description: "*Toronto Notes 2025*"
 slug: "Nephrology"
 weight: 5

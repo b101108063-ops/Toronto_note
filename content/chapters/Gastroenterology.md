@@ -1,5 +1,5 @@
 ---
-title: "胃腸學 (Gastroenterology)"
+title: "胃腸學（Gastroenterology）"
 description: "*Toronto Notes 2025*"
 slug: "Gastroenterology"
 weight: 5

@@ -1,5 +1,5 @@
 ---
-title: "內分泌學 (Endocrinology)"
+title: "內分泌學（Endocrinology）"
 description: "*Toronto Notes 2025*"
 slug: "Endocrinology"
 weight: 5

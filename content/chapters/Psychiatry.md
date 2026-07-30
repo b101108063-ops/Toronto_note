@@ -1,5 +1,5 @@
 ---
-title: "精神醫學 (Psychiatry)"
+title: "精神醫學（Psychiatry）"
 description: "*Toronto Notes 2025*"
 slug: "Psychiatry"
 weight: 5

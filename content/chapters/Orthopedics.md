@@ -1,5 +1,5 @@
 ---
-title: "Orthopedics 骨科學"
+title: "骨科學（Orthopedics）"
 description: "*Toronto Notes 2025*"
 slug: "Orthopedics"
 weight: 5
