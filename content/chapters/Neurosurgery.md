@@ -156,8 +156,6 @@ pageRange: "941-975"
 
 ---
 
-## Page 941
-
 ## 水腦症（Hydrocephalus）
 
 ### 定義
@@ -196,10 +194,6 @@ pageRange: "941-975"
 > 1. 側腦室  2. 脈絡叢  3. 第三腦室  4. 大腦導水管（Sylvius 氏）  5. 第四腦室  6. Luschka 孔與 Magendie 孔  7. 蜘蛛膜顆粒  8. 蜘蛛膜下腔  9. 靜脈竇匯合處（靜脈湖）
 
 **圖 8. CSF 循環示意圖**
-
--e
-
-## Page 942
 
 ### 流行病學
 
@@ -274,10 +268,6 @@ pageRange: "941-975"
 > - **LP 分流**：神經根病變、CSF 滲漏、粘連、蜘蛛膜炎
 > - **ETV**：成功率 56%、下視丘損傷、醫源性基底動靜脈瘤
 
--e
-
-## Page 943
-
 ## 自發性顱內低壓（Spontaneous Intracranial Hypotension）
 
 + **低 CSF 壓力**合併**姿勢性頭痛**（因 CSF 滲漏導致）
@@ -318,10 +308,6 @@ pageRange: "941-975"
 + **手術治療**：適用於硬膜外血液貼片無效且滲漏處已定位之患者
 
 > **圖 9. 左圖**：數位減影脊髓造影顯示 CSF 滲漏處（紅色箭頭）；**右圖**：術中影像顯示直接修復硬膜
-
--e
-
-## Page 944
 
 ## 腦腫瘤（Brain Tumours）
 
@@ -445,10 +431,6 @@ pageRange: "941-975"
 > - 成人：多為幕上
 > - 兒童：多為幕下
 
--e
-
-## Page 945
-
 ## 腦腫瘤（續）
 
 ### WHO 2021 CNS 腫瘤分類（續）
@@ -467,10 +449,6 @@ pageRange: "941-975"
 | **生殖細胞腫瘤** | 畸胎瘤（成熟/未成熟/體細胞型惡性）、生殖細胞瘤、胚胎癌、卵黃囊瘤、絨毛膜癌、混合性生殖細胞瘤 |
 | **鞍部腫瘤** | 齒狀型顱咽管瘤、乳頭型顱咽管瘤、垂體細胞瘤/顆粒細胞瘤/梭形細胞嗜酸瘤細胞瘤、腦下垂體腺瘤、垂體母細胞瘤 |
 | **CNS 轉移** | 轉移至腦/脊髓實質、轉移至腦膜 |
-
--e
-
-## Page 946
 
 ## 腦腫瘤（續）
 
@@ -531,10 +509,6 @@ pageRange: "941-975"
 | | 內分泌障礙：腦下垂體腫瘤（見內分泌學 E23） | |
 
 > **癌症患者新發溝通性水腦症**應提高對腦膜轉移性癌（leptomeningeal carcinomatosis）之警覺
-
--e
-
-## Page 947
 
 ## 腦腫瘤（續）
 
@@ -612,10 +586,6 @@ pageRange: "941-975"
 > 5. 腦室受壓、中線位移
 
 **圖 12. 高級別神經膠質瘤（CT）
-
--e
-
-## Page 948
 
 ‘Neurosurgery
 
@@ -699,8 +669,6 @@ Treatment
 (HDMTX) + cytarabine + thiotepa + rituximab) preferred
 
 * surgery: generally reserved for stereotactic biopsy; resection discouraged
-
-Toronto Notes 2025
 
 CS)
 
@@ -794,8 +762,6 @@ was associated with significant suvivalbenefit
 inpatients with newly diagnosed non-co-deleted
 anaplastic gloma,
 -e 
-
-## Page 949
 
 NSI7 ‘Neurosurgery
 + radiation: WBRT used in consolidation therapy and for palliation; consider as second-line induction
@@ -899,8 +865,6 @@ ical Features
 early clinical triad (tumour <2 cm): unilateral progressive hearing loss 98%, tinnitus, and disequilibrium
 (compression of CN VIII)
 
-Toronto Notes 2025
-
 1, Homogenous contrast enhancement
 2. Dural attachment
 3. Distinct margins
@@ -944,8 +908,6 @@ Progressive unilateral or asymmetrical
 sensorineural hearing loss = vestibular
 ‘schwannoma until proven otherwise
 -e 
-
-## Page 950
 
 NSI8 ‘Neurosurgery
 + later clinical features
@@ -1028,8 +990,6 @@ Treatment
 = endoscopic endonasal trans-sphenoidal, and less commonly trans-cranial approaches (ice. for
 significant suprasellar extension)
 
-Toronto Notes 2025
-
 Figure 14. Vestibular schwannoma
 {tumour in CPA)
 
@@ -1075,8 +1035,6 @@ a
 
 Figure 16. Cavernous sinus
 -e 
-
-## Page 951
 
 NSI9 ‘Neurosurgery
 
@@ -1166,8 +1124,6 @@ Complications
 
 + transtentorial herniation
 
-Toronto Notes 2025
-
 1. Surrounding edema
 2. Central low density (pus)
 
@@ -1202,8 +1158,6 @@ medially nly.
 3. 6-8wkoflV treatment formuitpleabscesses when
 larger ones are treated surgical.
 -e 
-
-## Page 952
 
 S20 ‘Neurosurgery Toronto Notes 2025
 Investigations
@@ -1279,8 +1233,6 @@ infections, amphetamine)
 coagulopathy
 
 -e 
-
-## Page 953
 
 NS21 ‘Neurosurgery
 
@@ -1395,8 +1347,6 @@ cm; caniotomy if ecursmorethan twice
 
 Good overall as brain usually undamaged, butmay require repeat drainage
 
-Toronto Notes 2025
-
 1, Compression of ventricles (MLS)
 2. Blood
 
@@ -1466,8 +1416,6 @@ cutcomesis uncertain due to lw quality evidence
 when drains are used
 
 -e 
-
-## Page 954
 
 NS22 ‘Neurosurgery
 
@@ -1547,8 +1495,6 @@ headache of my life” (up to 97% sensitive, 12-25% specific)
 
 + meningismus (neck pain/stiffness, positive Kernig’s and Brudzinski’s sign)
 
-Toronto Notes 2025
-
 @
 
 niectomy in Older Patients with Extensive
@@ -1604,8 +1550,6 @@ hemiparesis, mid rigidity
 
 Mortality of Grade 12 20% increased with grade
 -e 
-
-## Page 955
 
 NS23 ‘Neurosurgery
 
@@ -1683,8 +1627,6 @@ Treatment
 hypotension since CBF autoregulation impaired by SAH)
 = cardiac rhythm monitor, Foley PRN, strict monitoring of ins and outs
 
-Toronto Notes 2025
-
 World Federation of Neurological
 ‘Surgeons (WENS) Grading of SAH
 
@@ -1758,8 +1700,6 @@ toselect patents at high-sk of Cl and standard
 treatment protocol and esearch studies
 
 -e 
-
-## Page 956
 
 NS24 ‘Neurosurgery
 
@@ -1847,7 +1787,6 @@ Types
 = 60% Streptococcus and Staphylococcus
 = 3-15% of patients with bacterial endocarditis
 
-Toronto Notes 2025
 VASOGRADE
 VASOGRADE WFNS Moditied
 Fisherscale
@@ -1925,8 +1864,6 @@ Adult Polycystic kidney disease
 Ehlers-Danlos syndrome
 Family history: >2 first-degree relatives
 -e 
-
-## Page 957
 
 NS25 ‘Neurosurgery
 
@@ -2017,8 +1954,6 @@ treatment guided by balance of risks of SAH per ISUIA and PHASES, and of interve
 experience and outcomes
 follow smaller aneurysms with serial angiography
 
-Toronto Notes 2025
-
 Long Term, Serial Screening for Intracranial
 Aneurysmsinindividuals witha FamilyHistory of
 Aneurysmal Subarachnoid Hemorrhage: A Cohort
@@ -2100,8 +2035,6 @@ intracranial aneurysms andthe risk associated with
 therepait.
 
 -e 
-
-## Page 958
 
 NS26 ‘Neurosurgery
 
@@ -2193,8 +2126,6 @@ ventriculostomy to treat hydrocephalus
 + medical reasons (e.g. advanced age, severe coagulopathy, difficult location (e.g. basal ganglia,
 thalamus))
 
-Toronto Notes 2025
-
 Location of ICH
 
 Basal gangiia/intermal capsule (50%)
@@ -2234,7 +2165,6 @@ those presenting witha GS outside this range. Surgical
 treatment oftaumaticlCH with 6510-13 mayhave
 ‘similarly beneficial outcomes,
 
-Ale tothe Landmark Neurosurgery Trias talefor
 deta of SCH
 
 ‘Spetzler-Martin AVM Grading Scale
@@ -2269,8 +2199,6 @@ above table.
 eep venous drainage = Grade
 -e 
 
-## Page 959
-
 ## 血管畸形（Vascular Malformations）
 
 ### 類型
@@ -2299,13 +2227,7 @@ eep venous drainage = Grade
 - A. T2 加權影像 MRI
 - B. 梯度回波序列 MRI
 
--e
-
-## Page 960
-
 NS28 ‘Neurosurgery
-
-Toronto Notes 2025
 
 Cerebrospinal Fluid Fistulas ©
 
@@ -2444,8 +2366,6 @@ Compression Fracture
 ‘Age >50, trauma, prolonged steroid use
 -e 
 
-## Page 961
-
 NS29 ‘Neurosurgery Toronto Notes 2025
 
 Root Compression ©
@@ -2526,8 +2446,6 @@ Reflex Nochange Biceps, brachioradalis Triceps Finger jerk Hoffman's sign)
 
 -e 
 
-## Page 962
-
 ## 退化性頸椎脊髓病變（Degenerative Cervical Myelopathy, DCM）
 
 ### 定義
@@ -2593,10 +2511,6 @@ Reflex Nochange Biceps, brachioradalis Triceps Finger jerk Hoffman's sign)
 | **輕度 DCM** | 非常低至低度證據支持提供手術干預或結構性復健；若選擇非手術治療，考慮功能惡化證據時進行手術 |
 | **無脊髓病變但有神經根病變之患者** | 有影像學頸椎脊髓壓迫證據者，發展為脊髓病變之風險較高，應提供手術或非手術治療建議並適當追蹤及結構性復健 |
 | **無脊髓病變且無神經根病變之患者** | 建議不提供預防性手術，教導並定期追蹤 |
-
--e
-
-## Page 963
 
 NS31 ‘Neurosurgery
 
@@ -2686,8 +2600,6 @@ extension)
 
 Reflex Patellar Medial hamstrings Achilles
 
-Toronto Notes 2025
-
 Figure 26. T2-weighted MRI of
 lumbar disc herniation
 
@@ -2721,8 +2633,6 @@ Jumbar-dscheriation cold not isting shptints
 with resolution oftheir symptoms rom patents til
 ‘experiencing symptoms.
 -e 
-
-## Page 964
 
 S32 ‘Neurosurgery
 
@@ -2807,8 +2717,6 @@ Treatment
 «= fusion typically advised if evidence of segmental instability prior to surgery (e.g. in flexion/extension
 x-rays)
 
-Toronto Notes 2025
-
 Causes of Cauda Equina Syndrome
 Lumbar disc herniation
 
@@ -2822,13 +2730,10 @@ Hematoma
 
 Trauma
 
-Neurosurgery Tra table formore
 information onthe SPORT ial for outcomes of surgery
 1s. nonoperative care for symptomatic ambar spinal
 stenosis
 -e 
-
-## Page 965
 
 NS33 ‘Neurosurgery Toronto Notes 2025
 
@@ -2927,8 +2832,6 @@ tethering (e.g. due to arachnoid webs), a detethering procedure with/without dur
 indicated
 -e 
 
-## Page 966
-
 ‘Neurosurgery
 
 Spinal Cord Syndromes
@@ -3009,8 +2912,6 @@ vascular damage is suspected
 Treatment
 + early neurosurgical consultation if injury is suspected
 
-Toronto Notes 2025
-
 can Spinal Injury Association
 itment Scale
 
@@ -3047,8 +2948,6 @@ Figure 28. Spinal cord lesion
 syndromes
 
 -e 
-
-## Page 967
 
 NS35 ‘Neurosurgery
 
@@ -3123,8 +3022,6 @@ sphincter tone and saddle sensation
 
 record and repeat neurological exam at regular intervals, as appropriate
 
-Toronto Notes 2025
-
 ‘Axon
 
 Schwann cell
@@ -3160,8 +3057,6 @@ inivially (e.g. E3V3M5)
 213ismild injury, 912is moderate injury; <Bis
 severeinjuy
 -e 
-
-## Page 968
 
 NS36 ‘Neurosurgery
 
@@ -3242,8 +3137,6 @@ basal skull fractures: not readily seen on x-ray, rely on clinical signs
 CSF rhinorrhea, otorrhea (suspect CSF if halo or target sign present); suspect with Lefort I/II midface
 
 fracture
-
-Toronto Notes 2025
 
 Never do LP in head injury unless increased
 ICP has been ruled out
@@ -3334,8 +3227,6 @@ a
 Figure 30. Signs of basal skull
 fractures
 -e 
-
-## Page 969
 
 S37 ‘Neurosurgery
 
@@ -3430,8 +3321,6 @@ Extracranial Con
 
 ions
 
-Toronto Notes 2025
-
 ‘AAN Concussion Classification
 Grade t: altered mental status <15 min
 Grade 2: altered mental status >15 min
@@ -3500,8 +3389,6 @@ co essis not superior tocar based on imaging and
 linia eranination.
 
 -e 
-
-## Page 970
 
 NS38 ‘Neurosurgery Toronto Notes 2025
 
@@ -3592,8 +3479,6 @@ eu Aw
 
 -e 
 
-## Page 971
-
 NS39 ‘Neurosurgery
 
 + ifone fracture has been detected - the entire spine should be scanned (CT) to assess for a second
@@ -3674,8 +3559,6 @@ FRACTURES AND FRACTURE-DISLOCATIONS OF THE THORACIC AND LUMBAR SPINE
 = posterior column: posterior arch, facet joints, pedicle, lamina and supraspinous, interspinous, and
 ligamentum ligaments
 
-Toronto Notes 2025
-
 Resolution of spinal shock is indicated by
 the return of reflexes (most commonly the
 bulbocavernosus reflex)
@@ -3692,8 +3575,6 @@ Type 1
 Figure 33. Odontoid fracture
 classification
 -e 
-
-## Page 972
 
 Ns40 ‘Neurosurgery
 
@@ -3768,8 +3649,6 @@ imbalances, thyroid storm)
 = infections (e.g. meningitis, encephalitis)
 = trauma (eg. concussion, diffuse shear axonal damage)
 
-Toronto Notes 2025
-
 Thoracolumbar Injury Classification and
 Severity Scoring
 
@@ -3830,8 +3709,6 @@ was associated with maternal and fetal risks related to
 preterm detvery.
 
 -e 
-
-## Page 973
 
 NS41 ‘Neurosurgery
 
@@ -3941,8 +3818,6 @@ meningocele, myelomeningocele
 
 -e 
 
-## Page 974
-
 NS42 ‘Neurosurgery
 
 Intraventricular Hemorrhage
@@ -4032,8 +3907,6 @@ Investigations
 Treatment
 + similar to adults (see Hydrocephalus, Treatment, NS10)
 
-Toronto Notes 2025
-
 Papile Classification
 Grade I: germinal matrix hemorrhage
 
@@ -4042,8 +3915,6 @@ IVH with ventricular dilation
 Grade IV: IVH with parenchymal extension
 
 -e 
-
-## Page 975
 
 NS43 ‘Neurosurgery
 
@@ -4126,8 +3997,6 @@ Preserved
 ‘When symptomatic, check the shuntfirst. Then consider surgical
 decompression (which does not reverse intrinsic brainstem
 abnormalities) + cervical laminectomy, duraplasty
-
-Toronto Notes 2025
 
 Chiari I
 

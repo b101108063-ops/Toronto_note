@@ -1,11 +1,4 @@
----
-title: "神經內科 (Neurology)"
-description: "*Toronto Notes 2025*"
-slug: "Neurology"
-weight: 5
-chapterCode: "N"
----
-
+# 神經內科 (Neurology)
 
 *Toronto Notes 2025*
 
@@ -13,97 +6,94 @@ chapterCode: "N"
 
 ## 導讀摘要
 
-常見神經症狀處理方法
+本節涵蓋常見神經症狀之系統性處理方法。
 
-無力
+---
+
+### 一、無力（Weakness）
+
+**病史詢問重點**
+
++ **發病模式**：
+  - 突發性（abrupt）：血管性、毒性、代謝性
+  - 亞急性（subacute）：腫瘤性、感染性、發炎性
+  - 漸進性（insidious）：遺傳性、退化性、內分泌性、腫瘤性
+
++ **病程演變**（course）：
+  - 發作時惡化：血管性
+  - 漸進性惡化：腫瘤性、退化性、感染性、遺傳性
+  - 陣發性：血管性、發炎性、癲癇性
+  - 活動依賴性：神經肌肉接合處、肌肉性疾病
+
++ **障礙型態**（pattern）：
+  - 客觀性 vs. 主觀性
+  - 全身性 vs. 局部性
+  - 不對稱 vs. 對稱
+  - 近端 vs. 遠端
+  - **上運動神經元**（UMN）vs. **下運動神經元**（LMN）
+  - 周邊型（peripheral）vs. 肌節型（myotomal）
+
++ **相關症狀**：
+  - 感覺症狀、皮質症狀、自律神經症狀
+  - 脊髓症狀（如：腸道/膀胱功能障礙）
+  - 各病因之特定徵兆/症狀
+
++ **病史要素**：
+  - 家族史、發育史、用藥史、風險因子
+  - 近期暴露史
+
+**實驗室檢查**
+
++ 懷疑**下運動神經元**病變：神經傳導（NCV）/肌電圖（EMG）
++ 懷疑**上運動神經元**病變：腦部及/或脊髓影像學
++ 懷疑**肌肉病變**：肌肉切片、肌酸激酶（CK）數值、神經傳導/肌電圖
++ 懷疑**神經肌肉接合處**疾病：
+  - 神經傳導/肌電圖（含反覆刺激測驗及單纖維肌電圖）
+  - 抗體檢測（如：重症肌無力之乙醯膽鹼受體抗體、肌肉特異性激酶抗體；蘭伯特-伊頓肌無力症候群之電壓門控鈣離子通道抗體）
+
+---
+
+### 二、麻木/感覺異常（Numbness/Tingling）
+
+**病史詢問重點**
+
++ **陽性感覺症狀**（positive sensory symptoms）：
+  - 感覺異常（dysesthesia）= 刺痛感、針刺感、蟻爬感、灼熱感、刺痛、搔癢、潮濕感
+
++ **陰性感覺症狀**（negative sensory symptoms）：
+  - 感覺減退（anesthesia）= 麻木、感覺減弱或消失
+
++ **感覺障礙分佈**有助於定位病灶：
+  - 排除純運動神經元、神經肌肉接合處或肌肉疾病
+  - 神經根 vs. 周邊神經病變
+  - 對稱性襪套式分佈（提示：遠端對稱性多發性神經病變）
+  - 分離性感覺障礙：背柱（精細觸覺、本體感覺、震動感）vs. 脊髓丘腦徑（痛覺與溫度覺）
+
++ **檢查項目**：
+  - 神經傳導、血糖、HbA1C、維生素B12、血清蛋白電泳、免疫固定電泳
+  - 依相關發現安排影像學
+
+**鑑別診斷**
+
++ **腦部病變**（cerebral）：中風、脫髓鞘、腫瘤
+  - 症狀：偏癱、失語症、失用症
+
++ **腦幹病變**（brainstem）：中風、脫髓鞘、腫瘤
+  - 症狀：複視、眩暈、構音障礙、吞嚥困難、交叉性感覺及/或運動徵兆
+
++ **脊髓/神經根病變**（spinal cord/radiculopathy）：
+  - 病因：脊髓梗塞、腫瘤、**多發性硬化症**（MS）、脊髓空洞症、維生素B12缺乏、椎間盤病灶
+  - 症狀：背部/頸部疼痛、無力（截癱或Brown-Séquard型態）、腸道及膀胱功能障礙
+
++ **神經病變**（neuropathy）：
+  - 局部壓迫性神經病變（依位置與分佈）、糖尿病、尿毒症、血管炎、維生素B12缺乏、HIV、萊姆病、酒精、腫瘤旁症候群、類澱粉沉積
+  - 多發性神經病變（長度依賴性）呈現襪套式感覺異常分佈
+
++ **其他**：皮膚病（如：帶狀皰疹、血管性水腫）、精神科疾病（如：恐慌症）
+
+異常步態（Abnormal Gait）
 
 處理方法
-+ 發病模式: abrupt (vascular, toxic, metabolic), 亞急性 (neoplastic, infective, inflammatory), insidious
-(genetic, degenerative, endocrine, neoplastic)
-
-course: 發作時惡化 (vascular), 漸進性 (neoplastic, degenerative, infective, genetic), 陣發性
-(vascular, inflammatory, epileptic), 活動依賴性 (neuromuscular junction, muscular)
-
-pattern: 客觀性 vs. 主觀性, 全身性 vs. 局部性, 不對稱 vs. 對稱, 近端 vs. 遠端,
-上運動神經元 vs. 下運動神經元, peripheral vs. myotomal
-
-associated symptoms: 感覺, 皮質, 自律神經, 脊髓 (i.e. bowel/bladder dysfunction), signs/
-symptoms specific to various etiologies
-
-history: family history, developmental history, medications, risk factors, recent/preceding exposures
-investigations for 下運動神經元: 神經傳導/E重症肌無力
-
-investigations for 上運動神經元: imaging (brain and/or 脊髓 cord)
-
-investigations for suspected 肌肉病變: muscle biopsy, creatine kinase level, 神經傳導/E重症肌無力.
-
-investigations for suspected 神經肌肉接合處 disorder: 神經傳導/E重症肌無力 (with repetitive nerve
-stimulation and single fibre E重症肌無力), antibodies (e.g. acetylcholine receptor antibodies and muscle-specific
-kinase antibodies for 重症肌無力, voltage-gated calcium channel antibodies for 蘭伯特-伊頓肌無力症候群)
-
-鑑別診斷
-+客觀性肌肉無力; also, differentiate between真正的肌肉無力 vs.疲勞
-= 全身性
-* 肌肉病變 (近端 > 遠端無力)
-— endocrine: hypothyroidism, hyperthyroidism, Cushing's syndrome
-— rheumatologic: dermatomyositis, polymyositis, vasculitis
-— infectious: 愛滋病, influenza
-— other: collagen vascular disorders, 皮質類固醇, statins, 酒精, electrolyte disorders
-neuromuscular junction (重症肌無力, botulism, 蘭伯特-伊頓肌無力症候群, organophosphate poisoning)
-polyradiculopathy (infection, malignancy, 格林-巴利症候群, 慢性發炎性脫髓鞘性神經病變)
-cachexia
-局部性
-¢ 上運動神經元 (vasculitis, abscess, brain tumour, vitamin Bu deficiency, 多發性硬化症, 中風)
-+ radicular pain (i.e. nerve root)
-前 horn cell Gpinal muscular 萎縮, 肌萎縮性脊髓側索硬化症, polio, paraneoplastic)
-+ peripheral 神經病變 (peroneal muscle 萎縮, 格林-巴利症候群, leprosy, amyloid, myeloma, 糖尿病, lead toxicity)
-+ no客觀性肌肉無力
-= 慢性 illness (cardiac, pulmonary, anemia, infection, malignancy)
-= deconditioning
-«= functional neurologic disorder
-
-麻木/感覺異常
-
-處理方法
-+ positive 感覺症狀: 感覺異常/dysesthesia = 刺痛, pins and needles, prickling, 燒灼感, ©
-stabbing, itching, sensation of wetness
-+ negative 感覺症狀: 感覺減退/anesthesia = 麻木, reduction/absence of feeling The presence of 感覺症狀
-+ determine distribution of 感覺 loss: excludes pure motor neuron,
-
-neuromuscular junction, or muscle
-
-= nerve root vs. peripheral nerve pathologies
-
-= 對稱 襪套式 pattern (indicative of 遠端 對稱 多發性神經病變)
-= dissociated 感覺 loss: dorsal column (fine touch, proprioception, vibration) vs. spinothalamic tract
-(pain and temperature)
-+ investigations: 神經傳導, blood glucose, HbAIC, vitamin Bi. level, serum protein electrophoresis, serum
-immunofixation, imaging based on associated findings
-
-鑑別診斷
-+ cerebral: 中風, demyelination, tumour
-= symptoms: 偏癱, aphasia, apraxia
-+ brainstem: 中風, demyelination, tumour
-= symptoms: 複視, 眩暈, 構音障礙, 吞嚥困難, crossed 感覺, and/or motor findings
-spinal cord/radiculopathy: cord infarction, tumour, 多發性硬化症, syringomyelia, vitamin Buz deficiency, disc lesion
-= symptoms: back/neck pain,無力 (paraparesis or Brown-Séquard pattern), bowel and bladder
-dysfunction
-neuropathy: focal compressive 神經病變 (based on location and distribution), 糖尿病, uremia, vasculitis,
-vitamin Bi2 deficiency, 愛滋病, Lyme disease, alcohol, paraneoplastic, amyloid
-= 多發性神經病變 (length-dependent 神經病變) will have a 襪套式 distribution of 感覺
-abnormalities
-other: dermatological (e.g. herpes zoster, angioedema), psychiatric disorders (e.g. panic attacks)
--e 
-
-## Page 881
-
-NUL Neurology
-
-Abnormal Gai
-
-處理方法
-
-Toronto Notes 2025
 
 + characterize abnormal gait (posture, stride length, width between feet, height of step, stability of pelvis,
 symmetry, arm swing, difficulty turning, 顫抖, elaborate/inconsistent movements, standing from sitting,
@@ -117,56 +107,24 @@ incontinence)
 
 + workup based on etiology (blood work, neuroimaging, urgent neurologist referral)
 
-表 7. Types of Gait Disturbance
+表 7. 步態障礙類型（Types of Gait Disturbance）
 
-Location Description Disorder
+| 位置 | 描述 | 疾病 |
+|------|------|------|
+| **視力喪失** | 寬基底步態，謹慎邁步 | 白內障手術未置換水晶體 |
+| **本體感覺喪失** | 感覺性運動失調：寬基底、高抬腿步態，Romberg氏徵陽性 | 脫髓鞘性神經病變、腫瘤旁症候群、脊髓癆（tabes dorsalis）、**多發性硬化症**（MS）、壓迫性脊髓病變、維生素B12缺乏 |
+| **周邊前庭病灶** | 前庭性運動失調 | 腫瘤創傷、感染、梅尼爾氏症、耳毒性藥物 |
+| **下肢神經疾病** | 跨閾步態（steppage gait）、足下垂 | 後天或遺傳性周邊神經病變、腓神經病變、L4-L5神經根病變 |
+| **肌肉病變** | 搖擺步態（waddling gait）：寬基底、短步距，腰椎前凸明顯，骨盆旋轉 | 肌肉失養症、發炎性肌肉病變 |
+| **皮質脊髓徑病灶** | 痙攣步態：痙攣性足下垂、划圈、剪刀式步態或蹮腳尖走路合併雙側划圈 | 單側：腦中風（缺血性/出血性）；雙側：頸椎退化、腦性麻痺、脊髓腫瘤、合併脊髓退化、**多發性硬化症**（MS）、運動神經元疾病 |
+| **基底核** | 帕金森氏步態：小碎步、駝背姿勢、擺臂減少；舞蹈性/半身性/肌張力障礙步態 | 梗塞、帕金森氏症、進行性核上麻痺、**多發性硬化症**（MS）、亨汀頓舞蹈症、西登漢姆舞蹈症、威爾森氏症、系統性紅斑狼瘡、神經安定藥物、真性紅血球增多症、遺傳性肌張力障礙 |
+| **小腦** | 小腦性運動失調步態：寬基底但無高抬腿；向病灶側偏斜 | 原發或續發性腫瘤、毒素（酒精）、維生素E缺乏、甲狀腺功能減退、低血糖、腫瘤旁症候群、血管性病變 |
 
-Visual Loss Broad based gait with tentative steps Cataract surgery without lens replacement
+---
 
-Proprioceptive Loss ‘Sensory 運動失調: wide-based with high stepping posture Demyelinating neuropathies, paraneoplastic syndrome, tabes
-‘and positiveRomberg dorsalis, 多發性硬化症, compressive myelopathy, vitamin Bu deficiency
+### 顱神經檢查（Cranial Nerve Exam）
 
-Peripheral Vestibular Lesion Vestibular 運動失調 Tumour, trauma, infectious, Méniére’s disease ototoxic drugs
-Disequilibrium
-
-Lower Limb Nerve Disorder Foot drop ‘Acquitedhereditary peripheral 神經病變, compressive
-Steppage gait peroneal 神經病變, L4-L5 radiculopathy,
-
-Myopathies Waddling gait: broad based, short stepped gatwith Muscular dystropty, inflammatory 肌肉病變
-
-pronounced lumbar lordsis, rotation of pelvis
-
-Spastic gat: spastic foot drop, ciumduction,
-scissoring oflegsor toe walking with 雙側
-crcumduction
-
-CorticospinalTractLesion
-
-Basal Ganglia Parkinsonian gait:shortstridelength, stooped posture,
-reduced armswing
-Choreicemiballsic/dystonic gait
-
-Cerebellum Cerebellar ataxic gait, wide-based without high
-
-‘stepping; veers to side of lesion
-Alcoholic gait
-
-Uni外側: 中風 (schemic/ hemorrhagic)
-Bi外側: cervical spondylosis, cerebral palsy, 脊髓 cord tumour,
-combined 脊髓 corddegeneration, 多發性硬化症, motor neuron disease
-
-Infarct, 帕金森氏症, 漸進性 supranuclar palsy, 多發性硬化症A, 亨汀頓舞蹈症,
-Sydenham’s 舞蹈症, Wilson's disease, 全身性紅斑狼瘡, neuroleptic
-medications, polycythemia vera, genetic 肌張力障礙
-
-imary and secondary neoplasm, toxins (酒精), vitamin €
-
-Aeficiency, hypothyroid, hypoxia, typoglycemia, paraneoplastic
-syndrome, vascular lesion
-
-nial Nerve De
-
-see 顱神經 Exam, N3
+請參閱「顱神經檢查」章節，N3 頁。
 
 CN I: Olfactory Nerve
 
@@ -202,10 +160,6 @@ Kallmamn syndrome is a congenital
 disorder of 嗅覺喪失 and hypogonadotropic
 hypogonadism
 -e 
-
-## Page 882
-
-NI2 Neurology Toronto Notes 2025
 
 CN
 
@@ -315,10 +269,6 @@ Jaw deviation is towards the side of a 下運動神經元
 CN VIesion
 -e 
 
-## Page 883
-
-NI3 Neurology
-
 CN VI: Abducens Nerve
 
 al Features
@@ -390,8 +340,6 @@ forehead sparing
 
 圖 12. 下運動神經元 vs. 上運動神經元 facial nerve palsy
 
-Toronto Notes 2025
-
 Distinguishing CN, IV, and VI Lesions
 ow w w
 Dipopia —Obique —Vertcal_—_—Horiortal
@@ -412,10 +360,6 @@ Lesions involving the cavernous sinus can
 lead to palsies of CN Il IV, VI, V1, and V2 as
 wellas orbital pain and proptosis
 -e 
-
-## Page 884
-
-NI4 Neurology
 
 CN VIII: Vestibulocochlear Nerve
 «+ see Otolaryngology, OT9
@@ -502,7 +446,6 @@ Ischemic Optic Neuropathy
 Other Causes
 + traumatic, compressive, toxic, nutritional, hereditary
 
-Toronto Notes 2025
 Facial Nerve Branch Memory Aid
 “To Zanzibar By Motor Car”
 Temporal
@@ -528,10 +471,6 @@ of voice
 (CN X1 is vulnerable to injury during neck
 surgery
 -e 
-
-## Page 885
-
-NIS Neurology Toronto Notes 2025
 
 Optic Atrophy
 + non-reversible death of retinal ganglion cells that form the optic nerve
@@ -611,8 +550,6 @@ causes eye deviation away from the side
 
 + see Ophthalmology, OP36 and Stroke, N51 ofthelesion
 -e 
-
-## Page 886
 
 神經內科
 
@@ -698,8 +635,6 @@ Nystagmus
 分類
 + based on axis of movement (vertical, horizontal, torsional)
 
-Toronto Notes 2025
-
 內側
 rectus
 cnt
@@ -737,10 +672,6 @@ suggests 重症肌無力 (i. variable and fatigable),
 usually with associated 眼瞼下垂
 -e 
 
-## Page 887
-
-NI7 Neurology
-
 + based on movement type
 
 « jerk: slow drift in one direction (slow phase) followed by a fast corrective movement in the opposite
@@ -752,8 +683,6 @@ direction or multiple directions (unidirectional, bidirectional, multidirectiona
 + based on cause: congenital or acquired, physiological or pathological (peripheral or central)
 
 表 9. Nystagmus Features
-
-Toronto Notes 2025
 
 @
 
@@ -847,7 +776,7 @@ Neural tube defects (inetus)
 
 Copper yelopathy, myeloneuropathy, 感覺 運動失調, Serum copper and ceruloplasmin Discontinue inc; copper 8 mg/d PO daly fort
 spasticgait(similartovitamin Bx deficiency) Urinary copper wk, then4 mgPO daily for2 wk, then2mg PO
-Severe 感覺 ass MR spine; E重症肌無力I神經傳導 daly thereater
+Severe 感覺 ass MR spine; EMGI神經傳導 daly thereater
 
 Vitamin € Ophthalmoplegia retinopathy, spinocerebellar Serumvitamin E Vitamin€ 2200 mg/kg/d PO or IM
 
@@ -860,7 +789,7 @@ Thiamine (Vitamin 81)
 Three manifestations include: beriber (dry and
 ‘wet infantileberiberi, Wernicke-Korsakott
 
-and triglycerides; E重症肌無力I神經傳導
+and triglycerides; EMGI神經傳導
 
 Clinical diagnosis
 MRI brain
@@ -878,7 +807,7 @@ intractable 癲癇 in infants, contusion
 Pellagra: 腦病變, 失智症, and
 
 Serum pyridoxal phosphate
-E重症肌無力I神經傳導
+EMGI神經傳導
 FE ininfants and children
 
 Usinary nicotinamide mononucleotide
@@ -939,10 +868,6 @@ Minyan Wang 2012
 圖 15. Eye movement disorders
 and Horer’s syndrome
 -e 
-
-## Page 888
-
-NI8 Neurology
 
 表 11. Selected Occupational Neurotoxic Syndromes
 
@@ -1039,8 +964,6 @@ OR
 malformation of 皮質 development, neurodegenerative, autoimmune, metabolic; infectious
 (meningo/encephalitis); or unknown)
 
-Toronto Notes 2025
-
 Stroke is the most common cause of
 late-onset (>50 yr) 癲癇s, accounting for
 50-80% of cases
@@ -1050,10 +973,6 @@ Neurodegenerative diseases can underlie
 seizures. Conversely, 癲癇s can be a
 ‘cause of 失智症
 -e 
-
-## Page 889
-
-NI9 Neurology
 
 分類
 
@@ -1114,8 +1033,6 @@ oe
 
 .
 
-Toronto Notes 2025
-
 Temporal lobe 癲癇s are suggested
 by an 先兆 of fear, olfactory or gustatory
 hallucinations, and visceral or déja vu
@@ -1157,10 +1074,6 @@ seizures, hyperventilation, panic disorder,
 alcoholic blackouts, 偏頭痛s (confusional,
 vertebrobasilar), narcolepsy (cataplexy)
 -e 
-
-## Page 890
-
-N20 Neurology
 
 表 12. Classic Factors Differentiating Seizure, Syncope and Pseudoseizure
 
@@ -1250,8 +1163,6 @@ magnesium sulfate
 + focused history: onset, 癲癇 history, 酒精/drug ingestion, past medical history, associated symptoms,
 witnesses/col外側 history
 
-Toronto Notes 2025
-
 Note that 癲癇s originating in the
 frontal lobes may look like psychogenic
 nor-epileptic spells 由於 an abundance
@@ -1300,10 +1211,6 @@ level of awareness >20 min after a
 全身性 癲癇; order an EEG if unsure
 -e 
 
-## Page 891
-
-N21 Neurology
-
 + physical exam (following 癲癇 control): vitals, GCS, HEENT (head trauma, tongue laceration, nuchal
 rigidity, optic disc edema), full neurological exam, cardiorespiratory exam, 多發性硬化症K exam (rule out injuries)
 
@@ -1312,8 +1219,6 @@ screen, monitor for rhabdomyolysis, and IV fluids to maintain normal cerebral pe
 
 Antiseizure Medications
 + early abortive treatment with 苯二氮平類s is the mainstay of treatment; also add on maintenance
-
-Toronto Notes 2025
 
 Complex partial status epilepticus can
 resemble schizophrenia or psychotic
@@ -1361,8 +1266,6 @@ phenytoin 20 mg/kg IV up to 30 mg/kg ata maximum rate of 50 mg/min
 3. Burst suppression (on EEG)
 
 圖 17. Status epilepticus treatment algorithm
-
-ehavioural Neurology
 
 see Psychiatry, PS23
 
@@ -1441,10 +1344,6 @@ Serum chemistry and elecroyteanalysis
 Serum chemistry and elecroyteanalysis
 
 -e 
-
-## Page 892
-
-N22 Neurology
 
 Mild Neurocognitive Disorder (Mild Cognitive Impairment)
 
@@ -1534,8 +1433,6 @@ neuropsychological testing or quantified clinical assessment
 + major NCD 由於 frontotemporal lobar degeneration has an earlier onset and represents a 漸進性ly
 smaller fraction of all NCDs with increasing age
 
-Toronto Notes 2025
-
 )
 
 Prevalence of epressioninPatients with Mild
@@ -1593,10 +1490,6 @@ aphasia
 
 圖 18. Major NCD classification
 -e 
-
-## Page 893
-
-N23 Neurology
 
 病因 (see 表 14, N23)
 
@@ -1697,8 +1590,6 @@ hematoma, subdural hematoma Increased CP, 乳頭水腫
 
 Locating neurologicalsigns
 
-Toronto Notes 2025
-
 Sensitivity and Specificity
 
 M多發性硬化症E 81% 2%
@@ -1773,10 +1664,6 @@ Decreasedinterestin Changes inusual
 activities andditficuty interests
 making choices
 -e 
-
-## Page 894
-
-N24 Neurology
 
 表 14, Selected Causes of Major NCD (Dementia)
 
@@ -1853,8 +1740,6 @@ accounts for 60-90% of all 失智症s (depending on setting and diagnostic crite
 + other factors include: TBI, FMHx, Down syndrome, low education, and vascular risk factors (e.g. smoking,
 高血壓, hypercholesterolemia, 糖尿病)
 
-Toronto Notes 2025
-
 a
 
 Cholinesterase
@@ -1898,10 +1783,6 @@ early onset of 阿茲海默症 (i.e. age 40) 由於 three
 copies of the amyloid precursor protein on
 chromosome 21
 -e 
-
-## Page 895
-
-N25 Neurology
 
 臨床特徵
 + cognitive impairment
@@ -1988,8 +1869,6 @@ extrapyramidal symptoms)
 repeated falls, syncope, or transient episodes of unexplained loss of 意識
 auditory or other non-visual hallucinations, systematic delusions, and 下視
 
-Toronto Notes 2025
-
 Vitamin Eand Donepezifrthe 治療 of Mid
 Cognitive impairment
 
@@ -2020,10 +1899,6 @@ the effec of tie and treatment on neuropsy chological
 functioning during the Clinical Antipsychotic Taso the
 Intervention Efectvenes-Aaheimer’s Disease stud.
 -e 
-
-## Page 896
-
-N26 Neurology
 
 病因 and Pathogenesis
 + lewy bodies (eosinophilic cytoplasmic inclusions) found in both 皮質 and subcortical structures
@@ -2107,12 +1982,7 @@ categories (“animal” for “dog”)
 + genetic variants: MAPT gene (tau), PGRN gene (progranulin), VCP gene, TARDBP gene (TDP-43),
 CHMP2D gene, C9ORF72 gene (associated with 額顳葉失智症-肌萎縮性脊髓側索硬化症)
 
-Toronto Notes 2025
 -e 
-
-## Page 897
-
-N27 Neurology Toronto Notes 2025
 
 * gross changes: frontal and 前 temporal lobe 萎縮, 皮質 thinning, possible ventricular
 enlargement
@@ -2197,10 +2067,6 @@ changes), EEG (periodic complexes), real-time quaking-induced conversion
 is no known cure for CJD
 -e 
 
-## Page 898
-
-N28 Neurology
-
 Aphasia
 
 定義
@@ -2260,8 +2126,6 @@ Dressing” Inability to dress Dressing Right
 “Refers specially tothe inability to carry outtheleamed movements involved in construction, drawing, or dressing not merely the inabilty to construct, draw, or dress. Many skls aside
 {om praxis are needed to carryout these tasks
 
-Toronto Notes 2025
-
 >99% of right handed people have left
 hemisphere language representation
 
@@ -2277,10 +2141,6 @@ Phonemic (eg. “cable” for “table")
 Aphasia localizes the lesion to the
 dominant cerebral hemisphere
 -e 
-
-## Page 899
-
-N29 Neurology
 
 Agnosia
 
@@ -2347,8 +2207,6 @@ Sport Concussion Assessment Tool
 «= MRI not indicated in initial evaluation; consider if continued or worsening symptoms despite normal
 cT
 
-Toronto Notes 2025
-
 Lesions of the dominant parietal lobe are
 characterized by Gerstmann's syndrome:
 acalculia, agraphia, finger agnosia, and
@@ -2369,10 +2227,6 @@ with severity of injury
 Regained from most distant to recent
 ‘memories
 -e 
-
-## Page 900
-
-N30 Neurology Toronto Notes 2025
 
 治療
 + minimum hourly clinical observations until at least 4h post-injury
@@ -2412,10 +2266,6 @@ Movement Disorde
 + input from cerebral cortex, output to thalamus, which projects back to the cerebral cortex
 + direct pathway: promotes movement, indirect pathway: inhibits movement
 -e 
-
-## Page 901
-
-NBL Neurology
 
 Motor cortex
 Premotor cortex
@@ -2470,12 +2320,8 @@ callosum
 
 圖 21. Basal ganglia (axial section)
 
-Toronto Notes 2025
 -e 
 
-## Page 902
-
-N32 Neurology
 徵兆與症狀 of Movement Disorders
 
 表 17. Movement Disorder 定義
@@ -2549,8 +2395,6 @@ hyperosmolar syndrome, hepatic 腦病變, uremia, hypoxia
 
 + focal brain damage: head injury, 中風, mass
 
-Toronto Notes 2025
-
 Insome cases, 肌張力障礙s may occur
 
 ‘only during voluntary movements and
@@ -2589,10 +2433,6 @@ dyskinesia)
 Palatal 顫抖 can result from lesion to the
 dentato-rubro-olvary tract
 -e 
-
-## Page 903
-
-N33 Neurology
 
 Parkinson’s Disease
 
@@ -2670,8 +2510,6 @@ methyltransferase inhibitors
 = SSRIs first line
 = TCAs (beware fall risk, cognitive impairment, and worsening symptoms of 帕金森氏症)
 
-Toronto Notes 2025
-
 帕金森氏症關鍵特徵
 
 TRAP
@@ -2726,10 +2564,6 @@ History of encephaitis
 
 Extensive travel history
 -e 
-
-## Page 904
-
-N34 Neurology
 
 Other Parkinsonian Disorders
 
@@ -2808,8 +2642,6 @@ stimuli (sensory tricks, e.g. placing hand on face for cervical 肌張力障礙)
 
 more likely to be 漸進性 and 全身性 if younger onset or leg 肌張力障礙
 
-Toronto Notes 2025
-
 @
 
 Dopamine Agonist Therapy in arly Parkinson's
@@ -2831,10 +2663,6 @@ Conclusion: Dopamine agonstshave fewer motor side
 effects than evodopa, bu provide worse symptom
 control and increased rate of ther side eects
 -e 
-
-## Page 905
-
-N35 Neurology Toronto Notes 2025
 
 治療
 
@@ -2911,10 +2739,6 @@ out the tic
 Deficit/Hyperactivity Disorder (阿茲海默症HD), hyperactive behaviour, “rages,” sleep-wake disturbances, or
 learning disabilities
 -e 
-
-## Page 906
-
-N36 Neurology Toronto Notes 2025
 
 治療
 
@@ -2993,10 +2817,6 @@ autoimmune: 多發性硬化症, Miller-Fisher variant of 格林-巴利症候群
 primary or secondary neoplasm
 -e 
 
-## Page 907
-
-N37 Neurology
-
 « see Otolaryngology, OT12
 
 Motor Neuron Disease
@@ -3038,7 +2858,7 @@ diaphragm)
 
 檢查
 
-+ E重症肌無力: to assess active and 慢性 denervation and reinnervation, 肌束震顙
++ EMG: to assess active and 慢性 denervation and reinnervation, 肌束震顙
 
 + 神經傳導: to rule out peripheral 神經病變 (e.g. multifocal motor 神經病變 with conduction block)
 
@@ -3058,8 +2878,6 @@ percutaneous endoscopic gastrostomy tube), 復健 (PT, OT, S腰椎穿刺), and p
 
 預後
 + median survival is 3 yr; death is 典型地 由於 respiratory failure
-
-Toronto Notes 2025
 
 Facelthroat
 (Craniobuibar)
@@ -3128,18 +2946,14 @@ Sensory Sx, predominant pain, bowel or
 bladder incontinence, extraocular muscle
 weakness
 
-Denervation on E重症肌無力
+Denervation on EMG
 Fibrillations, positive sharp waves, complex
 repetitive discharges
 
-Reinnervation on E重症肌無力
+Reinnervation on EMG
 Increased amplitude and duration of motor
 units
 -e 
-
-## Page 908
-
-N38 Neurology
 
 Other Motor Neuron Diseases
 
@@ -3204,9 +3018,7 @@ tunnel at wrist
 grip strength
 signs: Tinel’s sign, positive Phalen’s test, thenar muscle 萎縮
 risk factors: pregnancy, 糖尿病, rheumatoid arthritis, acromegaly, hypothyroidism
-diagnosis: clinical, E重症肌無力/神經傳導
-
-Toronto Notes 2025
+diagnosis: clinical, EMG/神經傳導
 
 Diabetic Neuropathies
 Peripheral 神經病變: pain or loss of
@@ -3261,10 +3073,6 @@ compensating for loss of vestibular function
 
 -e 
 
-## Page 909
-
-N39
-
 ‘Neurology
 
 Bell’s palsy (most common cranial 神經病變): see Otolaryngology, OT22
@@ -3288,7 +3096,7 @@ etiology: 糖尿病 (most common), renal disease, substances, toxins, genetic, �
 vitamin Bn deficiency
 慢性發炎性脫髓鞘性神經病變
 慢性 relapsing sensorimotor 多發性神經病變 or 多神經根病變 with increased protein in CSF
-and demyelination (shown on E重症肌無力/神經傳導)
+and demyelination (shown on EMG/神經傳導)
 * course is fluctuating, in contrast with the 急性 onset of 格林-巴利症候群
 treatment: first-line is prednisone; alternatives are 血漿置換, 靜脈免疫球蛋白, and azathioprine
 
@@ -3302,8 +3110,8 @@ Infectious hv ‘onal Chronic sin HW serology
 Leprosy Infitrative Acute or 慢性 sin Leprosy serology
 Nerve biopsy
 lyme ‘ronal Chronic 4 lyme serology
-Immunes GBs Demyelination eute 4 腰椎穿刺(¢ protein, no ¢ cel) E重症肌無力
-cioP Demyelination Chronic sm 腰椎穿刺 (+ protein) E重症肌無力
+Immunes GBs Demyelination eute 4 腰椎穿刺(¢ protein, no ¢ cel) EMG
+cioP Demyelination Chronic sm 腰椎穿刺 (+ protein) EMG
 Hereditary 多發性硬化症H ‘xonal/demyelination Chronic sm Genetic testing
 Neoplastic Paraneoplastic ‘xonal/demyelination Chronic sm Paraneoplasticantibodies
 Myeloma ‘xonal/demyelination Chronic sm SPER
@@ -3329,8 +3137,6 @@ jucse tolerance test; PAM = oyarterts nodosa; A= heumatod arthritis S= 感覺; �
 
 +Neuropathies of immune etiology usually present as polyradiclopaty
 
-Toronto Notes 2025
-
 Evaluation of Distal Symmetric
 of Laboratory and Genetic Testing
 
@@ -3347,10 +3153,6 @@ leletion and C332 mutation.
 
 iyneuropathy: Role
 -e 
-
-## Page 910
-
-N40 Neurology
 
 Guillain-Barré Syndrome
 
@@ -3373,7 +3175,7 @@ that often starts in the 遠端 lower limbs and ascends
 
 + CSF: albuminocytologic dissociation (high protein, normal WBC)
 
-+ E重症肌無力I神經傳導: conduction block, differential or focal (motor>sensory) slowing, decreased F-wave, sural
++ EMGI神經傳導: conduction block, differential or focal (motor>sensory) slowing, decreased F-wave, sural
 sparing
 
 治療
@@ -3397,7 +3199,7 @@ Reflexes " + 7
 Anticholinergic Sx - + ”
 Sensory 5x - - -
 Associated Conditions Thymoma Smal cel carcinoma Glsigns and symptoms,
-Repetitive E重症肌無力 Stimulation Decremental response Incremental response +# (rapid stimulation)
+Repetitive EMG Stimulation Decremental response Incremental response +# (rapid stimulation)
 4 (Sow stimulation)
 Myasthenia Gravis
 
@@ -3425,7 +3227,7 @@ abnormalities
 檢查
 + repetitive stimulation: decrement in amplitude >10%
 
-single fibre E重症肌無力: shows increased jitter (80-100% sensitivity)
+single fibre EMG: shows increased jitter (80-100% sensitivity)
 
 spirometry: forced vital capacity may be used to monitor adequacy of respiratory effort over time
 acetylcholine receptor antibody assay (50-90% sensitivity); muscle-specific kinase antibody may be used if
@@ -3435,8 +3237,6 @@ CT/MRI chest: screen for thymoma/thymic hyperplasia
 
 edrophonium (Tensilon’) test: assess for improvement over 2 min following edrophonium injection (no
 longer performed)
-
-Toronto Notes 2025
 
 In 格林-巴利症候群, 靜脈免疫球蛋白 and 血漿置換 lead to
 ‘more rapid improvement, less intensive
@@ -3474,10 +3274,6 @@ ft
 
 圖 24. Myasthenia gravis
 -e 
-
-## Page 911
-
-NAL Neurology
 
 治療
 
@@ -3529,11 +3325,11 @@ prominent anticholinergic 自律神經 symptoms (dry mouth>impotence>constipatio
 rapid (>10 Hz) repetitive nerve stimulation: incremental response
 
 anti-P/O-type vol tage gated calcium channel antibodies: are 出現於 85-95% of patients with 蘭伯特-伊頓肌無力症候群
-E重症肌無力: 典型地 normal in 蘭伯特-伊頓肌無力症候群
+EMG: 典型地 normal in 蘭伯特-伊頓肌無力症候群
 
 edrophonium test: no response
 
-E重症肌無力: incremental response (facilitation) with exercise
+EMG: incremental response (facilitation) with exercise
 
 screen for malignancy, 特別是 small cell lung cancer
 
@@ -3576,8 +3372,6 @@ autonomic dysfunction: nausea, orthostatic hypotension, constipation (paralytic 
 
 pattern of 輕癱 often starts with GI symptoms > extraocular muscle無力 > 吞嚥困難 > limbs and
 
-Toronto Notes 2025
-
 drial of Thymectomy in Myasthenia
 
 NEM 2016.75:5122
@@ -3615,10 +3409,6 @@ Minyan Wang 2012
 圖 25. Lambert-Eaton
 myasthenic syndrome
 -e 
-
-## Page 912
-
-NaZ Neurology
 
 Myopathies
 
@@ -3717,14 +3507,9 @@ respiratory: hypoventilation 2° to muscle無力
 
 ocular: subcapsular cataracts, retinal degeneration, decreased intraocular pressure
 other: 糖尿病, infertility, testicular 萎縮
-E重症肌無力: electrical myotonia (waxing and waning discharges, sound like “dive-bomber”)
+EMG: electrical myotonia (waxing and waning discharges, sound like “dive-bomber”)
 
-Toronto Notes 2025
 -e 
-
-## Page 913
-
-N43 Neurology Toronto Notes 2025
 
 治療
 + management of myotonia: mexiletine, phenytoin
@@ -3811,10 +3596,6 @@ i ies: dorsal column neurostimulator, DBS (thalamus)
 
 -e 
 
-## Page 914
-
-N44 Neurology
-
 Trigeminal Neuralgia
 
 al Features
@@ -3887,8 +3668,6 @@ effective)
 = treatment of herpes zoster with 皮質類固醇 does not decrease postherpetic neuralgia
 + surgical: 脊髓 tractotomy, dorsal root entry zone lesion, DBS of thalamus
 
-Toronto Notes 2025
-
 Herpes Zoster of Trigeminal Nerve
 Typically involves V1 (ophthalmic division)
 
@@ -3896,10 +3675,6 @@ Hutchinson's Sign
 Tip of nose involvement predicts corneal
 invovement
 -e 
-
-## Page 915
-
-N45 Neurology Toronto Notes 2025
 
 Painful Diabetic Neuropathy
 
@@ -3959,10 +3734,6 @@ surgical: paravertebral sympathetic ganglion blockade
 
 refer to pain management clinic
 -e 
-
-## Page 916
-
-N46 Neurology
 
 «+ see Emergency Medicine, ER16 and Family Medicine, FM36
 
@@ -4040,8 +3811,6 @@ asleep Anticonvulsants
 ‘Simple 止痛藥s: Tylenol, 非類固醇消炎藥S BBlockers
 
 Botox
-
-Toronto Notes 2025
 
 FCTis negative but clinically there is
 suspicion of 蜘蛛膜下腔出血 or 腦膜炎, perform
@@ -4127,10 +3896,6 @@ prophylactic teatment of 偏頭痛 頭痛 in adu.
 
 -e 
 
-## Page 917
-
-N47 Neurology
-
 表 23. Prophylactic 處置 of Migraine Headaches
 
 Class Drug Evidence Contraindications Side Effects
@@ -4205,8 +3970,6 @@ withdrawal, chocolate, tyramines (e.g. red wine), nitrites (e.g. processed meats
 3. 頭痛
 4. 後期症狀
 
-Toronto Notes 2025
-
 Migraine 先兆s can mimic other causes of
 transient neurological deficits (e.g. 短暫性腦缺血發作s
 and 癲癇s) but are usually longer in
@@ -4220,10 +3983,6 @@ the onset of menstruation - usually 2 d
 before to 3 dafter the onset of menstrual
 bleeding
 -e 
-
-## Page 918
-
-N48 Neurology
 
 * 先兆
 =  self-resolving symptom of focal cerebral dysfunction lasting <60 min
@@ -4260,7 +4019,7 @@ Recommendations
 + many older patients have reduced sleep as a consequence of underlying sleep disorders
 
 Sleep Architecture
-+ polysomnography measures: EEG, eye movements (electro-oculogram - EOG), E重症肌無力, respiratory effort,
++ polysomnography measures: EEG, eye movements (electro-oculogram - EOG), EMG, respiratory effort,
 oxygenation, ECG
 
 表 25. Sleep Stage Characteristics
@@ -4299,8 +4058,6 @@ Rapid Eye Movement (REM) Sawtoothwaves, mixed __—_—Rapid eyemovements Very l
 (-25%) frequency, low voltage HRvariation
 
 Classical reamingstate
-
-Toronto Notes 2025
 
 The oral contraceptive pill is
 contraindicated with complicated 偏頭痛
@@ -4363,10 +4120,6 @@ elderly patients) 由於 increased risk of
 falls, pseudodepression, and memory loss
 -e 
 
-## Page 919
-
-N49 Neurology Toronto Notes 2025
-
 Coma
 + see Neurosurgery, NS40
 
@@ -4426,10 +4179,6 @@ dystrophy
 + continuous positive airway pressure (CPAP), weight loss, positional therapy (e.g. avoidance of supine sleep),
 dental devices, surgery (rare), ensure driving safety
 -e 
-
-## Page 920
-
-N50 Neurology
 
 Restless Legs Syndrome
 
@@ -4499,10 +4248,7 @@ Parasomnias
 + behavioural management (safety, adequate sleep), clonazepam for REM sleep behaviour, tonsillectomy if
 appropriate in children
 
-Toronto Notes 2025
 -e 
-
-## Page 921
 
 ‘Neurology
 
@@ -4569,8 +4315,6 @@ thalamic findings: 感覺 loss, amnesia, decreased 意識障礙
 if 雙側: 皮質 失明 or prosopagnosia
 hemiballism
 
-Toronto Notes 2025
-
 Hypertensive Encephalopathy
 Acute severe 高血壓 (typically dBP >130
 
@@ -4628,10 +4372,6 @@ appear normal on CT during the first
 several hours after 中風 onset, 特別是
 if in 後 circulation
 -e 
-
-## Page 922
-
-N52
 
 ‘Neurology
 
@@ -4701,8 +4441,6 @@ PCA
 
 圖 26. Vascular territories
 
-Toronto Notes 2025
-
 ‘See Landmark Neurology Trials for more
 information on the ARISTOTLE trial. It
 details the efficacy of apixaban, an oral
@@ -4760,10 +4498,6 @@ hemorrhage on brain imaging, any
 condition that could increase the risk of
 ‘major hemorthage after PA administration
 -e 
-
-## Page 923
-
-N53 Neurology
 
 Assessment of Acute Ischemic Stroke
 
@@ -4837,8 +4571,6 @@ Other Acute 處置 Issues
 = DVT prophylaxis if bed-bound
 « initiate 復健 early
 
-Toronto Notes 2025
-
 Relative Contraindications tortPA
 Historical: history of 顱內出血, 中風, or serious
 head/spinal trauma in the preceding 3 mo,
@@ -4905,10 +4637,6 @@ within 2 wk of the ischemic event for the
 ‘most benefit
 
 -e 
-
-## Page 924
-
-N54 Neurology
 
 Blood Pressure Control
 + donot lower the blood pressure unless the 高血壓 is severe
@@ -4982,8 +4710,6 @@ disease (HOPE trial)
 + secondary prevention
 = combination of ACE inhibitor and thiazide diuretics are recommended in patients with previous
 stroke/短暫性腦缺血發作 (PROGRESS trial)
-
-Toronto Notes 2025
 
 CH阿茲海默症S2
 ‘Stroke risk stratification for patients with
@@ -5063,10 +4789,6 @@ ischemic 中風 由...引起 accion ofthe 近端
 thrombectomy.
 -e 
 
-## Page 925
-
-NSS Neurology
-
 Hypercholesterolemia
 + primary prevention
 « statins in patients with C阿茲海默症 or at high-risk for cardiovascular events, even with normal cholesterol
@@ -5137,8 +4859,6 @@ ultiple Sclerosis
 US, New Zealand, Southeast Australia)
 = 多發性硬化症 has also been linked to certain viruses (e.g. Epstein-Barr Virus)
 
-Toronto Notes 2025
-
 ACE Inhibitor in Stroke 預防 - HOPE Trial
 ‘NesM 2000 342:145153
 
@@ -5201,10 +4921,6 @@ discredited this highly controversial theory.
 Thats, studies indicate no connection
 between CCSVI and 多發性硬化症
 -e 
-
-## Page 926
-
-N56 Neurology
 
 Clinical Patterns
 
@@ -5281,8 +4997,6 @@ second line: natalizumab (Tysabri’) (monthly IV infusion), fingolimod (Gilenya
 increased risk of 漸進性 multifocal leukoencephalopathy 與...相關 natalizumab; also
 described with fingolimod, dimethyl fumarate, and ocrelizumab, but toa lesser degree
 
-Toronto Notes 2025
-
 The Expanded Disability Status Scale
 {€DSS) is used as a measure of disability
 progression and is scored from Oto
@@ -5347,10 +5061,6 @@ treatment with latramer acetate in delaying onset of
 ically definite multiple scerosis (多發性硬化症)
 
 -e 
-
-## Page 927
-
-N57 Neurology
 
 = CIS: early treatment may delay potential second attack; glatiramer acetate, interferons, and
 teriflunomide all with RCT data
@@ -5465,12 +5175,7 @@ doses g6-8h bronchospasm, riskof 急性
 
 ‘SIS: Stevens Johnson Syndrome, TS: txicepidermal necrolysis
 
-Toronto Notes 2025
 -e 
-
-## Page 928
-
-N58
 
 ‘Neurology
 
@@ -5589,16 +5294,11 @@ nausea
 
 ‘51S: Stevens Johnson Syndrome, TES: toxic epidermal necrolysis
 
-Toronto Notes 2025
 -e 
-
-## Page 929
 
 N59.
 
 ‘Neurology
-
-Toronto Notes 2025
 
 mark Neurology Trials
 
@@ -5805,12 +5505,6 @@ in Kantagonists.
 
 -e 
 
-## Page 930
-
-Noo Neurology
-
-Toronto Notes 2025
-
 TrialName Reference
 
 Clinical Trial Details
@@ -5931,10 +5625,6 @@ Conclusion: Long-term use of atypical 抗精神病藥s for behavioural symptoms 
 ificantl faster
 
 -e 
-
-## Page 931
-
-N61 Neurology Toronto Notes 2025
 
 TrialName Reference (Clinical Trial Details
 
@@ -6104,10 +5794,6 @@ LastilaM. Lacunarlnfarct. Cinicaland Experimental Hypertension 2006,28-205-215,
 
 -e 
 
-## Page 932
-
-N62 Neurology Toronto Notes 2025
-
 Leibold RA, Yealy 糖尿病, Coppola M, etal. Post-dural-punture 頭痛: characteristics, management, and prevention. Aan Emerg Med 1953;22-1863-1870
 Leti-Comp Ontne” Hudson Lex-Comp, 21
 
@@ -6245,11 +5931,7 @@ nical diagnosis of 急性 中風 eventually confirmed? Am J Neuroradiol
 
 -e 
 
-## Page 933
-
 NS
-
-Neurosurgery
 
 Armaan Dhanoa, Layan Elfaki, Armaan Fallahi, Marco Istasy, and Julie Midroni, chapter editors
 Audrey Jong, Wafa Baqri, and Meera Chopra, associate editors
@@ -6374,10 +6056,7 @@ NS
 
 ‘Neurosurgery
 
-Toronto Notes 2025
 -e 
-
-## Page 934
 
 NS2 ‘Neurosurgery Toronto Notes 2025
 
@@ -6474,11 +6153,7 @@ Section
 Stewart? Cameron, Fa. Functional Neuroanatomy (Version 2:1, Heath Education aSets brary2005
 -e 
 
-## Page 935
-
 NS3 ‘Neurosurgery
-
-Toronto Notes 2025
 
 Cervical Region
 
@@ -6547,15 +6222,11 @@ Please see legend for artery names. 4A. Circle of Willis, most common variant. 4
 4D. Vascular territories ofthe brain, sagittal view, seen 內側ly
 -e 
 
-## Page 936
-
 NS4 ‘Neurosurgery
 
 Differential Diagnoses of Common Presentations
 
 表 1. Differential Diagnoses of Common Presentations
-
-Toronto Notes 2025
 
 Intracranial Mass Lesions Disorders of the Spine Peripheral Merve Lesions
 Tumour Extradural Neuwopathies
@@ -6644,8 +6315,6 @@ Cushing’striad
 3.Respiratory irregularity
 
 -e 
-
-## Page 937
 
 NSS ‘Neurosurgery
 
@@ -6759,8 +6428,6 @@ Ns7)
 
 = end: cessation of cerebral perfusion when 顱內壓>MAP, cerebral herniation down into foramen magnum.
 
-Toronto Notes 2025
-
 H
 Eventual, futher
 smal increments in
@@ -6780,8 +6447,6 @@ Adapt tom: idsay KW, one Fur 6. Neurology
 ‘and Neurosurgeryillustrated. © 2004. With pemission
 fromEtsevier
 -e 
-
-## Page 938
 
 NS6 ‘Neurosurgery Toronto Notes 2025
 
@@ -6888,10 +6553,6 @@ Succinylcholine: induced 肌束震顙 may
 increase 顱內壓
 
 -e 
-
-## Page 939
-
-NS7
 
 臨床特徵
 
@@ -7018,8 +6679,6 @@ Respiratory irregularities, respiratory arrest
 Blood pressureinstability (compression of
 medulary cardiovascular centres)
 
-Toronto Notes 2025
-
 Blood Brain Barrier
 Glucose and amino acids cross slowly
 ‘Non-polarilipids cross quickly
@@ -7049,8 +6708,6 @@ Larger blind spot
 
 圖 7. Herniation types
 -e 
-
-## Page 940
 
 NS8 ‘Neurosurgery
 
@@ -7137,8 +6794,6 @@ fertile, forties”)
 
 100000 per yr
 
-Toronto Notes 2025
-
 ‘治療 of Elevated 顱內壓
 
 顱內壓 HE阿茲海默症
@@ -7195,8 +6850,6 @@ normal CSF
 
 6. Nobetter explanation for raised 顱內壓
 -e 
-
-## Page 941
 
 NSO ‘Neurosurgery
 
@@ -7283,8 +6936,6 @@ Creutzfeldt-Jakob disease (see Neurology, N27)
 
 Cerebral 萎縮
 
-Toronto Notes 2025
-
 @
 
 Effect of Acetazlamide on Visual Functor
@@ -7338,8 +6989,6 @@ Normal CSF volume ~150 mL (50% 脊髓,
 
 圖 8. The flow of CSF
 -e 
-
-## Page 942
 
 NS1O ‘Neurosurgery
 
@@ -7436,8 +7085,6 @@ insertedin childhood)
 
 resultsinhernia becoming apparent
 
-Toronto Notes 2025
-
 Classic (Hakim’s) Triad of 正常壓力腦積水
 Progression
 
@@ -7473,8 +7120,6 @@ adhesions, arachnoidtis,
 ETV: 56% success rate, hypothalamic injury,
 iatrogenic basilar aneurysm
 -e 
-
-## Page 943
 
 NSIL ‘Neurosurgery
 
@@ -7531,10 +7176,7 @@ Digitally Subtracted Blood Patches (improvement for 2 yr)
 intraoperative imaging of direct repair of the dura
 Figue courtesy ofr. rc M Masscotte
 
-Toronto Notes 2025
 -e 
-
-## Page 944
 
 NS12 ‘Neurosurgery
 
@@ -7643,8 +7285,6 @@ Spinal ependymoma 包括 M顱內出血-amplified
 Mycopapilary ependymoma
 Subependymoma
 
-Toronto Notes 2025
-
 CNS Tumours Pe]
 
 Dx for Ring Enhancing Lesion on CT with
@@ -7688,8 +7328,6 @@ Rarely undergo metastasis
 Children = mostly infratentorial
 
 -e 
-
-## Page 945
 
 NSI3 ‘Neurosurgery
 
@@ -7801,10 +7439,7 @@ Metastases to theCNS
 Metastases tothe brain and 脊髓 cord parenchyma
 Netastases tothe meninges
 
-Toronto Notes 2025
 -e 
-
-## Page 946
 
 NSI4 ‘Neurosurgery
 
@@ -7930,14 +7565,10 @@ hemisphere lesions
 Obstructive 水腦症 more common than
 supratetarial lesions
 
-Toronto Notes 2025
-
 ‘New onset communicating 水腦症
 ina patient with cancer should raise the
 suspicion of leptomeningeal carcinomatosis
 -e 
-
-## Page 947
 
 NSI5 ‘Neurosurgery
 
@@ -8015,8 +7646,6 @@ chromosomes 710, EGFR
 
 “grade based on natural history
 
-Toronto Notes 2025
-
 圖 11. Multiple brain metastases
 (see arrows)
 
@@ -8081,8 +7710,6 @@ Condusions: Early surgical resection oflow- grade
 jiomas i associated wit sigcant improved
 ‘overall survival compared to watchful waiting
 -e 
-
-## Page 948
 
 ‘Neurosurgery
 
@@ -8166,8 +7793,6 @@ possible
 (H糖尿病TX) + cytarabine + thiotepa + rituximab) preferred
 
 * surgery: generally reserved for stereotactic biopsy; resection discouraged
-
-Toronto Notes 2025
 
 CS)
 
@@ -8261,8 +7886,6 @@ was 與...相關 significant suvivalbenefit
 inpatients with newly diagnosed non-co-deleted
 anaplastic gloma,
 -e 
-
-## Page 949
 
 NSI7 ‘Neurosurgery
 + radiation: WBRT used in consolidation therapy and for palliation; consider as second-line induction
@@ -8366,8 +7989,6 @@ ical Features
 early clinical triad (tumour <2 cm): 單側 漸進性 hearing loss 98%, tinnitus, and disequilibrium
 (compression of CN VIII)
 
-Toronto Notes 2025
-
 1, Homogenous contrast enhancement
 2. Dural attachment
 3. Distinct margins
@@ -8411,8 +8032,6 @@ Progressive 單側 or 不對稱al
 sensorineural hearing loss = vestibular
 ‘schwannoma until proven otherwise
 -e 
-
-## Page 950
 
 NSI8 ‘Neurosurgery
 + later clinical features
@@ -8494,8 +8113,6 @@ and DI
 + surgical
 = endoscopic endonasal trans-sphenoidal, and less 常見地 trans-cranial approaches (ice. for
 significant suprasellar extension)
-
-Toronto Notes 2025
 
 圖 14. Vestibular schwannoma
 {tumour in CPA)
