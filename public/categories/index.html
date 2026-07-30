@@ -8,6 +8,7 @@
     :root {
       --bg-primary: #ffffff;
       --bg-secondary: #f8fafc;
+      --bg-group: #f1f5f9;
       --text-primary: #1e293b;
       --text-secondary: #64748b;
       --accent: #2563eb;
@@ -16,6 +17,7 @@
     [data-theme="dark"] {
       --bg-primary: #1a1a2e;
       --bg-secondary: #16162a;
+      --bg-group: #1f1f3a;
       --text-primary: #e4e4e7;
       --text-secondary: #a1a1aa;
       --accent: #93c5fd;
@@ -29,10 +31,12 @@
     nav a:hover { text-decoration: underline; }
     h1 { font-size: 1.8em; color: var(--text-primary); }
     ul { list-style: none; padding: 0; }
-    li { margin: 10px 0; padding: 10px; background: var(--bg-secondary); border-left: 3px solid var(--accent); }
-    li a { color: var(--text-primary); text-decoration: none; font-weight: 600; font-size: 1.1em; }
+    li { margin: 8px 0; padding: 12px 15px; background: var(--bg-secondary); border-left: 3px solid var(--accent); border-radius: 4px; }
+    li a { color: var(--text-primary); text-decoration: none; font-weight: 600; font-size: 1.05em; }
     li a:hover { color: var(--accent); text-decoration: underline; }
-    li p { margin: 5px 0 0 0; color: var(--text-secondary); font-size: 0.9em; }
+    li p { margin: 5px 0 0 0; color: var(--text-secondary); font-size: 0.85em; }
+    .group-header { background: var(--bg-group); padding: 10px 15px; margin: 20px 0 10px 0; border-radius: 6px; border-left: 4px solid var(--accent); font-weight: 700; font-size: 1.1em; color: var(--accent); }
+    .group-header:first-of-type { margin-top: 0; }
     footer { border-top: 1px solid var(--border); margin-top: 30px; padding-top: 15px; color: var(--text-secondary); font-size: 0.9em; }
     a { color: var(--accent); }
     .description { color: var(--text-secondary); margin: 5px 0; }
@@ -51,8 +55,10 @@
 
   <main>
     <h1>Categories</h1>
-    <ul>
-      
+    
+    
+    
+    
     </ul>
 
     
