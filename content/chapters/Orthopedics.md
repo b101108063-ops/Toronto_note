@@ -1,6 +1,6 @@
 ---
 title: "骨科學（Orthopedics）"
-description: "*Toronto Notes 2025*"
+description: ""
 slug: "Orthopedics"
 weight: 4030
 chapterCode: "OR"
@@ -12,28 +12,28 @@ chapterCode: "OR"
 **本章節學習重點：**
 
 1. **關節脫臼（Joint Dislocation）**
-   - 肩關節脫臼是最常見的脫臼類型（前脫臼90%，後脫臼5%）
-   - 評估重點：神經血管檢查、X光確認
-   - 治療原則：儘早閉合復位、固定、及早復健
+ - 肩關節脫臼是最常見的脫臼類型（前脫臼90%，後脫臼5%）
+ - 評估重點：神經血管檢查、X光確認
+ - 治療原則：儘早閉合復位、固定、及早復健
 
 2. **旋轉袖疾病（Rotator Cuff Disease）**
-   - 包含：Supraspinatus、Infraspinatus、Teres Minor、Subscapularis損傷
-   - 臨床表現：疼痛、無力、活動範圍受限
-   - 治療：物理治療為首選，手術適用於保守治療失敗者
+ - 包含：Supraspinatus、Infraspinatus、Teres Minor、Subscapularis損傷
+ - 臨床表現：疼痛、無力、活動範圍受限
+ - 治療：物理治療為首選，手術適用於保守治療失敗者
 
 3. **骨折（Fractures）**
-   - 上肢：鎖骨、肱骨（近端/骨幹/遠端）、橈骨、尺骨
-   - 評估：關節內vs.關節外、移位程度、神經血管狀態
-   - 治療選擇：取決於骨折型態與患者因素
+ - 上肢：鎖骨、肱骨（近端/骨幹/遠端）、橈骨、尺骨
+ - 評估：關節內vs.關節外、移位程度、神經血管狀態
+ - 治療選擇：取決於骨折型態與患者因素
 
 4. **特殊骨折類型**
-   - SCFE（股骨頭骨骺滑脫）：青少年髖關節最常見疾病
-   - Colles'骨折：老年人最常見的橈骨遠端骨折
-   - 舟狀骨骨折：腕部最常見的骨折，延遲治療易致骨壞死
+ - SCFE（股骨頭骨骺滑脫）：青少年髖關節最常見疾病
+ - Colles'骨折：老年人最常見的橈骨遠端骨折
+ - 舟狀骨骨折：腕部最常見的骨折，延遲治療易致骨壞死
 
 5. **脊椎病變（Spine）**
-   - 頸椎：創傷、椎間盤突出、神經根病變
-   - 胸腰椎：創傷、壓迫性骨折、退化性病變
+ - 頸椎：創傷、椎間盤突出、神經根病變
+ - 胸腰椎：創傷、壓迫性骨折、退化性病變
 
 **臨床評估要點：**
 - 病史：創傷機制、受傷時間、疼痛性質
@@ -45,9 +45,6 @@ chapterCode: "OR"
 - 微創與精準治療
 - 早期活動、盡快復健
 - 個體化治療策略
-
-*Toronto Notes 2025*
-
 
 臨床表徵
 + inability/拒絕負重, 急性發作 單關節 關節疼痛, erythema, warmth, 腫脹, 疼痛 on
@@ -64,7 +61,7 @@ fever
 + 關節液抽取: cloudy yellow fluid, WBC（白血球） >50000 with >90% 嗜中性球, 蛋白質 level >4.4 mg/dL, joint
 葡萄糖 level <60% blood 葡萄糖 level, no 結晶, positive 革蘭氏染色 results
 
-« listen for heart murmur (if concern for infective endocarditis, use Duke Criteria)
+ listen for heart murmur (if concern for infective endocarditis, use Duke Criteria)
 
 治療
 
@@ -93,7 +90,7 @@ Table 8. 前側 and 後側 肩關節脫臼
 
 ‘前側 肩關節脫臼 (90%) 後側 肩關節脫臼 (5%)
 機制
-‘Abducted externally rtated/hyperextended arm ‘Adducted, internally rotated, flexed arm
+‘Abducted externally rotated/hyperextended arm ‘Adducted, internally rotated, flexed arm
 Blow to 後側 shoulder Fost
 Involuntary, usualy traumatic; voluntary, atraumatic 3Es (epileptic seizure, E10H, electrocution)
 Bw to 前側 shoulder
@@ -114,8 +111,6 @@ Neurovascular Ex ‘Axillary nerve: sensory patch over dettoidand deltoid contra
 Including Musculocutaneous nerve: sensory patchon 外側 forearm and
 
 biceps contraction
-
-Toronto Notes 2025
 
 後側 肩關節脫臼
 Up to 60-80% are missed on initial
@@ -210,7 +205,7 @@ g
 Figure 10. Mercedes-Benz
 -e 
 
-## Pagege 1101
+## Page 1101
 
 Orthopedic Surgery
 
@@ -227,20 +222,20 @@ Bankart lesions
 
 “前側 肩關節脫臼 90%) 後側 肩關節脫臼 (5%)
 治療
-‘閉合復位 with sedation and musclee rrelaxation 閉合復位 withIVsedationand musclee rrelaxation
-Traction-countertraction: assistant stabilizes torso witha folded 下方 traction on afflexedelbow with pressure onthe 背部 of thee
-sheet wrapped arossthechest whilethesurgeon applies gegentlee humeral head
-steady traction Obtainpost reduction x-rays
-‘Stimson: while 病人 lie prone with arm hanging over tablee edge, Check post-reduction MVS
+‘閉合復位 with sedation and muscle rrelaxation 閉合復位 withIVsedationand muscle rrelaxation
+Traction-countertraction: assistant stabilizes torso witha folded 下方 traction on afflexedelbow with pressure onthe 背部 of the
+sheet wrapped arossthechest whilethesurgeon applies gegentle humeral head
+steady traction Obtainpost rreduction x-rays
+‘Stimson: while 病人 lie prone with arm hanging over table edge, Check post-rreduction MVS
 hang a 5 lb weighton 腕關節 for 1-20 min Sing in 外展 and 外側 旋轉 x3 wk, followed by
-Hippocratic method: placeheel into 病人's axilla and apply 肩膀 復健 (dynamic stabilizer strengthening)
+Hippocratic method: placeheel into 病人s axilla and apply 肩膀 復健 (dynamic stabilizer strengthening)
 traction arm
-‘Cunningham's method: gegentlee longitudinal support and traction
-of thee arm atthe patients side, massagege/relaxation of deltoid,
-‘trapezius, and biceps to allow atraumatic 肩膀 reduction. Low
-risk, low pin; if not successful try abovee methods
-Obtain post-reduction X光檢查
-‘Check post reduction VS
+‘Cunninghams method: gegentle longitudinal support and traction
+of the arm atthe patients side, massagege/relaxation of deltoid,
+‘trapezius, and biceps to allow atraumatic 肩膀 rreduction. Low
+risk, low pin; if not successful try above methods
+Obtain post-rreduction X光檢查
+‘Check post rreduction VS
 懸帶 x3 wk avoid 外展 and 外側 旋轉), followed by
 肩膀 復健 (dynamic stabilizer strengthening)
 預後
@@ -275,7 +270,7 @@ Lori Waters 22005
 Traction-countertraction
 
 Figure 12. 肩膀 maneuvers
-## Pagege 1102
+## Page 1102
 
 Orthopedic Surgery
 
@@ -300,9 +295,9 @@ Spectrum of Disease: Impingement, Tendonitis, Micro or Macro Tears
 病因
 + narrowing of subacromial spacee
 + most commonly 由於 a relative imbalance of 旋轉袖 and larger 肩膀 musclees, allowing for
-上方 translation and subsequent wear of the 旋轉袖 musclee tendons
-= 盂肱 (旋轉袖) musclee 無力 leading to 異常 motion of humeral head
-= scapular musclee 無力 leading to 異常 motion of 肩峰 - 不良 posturee
+上方 translation and subsequent wear of the 旋轉袖 muscle tendons
+= 盂肱 (旋轉袖) muscle 無力 leading to 異常 motion of humeral head
+= scapular muscle 無力 leading to 異常 motion of 肩峰 - 不良 posturee
 acromial abnormalities, such as congenital narrow spacee or osteophyte formation or Typee III 肩峰
 morphology
 1. outlet/subacromial impingement: “painful arc syndromee,” compression of 旋轉袖 tendons
@@ -335,7 +330,7 @@ arthrogram: not commonly used but 可 assess full thickness tears, difficult to 
 = 第一線治療, 旋轉袖 損傷 治療 begins with 物理治療 (regardless of severity on
 MRI檢查 findings)
 = 物理治療, activity modification, non-narcotic 止痛 + 類固醇注射
-= mild or moderate cases frequegentley improve
+= mild or moderate cases frequently improve
 = progression to 手術 必要時
 + 手術治療
 = indication: severe tear or impingement that 是 refractory to 2-3 mo 物理治療 and 1-2 corticosteroid
@@ -421,7 +416,7 @@ patients without ful thickness tear. Apostivedrop
 armtestishelpul to identity patients
 
 with RCD (SN24%, SPS3%)
-## Pagege 1103
+## Page 1103
 
 ORIS Orthopedic Surgery
 
@@ -431,10 +426,10 @@ Test Examination
 
 Positive Test
 
-Jobe's Test (ie. EmptyCan Test) ‘Supraspinatus: placethe 肩膀 in 90° of 外展
+Jobes Test (ie. EmptyCan Test) ‘Supraspinatus: placethe 肩膀 in 90° of 外展
 ‘and 30° of horizonta fflexion rom the scapular plane)
 ‘and internally rotate the arms thatthe thumb 是 pointing
-toweard the floor; 病人 instructed to resist downweard
+toweard the floor; 病人 instructed to resist downward
 
 pressure exerted by examiner
 
@@ -443,9 +438,9 @@ hand rests onlower 背部; 病人 instructed to actively lit
 hand away from 背部 against examiner resistance (use Belly
 Press Testftoo painful)
 
-後側-Cuff Test Infraspinatus and 小圓肌: arm positioned at 病人's
+後側-Cuff Test Infraspinatus and 小圓肌: arm positioned at 病人s
 Site in 90° of fflexion; 病人 instructed to externally rotate
-‘am againstthe resistance of thee examiner
+‘am againstthe resistance of the examiner
 
 Neer'sTest Rotator cuftimpingement:passiveshoulderflerion,
 
@@ -456,14 +451,14 @@ Pageinful ArcTest Rotator cufftendinopathy: 病人 instructed to actively
 abduct the 肩膀
 
 Speed測試 Biceps tendinopathy: Appl resistance tothe forearm when
-the arm 是 inforweard fflexion with the elbows fully extended
+the arm 是 inforward fflexion with the elbows fully extended
 
-O'Brien測試 SLAP lesion:forweard fflexion of thee arm to 90° while keeping
+O'Brien測試 SLAP lesion:forward fflexion of the arm to 90° while keeping
 
 the arm extended. Arm isadducted10-15°
 
 Internally rotate the armso thumb i facing down and apply
-‘a downweardtforce, Repeat the testwith arm externally
+‘a downwardtforce, Repeat the testwith arm externally
 rotated
 
 ‘Weaknesswith active resistancesuggests a
@@ -495,7 +490,7 @@ Tabby Lulham 2010
 (© Erin Duff 2009
 
 Figure 14. Rotator cuff tests
-## Pagege 1104
+## Page 1104
 
 ORIG Orthopedic Surgery
 
@@ -600,7 +595,7 @@ avicalar (AC) joint dislocations using mode surgical
 fnation,
 
 Methods Thisisa multicenter andonizd dial il
-Eighty-thee patients with acute (<28 dom the time
+Eighty-the patients with acute (<28 dom the time
 af lnjury) compete (grade, and) dislocations of
 the AC joint 是 randomized to 手術治療 repair 40)
 with hook plate fnation orto nonoperative 治療
@@ -621,14 +616,14 @@ reduced inthe non-operaive grou (p< 0.05)
 Conclusion: Although hook pate fxaton improved
 radiographic alignment, twas not cic 上方
 tonon-oprative 治療 of acute complete
-dislocations of thee Aint The nonoperative group
+dislocations of the Aint The nonoperative group
 head better early scares, butbothgroupsimproved
 from a significant evel of nia disabity toa 良好 or
 cncellnt 休息. Curent, there sno clear evidence
 that 手術治療 治療 wit th hook plate improves
 shor-ermoutcome for complete AC joint ilcatins.
 
-pen Reduction and 內側 Fixation vs. Nonsurgical
+pen Rreduction and 內側 Fixation vs. Nonsurgical
 Treatmentin 移位 MidshatClavide 骨折:
 Meta-Analysis
 Orthop Trauma 2018;32(7}2276-2283
@@ -644,7 +639,7 @@ juded, ORIF（開放復位內固定） 是 與...相關
 significant lower 骨不連 at of 1.7% compared
 014.5% forthe nor-手術治療 治療 groups (QR
 (015, 95% Cl, 0.08-0.3), Functional outcomes, rated
-by either DASH or Consetant scores, 是 significagentley
+by either DASH or Consetant scores, 是 significantly
 better in ORFupto 6 mo. When excluding elective
 plateremoval, the rat of subsequent surgeries 是
 significant lowerin the ORF cohort (475 14, RR
@@ -653,7 +648,7 @@ Concliesions: ORF isassocited with significant
 reductonsin monunions and earier funcional
 outcomes in 移位 midshafclavicular 骨折
 
-## Pagege 1105
+## Page 1105
 
 Orthopedic Surgery
 
@@ -730,7 +725,7 @@ al Features
 
 down arm and chest
 
-+ physical exam usually reveals diminished forweard elevation, with or without disuse atrophy of deltoid and
++ physical exam usually reveals diminished forward elevation, with or without disuse atrophy of deltoid and
 
 periscapular musculature
 
@@ -807,7 +802,7 @@ surgical neck + 移位 greater tuberosity
 or lesser tuberosity,
 Four-part 骨折: 移位 骨折 of
 surgical neck + both tuberosities
-## Pagege 1106
+## Page 1106
 
 Orthopedic Surgery
 
@@ -855,11 +850,11 @@ dorsum of hand
 治療
 + in general, humeral shaft 骨折 是 treated non-operatively
 + 非手術治療
-= + reduction; 可 accept 變形 由於 compensatory ROM of 肩膀
+= + rreduction; 可 accept 變形 由於 compensatory ROM of 肩膀
 = hanging 石膏 (weight of arm in 石膏 provides traction across 骨折 site) with collar and cuffsling
 immobilization ugentle 腫脹 subsides, then Sarmiento functional brace, followed by ROM
 * 手術治療
-indications: see NO CAST sidebar, OR6, pathological 骨折, “floating 肘關節” (simultaneous unstablee
+indications: see NO CAST sidebar, OR6, pathological 骨折, “floating 肘關節” (simultaneous unstable
 humeral and forearm 骨折)
 = ORIF（開放復位內固定）: plating (最常見), IM rod insertion, 外側 fixation (rare)
 
@@ -890,7 +885,7 @@ Greater tuberosity
 Figure 15. 骨折 of the 近端
 肱骨
 
-Acceptablee Humeral Shaft Deformities for
+Acceptable Humeral Shaft Deformities for
 Non 手術治療 治療
 
 <20° 前側 成角
@@ -910,7 +905,7 @@ when extended inferiorly. n subtle
 supracondylar 骨折, the 前側
 humeral line 是 distupted, typically passing
 through the 前側 third of the capitellum.
-## Pagege 1107
+## Page 1107
 
 Orthopedic Surgery
 
@@ -1004,7 +999,7 @@ Capitellum moves posteriorly to the
 前側 humeral line in 伸展 type
 骨折 and anteriorly in fflexion type
 骨折
-## Pagege 1108
+## Page 1108
 
 Orthopedic Surgery
 
@@ -1031,7 +1026,7 @@ Table 12. Classification and 治療 of Radial Head 骨折
 
 Mason Class Radiographic Description 治療
 1 Nondlsplaced 骨折 (<2mm) bow slab or sing x35 dwith early ROM
-2 移位 骨折 (-2 mm) ORIFif: 成角 >30°, involves V3 of thee radial head, orif23 mmof
+2 移位 骨折 (-2 mm) ORIFif: 成角 >30°, involves V3 of the radial head, orif23 mmof
 joint incongruity exists, blockto forearmrotation
 3 粉碎性 骨折 Radial head excision prosthesis (i ORIF（開放復位內固定） not feasible)
 4 粉碎性 骨折 with 後側 肘關節脫臼 Radial head ORIF（開放復位內固定） or radial head excision with prosthesis
@@ -1039,13 +1034,13 @@ joint incongruity exists, blockto forearmrotation
 
 + based on Mason Class, see Table 12
 
-+ ORIF（開放復位內固定） remains the gold standard in management for Mason class 2. and abovee
++ ORIF（開放復位內固定） remains the gold standard in management for Mason class 2. and above
 
 . 關節鏡 repair 可 be considered: offers improved visualization and enhances soft tissue preservation
 of the joint
 
 Specific 併發症 (see General 骨折 併發症, OR7)
-+ myositis ossificans - calcification of musclee
++ myositis ossificans - calcification of muscle
 + recurrent 不穩定 (if MCL injured and radial head excised)
 
 鷹嘴骨折
@@ -1063,8 +1058,8 @@ Specific 併發症 (see General 骨折 併發症, OR7)
 
 治療
 + 非手術治療
-= non-移位 (<2 mm, stablee): 石膏 x 2-3 wk (肘關節 in 90° fflexion, often in full 肘關節 伸展), then
-gegentlee ROM
+= non-移位 (<2 mm, stable): 石膏 x 2-3 wk (肘關節 in 90° fflexion, often in full 肘關節 伸展), then
+gegentle ROM
 手術治療
 = 移位 + non-intact extensor 機制
 
@@ -1103,9 +1098,9 @@ effusion (“sail sign”)
 
 Toavoid 僵硬, do not immobilize 肘關節
 jpint>23 wk
-## Pagege 1109
+## Page 1109
 
-Orthopedic Surgery Toronto Notes 2025
+Orthopedic Surgery 
 
 檢查
 + X光: AP and 外側 views of the 肘關節
@@ -1113,8 +1108,8 @@ Orthopedic Surgery Toronto Notes 2025
 
 治療
 + 非手術治療
- 閉合復位 under conscious sedation (post-reduction X光檢查 required)
-= Pagervin’s method: 病人 lies prone with arm hanging down; apply gegentlee traction downweards on 腕關節;
+ 閉合復位 under conscious sedation (post-rreduction X光檢查 required)
+= Pagervin’s method: 病人 lies prone with arm hanging down; apply gegentle traction downwards on 腕關節;
 as olecranon slips distally, gegentley lift up the arm at 肘關節 to reduce joint
 = long-arm 夾板 with forearm in neutral 旋轉 and 肘關節 in 90° fflexion
 = early ROM (<2 wk)
@@ -1181,13 +1176,13 @@ Radius and UIna Shaft 骨折
 檢查
 + X光: AP and 外側 of forearm + oblique of 肘關節 and 腕關節
 + CT if 骨折 是 close to joint
-## Pagege 1110
+## Page 1110
 
-Orthopedic Surgery Toronto Notes 2025
+Orthopedic Surgery 
 
 治療
 
-+ goal 是 anatomic reduction since imperfect alignment significagentley limits forearm 旋前 and 旋後
++ goal 是 anatomic rreduction since imperfect alignment significantly limits forearm 旋前 and 旋後
 
 + ORIF（開放復位內固定） with plates and screws; 閉合復位 with immobilization usually yields 不良 results for 移位
 forearm 骨折 (except in children)
@@ -1221,11 +1216,11 @@ In all isolated ulna 骨折, assess
 + X光: AP and 外側 views of the 肘關節, 腕關節, and forearm
 
 治療
-+ adults (if stablee): 夾板 and early postoperative ROM if 肘關節 completely stablee, otherwise immobilization
++ adults (if stable): 夾板 and early postoperative ROM if 肘關節 completely stable, otherwise immobilization
 
 in plaster with 肘關節 fflexed for 2-3 wk Bado Typee Classification of Monteggia
-+ adults (if unstablee): ORIF（開放復位內固定） of ulna with indirect reduction of radiocapitellar joint in 90% of patients (open 骨折
-reduction of radiocapitellar joint if unsuccessful) tei eat read seacempent ot
++ adults (if unstable): ORIF（開放復位內固定） of ulna with indirect rreduction of radiocapitellar joint in 90% of patients (open 骨折
+rreduction of radiocapitellar joint if unsuccessful) tei eat read seacempent ot
 + pediatrics: attempt 閉合復位 and immobilization in plaster with 肘關節 fflexed for Bado Typee I-III, iasame diechora tietearel fe rey
 手術 for Typee IV 骨折
 
@@ -1241,14 +1236,14 @@ Specific 併發症 (see General 骨折 併發症, OR7) (60%) - 最常見 in pedi
 Typee lt: 外側 脫臼 of radial head
 and metaphyseal ulnar 骨折 (20%)
 
-Nightstick 骨折 Typee IV: combined: 近端 骨折 of thee
+Nightstick 骨折 Typee IV: combined: 近端 骨折 of the
 
-ulna and radius, 脫臼 of thee radial
+ulna and radius, 脫臼 of the radial
 head in any direction (<5%)
 + isolated 骨折 of ulna without 脫臼 of radial head
 
 機制
-+ direct downweard blow to upweard block forearm (e.g. holding arm up to protect face)
++ direct downward blow to upward block forearm (e.g. holding arm up to protect face)
 
 治療
 + 非手術治療
@@ -1258,7 +1253,7 @@ head in any direction (<5%)
 = below 肘關節 石膏 (x10 d), followed by forearm brace (~8 wk)
 + 手術治療
 
-* indication: significagentley 移位
+* indication: significantly 移位
 
 = ORIF（開放復位內固定） if >50% shaft displacement or >10° 成角
 
@@ -1282,7 +1277,7 @@ a Ulnar 骨折
 臨床表徵 Galeazzi
 
 + 疼痛, 腫脹, 變形, and point 壓痛 at 骨折 site Radial 骨折
-## Pagege 1111
+## Page 1111
 
 Orthopedic Surgery
 
@@ -1297,8 +1292,8 @@ Orthopedic Surgery
 
 + all cases 是 手術治療 (“骨折 of necessity”)
 = ORIF（開放復位內固定） of radius; afterweards, assess DRUJ stability by balloting 遠端 ulna relative to 遠端 radius
-= if DRUJis stablee and reduced, 夾板 for 10-14 d with early ROM encouraged
-= if DRUJ 是 unstablee, ORIF（開放復位內固定） or percutaneous pinning with long arm 石膏 in 旋後 x 2-3 wk
+= if DRUJis stable and reduced, 夾板 for 10-14 d with early ROM encouraged
+= if DRUJ 是 unstable, ORIF（開放復位內固定） or percutaneous pinning with long arm 石膏 in 旋後 x 2-3 wk
 
 Colles’ 骨折
 
@@ -1325,10 +1320,10 @@ conscious sedation
 閉合復位: traction with 伸展 (exaggerate 損傷); traction with ulnar deviation, 旋前,
 fflexion of 遠端 fragment (not at 腕關節)
 = dorsal slab/below 肘關節 石膏 for 5-6 wk
-= obtain post-reduction films immediately; repeat reduction 必要時
-= X光 weekly for Ist 3 weeks, and at cessation of immobilization to ensure reduction 是 maintained
+= obtain post-rreduction films immediately; repeat rreduction 必要時
+= X光 weekly for Ist 3 weeks, and at cessation of immobilization to ensure rreduction 是 maintained
 * 手術治療
-. indication: failed 閉合復位, or loss of reduction
+. indication: failed 閉合復位, or loss of rreduction
 = percutaneous pinning, 外側 fixation, or ORIF（開放復位內固定）
 
 Smith’s 骨折
@@ -1354,7 +1349,7 @@ al Features
 
 手術治療
 
-indication: 移位/unstablee
+indication: 移位/unstable
 
 + ORIF（開放復位內固定）
 
@@ -1408,7 +1403,7 @@ AP View
 
 Figure 22. Colles’ 骨折 and
 associated bony 變形
-## Pagege 1112
+## Page 1112
 
 Orthopedic Surgery
 
@@ -1416,7 +1411,7 @@ Orthopedic Surgery
 
 * 最常見 併發症 是 不良 grip strength, 僵硬, and radial 縮短
 
-+ 遠端 radius 骨折 in individuals <40 yr of age 是 frequegentley high energy/粉碎性 and 是 more
++ 遠端 radius 骨折 in individuals <40 yr of age 是 frequently high energy/粉碎性 and 是 more
 likely to require ORIF（開放復位內固定）
 
 + 80% have 正常 function in 6-12 mo
@@ -1425,7 +1420,7 @@ Table 13. Early and Late 併發症 of 腕關節 骨折
 
 Early late
 
-Difficult reduction + loss of reduction
+Difficult rreduction + loss of rreduction
 Compartmentsyndromee
 Extensor pollicis longus tendon rupture
 
@@ -1510,7 +1505,7 @@ General Principles
 + 變形: z-變形 of thumb (thumb 內收, MCP] hyperextension)
 
 檢查
-+ X光: AP, 外側 腕關節, Robert's view (thumb CMCJ)
++ X光: AP, 外側 腕關節, Roberts view (thumb CMCJ)
 + + CT: to assess preservation of radiocarpal or midcarpal joints
 
 AP view
@@ -1521,7 +1516,7 @@ B. Radial length
 
 €.Volar tilt
 
-=» Effect of Colles’ 骨折
+= Effect of Colles’ 骨折
 on 遠端 radius
 
 © Andreea Margineanu 2012
@@ -1529,7 +1524,7 @@ on 遠端 radius
 Figure 23. 正常 腕關節 angles and
 腕關節 angles in Colles’ 骨折
 
-Note the relative 縮短 of thee radius
+Note the relative 縮短 of the radius
 relative to the ulna on AP view in Colles’ 骨折
 
 ‘舟狀骨骨折 Special Tests
@@ -1539,7 +1534,7 @@ specific as iti also positive with many
 ther injuries of radial aspect of 腕關節 with
 FOOSH
 
-The 近端 pole of thee scaphoid receives
+The 近端 pole of the scaphoid receives
 as much as 100% of its arterial blood supply
 from the radial artery that enters at the
 遠端 pole. A 骨折 through the 近端
@@ -1547,7 +1542,7 @@ third disrupts this blood supply and results
 in a high incidence of AVN（缺血性壞死）/骨不連
 
 Figure 24. ORIF（開放復位內固定） left scaphoid
-## Pagege 1113
+## Page 1113
 
 Orthopedic Surgery
 
@@ -1619,7 +1614,7 @@ myelopathy = impingement of spinal cord
 
 Special Testing
 
-nerve root exits abovee vertebra (i.e. C4 nerve root exits abovee C4 vertebra), C8 nerve root exits below C7
+nerve root exits above vertebra (i.e. C4 nerve root exits above C4 vertebra), C8 nerve root exits below C7
 
 + compression 測試: pressure on head worsens radicular 疼痛
 
@@ -1631,7 +1626,7 @@ Table 14. Cervical Radiculopathy/Neuropathy
 
 distraction 測試: traction on head relieves radicular 症狀
 alsalva maneuver increases intrathecal pressure and causes radicular 疼痛
-Lhermitte Sign: electric shock sensation radiating to 背部 upon forweard fflexion of the neck, some etiologies
+Lhermitte Sign: electric shock sensation radiating to 背部 upon forward fflexion of the neck, some etiologies
 include multiple sclerosis, cervical myelopathy, and B12 deficiency
 distance (OWD): 病人 stands against a wall with erect posturee and distance between the
 occiput and the wall 是 measured, value greater than 2 cm 是 異常 i
@@ -1676,7 +1671,7 @@ vertebral anatomy
 Aapteé tom: oor KL, gut AMR. Esential ical
 Anatomy, rd Philadephia: Uippincat Wiiams and
 Wikis, 2007 p274
-## Pagege 1114
+## Page 1114
 
 Orthopedic Surgery
 
@@ -1689,13 +1684,13 @@ AP odontoid: atlantoaxial articulation
  disc or facet joint widening
 = 前側 soft tissue spacee (at C3 應 be <3 mm; at C4 應 be <8-10 mm)
 oblique: evaluate pedicles and intervertebral foramen
-+ swimmer's view: 外側 view with arm abducted 180° to evaluate C7-T1 junction if 外側 view 是
++ swimmers view: 外側 view with arm abducted 180° to evaluate C7-T1 junction if 外側 view 是
 inadequate
 + 外側 fflexion/伸展 view: evaluate 半脫位 of cervical vertebrae
 
 鑑別診斷 of C-脊椎 疼痛
 
-+ neck musclee 拉傷, cervical spondylosis, cervical stenosis, RA (spondylitis), traumatic 損傷, whiplash,
++ neck muscle 拉傷, cervical spondylosis, cervical stenosis, RA (spondylitis), traumatic 損傷, whiplash,
 myofascial 疼痛 syndromee, acute discogenic nerve root entrapment, 感染, 骨折, neoplasm, 疼痛
 from soft tissue structure
 
@@ -1762,9 +1757,9 @@ DEGENERATIVE DISC DISEASE
 機制
 + compression and dehydration of disc material over time with age
 
-## Pagege 1115
+## Page 1115
 
-Orthopedic Surgery Toronto Notes 2025
+Orthopedic Surgery 
 
 臨床表徵
 
@@ -1780,8 +1775,7 @@ Orthopedic Surgery Toronto Notes 2025
 治療
 + 非手術治療
 = staying active with modified activity
-= 背部 strengthening
-» NSAIDs（非類固醇消炎藥）
+= 背部 strengthening NSAIDs（非類固醇消炎藥）
 = do NOT treat with opioids; no proven efficacy of spinal traction or manipulation
 + 手術治療
 = indication: severe or progressive neurological deficit; refractory cases with impaired quality of life
@@ -1793,7 +1787,7 @@ SPINAL STENOSIS
 + narrowing of spinal canal
 
 + congenital (idiopathic, osteopetrosis, achondroplasia) or acquired (degenerative, iatrogenic ~ post spinal
-手術, ankylosing spondylosis, Pageget's disease, 創傷)
+手術, ankylosing spondylosis, Pagegets disease, 創傷)
 
 臨床表徵
 
@@ -1860,11 +1854,11 @@ $
 + 背部 dominant 疼痛 (central herniation) or leg dominant 疼痛 (外側 herniation)
 + 壓痛 between spinous processes at affected level
 
-+ musclee spasm + loss of 正常 lumbar lordosis
++ muscle spasm + loss of 正常 lumbar lordosis
 
 Figure 28. Disc herniation causing
 nerve root compression
-## Pagege 1116
+## Page 1116
 
 Orthopedic Surgery
 
@@ -1978,7 +1972,7 @@ Sciatica
 
 Figure 30. Spondylolysis,
 spondyloliesthesis
-## Pagege 1117
+## Page 1117
 
 Orthopedic Surgery
 治療
@@ -1988,7 +1982,7 @@ Orthopedic Surgery
 ADULT ISTHMIC SPONDYLOLISTHESIS
 
 定義
-+ defect in pars interarticularis causing a forweard translation or slippage of one vertebra on another, usually
++ defect in pars interarticularis causing a forward translation or slippage of one vertebra on another, usually
 at L5-S1, less commonly at L4-5
 
 機制
@@ -2021,13 +2015,13 @@ Table 18. Classification and 治療 of Spondyloliesthesis
 
 Class Percentage of Sip 治療
 
-1 025% Symptomatic 手術治療 fusion only for intractablee 疼痛
-2 3550 Same as abovee
+1 025% Symptomatic 手術治療 fusion only for intractable 疼痛
+2 3550 Same as above
 
 3 5075 Decompression for spondylolsthess and spinal fusion
-4 75100 Same as abovee
+4 75100 Same as above
 
-5 100 Same as abovee
+5 100 Same as above
 
 Specific 併發症
 * 可能 present as cauda equina syndromee 由於 roots being stretched over the edge of L5 or sacrum
@@ -2057,7 +2051,7 @@ discrepancy
 骨折 suspected)
 = 6 cardinal radiographic landmarks of the acetabulum: ilioischial line, iliopectineal line, teardrop,
 weight bearing roof, 後側 rim, 前側 rim
-+ CT掃描 useful for evaluating 後側 pelvic 損傷 and acetabular 骨折 (if stablee)
++ CT掃描 useful for evaluating 後側 pelvic 損傷 and acetabular 骨折 (if stable)
 = 可能 see contrast blush (indicating active bleeding)
 * assess genitourinary 損傷 (rectal exam, vaginal exam, hematuria, blood at urethral meatus)
  ifinvolved, the 骨折 是 considered an open 骨折
@@ -2086,22 +2080,22 @@ Figure 31. “Scottie dog” 骨折
 =
 
 Figure 32. Pelvic columns
-## Pagege 1118
+## Page 1118
 
 Orthopedic Surgery
 Classification
 Table 19. Tile Classification of Pelvic 骨折
 Typee Stability Description
-A Rotationally stablee ‘骨折 notinvolving pelvic ring 2. 撕裂 oiliacwing 骨折)
-Vertically stablee ‘NZ minimally 移位 骨折 of pelvic ring (e.g. ramus 骨折)
+A Rotationally stable ‘骨折 notinvolving pelvic ring 2. 撕裂 oiliacwing 骨折)
+Vertically stable ‘NZ minimally 移位 骨折 of pelvic ring (e.g. ramus 骨折)
 Ge transverse sacral or coccygeal 骨折
-B Rotationally unstablee BI open book (外側 旋轉)
-Vertically stablee 外側 compression ~ipsiateral
+B Rotationally unstable BI open book (外側 旋轉)
+Vertically stable 外側 compression ~ipsiateral
 with 前側 ring 旋轉/dsplacement through ipsilateral rami
 -with 前側 rng rotaion/dsplacementthrough non-ipsilateral rami bucket-handle)
 B3:bilateral
-c Rotationally unstablee Ck unilateral
-Vertically unstablee (CHa 骨折
+c Rotationally unstable Ck unilateral
+Vertically unstable (CHa 骨折
 C12: sacroiliac 骨折-disiocation
 (13:sacrl 骨折
 (2:ilateral with sidetype Band 1 side type
@@ -2116,10 +2110,10 @@ C12: sacroiliac 骨折-disiocation
 + laparotomy (if FAST/DPL positive)
 + pre-peritoneal packing)
 + 非手術治療 治療:
-= indication: stablee 骨折 (e.g. elderly 病人 with 骨折 sustained in fall from standing)
+= indication: stable 骨折 (e.g. elderly 病人 with 骨折 sustained in fall from standing)
 = protected WB
 * 手術治療 治療:
-= indications; unstablee pelvic ring 損傷, symphysis diastasis >2.5 cm, open 骨折
+= indications; unstable pelvic ring 損傷, symphysis diastasis >2.5 cm, open 骨折
 = ORIF（開放復位內固定）
 
 Specific 併發症 (see General 骨折 併發症, OR7)
@@ -2145,7 +2139,7 @@ high index of suspicion for associated injuries
 
 reduce 髖關節 dislocations within 6 h to decrease risk of AVN（缺血性壞死） of the femoral head
 
-+ 髖關節 precautions (no extreme 髖關節 fflexion, 內收, 內側 or 外側 旋轉) for 6 wk post-reduction
++ 髖關節 precautions (no extreme 髖關節 fflexion, 內收, 內側 or 外側 旋轉) for 6 wk post-rreduction
 + see Hip 脫臼 Post-Total Hip Arthroplasty, OR32
 
 前側 HIP 脫臼
@@ -2156,7 +2150,7 @@ reduce 髖關節 dislocations within 6 h to decrease risk of AVN（缺血性壞�
 
 = 閉合復位 under conscious sedation/GA
 
-= post-reduction CT to assess joint congruity
+= post-rreduction CT to assess joint congruity
 
 後側 HIP 脫臼
 + most frequent type of 髖關節 脫臼 (90%)
@@ -2189,7 +2183,7 @@ handle (LC)
 
 © Seline McNamee
 
-Unstablee vertical 骨折
+Unstable vertical 骨折
 
 Figure 33. Tile classification of pelvic
 骨折
@@ -2204,9 +2198,9 @@ suffer 骨折 elsewhere at the time of
 © Janet SM Chan 2009
 
 Figure 34. Rochester method
-## Pagege 1119
+## Page 1119
 
-Orthopedic Surgery Toronto Notes 2025
+Orthopedic Surgery 
 
 + Thompson and Epstein classification - 後側 脫臼:
 I - with no or minor 後側 acetabular wall 骨折
@@ -2217,14 +2211,14 @@ V - with 骨折 of femoral head
 + 治療
 = urgent 閉合復位 under conscious sedation/GA only if no associated femoral neck 骨折 or
 ipsilateral displacement
-= ORIF（開放復位內固定） if unstablee, intra-articular fragments, or significant displacement
-= post-reduction CT to assess joint congruity and 骨折
+= ORIF（開放復位內固定） if unstable, intra-articular fragments, or significant displacement
+= post-rreduction CT to assess joint congruity and 骨折
 
 併發症 FOR ALL HIP DISLOCATIONS
 
 + post-traumatic OA
 
-+ AVN（缺血性壞死） of femoral head - risk increases with delay in reduction
++ AVN（缺血性壞死） of femoral head - risk increases with delay in rreduction
 + associated 骨折 (e.g. femoral head, neck, or shaft)
 
 + sciatic nerve palsy in 25% (10% permanent)
@@ -2245,11 +2239,11 @@ General Features
 
 + shortened and externally-rotated leg 骨折
 
-+ painful ROM Disruption of Shenton's line (a radiographic
++ painful ROM Disruption of Shentons line (a radiographic
 
 line drawn along the upper margin of the
 obturator foramen, extending along the
-inferomedial side of thee femoral neck)
+inferomedial side of the femoral neck)
 Altered neck-shaft angle (正常 是
 
 Y 120-130)
@@ -2277,14 +2271,14 @@ Pe a ‘Susceptible to AVN（缺血性壞死） if blood supply
 ce a
 jistupted
 
-Intertrochanteric _-_Extracapsularfracture Sameasfemoralneck - Y-Ray:APhip, AP pelvis, Cosedreductionunder DVT, varus displacement 病因: femoral neck 骨折, chronic
-Stablee: intact betweenthe greater 骨折 ross ablelateral 髖關節 fluoroscopy then dynamic of 近端 fragment, systemic steroid use, SCFE（股骨頭骨骺滑脫）, Legg-Calvé-
+Intertrochanteric _-_Extracapsularfracture Sameasfemoralneck - Y-Ray:APhip, AP pelvis, Cosedrreductionunder DVT, varus displacement 病因: femoral neck 骨折, chronic
+Stable: intact betweenthe greater 骨折 ross ablelateral 髖關節 fluoroscopy then dynamic of 近端 fragment, systemic steroid use, SCFE（股骨頭骨骺滑脫）, Legg-Calvé-
 posteromedialcortex andlessertrochanters Director indirect force 髖關節 scewor IM nail malotation, non-union, Perthes, SLE, RA
-Unstablee: non-intact_anditranstionalbone transmitted tothe failure of fixation device
+Unstable: non-intact_anditranstionalbone transmitted tothe failure of fixation device
 posteromedialcortex betweenthe neck _-_interrochanteri rea
 
 and shaft
-Subtrochanteric 骨折 begins at ---Young:higheneray X光: APpelvis, APMlateral osed/openreduction _-_Malalignment, non-union,
+Subtrochanteric 骨折 begins at ---Young:higheneray X光: APpelvis, APMlateral osed/openrreduction _-_Malalignment, non-union,
 
 orbelowthelesser 創傷 髖關節 and femur under fluoroscopy, then wound 感染
 
@@ -2293,9 +2287,9 @@ trochanter andimolves -Edery:osteopenic Mai
 theproximal femoral bone + fall, pathological
 shaft 骨折
 
-## Pagege 1120
+## Page 1120
 
-Orthopedic Surgery Toronto Notes 2025
+Orthopedic Surgery 
 
 Table 21. Garden Classification of Femoral Neck 骨折 (e)
 Typee Displacement Extent ‘Alignment Trabeculae 治療
@@ -2310,7 +2304,7 @@ m Pagertial Complete Varus Disrupted Young: ORIF（開放復位內固定） fap 
 Eiderly: hem-otal 髖關節 arthroplasty Methods: Twenty fivedatabases 是 searched
 
 Complete Complete Vorus Disrupted Young: RIF forrandonized contol tals, onandomaed
-Elder :hemi-otl 髖關節 arthroplasty contre til, and cobort tudes investigating 疼痛
+Elder:hemi-otl 髖關節 arthroplasty contre til, and cobort tudes investigating 疼痛
 
 ‘management techniquesin oder adults aftr act 髖關節
 骨折 是 eligible for inclusion
@@ -2320,7 +2314,7 @@ Moderate-evel evidence 建議 nerve blockades
 是 elective for acute 疼痛 management and
 reducing delim. Ther islow-eel evidence that
 preoperative traction des not improve acute 疼痛.
-There's insufficient evidence to draw conclusions
+Theres insufficient evidence to draw conclusions
 about the benefis/harms of oter 疼痛 management
 
 interventions such as spinal anesthesia, acupressure,
@@ -2365,7 +2359,7 @@ leg length discrepancy (secondary to loss of cartilage and/or bone in affected j
 = weight loss, activity modification, 物理治療, analgesics, anti-inflammatory medications, walking
 aids
 手術治療
-= indication: advanced disease with 症狀 significagentley affecting quality of life
+= indication: advanced disease with 症狀 significantly affecting quality of life
 = realign = osteotomy; replace = arthroplasty; fuse = arthrodesis
 併發症 with arthroplasty: component loosening, 脫臼, HO, thromboemboliesm, 感染,
 神經血管損傷, limb length discrepancy, persistent limp, periprosthetic 骨折
@@ -2383,7 +2377,7 @@ spastic or neuromuscular disease, 後側 surgical approach, spinal fusion
 機制
 + fflexion, 內收, and 內側 旋轉 (後側 脫臼), or 伸展 and 外側 旋轉
 (前側 脫臼)
-## Pagege 1121
+## Page 1121
 
 Orthopedic Surgery
 
@@ -2434,7 +2428,7 @@ who 是 non-ambulatory
 = most femoral shaft 骨折 require fixation as this 是 a life-threatening 損傷
 + 手術治療
 = ORIF（開放復位內固定） with anterograde IM nail (最常見) or retrograde IM nail or with plate and screw fixation
-= 外側 fixation 可能 be used initially (e.g. unstablee patients or polytrauma patients)
+= 外側 fixation 可能 be used initially (e.g. unstable patients or polytrauma patients)
 = early mobilization and strengthening
 
 併發症
@@ -2465,9 +2459,9 @@ neck 骨折, as they occur in 2-6%
 
 cof femoral diaphysis 骨折 and 是
 reportedly missed in 19-31% of cases
-## Pagege 1122
+## Page 1122
 
-## Pagege 1123
+## Page 1123
 
 OR35
 
@@ -2536,7 +2530,7 @@ Examination for 外側
 
 前側 Cruciate Ligament 後側 CruciateLigament
 ‘Anatomy Originates rommedial wallof 外側 femoral condyle, insertsat Originates at the aterl wal of 內側 femoralcondyle, inserts atthe
-theanteromecial and posterolateral intercondyloideminence of thee 後側 ntercondyloideminence of thee tibial plateau
+theanteromecial and posterolateral intercondyloideminence of the 後側 ntercondyloideminence of the tibial plateau
 tibial plateau
 機制 Non-contact (more common): sudden deceleration with change of Non-contact (ess common): hyperfflexion or hyperextension
 direction or landing maneuver (前側 bial translation withvalgus - Contact: sudden 後側 displacement of tibia when kneeis fflexed or
@@ -2567,7 +2561,7 @@ Figure 41. McMurray 測試
 
 Figure 42. T1 MRI檢查 of torn ACL and
 PCL
-## Pagege 1124
+## Page 1124
 
 Orthopedic Surgery
 
@@ -2579,7 +2573,7 @@ Collateral Ligament Tears
 
 臨床表徵
 + 腫脹/effusion
-+ 壓痛 abovee and below joint line medially (MCL) or laterally (LCL)
++ 壓痛 above and below joint line medially (MCL) or laterally (LCL)
 + joint laxity with varus (LCL) or valgus (MCL) stress tests
  laxity with endpoint 建議 partial tear
  laxity with no endpoint 建議 a complete tear
@@ -2631,7 +2625,7 @@ degenerative meniscus pathology
 
 Popliteal Cysts
 
-+ synovial fluid-filled mass located in the popliteal fossa (i.e. Baker's cyst)
++ synovial fluid-filled mass located in the popliteal fossa (i.e. Bakers cyst)
 
 病因
 
@@ -2686,9 +2680,9 @@ Middle 13 patellar tendon (bone-patellar-
 bone autograft)
 
 Allograt (e.g. cadaver)
-## Pagege 1125
+## Page 1125
 
-Orthopedic Surgery Toronto Notes 2025
+Orthopedic Surgery 
 
 治療
 + asymptomatic cysts do not require 治療
@@ -2717,7 +2711,7 @@ al Features
 + 壓痛 and/or palpable gap at rupture site
 + possible audible “pop’
 
-patella in lower or higher position with palpable gap abovee or below patella, respectively
+patella in lower or higher position with palpable gap above or below patella, respectively
 可能 have an effusion
 
 檢查
@@ -2754,7 +2748,7 @@ Dislocated Knee
 Injury to ACL and PCL
 Classification Typee 3M ck and
 + Kennedy classification (based on direction of tibial displacement) classified by relation of tibia with respect ea wet
-to femur . ; Injury to ACL, PCL, and PLC
+to femur.; Injury to ACL, PCL, and PLC
 = 前側, 後側, 外側, 內側, rotary Typee 4
 + Schenck classification (based on pattern of ligamentous 損傷) Injury to ACL, PCL, MCL, LCL
 Typee 5
@@ -2773,11 +2767,11 @@ dislocations, 近端 fibular Bactures, and/or 撕裂 of fibular head
 + urgent 閉合復位 and immobilization
 = 可 be complicated by interposed soft tissue (posterolateral variant)
 assessment and management of neurovascular injuries and 腔室症候群
-emergent 手術治療 repair if vascular 損傷, open 損傷, irreducible or grossly unstablee 脫臼, or
+emergent 手術治療 repair if vascular 損傷, open 損傷, irreducible or grossly unstable 脫臼, or
 腔室症候群
 ligament reconsetruction to restore 膝關節 stability 是 typically performed in a delayed fashion
 early, comprehensive 物理治療
-## Pagege 1126
+## Page 1126
 
 Orthopedic Surgery
 
@@ -2887,7 +2881,7 @@ Figure 44. Typees of patellar 骨折
 
 併發症
 ‘Symptomatic hardweare
-Loss of reduction
+Loss of rreduction
 Osteonecrasis:
 Hardweare failure
 
@@ -2902,7 +2896,7 @@ Post-traumatic 關節炎
 which pops into the patellofemoral groove
 as the patella engages the trochlea early
 in fflexion
-## Pagege 1127
+## Page 1127
 
 Orthopedic Surgery
 
@@ -3002,16 +2996,14 @@ the greater the amount of 外側 force on the
 疼痛 with firm compression of patella into
 ‘內側 femoral groove 是 pathognomonic of
 patelofemoral syndromee
-## Pagege 1128
+## Page 1128
 
-Orthopedic Surgery Toronto Notes 2025
+Orthopedic Surgery 
 
 治療
 + 非手術治療
 
-= continue non-impact activities; 休息 and 復健
-
-» NSAIDs（非類固醇消炎藥）
+= continue non-impact activities; 休息 and 復健 NSAIDs（非類固醇消炎藥）
 
 = 物理治療: vastus medialies, core, and 髖關節 strengthening
 + 手術治療
@@ -3092,7 +3084,7 @@ al Features
 = consider dedicated 踝關節 X光檢查 or CT掃描 to 排除 intra-articular 伸展 of middle third or 遠端 Ya) Sha Factues have high incidence
 consider de ry Cc ‘of 腔室症候群 and 是 often
 tibia shaft 骨折 與...相關 soft tissue injuries
-## Pagege 1129
+## Page 1129
 
 OR4I Orthopedic Surgery
 
@@ -3115,7 +3107,7 @@ Specific 併發症 (see General 骨折 併發症, OR7)
 + 膝關節 疼痛 與...相關 infrapatellar IM nailing (>50% 前側 膝關節 疼痛)
 + 畸形癒合, 骨不連
 
-+ lack of soft tissue coverage secondary to open 骨折 可能 require further 手術 for musclee flap coverage
++ lack of soft tissue coverage secondary to open 骨折 可能 require further 手術 for muscle flap coverage
 
 Evaluation of Ankle and Foot Complaints
 
@@ -3213,7 +3205,7 @@ ligament
 + 後側 malleolus 撕裂 with
 後側 tibio-fibular ligament
 
-Fibular 骨折 是 abovee plafond
+Fibular 骨折 是 above plafond
 Frequegentley tears syndesmosis
 
 Ottawa Ankle and Foot Rules
@@ -3245,7 +3237,7 @@ Typee
 
 Figure 47. Ring principle of the 踝關節
 and Danis-Weber classification
-## Pagege 1130
+## Page 1130
 
 oraz Orthopedic Surgery
 
@@ -3306,10 +3298,8 @@ tenuous blood supply runs 遠端 to 近端 along talar neck
 
 = indication: non-移位
 
-= emergent reduction in ER, below-膝關節 石膏 8-12 wk (NWB first 6 wk)
-+ 手術治療
-
-» indication: 移位
+= emergent rreduction in ER, below-膝關節 石膏 8-12 wk (NWB first 6 wk)
++ 手術治療 indication: 移位
 
 = ORIF（開放復位內固定）
 
@@ -3354,7 +3344,7 @@ Restore 正常 calcaneal width and height
 
 Maximum functional recovery 可能 take
 longer than 12 mo
-## Pagege 1131
+## Page 1131
 
 Orthopedic Surgery
 
@@ -3402,7 +3392,7 @@ formed by confluence of soleus and gastrocnemius tendons
 + 非手術治療
 = 休息, NSAIDs（非類固醇消炎藥）, activity and shoe wear modification (orthotics, open 背部 shoes)
 = heel sleeves and pads 是 mainstay of 非手術治療 治療
-= gegentlee gastrocnemius-soleus stretching, eccentric training with 物理治療, deep tissue calf
+= gegentle gastrocnemius-soleus stretching, eccentric training with 物理治療, deep tissue calf
 massagege
 = shockwave therapy in chronic tendonitis
 = avoid steroid injections (risk of Achilles tendon rupture)
@@ -3451,7 +3441,7 @@ Sural nerve 損傷 (手術治療 management)
 ‘Sophia Huebel 2024
 
 Figure 49. Thompson 測試
-## Pagege 1132
+## Page 1132
 
 oR44 Orthopedic Surgery
 治療
@@ -3568,7 +3558,7 @@ found in non-surgical patents
 Condusons: Non-surgical 治療 for acute chiles
 tendon ruptures preferredif functional 復健
 protocol with ary range of motions posible nt,
-surgical 治療 shoud beconsidered becuse of thee
+surgical 治療 shoud beconsidered becuse of the
 Tower rate of reruptr,
 
 正常 angle <15°
@@ -3577,9 +3567,9 @@ Hallux Vaigus angle >15°
 3
 
 Figure 51. Hallux valgus
-## Pagege 1133
+## Page 1133
 
-Orthopedic Surgery Toronto Notes 2025
+Orthopedic Surgery 
 
 Metatarsal 骨折
 
@@ -3629,7 +3619,7 @@ R
 &
 &
 
-+ anatomic reduction
++ anatomic rreduction
 = gold standard with adults
 = 可能 accept greater angular 變形 in children as remodeling minimizes 變形 at skeletal ©
 maturity
@@ -3668,7 +3658,7 @@ Diagnosis
 + plain films 可能 not show 骨折 initially
 
 + bone scan positive in 12-15 d, MRI檢查 demonsetrates 異常 edema
-## Pagege 1134
+## Page 1134
 
 Orthopedic Surgery
 
@@ -3685,13 +3675,13 @@ Table 24. Salter-Harris Classification of Epiphyseal Injury
 
 ‘SALT(E)R-Harris Typee Description 治療
 
-| {Straight through; Stablee) Transverse through growth plate 閉合復位 and 石膏固定; heals well, 95% do not
+| {Straight through; Stable) Transverse through growth plate 閉合復位 and 石膏固定; heals well, 95% do not
 affect gowth
 
 Ii (Above) Through metaphysis and along growth plate 閉合復位 and 石膏 if anatomic; otherwise dosed + open
-reduction, 內側 fixation
+rreduction, 內側 fixation
 
-Ill (Below)” ‘Through epiphysis to plate and along growth plate ‘Anatomic reduction by ORIF（開放復位內固定） to prevent growth arrest, avoid fixation
+Ill (Below)” ‘Through epiphysis to plate and along growth plate ‘Anatomic rreduction by ORIF（開放復位內固定） to prevent growth arrest, avoid fixation
 across growth plate
 
 1V (Through and through)” Through epiphysis and metaphysis 閉合復位 and 石膏 if anatomic; otherwise ORIF（開放復位內固定）
@@ -3725,20 +3715,20 @@ typically groin and 前側 thigh 疼痛, 可能 present with 膝關節
 可 be 與...相關 膝關節 疼痛 由於 activation of the 內側 obturator nerve
 restricted 內側 旋轉, 外展, fflexion
 = Drehmann sign: obligatory 外側 旋轉 during passive fflexion of 髖關節
-Loder classification: stablee vs. unstablee (provides prognostic information)
- stablee = able to bear weight, with or without crutches (risk of 骨壞死 <10%)
-= unstablee = unable to ambulate even with crutches (high-risk of 骨壞死, between 24-47%)
+Loder classification: stable vs. unstable (provides prognostic information)
+ stable = able to bear weight, with or without crutches (risk of 骨壞死 <10%)
+= unstable = unable to ambulate even with crutches (high-risk of 骨壞死, between 24-47%)
 
 檢查
 + X光: AP, frog-leg 外側 radiographs both hips
 = 後側 and 內側 slip of epiphysis
 = disruption of Klein’s line
 = AP view 可能 be 正常 or show widened/lucent growth plate compared with opposite
-+ consider metabolic/endocrine workup for atypical cases (<10 years old, <50th percegentlee weight), to 排除
++ consider metabolic/endocrine workup for atypical cases (<10 years old, <50th percegentle weight), to 排除
 hypothyroidism, renal osteodystrophy or growth hormone deficiency
 
 治療
-* 手術治療: percutaneous in-situ fixation without reduction (reduction 是 highly controversial)
+* 手術治療: percutaneous in-situ fixation without rreduction (rreduction 是 highly controversial)
 + consider prophylactic fixation of contralateral 髖關節 in high-risk patients
 
 併發症
@@ -3758,9 +3748,9 @@ On AP view, ne drawn along supero-外側
 border of femoral neck 應 cross at
 least. portion of the femoral epiphysis. Ifit
 does not, suspect SCFE（股骨頭骨骺滑脫）
-## Pagege 1135
+## Page 1135
 
-Orthopedic Surgery Toronto Notes 2025
+Orthopedic Surgery 
 
 Developmental Dysplasia of the Hip
 
@@ -3784,25 +3774,25 @@ remaining contact between the articular surfaces (半脫位), or complete displa
 
 = head subluxates out of joint when provoked
 
-= dislocatablee head in socket
+= dislocatable head in socket
 
-= dislocated femoral head completely out of acetabulum Barlow's 測試
+= dislocated femoral head completely out of acetabulum Barlows 測試
 
 Physical Exam
 + diagnosisis clinical
 = limited 外展 of the fflexed 髖關節 (<60°) SS
 = affected leg 縮短 results in asymmetry in skin folds and gluteal musclees, wide perineum
-= Barlow's 測試 demonsetrates whether hips 是 dislocatablee
+= Barlows 測試 demonsetrates whether hips 是 dislocatable
 fflex hips and knees to 90° and grasp thigh
 fully adduct hips, push posteriorly to try to dislocate hips, feeling for a distinct clunk
 + Ortolani’s 測試 demonsetrates whether hips 是 reducible pS |o
-+ initial position as abovee but try to reduce 髖關節 with fingertips during 外展 SS y
++ initial position as above but try to reduce 髖關節 with fingertips during 外展 SS y
 + positive 測試: palpable clunk 是 felt (not heard) if 髖關節 是 reduced Ao
 * Trendelenburg 測試 and gait useful if older (>2 yr) Ss
 = Galeazzi’s sign
 + knees at unequal heights when hips and knees fflexed
 * appearance of a shorter femur (lower 膝關節) on affected side
-¢ difficult 測試 if child <1 yr Figure 54. Barlow's 測試 and
+¢ difficult 測試 if child <1 yr Figure 54. Barlows 測試 and
 Ortolani’s 測試
 
 Ortolani’s 測試
@@ -3814,18 +3804,18 @@ cartilage (bone 是 not calcified in newborns ugentle 4-6 mo)
 
 follow-up radiograph after 3 mo
 
-X光 徵候 (at 4-6 mo): false acetabulum, acetabular index >25°, broken Shenton’s line, femoral neck abovee
+X光 徵候 (at 4-6 mo): false acetabulum, acetabular index >25°, broken Shenton’s line, femoral neck above
 Hilgenreiner’s line (horizontal line through right and left triradiate cartilage), ossification centre outside of
 inner lower quadrant (quadrants formed by intersection of Hilgenreiner’s and Perkin’s lines)
 
 '5Fs that Predispose to Developmental
 治療 Dysplasia of the Hip
 * 0-6 mo: reduce 髖關節 using Pagevlik harness to maintain 外展 and fflexion Family history
-+ 6-18 mo: reduction under GA, 髖關節 spica 石膏 x 2-3 mo (if Pagevlik harness fails) Fen reech
++ 6-18 mo: rreduction under GA, 髖關節 spica 石膏 x 2-3 mo (if Pagevlik harness fails) Fen reech
 + 18mo-2 yr: 開放復位 with spica casting Firstborn
 + >2yr: pelvic and/or femoral osteotomy LeFt 髖關節
 併發症
-+ redislocation, inadequate reduction, 僵硬
++ redislocation, inadequate rreduction, 僵硬
 + AVN（缺血性壞死） of femoral head 可能 be seen at any point in 治療; 由於 impingement of 內側 circumfflex
 femoral artery with severe 外展 and fflexion secondary to prolonged Pagevlik harness or spica 石膏
 治療
