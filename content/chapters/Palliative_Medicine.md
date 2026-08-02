@@ -1,21 +1,21 @@
 ---
 title: "緩和醫療（Palliative Medicine）"
-description: "- **Palliative care 的核心目標**：提升病人與家屬面对 life-threatening illness 的生活品質，透過预防並緩解痛苦；適用於任何 time point，可與 life-prolonging 或 cur"
+description: "本章節涵蓋緩和醫療的核心內容。"
 slug: "Palliative_Medicine"
 weight: 1070
 chapterCode: "PM"
 ---
 
 
----
-
 ## 導讀摘要
 
-- **Palliative care 的核心目標**：提升病人與家屬面对 life-threatening illness 的生活品質，透過预防並緩解痛苦；適用於任何 time point，可與 life-prolonging 或 curative treatment 同時進行
-- **評估工具的臨床應用**：ESAS（Edmonton Symptom Assessment System）用於症狀篩檢，10分制量表追蹤 severity；PPS（Palliative Performance Scale）評估功能狀態並有預後價值
-- **嗎啡等鴉片類藥物為 dyspnea 與 pain 的核心用藥**：需個體化劑量，常見途徑包括口服、SC、IV等；呼吸抑制風險在末期病人中相對可控
-- **EOL discussion 減少 aggressive intervention**：研究顯示有 EOL discussion 的病人反而更少接受 CPR、ICU admission，且 earlier hospice admission
-- **Dignity therapy 與 palliative sedation**：针对 existential suffering 的非藥物與藥物選項；MAID 為加拿大合法選項（需留意立法動態）
+本章節涵蓋緩和醫療的核心內容，摘要如下：
+
+- **緩和醫療的核心目標**：提升病人與家屬面对危及生命的疾病的生活品質，透過預防並緩解痛苦；適用於任何時間點，可與延長生命或根治性治療同時進行
+- **評估工具的臨床應用**：愛 Edmonton 症狀評估系統用於症狀篩檢，10分制量表追蹤嚴重度；緩和醫療表現量表評估功能狀態並有預後價值
+- **嗎啡等鴉片類藥物為呼吸困難與疼痛的核心用藥**：需個體化劑量，常見途徑包括口服、皮下、靜脈等；呼吸抑制風險在末期病人中相對可控
+- **生命末期討論減少積極干預**：研究顯示有生命末期討論的病人反而更少接受心肺復甦術、加護病房 admission，且較早接受安寧療護
+- **尊嚴治療與緩和鎮靜**：針對存在性痛苦的非藥物與藥物選項；醫療協助死亡為加拿大合法選項
 
 ---
 
@@ -25,65 +25,63 @@ chapterCode: "PM"
 
 | 縮寫 | 全名 |
 |------|------|
-| ADLs | activities of daily living |
-| AND | Allow Natural Death |
-| CPR | Cardiopulmonary Resuscitation |
-| DNR | Do Not Resuscitate |
-| EOL | End-of-Life |
-| POA | Power of Attorney |
-| SDM | Substitute Decision Maker |
+| 日常生活活動 | 日常生活活動 |
+| 自然死亡 | 自然死亡 |
+| 心肺復甦術 | 心肺復甦術 |
+| 不施行心肺復甦術 | 不施行心肺復甦術 |
+| 生命末期 | 生命末期 |
+| 持久授權書 | 持久授權書 |
+| 替代決策者 | 替代決策者 |
 
-### Palliative Care 的定義
+### 緩和醫療的定義
 
-- 一種以改善病人與家屬面对 life-threatening illness 之生活品質為目標的方法，透過预防並緩解痛苦
-- 適用於 life-limiting illness 的任何階段，可與 life-prolonging 或 curative intervention 同時進行
-- **palliative approach to care 不只是 EOL care**
+- 一種以改善病人與家屬面对危及生命的疾病之生活品質為目標的方法，透過預防並緩解痛苦
+- 適用於限制生命的疾病的任何階段，可與延長生命或根治性介入同時進行
+- **緩和醫療的方法不只是生命末期照護**
 
 ```
 疾病管理
     ↓
-Palliative Care ──→ 存活
+緩和醫療 ──→ 存活
     ↓
-Hospice / Palliative Care Unit / EOL care
+安寧療護 / 緩和醫療病房 / 生命末期照護
     ↓
-喪親照護（Bereavement）
+喪親照護
 ```
 
-（圖：Palliative care enhanced model，感謝 Dr. Philippa Haley）
+### 緩和醫療的核心原則
 
-### Palliative Care 的核心原則
-
-1. **全人照護**：涵蓋 physical、psychosocial 與 spiritual 三大面向
+1. **全人照護**：涵蓋身體、心理社會與靈性三大面向
 2. **以病人為中心**：尊重病人價值觀與自主權
 3. **跨專業團隊合作**：醫師、護理師、社工、藥師、心理師、宗教師等
 4. **早期介入**：非僅用於生命末期
 
 ---
 
-## Palliative Care Assessment（緩和醫療評估）
+## 緩和醫療評估
 
-Palliative care 評估為全方位評估，涵蓋以下面向：
+緩和醫療評估為全方位評估，涵蓋以下面向：
 
 ### 醫療病史
 
 - 確認病人對疾病的認知程度
-- 確認 SDM（Substitute Decision Maker）人選
-- 了解病人的 goals of care
+- 確認替代決策者人選
+- 了解病人的照護目標
 
-### 身體癥狀評估
+### 身體症狀評估
 
-- **病人的主觀 severity 為 gold standard**
-- 可使用 ESAS（Edmonton Symptom Assessment System）等工具
+- **病人的主觀嚴重度為金標準**
+- 可使用 Edmonton 症狀評估系統等工具
 
 ### 功能狀態評估
 
-- 評估執行 ADLs 的能力
-- 輔以 PPS（Palliative Performance Scale）協助判斷預後
+- 評估執行日常生活活動的能力
+- 輔以緩和醫療表現量表協助判斷預後
 
 ### 心理社會症狀評估
 
-- Anxiety、depression
-- 家庭／照顧者 distress
+- 焦慮、憂鬱
+- 家庭/照顧者痛苦
 - 文化與財務狀態
 
 ### 靈性評估
@@ -94,65 +92,65 @@ Palliative care 評估為全方位評估，涵蓋以下面向：
 
 ### 藥物審查
 
-- 減少 polypharmacy（多種藥物併用）
+- 減少多重用藥
 
 ---
 
 ## 症狀管理
 
-### Edmonton Symptom Assessment System（ESAS）
+### Edmonton 症狀評估系統
 
-**目的：** 篩檢 palliative care 中常見症狀
+**目的：** 篩檢緩和醫療中常見症狀
 
-**量表：** 讓病人或照顧者以 0-10 數字量表評估癥狀強度
+**量表：** 讓病人或照顧者以0-10數字量表評估症狀強度
 - 0 = 無此症狀
 - 10 = 最嚴重程度
 
 **評估項目：**
-1. Pain（疼痛）
-2. Tiredness（疲倦）
-3. Nausea（噁心）
-4. Depression（憂鬱）
-5. Anxiety（焦慮）
-6. Drowsiness（嗜睡）
-7. Appetite（食慾）
-8. Well-being（整體幸福感）
-9. Shortness of breath（呼吸困難）
-10. "Other problems"（其他問題，如 liver disease 病人的 pruritus、lung disease 病人的 cough）
+1. 疼痛
+2. 疲倦
+3. 噁心
+4. 憂鬱
+5. 焦慮
+6. 嗜睡
+7. 食慾
+8. 整體幸福感
+9. 呼吸困難
+10. 其他問題（如肝臟疾病病人的皮膚搔癢、肺部疾病病人的咳嗽）
 
 **用途：** 量化症狀負荷，追蹤介入措施的療效
 
-### Palliative Performance Scale（PPS）
+### 緩和醫療表現量表
 
 **目的：** 評估功能狀態
 
 **評估五大面向：**
-1. Ambulation（活動能力）
-2. Activity and Evidence of Disease（活動與疾病表徵）
-3. Self-care（自我照顧能力）
-4. Intake（攝食量）
-5. Level of Consciousness（意識程度）
+1. 活動能力
+2. 活動與疾病表徵
+3. 自我照顧能力
+4. 攝食量
+5. 意識程度
 
 **預後價值：** 晚期癌症病人中具有預後意義
 
-**讀取方式：** 從「ambulation」欄往下找到符合病人描述的列，必要時往右往下移動（只能往下，不能往上）
+**讀取方式：** 從「活動能力」欄往下找到符合病人描述的列，必要時往右往下移動（只能往下，不能往上）
 
-| PPS Level | Ambulation | Activity & Evidence of Disease | Self-Care | Intake | Consciousness |
+| 緩和醫療表現量表等級 | 活動能力 | 活動與疾病表徵 | 自我照顧 | 攝食 | 意識 |
 |-----------|------------|-------------------------------|-----------|--------|--------------|
-| 100% | Full | Normal activity, no evidence of disease | Full | Full | Full |
-| 90% | Full | Normal activity, some evidence of disease | Full | Normal | Full |
-| 80% | Full | Normal activity with effort | Full | Normal or reduced | Full |
-| 70% | Reduced | Unable to do normal job/work | Full | Normal or reduced | Full |
-| 60% | Reduced | Unable to do hobby/housework | Occasional assistance necessary | Normal or reduced | Full or confusion |
-| 50% | Mainly sit | Unable to do any work | Occasional assistance necessary | Normal or reduced | Full or confusion |
-| 40% | Mainly in bed | Unable to do most activities | Main assisted | Normal or reduced | Full or drowsy |
-| 30% | Totally bedbound | Unable to do any activities | Total care | Normal or reduced | Full or drowsy |
-| 20% | Totally bedbound | Unable to do any activities | Total care | Minimal to sips | Full or drowsy |
-| 10% | Totally bedbound | Unable to do any activities | Total care | Mouth care only | Drowsy or coma |
+| 100% | 完全正常 | 正常活動，無疾病證據 | 完全 | 完全 | 完全 |
+| 90% | 完全正常 | 正常活動，部分疾病證據 | 完全 | 正常 | 完全 |
+| 80% | 完全正常 | 正常活動但費力 | 完全 | 正常或減少 | 完全 |
+| 70% | 降低 | 無法做正常工作/職業 | 完全 | 正常或減少 | 完全 |
+| 60% | 降低 | 無法做嗜好/家務 | 偶爾需要協助 | 正常或減少 | 完全或困惑 |
+| 50% | 主要坐 | 無法做任何工作 | 偶爾需要協助 | 正常或減少 | 完全或困惑 |
+| 40% | 主要臥床 | 無法做大多數活動 | 主要需要協助 | 正常或減少 | 完全或嗜睡 |
+| 30% | 完全臥床 | 無法做任何活動 | 完全照護 | 正常或減少 | 完全或嗜睡 |
+| 20% | 完全臥床 | 無法做任何活動 | 完全照護 | 少量或抿吸 | 完全或嗜睡 |
+| 10% | 完全臥床 | 無法做任何活動 | 完全照護 | 僅口腔照護 | 嗜睡或昏迷 |
 
-### 症狀管理總覽（Table 2）
+### 症狀管理總覽
 
-#### Constipation（便秘）
+#### 便祕
 
 **非藥物治療：**
 - 排除阻塞、糞嵌塞、肛門直腸疾病、脊髓病變
@@ -160,10 +158,10 @@ Palliative care 評估為全方位評估，涵蓋以下面向：
 - 增加活動量
 
 **藥物治療：**
-- Stimulant laxatives（senna）
-- Osmotic laxatives（lactulose）
+- 刺激性瀉劑
+- 滲透性瀉劑
 
-#### Dyspnea（呼吸困難）
+#### 呼吸困難
 
 **非藥物治療：**
 - 抬高床頭
@@ -171,99 +169,99 @@ Palliative care 評估為全方位評估，涵蓋以下面向：
 - 開窗或使用風扇
 
 **藥物治療：**
-- Oxygen（依病人需求）
-- Bronchodilators
-- Opioids（e.g., morphine、hydromorphone）
+- 氧氣（依病人需求）
+- 支氣管擴張劑
+- 鴉片類藥物
 
-#### Hiccups（打嗝）
+#### 打嗝
 
 **非藥物治療：**
-- 吞嚥 1 茶匙乾糖或乾麵包（nasopharyngeal stimulation／vagus nerve stimulation）
-- 用紙袋回吸（增加 CO2 分壓）
+- 吞嚥1茶匙乾糖或乾麵包
+- 用紙袋回吸（增加二氧化碳分壓）
 
 **藥物治療：**
-- Dopamine antagonists（e.g., chlorpromazine、haloperidol、metoclopramide）
-- Smooth muscle relaxants（e.g., hyoscine butylbromide [Buscopan®]、baclofen）
+- 多巴胺拮抗劑
+- 平滑肌鬆弛劑
 
-#### Nausea and Vomiting（噁心與嘔吐）
+#### 噁心與嘔吐
 
 **非藥物治療：**
 - 少量多餐
 - 避免強烈氣味
-- 治療便秘
+- 治療便祕
 
 **藥物治療（依病因選藥）：**
 
 | 病因 | 藥物選擇 |
 |------|---------|
-| Raised ICP（顱內壓升高） | Dexamethasone |
-| Anticipatory nausea, anxiety | Lorazepam |
-| Vestibular disease, vertigo | Dimenhydrinate |
-| Drug induced, hepatic, or renal failure | Prochlorperazine、haloperidol |
-| Gastroesophageal reflux disease | PPI、H2 antagonist |
-| Gastric stasis | Metoclopramide |
-| Bowel obstruction | Metoclopramide、dexamethasone、octreotide |
+| 顱內壓升高 | Dexamethasone |
+| 預期性噁心、焦慮 | Lorazepam |
+| 前庭疾病、眩暈 | Dimenhydrinate |
+| 藥物引起、肝或腎衰竭 | Prochlorperazine、haloperidol |
+| 胃食道逆流疾病 | 氫離子泵抑制劑、H2拮抗劑 |
+| 胃排空延遲 | Metoclopramide |
+| 腸阻塞 | Metoclopramide、dexamethasone、octreotide |
 
-#### Pain（疼痛）
+#### 疼痛
 
 **非藥物治療：**
 - 冷熱敷
-- 藝術治療、放鬆技巧
+- 藝術治療，放鬆技巧
 - 物理治療、按摩
-- 針灸、認知行為治療（CBT）
+- 針灸、認知行為治療
 
 **藥物治療（依疼痛類型）：**
 
 | 疼痛類型 | 藥物選擇 |
 |---------|---------|
-| Nociceptive pain | Non-opioids（NSAIDs、acetaminophen）、weak opioids（tramadol）、strong opioids（morphine、hydromorphone、oxycodone、fentanyl） |
-| Neuropathic疼痛 | Anticonvulsants（gabapentin、pregabalin）、antidepressants（TCAs、SNRIs）、steroids（dexamethasone） |
-| Bony pain | NSAID + acetaminophen +/− opioids；bisphosphonates、radiation therapy |
+| 傷害感受性疼痛 | 非鴉片類（非類固醇消炎止痛藥、乙醯胺酚）、弱效鴉片類（tramadol）、強效鴉片類（morphine、hydromorphone、oxycodone、fentanyl） |
+| 神經性疼痛 | 抗驚厥劑（gabapentin、pregabalin）、抗憂鬱劑（三環抗憂鬱劑、血清素-正腎上腺素回收抑制劑）、類固醇 |
+| 骨頭疼痛 | 非類固醇消炎止痛藥加乙醯胺酚加/減鴉片類；雙磷酸鹽、放射治療 |
 
-**WHO Pain Relief Ladder（三階梯止痛）：**
+**世界衛生組織疼痛階梯：**
 
-1. **第一階：** Non-opioid + Adjuvant
-2. **第二階：** Opioid for mild to moderate pain + Non-opioid + Adjuvant
-3. **第三階：** Opioid for moderate to severe pain + Adjuvant
+1. **第一階：** 非鴉片類加輔助藥物
+2. **第二階：** 弱效鴉片類加非鴉片類加輔助藥物
+3. **第三階：** 強效鴉片類加輔助藥物
 
-#### Pruritus（癢）
+#### 癢
 
 **非藥物治療：**
 - 以溫水沐浴、避免使用肥皂與浴油
 
 **藥物治療：**
-- Emollients and moisturizers
-- Anticonvulsants（gabapentin、pregabalin）
-- SSRIs（paroxetine、sertraline）
-- SNRIs（mirtazapine）
-- Opioid antagonists（naltrexone、rifampicin if chronic liver disease）
+- 保濕劑
+- 抗驚厥劑
+- 選擇性血清素再吸收抑制劑
+- 血清素-正腎上腺素回收抑制劑
+- 鴉片類拮抗劑
 
-#### Fatigue（疲倦）
+#### 疲倦
 
 **非藥物治療：**
-- 調整環境與活動以減少 energy expenditure
+- 調整環境與活動以減少能量消耗
 - 優化水分與電解質攝取
 - 衛教並支持病人與家屬
 - 運動以維持肌肉量與運動耐受力
 
 **藥物治療：**
-- 治療潛在病因（若有的話）
-- 考慮 stimulants（e.g., methylphenidate、dexamethasone）
+- 治療潛在病因
+- 考慮興奮劑
 
-#### Psychiatric Symptoms（精神症狀）
+#### 精神症狀
 
 **非藥物治療：**
-- CBT、支持團體、藝術／音樂治療
+- 認知行為治療、支持團體、藝術/音樂治療
 
 **藥物治療：**
 
 | 症狀 | 藥物選擇 |
 |------|---------|
-| Agitation | Neuroleptics |
-| Confusion/Delirium | 盡量治療根本病因；否則以 new antipsychotics（e.g., haloperidol）處理 |
-| Depression | 標準 SSRIs、SNRIs（若病人預後有限，作用太慢）；可考慮 psychostimulants（e.g., methylphenidate、ketamine） |
+| 激躁 | 抗精神病藥物 |
+| 意識混亂/瞻妄 | 盡量治療根本病因；否則以新型抗精神病藥物處理 |
+| 憂鬱 | 標準選擇性血清素再吸收抑制劑、血清素-正腎上腺素回收抑制劑（若病人預後有限，作用太慢）；可考慮精神刺激劑 |
 
-#### Oropharyngeal Secretions（口腔分泌物，又稱 Death Rattle）
+#### 口腔分泌物
 
 **非藥物治療：**
 - 安撫家屬：病人並非處於呼吸窘迫
@@ -271,71 +269,69 @@ Palliative care 評估為全方位評估，涵蓋以下面向：
 - 避免深部抽吸（僅淺部）
 - 移除不必要的靜脈輸液
 
-**藥物治療（Anticholinergic agents）：**
-- Hyoscine hydrobromide（scopolamine）SC 或經皮
-- Glycopyrronium（glycopyrrolate）SC（首選，因為不易穿越血腦屏障）
-
-**注意監測不良反應：** 口乾、delirium、鎮靜
+**藥物治療（抗膽鹼劑）：**
+- Hyoscine hydrobromide皮下或經皮
+- Glycopyrronium皮下（首選，因為不易穿越血腦屏障）
 
 ---
 
-## Care of the Dying Patient（臨終病人的照護）
+## 臨終病人的照護
 
 ### 生命最後數月的一般衰退徵兆
 
-- 活動量下降、功能表現狀態衰退、自我照顧有限、每日臥床或坐椅達 50%
-- 共病症（comorbidity）是發病率與死亡率最重要的預測因子
+- 活動量下降、功能表現狀態衰退、自我照顧有限、每日臥床或坐椅達50%
+- 共病症是發病率與死亡率最重要的預測因子
 - 整體身體機能衰退，需要越來越多支持
 - 晚期疾病：不穩定、惡化、複雜的症狀負荷
-- 對治療的反應下降、逆轉可能性減少
+- 對治療的反應下降，逆轉可能性減少
 - 選擇不再接受積極治療
-- 體重持續下降（過去6個月 >10%）
-- 反覆非計劃性／危機入院
-- 重大事件（e.g., 嚴重跌倒、喪親、轉入護理之家）
-- 血清白蛋白 <25 g/L
+- 體重持續下降（過去6個月>10%）
+- 反覆非計劃性/危機入院
+- 重大事件（如嚴重跌倒、喪親、轉入護理之家）
+- 血清白蛋白<25克/公升
 - 符合末期疾病失能補助資格
 
 ### 生命最後數小時的變化
 
 - 意識程度下降
-- 呼吸型態改變（Cheyne-Stokes breathing）
-- 氣道分泌物導致呼吸有聲（noisy breathing）
-- 無法安全吞嚥，aspiration 風險增加
-- Delirium（末期躁動，terminal restlessness）
-- 手、腳、腿部，出現大理石紋（mottling）
+- 呼吸型態改變（潮式呼吸）
+- 氣道分泌物導致呼吸有聲
+- 無法安全吞嚥，吸入風險增加
+- 瞻妄（末期躁動）
+- 手、腳、腿部，出現大理石紋
 - 四肢冰冷
 
 ### 生命最後數天的照護原則
 
 1. **衛教家屬：** 說明死亡過程中的生理變化，討論可能困難的決定（如輸液）
-2. **預立居家死亡計畫（EDITH, Expected Death in the Home）：**
-   - 告知家屬應聯繫的對象（**非 911**）
+2. **預立居家死亡計畫：**
+   - 告知家屬應聯繫的對象（**非119**）
    - 說明死亡證明書如何交付給殯儀館
-3. **給藥途徑：** 若病人無法吞嚥，以非口服途徑給予必要藥物（SC 為首選；其他選項：gastrostomy tube、IV、nasal、oral/transmucosal、rectal、transdermal）
-4. **停用非必要藥物：** 停用主要用於 primary 和 secondary prevention 的藥物；審視靜脈或皮下輸液，若不再有助益應考慮停止
-5. **Psychosocial 與 spiritual well-being：** 評估並處理心理、情緒及靈性需求
+3. **給藥途徑：** 若病人無法吞嚥，以非口服途徑給予必要藥物（皮下為首選）
+4. **停用非必要藥物：** 停用主要用於第一和二級預防的藥物；審視靜脈或皮下輸液，若不再有助益應考慮停止
+5. **心理與靈性健康：** 評估並處理心理、情緒及靈性需求
 
-### Psychosocial 與 Spiritual 需求
+### 心理與靈性需求
 
-**Psychosocial needs（心理社會需求）包括：**
-- Self-esteem（自尊）
+**心理需求包括：**
+- 自尊
 - 對疾病的調適
 - 溝通
 - 社會功能
 
-**Spiritual needs（靈性需求）包括：**
+**靈性需求包括：**
 - 病人表達生命意義、價值與目的的方式
 - 不限於宗教實踐或哲學反思
 
-**FICA 靈性評估工具：**
+**FICA靈性評估工具：**
 - **F**aith or beliefs（信仰）
 - **I**mportance of those beliefs（信仰的重要性）
 - **C**ommunity participation（宗教或靈性社群參與）
 - **A**ddress healthcare issues（醫療人員如何處理相關議題）
 
-### 良好死亡的五個面向（Quality of EOL Care: Patients' Perspectives, JAMA 1999）
+### 良好死亡的五個面向
 
-1. Pain/symptom management（疼痛與症狀控制）
+1. 疼痛/症狀管理
 2. 避免延長死亡過程
 3. 達成掌控感
 4. 減輕對他人的負擔
@@ -345,53 +341,52 @@ Palliative care 評估為全方位評估，涵蓋以下面向：
 
 ## 溝通與倫理
 
-### Advance Care Planning（預立醫療照護計畫）
+### 預立醫療照護計畫
 
 適用於**具有決策能力**的病人：
 
-1. **確認 SDM 或 POA**
-   - 根據法律，每位 Ontario 居民已有預設 SDM；若欲指定他人，需填寫 POA 文件
+1. **確認替代決策者或持久授權書**
+   - 根據法律，每位居民已有預設替代決策者；若欲指定他人，需填寫持久授權書文件
 2. **討論價值觀、信仰與未來醫療照護意願**
-   - 前提為病人可能失去醫療決策能力時
 
-### Goals of Care（照護目標）
+### 照護目標
 
 - 探索性討論，協助病人做出決策
-- 類似 Advance Care Planning，但針對急性醫療問題做出決策
+- 類似預立醫療照護計畫，但針對急性醫療問題做出決策
 - 討論項目包括：病人目前的醫療問題、對疾病的理解、治療選項與可能的結果
-- 可能或可能不包含 code status 討論
+- 可能或可能不包含心肺復甦術狀態討論
 
-### Code Status（心肺復甦術狀態）
+### 心肺復甦術狀態
 
 | 選項 | 內容 |
 |------|------|
-| **Full Code** | 病人希望接受 CPR、defibrillation 與 life support |
-| **DNR（Do Not Resuscitate）** | 病人不希望接受 CPR 或 life support，僅接受 active medical management |
-| **Comfort Measures** | 病人不希望接受 CPR、life support 或 active medical management |
-| **AND（Allow Natural Death）** | DNR 的另一用語，通常較温和，有助於 discussion |
+| **完全代碼** | 病人希望接受心肺復甦術、去顫與生命支持 |
+| **不施行心肺復甦術** | 病人不希望接受心肺復甦術或生命支持，僅接受積極醫療管理 |
+| **舒適措施** | 病人不希望接受心肺復甦術、生命支持或積極醫療管理 |
+| **自然死亡** | 不施行心肺復甦術的另一用語，通常較温和，有助於討論 |
 
 **重要原則：**
-- CPR 對於晚期不可逆疾病的病人很少有效
-- DNR order 幾乎 always 與 palliative goals of care 一致
+- 心肺復甦術對於晚期不可逆疾病的病人很少有效
+- 不施行心肺復甦術order幾乎總是與緩和照護目標一致
 
-### 開始 EOL 討論的時機
+### 開始生命末期討論的時機
 
 - 最近因嚴重疾病住院，或照護轉換期間
 - 嚴重進行性疾病
-- 預期壽命 6-12 個月內
-- 病人已重寫遺囑及／或表達靈性意願
-- 病人請求 MAID（Medical Assistance in Dying）
+- 預期壽命6-12個月內
+- 病人已重寫遺囑及/或表達靈性意願
+- 病人請求醫療協助死亡
 
 ### SPIKES Protocol（壞消息溝通）
 
 | 步驟 | 內容 |
 |------|------|
-| **S** - Setting up | 創造隱私、安靜、舒適的環境；確保有足夠時間；詢問病人是否希望家屬或其他支持者陪同 |
-| **P** - Perception | 了解病人與家屬目前對疾病的認知為何；使用 open-ended questions 並填補重大認知缺口 |
-| **I** - Invitation | 詢問病人希望如何接收資訊；想要先了解 care team 做出診斷／預後／治療決策的過程，還是直接聽結果 |
-| **K** - Knowledge sharing | 根據「invitation」階段表達的偏好，以少量非技術性語言分段傳達資訊 |
-| **E** - Emotions | 回應病人與家屬的情緒；給予足夠時間消化；沉默是可以的；表達願意回答問題 |
-| **S** - Strategy and Summary | 若病人與家屬願意，總結對話並討論後續步驟 |
+| **S - 設定** | 創造隱私、安靜、舒適的環境；確保有足夠時間；詢問病人是否希望家屬或其他支持者陪同 |
+| **P - 認知** | 了解病人與家屬目前對疾病的認知為何；使用開放式問題並填補重大認知缺口 |
+| **I - 邀請** | 詢問病人希望如何接收資訊；想要先了解照護團隊做出診斷/預後/治療決策的過程，還是直接聽結果 |
+| **K - 知識分享** | 根據「邀請」階段表達的偏好，以少量非技術性語言分段傳達資訊 |
+| **E - 情緒** | 回應病人與家屬的情緒；給予足夠時間消化；沉默是可以的；表達願意回答問題 |
+| **S - 策略與總結** | 若病人與家屬願意，總結對話並討論後續步驟 |
 
 ---
 
@@ -400,32 +395,30 @@ Palliative care 評估為全方位評估，涵蓋以下面向：
 ### 估計生命期限的原則
 
 - 被問到預後時，**避免過度精確**
-- 使用時間範圍：hours to days、days to weeks、weeks to many weeks、months
-- 醫師在預後估計上**普遍過度樂觀**（研究顯示：醫師預估存活時間平均為實際的 5.3 倍）
+- 使用時間範圍：小時數天、數天數週、數週很多週、數月
+- 醫師在預後估計上**普遍過度樂觀**
 
 ---
 
 ## 跨專業團隊
 
 **成員可能包括：**
-- **醫師：** 可能是家庭醫師或具有 palliative care 專科訓練；提供醫療管理與症狀緩解
-- **護理師：** 提供病人衛教與臨床護理；在 hospice 或居家照護中常有 advanced practice
-- **社工師／個案管理師：** 協助 advance care planning 討論及其他心理社會介入
+- **醫師：** 可能是家庭醫師或具有緩和醫療專科訓練；提供醫療管理與症狀緩解
+- **護理師：** 提供病人衛教與臨床護理；在安寧療護或居家照護中常有 advanced practice
+- **社工師/個案管理師：** 協助預立醫療照護計劃討論及其他心理社會介入
 - **藥師：** 及時提供藥物、評估藥物治療計畫
 - **職能治療師：** 確認病人的重要生活角色與活動，並排除障礙
 - **物理治療師：** 維持疾病進展期間的身體功能以優化舒適度
 - **營養師：** 聚焦於病人需求與意願的營養計畫
-- **靈性照護工作者：** 為 life-limiting disease 患者提供靈性與宗教照護
-
-**團隊協作方式：** 透過持續與病人及家屬的照護對話，討論病人的病情、病程、治療選項、照護目標與計畫
+- **靈性照護工作者：** 為限制生命的疾病患者提供靈性與宗教照護
 
 ---
 
-## 痛苦（Suffering）的定義與來源
+## 痛苦
 
 ### 定義
 
-**Suffering** 是一種嚴重的痛苦體驗，削弱個人在當下處境中找到平靜的能力，由以下因素共同構成：
+**痛苦**是一種嚴重的痛苦體驗，削弱個人在當下處境中找到平靜的能力，由以下因素共同構成：
 - 身體症狀
 - 心理困擾
 - 存在性 concerns
@@ -433,11 +426,11 @@ Palliative care 評估為全方位評估，涵蓋以下面向：
 
 ### 重要原則
 
-- Suffering 可在 palliative context 的任何時刻發生
-- Suffering 是主觀的，每位病人獨一無二
-- Anguish 與 despair 是對困難人類處境的合理反應
+- 痛苦可在緩和醫療的任何時刻發生
+- 痛苦是主觀的，每位病人獨一無二
+- 痛苦與絕望是對困難人類處境的合理反應
 - 病人不僅可能因疾病而痛苦，也可能因**治療**而痛苦
-- Suffering 不僅限於身體症狀
+- 痛苦不僅限於身體症狀
 - 無法預期痛苦的來源
 
 ### 痛苦的來源
@@ -445,7 +438,7 @@ Palliative care 評估為全方位評估，涵蓋以下面向：
 **身體 concerns：**
 - 活動受損
 - 失去身體獨立性
-- 症狀（e.g., pain、疲倦、睡眠品質差、食慾不振）
+- 症狀
 
 **社會關係 concerns：**
 - 家庭困境或功能失調
@@ -456,7 +449,7 @@ Palliative care 評估為全方位評估，涵蓋以下面向：
 - 失去平衡與掌控感
 - 難以接受現況
 - 被生活處境壓垮
-- 共病性 depression 與 anxiety
+- 共病性憂鬱與焦慮
 
 **靈性 concerns：**
 - 愛、美德、信仰、希望等需求未獲滿足
@@ -473,21 +466,21 @@ Palliative care 評估為全方位評估，涵蓋以下面向：
 
 ## 緩解頑固性身體與存在性痛苦
 
-### Palliative Sedation Therapy（緩和鎮靜治療）
+### 緩和鎮靜治療
 
 - 使用藥理學試劑降低意識
 - **僅適用於**：確診晚期進行性疾病病人
-- **適應症**：生命最後數小時內，頑固且無法控制的身體症狀（e.g., dyspnea、agitation）
+- **適應症**：生命最後數小時內，頑固且無法控制的身體症狀
 - **僅在 consultant specialist palliative care teams 的建議下進行**
 
-### Dignity Therapy（尊嚴治療）
+### 尊嚴治療
 
-使用 Dignity Therapy Questions 工具，增強 life-threatening illness 病人的心理與靈性健康
+使用尊嚴治療問題工具，增強危及生命的疾病病人的心理與靈性健康
 
 **核心問題包括：**
 1. 「請告訴我一些您的生命故事，特別是您記得最清楚或認為最重要的部分。您什麼時候感到最活著？」
 2. 「是否有特定的事情您希望家人了解您？是否有特別的事情您希望他們記得？」
-3. 「您在生命中扮演的最重要角色是什麼（家庭角色、職業角色、社區服務角色等）？為什麼它們如此重要？您認為自己在這些角色中達成了什麼？」
+3. 「您在生命中扮演的最重要角色是什麼？為什麼它們如此重要？您認為自己在這些角色中達成了什麼？」
 4. 「是否有特別的事情您覺得還需要對愛的人說？或者有什麼您想再次花時間說的？」
 5. 「您對所愛的人的未來有什麼希望與夢想？」
 6. 「您從人生中學到了什麼想傳授給他人的？您想給兒子、女兒、丈夫、妻子、父母或其他人什麼樣的建議或指引？」
@@ -495,32 +488,31 @@ Palliative care 評估為全方位評估，涵蓋以下面向：
 8. 「在建立這份永久紀錄時，您還想加入其他事情嗎？」
 9. 「您最重要的成就是什麼？您最感到自豪的是什麼？」
 
-### Medical Assistance in Dying（MAID，加拿大醫療協助死亡）
+### 醫療協助死亡
 
-- 在加拿大，**MAID** 是一個特定程序：當心智能力正常的病人提出書面請求結束生命時啟動
-- 病人由 2 位不同臨床醫師進行訪談，其中一位為 MAID provider
+- 在加拿大，醫療協助死亡是一個特定程序：當心智能力正常的病人提出書面請求結束生命時啟動
+- 病人由2位不同臨床醫師進行訪談，其中一位為提供者
 - 由醫師或護理師執行藥物導致死亡；或開立藥物由病人自行服用
 
 **目前加拿大有兩種路徑：**
-1. **Pathway 1：** 死亡可預見
-2. **Pathway 2：** 病人有 serious and incurable illness、disease 或 disability，但死亡並非立即可預見
+1. **路徑一：** 死亡可預見
+2. **路徑二：** 病人有嚴重且不可逆的疾病、疾病或障礙，但死亡並非立即可預見
 
 **近期變化：**
-- 若個人可能在意圖接受 MAID 前失去決策能力，已新增「最終同意豁免」機制（需死亡可合理預見）
-- 立法持續在國會審查中（新病人群體與情況陸續納入）
-- **注意：** 僅以 mental health diagnosis 作為唯一 eligibility 資格的病人，須等到 2027 年 3 月 17 日才能使用 MAID
+- 若個人可能在意圖接受醫療協助死亡前失去決策能力，已新增「最終同意豁免」機制
+- 立法持續在國會審查中
 
 ---
 
-## Grief 與喪親
+## 悲傷與喪親
 
-###  grief 的類型
+### 悲傷的類型
 
 | 類型 | 說明 |
 |------|------|
-| **Anticipatory grief（預期性悲傷）** | 在預期 loss 發生前出現的悲傷感受，包括為將逝者擔心、平衡衝突需求、準備死亡 |
-| **Acute grief（急性悲傷）** | 摯愛死亡後的立即反應；多數情況下，家人與朋友的支持會隨著時間幫助喪親者接受 loss |
-| **Complicated grief（複雜性悲傷）** | 悲傷歷程的異常進展，嚴重干擾個人功能；特點包括時間延長、不良適應的想法、情緒失調與功能失調行為；depression 與 anxiety 可能很常見 |
+| **預期性悲傷** | 在預期 loss 發生前出現的悲傷感受，包括為將逝者擔心、平衡衝突需求、準備死亡 |
+| **急性悲傷** | 摯愛死亡後的立即反應；多數情況下，家人與朋友的支持會隨著時間幫助喪親者接受 loss |
+| **複雜性悲傷** | 悲傷歷程的異常進展，嚴重干擾個人功能；特點包括時間延長、不良適應的想法、情緒失調與功能失調行為；憂鬱與焦慮可能很常見 |
 
 ---
 
@@ -528,114 +520,110 @@ Palliative care 評估為全方位評估，涵蓋以下面向：
 
 ### 定義
 
-**自我照護（Resilience / Self-Care）：** 追求個人健康與專業責任照護病人之間的主動、整體性平衡
+**自我照護：** 追求個人健康與專業責任照護病人之間的主動、整體性平衡
 
 ### 益處
 
 - 平衡對自己的慈悲與對他人的慈悲
 - 專業人員生活品質的提升可轉化為病人照護的改善
 - 正向預測 cope with death 的能力與 compassion satisfaction
-- 負向預測 fatigue 與 burnout 風險
-- 需要並培養自我覺察：包括對自己的了解與同理
+- 負向預測疲勞與倦怠風險
+- 需要並培養自我覺察
 
 ### 策略
 
 **在工作場所內：**
 - 個人對工作負荷需求的調節與界線設定
-- 團隊 bonding／ debriefing 的機會
+- 團隊 bonding/debriefing 的機會
 - 促進可滿足專業人員需求的資源與支持
 - 發展支持與利於自我照護的文化
 
 **在工作場所外：**
-- 多種健康促進行為（e.g., 均衡飲食、睡眠衛生、運動、冥想、人際充實、靈性實踐）
+- 多種健康促進行為（如均衡飲食、睡眠衛生、運動、冥想、人際充實、靈性實踐）
 
 ---
 
-## 兒童緩和醫療（Pediatric Palliative Care）
+## 兒童緩和醫療
 
 ### 獨特考量
 
-- **兒童緩和醫療的照護單位永遠是家庭與患病兒童**：包括兄弟姊妹（siblings），他們也常受到各種影響
-- 最好在確診 potentially life-limiting 或 life-threatening disease 後儘早提供，並持續配合標準／curative care
-- **Respite services（喘息服務）** 對醫療複雜且依賴科技的兒童家庭至關重要
-- 兒童死亡後對父母與兄弟姊妹的 grief support 為標準服務
+- **兒童緩和醫療的照護單位永遠是家庭與患病兒童**：包括兄弟姊妹，他們也常受到各種影響
+- 最好在確診 potentially life-limiting 或 life-threatening disease 後儘早提供，並持續配合標準/根治性照護
+- **喘息服務**對醫療複雜且依賴科技的兒童家庭至關重要
+- 兒童死亡後對父母與兄弟姊妹的悲傷支持為標準服務
 - 情感成熟度與認知能力因**發育水平**而非年齡而異
-- 兒童緩和醫療中，少於 30% 的病人是癌症；多數是先天性或後天性神經障礙，許多依賴科技
+- 兒童緩和醫療中，少於30%的病人是癌症；多數是先天性或後天性神經障礙
 - 獨特挑戰：需同時面對兒童、父母與兄弟姊妹
-- 決策權取決於年輕人的 capacity；但許多決策是 family-centered，由病人、父母與醫療照護者共同參與
+- 決策權取決於年輕人的 capacity；但許多決策是 family-centered
 
-### 兒童緩和醫療分類（Table 3）
+### 兒童緩和醫療分類
 
-| Category | 說明 | 範例 |
+| 類別 | 說明 | 範例 |
 |----------|------|------|
-| **Category 1** | 生命威脅疾病，curative treatment 可行但可能失敗；若治療失敗或急性 crisis 時需要 palliative care；當達到長期緩解或成功治療後不再需要 | Cancer、irreversible organ failure |
-| **Category 2** | 死亡不可避免為早發；長時間積極治療以延長生命並維持正常活動 | Cystic fibrosis、Duchenne muscular dystrophy |
-| **Category 3** | 漸進性疾病，無 curative treatment 選項；治療純為 palliative | Batten disease |
-| **Category 4** | 不可逆但非進行性疾病導致嚴重失能 | 嚴重腦癱、大腦或脊髓損傷後的多重障礙 |
+| **類別一** | 生命威脅疾病，根治性治療可行但可能失敗；若治療失敗或急性 crisis 時需要緩和照護 | 癌症、可逆性器官衰竭 |
+| **類別二** | 死亡不可避免為早發；長時間積極治療以延長生命並維持正常活動 | 囊腫性纖維化、杜馨氏肌肉失養症 |
+| **類別三** | 漸進性疾病，無根治性治療選項；治療純為緩和 | Batten disease |
+| **類別四** | 不可逆但非進行性疾病導致嚴重失能 | 嚴重腦癱、大腦或脊髓損傷後的多重障礙 |
 
 ### 兒童評估工具
 
-#### Symptom Screening in Pediatrics Tool（SSPedi）
+#### 兒童症狀篩檢工具
 
-- 適用年齡：8-18 歲
-- 症狀以 five-point descriptive Likert scale 評估
-- 評估項目：depression、anxiety、irritability、memory/cognition、appearance changes、fatigue、mouth sores、headache、pain、tingling/numbness of extremities、nausea/vomiting、appetite、taste changes、constipation、diarrhea
+- 適用年齡：8-18歲
+- 症狀以五點描述性李克特量表評估
+- 評估項目：憂鬱、焦慮、易怒、記憶/認知、外觀變化、疲倦、口腔潰場、頭痛、疼痛、肢端麻木/刺痛、噁心/嘔吐、食慾、味覺變化、便祕、腹瀉
 
-#### Mini-SSPedi
+#### Mini-兒童症狀篩檢工具
 
-- 修訂版，適用於 4-7 歲兒童
-- 評估相同的 15 個症狀
-- 使用 three-point、face-based Likert scale
-- 解释工具時需注意兒童的發育階段：
-  - 4-5 歲兒童能描述自己健康的具體面向
-  - 內省能力約在 6-8 歲時發展
+- 修訂版，適用於4-7歲兒童
+- 評估相同的15個症狀
+- 使用三點、臉部李克特量表
+- 解释工具時需注意兒童的發育階段
 
-#### Memorial Symptom Assessment Scale（MSAS）
+#### Memorial症狀評估量表
 
-- 適用年齡：7 歲以上
-- 測量 32 種常見身體與心理症狀的頻率、嚴重度與困擾程度
-- 使用 five-point Likert scale
-- 可用於臨床與研究場合
+- 適用年齡：7歲以上
+- 測量32種常見身體與心理症狀的頻率、嚴重度與困擾程度
 
 ### 兒童緩和醫療的 predominant 疾病
 
-1. Genetic/congenital disease（40.8%）
-2. Neuromuscular disease（39.2%）
-3. Cancer（19.8%）
-4. Respiratory disease（12.8%）
-5. Gastrointestinal disease（10.7%）
+1. 遺傳/先天性疾病（40.8%）
+2. 神經肌肉疾病（39.2%）
+3. 癌症（19.8%）
+4. 呼吸道疾病（12.8%）
+5. 胃腸道疾病（10.7%）
 
 ### 兒童症狀管理要點
 
 - 兒童通常了解自己的病情，建議公開溝通診斷與預後以減少焦慮與恐懼
-- 討論 illness、治療決策、EOL 與死亡概念時，應考慮兒童的發育階段與認知能力
-- EOL 附近遇到的症狀及其管理與成人照護相似（見 Table 2, PM4），但兒童獨特之處包括：
-  - 共享決策：兒童（在可能或願意的範圍內）、父母與醫療照護者共同指導治療與 EOL 照護
-  - 症狀管理可能持續數年，因此可能需要轉入成人 palliative services 的過渡計畫
-  - Play therapy 與非結構化遊戲可減少焦慮、憂鬱與攻擊行為
-  - 在孩子的生活中創造 normal 感有助於情緒健康（e.g., 見朋友、上學、父母的紀律）
+- 討論疾病、治療決策、生命末期與死亡概念時，應考慮兒童的發育階段與認知能力
+- 生命末期附近遇到的症狀及其管理與成人照護相似，但兒童獨特之處包括：
+  - 共享決策：兒童、父母與醫療照護者共同指導治療與生命末期照護
+  - 症狀管理可能持續數年，因此可能需要轉入成人緩和服務的過渡計畫
+  - 遊戲治療與非結構化遊戲可減少焦慮、憂鬱與攻擊行為
+  - 在孩子的生活中創造正常感有助於情緒健康
   - 病人的疼痛與焦慮常與父母的焦慮和生活品質相關，管理這些症狀對家庭有益
   - 兄弟姊妹也應提供心理支持
 
 ---
 
-## 健康公平（Health Equity）與緩和醫療
+## 健康公平與緩和醫療
 
-**健康公平** 是指每個人無論背景與社會因素如何，都應能平等實現其完整健康潛力。
+**健康公平**是指每個人無論背景與社會因素如何，都應能平等實現其完整健康潛力。
 
 不幸的是，實現這種公平仍是持續的問題。健康不公平的例子包括：由於種族、無家可歸、社會經濟地位等因素導致的初級與專科照護減少、預期壽命較低、更多可預防死亡。
 
-雖然 palliative care 是醫療保健的重要組成部分，並已證實可改善生活品質，但**緩和醫療的取得並不平等**。可能導致取得緩和醫療較差的情況包括：
+雖然緩和醫療是醫療保健的重要組成部分，並已證實可改善生活品質，但**緩和醫療的取得並不平等**。可能導致取得緩和醫療較差的情況包括：
 
 - 高齡
 - 種族
 - 未婚
 - 獨居
 - 非癌症診斷
-- 少數性別／性傾向
+- 少數性別/性傾向
 - 無家可歸
 - 低社會經濟地位
-- 居住在 long term care centre（LTC）
+- 居住在長期照護中心
 - 照顧者教育程度較低
 - 居住於偏遠地區
 - 存在身體或智能障礙
@@ -647,58 +635,54 @@ Palliative care 評估為全方位評估，涵蓋以下面向：
 
 ## 重要臨床試驗摘要
 
-### PALLIATIVE APPROACH TO CARE
+### 緩和醫療方法
 
-#### Early Palliative Care for Patients with Metastatic Non-Small-Cell Lung Cancer（NEJM 2010）
+#### 早期緩和醫療用於轉移性非小細胞肺癌患者（新英格蘭醫學雜誌 2010）
 
-**目的：** 探討在診斷轉移性非小細胞肺癌後早期引入早期 palliative care 對病人報告結果的影響
+**目的：** 探討在診斷轉移性非小細胞肺癌後早期引入早期緩和醫療對病人報告結果的影響
 
-**方法：** 322 位病人隨機分配至早期護理師引導的 palliative care 介入組（處理身體與心理社會需求）+ 標準腫瘤照護，對照組為常規腫瘤照護。主要結果包括生活品質、症狀強度與情緒。
+**方法：** 322位病人隨機分配至早期護理師引導的緩和醫療介入組（處理身體與心理社會需求）加標準腫瘤照護，對照組為常規腫瘤照護。
 
-**結果：** 早期 palliative care 組生活品質較佳、depression 症狀較少、且中位存活時間更長（11.6 個月 vs. 8.9 個月，P=0.02）。
+**結果：** 早期緩和醫療組生活品質較佳、憂鬱症狀較少、且中位存活時間更長（11.6個月 vs. 8.9個月）。
 
-**結論：** 早期 palliative care 可顯著改善生活品質與情緒。儘管干預組 EOL 照護較不積極，但存活時間更長。
+**結論：** 早期緩和醫療可顯著改善生活品質與情緒。
 
-#### Early Palliative Care for Patients With Advanced Cancer（Lancet 2014）
+#### 早期緩和醫療用於晚期癌症患者（刺絡針 2014）
 
-**目的：** 評估早期 palliative care 對晚期癌症病人的影響
+**目的：** 評估早期緩和醫療對晚期癌症病人的影響
 
-**方法：** 461 位晚期癌症且預後 6-24 個月的病人隨機分配至 palliative care 團隊 consultation 與追蹤組或標準癌症照護組。
+**結果：** 治療組在生活品質量表上改善，症狀嚴重度無顯著差異。
 
-**結果：** 治療組在 QUAL-E 量表上生活品質改善 +2.25 分，FAMCARE-P16 量表滿意度提高 3.79 分；症狀嚴重度無顯著差異。
+**結論：** 生活品質主要終點雖無顯著改變，但分數的改善值得進一步研究。
 
-**結論：** 生活品質主要終點雖無顯著改變，但 QUAL-E 與 FAMCARE-PI6 分數的改善值得進一步研究。
+#### ENABLE III（刺絡針腫瘤學 2015）
 
-#### ENABLE III（Lancet Oncology 2015）
+**目的：** 確定早期 vs. 延遲開始同時進行的緩和腫瘤照護對情緒、症狀影響、生活品質與1年存活率的影響
 
-**目的：** 確定早期 vs. 延遲開始 concurrent palliative oncology care 對情緒、症狀影響、生活品質與 1 年存活率的影響
+**結果：** 早期干預組1年存活率較高
 
-**方法：** 207 位晚期癌症病人隨機分組
+#### 氧氣與室內空氣緩解頑固性呼吸困難的效益比較（刺絡針 2010）
 
-**結果：** 早期干預組 1 年存活率較高；兩組在醫院天數、ICU 天數、急診就診及生命最後 14 天化療使用率相似。
+**目的：** 比較氧氣與室內空氣對不符合長期氧氣治療資格的病人的呼吸困難的療效
 
-#### Effect of Palliative Oxygen Versus Room Air in Relief of Breathlessness in Patients with Refractory Dyspnea（Lancet 2010）
+**結果：** 兩組症狀改善無顯著差異。
 
-**目的：** 比較氧氣與室內空氣對不符合長期氧氣治療資格的 life-limiting illness 病人呼吸困難的療效
+**結論：** 鼻導管給氧對頑固性呼吸困難的症狀緩解**並無優於室內空氣的額外效果**。
 
-**結果：** 氧氣組早晨呼吸困難改善 -0.9 分，室內空氣組改善 -0.7 分（P=0.554）；兩組副作用無差異。
+#### 在晚期、限制生命的疾病設定中停用Statin藥物的安全性與效益（ JAMA內科學 2015）
 
-**結論：** 鼻導管給氧對頑固性 dyspnea 的症狀緩解**並無優於室內空氣的額外效果**。
+**目的：** 評估在緩和醫療設定中停用statin藥物的安全性與臨床影響
 
-#### Safety and Benefit of Discontinuing Statin Therapy in the Setting of Advanced, Life-Limiting Illness（JAMA Internal Medicine 2015）
+**結果：** 停藥組生活品質較佳，心血管事件發生率相當。
 
-**目的：** 評估在 palliative care 設定中停用 statin 藥物的安全性與臨床影響
+**結論：** 停用statin藥物治療是安全的，且可能與生活品質改善及成本降低相關。
 
-**結果：** 停藥組與持續用藥組 60 天內死亡率無顯著差異（23.8% vs. 20.3%，P=0.36）；停藥組生活品質較佳（P=0.03），心血管事件發生率相當，平均節省 $716/病人。
+### 病人評估
 
-**結論：** 停用 statin 藥物治療是安全的，且可能與生活品質改善及成本降低相關。
-
-### PATIENT ASSESSMENT
-
-#### Extent and Determinants of Error in Doctors' Prognoses in Terminally Ill Patients（BMJ 2000）
+#### 醫師對末期病人預後估計的錯誤程度與決定因素（英國醫學雜誌 2000）
 
 **目的：** 描述醫師對末期疾病病人的預後準確性並評估其決定因素
 
-**結果：** 中位存活時間為 24 天；僅 20% 預測準確（實際存活的 33% 範圍內）；63% 過度樂觀，17% 過度悲觀；整體醫師高估存活時間達 5.3 倍。
+**結果：** 僅20%預測準確；63%過度樂觀；整體醫師高估存活時間達5.3倍。
 
-**結論：** 醫師在估計末期病人預後時有系統性樂觀傾向，此現象可能影響病人 EOL 照護品質。
+**結論：** 醫師在估計末期病人預後時有系統性樂觀傾向。
