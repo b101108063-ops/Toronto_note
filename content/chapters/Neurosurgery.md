@@ -882,27 +882,15 @@ Grade 3: high-risk of recurrence
 Recommendations for Management of Meningiomas
 Lancet Oncol 2016179} 2383-391
 
-European Association of Neuro-Oncology assessed
-avaiable tecture, rated scientific evidence, and
-saded recommendation levels
-Keyrecommendatons:
+歐洲神經腫瘤學會（European Association of Neuro-Oncology）評估了現有證據、對科學證據進行分級，並提出以下關鍵建議：
 
-Fst standard therapyis gas ota surgical
-resection inching ined dura)
+**第一線標準治療**：顯微鏡下手術切除腫瘤並保留硬膜。
 
-Aernative treatmentsincude radiosurgery for
-small tumours and fractionated XRTinarge!
-previous rated tumours
+**替代治療**：包括立體定位放射手術（適用於小腫瘤）以及傳統分割放射治療（適用於較大或先前已接受放射治療的腫瘤）。
 
-New treatment concepts combining surgery and
-radisurgeyractinated XRT to treat complete
-tumour volume are being developed
+**新治療概念**：結合手術與立體定位放射手術/分割放射治療以涵蓋整個腫瘤體積的治疗方式正在發展中。
 
-though pharmacologicltreatmentsaestil
-
-agents are candidates for future pharmacological
-approaches to treat refractory meningioma o
-WHO grades
+儘管藥物治療目前療效有限，但未來可能開發候選藥物用於治療難治性腦膜瘤（依 WHO 分級）。
 
 Progressive unilateral or asymmetrical
 sensorineural hearing loss = vestibular
